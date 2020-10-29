@@ -29,6 +29,6 @@ How to know what the reality truly need? It's about examining our behaviors, way
     - It's funny to see a [[coaching metaphor]] about the way of [[living without causing harm]] that I used to use before reappear again. Everyone have a hard time following their samskaras and cause them to live a life that make them smaller instead of expand themselves. [[self expanding]]
     - I still have a tendency to give advices though I'm not sure that it will necessary or not. The reason is because I have the [[need for perfect]]. And this need is to serve myself, not the person in front of me. [[perfect]] I want to let go this need for perfect, and embrace [[trust the process]] instead, because no one can plan their future, they grow continuously through experiences and new awareness.
 - I felt so good this tonight, just feel so relax and ease inside of me. Because I really can feel that my path is truly [[on the right track]]. There are still many things that I haven't cleaned yet, but they are reducing day by day, and I become more free and even more expand through that process.
-- 
+- I noticed that I feel like I'm doing wrong things by using an unknown source to help me buy products. The reason is it makes me to save money. I felt that it would be okay if I do it temporarily, but in the long run, I will want to support the authors if I earn so much from them. I will pay it backwards truthfully, and in the long run, I will try to pay it forward, and let go my [[attachment with money]]
 - 
 - 
