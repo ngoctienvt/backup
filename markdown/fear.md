@@ -1,0 +1,6 @@
+- [[fear of missing out]]
+- [[fear of big challenges]]
+- [[fear of unknown]]
+- [[fear of being misunderstood]]
+- [[fear of being controlled]]
+- [[fear of embarrassment]]

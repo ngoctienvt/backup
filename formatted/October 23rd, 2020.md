@@ -1,0 +1,43 @@
+- tag system need to be universal and not depend too much on type of the content, but depend on something that content-independent instead
+    - tracking life-cycle of knowledge?
+    - The big process
+- [levels of inner work](<levels of inner work.md>) is my being to have the ability to take the driver's seat instead of letting the ego drive the way.
+- I feel so fear when my graph becomes a mess and loss a lot of data. I realized the truth that if what I have is already inside of me, and the external is just support me, then I still can rebuild my own stuff and even make them become better. The whole point is inside-out. [fear of loss aversion](<fear of loss aversion.md>) => being mode - bottom-up
+- The lesson to use logseq here is never let the system sync many times with multiple pages open.
+- It's very important for me to relax to fully [integration activtity](<integration activtity.md>) what experiences I have, because it brought me to a higher level comparing to what I'm doing now, and it's far more effective than trying to think to solve the situation.
+    - ### [being mode](<being mode.md>) is far more effective than [focus mode](<focus mode.md>)
+    - ### [focus mode](<focus mode.md>) only effective for what is clear and no need to think too much, while [being mode](<being mode.md>) is necessary to create a higher-self and generate wisdom.
+- While learning from external sources will provide input, I need the [integration activtity](<integration activtity.md>) to transfer these input to become my knowledge. So it's not separation between external resources and internal resources, I grain the gold from the dust in both of them through integration.
+- I felt that I'm focus on the wrong thing. When building [human development process](<human development process.md>), I'm focusing on the process and what would I do in the process, but this is not the ultimate way. Because the process will vary depends on the situation, the people, the content... So it still create complexity.
+    - Instead, I want to build my process on something that every human being share, and for this, I need to bring the support from coaching and spirituality.
+    - Something on my mind now are:
+        - from spirituality
+        - the bottom-up that focus on the now and integration
+        - the fact that life has no meaning unless the meaning that we give to it
+        - free myself first then interact with life
+        - soul evolution help me to go higher than what I'm working on
+        - from coaching
+        - the end goal - meaningful goal that focus on coaching the person instead of coaching the problems - the focus is person
+        - focus on now and closing the gap
+    - What would be helpful to become the core principles for my [human development process](<human development process.md>)
+        - [unattachment centering](<unattachment centering.md>) - I'm the one who doing the work
+        - progressive approach - focus on now and trust the process
+            - process-oriented
+        - universal process - [truth compass](<truth compass.md>)
+        - personal development oriented - [integration activtity](<integration activtity.md>)
+        - working at the root - the highest level that possible
+- I felt much clearer now, though they are still a mess because it's not easy to merge these things, the whole point is for something new to emerge, there need to be the [integration activtity](<integration activtity.md>) happens first. So this process will take time.
+- I still feel that I'm too careful and not let myself open fully yet, still have many fear, try to control at least in some way. Not fully let the process happens itself and spear the responsibilities as well as capacities like chị Dung.[openness](<openness.md>)
+    - My true [openness](<openness.md>) and [trust the process](<trust the process.md>) is not deny my ability for sustain able development and theory go before the practices. It's [the middle way](<the middle way.md>) that show in the [progressive approach](<progressive approach.md>).
+    - I'm kind of people who value mainly on focusing on the thinking instead of physical or immediate work. Though I still can do them in emergency moment, most of the time I will work to develop the long-term answer instead.
+- It feels so much good that I unconsciously follow what I think is good instead of building on [truth compass](<truth compass.md>). The fact that I still follow my mind and give too much power for it makes me work ineffective.
+- logseq is just where I put my inner work to store it out. It's not where the work actually happens. It supports me, but the true work is the [integration activtity](<integration activtity.md>) work that happens inside of me. This is also the most effective work. [effective](<effective.md>)
+- I'm not at a stage that ready for producing complement products yet. I'm still on a stage that experimenting and integrating inside of me yet. I need to do this inner work for a period first, then I will become more ready and natural to create results.[inner work](<inner work.md>) [experiment](<experiment.md>)
+    - It's better to work with a testing and complementing mindset so that there is less pressure on me.
+    - A shift from let samskaras run life to take back driver's seat
+    - If I want to go with the flow of life, I must be the one who surrender myself to it, not surrender to my samskaras. [go with the flow](<go with the flow.md>)
+- [condensing process](<condensing process.md>) there will be different levels of condensing
+    - core ideas / concepts
+    - structures
+    - summarization
+    - self-comment

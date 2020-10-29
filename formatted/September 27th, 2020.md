@@ -1,0 +1,15 @@
+- Today, I felt new things inside me start to emerge and change my way of operation in a behavior way that shifting myself to focus more on more. The shift from external to internal become much easier and natural.
+- My [physical body](<physical body.md>) also started to become more and more need to take care a little bit when I started to free myself out of what tethered me.
+- Next week my focus will be:
+    - [x] Working with samskaras
+    - [x] Working with [natural way of living life](<natural way of living life.md>) concept
+    - [x] Working with the way I want to support the evolution process of other souls with an [unattachment](<unattachment.md>) attitude.
+    - [x] Working with [generated language](<generated language.md>)
+- I just had a [fear](<fear.md>) about the destruction of my ipad.
+- I noticed that I want to improve my [voice](<voice.md>) and in order to do this effectively, I want to able to listen to my [true voice](<true voice.md>). 
+    - The method that I find currently is using two thick boards to cover my ears. I will try it and then find how I can improve this because I feel that I need to use physical energy to do it. [way to hear self-voice](<way to hear self-voice.md>)
+    - The reason I want to improve my voice is because I want to learn to use my physical body in a [helpful manner](<helpful manner.md>) so that I can bring more positive experience and create positive impact to other souls. [impactful being](<impactful being.md>)
+- I also noticed that I used to use [bottom-up evolution](<bottom-up evolution.md>) and because of this, I'm not comfortable or effectively use my [powerful questions](<powerful questions.md>) in a focused way when I need to use [top-down boundary](<top-down boundary.md>) to support clients get their mind to focus in their specific concern. I want to learn to use [top-down boundary](<top-down boundary.md>).
+- I also feel the disturbance when hearing Ha complain about the door and the bell. I feel guilty and like I am the one needs to responsible for it and it makes me feel that's my [fault](<fault.md>). I'm unconsciously attaching myself to it and make it personal for me, instead of free myself and just learn from the experience. [emotions](<emotions.md>) [spiritual growth](<spiritual growth.md>)
+- I noticed that I still have a lot of attachments to the tools that make me feel good like iPad, television, house, physical things that I need to pay a lot of money to have. [unattachment](<unattachment.md>) [attachment](<attachment.md>) [possession](<possession.md>) [money](<money.md>) 
+- When watching GAGA, I realized that I have a [moment](<moment.md>) that the song that I heard went directly to myself and get past the inner world that I built inside. This experience makes me really feel that the current moment has gone all the way in because there is a little hole for it leaks in before it got block by the things that I hold inside and stimulate them instead. [enlightenment](<enlightenment.md>)

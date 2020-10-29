@@ -1,0 +1,1 @@
+- Impactful life is a life that living every moments as most as possible

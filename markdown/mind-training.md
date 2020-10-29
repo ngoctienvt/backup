@@ -1,0 +1,4 @@
+- I want to split the big mind-training to some smaller courses
+    - [[journaling training]] a way for externalize thoughts process to clean and use our mind effectively
+    - [[learning training]] a way for learning anything deeply through the merging process
+    - [[creative training]] creating [[optimal conditions]] for emergence of new ideas and building the personal knowledge for content creation

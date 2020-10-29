@@ -1,0 +1,2 @@
+- The flow of life is not means its never have challenge, difficult, but just means it's the process and my job is to learn how to work in harmony with that process instead of try to control or change the process according to my preferences.
+- 

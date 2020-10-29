@@ -1,0 +1,4 @@
+- [[surrender]] is about [[letting go]] the part inside of us that are not [[living the truth]].
+- We are not willing to surrender because of our ignorance and the fact that we lost in the [[identification]]
+- [[Ignorance]] does not mean stupid, but means ignore the truth and busy to react.
+- [[living the truth]] is living what can't deny by the mind. When we identify with the mind, the best job it could do is work on its own data and own interpretation. But because what the mind can know is limited by our own experience, so it's not completely trusted worthy.

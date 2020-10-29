@@ -1,0 +1,25 @@
+- My body feel so heavy and too much stress that I feel not really comfortable and avoid it by let myself distracted by reading novels, listening to music. 
+- I will work on releasing the need for attention and [[recognition]] next. It makes me still have the need to try, to prove, to tell more about myself.
+- My [[coaching schedule]] now is:
+    - Today, Kỳ Anh,
+    - Next week, chị Nguyệt buổi 3, anh Kỳ Anh chemistry
+    - Next, Bảo Ngân, Kim Ngân, chị Hằng, Mỹ Linh
+    - So  I will have about 2-4 coach sessions each week.
+- I want to less care about money and focus more on serving the world, but I want to attract the right person at the right time, so I will need to clear about my [[vision]] about my [[serving]] plan and develop the proper way to communicate with the world so it would help other people to have the suitable support needed. [[training method]] [[development process]]
+    - Spiritual teaching mainly for people who start to develop the real desire coming from consciousness, not the need of ego-consciousness.
+    - Coaching will be for people who still have too much attachments for personal needs.
+    - Mind-training for people who want to develop and use the intellectual part of the mind. It would also require spiritual teaching so that the process is completed.
+    - Coaching -> spiritual teaching -> mind-training would be my ideal process for supporting others.
+- [[weekly reflection]] 
+    - This week I have been focused on a few main [[samskaras]]: love, recognition, anger, and fear. My mind is becoming less and less stuffs when I write on Roam Research and they also started to condense in a much easier way.
+    - I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [[progressive approach]]
+        - The [[top of the ceiling]] is about all 4 broad elements of the world, the nature of each of them, and the relationship of them.
+        - The [[bottom of the floor]] is about the actual experience of each moment and the interaction of each moment with the 4 elements.
+        - The middle is the human life that happens in the world based on the tools that the conscious have: emotions, mind, body.
+    - I also feel that I want to work more on my body next week. [[physical body]] I will spend 2 days for doing a little bit of exercises that are Tuesday and Friday.
+    - My [[coaching]] method is still not clear about the [[being coaching]]. I also want to work more on this. This approach is mainly focused on [[soul evolution]], not achieving the need of the mind. Being coaching will work more on helping the soul to dis-identify and start to pay attention to what really happens. Being coaching will also use [[generated language]] that formulate based on truth instead of personal perception.
+        - To work in the middle of this method, I want to watch how other life coaches do so I can learn more. I will watch and merge with 1 coaching session of Dr. Cherie next week.
+- I noticed my [[judgment]] for people who are focusing on controlling the world to have what they want, to deal with the inner problem with outer solutions, and focus too much on solutions and think they are the truth.
+-  I also started to release my need for [[recognition]], to get recognition and attention from others, or to feel high about myself, my solutions, my possession. [[comparison]]
+- I feel so [[abundance appreciation]] to have the chance to learn the teaching of Michael Singer, my dear teacher, in this young age. I am better and better at dis-identify myself with my human part and easier to let things go, so that they can complete their jobs and I can enjoy the reality much easier.
+- Soul has the capacity to experience and that is what it means to be, learn from the experience. [[meaning of life]]

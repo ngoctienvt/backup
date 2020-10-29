@@ -1,0 +1,5 @@
+- Characteristics of atomic concept
+    - only about one thing 
+    - capture the entirety of that thing. [[entirety of an atomic concept]]
+    - densely connected
+- The fundamental building blocks of [[atomic concept]] are [[information blocks]]

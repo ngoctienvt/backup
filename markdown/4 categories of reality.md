@@ -1,0 +1,11 @@
+- [[Michael Singer]] Volume 3: The clarity of witness consciousness
+- There are 4 broad categories that we need to know
+    - [[the outside world]]
+    - [[the mind]]
+    - [[the heart]]
+    - [[the witness consciousness]]
+    - The earth has land, the ocean has water. There are animals live in land and water. 
+    - If we want to know every animal and every behavior of it, we will be lost in the details. If we get lost in detail, we will know nothing else in the universe. 
+- We need to know these things, but we just need to know
+    - They are exist
+    - What is the nature of them

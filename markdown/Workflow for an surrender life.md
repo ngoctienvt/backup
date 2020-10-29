@@ -1,0 +1,19 @@
+- My [[workflow]] will split into 3 main parts
+    - direction [[planning]] based on the the right intention and challenging [[constraint]] - 10%
+        - [[intention]]
+        - [[constraint]]
+    - [[executing]] - [[focus]] to execute the [[intention]] to reach the [[constraint]] - 80%
+    - [[managing]] - make sure the [[executing]] tasks are done in a [[effective]] way on daily basic - 10%
+        - [[time management]]
+        - [[energy management]]
+        - [[system management]]
+    - Metaphors
+        - The pilot
+        - The plane - executing the instructions of the pilot
+        - The engineer
+            - time-efficient
+            - fuel-efficient
+            - maintaining the system as a whole
+- The pillars for a good workflow
+    - Reduce the number of decision so let [[flow]] got trigger and reduce the need for using [[willpower]] [[using willpower effectively]]
+    - 

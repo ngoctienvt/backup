@@ -1,0 +1,16 @@
+- ## Inner work
+    - ### [[preparing resources]] - preparing the resources for learning
+    - ### Processing data - preparing high-value compressed information
+        - Notes
+            - progressive summary
+        - Thought journals
+            - key ideas summary
+    - ### Nurturing evergreen garden - nurturing personal compressing wisdom
+        - Integrating through meditation
+        - Deepen understanding through examples
+        - Cleaning the cluster
+            - information blocks
+            - atomic ideas
+- ## External expressions - directing the inner energy to serve the demand of reality
+    - ### Output - projects
+- ## An example that I want to use to learn to creating this process are [[journaling training]]

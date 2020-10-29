@@ -1,0 +1,36 @@
+- Last night I noticed that what I really means by [[true love]] is that I connect with the soul of my soulmate. Two consciousness connects to each other and I share to them my inner energy that I have. 
+    - I don't let my body, my mind, my urge controlling me, and take the right to fully manage them so that I won't need anything from her. [[unattachment centering]]
+    - I start to establish a connection between myself and her consciousness instead of her body, her behavior, her mind. [[soul connection]]
+    - I maintain that connection so that we can experience each other soul and go deep to really understand each soul, instead just the things that the souls have [[deep connection]] and share the inner beauty that we got through spiritual practices. [[sharing]]
+    - So from that deep connection, we have the full power to manage our lower-self and if we want to have more connections through our body, this is just a way that we experience things together while maintain that [[deep connection]]
+    - In this love, the body and sexual activities are just the means to share, to connect with each other, not the way to handle sexual desire. We handle sexual desire by ourselves. [[sexual desire]]
+    - Summary:
+        - Handle our own sexual desire so we need nothing from that person and also open our heart to fulfill it with love energy.
+        - Learn to connect with their trueself instead of what they identified with.
+        - Maintain that connection and share the love energy together.
+- I realized that we tend to judge our experience and because of that [[judgment]], we couldn't let ourselves accept and merge with it so that it can let go. But there is nothing wrong with experiences because it just happens for us to see it, and we can't control the fact that we have the chance to experience it, we can only work with the experiences that already came in. [[experiences]].
+
+However, most of the time because of our judgment, that's why when I coach for other people, I help them to realize that they don't do anything wrong and because of this realization, they let themselves to accept the experience so that they can handle and move on with it. [[coaching]] 
+- [[mind-training]] In order to create writings and articles that clear and meaningful, the work to create this creation is not completed by 1 day, but an accumulated process that happens over time.
+    - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [[workflow]] that feels natural and fun.
+    - The tasks will be
+        - [[accumulate scattering thoughts process]] to gather pop-up random ideas to different related topics or new ideas
+        - [[condensing process]] to carefully think, organize, condense ideas to deepen understanding
+        - [[creation process]] to put condense thoughts and ideas to become a publish paper or articles that helpful
+        - Each of these steps require real work
+            - [[accumulate scattering thoughts process]] requires continuously write down random ideas, thoughts, new understanding and organize them to existing ideas or new ideas over time
+            - [[condensing process]] requires putting time to condense the knowledge deeply so it becomes the materials for higher understanding
+            - [[creation process]] requires the connection with reality problems and what we want to achieve based on this creation to support the world. It requires us to narrow our focus, think deeply, completing ideas, fill in what's missing..
+            - So actually the [[focus]] will be from broad to narrow and narrower while it still can be open any time because we still can flexible to do in each process. Each process is supporting each other and has different roles. 
+
+And if I got stuck in 1 process, I can always come back to the first level so that I will be able to prepare the materials needed for later work without feeling distressed and overwhelming. The idea here is we create a [[natural way of living life]] way to [[closing the gap]] instead of trying to reach too high and feel helplessness.
+        - Some of the steps will require ourselves to actually put effort, focus and intention to use our mind, our consciousness in a certain way but some will need the support of an external system that we can trust on to help us do the things that our focus and our mind are not good at. [[support system]]
+- I found that I want to shift my way of living now is kind of laid back and passive to a way of living more energetic and active. I start to realize my highest [[intention]] is to evolve myself and make progress forward every day on the time on earth. [[progressive approach]] [[closing the gap]] [[active]]
+- Today is a day that I tend to shift myself a little bit more to a conscious and active living style. I start to wake myself up easier over time and know what I need to do when I wake up, instead of don't know what need to do and fall asleep again. [[being state]] [[natural way of living life]]
+-  I have been working as a life coach for these 2 years, but I still feel that most of my time is not about doing the job but rather I spent most of my time researching and understanding things that I interested in. I still feel I have a high interest on understand how life really works and interacts with each other. [[interests]] [[living from the place of surrender]]
+    - The reason why I like to write things on Facebook or chat with others is to put down the thoughts inside my head and to get recognition from other people and sometimes hope that it will inspire or make someone interested in my ideas. [[recognition]] [[externalization]] [[inspiration]] But now I could learn to let go of my need for attention and recognition by simply writing everything in Roam Research and publish what I want to share with the world when it's ready. 
+- Tomorrow I will have a coaching session and a time to facilitate learning the spiritual process of other people. In between, I will want to work on the new [[living from the place of surrender]] of myself so that I can start to bring myself to that direction. I will also not play games tomorrow so I can have a break to neutralize my [[addictions]] to gaming.
+- I want to sleep a bit early each night so that I will ready for the morning and also put myself in a better [[optimal conditions]] because I know when I slept I still not fully recharge but still work on my past [[samskaras]]. I also want to be able to let myself [[surrender]] naturally in my dream as well so that instead of involving with the dream. I'm simply a witness and have the willingness to let them go.
+- [[Book - How to take smart notes]] is a great book that helps me to deeper working on [[accumulate scattering thoughts process]] and [[condensing and generative process]] to use the [[human mind]] in an effective way so that we could bring out the result that our [[intellectual mind]] could deliver to this beautiful reality.
+- I felt that I'm too lazy to go out to make a VCB atm so I can use my master card in an [[convenient]] way. I would need to address the convenient agenda of myself as it sometimes helps me to organize myself in a simple way but sometimes hinder me to handle to work in a big picture. 
+

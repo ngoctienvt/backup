@@ -1,0 +1,116 @@
+- I felt that I have many thoughts inside my head. I noticed that because I hold the [personal standards](<personal standards.md>) and take [personal responsibilities](<personal responsibilities.md>) for how things should be, so that I could feel good and this actual make me can't simply stand back and let things happen, and also truly honor that everything is always good and don't good because of me, but 99.99% they are good because of itself. I have very little actual influence on them.
+- My best job would be simply stand back, relax, and honor the always changing moments in its own direction without any [personal standards](<personal standards.md>) at first. If there is anything I could do, the most important thing is support them to have their own development instead of forcing them to my direction. The starting point is honouring and accepting. 
+- My today focus will be:
+    - letting go [personal standards](<personal standards.md>)
+    - formulating [entirety of an atomic concept](<entirety of an atomic concept.md>) with real application
+        - For this to be complete, I need to be clear about the [organic self-generated structure](<organic self-generated structure.md>) of Roam Research so that I could be free to do anything without the fear of [inconvenient](<inconvenient.md>) to fix things.
+        - I would like to develop a established [trust the process](<trust the process.md>) attitude, and everything is on their process of better, and even learn to have an [abundance appreciation](<abundance appreciation.md>) for activities that I feel uncomfortable and waste of time. 
+        - Some keywords need to be clear
+            - [top-down boundary](<top-down boundary.md>)
+                - My work about this is there need to be a boundary for each [atomic concept](<atomic concept.md>) so that I would know what's appropriate and what's not appropriate to add to a node. So that I can somehow format the way I see them and not feel disorganized inside my head.
+                - The boundary need to be clear about what is okay to be keep open and what is not.
+                    - What is okay?
+                        - add-on information - are information that will be accumulated and condensed and restructred if it started to excess number 5.
+                        - [direct-related connections](<direct-related connections.md>) are the connection that directly relate to its [atomic concept](<atomic concept.md>). The [direct-related connections](<direct-related connections.md>) can also become the [atomic concept](<atomic concept.md>) of other smaller connections
+                            - The highest atomic thing would be me. [trueself](<trueself.md>) Anything else is just my relationship with them.
+                        - Limited direct connection - temporary maximum 5.
+                            - When there are more than 5 connections, it's a good time to condense these things and organize them in a hierarchy way. So that's making sure there is only 5 [direct-related connections](<direct-related connections.md>) for the [atomic concept](<atomic concept.md>).
+                    - What is not okay?
+                        - Too many direct connections
+                        - Try to link to different context - should be focus on 1 thing only
+            - [organic self-generated structure](<organic self-generated structure.md>) [support system](<support system.md>)
+                - The first most important thing for me is realizing that I'm not depending on the structure. I'm putting everything on myself, and if I'm loss anything, I still have myself. [independent competency](<independent competency.md>)
+
+The only thing that will never change and will never lose is me - my witness conscious - my unattachment awareness [trueself](<trueself.md>). This will be the only thing that I don't need to attach with and still always have. And no one can take my awareness out of me.
+                - Then there will be something that I will count on to support on me in my journey on earth like body, mind, and heart.
+                - There will be things that I will count on to support my body, mind and heart.
+                    - Roam Research is a support tool 
+                        - for my mind to support its memory and extract memory tasks
+                        - for myself to work with clear instead of cluster information, with true instead of making information from my mind
+            - [contextual usages](<contextual usages.md>)
+    - learning to [unattachment centering](<unattachment centering.md>)
+- When meditation, I noticed that there is an important competency that my soul need to develop. It is ability to withdraw all of my attachment or connection with things that are not me. And I can connect with them as I want, not as they caught my attention. The name for this competency need to be display the capacity to fully unattached and ability to connect as I want.  [trueself competency](<trueself competency.md>)
+    - For the first capacity, it would be somehow about the state that I'm able to fully come back to myself. So it would be something related to the ability to centering. [unattachment centering](<unattachment centering.md>) [unattachment centering](<unattachment centering.md>) would be the temporary name for this competency.
+    - The second part is about ability to connect as a choice, not as it caught my awareness. This is the opposite of [distraction](<distraction.md>), this is about ability to choose the point of focus. [intentional focus](<intentional focus.md>) would be the temporary name for this.
+- The path to come back to [trueself](<trueself.md>) is not easy because of all the clustering thoughts, emotions, and the identification with these things. So even though ultimately, it's about clearing these to reveal the trueself, the process will need to be start with many layers that the self is hangout with and comeback slowly by learning to detach with them and let go of them. [being coaching's metaphor](<being coaching's metaphor.md>)
+    - Just like then sun and its relationship with sunlight, the sunlight is hangout on the earth, and in order to comeback to the sun, it will need to learn to leave the earth and find its way back slowly. 
+    - There will be many levels that being coaching need to work with to support the client's finally able to come back to their trueself. [levels of coaching](<levels of coaching.md>)
+        - coaching the problem
+        - coaching the person
+        - coaching the being
+- What we all need is inside, so it's not what we need is wrong, it's about the way that we use to achieve it is wrong. [method](<method.md>) 
+- [ ] Coaching [Nguyễn Thúy Hằng](<Nguyễn Thúy Hằng.md>) [October 29th, 2020](<October 29th, 2020.md>)
+- [x] Coaching [Phạm Nguyệt](<Phạm Nguyệt.md>) [October 28th, 2020](<October 28th, 2020.md>)
+- [ ] Coaching [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) buổi 1 [November 1st, 2020](<November 1st, 2020.md>)
+- [ ] Coaching [Nguyễn Bảo Ngân](<Nguyễn Bảo Ngân.md>) [October 30th, 2020](<October 30th, 2020.md>)
+- I felt so [disturbed](<disturbed.md>) today about I have to responsible for other people about their stuff, especially what happens on repeat. I noticed that at that time, my reaction to the world is not based on I'm being myself, but I'm being my [samskaras](<samskaras.md>)
+- The most important [coaching skills](<coaching skills.md>) is [deep listening](<deep listening.md>). It focuses us to understand the clients [as a whole](<as a whole.md>) instead of let our mind making assumptions and fill in the blank for us. 
+    - And [deep listening](<deep listening.md>) need to help us to [[meet people
+where they are]] through the [coaching reflection](<coaching reflection.md>) skills. When reflection, we could check whether we and client are [on the same boat](<on the same boat.md>) or not.
+- My [coaching questions](<coaching questions.md>) also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [deep listening](<deep listening.md>).
+- I will focus to work on condensing the [bottom-up evolution](<bottom-up evolution.md>) next as a way to practice and build up my way to condense knowledge.
+- [The relationship of approach, method, and technique](<The relationship of approach, method, and technique.md>)
+    - [end goals](<end goals.md>)
+        - An [approach](<approach.md>) is a way to achieve the goal, and it needs to be based on something that efficient and useful.  [approach](<approach.md>) 
+            - My approach would means that the preferred way to achieve something, and it needs to be efficient and useful and focus on the important thing or end goals. So the above of level of approach would be the end goal. [credible approach](<credible approach.md>)
+        - [method](<method.md>) is the level at which theory is put into practice and at which choices are made about the particular skills to be taught, the content to be taught, and the order in which the content will be presented;
+        - [techniques](<techniques.md>) is the level at which classroom procedures are described.
+        - APPROACH - somebody’s way of solving the issue/problem
+            - METHOD — a well established procedures of solving issue/problem
+                - TECHNIQUE—one of ways of solving issue/problem within the same method.
+    - Examples
+        - Earth is (roughly) a sphere, spinning in outer space. If you were from another planet, from which direction could you APPROACH the Earth? Theoretically, you could approach from any and every direction. Logistics make it necessary to choose one specific direction. Typically, you will choose an approach that is the most efficient and useful. This may turn out to be the wrong approach, in the end — or it may be the right one. There is no way to tell until you actually land on Earth.
+            - The end goal here is to land on the earth. 
+            - The approach here could be
+                - slowly reach to the earth
+                - progressively reach to the earth
+                - prepare and then reach to the earth in 1 second
+        - What method will you employ? That depends on your approach. You may use a spaceship. That gives you maximum maneuverability. You can change your mind as to the approach until the last moment. You may use a rocket, assuming that all you want to do is to get something or someone on Earth without any plan to get the equipment and/or personnel off the Earth. The direction from which you are approaching will dictate your choice, to a large extent. You may see certain things very clearly from a particular angle of approach. On the other hand, you will miss many things also.
+            - Method will depend on the approach
+                - If I want to approach slow and steady, I could find a spaceship
+                - If I want to approach fast, I could find a rocket.
+                - If I want to approach in 1 second, I could spend time to create a teleportation machine.
+        - Technique can be the most and/or the least important thing. You may use stealth. You may use speed. You may engage with people — or not. You may use some combination of techniques.
+            - Technique now will be arrive from the limit of the method
+                - If I use spaceship, I could use technique to maneuver it
+                - If I use a rocket, I need to have technique to land safely.
+        - In the end, method and technique are simply “things” or means to an end. These things will largely depend on your approach. And your approach will depend on you.
+- My way to approach life will include [living from the place of surrender](<living from the place of surrender.md>) and [progressive approach](<progressive approach.md>).
+- [progressive approach](<progressive approach.md>) will be the fundamental for the way I approach life generally, as well as could be a way to approach smaller goal as well.
+- thoughts -> concept -> deepen understand to concept 
+    - microcosmic and macrocosmic
+- [contextual usages](<contextual usages.md>) are a way to interpret or utilize knowledge
+- [forms of inference](<forms of inference.md>)
+    - ![Hình ảnh](https://pbs.twimg.com/media/ElMpkpeWoAE5GBd?format=png&name=small)
+    - ![Hình ảnh](https://pbs.twimg.com/media/ElMpy6iXYAQ9nES?format=jpg&name=4096x4096)
+    - 
+- [my quotes](<my quotes.md>) If we don't evolve enough to handle our heart, we can't handle life. Because life will always touch our heart.
+- My understanding for [approach](<approach.md>) provide the way I want to achieve my [end goals](<end goals.md>). If I want to go from HCM to HN, I want to have a [progressive approach](<progressive approach.md>) that helped me to reach my destination in an effortless and natural way.
+    - [method](<method.md>) are the way that I actual use based on the context provided by [approach](<approach.md>). For above example, I can go by foot with a map. Or I can go by any other vehicles. I just need to develop the process to make sure I will reach my goal.
+        - [techniques](<techniques.md>) are the way that I can improve for myself to execute the [method](<method.md>) in a better way. Like I develop a technique to go by foot without feel tired.
+        - [activities](<activities.md>) are the action that I do to ensure I help me reach my goal, and it is develop based on the method.
+    - [principle](<principle.md>) are the rules that act like a filter to help me develop my [method](<method.md>), techniques and activities.
+- [ ] building [progressive approach](<progressive approach.md>) through [living from the place of surrender](<living from the place of surrender.md>) example [October 29th, 2020](<October 29th, 2020.md>)
+    - The approach I want to support myself to reach this way of living is [progressive approach](<progressive approach.md>). 
+        - progressive approach is based on the following criterion
+            - natural development
+            - process-oriented or continuous work in progress
+        - The method to implement progressive approach are
+            - bottom-up trueself development
+                - process of bottom-up development
+                    - accumulating experiences
+                        - activities
+                            - selecting resources
+                            - collecting information
+                            - tagging information
+                    - integrating experiences
+                    - adapting myself to the higher-self that emerge
+                    - repeat the process
+                - a support system to support the bottom-up evolution method
+                    - bottom-up personal knowledge through personal knowledge management system
+                    - bottom-up physical strength through routine yoga practices
+
+- Today I felt that I'm beginning to move more forward slowly, but it starts to roll and will become a [snowball](<snowball.md>) soon. It felt so [satisfied](<satisfied.md>) with the feeling of [moving forward](<moving forward.md>) non-stop.
+- [living from the place of surrender](<living from the place of surrender.md>) is a way of living that based on truth.
+- 
+- 

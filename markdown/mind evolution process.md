@@ -1,0 +1,9 @@
+- ![Head silhouette with gear brain evolution concept vector illustration. Face  profile with evolving gear mechanism brain, blue, orange dna molecule helix  and big sign evolution on tech background Stock Vector Image &](https://c8.alamy.com/comp/T3YD3A/head-silhouette-with-gear-brain-evolution-concept-vector-illustration-face-profile-with-evolving-gear-mechanism-brain-blue-orange-dna-molecule-helix-and-big-sign-evolution-on-tech-background-T3YD3A.jpg)
+- [[mind evolution process]] is a process to condense my scattered thoughts into higher quality thoughts, ideas, concepts, or level of thinking.
+- ### Metaphor for [[mind evolution process]] 
+    - A universe with stars inter-related
+    - A [[evergreen garden]] which develop slowly over time through the death of old materials and the born of new ideas 
+- [[mind evolution process]]:
+    - [[accumulate scattering thoughts process]]
+    - [[condensing process]]
+    - [[thought-generative process]]

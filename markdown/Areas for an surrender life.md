@@ -1,0 +1,3 @@
+- [[soul evolution]] to truly have an [[sustainable development]] 
+- [[enjoy the learning experience]] for what I'm [[interests]] as well as what life brought to me
+- [[serving the demand of reality]] to become the blessing of the world

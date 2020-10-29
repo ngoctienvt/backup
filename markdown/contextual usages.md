@@ -1,0 +1,2 @@
+- Depending on what I want based on the [[contextual usages]], I could use it to link my notes by [[contextual linking]].
+- 

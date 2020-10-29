@@ -1,0 +1,5 @@
+- [[conscientious dedication]]
+- [[conscious connections]]
+    - comfortable with [[unattachment]] and disconnection with everything
+- mainly connect myself with myself, not the temporary stuffs like body, thoughts, emotions, things that I own
+-  

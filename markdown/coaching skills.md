@@ -1,0 +1,17 @@
+- [[deep listening]] is the core of coaching, and most of other skills will mostly develop based on what we hear.
+    - meaning [[meet people
+where they are]]
+    - for deep listening happens, we need to build some [[optimal conditions]] for it
+        - undistracted presence
+        - deep trust and connection
+        - impersonal support
+    - how to check our deep listening? 
+        - [[coaching reflection]]
+        - [[coaching questions]] need to base on what we listen instead of just throw them in the air.
+            - the power of coaching questions based on how deep we are able to listen
+- 
+- [[coaching presence]]
+    - [[unattachment centering]]
+- [[deep listening]]
+    - [[hold the space]]
+    - [[empathetic understanding]]

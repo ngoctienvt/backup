@@ -1,0 +1,20 @@
+- banking
+    - VCB Chau Ngoc Tien 0721000531584
+    - Số thẻ Viettelpay (MB Bank) 9704 2292 7223 7467 
+    - {{encrypt:U2FsdGVkX1+zSxFUsQUvDONN1dBzhz/SoT1XbuCkvJY=}} [account](<account.md>) [mastercard](<mastercard.md>)
+- website account
+    - [blackhattorrent.com](http://blackhattorrent.com)  SDERTGFS446
+    - [grammarly](<grammarly.md>) account
+        - SILAESTRADA@my.lonestar.edu
+        - Hello123@ 
+    - Nord vpn 
+        - garret.howell19854@gmail.com
+        - GMoney85
+    - Effortless output in Roam account
+        - cociapps@gmail.com
+49bqC89YuKadqTN
+- utilities
+    - electric number PE04000012397
+    - modem wifi
+        - t008_gftth_trucntt291
+        - DSNW254d0688

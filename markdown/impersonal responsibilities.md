@@ -1,0 +1,9 @@
+- impersonal responsibilities for me really about 
+    - fully taking [[personal responsibilities]] for my [[soul evolution]] process based on 
+        - all the unhandled samskaras.
+        - all the happening experiences.
+    - [[living from the place of surrender]] that making [[impersonal choices]] to
+        - strect myself to [[meeting the demand of reality]]
+        - [[serving the demand of reality]] 
+        - based on the [[truth compass]]
+- 

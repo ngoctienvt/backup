@@ -1,0 +1,21 @@
+- Hades is a [[dungeon crawler]] game  in which you defy the god of the dead as you hack and slash your way out of the Underworld of Greek myth. 
+- My intention for playing this game is
+    - To reflect and complete [[progressive approach]] as [[a way to effective mastery]] in a smaller picture.
+    - To learn to enjoy the process and release the attachment for trying to be effective and rush through things. [[enjoy the process]]
+- In this game, I will have multiple pre-choices from
+    - weapons 
+        - range or melee
+        - fast or slow
+        - splash or narrow
+    - deepsakes can change in the middle of a game after a boss stage
+    - permanent upgrades from mirror
+- and tactic-choices when playing the dungeon from
+    - Daedalus hammers
+    - [[Boons]]
+    - Centaur heart
+        - getting more hp
+    - Pom of powers
+        - upgrading the power of boons but usually not much
+    - Charon's obol
+        - money to get new boons or utilities
+    - resources for long-term upgrades

@@ -1,0 +1,13 @@
+- learning to feel [[enough]] as everything is already are. 
+- [[abundance appreciation]] because
+    - existence to have chance for experiences
+    - the variety of experiences
+    - tools for interaction with life 
+        - physical body
+        - intellectual mind
+        - energy heart 
+- [[abundance appreciation]] is the transformation of [[fear of scarcity]], the focus on what's lacking instead of appreciating what already is
+- The characteristics of [[abundance appreciation]]
+    - honoring everything as a whole
+    - seeing the beauty on everything
+    - taking [[personal responsibilities]] for inner disturbances

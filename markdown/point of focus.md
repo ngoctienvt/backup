@@ -1,0 +1,7 @@
+- [[soul-guidance]] 
+- [[process-oriented]] focus on the intention and action, not the result
+- different stages
+    - [[knowledge development process]]
+    - [[single intention]]
+- the bridge between shakti, consciousness, and the world by cleaning the blockages
+    - [[natural way of living life]]

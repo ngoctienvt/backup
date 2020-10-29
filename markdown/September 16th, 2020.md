@@ -1,0 +1,83 @@
+- Recently I woke up quite fast, because I realized the thought or the dream that I identified with much easier, so I can choose to withdraw out of it. However, I still feel lazy to get out of my bed, because I still feel that I want to sleep a bit more, since my body got cold and I want to relax and release accumulated stress on my body first. [[accumulated stress]] [[habit-formed will]] [[wake up]]
+    - There is some conflicts here though. [[energy conflict]]
+        - If I woke up and brushed my teeth, it would release some frictions on my mouth, but I fear that if I fall asleep later, I will need to brush my teeth again. 
+        - If I do not wake up right now, I will quickly fall back to sleep, and my consciousness will withdraw the will out of my body, and fall back to identify with the dream. So I can't release my stress in the body and get lost in the samskaras again.
+        - Other important reason is there is no clear reason for why I should remain contact and awake. 'Cause I have no clear what I need to do with reality at the moment and there is no reason for me to awake. My [[inner state]] is not in high level, and it feels forceful to wake up completely. [[reward conflict]]
+            - One of the reason that I learnt from [[Michael Singer]] lately is to practice willpower. To nurture [[conscious will]] instead of let my will distracted, wasted and got trap into the object of consciousness. There is temporary good when let myself identify itself in a natural way with the objects.
+                - I won't loss [[spiritual energy]] or [[conscious energy]] in order to practice conscious will in short-term. However, I will loss energy in the long-term due to the energy constantly got pulled unconsciously when I identified with the object of consciousness. 
+                - Ideally, I want to be able to use my [[conscious will]] in a helpful way and in a [[natural way of living life]] way to put my conscious will into what I want so that it gives me the [[higher energy]] as a [[reward]], instead of compromise with [[short-term feel good energy]]  
+                - It's really interested here, I start to realize my [[higher intention]] is to raise myself higher continuously with a higher [[reward]] and long-term accumulate level of enjoyment as well. And not just that, I will less suffer, because the [[short-term feel good energy]] will give me a good inner state for a moment, but it will have [[diminishing returns]] in a long run and make me suffer more after that.
+- The mind works more in a condensing way. It likes when I trash my mind out, I start to pick up the [[keyword]] or the [[gold]] that got mined. And then, based on the keyword, the mind starts to create new connections from that keyword to a higher level of concept. [[intellectual mind]] [[mind-training]]
+    - The problem with the mind is it uses most of its [[willpower]] to hold the concept [[maintaining information process]] into the mind instead of using [[conscious energy]] for the [[screening process]] or [[thought-generative process]].
+- {{[[youtube]]: https://www.youtube.com/watch?v=m9gBJKzlAgM&ab_channel=Fin%27D}}
+    - A song with fun sound and melodies #funny #[[optimistic]] #music
+- Today todo: 
+    - {{[[DONE]]}} Editing video 2 continue 
+    - "{{{[[DONE]]}}}} Chemistry session với chị Hằng "
+    - {{[[TODO]]}} Working on [[mind evolution process]] with new ingredients [[thought-generative process]] as mentioned below
+- [[training]]
+    - [[training]] is kind of [[bottom-up evolution]] due to the concept that the trainer wants to teach the students and help them utilize it in reality. The limitation of this is students maybe get limit by the trainer approach instead of personalizing the knowledge into their own wisdom.
+        - It makes the students less independent thinking and may rely on the trainer or the teacher.
+        - It makes the student less creative and may develop the fear of being wrong, instead of [[learner mindset]].
+    - While practices or activities is kind of [[top-down boundary]] due to the accumulation of experience or self-learning that students gather for themselves in the process. This approach limitation is the students will not feel that they are able to do or learn much in the beginning.
+        - However, in the long-run, this approach will get [[accumulated interest]] and pay off later. 
+        - It also makes the students develop independent thinking and less rely on the trainer.
+        - It makes the students expand themselves fearlessly and develop [[learner mindset]], which is excellent.
+    - Ideally, I want to have a [[training method]] that can:
+        - Support long-term and accumulated interest development [[sustainable development]] [[productivity]]
+        - Low floor, high ceiling. Easy to start, but paid off well. [[productivity]]
+        - Develop [[independent competency]] in the students
+        - Don't limit the creative and unlimited expanding direction of clients, but encourage them instead. [[creative competency]]
+        - The development of students depends on their own [[intention]] and goals, and these things are not fixed but changed continuously. It means that they will not get stuck with the [[tools]] or [[trueself competency]], but actually utilize or develop the [[trueself competency]] non-stop so that they will reach their [[personal intention]]
+- [[coaching]] is also a [[bottom-up evolution]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]
+- {{[[youtube]]: https://www.youtube.com/watch?v=4th0wHJDK1g&list=RDm9gBJKzlAgM&index=4&ab_channel=Fin%27D}} #music #funny
+- We tend to forget that whether we want or not, everything is [[inter-related]]. There is never nothing that exist independently with others. If you stand and do nothing, you still actually do pressure to the ground, you still absorb O2 and release CO2, you still obstruct the sight of other people...
+    - This means that everything is always [[influence]] to each other in every moment. And it is always a [[two-way interaction]]. And things will better or worse depend on two main components:
+        - One is the characteristic of [[the source of influence]].
+        - Second is the ability to resist or embrace the influence by the [[receiver]].
+-  I feel that I want to let everyone start slowly forward instead of dumping them into a "big gap of understanding" in the beginning. My [[training method]] will break things down into different levels of practice because some [[practices]] are useful and [[effective]] but too [[high floor]] to begin with.
+    -  Low floor to start with so students can start to grasp the concept and build up their personal knowledge and [[wisdom of the world]].
+    - Through practices, they will start to condense their thoughts and competencies which will make reduce [[the gap of competencies]].
+    - When they are seem to be able to grasp the first level of concept and understanding, introducing them slowly to another higher concept.
+    - Note: the practices need to guide them to reach the milestones in the journey.
+        -  For example, the highest understanding is to merge with the moments and become one with it, so it becomes a part of you or makes you wholer.
+        - The [[milestone practices]] should be help them to start to be able to improve their understanding first, even not completely like merging. 
+        - The method also need to help them to [[disidentify]] with their mind slowly, as this is the [[essential requirement]] to be able to do the highest practices which is [[merging]].
+        - The [[milestone practices]] will [[include]]:
+            - Support them to gain progress in the reward of the journey.
+            - Support them to develop acquire [[essential requirement]] for next level of practice.
+            -  
+    - The importance of coaching is to help clients start to [[disidentify]] with their mind, so they can start to [[expand awareness]] to things that they ignore before, for instance, their [[emotions]], feelings, reactions, behavior, reality...
+        - Due to [[dis-identification]], they can start to improve their awareness and realize things that they never consider. Based on this awareness, they start to become [[wholer]] and [[gather truth]]. It will help their brain to begin to evoke new understanding, which they never considered before because their brain network just got expand and make new connections.
+        - In this expanding process, they will slowly learn and realize new things. The importance of a life coach here is the central network or the main goal of them maybe change continuously in this evoking process. This is why [[establishing coaching agreement]] need to happens throughout the coaching, not just beginning. 
+            - The [[goal]] may not change much, but become [[clearer]] and [[preciser]] than beginning when we can help them expand their awareness, go [[deeper]] into what they really want or concern and let them [[sacred place]] they need to pour their consciousness into their higher mind.
+- [[coaching reflection]] Today, I feel I coach with better [[inner state]], and I feel I'm much freer with results. I also feel that I can [[presence]] much better, though I still have a little bit of lack of [[inner container]] of positive [[emotional energy]] to [[hold the space]] with [[compassion]]. 
+    - I also have not too much clear about the goal of [[chemistry session]]. This leads me to stay on the point and expand it in [[open direction]] instead of [[narrow direction]] with clear intention.
+- [[mind-training]] [[Roam Research]] We can start to use roam to [[bottom-up]] thinking by simply
+    - Dumping everything in brain out at any moment
+    - Identify keyword, key concern, what I want to go deeper to create page and start to link it.
+        - When choosing keywords, you would want to use [[ideas]] that you want to go deeper, instead of general categories to find things like author. Basically you want use [[Roam Research]] to upgrade your level of thinking, instead of using it as a [[information organizer]]. 
+        - This will make you under-use the strength of [[Roam Research]] and your brain as well. If you really need a way to organize information, you can do this, but don't focus on it. 
+    - When I start to feel I gather enough thoughts about a topic and want to go deep in it. Just open it and start to review, condense thoughts.
+    - Another thing is [[Roam Research]] imitate the way our brain operating. [[mind-training]]
+        - "Our [[mind]] is not just like an PC, but actually looks like a universe with the power to create any star at any moments, based on the old stars. [[metaphor for human mind]] "
+            - Each star works as a central node to link with other star in the universe.
+            - They can shine more and become a bigger central node if there are more stars linked to it. Or they can become less active and become inactive into the subconscious mind.
+            - To create star and maintain the focus on it, it requires an enormous energy to hold the star and extract the connection around it. This energy is used for [[maintaining information process]] and [[extract and gather information process]] instead of using for [[condensing process]].
+            - It's like the universe has the ability to generate more and more advance and innovative stars, but it didn't has the energy needed, because the energy is used for other process. 
+            - Roam Research can store the information of each star floating in the universe. It is created with nearly no energy needed. It's also able to [[extract and gather information]] of the stars and those related to it quickly. The data also get maintain physically, so the mind or the inner universe no need energy to retain it.
+            - The universe now can use its energy mainly for [[condensing process]] and this is what speeds up the evolution of the universe to become a more advancing universe.
+            - Summary:
+                - Using external support to release the [[inner flow of energy]] for ineffective activities.
+                - The free up energy can now be use for creative and productive activities [[condensing process]]
+                - This speeds up the [[mind evolution process]]In this process, the [[inner blockages]] will get release or die off and release back the energy took to maintain it. It helps the soul evolve which is the one who behind th
+                - In this process, the [[inner blockages]] will get released or died off and release back the energy took to maintain it. It helps the soul evolve, which is the one behind the universe, and returns the energy to its source. So it brought back the power using for [[personal mind]] to return it to [[intellectual mind]]. [[spiritual growth]] [[spiritual energy]]
+- [[proper resting]] After coaching session, I feel too tired and I don't have a proper resting leads to unconscious resting process. One of the most effective way to rest for me now is to learn [[meditation]]. It helps me to really relax in an helpful way. Sometimes I listen to music in sleep, but this actually counter-intuitive. It gives me some energy because I feel interested in melodies and lyrics, but my mind can't relax when I'm sleep unconscious.
+    - Another reason is my [[physical energy]] also disappeared and expended too much.  I will need to improve my physical body so that it can retain stored energy effectively. I also need to release some counter-intuitive activities so I can [[recharge]] properly instead of simultaneously [[recharging]] and [[draining]] at the same time.
+- Whatever the [[consciousness]] [[identify]] it with, the consciousness acquires the characteristic of what its identified with. If you identify with fear, you feel fear. If you identify with the breath, you feel neutral. If you identify with love, you feel love. If consciousness identified itself, it will know the characteristic of itself [[enlightenment]] [[identification]].
+- I realized that I still not used to [[acknowledge]] and [[honor]] the [[effort]] of other people. I still have a tendency to focus on what's wrong instead of acknowledging, [[abundance appreciation]], and focus on what they did well.  [[acknowledgment]] [[helpful manner]]
+    - I would like to develop language that supportive of progression and development, instead of win-lose, right or wrong. [[generated language]]
+- In [[coaching]], we don't have hidden agenda or [[personal agenda]], but we will have [[coaching agenda]] like future-oriented, coach the person oriented.
+- Using [[Roam Research]] is like another way to [[Course - Living from the place of surrender]] because Roam Research also start with small things, follow with the flow and let things become itself. Our job is not to try, to force things happen but to let things happen. [[emerge]]
+- I feel that I still always worry when I’m about to meet my dentist, because every time I come to meet them, my physical body will go on another change and I will need to adopt to it. I still not be able to completely handle [[pain]] and honor the painful experience instead of fear it.
+- [[helpful manner]] or [[generated language]] also works by help the other person direct their attention back into themselves, instead of make them more and more distract and confuse by other thoughts or force them to understand things, cause learning is a slow process and it requires the willingness and openness for change. [[change management]] [[wisdom of the world]] [[self-reflection]]

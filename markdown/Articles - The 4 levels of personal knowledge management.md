@@ -1,0 +1,2 @@
+- Link: https://fortelabs.co/blog/the-4-levels-of-personal-knowledge-management/
+- 

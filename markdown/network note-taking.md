@@ -1,0 +1,10 @@
+- My usage of network note-taking will be based on [[progressive approach]] with the main approach is [[bottom-up evolution]].
+- My [[contextual usages]] for [[network note-taking]] are
+    - easy to search related-information, topics 
+    - save and load my state of work
+    - accumulated thoughts to later 
+        - patter-recognition 
+        - or deeper understanding
+    - making my mind clear and sharp in a structural but flexible way. [[organic self-generated structure]]
+        - This require a way to create a boundary for capturing [[entirety of an atomic concept]]
+        - While maintaining a flexible way to handle these [[atomic concept]] as well as [[evergreen notes]]

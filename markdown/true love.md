@@ -1,0 +1,14 @@
+- [[sharing experiences]]
+    - [[life experiences]] in true love is learning how to embrace the beauty experiences of life or universe together
+    - [[sexual experiences]] in true love is learning 
+        - how to [[establishing the seat of awareness]], 
+        - containing and sharing the [[inner love]]
+        - appreciate any parts of each people body as a gift for making the experiences instead of any parts that give strong stimulus
+- [[unconditional acceptance]]
+    - physical body
+    - emotions
+    - thoughts
+    - things that related to that person like families, clothes, habits, favorites,...
+- [[unattachment supporting]]
+    - challenging moments
+- 

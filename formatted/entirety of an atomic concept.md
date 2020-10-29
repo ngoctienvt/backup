@@ -1,0 +1,36 @@
+- [entirety of an atomic concept](<entirety of an atomic concept.md>) is
+    - capturing an [atomic concept](<atomic concept.md>) as much as possible
+    - packaging in a way that's easy to understand
+    - around maximum 5 direct connections to know when need to re-organize information
+- [How to capture entirety of an atomic concept?](<How to capture entirety of an atomic concept?.md>)
+    - Dividing information into different [types of information blocks](<types of information blocks.md>) to store [information blocks](<information blocks.md>)
+    - Creating a meaningful connection between these [information blocks](<information blocks.md>)
+- examples of capturing [entirety of an atomic concept](<entirety of an atomic concept.md>)
+    - [entirety of an atomic concept](<entirety of an atomic concept.md>) have the following characteristics
+        - definition
+
+# Backlinks
+## [October 25th, 2020](<October 25th, 2020.md>)
+- What is the [entirety of an atomic concept](<entirety of an atomic concept.md>)?
+
+## [October 26th, 2020](<October 26th, 2020.md>)
+- For [condensing process](<condensing process.md>), what I feel still lacking is what is the [entirety of an atomic concept](<entirety of an atomic concept.md>).
+
+- [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
+## [October 27th, 2020](<October 27th, 2020.md>)
+- formulating [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
+## [atomic concept](<atomic concept.md>)
+- capture the entirety of that thing. [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
+## [entirety of an atomic concept](<entirety of an atomic concept.md>)
+- [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
+- examples of capturing [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
+- [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
+## [network note-taking](<network note-taking.md>)
+- This require a way to create a boundary for capturing [entirety of an atomic concept](<entirety of an atomic concept.md>)
+

@@ -1,0 +1,14 @@
+
+# Backlinks
+## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+- I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>) to withdraw my attention to the [seat of consciousness](<seat of consciousness.md>).
+
+## [October 15th, 2020](<October 15th, 2020.md>)
+- When we are able to relax and fully lean back to the [seat of consciousness](<seat of consciousness.md>).
+
+## [October 7th, 2020](<October 7th, 2020.md>)
+- This afternoon I start to practice [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>) more by cleaning the inner samskaras continuously. I feel good about this and start to become easier to conscious. And start to release the habit-formed will to asleep into identification and pulled out of [seat of consciousness](<seat of consciousness.md>)
+
+## [sexual desire](<sexual desire.md>)
+- [sexual desire](<sexual desire.md>) is strong to pull the self out of the [seat of consciousness](<seat of consciousness.md>)
+

@@ -1,0 +1,22 @@
+- Working on cleaning and integrating samskaras 
+    - "[[samskaras]] to consciously work on the near-future:"
+        - "[[inconvenient of life flow]]"
+        - "[[anger]]"
+        - "[[sexual desire]]"
+        - "[[attachment]]"
+        - "[[fear]]"
+- Projects I am working on
+    - [[mind-training]]
+        - [[progressive approach]]
+            - {{[[TODO]]}} working with the ideas How to choose the context that I want my fleeting notes appear? and Do I need to clean the fleeting notes?
+                - [[contextual linking]] The context that I want to mention when I'm writing are
+                    - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [[bottom-up evolution]] to expand it
+                    - the topics that includes the smaller topics, so that when I'm accumulated the information enough, I could see the pattern of them to use [[top-down boundary]] to breakdown things
+                - [[clean up fleeting notes]]
+- Areas I am working on
+    - [[energy management]]
+    - [[coaching]]
+    - [[helpful manner]]
+- Resources I am learning from
+    - [[Book - How to take smart notes]]
+    - [[Book - Journey to the Center of the Earth]]

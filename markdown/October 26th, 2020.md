@@ -1,0 +1,41 @@
+- Last night I could felt that my heart started to truly open and also bring me to a higher place. That feeling is so good and I want to keep to feel it more. [[inner flow of energy]]
+- My [[physical body]] feel cold and I think it need to keep warm.
+- I have the urge to buy a webcam for my PC because of the [[need for convenient]]. But I don't want to follow that urge. I will buy if I use this more often. [[the middle way]]
+- [[inner flow of energy]]
+    - damn removal
+        - ### {{[[youtube]]: https://www.youtube.com/watch?v=yXI1P09Kkrw&ab_channel=WorldEconomicForum}}
+- Today focus:
+    - continue working on condensing process
+    - collecting and selecting data for personal knowledge management
+- pattern will emerge naturally when we work on things deep enough. [[pattern recognition]]
+- For [[condensing process]], what I feel still lacking is what is the [[entirety of an atomic concept]]. Because I don't have a clear picture of this yet. So it's making my condensing node seems like a mess and not able to become a flow process.
+- My point of view is that the big picture will include of many smaller things, but the way I break them down to capture in each node will define the way I organize my thoughts.
+- [[entirety of an atomic concept]] will be varies depend on what is the node. And there will be different characteristics that need to cover or add over time. I need to identify these characteristics first. Then learning how to combine them together to make sense an atomic concept. [[list of atomic concept's characteristics]] [[types of information blocks]]
+- [[Articles - A complete guide to tagging for personal knowledge management]]
+- [[Structured Writing]]
+    - Structured Writing is an integrated set of novel techniques, approaches, and principles:
+        - The information block as unit of information.
+        - The precise specification of different kinds of information blocks for specific purposes.
+        - A content analysis approach of information types that clusters different information blocks.
+        - An intermediate unit of structured writing, the information map, for easy and natural topic clustering.
+        - A comprehensive and systematic set of criteria for labeling blocks and maps.
+        - A specification of where graphics should be used and where text would be better.
+        - Easy-to-scan formats and templates.
+        - The incorporation of research results from many fields and the creation of an ongoing research program to keep the methodology current.
+- I'm on a stage that working on myself fully first. It started to have real results. [[unattachment centering]] is my highest priority at the moment. [[priority]]
+    - coaching
+    - spiritual
+    - mind-training
+    - I will handle them progressively through the [[integration activtity]] process
+- I'm on the process to find a hard boundary for my way of storing information blocks. And as well as finding what will be included inside of it. [[information blocks]]
+- In order to know [[types of information blocks]], I need to know what is the [[contextual usages]] that I want to have first.
+    - I also start to realize the usage of [[evergreen notes]] to concentrate my thinking into one concept. By this, I could develop different understand in different context and I could always create a bigger understanding by connecting these [[information blocks]].
+- [[coaching reflection]] Today coaching, I noticed that I'm not fully starting with where client at, but tend to start with where I'm at. This is not totally wrong, but it is ineffective because of my position should be supporter, not be a source of truth. [[meet people
+where they are]] 
+
+I felt that my coaching is not fully releasing myself and helping clients to shine their own way yet. I still feel I'm trying to do too much. 
+- I felt my uncomfortable feeling for my usual routine is disturbed [[need for convenient]]. I do not totally surrender myself to the [[flow of life]] yet.
+- [[Articles - Your Life Isn’t Defined By Your Choices, It’s Defined By Your Reactions]]
+- [[Articles - 7 Skills That Will Make You Emotionally Strong]]
+- [[bottom-line]] is a way to think about [[top-down boundary]] in a way that not feel negative and restricted.
+- 

@@ -1,0 +1,3 @@
+- To start a [[snowball]] effect, the first activity need to
+    - Easy to do
+    - Removing what pull us down and giving what raise us up

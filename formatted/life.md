@@ -1,0 +1,16 @@
+- [top-down boundary](<top-down boundary.md>) is the way of approach life by getting to the absolute truth or high truth and then working to evolve soul enough to be able to live that truth or to fully understand and live that truth. However, it's easy to get trap in the [intellectual gratification](<intellectual gratification.md>).
+    - research
+    - training
+    - [absolute truth of life](<absolute truth of life.md>) 
+    - [intention](<intention.md>) - [living the truth](<living the truth.md>)
+    - Jhana yoga
+- [bottom-up evolution](<bottom-up evolution.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>), the soul will easily get distracted and live in a sleep state or accept the lower life.
+    - meditation
+    - [coaching](<coaching.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up evolution](<bottom-up evolution.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down boundary](<top-down boundary.md>) and [bottom-up evolution](<bottom-up evolution.md>) that complement each other to help the soul evolve and live the truth as [natural way of living life](<natural way of living life.md>) as possible.
+    - This [progressive approach](<progressive approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>) process to evolve the soul.
+    - This [progressive approach](<progressive approach.md>) also have 3 important point:
+        - Intention
+        - Available or accumulate
+        - Now
+- [natural way of living life](<natural way of living life.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>) and the state of that soul, whether it is open enough to learn in the [coaching](<coaching.md>) way or requires shocking experience from [reality](<reality.md>), or need the [truth-oriented](<truth-oriented.md>) knowledge to process next.

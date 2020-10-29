@@ -1,0 +1,5 @@
+- [[need for recognition]]
+- [[need for being right]]
+- [[need for big pictures]]
+- [[need for win]]
+- 

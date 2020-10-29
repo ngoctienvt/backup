@@ -1,0 +1,2 @@
+- Link: https://www.nateliason.com/blog/start-a-blog
+- 

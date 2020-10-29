@@ -1,0 +1,19 @@
+- fleeting notes write on daily notes
+- condensing notes [living from the place of surrender](<living from the place of surrender.md>)
+    - general concept on its own topic
+    - sub-information on the nodes itself
+- publishing notes
+- 
+- What I want from the way I organize my personal knowledge are:
+    - I can check the definition and general understanding about a concept easily
+    - I can see the flow of information easily
+    - I can upgrade and edit the condensing notes easily
+    - Each note hold the information (outline) that in the same level, the detailer level is on the sub-notes
+- When to use block reference?
+    - Block reference is things that I can refer a block of content from other notes to this page. It mostly useful when I want to see them in the same place and don't have the intention to change the context in this place.
+        - Basically, the main notes still in its place and reference only for mention or display purpose only.
+
+# Backlinks
+## [Roam Research](<Roam Research.md>)
+- [Roam Research information organization rules](<Roam Research information organization rules.md>)
+

@@ -1,0 +1,6 @@
+- Handling and merging with any nature of things [[inner blockages]] and cleaning the inner samskaras to raise inner state [[cleaning and integrating process]]
+- Honoring the [[impersonal reality]]
+- Centering on the seat of awareness [[willpower]]
+- Sharing the inside joy with others [[sharing]]
+- Meeting the demand of reality or inner guidance [[serving]]
+- Helping other soulmates with [[conscious choice]] [[serving]]

@@ -1,0 +1,4 @@
+- [[spiritual growth]] happens through the [[cleaning and integrating process]] to merge with the [[samskaras]]. 
+    - The [[emotions]] are only the results of what the soul feels based on the interaction between [[samskaras]] and [[inner flow of energy]].
+- 
+- [[truth compass]]

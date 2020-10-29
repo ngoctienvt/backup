@@ -1,0 +1,279 @@
+- Link: https://learn.fortelabs.co/courses/1097377/lectures/23581618
+- ### Useful Resource for the course
+    - Public example Roam database
+        - https://roamresearch.com/#/app/RoamTutorial/
+    - Css
+        - h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Lato", sans-serif;
+    font-size: 3em;
+}
+div,
+textarea {
+    font-weight: 400;
+    color: [3F4758](<3F4758.md>);
+    font-size: 1.002em;
+}
+.roam-block-container {
+    max-width: 1200px;
+}
+
+.rm-block-text {
+    max-width: 1200px;
+}
+
+.rm-pomodoro {
+    background: [fff](<fff.md>) !important;
+    color: [ff4747](<ff4747.md>) !important;
+    padding: 4px 14px;
+    line-height: 2em;
+    font-weight: 600;
+    border-radius: 2em;
+    border: 1px solid [ff474770](<ff474770.md>);
+}
+
+.rm-pomodoro {
+    background: [ff6956](<ff6956.md>) !important;
+    color: [fff](<fff.md>) !important;
+    padding: 4px 14px;
+    line-height: 2em;
+    font-weight: 600;
+    border-radius: 2em;
+    border: 1px solid [ed5845](<ed5845.md>);
+}
+
+.rm-pomodoro::first-letter {
+  margin-right: 8px;
+}
+
+.rm-query {
+    border: 0.5px solid [e4e9ec](<e4e9ec.md>);
+    border-radius: 5px;
+    
+}
+
+.rm-query .rm-query-title {
+    background-color: [f7f8f8](<f7f8f8.md>);
+    padding: 0.8em;
+    color: [d1dbe2](<d1dbe2.md>);
+    font-size: 80%;
+}
+
+.rm-reference-main.rm-query-content {
+    padding: 0.8em;
+}
+
+.rm-reference-main .rm-reference-item .rm-block-text {
+    font-size: 90%;
+}
+
+.rm-ref-page-view-title span {
+    
+}
+
+.rm-reference-main .rm-reference-item .controls {
+    margin-left: -1em;
+}
+
+.rm-ref-page-view {
+    padding: 0.4em 0.2em;
+}
+
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {
+    padding: 6px;
+}
+
+div.flex-v-box.starred-pages-wrapper > div.flex-h-box > span {
+    font-size: 14px !important;
+    opacity: 80%;
+    letter-spacing: 0.04em;
+}
+
+div.roam-sidebar-container.noselect > div > div {
+    font-size: 14px !important;
+    letter-spacing: 0.03em;
+    
+}
+
+[block-input](<block-input.md>) {
+    background: white;
+}
+
+.roam-body [block-input](<block-input.md>) > span > div {
+    padding: 6px 24px;
+    background: white;
+}
+
+span.bp3-icon-small.bp3-icon-star {
+    display: none;
+    visibility: hidden;
+}
+
+.roam-block {
+    max-width: 850px;
+}
+
+[right-sidebar](<right-sidebar.md>) > div {
+    background-color: [f7f8fa](<f7f8fa.md>);
+    border-left: 1px solid [e9ebef](<e9ebef.md>);
+}
+.controls .simple-bullet-outer .simple-bullet-inner {
+    background-color: [e5e9f2](<e5e9f2.md>);
+}
+.block-border-left {
+    border-left: 1px solid [f3f6f7](<f3f6f7.md>);
+}
+.kanban-board {
+    background-color: [fff](<fff.md>);
+}
+.kanban-card {
+    background-color: white;
+    margin: 8px;
+    box-shadow: 0px 1px 2px [9eb3c0a8](<9eb3c0a8.md>);
+    padding: 10px;
+    border-radius: 2px;
+    line-height: 1.3em;
+}
+.kanban-title {
+    text-align: center;
+    font-weight: 600;
+    font-size: 1.1em;
+    opacity: 80%;
+    color: [485f6f](<485f6f.md>);
+    padding-top: 8px;
+    border-bottom: 1px solid [c5d1d8](<c5d1d8.md>);
+}
+.kanban-column {
+    background-color: [e7eff3](<e7eff3.md>);
+    margin: 0px 4px 0px 4px;
+    padding: 4px;
+    min-width: 200px;
+    border-radius: 3px;
+}
+
+
+.rm-block-ref::before {
+    content: '';
+    display: inline-block;
+    width: 2px;
+    border-radius: 40px;
+    height: 12px;
+    background: [ff913c](<ff913c.md>);
+    margin-right: 8px;
+}
+.rm-block-ref {
+    border-bottom: none;
+    font-size: 1em;
+    color: [515e70](<515e70.md>);
+}
+.rm-block-ref:hover {
+    background: none;
+    cursor: pointer;
+}
+.checkmark {
+    background: [fff](<fff.md>);
+}
+.check-container input:checked ~ .checkmark {
+    background: [33bdea](<33bdea.md>);
+}
+.check-container input:checked ~ .checkmark:after {
+    border-color: [fff](<fff.md>);
+}
+.rm-reference-item {
+    margin-top: 8px;
+    border-radius: 6px;
+    border: 1px solid [e4e9ee](<e4e9ee.md>);
+    margin-right: 8px;
+    flex: 1 1 100%;
+    word-break: break-word;
+    background-color: [f7f9fb](<f7f9fb.md>);
+    padding: 8px;
+}
+
+.rm-level2 {
+    font-size: 1.5em;
+}
+.rm-level3 {
+    color: [939aae](<939aae.md>);
+    font-weight: 400;
+    font-size: 1.3em;
+}
+.rm-page-ref {
+    color: [9aabd0](<9aabd0.md>);
+}
+
+__/* Change the link color for references */__ 
+
+.rm-page-ref-link-color {
+    color: [2980b9](<2980b9.md>);
+    font-weight: 600;
+}
+
+__/* Change the link color in queries */__
+
+a {
+    color: [8e44ad](<8e44ad.md>);
+}
+.intercom-app,
+.intercom-launcher-frame,
+[intercom-container](<intercom-container.md>) {
+    display: none !important;
+}
+.roam-body .roam-app .roam-sidebar-container {
+    background-color: white;
+    border-right: 1px [eee](<eee.md>) solid;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,
+.roam-body .roam-app .roam-sidebar-container > * {
+    opacity: 80%;
+    box-shadow: none;
+}
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,
+.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {
+    background: white;
+    color: black;
+    opacity: 100%;
+}
+[buffer](<buffer.md>).tall {
+    height: calc(100vh - 50px) !important;
+}
+.check-container {
+    padding-right: 4px;
+}
+span.rm-page-ref {
+    border-radius: 2px;
+    padding-left: 1px;
+    padding-right: 1px;
+}
+.content span.rm-page-ref {
+    padding: 4px 1px 1px;
+    __/* required for fixing azo */__
+}
+.center-proj {
+    text-align: center;
+}
+- ### Learn the basics
+- ### Choose your capstone
+    - Next Steps for Your Capstone
+        - You've got a bit of time before the rest of the videos come out and the live sessions start. So here's your homework:
+        - **First: Choose Your Capstone. **Decide what your capstone project will be by choosing a question you want to answer, and what kind of deliverable you want that research to lead to.
+        - **Second: Share Your Capstone**. Once you've decided what you'll focus on, share your capstone in the Effortless Output Circle community! There's a ton of other Roam users there who might have some recommended resources for you.
+        - **Third: Tweet About It! **The Roam community on Twitter is really strong and would love to hear what you're working on. Share your capstone project on Twitter, and don't forget to tag @nateliason and @roamresearch.
+        - Here's a sample tweet:
+        - __Super excited to be exploring underwater basket weaving as my capstone project for the @roamresearch course with @nateliason Let me know if you have any good resources I should check out!__
+        - **Fourth: Start Researching. **The more materials you collect before the capstone project starts, the more ready you'll be to dive in and hit the ground running. Start looking for books, articles, podcasts, anything else that will help you explore your capstone project. And don't forget to ask for ideas on Circle and Twitter!
+    - Useful tools for research and learning
+        - **Instapaper or Pocket**: Both are great tools for highlighting important passages as you're reading articles. Sign up for either one, and then start using them to read all the articles relevant for your capstone project and highlighting important things as you go.
+        - **Kindle**: A great option for reading if you want to be able to easily highlight important passages as you go. If you're reading any books as part of your Capstone project, reading them on Kindle will make it easier to get your notes into Roam later.
+        - **Airr Audio**: Airr is the best podcast player for active note taking. It lets you save audio highlights up to 45 seconds long that you'll later be able to reference and import into Roam, great if you want to listen to podcasts as part of your research process.
+        - **Hypothesis**: Hypothesis is a tool for highlighting and annotating the web. If you don't want to save an article into Pocket or Instapaper before reading it, or if you just see something on the web you want to quickly save, it's a great tool. It's also fun for discussing articles with other readers.
+        - **Readwise**: Readwise plugs into all the other tools on this list and lets you save your highlights in one place, and eventually, export them to Roam. This is going to become extremely useful when we start on the "Research" section of the course.
+
+# Backlinks
+## [October 29th, 2020](<October 29th, 2020.md>)
+- I will focus on learning [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+

@@ -1,0 +1,28 @@
+- ## What is progressive approach?
+    - a approach of living life to nurture the way of living - [[living from the place of surrender]]
+        - [[deeper understanding]], 
+        - [[soul evolution]] 
+        - acquire [[mastery]] in a natural and effective way. 
+- ## The benefits of progressive approach are:
+    - natural and effortless development based on [[bottom-up evolution]]
+    - directly connect with the highest goal of life - [[soul evolution]]
+    - living a stress-free life
+- ## Core methods
+    -  [[bottom-up evolution]] for merging with the experiences
+        - [[integration activity]]
+    -  [[top-down boundary]] for focusing myself to certain direction
+- ## Core principles:
+    - living life as a [[circular process]]
+        - focused on [[enjoy the process]] or journey instead of a [[linear process]] focused on [[results]]
+    - flexibility with [[contextual mastery]]
+    - [[design for emergence]]
+        - [[bottom-up evolution]] to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
+    - [[natural way of living life]]
+    - [[establishing the seat of awareness]]
+- ## Supportive components:
+    - [[support system]] to utilize external tools, so internal tools focus energy on what's important 
+        - creating an [[evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]
+        - [[coaching]]
+    - [[setting up for success]] to create [[snowball]]
+        - [[positive inner feedback loop]]
+    - [[getting in touch with reality]] to [[work at the root]]

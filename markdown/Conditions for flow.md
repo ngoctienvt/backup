@@ -1,0 +1,7 @@
+- 1. Knowing what to do next
+- 2. [[Knowing how to do it]] 
+    - removing unnecessary tasks or roles to focus on the main role. For ex, if dumping thoughts then no need to care about grammar, wordings. 
+    - [[types of attention]]
+- 3. Freedom from distractions
+- 4. Clear and immediate feedback
+- 5. High perceived challenge and high perceived skills

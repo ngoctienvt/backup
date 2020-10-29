@@ -1,0 +1,21 @@
+- The [[nature of human mind]]:
+    - Stored information as a node in a network system with an interrelated relationship with other nodes. 
+        - ![Organization of Semantic Memory](https://lh3.googleusercontent.com/proxy/hKgc1k8w4-pINpB7cdAqqeVCswBbFnPWhG4ZSGZMyzoAPzj5I3pcHplrU7ufFUsBV9590dYJgrANMKUoiZZBdkDKwEUH09EL21vdOaDiVPy8dgv8JHI)
+    - Connecting instead of categorizing. Categorizing is to help the mind able to [[extract and gather information]] easier, but it's not the real power of the mind. The power of it is on the ability to generate new things from old things. [[generative wisdom]] [[condensing process]] - **generative is the nature of the mind.**
+    - The mind is not a good [[information storehouse]], because it will only remember what it's interested in and the [[general impression]] but not the detail. Because we have a [[limited source of energy]], so our mind will unconsciously remove or change the information in a way that it is related to other central nodes that already in there. 
+        - The mind is not a good [[information storehouse].
+        - The mind is not [[energy-efficiency]] to withdraw and maintain information in our mind.
+    - We - the [[witness consciousness]] - is the person who can direct the mind to generate wisdom by putting our energy into the [[condensing process]]. The main way is by using questions to provoke the mind to think in that direction. [[powerful questions]].
+    - We can also give it materials by input experiences, reading books, experimenting,... This is [[input process]] so the mind can have materials to continue it [[condensing process]].
+- [[metaphor for human mind]]:
+- How [[structure of society]] unconsciously shift our [[universe mind]] into [[hierarchy mind]]
+    - Society imposes structure into our mind from the early beginning of life. 
+        - The problem with this is we got input from the world, but we do not freely have the right to process it in our natural way. We are rated by how much we learn and remember, or how much we meet the expectation of other people. [[limited]]
+        - This makes us shift our mind from using it intellectually to generate new ideas, higher thoughts, expanding our understand of the world [[unlimited]] [[intellectual mind]]. We start to use our mind to meet demand of other people or how to control the external world, so we can feel okay inside. [[personal mind]]
+        - From the need to be okay inside, we start to learn how to make our parent proud, how to keep our spouse, how to make our child obedience to us. We use our mind for lower things instead of creative, [[generative wisdom]].
+        - We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [[intellectual mind]] to expand the [[wisdom]] of the world. We are so lost in [[personal agenda]] that we don't know the truth is everything we learned now is the wisdom that accumulated and built from bottom-up by the exploration of the [[intellectual mind]] of human being.
+        - Our job is not to use our mind to limit ourselves and serve the need of us, but use our mind for greater things and be a part of the [[wisdom accumulation]] process. [[generative wisdom]]
+        - Summary:
+            - The [[wisdom of the world]] is accumulated over time, and what we learned is not the end, but it is the starting point for us to [[generative wisdom]] for the world in the future.
+            - Our need to [[feel good]] inside makes us using our mind for [[personal agenda]] instead of [[higher purpose]].
+            - We lost in the limited world that we unconsciously built on us and we adopt ourselves into that limited world. [[Roam Research]] helped us to comeback to the way that our mind naturally operates.

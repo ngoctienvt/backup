@@ -1,0 +1,4 @@
+- Block Reference in Roam: 
+    - Editing the original will change all of its reference.
+- Usage:
+    - To display the information but don't want to change it. 

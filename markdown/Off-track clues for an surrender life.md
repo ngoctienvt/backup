@@ -1,0 +1,4 @@
+- [[personal needs]]
+- [[reaction]]
+- [[justification]] defense or protect myself
+- [[preferences]]

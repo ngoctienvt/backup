@@ -1,0 +1,17 @@
+- When we met?
+    - I am gifted advance 2012
+- First impressions
+    - Smart
+    - Emotional
+    - hard to connect
+- Birthday
+    - 25/08/1994
+- Coaching journey:
+    - Coaching time: Sunday 8 P.M / 8 A.M
+    - Coaching goals: Vững vàng [[grounded]]
+        - Kể cả khi không biết hướng đi, không biết chuyện gì sẽ xảy ra
+        - Chấp nhận, bao dung với
+        - Chính bản thân (suy nghĩ tiêu cực, chỉ trích, nỗi sợ, cảm xúc...)
+        - Hoàn cảnh (bất như ý - bất ngờ lẫn không bất ngờ...)
+        - Trân trọng những gì đã trải qua, đã làm được
+    - Buổi 1: Điều gì mình có thể count on bản thân mà không phải là 1 biến?

@@ -1,0 +1,26 @@
+- I want my [point of focus](<point of focus.md>) is based on
+    - progress instead of result
+    - connect between past, now and future. Actually about the relationship between me, my inner stuff, and the external world.
+    - it's like building a bridge of connection between shakti, consciousness and the world without the blockages.
+- Instead of fearing and accepting below values, I would want to develop a [trueself competency](<trueself competency.md>) that is [conscientious dedication](<conscientious dedication.md>) (tận tâm tận lực) to do the best and let things unfold instead of living a compromising life.
+    - All [fear](<fear.md>) is only real when we aren't able to handle and to realize what's really us.
+- What the soul wants is very different with what the ego wants. [Who's in charge my life?](<Who's in charge my life?.md>) [high intention](<high intention.md>)
+- I felt so much [refreshing](<refreshing.md>) after doing my yoga routine. I also learnt a lot of new things in the process of practising it.
+- When I stand on my rooftop, I could see the world not just as it is now, but as the result of accumulated past forces that make them as they are now. [seeing the truth of the world](<seeing the truth of the world.md>) [inter-related](<inter-related.md>)
+- The reason I felt very hard to choose the names, measure of success, or choose where to define the [point of focus](<point of focus.md>) is because
+    - I have not fully relate the process to myself yet
+    - I still have many distractions that split my consciousness so I'm feel [fear of missing out](<fear of missing out.md>) when choosing a point of focus.
+    - The [point of focus](<point of focus.md>) ideally will be based on something that
+        - everyone could relate to,
+        - totally have control over
+        - soul guided, not ego guided
+        - and only need one intention for
+        - creating a natural result without the fear of doing wrong
+    - For instance, when reading it's important to collect [raw materials](<raw materials.md>) instead of worrying too much about how to process them later.
+- I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [unattachment centering](<unattachment centering.md>)
+- There is a realization that in order to define what's right and what's not, the main point is who decides. And if I could always let my true self decide then I'm always on good shape, and also can be sure that I'm on the right track. [soul-guidance](<soul-guidance.md>) [truth compass](<truth compass.md>)
+    - The [ego-guidance](<ego-guidance.md>) will base its ideas from separation, reaction, samskaras, the inner-disturbance, the past, results-oriented.
+    - The [soul-guidance](<soul-guidance.md>) will base on the [integration activtity](<integration activtity.md>), [generating languages](<generating languages.md>), [being mode](<being mode.md>), natural flow-oriented - [natural way of living life](<natural way of living life.md>).
+- We are so misunderstood about the definition of what is normal, we are live in the unhealthy state of being, behaviors, choices but we believe they are normal. [true normal](<true normal.md>) need to be seen or else we will have no reason to cure ourselves.
+    - In order to truly know what is normal, we need to know what is it and what is the method to find out what's normal?
+- As I tested [knowledge development process](<knowledge development process.md>)  through reading Coaching articles, it started to emerge inside myself some understanding about this like [point of focus](<point of focus.md>), split stages, the relationship between me and reality.

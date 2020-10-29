@@ -1,0 +1,18 @@
+- [[high-value information blocks]]
+    - self-summary knowledge
+    - personal thoughts, emotions, ideas, reflections
+- [[types of information blocks]]
+    - [[definition]]
+        - describes an idea or a concept
+    - [[meaning]]
+        - what are the benefits of this?
+    - [[procedure]]
+        - steps by steps implementation
+    - [[process]]
+        - describe the flow of the activity
+    - [[function]]
+        - usages of the concept
+    - [[principle]]
+        - a rule telling what is the behind structure (what is allowed and what not)
+    - [[information]]
+        - detail information of the concept

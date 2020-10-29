@@ -1,0 +1,20 @@
+- The [[starting point]] of everything is established a solidify [[basic foundation]] so that I can come back at any time. The role of a basic foundation is to establish a [[top-down boundary]], a broad viewpoint that includes things I want to work on. It would help to set me a [[truth compass]] to come back when I feel lost or to expand myself based on the experience that I gained. [[life flow]] [[progressive approach]]
+    - The reason to have a [[starting point]] is to realize that things have different levels or different progress to work on. [[top-down boundary]] The starting point is established by 
+        - learning and getting used to what's possible, 
+        - what's the floor and what's the possible ceiling?
+        - what's the meaning of this?
+    - After establishing a starting point, the next thing is about the [[mastery]] process. The process of mastery is what's I actually do in the [[top-down boundary]] that I defined. 
+        - It's about listing the things that I want to master. The things to master will have different levels as well. 
+            - One is to understand the components.
+            - Second is to have a synthesis or a goal to use things together. [[synthesis]]
+        - Choose and go deep to acquire a [[deeper understanding]] in each thing [[bottom-up evolution]]
+        - Synthesis things by a [[top-down boundary]] that have goals, challenges, application oriented as a result.
+        - Reflection after each learning to condense knowledges and experiences. [[condensing and generative process]]
+    - The third step is going beyond.
+        - Come back to the foundation and start to [[bottom-up]] things.
+- [[coaching reflection]] As today, I can feel that the coaching is effective due to the fact that I didn't start with what clients want to discuss, but rather explore to understand deeply first.
+    - However, there are some moments that I feel I still explain too much instead of concise [[reflection]] and support clients to formulate their own [[understanding]].
+    - I felt that I still in charge too much unnecessary. In fact, I want to support them to work on their own first, and only have some [[stand back support]] to help them facilitate their development. [[silence]]
+- I noticed that I have a big desire to support other people to become better and that makes me want to share I know, what I find out to support them. But sometimes I focus too much on the process of sharing and forget the [[end goals]] are not sharing, but how helpful they are with them and how they can utilize it to become better. [[helpful manner]] [[focus on what matters]]
+- Today, I started to learn to [[enjoy the process]] while I focus at the same time. It's the being while doing or being to do.
+- I still feel a little mess to focus to working on [[condensing and generative process]]. I need to be able to create a flow to condense things in a natural way. Now still a little bit too forcing and the mind still scatter in the process as it's not sure what it needs to do.

@@ -1,0 +1,12 @@
+- [[Hyperfine Village map]] https://roamresearch.com/#/app/hyperfinelabs/page/TYt89wtA7
+- To use Roam Research, which is more consistent, I need to formulate requirements for keywords, ideas, how to naming, so the [[condensing and generative process]] become much more comfortable to merge. [[Roam Research keyword rules]]
+    - For [[ideas]] and [[concepts]], I would like to write them without capitalize so it could use easier in sentences, and I want to use a noun instead of a verb because its capture the ideas and concepts better like [[surrender]] or [[true love]]. Using plural or singular?
+    - For practices, it would be a noun or a phrasal verb or a gerund like [[meditation]] or [[letting go]].
+    - For certain specific objectives like Schedule, Projects, ... write with captialize.
+    - For a title or a topic sentences, write with capital.
+- {{[[DONE]]}} Coaching Bảo Ngân chiều thứ 3 4h [[September 22nd, 2020]]
+- I feel kind of tired and exhaust energy today. I need to learn to create my energy management circle, so that I can maintain my energy in a good way.[[energy management]]
+- I feel that I still have too many [[personal needs]] to control others based on the attachment with my ideas of what's right or wrong when I interacted with Hương and Thảo. I iI want to release all the unattachment even with the things that I feel are right and better. Even if it's true, the importance is not the truth, but to support others in a [[helpful manner]] to live the truth. Because the truth is standing for itself, there is no need to defense for it, it's just my [[personal needs]] [[unattachment]] [[spiritual growth]]
+- When reading [[Surat Shabd Yoga]], it's very helpful for me to realize that the furthest what I learned can bring me is to release other things that I believe in, but then the last thing I need to do as well is release even what brought me to there. Just like the raft can help me navigate all the ways through seas, rivers, challenges, but in the end, I need to let go of it so I can reach the final destination. [[letting go]] [[techniques]] [[practices]] [[method]] [[Closing the transformational gap]]
+- 
+- 

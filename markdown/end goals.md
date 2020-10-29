@@ -1,0 +1,3 @@
+- Two type of goals
+    - One is the inner samskaras so that we could satisfy its need
+    - Two is the inner shakti that feed you with tremendous happiness, joy, peace, and you want to express it outside to raise the external moments up.

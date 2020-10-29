@@ -1,0 +1,24 @@
+- "[[emotions]] are a state of energy affected by the disturbance of samskaras got triggered by the external world or emerged by itself. "
+- Emotions that I'm not able to resolve yet
+    - [[fear]]
+    - [[anger]]
+    - [[embarrassment]]
+    - [[restless]]
+    - [[fault]]
+    - [[annoying]]
+    - [[inconvenient]]
+    - [[worry]]
+    - [[anxious]]
+    - [[disturbed]]
+    - [[uncomfortable]]
+- Emotions that I want to fulfill for my [[inner container]] are
+    - true love
+    - humility
+    - self-recognition
+    - energetic
+    - peaceful
+    - compassion
+    - [[trust the process]]
+    - relax
+    - fulfilled
+- 

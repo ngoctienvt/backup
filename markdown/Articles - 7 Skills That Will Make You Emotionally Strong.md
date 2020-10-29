@@ -1,0 +1,1 @@
+- Link: https://medium.com/personal-growth/7-skills-that-will-make-you-emotionally-strong-4ec4b775e5b6

@@ -1,0 +1,11 @@
+- energy management is managing my personal energy in an effective and efficient way so I can execute on my [[optimal conditions]].
+- 4 aspects of energy management
+    - spiritual energy
+    - physical energy
+    - mental energy
+    - emotional energy
+- energy management requires noticing and resolving
+    - How am I using my energy?
+    - What drains my energy?
+    - What charges my energy?
+    - What is the process that I mange my energy?

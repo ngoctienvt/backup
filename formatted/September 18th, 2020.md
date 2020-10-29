@@ -1,0 +1,27 @@
+- I feel that my brain is running too much, and trying to condensing thoughts from top-down, and it puts me into so much pressure. I start to realize that this pressure makes me think too much unnecessary. The [top-down](<top-down.md>) pressure is good for helping me to have a direction for what I want to do but it's also put me into a difficult situation because the [bottom-up](<bottom-up.md>) thinking is not enough [materials](<materials.md>) to easily convert to solve the top-down problem yet.
+- Today my main tasks are:
+    - [x] Editing video 2
+    - [x] Bottom-up and condensing thoughts to produce top-down articles about Roam Research
+- I realized some frustration that when I edited in a publish post, because it didn't fix in the [original source](<original source.md>). It will be much better if I fixed them at root cause, learned what's wrong, and dealt with them at once, instead of jumping back-and-forth and edit mindlessly. [intentional refining](<intentional refining.md>) [work at the root](<work at the root.md>)
+- I feel that I enjoy the process of writing or building the product [building process](<building process.md>), but I didn't enjoy the process of cleaning, refining, and polishing it. I feel completed when I completed to say everything I want, but it's not the end. [self-fulfilled](<self-fulfilled.md>) This is only for myself fulfillment, and it didn't count other people into it. [refining and delivering process](<refining and delivering process.md>)
+    - The process will be several steps:
+        - Gather the thoughts
+        - Choose the intention
+        - Building
+        - Refining and delivering
+        - Feedback loop
+- I also feel that my thoughts are much cleaner, and less think to say now when it focuses on things. I need to relax more and have [proper resting](<proper resting.md>) to recharge my mental energy.
+- I feel that I still have the need for [recognition](<recognition.md>) from other people, and it went together with my intention to help other people become better, this make me self-justify for myself instead of clearly split them into 2 parts and don't put [expectations](<expectations.md>) or pressure into other people. [spiritual growth](<spiritual growth.md>) [emotions](<emotions.md>)
+- I feel the restlessness inside of me to get what I want. It's still controls me and I need to learn to handle this. The big lesson here is to release any need that emerges inside of me. Now is the need for attention and recognition [spiritual growth](<spiritual growth.md>) [personal needs](<personal needs.md>) and learn to [self-fulfilled](<self-fulfilled.md>) instead.
+- Meditation and [surrender](<surrender.md>) is still the highest practice that I can have to release the part that not okay with the reality and to handle the urge to fix things inside by external solutions. [inner urge](<inner urge.md>)
+- I also start to less have new thoughts and feel I accumulated a lot of thoughts that want to condense into a deeper understanding and [pressure makes diamonds](<pressure makes diamonds.md>) first. 
+- [intention](<intention.md>) some of the topics that I want to spend my energy next is:
+    - [x] [top-down boundary](<top-down boundary.md>) and [bottom-up evolution](<bottom-up evolution.md>) 
+    - "[x] How to use [Roam Research](<Roam Research.md>) to evolve my mind effectively"
+    - [ ] Summarizing [spiritual knowledge](<spiritual knowledge.md>) from Michael Singer teaching
+    - [x] Releasing the samskaras about the need for attention and recognition, [fear](<fear.md>) and nurture [self-fulfilled](<self-fulfilled.md>)
+    - [x] Start to work on [generated language](<generated language.md>)
+    - [x] Start to work on [intention](<intention.md>)
+    - 
+- [self-fulfilled](<self-fulfilled.md>) is learn to release the blockages, the urges that want to solve the inner problem with short-term external solutions and able to fulfill myself with all that personal need. The keyword is to [learn](<learn.md>) how to [work at the root](<work at the root.md>) and not satisfy with the [temporary solutions](<temporary solutions.md>). It requires the attitude to see what's really work and what's just a short-term solutions. 
+    - What's seem to be a solution is different with What's really solution

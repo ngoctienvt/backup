@@ -1,0 +1,25 @@
+- Basic of tags, backlinks, and pages
+    - [[Test]]
+    - #Test
+    - #[[Test two words]]
+    - This is a [[Test]]
+- Soft line break 
+    - Ctrl + Enter
+    - Ctrl + Shift + V
+- Block references: thay đổi ở main source cũng diễn ra ở cả các nơi block được reference.
+    - (()) hoặc Ctrl + Drag
+    -  "[[1. Basic Functionality of Roam]]: là những chức năng cơ bản Roam"
+    - Usage: ???
+- Date picker
+    - [[September 16th, 2020]] 
+        - {{{[[DONE]]}}}} Chemistry session với chị Hằng 
+- The backlash function
+    - {{[[DONE]]}} TODO has two page: TODO and DONE
+        - Ctrl + Enter 
+    - {{[[slider]]}} 
+        - Slider
+    - Today, tomorrow, yesterday
+    - {{[[youtube]]: }}
+    - Habit tracker by attribute
+        - https://www.reddit.com/r/RoamResearch/comments/ej2pid/how_to_build_a_habit_tracker_in_roam/
+        - 

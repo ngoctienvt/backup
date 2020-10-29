@@ -1,0 +1,10 @@
+- [[entirety of an atomic concept]] is
+    - capturing an [[atomic concept]] as much as possible
+    - packaging in a way that's easy to understand
+    - around maximum 5 direct connections to know when need to re-organize information
+- [[How to capture entirety of an atomic concept?]]
+    - Dividing information into different [[types of information blocks]] to store [[information blocks]]
+    - Creating a meaningful connection between these [[information blocks]]
+- examples of capturing [[entirety of an atomic concept]]
+    - [[entirety of an atomic concept]] have the following characteristics
+        - definition

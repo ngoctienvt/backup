@@ -1,0 +1,3 @@
+- the nature of the world is existence of forms.
+- They exists independent of us.
+- Let part of your thoughts stay high enough to realize that the world has nothing to do with us.

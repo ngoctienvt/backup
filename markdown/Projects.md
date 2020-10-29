@@ -1,0 +1,7 @@
+- Ongoing
+    - [[mind-training]]
+    - [[coach training]]
+    - [[journaling training]]
+    - [[A: Suffering]]
+- Completed
+    - [[P: How I use Roam Research to evolve my mind]]

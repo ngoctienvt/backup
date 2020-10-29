@@ -1,0 +1,8 @@
+- [[samskaras]] are the energy formations of 
+    - mental impressions, 
+    - experiences 
+    - or psychological imprints 
+- The relationship between [[emotions]] and [[samskaras]] are
+    - The samskaras created the disturbance of the flow of [[inner flow of energy]] and create wave of [[emotions]] for the self to feel. [[feelings]]
+- [[spiritual growth]] are handle and clean samskaras through [[cleaning and integrating process]] to release the cause of [[emotions]].
+- [[List of samskaras]]

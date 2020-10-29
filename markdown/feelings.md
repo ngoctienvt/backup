@@ -1,0 +1,4 @@
+- [[feelings]] are what the self feel from various of sources
+    - [[emotions]]
+    - [[the outside world]]
+    - [[inner voices]]

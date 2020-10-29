@@ -1,0 +1,6 @@
+- How I want to express myself to the world
+    - [[establishing the seat of awareness]]
+    - [[funny]] and [[comfortable]]
+    - [[truth-oriented]]
+    - [[tough love]]
+    - [[concise]]

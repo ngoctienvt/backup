@@ -1,0 +1,24 @@
+- ### Why I want to do journaling training?
+    - We all have an [[intellectual mind]] to do higher things instead of just using that mind for lower-self
+    - Journaling when done properly is a tool for self-development and self-creation
+- ### What is journaling?
+    - journaling are the activities that we externalize our thoughts, store and process it externally.
+- ### What is benefits of journaling?
+    - releasing the unnecessary task for our minds (SSD, RAM...)
+    - using our [[intellectual mind]] on generating ideas and making meaningful connections - awaken your intellectual mind [[thought-generative process]]
+    - externalize and detachment with our thoughts, so that we can raise ourselves over it to raise our life [[spiritual growth]] [[transcendence]]
+    - accumulated and deepen knowledge over time [[evergreen garden]] [[deeper understanding]]
+    - preparing all the needed materials for creation [[serving the demand of reality]]
+- ### What's the difference of this journaling method?
+    - [[progressive approach]]
+    - [[natural way of living life]]
+- ### Journaling in practice
+    - [[accumulate scattering thoughts process]]
+    - [[condensing process]]
+    - [[thought-generative process]]
+        - Write fleeting notes
+        - Put [[contextual linking]] you want to see these notes again
+        - Condensing your knowledge around that topics, ideas, or concepts to become  [[condensing notes]]
+        - Breakdown the big concepts onto smaller concepts [[breakdown]]
+        - Feel your inner state and your understanding [[positive inner feedback loop]]
+    - 

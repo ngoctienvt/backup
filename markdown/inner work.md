@@ -1,0 +1,8 @@
+- inner work is the job of the soul to release the [[samskaras]] that it didn't able to handle and got stuck inside.
+- The highest things that the soul need to do is [[handle]] and [[merging]] with the samskaras.
+- To do this, the soul will have certain [[spiritual practices]] that could help it to do this work easier.
+    - [[meditation]] to detach and release samskaras directly
+    - [[journaling]] to see the thoughts and emotions that the soul identified with, so the truth could be reveal that makes the soul release easier.
+    - [[Jhana yoga]] to put the absolute truth input to the mind so that the mind could learn to orient itself into that truth.
+    - [[Bhakti yoga]] for me is actually learn to do everything in a [[helpful manner]] with a positive energy.
+    - [[Karma yoga]] is learn to act with selflessness so that we can let go our personal needs over time.

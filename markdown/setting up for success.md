@@ -1,0 +1,3 @@
+- [[setting up for success]] is setting a simple challenge that help to build up the inner confident and enjoyment so that the soul can feel good enough to continue to work on that.
+- [[setting up for success]] is important for long-term results because the accomplishments will be the by-products that accumulated through times and through the development of the self instead of focus on short-term results.
+- 

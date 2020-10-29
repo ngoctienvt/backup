@@ -1,0 +1,27 @@
+- [attachment with money](<attachment with money.md>)
+- [attachment with objects](<attachment with objects.md>)
+
+# Backlinks
+## [List of samskaras](<List of samskaras.md>)
+- [attachment](<attachment.md>)
+
+- [attachment](<attachment.md>)
+
+## [October 10th, 2020](<October 10th, 2020.md>)
+- I felt that there are some people make me feel want to support them more than normal people. I'm not so sure why but I feel that I want to see them better. Somehow there is a connection between me and them, and their happiness will influence my happiness [attachment](<attachment.md>),
+
+## [October 3rd, 2020](<October 3rd, 2020.md>)
+- I felt kind of [uncomfortable](<uncomfortable.md>) when clients canceled the coaching session when the time was near. It makes me feel [disturbed](<disturbed.md>) because it likes I need to change my direction suddenly when I already have the feel of flow that I plan ahead. I realize that I still have an [attachment](<attachment.md>)
+
+## [October 8th, 2020](<October 8th, 2020.md>)
+I also noticed I still have too much [attachment](<attachment.md>)
+
+## [September 27th, 2020](<September 27th, 2020.md>)
+- I noticed that I still have a lot of attachments to the tools that make me feel good like iPad, television, house, physical things that I need to pay a lot of money to have. [unattachment](<unattachment.md>) [attachment](<attachment.md>)
+
+## [TODO](<TODO.md>)
+- "[attachment](<attachment.md>)"
+
+## [focus on what matters](<focus on what matters.md>)
+- [what matters](<what matters.md>) or [end goals](<end goals.md>) are the intention that I make clear in the beginning or intentional adjusting in the process, not the tools or the method I have and grow an [attachment](<attachment.md>)
+

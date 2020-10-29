@@ -1,0 +1,13 @@
+- I noticed that my tendency to express whatever got trigger and emerge inside of me without really [[getting in touch with reality]] first. My connection with [[Nguyễn Mỹ Linh]] is not deeply in touch because it hit some of the samskaras that make me want to give her advice. 
+- This is the beginning of [[establishing the seat of awareness]] and the [[bottom-up evolution]] to fully relax and release all the need to control the reality or future.
+- What Linh really need now is not too much advice, but rather the support for her to start to improve her [[self-awareness]] and ground herself first. Then I could start to help her slowly untether herself over time.
+    - I don't need to point her out to too many problems at a time, because she just needs to slowly deal with each thing first. 
+    - I still feel that I want to mention to her a bit about how she defines herself based on the result as this would help her to improve her self awareness. My way is sharing my observation and ask for permission so that let her check her willingness to look deeper. [[helpful manner]]
+    - My personal desire for this connection is at least I can support her to move through the beginning step for true inner journey and set up herself on certain important truths.
+- I felt tired today and feel that I need to [[recharge]] my energy first.
+- I noticed that I want to write a post about my [[coaching services]] so that I could get in touch and support with the suitable clients that need my help.
+    - The coaching services will talk who is suitable for my services, who is not,...
+- [[Nguyễn Mỹ Linh]] also made me realize that I have a tendency to work by [[top-down boundary]]  too much, though it's work for quite certain of times. But there is time it's not. 
+- I am in a transition time to establish myself with [[progressive approach]]  which mainly based on [[bottom-up evolution]] .
+- I have a little bit [[worry]] about how logseq saves my notes, but I guess it will be fine and will test it more to refine this process.
+- 

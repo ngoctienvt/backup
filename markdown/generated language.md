@@ -1,0 +1,14 @@
+- growth language is the type of language that support the [[soul evolution]] process instead of hinder it.
+- The characteristics of [[generated language]] are:
+    -  [[reality-oriented]] and [[truth-oriented]]
+        - experiences are lessons and foods for the soul
+        - there is no right or wrong, only the lack of [[capacity to handle]]
+        - expectations and reactions are just the results of [[misunderstanding]] [[Ignorance]]
+    - [[empowering]] instead of [[hindering]]
+        - triggers are the [[stepping stones]] for [[complement]] what we still deficient and make us become [[wholer]]
+    - 
+- Why I need [[generated language]]
+    - support the learning and merging process of the soul
+- Some of the early thoughts:
+    - Acknowledge the effort of other people, instead of judging based on our expectations
+    -  

@@ -1,0 +1,20 @@
+- [[consciousness]] seems to have two states
+    - One is [[wake up state]]. This is a stage that I can aware about myself. I can aware what I am aware.
+    - Second is [[asleep state]]. This is a stage that I am no longer consciously know what I am aware and just let myself drown into it unconsciously.
+- In order to nurture the [[wake up state]], we need to know what makes us remain wake up first
+    - One is [[willpower]]. It's the will hep us to remain aware what we are aware.
+    - Two is [[energy]]. Basically willpower is also type of energy, and that energy will be use for somethings to deplete it. 
+- What drains our willpower?
+    - The unconscious involving behaviors for resistance and clinging to hold the samskaras inside
+    - The energy for physical activities
+    - The energy for using our [[intellectual mind]]
+    - The energy for keeping our awareness directing our intention to our desire direction. Just like direct the ship to not controlled by the wind.
+- There is few important tasks here
+    - Nurturing the ability to detach so we can do our inner work 
+    - Removing what drains our energy in an ineffective way
+    - Recharging our consciousness effectively
+- What activities could help us to nurture?
+    - Relax and release samskaras
+    - Externalizing the unnecessary tasks for our [[intellectual mind]]
+    - [[energy management]] properly, especially sleep and eating
+    - Using our consciousness intentionally instead of scattering to multi tasks

@@ -1,0 +1,18 @@
+- What is morning rituals?
+    - The chain of morning activities to start the [[snowball effect]]
+- ### Why I want to practice my morning rituals?
+    - I want to practice to living a conscious life 
+    - I want to live an [[impactful life]] that have high [[productivity]] and meaningful
+    - I want to use my time on earth in an effective manner instead of wasting it.
+- ### What hinders my practice for morning rituals?
+    - not enough sleep
+    - feel cold, tired and pain at morning [[physical body]]
+    - not have clear intention why I need to maintain my morning rituals 
+- ### What would help me to practice and maintain my morning ritual?
+    - [[bedtime rituals]]
+    - [[clear intention]]
+    - practices [[willpower]] to execute the intention
+- ### Morning rituals process
+    - Waking up the sleep state and release inner stress - brush my teeth and wash my face [[releasing accumulated stress]]
+    - Establishing the seat of awareness and containing the inner energy - meditation [[establishing the seat of awareness]]
+    - Cleaning inner thoughts and setting up intention for the day - writing [[inner detox and daily planning]]

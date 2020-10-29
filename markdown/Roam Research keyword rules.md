@@ -1,0 +1,17 @@
+- [[Naming-rules]]:
+    - ideas, concepts, categorizes:
+        - noun [[surrender]] [[true love]] [[witness consciousness]]
+        - gerund for practices [[letting go]] [[Course - Living from the place of surrender]]
+        - adjective for feelings [[funny]]
+        - plurals for countable verb [[emotions]] 
+        - no the, a, an
+    - specific objectives or projects:
+        - capitalize [[Schedule]] [[Projects]] [[P: How I use Roam Research to evolve my mind]]
+- [[Keywords generating and highlighting rules]]:
+    - highlight verb for accumulate information-related to support condensing process later
+    - condense the block ideas with a noun for general topics to condense thoughts
+- [[How to organize information in Roam Research?]]
+    - The free-thoughts will accumulated by journaling in daily page.
+    - The specific topic will talk about the information related to that topic.
+    - If it's related to another concept than the definition and the usage of that concept will behold in that [[node]], the current [[node]] will only hold the definition of this node and the specific usage that calling from another concept to this node.
+    - This helps that if I want to understand anything more, I just need to click to it instead of finding the node that summary the information of all the smaller nodes. 

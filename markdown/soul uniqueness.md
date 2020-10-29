@@ -1,0 +1,3 @@
+- Each soul represent a different facet of the oneness.
+- The soul will learn in the process of living life and they will evolve in that process. They will manifest their own uniqueness and expand themselves instead of limited by what they are taught because whatever exist in the duality world is not the absolute truth. They are just a fragment of truth.
+- 
