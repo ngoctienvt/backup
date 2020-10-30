@@ -10,7 +10,7 @@ I also noticed that my coaching is heavily a learning process, instead of proble
 
 If I want to know something, I need to be the one who really check it and [getting in touch with reality](<getting in touch with reality.md>), not listen to the [limiting thoughts](<limiting thoughts.md>) of my mind. [current working](<current working.md>)
 - I also on a transition stage that replacing my old [habit-formed will](<habit-formed will.md>) to a new direction that is more helpful and supportive for my [spiritual growth](<spiritual growth.md>). [current working](<current working.md>)
-- 
+- I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy meditation over anything else that 
 - 
 - 
 
