@@ -4,6 +4,8 @@
     - training
 - redirect [habit-formed will](<habit-formed will.md>)
     - develop a wisdom to stop listening to [limiting thoughts](<limiting thoughts.md>)
+    - focus on single-tasking
+    - 
 
 # Backlinks
 ## [October 30th, 2020](<October 30th, 2020.md>)

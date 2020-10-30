@@ -4,3 +4,5 @@
     - training
 - redirect [[habit-formed will]]
     - develop a wisdom to stop listening to [[limiting thoughts]]
+    - focus on single-tasking
+    - 
