@@ -277,3 +277,6 @@ span.rm-page-ref {
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - I will focus on learning [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
 
+## [October 30th, 2020](<October 30th, 2020.md>)
+- Planning to learn [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+

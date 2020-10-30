@@ -22,6 +22,9 @@ where they are]] through the [coaching reflection](<coaching reflection.md>)
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - [coaching reflection](<coaching reflection.md>)
 
+## [October 30th, 2020](<October 30th, 2020.md>)
+- [coaching reflection](<coaching reflection.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [coaching reflection](<coaching reflection.md>)
 

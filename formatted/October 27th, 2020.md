@@ -42,7 +42,7 @@ The only thing that will never change and will never lose is me - my witness con
 - [ ] Coaching [Nguyễn Thúy Hằng](<Nguyễn Thúy Hằng.md>) [October 29th, 2020](<October 29th, 2020.md>)
 - [x] Coaching [Phạm Nguyệt](<Phạm Nguyệt.md>) [October 28th, 2020](<October 28th, 2020.md>)
 - [ ] Coaching [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) buổi 1 [November 1st, 2020](<November 1st, 2020.md>)
-- [ ] Coaching [Nguyễn Bảo Ngân](<Nguyễn Bảo Ngân.md>) [October 30th, 2020](<October 30th, 2020.md>)
+- [x] Coaching [Nguyễn Bảo Ngân](<Nguyễn Bảo Ngân.md>) [October 30th, 2020](<October 30th, 2020.md>)
 - I felt so [disturbed](<disturbed.md>) today about I have to responsible for other people about their stuff, especially what happens on repeat. I noticed that at that time, my reaction to the world is not based on I'm being myself, but I'm being my [samskaras](<samskaras.md>)
 - The most important [coaching skills](<coaching skills.md>) is [deep listening](<deep listening.md>). It focuses us to understand the clients [as a whole](<as a whole.md>) instead of let our mind making assumptions and fill in the blank for us. 
     - And [deep listening](<deep listening.md>) need to help us to [[meet people

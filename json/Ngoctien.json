@@ -26319,8 +26319,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603770082247,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603770134640,
-        "string": "{{[[TODO]]}} Coaching [[Nguy\u1ec5n B\u1ea3o Ng\u00e2n]] [[October 30th, 2020]]",
+        "edit-time": 1604027173073,
+        "string": "{{[[DONE]]}} Coaching [[Nguy\u1ec5n B\u1ea3o Ng\u00e2n]] [[October 30th, 2020]]",
         "uid": "vzeO4hBPU"
       },
       {
@@ -27670,9 +27670,51 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604019853148,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604019853148,
-        "string": "",
+        "edit-time": 1604027163391,
+        "string": "[[coaching reflection]] Today I felt that my way of coaching is better because my ability to observe the world is better. I can know what's important to listen, what's not. [[ability to see what's important]]\n\nI also noticed that my coaching is heavily a learning process, instead of problem-solving or achieving goals process. It emphasizes on clear understanding.",
         "uid": "VvTgLRJJi"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604027494215,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604027498719,
+            "string": "Finishing edit video 7",
+            "uid": "WxDeBSceW"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604027498716,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604027516600,
+            "string": "Coaching reflection deeply in next few days",
+            "uid": "YL7IsWLJ0"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604027516596,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604027532239,
+            "string": "Planning to learn [[Course - Effortless Output with Roam]]",
+            "uid": "ZmFli41Mf"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604027163388,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604027494222,
+        "string": "Today focus",
+        "uid": "dnGd_O3OR"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604027532236,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604027532236,
+        "string": "",
+        "uid": "4nhtilgkA"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -28359,5 +28401,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1603984817468,
     "title": "515e70"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604027121502,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604027121503,
+    "title": "ability to see what's important"
   }
 ]
