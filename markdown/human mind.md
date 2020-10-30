@@ -10,7 +10,7 @@
 - [[metaphor for human mind]]:
 - How [[structure of society]] unconsciously shift our [[universe mind]] into [[hierarchy mind]]
     - Society imposes structure into our mind from the early beginning of life. 
-        - The problem with this is we got input from the world, but we do not freely have the right to process it in our natural way. We are rated by how much we learn and remember, or how much we meet the expectation of other people. [[limited]]
+        - The problem with this is we got input from the world, but we do not freely have the right to process it in our natural way. We are rated by how much we learn and remember, or how much we meet the expectation of other people. [[limiting thoughts]]
         - This makes us shift our mind from using it intellectually to generate new ideas, higher thoughts, expanding our understand of the world [[unlimited]] [[intellectual mind]]. We start to use our mind to meet demand of other people or how to control the external world, so we can feel okay inside. [[personal mind]]
         - From the need to be okay inside, we start to learn how to make our parent proud, how to keep our spouse, how to make our child obedience to us. We use our mind for lower things instead of creative, [[generative wisdom]].
         - We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [[intellectual mind]] to expand the [[wisdom]] of the world. We are so lost in [[personal agenda]] that we don't know the truth is everything we learned now is the wisdom that accumulated and built from bottom-up by the exploration of the [[intellectual mind]] of human being.

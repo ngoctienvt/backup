@@ -68,6 +68,9 @@ That's maybe the reason why I'm very hard to master anything, but need to go thr
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - I found that I want to shift my way of living now is kind of laid back and passive to a way of living more energetic and active. I start to realize my highest [intention](<intention.md>) is to evolve myself and make progress forward every day on the time on earth. [progressive approach](<progressive approach.md>)
 
+## [October 30th, 2020](<October 30th, 2020.md>)
+- For coaching, it's also a way for me to integrate my [progressive approach](<progressive approach.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 I noticed that when I'm approaching things to train others, I like to work from a [top-down boundary](<top-down boundary.md>) as this helps me to ensure that the value and the understanding are there for them. However, this also put pressure too much on my shoulder. Ideally, I want to have some small top-down ideas [breakdown](<breakdown.md>) that I want to develop and work to complete these fragments and train them as well. This is exactly how [progressive approach](<progressive approach.md>)
 
@@ -112,6 +115,9 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 
 ## [bottom-up evolution](<bottom-up evolution.md>)
 - [bottom-up evolution](<bottom-up evolution.md>) is a core components of [progressive approach](<progressive approach.md>).
+
+## [current working](<current working.md>)
+- [progressive approach](<progressive approach.md>)
 
 ## [intention](<intention.md>)
 - [progressive approach](<progressive approach.md>)

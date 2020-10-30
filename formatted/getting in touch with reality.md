@@ -9,6 +9,9 @@
 ## [October 16th, 2020](<October 16th, 2020.md>)
 - I noticed that my tendency to express whatever got trigger and emerge inside of me without really [getting in touch with reality](<getting in touch with reality.md>)
 
+## [October 30th, 2020](<October 30th, 2020.md>)
+If I want to know something, I need to be the one who really check it and [getting in touch with reality](<getting in touch with reality.md>),
+
 ## [October 3rd, 2020](<October 3rd, 2020.md>)
 Ideally, I want to shift my tendency from protecting myself to relax and enjoy the learning experience, then I can be clear and neutral enough to [getting in touch with reality](<getting in touch with reality.md>)
 

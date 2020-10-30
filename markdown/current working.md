@@ -1,0 +1,6 @@
+- [[progressive approach]] for 
+    - coaching
+    - spiritual growth
+    - training
+- redirect [[habit-formed will]]
+    - develop a wisdom to stop listening to [[limiting thoughts]]

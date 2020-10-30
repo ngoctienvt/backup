@@ -5,6 +5,13 @@ I also noticed that my coaching is heavily a learning process, instead of proble
     - Finishing edit video 7
     - Coaching reflection deeply in next few days
     - Planning to learn [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- For coaching, it's also a way for me to integrate my [progressive approach](<progressive approach.md>) to coaching. I will not simply full follow clients mindlessly but in a [bottom-up evolution](<bottom-up evolution.md>) way that help them to live the high truth.
+- I also noticed that I'm on a stage breaking my mind limit, so that it could not make me trust to the information that it drew from my past experiences. [limiting thoughts](<limiting thoughts.md>). I'm so naïve to trust it based on its statically insignificant data. [wisdom](<wisdom.md>)
+
+If I want to know something, I need to be the one who really check it and [getting in touch with reality](<getting in touch with reality.md>), not listen to the [limiting thoughts](<limiting thoughts.md>) of my mind. [current working](<current working.md>)
+- I also on a transition stage that replacing my old [habit-formed will](<habit-formed will.md>) to a new direction that is more helpful and supportive for my [spiritual growth](<spiritual growth.md>). [current working](<current working.md>)
+- 
+- 
 - 
 
 # Backlinks

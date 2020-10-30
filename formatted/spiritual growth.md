@@ -15,6 +15,9 @@
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - I realized that [spiritual growth](<spiritual growth.md>)
 
+## [October 30th, 2020](<October 30th, 2020.md>)
+- I also on a transition stage that replacing my old [habit-formed will](<habit-formed will.md>) to a new direction that is more helpful and supportive for my [spiritual growth](<spiritual growth.md>).
+
 ## [October 3rd, 2020](<October 3rd, 2020.md>)
 - Let go of the need that unless I do something so others can be better is one of the main life lessons that I'm experiencing right now. [samskaras](<samskaras.md>) [spiritual growth](<spiritual growth.md>).
 

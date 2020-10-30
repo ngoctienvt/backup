@@ -8,7 +8,7 @@
     - So what coach bring to the session is not their own mind, but their own source so they can always work on a higher [[level of thinking]] instead of limited by their current mind.
 - First three days using [[Roam Research]] [[graph overview]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F9icyWb7UmP.png?alt=media&token=6bcf54f8-5692-4c7a-a1dc-929bd284cec5)
-- Instead of focusing on teaching how to do the things right, my [[training method]] will base on the [[thinking process]] behind it. This is extremely helpful because it didn't [[limit]] the students to my temporary method, but helps them to develop their mind so they can generate their way of working. [[sustainable development]]
+- Instead of focusing on teaching how to do the things right, my [[training method]] will base on the [[thinking process]] behind it. This is extremely helpful because it didn't limit the students to my temporary method, but helps them to develop their mind so they can generate their way of working. [[sustainable development]]
 - [[coaching reflection]] today I feel I can presence and see things much clearer than before. Because I can observe what is really happening in other mind and trust them to process their own thinking and just be there to support them generate new [[level of thinking]].
 - I noticed that I want to write an article about how [[Roam Research]] helped me to support the brain work in a much more effective way. The reason I want to write this article is to condense my thinking about [[the way our brain operates]] and how we live unnaturally with life.
     - Our [[mind]] operates like a [[universe]].

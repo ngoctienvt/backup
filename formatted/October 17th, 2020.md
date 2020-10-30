@@ -4,7 +4,7 @@ experiences [personal needs](<personal needs.md>) [living in the future](<living
 [top-down boundary](<top-down boundary.md>) that want to prepare everything I need for experiences,
 instead of [bottom-up evolution](<bottom-up evolution.md>) that fully experiences the moments then next.
 - When reading novels, I realize that I also have many
-limitations on my belief system. [limiting beliefs](<limiting beliefs.md>)
+limitations on my belief system. [limiting thoughts](<limiting thoughts.md>)
 - [[https://www.notion.so/chaungoctien/Living-from-the-place-of-surrender-b81c950f88fe4b36ad97c5007adf88e0][Living
 from the place of surrender - youtube link]] [[Course - Living from the place
 of surrender]]

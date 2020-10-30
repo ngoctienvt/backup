@@ -18,5 +18,5 @@
 - [coaching](<coaching.md>) is also a [bottom-up evolution](<bottom-up evolution.md>) that have [accumulated interest](<accumulated interest.md>) and coach also a person who create [sustainable development](<sustainable development.md>)
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
-- Instead of focusing on teaching how to do the things right, my [training method](<training method.md>) will base on the [thinking process](<thinking process.md>) behind it. This is extremely helpful because it didn't [limit](<limit.md>) the students to my temporary method, but helps them to develop their mind so they can generate their way of working. [sustainable development](<sustainable development.md>)
+- Instead of focusing on teaching how to do the things right, my [training method](<training method.md>) will base on the [thinking process](<thinking process.md>) behind it. This is extremely helpful because it didn't limit the students to my temporary method, but helps them to develop their mind so they can generate their way of working. [sustainable development](<sustainable development.md>)
 

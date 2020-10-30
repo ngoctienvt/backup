@@ -1,7 +1,7 @@
 - [Spirituality](<Spirituality.md>) is [working on yourself](<working on yourself.md>). If you want to learn to play the piano, the point is not is it hard, but are you willing to learn it? What do you really want? Because the only competitor is yourself. The only thing can stop you is you.
 - I still feel too much [angry](<angry.md>) when others misunderstand me. It makes me even throw an iPad in the dream. I also feel uncomfortable with the crack on my iPad. [emotions](<emotions.md>) [spiritual growth](<spiritual growth.md>)
 - What you think or feel is not what really matters, everything need to try a little bit. If don't try, how to know? [spiritual growth](<spiritual growth.md>)
-- What got you here, won't get you there. [limitation](<limitation.md>) 
+- What got you here, won't get you there. [limiting thoughts](<limiting thoughts.md>) 
 - I noticed that I still feel not too clear about my responsibilities and my attitudes for the way I want to support others. It's still kind of half-baked and makes me kind of confusing like I know that advising does not really work, but if they are not willing to change or have a goal then I also don't know what to do to help them. [coaching](<coaching.md>)\ [supporting](<supporting.md>)
 - I'm not interested in the idea that becomes a person who can do all the good things, but I'm interested in becoming a soul that can contain everything. [soul evolution](<soul evolution.md>). 
     - When I can contain things, I will have my way of interacting with the world instead of following the action of other masters. They will not be the one who defines my behavior, but I will instead. [soul uniqueness](<soul uniqueness.md>) 
