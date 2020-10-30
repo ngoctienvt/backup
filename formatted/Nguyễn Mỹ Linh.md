@@ -39,6 +39,9 @@
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - [ ] Coaching [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>)
 
+## [October 30th, 2020](<October 30th, 2020.md>)
+- I felt that I hard to treat [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - coaching with [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>)
 
