@@ -10,6 +10,9 @@ I also noticed that my coaching is heavily a learning process, instead of proble
 
 If I want to know something, I need to be the one who really check it and [[getting in touch with reality]], not listen to the [[limiting thoughts]] of my mind. [[current working]]
 - I also on a transition stage that replacing my old [[habit-formed will]] to a new direction that is more helpful and supportive for my [[spiritual growth]]. [[current working]]
-- I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy meditation over anything else that 
+- I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy [[unattachment centering]] over anything else. It's hard, it's challenging, and it requires me to use my own will power to keep myself detach with my mind and my emotions, but I can se that it's a highest thing that I can do for myself, and there is no cost, no time, no loss, just benefits, sustainable benefits. [[sustainable development]] [[true satisfaction]]
+- 
+- 
+- 
 - 
 - 

@@ -33,6 +33,9 @@
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - I don't let my body, my mind, my urge controlling me, and take the right to fully manage them so that I won't need anything from her. [unattachment centering](<unattachment centering.md>)
 
+## [October 30th, 2020](<October 30th, 2020.md>)
+- I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy [unattachment centering](<unattachment centering.md>)
+
 ## [October 8th, 2020](<October 8th, 2020.md>)
 I also noticed I still have too much [attachment](<attachment.md>) for materials things. This makes me judge and felt uncomfortable with other people. Instead of [unattachment centering](<unattachment centering.md>)
 

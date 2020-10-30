@@ -257,6 +257,33 @@ span.rm-page-ref {
     text-align: center;
 }
 - ### Learn the basics
+    - The Roam Note-taking paradigm
+        - Roam helped to easy link connections with bi-directional linking
+        -  Networked blocks
+            - Block reference so no need to copy-paste, find back where it come from\
+            - Block can be a page to nest information
+            - Link ideas and let the ideas emerge over time
+    - Starting your Roam journey with the daily notes
+        - Use daily notes as notebook + inbox
+            - Notebook
+                - Journaling
+                - Ideas
+                - Reminders
+                - Daily plans
+                - Meeting notes
+            - Inbox
+                - Tasks to complete - to-do
+                - Emails to respond to
+                - Articles to read
+                - Recommendations
+                - Notes to file
+        - Creating your first new page
+        - The four ways to link between pages
+        - Increasing Roam productivity with the sidebar
+        - Using filters to search your growing database
+        - Todos and Task management
+        - Referencing and Embedding info from other pages
+        - 
 - ### Choose your capstone
     - Next Steps for Your Capstone
         - You've got a bit of time before the rest of the videos come out and the live sessions start. So here's your homework:
