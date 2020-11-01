@@ -34,6 +34,9 @@
 ## [Hades game](<Hades game.md>)
 - To reflect and complete [progressive approach](<progressive approach.md>)
 
+## [November 1st, 2020](<November 1st, 2020.md>)
+- looping - the most important component [progressive approach](<progressive approach.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 [living from the place of surrender](<living from the place of surrender.md>) is fully orient myself into a higher life, but at the same time fully experiences what levels I am at as the stepping stones for my next level. [progressive approach](<progressive approach.md>)
 

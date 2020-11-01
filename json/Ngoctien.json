@@ -27792,6 +27792,14 @@
             "edit-time": 1604238595062,
             "string": "practices or techniques",
             "uid": "piVvKofJl"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242357604,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242395822,
+            "string": "looping - the most important component [[progressive approach]]",
+            "uid": "NGVY9YP1u"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -27805,9 +27813,25 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604198616731,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604198616731,
-        "string": "",
+        "edit-time": 1604242457019,
+        "string": "Today I noticed that Roam Research and what I'm working on [[journaling training]] right now is what I want to achieve last year. To have a way to think clearly and developing true wisdom.",
         "uid": "_OUg23qpL"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604242468675,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604242576750,
+        "string": "My [[unattachment centering]] is have a level that I could be okay and handle things or people close to me in a surrender and let life unfold way.",
+        "uid": "TzkWXzXzE"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604242576747,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604242576747,
+        "string": "",
+        "uid": "JzHaVV4jn"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -28659,6 +28683,125 @@
         "heading": 3,
         "string": "Choose your capstone",
         "uid": "FDVfZpFNU"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604242853469,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604242857887,
+                    "string": "Author",
+                    "uid": "utzEZAaPY"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604242860040,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604242867783,
+                    "string": "URL\nMetadata",
+                    "uid": "lSjnJiOH8"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604242839719,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604242873729,
+                "string": "Metadata is pre-define attribute for information that I need",
+                "uid": "JdxbWzoVD"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242781720,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242827228,
+            "string": "1. Intro to Research and Metadata in Roam - Forte Academy",
+            "uid": "H_AHdEFXA"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242786489,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242790693,
+            "string": "2. Using Readwise with Roam - Forte Academy",
+            "uid": "KY2ese8zj"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242790690,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242794426,
+            "string": "3. Adding Article Notes to Roam - Forte Academy",
+            "uid": "d8T-jCfUN"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242797498,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242798095,
+            "string": "4. Adding Book Notes to Roam - Forte Academy",
+            "uid": "ihkvLESsi"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242800738,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242801353,
+            "string": "5. Savings Tweets in Roam - Forte Academy",
+            "uid": "6oadEGmMT"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242803891,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242804464,
+            "string": "6. Annotating Videos in Roam - Forte Academy",
+            "uid": "e7K8mYFTk"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242806713,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242808588,
+            "string": "7. Saving Podcast Highlights in Roam - Forte Academy",
+            "uid": "veHFe0rZL"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242808585,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242812253,
+            "string": "8. Storing Webpage Highlights in Roam - Forte Academy",
+            "uid": "7WdTBnKv4"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242812250,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242815899,
+            "string": "9. Using Roam on the Go - Forte Academy",
+            "uid": "JyWHTDj07"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604242818705,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604242819607,
+            "string": "10. Research Outro - Forte Academy",
+            "uid": "bIZAO9UNu"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604242768418,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604242781722,
+        "heading": 3,
+        "string": "Research building your Roam database",
+        "uid": "vs6_h6jLt"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

@@ -20,6 +20,9 @@ I noticed that I have a [need for control](<need for control.md>) what makes me 
     - understanding
     - desire and willingness
     - practices or techniques
+    - looping - the most important component [progressive approach](<progressive approach.md>)
+- Today I noticed that Roam Research and what I'm working on [journaling training](<journaling training.md>) right now is what I want to achieve last year. To have a way to think clearly and developing true wisdom.
+- My [unattachment centering](<unattachment centering.md>) is have a level that I could be okay and handle things or people close to me in a surrender and let life unfold way.
 - 
 
 # Backlinks

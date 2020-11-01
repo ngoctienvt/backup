@@ -318,6 +318,21 @@ span.rm-page-ref {
         - **Airr Audio**: Airr is the best podcast player for active note taking. It lets you save audio highlights up to 45 seconds long that you'll later be able to reference and import into Roam, great if you want to listen to podcasts as part of your research process.
         - **Hypothesis**: Hypothesis is a tool for highlighting and annotating the web. If you don't want to save an article into Pocket or Instapaper before reading it, or if you just see something on the web you want to quickly save, it's a great tool. It's also fun for discussing articles with other readers.
         - **Readwise**: Readwise plugs into all the other tools on this list and lets you save your highlights in one place, and eventually, export them to Roam. This is going to become extremely useful when we start on the "Research" section of the course.
+- ### Research building your Roam database
+    - 1. Intro to Research and Metadata in Roam - Forte Academy
+        - Metadata is pre-define attribute for information that I need
+            - Author
+            - URL
+Metadata
+    - 2. Using Readwise with Roam - Forte Academy
+    - 3. Adding Article Notes to Roam - Forte Academy
+    - 4. Adding Book Notes to Roam - Forte Academy
+    - 5. Savings Tweets in Roam - Forte Academy
+    - 6. Annotating Videos in Roam - Forte Academy
+    - 7. Saving Podcast Highlights in Roam - Forte Academy
+    - 8. Storing Webpage Highlights in Roam - Forte Academy
+    - 9. Using Roam on the Go - Forte Academy
+    - 10. Research Outro - Forte Academy
 
 # Backlinks
 ## [November 1st, 2020](<November 1st, 2020.md>)

@@ -20,4 +20,7 @@ I noticed that I have a [[need for control]] what makes me feel worry because it
     - understanding
     - desire and willingness
     - practices or techniques
+    - looping - the most important component [[progressive approach]]
+- Today I noticed that Roam Research and what I'm working on [[journaling training]] right now is what I want to achieve last year. To have a way to think clearly and developing true wisdom.
+- My [[unattachment centering]] is have a level that I could be okay and handle things or people close to me in a surrender and let life unfold way.
 - 

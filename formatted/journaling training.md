@@ -27,6 +27,9 @@
 ## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
 - [journaling training](<journaling training.md>)
 
+## [November 1st, 2020](<November 1st, 2020.md>)
+- Today I noticed that Roam Research and what I'm working on [journaling training](<journaling training.md>)
+
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - [journaling training](<journaling training.md>)
 

@@ -13,6 +13,8 @@
 
 - Today I still a lot of tired and not able to come back to my trueself much. I noticed that I am not able to fully myself and do my own thing when there is someone or something near by that makes me feel responsible for it. [unattachment centering](<unattachment centering.md>).
 
+- My [unattachment centering](<unattachment centering.md>)
+
 ## [October 20th, 2020](<October 20th, 2020.md>)
 - I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [unattachment centering](<unattachment centering.md>)
 
