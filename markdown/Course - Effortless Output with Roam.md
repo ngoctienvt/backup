@@ -278,8 +278,19 @@ span.rm-page-ref {
                 - Recommendations
                 - Notes to file
         - Creating your first new page
-        - The four ways to link between pages
+        - The four ways to link between pages. [[Displaying Information]] and [[Searching Information]]
+            - normal double brackets link: [[]]
+            - tag link: # [[]]
+                - Less obvious, not to read
+            - Attribute  
+                - Author::
+                - Link information want to be searchable
+            - Alias
+                - {{alias: [[November 1st, 2020]] Love}}
+                - Want to display readable text
         - Increasing Roam productivity with the sidebar
+            - Ctrl + Shift + O
+            - Shift + Click
         - Using filters to search your growing database
         - Todos and Task management
         - Referencing and Embedding info from other pages

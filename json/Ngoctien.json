@@ -28271,14 +28271,112 @@
                 "uid": "YlzIORARz"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604224437853,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604224478676,
+                    "string": "normal double brackets link: [[]]",
+                    "uid": "fxaOfuG8Q"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604224441269,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604225001424,
+                        "string": "Less obvious, not to read",
+                        "uid": "LkdSCFkC1"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604224439837,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604224531274,
+                    "string": "tag link: # [[]]",
+                    "uid": "Sb_Lx1OE9"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604224575899,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604224695695,
+                        "string": "Author::",
+                        "uid": "Krk7eaO5S"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604225004365,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604225013190,
+                        "string": "Link information want to be searchable",
+                        "uid": "X0GvWjk93"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604224695687,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604224695687,
+                    "string": "Attribute  ",
+                    "uid": "rgjO3HEvF"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604224836549,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604224964178,
+                        "string": "{{alias: [[November 1st, 2020]] Love}}",
+                        "uid": "PbYXHG5jV"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604224949476,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604225020888,
+                        "string": "Want to display readable text",
+                        "uid": "L1HNawQFx"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604224600471,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604224601730,
+                    "string": "Alias",
+                    "uid": "qJ1BIbeQi"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604068682072,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604068688594,
-                "string": "The four ways to link between pages",
+                "edit-time": 1604225128055,
+                "string": "The four ways to link between pages. [[Displaying Information]] and [[Searching Information]]",
                 "uid": "ZwMgq6aMz"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604225399798,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604225404350,
+                    "string": "Ctrl + Shift + O",
+                    "uid": "LbQ0spRhD"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604225404343,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604225407030,
+                    "string": "Shift + Click",
+                    "uid": "iVpNj2O4z"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604068688591,
                 "edit-email": "ngoctienvt@gmail.com",
@@ -28916,5 +29014,26 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604203242735,
     "title": "need for protection"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604224695696,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604224695698,
+    "title": "Author"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604225114301,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604225114313,
+    "title": "Displaying Information"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604225114301,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604225114313,
+    "title": "Searching Information"
   }
 ]
