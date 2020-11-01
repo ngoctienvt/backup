@@ -3,6 +3,9 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>) to withdraw my attention to the [seat of consciousness](<seat of consciousness.md>).
 
+## [November 1st, 2020](<November 1st, 2020.md>)
+- I felt that some big samskaras that come up and I truly lost with them. At least the good thing is I still remember some big things to relax and release, so that I could come back to my [seat of consciousness](<seat of consciousness.md>).
+
 ## [October 15th, 2020](<October 15th, 2020.md>)
 - When we are able to relax and fully lean back to the [seat of consciousness](<seat of consciousness.md>).
 

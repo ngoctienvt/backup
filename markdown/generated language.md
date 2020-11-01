@@ -4,7 +4,7 @@
         - experiences are lessons and foods for the soul
         - there is no right or wrong, only the lack of [[capacity to handle]]
         - expectations and reactions are just the results of [[misunderstanding]] [[Ignorance]]
-    - [[empowering]] instead of [[hindering]]
+    - [[unattachment empowering]] instead of [[hindering]]
         - triggers are the [[stepping stones]] for [[complement]] what we still deficient and make us become [[wholer]]
     - 
 - Why I need [[generated language]]

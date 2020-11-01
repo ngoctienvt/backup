@@ -8,6 +8,9 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - So if I want to focus back on myself: [unattachment centering](<unattachment centering.md>)
 
+## [November 1st, 2020](<November 1st, 2020.md>)
+- Meditation is mainly to practice [unattachment centering](<unattachment centering.md>)
+
 ## [October 20th, 2020](<October 20th, 2020.md>)
 - I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [unattachment centering](<unattachment centering.md>)
 

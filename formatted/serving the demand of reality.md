@@ -3,6 +3,9 @@
 ## [Areas for an surrender life](<Areas for an surrender life.md>)
 - [serving the demand of reality](<serving the demand of reality.md>)
 
+## [November 1st, 2020](<November 1st, 2020.md>)
+- the second part is learning to [serving the demand of reality](<serving the demand of reality.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - When the connection is stable enough and there is very little blockages, I also know very clearly what I focus on, this is when [being mode](<being mode.md>) will be natural to express the inner energy to [serving the demand of reality](<serving the demand of reality.md>).
 
