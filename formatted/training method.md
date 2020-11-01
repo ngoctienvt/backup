@@ -3,6 +3,9 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - The [training method](<training method.md>)
 
+## [November 1st, 2020](<November 1st, 2020.md>)
+- [training method](<training method.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - Instead of focus teaching on the knowledge, I could do better if I could describe more about how the process of our [feelings](<feelings.md>) will occurs. [training method](<training method.md>)
 

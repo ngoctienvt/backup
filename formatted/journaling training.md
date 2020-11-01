@@ -24,6 +24,9 @@
     - 
 
 # Backlinks
+## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- [journaling training](<journaling training.md>)
+
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - [journaling training](<journaling training.md>)
 

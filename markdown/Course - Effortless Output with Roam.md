@@ -297,7 +297,9 @@ span.rm-page-ref {
         - Todos and Task management
             - Control + Enter to create a todo
         - Referencing and Embedding info from other pages
-        - 
+            - Referencing for display information in other place 
+                - single source of truth when update
+                - find back the source
 - ### Choose your capstone
     - Next Steps for Your Capstone
         - You've got a bit of time before the rest of the videos come out and the live sessions start. So here's your homework:
@@ -307,6 +309,9 @@ span.rm-page-ref {
         - Here's a sample tweet:
         - __Super excited to be exploring underwater basket weaving as my capstone project for the @roamresearch course with @nateliason Let me know if you have any good resources I should check out!__
         - **Fourth: Start Researching. **The more materials you collect before the capstone project starts, the more ready you'll be to dive in and hit the ground running. Start looking for books, articles, podcasts, anything else that will help you explore your capstone project. And don't forget to ask for ideas on Circle and Twitter!
+    - My capstone project
+        - [[journaling training]]
+            - Deliverable:  a training course that support other to build their second brain and access their intellectual brain
     - Useful tools for research and learning
         - **Instapaper or Pocket**: Both are great tools for highlighting important passages as you're reading articles. Sign up for either one, and then start using them to read all the articles relevant for your capstone project and highlighting important things as you go.
         - **Kindle**: A great option for reading if you want to be able to easily highlight important passages as you go. If you're reading any books as part of your Capstone project, reading them on Kindle will make it easier to get your notes into Roam later.
