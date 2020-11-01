@@ -16,6 +16,9 @@
 
 - [end goals](<end goals.md>)
 
+## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- To search a cluster of things that I want to look for with no need to keep them in a hierarchy organization. Be able to search or group what I want is the most important reason for why I want to have a hierarchy organization. [end goals](<end goals.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - In order to avoid losing on the method, the tools, the attachments, focus on [end goals](<end goals.md>)
 
