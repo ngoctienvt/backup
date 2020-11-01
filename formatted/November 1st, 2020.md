@@ -23,6 +23,12 @@ I noticed that I have a [need for control](<need for control.md>) what makes me 
     - looping - the most important component [progressive approach](<progressive approach.md>)
 - Today I noticed that Roam Research and what I'm working on [journaling training](<journaling training.md>) right now is what I want to achieve last year. To have a way to think clearly and developing true wisdom.
 - My [unattachment centering](<unattachment centering.md>) is have a level that I could be okay and handle things or people close to me in a surrender and let life unfold way.
+- My main [intention](<intention.md>) would be a [spiritual practitioner](<spiritual practitioner.md>) to [living from the place of surrender](<living from the place of surrender.md>). And I can [serving the demand of reality](<serving the demand of reality.md>) mainly through working as [Who am I](<Who am I.md>)
+    - a scholar
+    - a trainer
+    - a coach
+    - a living example
+    - and any other Dharma that appear along the way
 - 
 
 # Backlinks

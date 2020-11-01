@@ -8,6 +8,8 @@
 
 - I have a wonder about how I want to support other people and who I want to support for. I noticed that the group of people that I want to focus now is very small, because the condition is tough. It's the person who truly who want to live a higher life, a deeper life and a direct way for happiness. [serving the demand of reality](<serving the demand of reality.md>)
 
+- My main [intention](<intention.md>) would be a [spiritual practitioner](<spiritual practitioner.md>) to [living from the place of surrender](<living from the place of surrender.md>). And I can [serving the demand of reality](<serving the demand of reality.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - When the connection is stable enough and there is very little blockages, I also know very clearly what I focus on, this is when [being mode](<being mode.md>) will be natural to express the inner energy to [serving the demand of reality](<serving the demand of reality.md>).
 

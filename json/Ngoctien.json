@@ -27826,12 +27826,62 @@
         "uid": "TzkWXzXzE"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604244192188,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604244195054,
+            "string": "a scholar",
+            "uid": "ShbAFrUOW"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604244195050,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604244196388,
+            "string": "a trainer",
+            "uid": "udIjflhNe"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604244196384,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604244197494,
+            "string": "a coach",
+            "uid": "zBpNAciyr"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604244222882,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604244226117,
+            "string": "a living example",
+            "uid": "Rc-HMUxoq"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604244321647,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604244335970,
+            "string": "and any other Dharma that appear along the way",
+            "uid": "7sN7lUOZD"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604242576747,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604242576747,
-        "string": "",
+        "edit-time": 1604244313888,
+        "string": "My main [[intention]] would be a [[spiritual practitioner]] to [[living from the place of surrender]]. And I can [[serving the demand of reality]] mainly through working as [[Who am I]]",
         "uid": "JzHaVV4jn"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604244226114,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604244226114,
+        "string": "",
+        "uid": "oyg6uaU3q"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -29318,5 +29368,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604238478053,
     "title": "target clients"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604244169706,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604244169708,
+    "title": "spiritual practitioner"
   }
 ]

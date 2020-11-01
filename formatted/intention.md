@@ -6,6 +6,9 @@
     - have a attitude to [enjoy the process](<enjoy the process.md>) and [enjoy the learning experience](<enjoy the learning experience.md>)
 
 # Backlinks
+## [November 1st, 2020](<November 1st, 2020.md>)
+- My main [intention](<intention.md>)
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - I found that I want to shift my way of living now is kind of laid back and passive to a way of living more energetic and active. I start to realize my highest [intention](<intention.md>)
 

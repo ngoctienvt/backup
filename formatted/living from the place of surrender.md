@@ -19,6 +19,8 @@
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - For [living from the place of surrender](<living from the place of surrender.md>),
 
+- My main [intention](<intention.md>) would be a [spiritual practitioner](<spiritual practitioner.md>) to [living from the place of surrender](<living from the place of surrender.md>).
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 [living from the place of surrender](<living from the place of surrender.md>)
 
