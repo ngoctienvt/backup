@@ -9,5 +9,7 @@
             - Second is not putting more stuff everyday, because one small samskara can be a source to accumulate many other samskara. [[immature samskaras]]
         - the second part is learning to [[serving the demand of reality]]
     - The most important thing is not about [[understanding the truth]], it is about the [[desire]] to live the truth itself. Without the willingness, everything is just like water off a duck's back. And the soul will asleep in the sea of samskaras. [[desire to live the higher life]]
-- I also noticed that I have a big expectation for people to truly awake and truly consider what they want to do with their life. Even though this expectation is good, but it's not really what I want. Because I don't want to put my pressure or expectation into other people, instead of that, I just want to support and empower them, so that they could awake and make their own choice. [[tough love]] [[unattachment empowering]]
+- I also noticed that I have a big expectation for people to truly awake and truly consider what they want to do with their life. Even though this expectation is good, but it's not really what I want. Because I don't want to put my pressure or expectation into other people, instead of that, I just want to support and empower them, so that they could awake and make their own choice. [[tough love]] [[unattachment empowering]] 
+- This week my major samskaras related to my need for protecting what's important to me. [[need for protection]] It's a big thing that related to my Tiến's principle sub-personality that it based on what I trust on what's the right thing. And I need to let go these needs and embrace the what's truly the right thing. [[seeing the truth of the world]]
+- 
 - 

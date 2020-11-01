@@ -13,10 +13,6 @@ If I want to know something, I need to be the one who really check it and [getti
 - I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy [unattachment centering](<unattachment centering.md>) over anything else. It's hard, it's challenging, and it requires me to use my own will power to keep myself detach with my mind and my emotions, but I can se that it's a highest thing that I can do for myself, and there is no cost, no time, no loss, just benefits, sustainable benefits. [sustainable development](<sustainable development.md>) [true satisfaction](<true satisfaction.md>)
 - I felt that I hard to treat [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) as everyone else. I still felt have [worry](<worry.md>) for her so much that I don't want to see her in that situation again. And this is my own lesson that I need to handle, because she will have her own lesson to learn, and my job is stand back, live my life as best as possible so that I can support her when she needed.
 - 
-- 
-- 
-- 
-- 
 
 # Backlinks
 ## [October 27th, 2020](<October 27th, 2020.md>)
