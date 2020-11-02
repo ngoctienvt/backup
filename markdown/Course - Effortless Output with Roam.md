@@ -350,4 +350,15 @@ Metadata
         - Edit from inbox to proper place like #Articles
     - 5. Consolidating Your Knowledge into Head Pages - Forte Academy
     - 6. Advanced References and Embeds - Forte Academy
+        - Embed to edit directly on the current page
+        - Alias to consolidate and still reference the sources
+        - Text and alias to no need to completely write again.
     - 7. Synthesis Outro - Forte Academy
+- Productivity - Managing your work
+    - 1. Intro to Productivity in Roam - Forte Academy
+    - 2. Creating Your First Project - Forte Academy
+    - 3. Using Queries to Dynamically Build Your Projects - Forte Academy
+    - 4. Managing Different Projects - Forte Academy
+    - 5. Weekly Planning in Roam - Forte Academy
+    - 6. The Daily Productivity Dashboard - Forte Academy
+    - 7. Productivity Outro - Forte Academy

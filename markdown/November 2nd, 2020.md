@@ -4,10 +4,10 @@
 - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [[point of focus]] [[seeking clarity before resolving]]
 - I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [[top-down boundary]][[coaching goals]] [[the relationship between end goals and methods]]
     - Choose the [[end goals]] wisely
-        - For instance, make becoming a good [[spiritual practitioner]] at end goals.
+        - For instance, make becoming a good [[spiritual practitioner]] at end goals. [[unattachment centering]]
             - Other things are methods, tests, feedbacks for that goal
             - Like becoming a lover, a parent, a friend, a son... as a [[road of trials]] for you to become a greater being
-            - They are the [[by-product]] when you become a [[greater being]]
+            - They are the [[by-product]] when you become a [[greater being]]. And as long as I focus myself to this end goals. I will eventually become better and will never be lost or wrong again, only better over time.
         - Instead of making become a good lover as a end goals
             - Because we will easy to use devil methods to reach the wrong things.
-- 
+- It sounds like [[Course - Effortless Output with Roam]] is very good to utilize external resources, while I will need to learn how to include my own insight and my own daily #inbox, as well as way to organize these tags to consolidate to a different kind of understanding based on my keywords.

@@ -350,11 +350,25 @@ Metadata
         - Edit from inbox to proper place like [Articles](<Articles.md>)
     - 5. Consolidating Your Knowledge into Head Pages - Forte Academy
     - 6. Advanced References and Embeds - Forte Academy
+        - Embed to edit directly on the current page
+        - Alias to consolidate and still reference the sources
+        - Text and alias to no need to completely write again.
     - 7. Synthesis Outro - Forte Academy
+- Productivity - Managing your work
+    - 1. Intro to Productivity in Roam - Forte Academy
+    - 2. Creating Your First Project - Forte Academy
+    - 3. Using Queries to Dynamically Build Your Projects - Forte Academy
+    - 4. Managing Different Projects - Forte Academy
+    - 5. Weekly Planning in Roam - Forte Academy
+    - 6. The Daily Productivity Dashboard - Forte Academy
+    - 7. Productivity Outro - Forte Academy
 
 # Backlinks
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - At least today I still have some time for meditation, I finish the first part of the [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- It sounds like [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
 
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - I will focus on learning [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)

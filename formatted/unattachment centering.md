@@ -15,6 +15,9 @@
 
 - My [unattachment centering](<unattachment centering.md>)
 
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- For instance, make becoming a good [spiritual practitioner](<spiritual practitioner.md>) at end goals. [unattachment centering](<unattachment centering.md>)
+
 ## [October 20th, 2020](<October 20th, 2020.md>)
 - I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [unattachment centering](<unattachment centering.md>)
 
