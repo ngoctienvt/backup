@@ -8,6 +8,9 @@
 - 
 
 # Backlinks
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- I felt that I'm extremely hard to want people to live the higher truth, but I'm lacking the [helpful manner](<helpful manner.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 Instead of looking at I'm not enough because this is the fact already, I can use [generated language](<generated language.md>) to support myself on a [helpful manner](<helpful manner.md>)
 

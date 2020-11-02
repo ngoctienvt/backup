@@ -1,0 +1,3 @@
+- I felt that I'm extremely hard to want people to live the higher truth, but I'm lacking the [[helpful manner]] to establish connection and understanding first. 
+    - It's like I know what's important for the child, but it's not suitable to give them advice when they are drowning.
+- Today I will
