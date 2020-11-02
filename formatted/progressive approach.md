@@ -37,6 +37,9 @@
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - looping - the most important component [progressive approach](<progressive approach.md>)
 
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive approach](<progressive approach.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 [living from the place of surrender](<living from the place of surrender.md>) is fully orient myself into a higher life, but at the same time fully experiences what levels I am at as the stepping stones for my next level. [progressive approach](<progressive approach.md>)
 

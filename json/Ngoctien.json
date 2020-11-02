@@ -9075,6 +9075,14 @@
         "heading": 3,
         "string": "Supportive components",
         "uid": "m5QfwRhB1"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604330315843,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604330536132,
+        "string": "",
+        "uid": "fEYzkbGnw"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -30201,6 +30209,56 @@
         "edit-time": 1604329594796,
         "string": "I felt that I start to have a [[workflow]] that truly works for me. ",
         "uid": "_9jSR2Kml"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604331665353,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604331665353,
+        "string": "",
+        "uid": "_OzoVKCbh"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604331871793,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604331873068,
+            "string": "https://twitter.com/Roamfu/status/1293505256962183170",
+            "uid": "sU84GS-lI"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604331728985,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604332038737,
+            "string": "https://www.roambrain.com/roam-and-your-idea-to-reality-production-stack/",
+            "uid": "gY34JUgnI"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604331657100,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604332058419,
+        "string": "![H\u00ecnh \u1ea3nh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [[workflow]] [[output mechanism]] [[living from the place of surrender]] [[progressive approach]] [[From idea to production]]",
+        "uid": "VCZymphyR"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604331658680,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604332103621,
+        "string": "[[evergreen notes]] https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/",
+        "uid": "YR6dN0ZJQ"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604332104299,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604332104299,
+        "string": "",
+        "uid": "O5qymwAaD"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -30593,6 +30651,40 @@
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604331212058,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604331248101,
+                    "string": "The bottom is block and sub-block",
+                    "uid": "yEi6cMJsz"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604331218148,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604331267312,
+                    "string": "The top is page and different page usages",
+                    "uid": "269fEtIXf"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604331456377,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604331531735,
+                    "string": "How I use Roam to encode the relationship between ideas based on atomic concept, evergreen source of truth based on references, ",
+                    "uid": "Q02UeYkAR"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604331067809,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604331171401,
+                "string": "Another thing is thinking at atomized ideas level. It's about seeing the relationship while maintain them in an isolated manner. In Roam Research, I could have an atomic concept in a page or in a block, and develop the relationship between them through indent. #unprocesed",
+                "uid": "z_KIMKybu"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1604328658208,
                     "edit-email": "ngoctienvt@gmail.com",
                     "edit-time": 1604328753551,
@@ -30614,6 +30706,40 @@
                 "edit-time": 1604328658212,
                 "string": "Expanding answers::",
                 "uid": "yIPGObgRB"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604331416384,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604331416389,
+                    "string": "Water is a relation between hydrogen and oxygen.",
+                    "uid": "C5WqBJPgG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604331416384,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604331416389,
+                    "string": "A melody is a relation between notes.",
+                    "uid": "0CQRtkg1r"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604331416384,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604331416389,
+                    "string": "A drawing is a relation between lines in space.",
+                    "uid": "jDrefzmjA"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604331348945,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604331411175,
+                "string": "New insights:: [[as a whole]] means that the relationship of smaller things combine arise the whole new meaning of things.",
+                "uid": "RT5aFZo-4"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -30737,24 +30863,53 @@
       {
         "children": [
           {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604330066816,
+            "create-email": "dvargas92495@gmail.com",
+            "create-time": 1599845979418,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604330082336,
-            "string": "var old = document.getElementById(\"sort-references\");if (old) {  old.remove();}var s = document.createElement(\"script\");s.src = \"https://roamjs.com/sort-references.js\";s.id = \"sort-references\";s.async = false;s.type = \"text/javascript\";document.getElementsByTagName(\"head\")[0].appendChild(s);",
-            "uid": "b9FiHkSf0"
+            "edit-time": 1604330776595,
+            "string": "```javascript\nvar old = document.getElementById(\"sort-references\");\nif (old) {\n  old.remove();\n}\n\nvar s = document.createElement(\"script\");\ns.src = \"https://roamjs.com/sort-references.js\";\ns.id = \"sort-references\";\ns.async = false;\ns.type = \"text/javascript\";\ndocument.getElementsByTagName(\"head\")[0].appendChild(s);```",
+            "uid": "CIjwrDAAW"
           }
         ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604329752042,
+        "create-email": "dvargas92495@gmail.com",
+        "create-time": 1598281876034,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604330066327,
+        "edit-time": 1604330657393,
         "string": "{{[[roam/js]]}}",
-        "uid": "f5L2Yjxl-"
+        "uid": "uDNLw5PDg"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604330106048,
     "title": "Roam JavaScript extension"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604330374188,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604332069645,
+        "string": "```java\n``` {{\u2206:1+2}}",
+        "uid": "qQlIJj1rf"
+      }
+    ],
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604330503074,
+    "title": "November 3rd, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604331171402,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604331171403,
+    "title": "unprocesed"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604332058421,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604332058423,
+    "title": "From idea to production"
   }
 ]

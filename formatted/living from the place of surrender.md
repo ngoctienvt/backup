@@ -11,6 +11,7 @@
     - [Workflow for an surrender life](<Workflow for an surrender life.md>) are the process that I navigate through days to work on the above areas
 - ### Supportive components
     - [Off-track clues for an surrender life](<Off-track clues for an surrender life.md>)
+- 
 
 # Backlinks
 ## [Areas](<Areas.md>)
@@ -20,6 +21,9 @@
 - For [living from the place of surrender](<living from the place of surrender.md>),
 
 - My main [intention](<intention.md>) would be a [spiritual practitioner](<spiritual practitioner.md>) to [living from the place of surrender](<living from the place of surrender.md>).
+
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 11th, 2020](<October 11th, 2020.md>)
 [living from the place of surrender](<living from the place of surrender.md>)

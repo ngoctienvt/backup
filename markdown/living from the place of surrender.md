@@ -11,3 +11,4 @@
     - [[Workflow for an surrender life]] are the process that I navigate through days to work on the above areas
 - ### Supportive components
     - [[Off-track clues for an surrender life]]
+- 

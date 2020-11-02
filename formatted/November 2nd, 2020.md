@@ -36,3 +36,9 @@ I'm on the process to learn to lean myself away from my inner stuff and my inner
     - The workflow will develop base on my [natural progression](<natural progression.md>) of development and what I'm truly want, then I will develop new way of thinking, learning new things so that it will support the above desire.
         - One of new [way of thinking](<way of thinking.md>) I feel that I will need to develop now is [think in a filter way](<think in a filter way.md>) instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [contextual usages](<contextual usages.md>).
         - Other is have a [workplace](<workplace.md>) for what I want to work with like [Expanding questions](<Expanding questions.md>) or where to inbox free thoughts. And then how to put the answers back to their place.
+- 
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive approach](<progressive approach.md>) [From idea to production](<From idea to production.md>)
+    - https://twitter.com/Roamfu/status/1293505256962183170
+    - https://www.roambrain.com/roam-and-your-idea-to-reality-production-stack/
+- [evergreen notes](<evergreen notes.md>) https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/
+- 
