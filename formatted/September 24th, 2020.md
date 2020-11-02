@@ -10,7 +10,7 @@
 
 I will support her on two main levels as a soul and as a lover.
 - Things have different levels and depend on what levels, I want to develop and maintain an open [intellectual mind](<intellectual mind.md>) to see things clearly without distorting by my [personal mind](<personal mind.md>) and by my [freewill](<freewill.md>). [openness](<openness.md>)
-- For me, practicing [honoring](<honoring.md>) and [abundance appreciation](<abundance appreciation.md>) is not try but rather to come back to the truth. This is a [natural way of living life](<natural way of living life.md>) and an obvious way for living life when I'm able to [clear the fog](<clear the fog.md>).
+- For me, practicing [honoring](<honoring.md>) and [abundance appreciation](<abundance appreciation.md>) is not try but rather to come back to the truth. This is a [natural progression](<natural progression.md>) and an obvious way for living life when I'm able to [clear the fog](<clear the fog.md>).
 - I felt that I started to release more and more the love samskaras, the angry samskaras, and some fear samskaras.
 - When I read [Surat Shabd Yoga](<Surat Shabd Yoga.md>), I realized that it could be very helpful to practice directly to keep the energy be high instead of letting it run to the bottom and direct it back to the top. It would require me to practice [willpower](<willpower.md>) to hold my focus on the third eye. [direct](<direct.md>) Of course, I still need to relax in the process so that it could happen naturally. 
 -  I thought about playing some Switch games, it seems like my [inner urge](<inner urge.md>) start to find other things to satisfy it. I want to establish my [intention](<intention.md>) first.

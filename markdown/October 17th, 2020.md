@@ -57,7 +57,7 @@ the seat of awareness and [[relaxing]] to let go any resistance or
 attachments.
 - [[morning rituals]] It would be easier to meditation first,
 then do personal activities later.
-- My thoughts about [[natural way of living life]] now focus
+- My thoughts about [[natural progression]] now focus
 on how to integrate everything that is not yet handled, so I could fully
 present at now first. [[living in the future]] or [[living in the past]] is
 just the result of clinging and resisting that keep the [[samskaras]] stuck
@@ -104,7 +104,7 @@ materials [[generative wisdom]]
 - There is an intersection between [[self-learning]] and learning from the [[external knowledge]] is that it focuses on solving the current [[demand of reality]]  which is the current context. [[contextual mastery]]
     - [[self-learning]] come to context with a [[bottom-up evolution]] attitude.
     - [[external knowledge]] help to optimize the situation from a [[top-down boundary]]
-- [[From separation to union life]] [[integration activtity]] [[natural way of living life]]
+- [[From separation to union life]] [[integration activtity]] [[natural progression]]
     - The societies split life into many different aspects
         - Work, life, social, entertainment, spiritual...
         - Physics, Math, Biology,...

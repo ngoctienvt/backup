@@ -82,7 +82,7 @@ OK - [[Binz]] #funny
 - [[Text Blaze]] is a good chrome extension to have a [[text expander]]. This is useful for [[repeated task]], it likes a [[template]] for digital conversation.
 -  roam is different with other things make me interested in the past. roam makes me want to use it more and more because it actually helps me to produce real [[results]], instead of just add bonus and make things better. It’s solving my big hindrance to the things that I want to do is to not waste and feel accumulation of what I did. 
     - [[accumulation]] is the big thing here. I don’t like to do things that didn’t have accumulated impact and larger over time.
-    - The other thing is it’s [[natural way of living life]] to me, because I like to use mind to think, and want to use it effectively. And I’m actually good at it. Instead of doing things that have good accumulate but feel not right for me and require too much effort, roam helped me to utilize what I’m really good at.
+    - The other thing is it’s [[natural progression]] to me, because I like to use mind to think, and want to use it effectively. And I’m actually good at it. Instead of doing things that have good accumulate but feel not right for me and require too much effort, roam helped me to utilize what I’m really good at.
 - There are different level of [[understanding]]. 
     - The deepest level I know is soul understanding which means the process of merging external vibrations and the soul itself.
     - The lower level is mind understanding, which means I can understand the concept, but haven’t able to merge it into a part of my self. It’s still like the weapon that hold in my hand, instead of become a part of my body.
@@ -94,7 +94,7 @@ OK - [[Binz]] #funny
     - the coach is only the person who guided them into that deepening process instead of working at the mind level.
     - {{[[DONE]]}} I need to spend more time in this topic to condense my real wisdom about it.
     -  I felt that it’s still a concept for me and not become a part of me for now. In the [[soul understanding]] level, things become a part of me but it’s not the end. When it becomes a part of me, it’s my job to develop it continuously or it will still decay over time.
-- My main [[intention]] for [[mind-training]] program is to help people improve their thinking in a [[natural way of living life]] way.
+- My main [[intention]] for [[mind-training]] program is to help people improve their thinking in a [[natural progression]] way.
     - It means that it’s kind of of a structure to help people how to [[bottom-up]] their PC and have their own upgrade or evolve. 
     - I’m mainly helping them to understand the concept of how to bottom-up and they will be able to do it over time. It requires no starting point, no pre-knowledge, no limitation.
     -  Just start at where they are and start to build things up. No need to even think about how to reconstruct it but makes it can easily reconstruct itself.

@@ -17,7 +17,7 @@
     - flexibility with [contextual mastery](<contextual mastery.md>)
     - [design for emergence](<design for emergence.md>)
         - [bottom-up evolution](<bottom-up evolution.md>) to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
-    - [natural way of living life](<natural way of living life.md>)
+    - [natural progression](<natural progression.md>)
     - [establishing the seat of awareness](<establishing the seat of awareness.md>)
 - ## Supportive components:
     - [support system](<support system.md>) to utilize external tools, so internal tools focus energy on what's important 

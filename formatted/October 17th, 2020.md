@@ -57,7 +57,7 @@ the seat of awareness and [relaxing](<relaxing.md>) to let go any resistance or
 attachments.
 - [morning rituals](<morning rituals.md>) It would be easier to meditation first,
 then do personal activities later.
-- My thoughts about [natural way of living life](<natural way of living life.md>) now focus
+- My thoughts about [natural progression](<natural progression.md>) now focus
 on how to integrate everything that is not yet handled, so I could fully
 present at now first. [living in the future](<living in the future.md>) or [living in the past](<living in the past.md>) is
 just the result of clinging and resisting that keep the [samskaras](<samskaras.md>) stuck
@@ -104,7 +104,7 @@ materials [generative wisdom](<generative wisdom.md>)
 - There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual mastery](<contextual mastery.md>)
     - [self-learning](<self-learning.md>) come to context with a [bottom-up evolution](<bottom-up evolution.md>) attitude.
     - [external knowledge](<external knowledge.md>) help to optimize the situation from a [top-down boundary](<top-down boundary.md>)
-- [From separation to union life](<From separation to union life.md>) [integration activtity](<integration activtity.md>) [natural way of living life](<natural way of living life.md>)
+- [From separation to union life](<From separation to union life.md>) [integration activtity](<integration activtity.md>) [natural progression](<natural progression.md>)
     - The societies split life into many different aspects
         - Work, life, social, entertainment, spiritual...
         - Physics, Math, Biology,...

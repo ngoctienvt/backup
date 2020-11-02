@@ -5,5 +5,5 @@
 
 - [convergence focus](<convergence focus.md>)
 
-As long as I pay attention to myself and what happens on my journey without the need to what leaves and the resistance to what comes. My life will start to become natural and fluid. [natural way of living life](<natural way of living life.md>) [convergence focus](<convergence focus.md>)
+As long as I pay attention to myself and what happens on my journey without the need to what leaves and the resistance to what comes. My life will start to become natural and fluid. [natural progression](<natural progression.md>) [convergence focus](<convergence focus.md>)
 

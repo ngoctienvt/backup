@@ -25,14 +25,14 @@ I need to have a link between the new materials and the existing materials in a 
     - Ideally, I want to have work to focus on and make the learning experience feel so naturally without the divergence of inner state, but convergence instead. [convergence focus](<convergence focus.md>) versus [divergence distraction](<divergence distraction.md>)
     - [convergence focus](<convergence focus.md>) will about I have a thing with [clear intention](<clear intention.md>), [constraint](<constraint.md>) and [top-down boundary](<top-down boundary.md>) to focus on in a certain period of times with assurance feeling about [divergence distraction](<divergence distraction.md>) that pull me out.
     - [divergence distraction](<divergence distraction.md>) is also important to work on but the work between [focus mode](<focus mode.md>) and [diffuse mode](<diffuse mode.md>), I want to merge them fluidly to each other, so I don't have to make [conscious choice](<conscious choice.md>) about them.
-    - I want to merge my way of living to a flow of water that can harmony with [flow of life](<flow of life.md>) instead of always busy making [conscious choice](<conscious choice.md>). [natural way of living life](<natural way of living life.md>) 
+    - I want to merge my way of living to a flow of water that can harmony with [flow of life](<flow of life.md>) instead of always busy making [conscious choice](<conscious choice.md>). [natural progression](<natural progression.md>) 
 
 A life without the need to think about decisions is about surrendering the need to making [conscious choice](<conscious choice.md>). [living from the place of surrender](<living from the place of surrender.md>)
 - On the journey of my life, I'm always moving ahead. And on this journey, there will be people go together with me, there will be people go on their own path, there will be people meet me at a certain period of time and then pass by.
 
 My attention should not be about who will stay, who will leave, who will trust me, and who I have to pull them to go ahead. My attention needs to be about how to make progress on my journey and maybe carry people I meet on the journey if they want. People will come and pass, but my journey is already ahead of me. 
 
-As long as I pay attention to myself and what happens on my journey without the need to what leaves and the resistance to what comes. My life will start to become natural and fluid. [natural way of living life](<natural way of living life.md>) [convergence focus](<convergence focus.md>) [clear intention](<clear intention.md>)
+As long as I pay attention to myself and what happens on my journey without the need to what leaves and the resistance to what comes. My life will start to become natural and fluid. [natural progression](<natural progression.md>) [convergence focus](<convergence focus.md>) [clear intention](<clear intention.md>)
 - I am in the shift from [familiarity](<familiarity.md>) to a way of living that surrender my old way to embrace new way continuously. 
     - [surrender](<surrender.md>) means 
         - handle the [samskaras](<samskaras.md>) that I'm not handle yet, 

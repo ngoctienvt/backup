@@ -71,7 +71,7 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 9th, 2020](<October 9th, 2020.md>)
-- [natural way of living life](<natural way of living life.md>) it's about learning how to understand how things happen [wisdom of the world](<wisdom of the world.md>) and adapt with them so that's we could achieve our goals in a most natural way, and in the process, it's not we don't need to put effort, we put effort on how to clean the inner personal parts so that we could merge with the [flow of life](<flow of life.md>). [living from the place of surrender](<living from the place of surrender.md>)
+- [natural progression](<natural progression.md>) it's about learning how to understand how things happen [wisdom of the world](<wisdom of the world.md>) and adapt with them so that's we could achieve our goals in a most natural way, and in the process, it's not we don't need to put effort, we put effort on how to clean the inner personal parts so that we could merge with the [flow of life](<flow of life.md>). [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [Roam Research information organization rules](<Roam Research information organization rules.md>)
 - condensing notes [living from the place of surrender](<living from the place of surrender.md>)

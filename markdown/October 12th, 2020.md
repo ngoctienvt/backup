@@ -27,7 +27,7 @@ This will lead to the [[soul evolution]] to become wholer and keep the [[inner f
 - {{[[DONE]]}} I will work for editing Michael Singer's course a little bit, around 20 minute from now. 
 - When I'm working to edit, I felt an accumulation of stress and uncomfortable sensations that emerge inside me. It's like there is stuff trying to go out and get hit. And I'm easy to focus on it instead of focus on the work itself [[distraction]] [[accumulated stress]]
     - So in order for [[flow]] to happen or maintain, it would be great if 
-        - there is nothing accumulate when working - this is [[long-term solutions]] [[natural way of living life]]
+        - there is nothing accumulate when working - this is [[long-term solutions]] [[natural progression]]
         - or I focus enough on the work and not get distract by the stuffs that emerge - [[short-term solutions]] [[focus mode]]
 - I felt that my [[impersonal desires]] are experiences without the need to satisfy any needs inside of myself. [[interests]]
     - I am [[complement]] myself so that I could be at least somehow ready than ever to become a good [[life partner]] and a good father or a good [[supporter]] for my child on their journey on the earth.

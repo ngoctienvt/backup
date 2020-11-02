@@ -30,5 +30,5 @@
 - [trust the process](<trust the process.md>)
 
 ## [interests](<interests.md>)
-- [natural way of living life](<natural way of living life.md>)  - non-resistance, [flow](<flow.md>), merging, cleaning, [trust the process](<trust the process.md>)
+- [natural progression](<natural progression.md>)  - non-resistance, [flow](<flow.md>), merging, cleaning, [trust the process](<trust the process.md>)
 

@@ -7,7 +7,7 @@
     - Most clients can only see their [intermediary goals](<intermediary goals.md>) and focus too much to the [means](<means.md>) to achieve it, that most of time makes them get stuck in the process. 
     - The reason is most clients perceived [intermediary goals](<intermediary goals.md>) as [end goals](<end goals.md>), they thought they will get what they really want by achieving it but it's not what usually happens. Most of the time, until and unless their [hidden concern](<hidden concern.md>) or what's they truly want to reveal and they can see the [end goals](<end goals.md>) that they really want, most of [coaching](<coaching.md>) still work on the surface level. 
     - [trust](<trust.md>) and [connection](<connection.md>) are the necessary conditions to establish a healthy coaching relationship that can go deep. Coaches will need to realize that focus too much on the coaching result, they will easy to neglect these conditions. 
-    - [end goals](<end goals.md>) of coaches for coaching should be the [natural way of living life](<natural way of living life.md>) development of clients as a whole through series of free choice, instead of forcing to have short-term results.
+    - [end goals](<end goals.md>) of coaches for coaching should be the [natural progression](<natural progression.md>) development of clients as a whole through series of free choice, instead of forcing to have short-term results.
 
 # Backlinks
 ## [September 20th, 2020](<September 20th, 2020.md>)

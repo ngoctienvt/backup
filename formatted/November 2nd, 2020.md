@@ -12,3 +12,8 @@
             - Because we will easy to use devil methods to reach the wrong things.
 - It sounds like [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>) is very good to utilize external resources, while I will need to learn how to include my own insight and my own daily [inbox](<inbox.md>), as well as way to organize these tags to consolidate to a different kind of understanding based on my keywords.
 - I can feel so clearly that I'm starting more and more walking on my own personal path.
+- [reading workflow](<reading workflow.md>) 
+    - First, capturing the salient parts of what you read using highlights. 
+    - Second, periodically reviewing those highlights, which is typically where most people falter and is also what the Readwise email makes easy.
+    -  And third, integrating what you've read into your life.
+- [natural progression](<natural progression.md>)

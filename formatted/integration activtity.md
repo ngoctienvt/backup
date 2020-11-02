@@ -53,6 +53,6 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [bottom-up evolution](<bottom-up evolution.md>)
 - focuses on now with [integration activtity](<integration activtity.md>)
 
-## [natural way of living life](<natural way of living life.md>)
+## [natural progression](<natural progression.md>)
 - [integration activtity](<integration activtity.md>)
 

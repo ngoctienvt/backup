@@ -1,6 +1,6 @@
 
 # Backlinks
-## [natural way of living life](<natural way of living life.md>)
+## [natural progression](<natural progression.md>)
 - The lack of understanding [who we are](<who we are.md>)
 
 and [who we are](<who we are.md>),

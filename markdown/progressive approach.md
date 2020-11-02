@@ -17,7 +17,7 @@
     - flexibility with [[contextual mastery]]
     - [[design for emergence]]
         - [[bottom-up evolution]] to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
-    - [[natural way of living life]]
+    - [[natural progression]]
     - [[establishing the seat of awareness]]
 - ## Supportive components:
     - [[support system]] to utilize external tools, so internal tools focus energy on what's important 

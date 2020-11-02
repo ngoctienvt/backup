@@ -87,6 +87,6 @@ I feel that I start to put unnecessary pressure on me to top-down things instead
 ## [helpful manner](<helpful manner.md>)
 - helpful manner is a manner that focuses on raising the moments or the person in front of me in an [effective](<effective.md>) way instead of using them to satisfy my [personal needs](<personal needs.md>)
 
-## [natural way of living life](<natural way of living life.md>)
+## [natural progression](<natural progression.md>)
 - Surrender our [personal needs](<personal needs.md>)
 

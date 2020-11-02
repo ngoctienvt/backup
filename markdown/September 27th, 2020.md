@@ -2,7 +2,7 @@
 - My [[physical body]] also started to become more and more need to take care a little bit when I started to free myself out of what tethered me.
 - Next week my focus will be:
     - {{[[DONE]]}} Working with samskaras
-    - {{[[DONE]]}} Working with [[natural way of living life]] concept
+    - {{[[DONE]]}} Working with [[natural progression]] concept
     - {{[[DONE]]}} Working with the way I want to support the evolution process of other souls with an [[unattachment]] attitude.
     - {{[[DONE]]}} Working with [[generated language]]
 - I just had a [[fear]] about the destruction of my ipad.

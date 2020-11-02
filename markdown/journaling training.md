@@ -11,7 +11,7 @@
     - preparing all the needed materials for creation [[serving the demand of reality]]
 - ### What's the difference of this journaling method?
     - [[progressive approach]]
-    - [[natural way of living life]]
+    - [[natural progression]]
 - ### Journaling in practice
     - [[accumulate scattering thoughts process]]
     - [[condensing process]]

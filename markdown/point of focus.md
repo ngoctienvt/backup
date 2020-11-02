@@ -4,4 +4,4 @@
     - [[knowledge development process]]
     - [[single intention]]
 - the bridge between shakti, consciousness, and the world by cleaning the blockages
-    - [[natural way of living life]]
+    - [[natural progression]]

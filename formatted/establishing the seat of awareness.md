@@ -28,7 +28,7 @@ It's like creating a gap between my perception based on samskaras and the truth,
 ## [morning rituals](<morning rituals.md>)
 - Establishing the seat of awareness and containing the inner energy - meditation [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
-## [natural way of living life](<natural way of living life.md>)
+## [natural progression](<natural progression.md>)
 - [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
 - Practices the [establishing the seat of awareness](<establishing the seat of awareness.md>)

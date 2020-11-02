@@ -4,7 +4,7 @@
     - [knowledge development process](<knowledge development process.md>)
     - [single intention](<single intention.md>)
 - the bridge between shakti, consciousness, and the world by cleaning the blockages
-    - [natural way of living life](<natural way of living life.md>)
+    - [natural progression](<natural progression.md>)
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)

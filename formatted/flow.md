@@ -17,5 +17,5 @@
 - Reduce the number of decision so let [flow](<flow.md>)
 
 ## [interests](<interests.md>)
-- [natural way of living life](<natural way of living life.md>)  - non-resistance, [flow](<flow.md>),
+- [natural progression](<natural progression.md>)  - non-resistance, [flow](<flow.md>),
 

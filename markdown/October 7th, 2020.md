@@ -5,7 +5,7 @@
 - My today focus would be about:
     - {{[[DONE]]}} preparing a little bit sharing about [[freedom]] and [[wisdom]] on Saturday [[sharing about true happiness]] [[true happiness]]
     - {{[[DONE]]}} continuing reading [[Book - How to take smart notes]]
-    - {{[[TODO]]}} merging the [[living from the place of surrender]] with the concept of [[natural way of living life]]
+    - {{[[TODO]]}} merging the [[living from the place of surrender]] with the concept of [[natural progression]]
 - I fall asleep after this [[morning rituals]], I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [[energy management]] and nurture my consciousness [[willpower]] to remain the ability to conscious more. This would be more about [[spiritual energy]] and a part of [[physical energy]]. [[nurturing the wake up state of consciousness]]
 - I still have an attachment for my Ode to Heroes account that I don't want it to be below what it could be and react with other people behaviors to bring it below my standard. [[personal standards]] versus [[impersonal standards]]
 

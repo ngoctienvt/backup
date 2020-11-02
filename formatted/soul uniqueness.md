@@ -10,5 +10,5 @@
 - [progressive approach](<progressive approach.md>) emphasizes on the self-experiencing and self-learning so that the person can deepen their own understanding and generate new insight from their [soul uniqueness](<soul uniqueness.md>)
 
 ## [life](<life.md>)
-- [natural way of living life](<natural way of living life.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>)
+- [natural progression](<natural progression.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>)
 

@@ -7,10 +7,10 @@
 - [[bottom-up evolution]] is the way of approach life from the current starting point and working from that level to move up the [[soul evolution]] process in a natural way. However, if there is no [[intention]], the soul will easily get distracted and live in a sleep state or accept the lower life.
     - meditation
     - [[coaching]]
-- [[soul evolution]] will need to work on both level to have a [[intention]] to aim to from [[top-down boundary]] and close the gap by [[bottom-up evolution]]. This [[progressive approach]] of [[soul evolution]] includes both [[top-down boundary]] and [[bottom-up evolution]] that complement each other to help the soul evolve and live the truth as [[natural way of living life]] as possible.
+- [[soul evolution]] will need to work on both level to have a [[intention]] to aim to from [[top-down boundary]] and close the gap by [[bottom-up evolution]]. This [[progressive approach]] of [[soul evolution]] includes both [[top-down boundary]] and [[bottom-up evolution]] that complement each other to help the soul evolve and live the truth as [[natural progression]] as possible.
     - This [[progressive approach]] actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [[merging]] process to evolve the soul.
     - This [[progressive approach]] also have 3 important point:
         - Intention
         - Available or accumulate
         - Now
-- [[natural way of living life]] means that it depends on the [[soul uniqueness]] and the state of that soul, whether it is open enough to learn in the [[coaching]] way or requires shocking experience from [[reality]], or need the [[truth-oriented]] knowledge to process next.
+- [[natural progression]] means that it depends on the [[soul uniqueness]] and the state of that soul, whether it is open enough to learn in the [[coaching]] way or requires shocking experience from [[reality]], or need the [[truth-oriented]] knowledge to process next.
