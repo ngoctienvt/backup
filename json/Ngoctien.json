@@ -19346,121 +19346,6 @@
     "title": "roam/css"
   },
   {
-    "children": [
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326153435,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326318072,
-            "string": "Author::",
-            "uid": "ZhPbVwHt2"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326156186,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326333642,
-            "string": "URL::",
-            "uid": "okOJxeZPO"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326166708,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326332432,
-            "string": "Status::",
-            "uid": "cQiBkSDU3"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326168314,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326334798,
-            "string": "Tags::",
-            "uid": "aeM4RSwVJ"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604326157034,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604326314238,
-        "string": "[[Metadata]]",
-        "uid": "0DQfF2Ghi"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326181418,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326191034,
-            "string": "Summary",
-            "uid": "rNm7Fgyuq"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326131164,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326152224,
-            "string": "Key take-aways",
-            "uid": "CtrfiNZTj"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326195058,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326353073,
-            "string": "New insights",
-            "uid": "m5aoNNpsZ"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326201929,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326210381,
-            "string": "New awareness",
-            "uid": "Ukjh151Gb"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326357504,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326390026,
-            "string": "Unresolved clarity",
-            "uid": "6vaXV3U5j"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604326215457,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604326265326,
-        "string": "[[deeper understanding]]",
-        "uid": "9LHFeh6O_"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604326210378,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604326294077,
-        "string": "Inbox",
-        "uid": "ZZJZXdAbO"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604326152220,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604326152220,
-        "string": "",
-        "uid": "PzLvrDngl"
-      }
-    ],
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1602397490747,
-    "title": "Templates"
-  },
-  {
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1602397834915,
     "edit-email": "ngoctienvt@gmail.com",
@@ -24858,8 +24743,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1603685293897,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603685330063,
-                "string": "[[stream of consciousness]] journal",
+                "edit-time": 1604327405180,
+                "string": "stream of consciousness journal",
                 "uid": "YWQLpgDJh"
               },
               {
@@ -25183,13 +25068,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1603685293941,
     "title": "samskaras journal"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603685293903,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603685293941,
-    "title": "stream of consciousness"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -29380,8 +29258,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604309748005,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604310009620,
-                "string": "How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach?",
+                "edit-time": 1604327594467,
+                "string": "How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach? ",
                 "uid": "I9-9HUliO"
               },
               {
@@ -29390,7 +29268,7 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1604309789013,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604309871672,
+                    "edit-time": 1604327594467,
                     "string": "Delete? Or query? Or filter? ",
                     "uid": "LCbzK7PrK"
                   }
@@ -29398,7 +29276,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604309779901,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604309818221,
+                "edit-time": 1604327594467,
                 "string": "How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?",
                 "uid": "ZZ9SoKkbN"
               },
@@ -29408,7 +29286,7 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1604309854566,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604309863098,
+                    "edit-time": 1604327594467,
                     "string": "[[contextual usages]]",
                     "uid": "MFcATp5eS"
                   }
@@ -29416,7 +29294,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604309794629,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604309854569,
+                "edit-time": 1604327594467,
                 "string": "How I will organize my way of tagging and creating page?",
                 "uid": "ouFha6cr3"
               }
@@ -29424,8 +29302,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604309663925,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604309748008,
-            "string": "I will work on to have my own synthesis and condensing process first. It will need to solve few big questions",
+            "edit-time": 1604327594467,
+            "string": "I will work on to have my own synthesis and condensing process first. It will need to solve few big [[Expanding questions]]",
             "uid": "7gjkeU_DR"
           },
           {
@@ -29434,7 +29312,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604310055117,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604310143371,
+                "edit-time": 1604327594467,
                 "string": "centralizing on serving myself in the most natural way - not focusing on the  methods or techniques, but the end goals",
                 "uid": "Qg-cnVHdg"
               },
@@ -29442,7 +29320,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604310065900,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604310085416,
+                "edit-time": 1604327594467,
                 "string": "integration of internal materials and external materials",
                 "uid": "8ObkhpG0E"
               },
@@ -29450,7 +29328,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604310085413,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604310097752,
+                "edit-time": 1604327594467,
                 "string": "fully personalized first",
                 "uid": "P08vGgbB9"
               },
@@ -29458,7 +29336,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604310097749,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604310112611,
+                "edit-time": 1604327594467,
                 "string": "progressive development",
                 "uid": "Gabuc9KSZ"
               },
@@ -29466,7 +29344,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604310207215,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604310232985,
+                "edit-time": 1604327594467,
                 "string": "understanding or the idea behind first, then the process or procedure come after that.",
                 "uid": "Gxm3DAXp_"
               }
@@ -29474,7 +29352,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604310041390,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604310055123,
+            "edit-time": 1604327594467,
             "string": "The main guideline for me will be",
             "uid": "YexXHFlzx"
           }
@@ -30209,6 +30087,120 @@
         "edit-time": 1604315502765,
         "string": "[[reading workflow]] ",
         "uid": "dW1AXZjxk"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326587034,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326749795,
+        "string": "New awareness:: I noticed that I'm learning to keep myself away from grab or involve with my thoughts, emotions and my samskaras. \n\nI'm on the process to learn to lean myself away from my inner stuff and my inner voice. I let them do what they needed even though without my involvement. [[unattachment centering]]",
+        "uid": "_jg3WXmmV"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326739131,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604329183633,
+        "string": "I also learn to create my own [[personal knowledge development]] system in a way that it fully makes sense to me.",
+        "uid": "2izhyZEiY"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604329511387,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604329541860,
+                        "string": "Clarity what I really want, instead of focus on the method and what's possible first",
+                        "uid": "Er2j36d7K"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604329417087,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604329511389,
+                        "string": "Focus on contextual usages to find true helpful answers",
+                        "uid": "t87Bx1WL5"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604329209609,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604329452399,
+                    "string": "How to direct my free-thoughts in a helpful way",
+                    "uid": "Ckv0V4Fc7"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604329431966,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604329431966,
+                "string": "[[Free-thoughts]] - whatever my thoughts about certain things (questions, emerging thoughts, new ideas...). ",
+                "uid": "_6IbI-ePh"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604329214849,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604329291140,
+                "string": "Key summary, new awareness, expanded answers - the condensed summarization for the above free-thoughts",
+                "uid": "p-D5i6O9G"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604329291137,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604329340020,
+                "string": "What's left is what I still need to grow next, or haven't fully clear yet? - [[Expanding questions]]",
+                "uid": "3kjXPB3Yh"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604329183625,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604329594801,
+            "string": "Somehow it will be something like this.",
+            "uid": "w_ZPHV5XW"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604329687448,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604329820925,
+                "string": "One of new [[way of thinking]] I feel that I will need to develop now is [[think in a filter way]] instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [[contextual usages]].",
+                "uid": "pGIEtrkZj"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604329784938,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604329986720,
+                "string": "Other is have a [[workplace]] for what I want to work with like [[Expanding questions]] or where to inbox free thoughts. And then how to put the answers back to their place.",
+                "uid": "qcFku6DcQ"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604329597443,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604329687450,
+            "string": "The workflow will develop base on my [[natural progression]] of development and what I'm truly want, then I will develop new way of thinking, learning new things so that it will support the above desire.",
+            "uid": "dOhJ68sNq"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604329594796,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604329594796,
+        "string": "I felt that I start to have a [[workflow]] that truly works for me. ",
+        "uid": "_9jSR2Kml"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -30300,6 +30292,166 @@
     "title": "evergreen insight"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326153435,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326318072,
+            "string": "Author::",
+            "uid": "ZhPbVwHt2"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326156186,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326333642,
+            "string": "URL::",
+            "uid": "okOJxeZPO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326166708,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326545956,
+            "string": "Status:: ",
+            "uid": "cQiBkSDU3"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326168314,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326334798,
+            "string": "Tags::",
+            "uid": "aeM4RSwVJ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326157034,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326314238,
+        "string": "[[Metadata]]",
+        "uid": "0DQfF2Ghi"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604327276581,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604327445297,
+            "string": "Free-thoughts::",
+            "uid": "zeBLwpROO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326181418,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326856098,
+            "string": "Summary::",
+            "uid": "rNm7Fgyuq"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326131164,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326857255,
+            "string": "Key take-aways::",
+            "uid": "CtrfiNZTj"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326195058,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326858210,
+            "string": "New insights::",
+            "uid": "m5aoNNpsZ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326201929,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326859225,
+            "string": "New awareness::",
+            "uid": "Ukjh151Gb"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326357504,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604327150499,
+            "string": "Expanding questions::",
+            "uid": "6vaXV3U5j"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326215457,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326265326,
+        "string": "[[deeper understanding]]",
+        "uid": "9LHFeh6O_"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326210378,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326294077,
+        "string": "Inbox",
+        "uid": "ZZJZXdAbO"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326152220,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326495196,
+            "string": "#Articles",
+            "uid": "PzLvrDngl"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326495194,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326499877,
+            "string": "#Projects",
+            "uid": "1QrZl3jFc"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326499874,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326533614,
+            "string": "#[[Audio Books]]",
+            "uid": "qfzHQHxzC"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326520859,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326526482,
+            "string": "#Books",
+            "uid": "oCo7K5KCd"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326563508,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326567433,
+        "string": "Tag types",
+        "uid": "ZwgtBZG3S"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326536519,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326536519,
+        "string": "",
+        "uid": "TMPFV3p7X"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604326314240,
     "edit-email": "ngoctienvt@gmail.com",
@@ -30326,5 +30478,283 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604326321681,
     "title": "Tags"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326526483,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326526483,
+    "title": "Books"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326533616,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326533624,
+    "title": "Audio Books"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326628993,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326628993,
+    "title": "New awareness"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326856104,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326856105,
+    "title": "Summary"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326857256,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326857257,
+    "title": "Key take-aways"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326858211,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326858212,
+    "title": "New insights"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604328244393,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604328276629,
+                        "string": "In the bottom-up evolution concept, I will work on everything related directly to this and develop my understand it over time.",
+                        "uid": "VVspYKBzt"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604328276626,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604328328478,
+                        "string": "While in the progressive approach, the bottom-up evolution concept is just an application to this approach, not about fully understand the concept separately.",
+                        "uid": "YxShR8lcs"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604328126464,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604328244395,
+                    "string": "For example, if I have a bottom-up evolution concept, then I will have a progressive approach that cover the bottom-up evolution concept. And I want to keep them relate but separate at the same time? How will I solve this?",
+                    "uid": "U7payyAGU"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604328514763,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604328533980,
+                        "string": "So my mind here now is concept will be isolated by itself, but related to other concept",
+                        "uid": "NGwclRXGa"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604328533977,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604328636093,
+                        "string": "While application will require the interaction and contextual usages of them. Like I can make a journaling training, and the application of the program will need to have the progressive approach concept, so that instead of building the program on progressive approach, I build them on my journaling training project page instead.",
+                        "uid": "qCYjfVuDm"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604328328475,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604328514766,
+                    "string": "And what if my progressive approach could become a isolated concept itself and an application for other things",
+                    "uid": "neIE8ryY7"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604328126464,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604328183010,
+                "string": "Free-thoughts:: My concern now is about how I will manage the information and the development of different concepts/ ideas or understanding in a way that it's not too separation.",
+                "uid": "UjwNn0Nc7"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604328658208,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604328753551,
+                    "string": "Concept will be isolated by itself, or could be live in a bigger concept to make it wholer, but understanding will be central around the idea of the topic concept.",
+                    "uid": "KDaUccJo2"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604328721234,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604328787149,
+                    "string": "Application or project will withdraw the concept to server proper contextual usages, so that the intention will be achieve.",
+                    "uid": "PtBdn4mCd"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604328636090,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604328658212,
+                "string": "Expanding answers::",
+                "uid": "yIPGObgRB"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604328126464,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604328126464,
+            "string": "((I9-9HUliO))",
+            "uid": "yH7MF6aZa"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604328126464,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604328126464,
+                "string": "((LCbzK7PrK))",
+                "uid": "mNGUSUGaa"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604328126464,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604328126464,
+            "string": "((ZZ9SoKkbN))",
+            "uid": "tx1jJzkWa"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604329016251,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604329056658,
+                    "string": "However, will there be  a different level of processed thoughts is another [[Expanding questions]]? And how will I organize this?",
+                    "uid": "ObXwo_pQ1"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604328895215,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604329016254,
+                "string": "Free-thoughts:: It's not clear for me yet. I think that free thoughts will not need tag, while the key summary, expanding answers, whatever that got condensed will need to have tag instead. So that's I don't waste time to re-read unprocessed thoughts. ",
+                "uid": "7fBiStCTb"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604328126464,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604328126464,
+                "string": "((MFcATp5eS))",
+                "uid": "fw80YBIdR"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604328126464,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604328126464,
+            "string": "((ouFha6cr3))",
+            "uid": "XlSaUqFSu"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604328126464,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604328126464,
+        "string": "((7gjkeU_DR))",
+        "uid": "ck82bhaoJ"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604327150504,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604327150507,
+    "title": "Expanding questions"
+  },
+  {
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604327435216,
+    "title": "Free-thoughts"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604328657856,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604328657863,
+    "title": "Expanding answers"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604329726120,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604329726121,
+    "title": "way of thinking"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604329768126,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604329768127,
+    "title": "think in a filter way"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604329956130,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604329956137,
+    "title": "workplace"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604330066330,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604330066332,
+    "title": "roam/js"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604330066816,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604330082336,
+            "string": "var old = document.getElementById(\"sort-references\");if (old) {  old.remove();}var s = document.createElement(\"script\");s.src = \"https://roamjs.com/sort-references.js\";s.id = \"sort-references\";s.async = false;s.type = \"text/javascript\";document.getElementsByTagName(\"head\")[0].appendChild(s);",
+            "uid": "b9FiHkSf0"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604329752042,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604330066327,
+        "string": "{{[[roam/js]]}}",
+        "uid": "f5L2Yjxl-"
+      }
+    ],
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604330106048,
+    "title": "Roam JavaScript extension"
   }
 ]

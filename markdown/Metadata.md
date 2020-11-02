@@ -1,0 +1,19 @@
+- [[Metadata]]
+    - Author::
+    - URL::
+    - Status:: 
+    - Tags::
+- [[deeper understanding]]
+    - Free-thoughts::
+    - Summary::
+    - Key take-aways::
+    - New insights::
+    - New awareness::
+    - Expanding questions::
+- Inbox
+- Tag types
+    - #Articles
+    - #Projects
+    - #[[Audio Books]]
+    - #Books
+- 

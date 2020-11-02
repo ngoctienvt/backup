@@ -18,6 +18,8 @@
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - For instance, make becoming a good [spiritual practitioner](<spiritual practitioner.md>) at end goals. [unattachment centering](<unattachment centering.md>)
 
+I'm on the process to learn to lean myself away from my inner stuff and my inner voice. I let them do what they needed even though without my involvement. [unattachment centering](<unattachment centering.md>)
+
 ## [October 20th, 2020](<October 20th, 2020.md>)
 - I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [unattachment centering](<unattachment centering.md>)
 

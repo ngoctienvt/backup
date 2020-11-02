@@ -4,7 +4,7 @@
 - Attribute  
                 - **[Author](<Author.md>):**
 
-## [Templates](<Templates.md>)
+## [Metadata](<Metadata.md>)
 - [Metadata](<Metadata.md>)
     - **[Author](<Author.md>):**
 

@@ -26,6 +26,8 @@ us. [union experiences](<union experiences.md>)
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - [natural progression](<natural progression.md>)
 
+- The workflow will develop base on my [natural progression](<natural progression.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - there is nothing accumulate when working - this is [long-term solutions](<long-term solutions.md>) [natural progression](<natural progression.md>)
 

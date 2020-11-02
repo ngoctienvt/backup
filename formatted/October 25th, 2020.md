@@ -5,7 +5,7 @@
         - [samskaras journal](<samskaras journal.md>)
         - knowledge development journal
     - Second is categorize by actions
-        - [stream of consciousness](<stream of consciousness.md>) journal
+        - stream of consciousness journal
         - condensing journal
     - I'm not totally sure how I will categorize them yet. I will work on it later. My desire is how to have an easy way to relate and move into actions instead of thinking too much. So maybe I will let them action-oriented. [action-oriented](<action-oriented.md>) to support generating a certain outcome.
         - Because if it's not action-oriented, we will easy to fall back to our thoughts. While in fact, the journal activities is to help us clear our thoughts.

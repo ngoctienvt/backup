@@ -381,8 +381,8 @@ span.rm-page-ref {
         - Progressive Summarization 
             - This will mainly for external materials
             - I still don't have clear way to handle internal materials
-    - I will work on to have my own synthesis and condensing process first. It will need to solve few big questions
-        - How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach?
+    - I will work on to have my own synthesis and condensing process first. It will need to solve few big [Expanding questions](<Expanding questions.md>)
+        - How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach? 
         - How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?
             - Delete? Or query? Or filter? 
         - How I will organize my way of tagging and creating page?
