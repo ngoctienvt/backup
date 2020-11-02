@@ -12,6 +12,9 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - The [training method](<training method.md>) of Michael Singer is teaching students from a [top-down boundary](<top-down boundary.md>)
 
+## [November 2nd, 2020](<November 2nd, 2020.md>)
+- I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [top-down boundary](<top-down boundary.md>)[
+
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - When I thought about how I could learn from the [top-down boundary](<top-down boundary.md>),
 

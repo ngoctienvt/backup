@@ -333,3 +333,21 @@ Metadata
     - 8. Storing Webpage Highlights in Roam - Forte Academy
     - 9. Using Roam on the Go - Forte Academy
     - 10. Research Outro - Forte Academy
+- ### Synthesis organizing for insight
+    - 1. Intro to Synthesis in Roam - Forte Academy
+    - 2. The Inbox - Forte Academy
+        - Usage: to comeback to work with later
+            - Daily notes
+            - Using #inbox tag
+    - 3. Building Page Relationships with Tags - Forte Academy
+        - Relevant context
+    - 4. Progressive Summarization in Roam - Forte Academy
+        - **Tagging** to easier to re-discovery
+        - **Bolding** information that's important
+        - ^^**Highlighting**^^ what's bolded to give extra important.
+            - ^^**
+        - **Summarizing** what's highlighted
+        - Edit from inbox to proper place like #Articles
+    - 5. Consolidating Your Knowledge into Head Pages - Forte Academy
+    - 6. Advanced References and Embeds - Forte Academy
+    - 7. Synthesis Outro - Forte Academy

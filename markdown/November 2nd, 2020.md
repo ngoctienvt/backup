@@ -1,3 +1,13 @@
 - I felt that I'm extremely hard to want people to live the higher truth, but I'm lacking the [[helpful manner]] to establish connection and understanding first. 
     - It's like I know what's important for the child, but it's not suitable to give them advice when they are drowning.
-- Today I will
+- Today I will continue to focus on learn Effortless Output with Roam.
+- I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [[point of focus]] [[seeking clarity before resolving]]
+- I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [[top-down boundary]][[coaching goals]] [[the relationship between end goals and methods]]
+    - Choose the [[end goals]] wisely
+        - For instance, make becoming a good [[spiritual practitioner]] at end goals.
+            - Other things are methods, tests, feedbacks for that goal
+            - Like becoming a lover, a parent, a friend, a son... as a [[road of trials]] for you to become a greater being
+            - They are the [[by-product]] when you become a [[greater being]]
+        - Instead of making become a good lover as a end goals
+            - Because we will easy to use devil methods to reach the wrong things.
+- 
