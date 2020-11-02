@@ -1,0 +1,13 @@
+- [[Metadata]]
+    - Author::
+    - URL::
+    - Status::
+    - Tags::
+- [[deeper understanding]]
+    - Summary
+    - Key take-aways
+    - New insights
+    - New awareness
+    - Unresolved clarity
+- Inbox
+- 

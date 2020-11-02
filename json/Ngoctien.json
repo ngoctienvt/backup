@@ -19346,6 +19346,116 @@
     "title": "roam/css"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326153435,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326318072,
+            "string": "Author::",
+            "uid": "ZhPbVwHt2"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326156186,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326333642,
+            "string": "URL::",
+            "uid": "okOJxeZPO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326166708,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326332432,
+            "string": "Status::",
+            "uid": "cQiBkSDU3"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326168314,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326334798,
+            "string": "Tags::",
+            "uid": "aeM4RSwVJ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326157034,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326314238,
+        "string": "[[Metadata]]",
+        "uid": "0DQfF2Ghi"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326181418,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326191034,
+            "string": "Summary",
+            "uid": "rNm7Fgyuq"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326131164,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326152224,
+            "string": "Key take-aways",
+            "uid": "CtrfiNZTj"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326195058,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326353073,
+            "string": "New insights",
+            "uid": "m5aoNNpsZ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326201929,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326210381,
+            "string": "New awareness",
+            "uid": "Ukjh151Gb"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604326357504,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604326390026,
+            "string": "Unresolved clarity",
+            "uid": "6vaXV3U5j"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326215457,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326265326,
+        "string": "[[deeper understanding]]",
+        "uid": "9LHFeh6O_"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326210378,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326294077,
+        "string": "Inbox",
+        "uid": "ZZJZXdAbO"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604326152220,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604326152220,
+        "string": "",
+        "uid": "PzLvrDngl"
+      }
+    ],
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1602397490747,
     "title": "Templates"
@@ -21528,8 +21638,8 @@
       },
       {
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603698368421,
-        "string": "I felt so much fun when teaching and also [[deeper\nunderstanding]] for myself from today spiritual lessons. It's very satisfying\nwhen seeing people learning the [[hard-truth]]. Because this pain is what\nreally needs to confront and will give true solutions for true happiness.",
+        "edit-time": 1604326265326,
+        "string": "I felt so much fun when teaching and also [[deeper understanding]] for myself from today spiritual lessons. It's very satisfying\nwhen seeing people learning the [[hard-truth]]. Because this pain is what\nreally needs to confront and will give true solutions for true happiness.",
         "uid": "HPXJ753GF"
       },
       {
@@ -25573,13 +25683,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1603698368421,
     "title": "Course - Living from the place\nof surrender"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603698368382,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603698368421,
-    "title": "deeper\nunderstanding"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -30195,5 +30298,33 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604316026827,
     "title": "evergreen insight"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326314240,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326314240,
+    "title": "Metadata"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326319566,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326319567,
+    "title": "URL"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326320766,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326320766,
+    "title": "Status"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604326321681,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604326321681,
+    "title": "Tags"
   }
 ]

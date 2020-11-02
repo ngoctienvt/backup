@@ -13,8 +13,7 @@ fully experience the moments and then I will know what I need to do next. I
 will stop [living in the future](<living in the future.md>) or at least know that I need to come back to
 now, because everything is already here that I need to understand and fully
 experience them first.
-- I felt so much fun when teaching and also [[deeper
-understanding]] for myself from today spiritual lessons. It's very satisfying
+- I felt so much fun when teaching and also [deeper understanding](<deeper understanding.md>) for myself from today spiritual lessons. It's very satisfying
 when seeing people learning the [hard-truth](<hard-truth.md>). Because this pain is what
 really needs to confront and will give true solutions for true happiness.
 - [concise](<concise.md>) is about clear intention, enough and trust the

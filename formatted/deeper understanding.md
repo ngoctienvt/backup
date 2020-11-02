@@ -5,6 +5,9 @@
 
 Because there is a wondering confusion in my mind that I don't really want to learn everything that outside, I want to learn from it to have a [deeper understanding](<deeper understanding.md>)
 
+## [October 17th, 2020](<October 17th, 2020.md>)
+- I felt so much fun when teaching and also [deeper understanding](<deeper understanding.md>)
+
 ## [October 1st, 2020](<October 1st, 2020.md>)
 - Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>)
 
@@ -25,6 +28,9 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 
 ## [September 30th, 2020](<September 30th, 2020.md>)
 If the person only learns from what others teach them, they can't have their own solidify [basic foundation](<basic foundation.md>) and [deeper understanding](<deeper understanding.md>)
+
+## [Templates](<Templates.md>)
+- [deeper understanding](<deeper understanding.md>)
 
 ## [condensing process](<condensing process.md>)
 - The main meaning of [condensing process](<condensing process.md>) is to help you achieve [deeper understanding](<deeper understanding.md>)
