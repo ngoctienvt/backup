@@ -16,4 +16,8 @@
     - First, capturing the salient parts of what you read using highlights. 
     - Second, periodically reviewing those highlights, which is typically where most people falter and is also what the Readwise email makes easy.
     -  And third, integrating what you've read into your life.
-- [natural progression](<natural progression.md>)
+    - [natural progression](<natural progression.md>)
+        - Step 1: Capturing Reactions - write my thoughts or emotions related to what I read - write between the lines
+        - Step 2: Active Review
+        - Step 3: Integrate - [compressed understanding](<compressed understanding.md>) or [evergreen insight](<evergreen insight.md>)
+        - Step 4: Resurface [compressed understanding](<compressed understanding.md>)

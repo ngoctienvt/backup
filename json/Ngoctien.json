@@ -30056,6 +30056,48 @@
             "edit-time": 1604315509636,
             "string": " And third, integrating what you've read into your life.",
             "uid": "2pb_-fCVN"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604315655226,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604315701482,
+                "string": "Step 1: Capturing Reactions - write my thoughts or emotions related to what I read - write between the lines",
+                "uid": "DRd3JpMrM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604315701479,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604315711274,
+                "string": "Step 2: Active Review",
+                "uid": "gsYtKVxot"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604315746361,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604316026827,
+                "string": "Step 3: Integrate - [[compressed understanding]] or [[evergreen insight]]",
+                "uid": "K3W10YMjR"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604315838505,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604315962343,
+                "string": "Step 4: Resurface [[compressed understanding]]",
+                "uid": "d7854UlKz"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604315533466,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604315545793,
+            "string": "[[natural progression]]",
+            "uid": "j1wIscj49"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -30064,14 +30106,6 @@
         "edit-time": 1604315502765,
         "string": "[[reading workflow]] ",
         "uid": "dW1AXZjxk"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604315533466,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604315545793,
-        "string": "[[natural progression]]",
-        "uid": "j1wIscj49"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -30147,5 +30181,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604315499317,
     "title": "reading workflow"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604315947122,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604315947123,
+    "title": "compressed understanding"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604316015733,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604316026827,
+    "title": "evergreen insight"
   }
 ]
