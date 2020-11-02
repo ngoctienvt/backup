@@ -2,6 +2,9 @@
 - 
 
 # Backlinks
+## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- [contextual usages](<contextual usages.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - •	contextual approach for different usage instead of many group of different people now [contextual usages](<contextual usages.md>)
 

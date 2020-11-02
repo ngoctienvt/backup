@@ -323,7 +323,7 @@ span.rm-page-ref {
         - Metadata is pre-define attribute for information that I need
             - Author
             - URL
-Metadata
+            - Metadata
     - 2. Using Readwise with Roam - Forte Academy
     - 3. Adding Article Notes to Roam - Forte Academy
     - 4. Adding Book Notes to Roam - Forte Academy
@@ -354,11 +354,42 @@ Metadata
         - Alias to consolidate and still reference the sources
         - Text and alias to no need to completely write again.
     - 7. Synthesis Outro - Forte Academy
-- Productivity - Managing your work
+- ### Productivity - Managing your work
     - 1. Intro to Productivity in Roam - Forte Academy
     - 2. Creating Your First Project - Forte Academy
     - 3. Using Queries to Dynamically Build Your Projects - Forte Academy
+        - Queries help to collect what I want to work with
+        - Project phase
+            - Research Phase
+            - Draft Phase
     - 4. Managing Different Projects - Forte Academy
     - 5. Weekly Planning in Roam - Forte Academy
     - 6. The Daily Productivity Dashboard - Forte Academy
     - 7. Productivity Outro - Forte Academy
+- 
+- ### My takeaways::
+    - What I learned so far from this course are
+        - inbox for unprocessed materials
+            - daily notes - internal materials (thoughts, feelings, insights, journals...)
+            - external materials - (books, articles, audio,...)
+        - Metadata for create pre-defined information that I want to easy to re-discover and find back
+            - Author
+        - Usage of different type of blocks:
+            - References for display information and remain single source of truth
+            - Embed for directly edit in the current page
+            - Alias for condense information and still reference back to the source.
+        - Progressive Summarization 
+            - This will mainly for external materials
+            - I still don't have clear way to handle internal materials
+    - I will work on to have my own synthesis and condensing process first. It will need to solve few big questions
+        - How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach?
+        - How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?
+            - Delete? Or query? Or filter? 
+        - How I will organize my way of tagging and creating page?
+            - [[contextual usages]]
+    - The main guideline for me will be
+        - centralizing on serving myself in the most natural way - not focusing on the  methods or techniques, but the end goals
+        - integration of internal materials and external materials
+        - fully personalized first
+        - progressive development
+        - understanding or the idea behind first, then the process or procedure come after that.

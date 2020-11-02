@@ -28750,10 +28750,18 @@
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309454216,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309454216,
+                    "string": "URL",
+                    "uid": "HX7iQ4tbG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1604242860040,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604242867783,
-                    "string": "URL\nMetadata",
+                    "edit-time": 1604309454221,
+                    "string": "Metadata",
                     "uid": "lSjnJiOH8"
                   }
                 ],
@@ -29055,6 +29063,42 @@
             "uid": "zTJpyTriW"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604308993155,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309018757,
+                "string": "Queries help to collect what I want to work with",
+                "uid": "PWcKujUgC"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604308700537,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604308705107,
+                    "string": "Research Phase",
+                    "uid": "uzqfCwT-W"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604308705100,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604308707612,
+                    "string": "Draft Phase",
+                    "uid": "nP9H9uu4_"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604308998987,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309001271,
+                "string": "Project phase",
+                "uid": "PmA8YhXDT"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604307884953,
             "edit-email": "ngoctienvt@gmail.com",
@@ -29099,8 +29143,246 @@
         "create-time": 1604307865181,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1604307880139,
+        "heading": 3,
         "string": "Productivity - Managing your work",
         "uid": "YOBPS9UBM"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604309279956,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604309279956,
+        "string": "",
+        "uid": "GJ4rIUaJY"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309338687,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309385653,
+                    "string": "daily notes - internal materials (thoughts, feelings, insights, journals...)",
+                    "uid": "VTtIeZFZ7"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309340933,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309407679,
+                    "string": "external materials - (books, articles, audio,...)",
+                    "uid": "qONPQKFAI"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604309308813,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309331320,
+                "string": "inbox for unprocessed materials",
+                "uid": "7z9toliew"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309929879,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309932376,
+                    "string": "Author",
+                    "uid": "n-coiGxsb"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604309427727,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309926830,
+                "string": "Metadata for create pre-defined information that I want to easy to re-discover and find back",
+                "uid": "Ub1bjJ7Ca"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309535862,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309551064,
+                    "string": "References for display information and remain single source of truth",
+                    "uid": "jPAjKA6Fp"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309551061,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309558959,
+                    "string": "Embed for directly edit in the current page",
+                    "uid": "JNBOloW7i"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309558957,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309575966,
+                    "string": "Alias for condense information and still reference back to the source.",
+                    "uid": "Iz5M7oEmg"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604309350110,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309702939,
+                "string": "Usage of different type of blocks:",
+                "uid": "2MBPKer3Y"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309605429,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309650271,
+                    "string": "This will mainly for external materials",
+                    "uid": "V7prvNRs_"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309650268,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309675740,
+                    "string": "I still don't have clear way to handle internal materials",
+                    "uid": "hVgAuEeqe"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604309597813,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309604924,
+                "string": "Progressive Summarization ",
+                "uid": "YyxIGu-Ra"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604309282790,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604309308816,
+            "string": "What I learned so far from this course are",
+            "uid": "bC5Yp8Suh"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604309748005,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604310009620,
+                "string": "How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach?",
+                "uid": "I9-9HUliO"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309789013,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309871672,
+                    "string": "Delete? Or query? Or filter? ",
+                    "uid": "LCbzK7PrK"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604309779901,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309818221,
+                "string": "How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?",
+                "uid": "ZZ9SoKkbN"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604309854566,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604309863098,
+                    "string": "[[contextual usages]]",
+                    "uid": "MFcATp5eS"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604309794629,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604309854569,
+                "string": "How I will organize my way of tagging and creating page?",
+                "uid": "ouFha6cr3"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604309663925,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604309748008,
+            "string": "I will work on to have my own synthesis and condensing process first. It will need to solve few big questions",
+            "uid": "7gjkeU_DR"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604310055117,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604310143371,
+                "string": "centralizing on serving myself in the most natural way - not focusing on the  methods or techniques, but the end goals",
+                "uid": "Qg-cnVHdg"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604310065900,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604310085416,
+                "string": "integration of internal materials and external materials",
+                "uid": "8ObkhpG0E"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604310085413,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604310097752,
+                "string": "fully personalized first",
+                "uid": "P08vGgbB9"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604310097749,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604310112611,
+                "string": "progressive development",
+                "uid": "Gabuc9KSZ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604310207215,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604310232985,
+                "string": "understanding or the idea behind first, then the process or procedure come after that.",
+                "uid": "Gxm3DAXp_"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604310041390,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604310055123,
+            "string": "The main guideline for me will be",
+            "uid": "YexXHFlzx"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604309278957,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604309877286,
+        "heading": 3,
+        "string": "My takeaways::",
+        "uid": "AkSLgrqtp"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -29740,6 +30022,14 @@
         "edit-time": 1604308254085,
         "string": "It sounds like [[Course - Effortless Output with Roam]] is very good to utilize external resources, while I will need to learn how to include my own insight and my own daily #inbox, as well as way to organize these tags to consolidate to a different kind of understanding based on my keywords.",
         "uid": "uu5hDC6X3"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604308652478,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604310365704,
+        "string": "I can feel so clearly that I'm starting more and more walking on my own personal path.",
+        "uid": "xfsktYdFY"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -29801,5 +30091,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604289841055,
     "title": "the relationship between end goals and methods"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604309877287,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604309877288,
+    "title": "My takeaways"
   }
 ]
