@@ -31013,14 +31013,6 @@
             "edit-time": 1604393144887,
             "string": "Build my [[workflow]] with the support of [[journaling]], [[integration activity]], [[learning]] or experiencing.",
             "uid": "F__lTaUwf"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604393363005,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604393363005,
-            "string": "",
-            "uid": "We5_FaBPT"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -31029,6 +31021,58 @@
         "edit-time": 1604393255558,
         "string": "My [[current work]] will focus on",
         "uid": "rpPeYdhn4"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604393363005,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604399698962,
+        "string": "After taking a [[surrender walk]], I can truly zoom-out to see that life always happens by itself, not depend and own by anyone, any individual or creature. \n\nIn daily life, we tend to zoom-in so much so that all we can know is what's in front of us, and the urge that drives us to act in certain ways so that we feel much better inside. This zoom-in makes us see life in the too small picture and thought that's life.",
+        "uid": "We5_FaBPT"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604400044619,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604400108055,
+                "string": "My main job is to learn to not ruin the show by my incapable of enjoy the movies by itself first.",
+                "uid": "jIALsygtf"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604399698959,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604400137270,
+            "string": "I'm like a guest that has a chance to experience the unfolding movies of life. And I'm not just a passive guest, but can be an active guest to contribute to the movies as well. [[witness consciousness]]",
+            "uid": "4aSuXnjcS"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604400042516,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604400042516,
+        "string": "My [[current work]] for my spiritual path is leaning away from the disturbance and have a zoom-out view consistently, so that I will not pull away from my [[seat of consciousness]] and able to accept and honour the reality without taking it personally. ",
+        "uid": "fa-fgEHsj"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604399872713,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604399872713,
+        "string": "",
+        "uid": "BB5GT0_qM"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604399820279,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604399820279,
+        "string": "",
+        "uid": "_FdBdnlOj"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -31534,5 +31578,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604393255566,
     "title": "current work"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604399603969,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604399603970,
+    "title": "surrender walk"
   }
 ]

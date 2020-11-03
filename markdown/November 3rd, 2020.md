@@ -15,4 +15,11 @@
         - I want my workflow will makes me [[natural progression]] and no need to things too much. Create a [[flow]] that can easily adapt to anything, any situation, or any context.
         - [[focus on what matters]] instead of based on my samskaras
         - The main method will be [[integration activity]], then [[journaling]], then [[learning]] or testing to complete the picture gradually.
-    - 
+- After taking a [[surrender walk]], I can truly zoom-out to see that life always happens by itself, not depend and own by anyone, any individual or creature. 
+
+In daily life, we tend to zoom-in so much so that all we can know is what's in front of us, and the urge that drives us to act in certain ways so that we feel much better inside. This zoom-in makes us see life in the too small picture and thought that's life.
+- My [[current work]] for my spiritual path is leaning away from the disturbance and have a zoom-out view consistently, so that I will not pull away from my [[seat of consciousness]] and able to accept and honour the reality without taking it personally. 
+    - I'm like a guest that has a chance to experience the unfolding movies of life. And I'm not just a passive guest, but can be an active guest to contribute to the movies as well. [[witness consciousness]]
+        - My main job is to learn to not ruin the show by my incapable of enjoy the movies by itself first.
+- 
+- 
