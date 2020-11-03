@@ -8,7 +8,7 @@
     - continue working on condensing process
     - collecting and selecting data for personal knowledge management
 - pattern will emerge naturally when we work on things deep enough. [pattern recognition](<pattern recognition.md>)
-- For [condensing process](<condensing process.md>), what I feel still lacking is what is the [entirety of an atomic concept](<entirety of an atomic concept.md>). Because I don't have a clear picture of this yet. So it's making my condensing node seems like a mess and not able to become a flow process.
+- For [compressed process](<compressed process.md>), what I feel still lacking is what is the [entirety of an atomic concept](<entirety of an atomic concept.md>). Because I don't have a clear picture of this yet. So it's making my condensing node seems like a mess and not able to become a flow process.
 - My point of view is that the big picture will include of many smaller things, but the way I break them down to capture in each node will define the way I organize my thoughts.
 - [entirety of an atomic concept](<entirety of an atomic concept.md>) will be varies depend on what is the node. And there will be different characteristics that need to cover or add over time. I need to identify these characteristics first. Then learning how to combine them together to make sense an atomic concept. [list of atomic concept's characteristics](<list of atomic concept's characteristics.md>) [types of information blocks](<types of information blocks.md>)
 - [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)

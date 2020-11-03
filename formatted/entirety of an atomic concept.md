@@ -14,7 +14,7 @@
 - What is the [entirety of an atomic concept](<entirety of an atomic concept.md>)?
 
 ## [October 26th, 2020](<October 26th, 2020.md>)
-- For [condensing process](<condensing process.md>), what I feel still lacking is what is the [entirety of an atomic concept](<entirety of an atomic concept.md>).
+- For [compressed process](<compressed process.md>), what I feel still lacking is what is the [entirety of an atomic concept](<entirety of an atomic concept.md>).
 
 - [entirety of an atomic concept](<entirety of an atomic concept.md>)
 

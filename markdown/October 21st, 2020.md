@@ -43,7 +43,7 @@ clear the confusion, overlapping between them.
     - Instead of trying to solve [[convenient]]samskaras with decision-making, it is a good chance for me to handle it and also to learn to practice [[bottom-up evolution]]
 - I still not have a clear [[thought process]] for condensing
 thoughts that makes me feel clustering and confusing. I will work more on this.
-[[condensing process]]
+[[compressed process]]
 - I have a [[fear of troubles]] that make me hard to
 compassion and caring for other people in an [[helpful manner]].
 - I have a [[judgment]] for people who are mostly cared for

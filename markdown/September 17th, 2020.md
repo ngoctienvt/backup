@@ -3,7 +3,7 @@
 - Todo today:
     - "{{[[DONE]]}} Editing video 2 continue "
     - {{[[DONE]]}} Working to clean anger samskara
-- In [[coaching]], coach turn off [[condensing process]] of their mind and let the clients in charge this process in their own inner universe. This means that the clients will provoke their thinking, and active their own mind to generate higher thinking level. This process also requires clients face what's the [[underlying concern]] or the [[root cause]] of their goals instead of focus on the [[solution]] or [[method]] to achieve their goals.
+- In [[coaching]], coach turn off [[compressed process]] of their mind and let the clients in charge this process in their own inner universe. This means that the clients will provoke their thinking, and active their own mind to generate higher thinking level. This process also requires clients face what's the [[underlying concern]] or the [[root cause]] of their goals instead of focus on the [[solution]] or [[method]] to achieve their goals.
     - By turn off their own mind, coach can connect with their source and operate from that level to fully [[embrace]] the whole being of client. This will be the main materials for a [[coach]] to generate their own inner message which is compatible with clients.
     - So what coach bring to the session is not their own mind, but their own source so they can always work on a higher [[level of thinking]] instead of limited by their current mind.
 - First three days using [[Roam Research]] [[graph overview]]
@@ -22,14 +22,14 @@
     - When we learnt from other people knowledge, the knowledge is like a new star that suddenly appear inside our universe with no or very little connection with our universe. And in order to understand this new star and make connection with it, we will need to put our effort into that, and this is why [[coaching]] or [[self-generative]] is so powerful, because you built your own stars so you will familiar with it, even though it’s just [[emergence]]
 - I still feel [[anxious]] and [[worry]] about the problem that appears in my life, like wifi problem. I also [[worry]] about any events that will happen in the future, because I don't know what I feel at that moment. I worry that I will drop myself to a lower level of energy, and this makes me feel stressful. I want to change my attitude that instead of worry about what will happen, I will learn to handle any things happen with a [[receiving attitude]] and willing to let things happen and trust the process. [[emotions]] [[spiritual growth]] 
 - {{[[DONE]]}} Coaching chị Hằng thứ 4 buổi 1 [[September 23rd, 2020]]
-- I feel that I accumulate a lot of thoughts and they even become some big paragraphs that I didn't even imagine from the beginning with.  [[condensing process]]
-    - The next step is I start to want to condense thoughts, and I'm not sure how I will start with. The reason is I feel that many thoughts that I write is only need some edit, so I don't want to write it again. [[condensing process]]
+- I feel that I accumulate a lot of thoughts and they even become some big paragraphs that I didn't even imagine from the beginning with.  [[compressed process]]
+    - The next step is I start to want to condense thoughts, and I'm not sure how I will start with. The reason is I feel that many thoughts that I write is only need some edit, so I don't want to write it again. [[compressed process]]
         - I think about copying them, but they will make unnecessary duplicated in my notes. I think about block reference, but not sure how it works.
-        - "The ideal condense thought process:"
+        - 
             - I can start with freely copy, write, condense them slowly into higher thoughts. It's the same as a daily journal but more focus on the specific topic.
-            - The condensing process is now little bit more [[intentional]] or [[goal-driven]], but not too much as [[condensing process]]. This is kind of a [[pressure makes diamond]] process. Before actually using for a [[real life application]].
-            - [[condensing process]] will require a little bit of summarizing, key points, key understanding instead of lengthy writing. 
-            - The information will be organized in a way that can edit or add-on later, or support [[condensing process]] or support the next [[condensing process]].
+            - The condensing process is now little bit more [[intentional]] or [[goal-driven]], but not too much as [[compressed process]]. This is kind of a [[pressure makes diamond]] process. Before actually using for a [[real life application]].
+            - [[compressed process]] will require a little bit of summarizing, key points, key understanding instead of lengthy writing. 
+            - The information will be organized in a way that can edit or add-on later, or support [[compressed process]] or support the next [[compressed process]].
             - The structure is easy to edit from multiple thoughts into a structure thought.
             - The old dumping thoughts are still present, so actually copy makes it easier. I only need to use [[Block Reference]] for the one that got condensed already, so I can upgrade it over time.
 - Conditions for [[flow]]:

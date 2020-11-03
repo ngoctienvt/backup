@@ -36,7 +36,7 @@
     - It's better to work with a testing and complementing mindset so that there is less pressure on me.
     - A shift from let samskaras run life to take back driver's seat
     - If I want to go with the flow of life, I must be the one who surrender myself to it, not surrender to my samskaras. [go with the flow](<go with the flow.md>)
-- [condensing process](<condensing process.md>) there will be different levels of condensing
+- [compressed process](<compressed process.md>) there will be different levels of condensing
     - core ideas / concepts
     - structures
     - summarization

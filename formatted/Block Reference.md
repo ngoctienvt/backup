@@ -7,6 +7,3 @@
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - The old dumping thoughts are still present, so actually copy makes it easier. I only need to use [Block Reference](<Block Reference.md>)
 
-## [condensing process](<condensing process.md>)
-- The old dumping thoughts are still present, so actually copy makes it easier. I only need to use [Block Reference](<Block Reference.md>)
-

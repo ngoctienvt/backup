@@ -1,0 +1,3 @@
+- Flow
+- Feel intuitive and natural
+- Require less or no effort

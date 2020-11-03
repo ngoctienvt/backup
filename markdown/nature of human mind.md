@@ -1,9 +1,9 @@
 - The [[nature of human mind]]
     - Stored information as a node in a network system with an interrelated relationship with other nodes. 
         - ![Organization of Semantic Memory](https://lh3.googleusercontent.com/proxy/hKgc1k8w4-pINpB7cdAqqeVCswBbFnPWhG4ZSGZMyzoAPzj5I3pcHplrU7ufFUsBV9590dYJgrANMKUoiZZBdkDKwEUH09EL21vdOaDiVPy8dgv8JHI)
-    - Connecting instead of categorizing. Categorizing is to help the mind able to [[extract and gather information]] easier, but it's not the real power of the mind. The power of it is on the ability to generate new things from old things. [[generative wisdom]] [[condensing process]] - **generative is the nature of the mind.**
+    - Connecting instead of categorizing. Categorizing is to help the mind able to [[extract and gather information]] easier, but it's not the real power of the mind. The power of it is on the ability to generate new things from old things. [[generative wisdom]] [[compressed process]] - **generative is the nature of the mind.**
     - The mind is not a good [[information storehouse]], because it will only remember what it's interested in and the [[general impression]] but not the detail. Because we have a [[limited source of energy]], so our mind will unconsciously remove or change the information in a way that it is related to other central nodes that already in there. 
         - The mind is not a good [[information storehouse].
         - The mind is not [[energy-efficiency]] to withdraw and maintain information in our mind.
-    - We - the [[witness consciousness]] - is the person who can direct the mind to generate wisdom by putting our energy into the [[condensing process]]. The main way is by using questions to provoke the mind to think in that direction. [[powerful questions]].
-    - We can also give it materials by input experiences, reading books, experimenting,... This is [[input process]] so the mind can have materials to continue it [[condensing process]].
+    - We - the [[witness consciousness]] - is the person who can direct the mind to generate wisdom by putting our energy into the [[compressed process]]. The main way is by using questions to provoke the mind to think in that direction. [[powerful questions]].
+    - We can also give it materials by input experiences, reading books, experimenting,... This is [[input process]] so the mind can have materials to continue it [[compressed process]].

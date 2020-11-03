@@ -1,5 +1,3 @@
-
-# Backlinks
-## [condensing process](<condensing process.md>)
-- [ideal process](<ideal process.md>)
-
+- Flow
+- Feel intuitive and natural
+- Require less or no effort

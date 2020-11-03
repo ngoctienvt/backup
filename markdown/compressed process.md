@@ -1,0 +1,16 @@
+- Why?
+    - The main meaning of [[compressed process]] is to help you achieve [[deeper understanding]] about the topics, concepts, so you can merge your scattering thoughts to a pearl of wisdom. 
+        - [[compressed understanding]]
+        - prepare high-quality materials or tools for generating output
+- How to organize compressed information?
+    - The information will be organized in a way that can edit or add-on later, or support [[compressed process]] or support the next [[compressed process]].
+    - The concept will be isolated by itself or could be live in a bigger concept to make it wholer, but understanding will be centered around the idea of the topic concept.
+        - For example, if I have a bottom-up evolution concept, then I will have a progressive approach that cover the bottom-up evolution concept. And I want to keep them relate but separate at the same time? How will I solve this?
+            - In the bottom-up evolution concept, I will work on everything related directly to this and develop my understand it over time.
+            - While in the progressive approach, the bottom-up evolution concept is just an application to this approach, not about fully understand the concept separately.
+- The condensing process:
+    - collecting meaningful data (summarize, key take-aways, new awareness, new understanding...)
+    - resolving [[Expanding questions]] and inbox
+    - structuring understandings
+    - clean clustering and re-organize information if needed
+    - 

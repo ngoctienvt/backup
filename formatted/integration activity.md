@@ -2,9 +2,7 @@
 
 # Backlinks
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
-- Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration activity](<integration activity.md>),
-
-- The main method will be [integration activity](<integration activity.md>),
+- [ ] Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration activity](<integration activity.md>),
 
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - The more I write, the more things integrate inside myself, and the more I feel I can ready to move to the next level as well. [integration activity](<integration activity.md>)
@@ -58,12 +56,12 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [bottom-up evolution](<bottom-up evolution.md>)
 - focuses on now with [integration activity](<integration activity.md>)
 
-## [current work](<current work.md>)
-- "Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration activity](<integration activity.md>),
-
 ## [natural progression](<natural progression.md>)
 - [integration activity](<integration activity.md>)
 
 ## [progressive approach](<progressive approach.md>)
+- [integration activity](<integration activity.md>)
+
+## [workflow](<workflow.md>)
 - [integration activity](<integration activity.md>)
 

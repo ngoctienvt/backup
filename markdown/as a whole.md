@@ -1,0 +1,5 @@
+- In Roam Research, block and sub-block is smallest unit for an atomic concept. Indent and page linking is a way to show the relationship between concepts.
+- [[as a whole]] means that the relationship of smaller things combine arise the whole new meaning of things.
+    - Water is a relation between hydrogen and oxygen.
+    - A melody is a relation between notes.
+    - A drawing is a relation between lines in space.

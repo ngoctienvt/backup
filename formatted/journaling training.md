@@ -14,7 +14,7 @@
     - [natural progression](<natural progression.md>)
 - ### Journaling in practice
     - [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>)
-    - [condensing process](<condensing process.md>)
+    - [compressed process](<compressed process.md>)
     - [thought-generative process](<thought-generative process.md>)
         - Write fleeting notes
         - Put [contextual linking](<contextual linking.md>) you want to see these notes again

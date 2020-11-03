@@ -43,7 +43,7 @@ clear the confusion, overlapping between them.
     - Instead of trying to solve [convenient](<convenient.md>)samskaras with decision-making, it is a good chance for me to handle it and also to learn to practice [bottom-up evolution](<bottom-up evolution.md>)
 - I still not have a clear [thought process](<thought process.md>) for condensing
 thoughts that makes me feel clustering and confusing. I will work more on this.
-[condensing process](<condensing process.md>)
+[compressed process](<compressed process.md>)
 - I have a [fear of troubles](<fear of troubles.md>) that make me hard to
 compassion and caring for other people in an [helpful manner](<helpful manner.md>).
 - I have a [judgment](<judgment.md>) for people who are mostly cared for

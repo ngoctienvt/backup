@@ -1,4 +1,1 @@
-- "My [[current work]] will focus on"
-    - "Build my [[workflow]] with the support of [[journaling]], [[integration activity]], [[learning]] or experiencing."
-    - "I want my workflow will makes me [[natural progression]] and no need to things too much. Create a [[flow]] that can easily adapt to anything, any situation, or any context."
-    - "[[focus on what matters]] instead of based on my samskaras"
+- 

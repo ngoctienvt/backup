@@ -14,10 +14,10 @@
     - [1. Basic Functionality of Roam](<1. Basic Functionality of Roam.md>): là những chức năng cơ bản Roam
     - [2. Quick Capture](<2. Quick Capture.md>): 
 - Roam Research can store the information of each star floating in the universe. It is created with nearly no energy needed. It's also able to [extract and gather information](<extract and gather information.md>) of the stars and those related to it quickly. The data also get maintain physically, so the mind or the inner universe no need energy to retain it.
-- The universe now can use its energy mainly for [condensing process](<condensing process.md>) and this is what speeds up the evolution of the universe to become a more advancing universe.
+- The universe now can use its energy mainly for [compressed process](<compressed process.md>) and this is what speeds up the evolution of the universe to become a more advancing universe.
 - Summary:
     - Using external support to release the [inner flow of energy](<inner flow of energy.md>) for ineffective activities.
-    - The free up energy can now be use for creative and productive activities [condensing process](<condensing process.md>)
+    - The free up energy can now be use for creative and productive activities [compressed process](<compressed process.md>)
     - This speeds up the [mind evolution process](<mind evolution process.md>)In this process, the [inner blockages](<inner blockages.md>) will get release or die off and release back the energy took to maintain it. It helps the soul evolve which is the one who behind th
     - In this process, the [inner blockages](<inner blockages.md>) will get released or died off and release back the energy took to maintain it. It helps the soul evolve, which is the one behind the universe, and returns the energy to its source. So it brought back the power using for [personal mind](<personal mind.md>) to return it to [intellectual mind](<intellectual mind.md>). [spiritual growth](<spiritual growth.md>) [spiritual energy](<spiritual energy.md>)
 - [Roam Research keyword rules](<Roam Research keyword rules.md>): rules for how to name and how to manage ideas.

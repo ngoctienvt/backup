@@ -4,17 +4,9 @@
     - I feel that I want to support people who already have the desire, the willingness, only lack the ability to work on the right thing. [target clients](<target clients.md>)
     - Is there any my [personal agenda](<personal agenda.md>) here? Not much I think. Maybe a few expectations for compensation if it will succeed, or a little bit feeling good when able to support a person.
 - Each intention most of the time will have a certain amount of [personal needs](<personal needs.md>). To truly raise the moment and support them develop on their own perfect way, it's important to let go all of these personal needs, so that there will be nothing that I will do for my [lower-self](<lower-self.md>), and only to [serving the demand of reality](<serving the demand of reality.md>) instead.
-- It seems like to me to process external data, there will be some tasks like this [workflow](<workflow.md>)
-    - Collecting raw-data
-    - Highlighting and tagging raw-data
-    - Write key take-aways
-    - Write summarization
 - [coaching reflection](<coaching reflection.md>) I felt that I'm still quite restless and not fully relax and let things happen. I still have a little bit of try to prove the effectiveness of coaching, instead of fully surrender myself to the moment and the person in front of me.
 - My [current work](<current work.md>) will focus on
-    - Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration activity](<integration activity.md>), [learning](<learning.md>) or experiencing.
-        - I want my workflow will makes me [natural progression](<natural progression.md>) and no need to things too much. Create a [flow](<flow.md>) that can easily adapt to anything, any situation, or any context.
-        - [focus on what matters](<focus on what matters.md>) instead of based on my samskaras
-        - The main method will be [integration activity](<integration activity.md>), then [journaling](<journaling.md>), then [learning](<learning.md>) or testing to complete the picture gradually.
+    - [ ] Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration activity](<integration activity.md>), [learning](<learning.md>) or experiencing.
 - After taking a [surrender walk](<surrender walk.md>), I can truly zoom-out to see that life always happens by itself, not depend and own by anyone, any individual or creature. 
 
 In daily life, we tend to zoom-in so much so that all we can know is what's in front of us, and the urge that drives us to act in certain ways so that we feel much better inside. This zoom-in makes us see life in the too small picture and thought that's life.

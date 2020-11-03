@@ -14,7 +14,7 @@
     - [[natural progression]]
 - ### Journaling in practice
     - [[accumulate scattering thoughts process]]
-    - [[condensing process]]
+    - [[compressed process]]
     - [[thought-generative process]]
         - Write fleeting notes
         - Put [[contextual linking]] you want to see these notes again

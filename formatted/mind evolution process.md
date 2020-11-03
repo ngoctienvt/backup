@@ -5,7 +5,7 @@
     - A [evergreen garden](<evergreen garden.md>) which develop slowly over time through the death of old materials and the born of new ideas 
 - [mind evolution process](<mind evolution process.md>):
     - [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>)
-    - [condensing process](<condensing process.md>)
+    - [compressed process](<compressed process.md>)
     - [thought-generative process](<thought-generative process.md>)
 
 # Backlinks

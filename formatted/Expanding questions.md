@@ -1,28 +1,25 @@
 - "I will work on to have my own synthesis and condensing process first. It will need to solve few big [Expanding questions](<Expanding questions.md>)"
-    - "How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach? "
-        - **[Free-thoughts](<Free-thoughts.md>):**
-        - **[Expanding answers](<Expanding answers.md>):**
-            - Concept will be isolated by itself, or could be live in a bigger concept to make it wholer, but understanding will be central around the idea of the topic concept.
-                - For example, if I have a bottom-up evolution concept, then I will have a progressive approach that cover the bottom-up evolution concept. And I want to keep them relate but separate at the same time? How will I solve this?
-                    - In the bottom-up evolution concept, I will work on everything related directly to this and develop my understand it over time.
-                    - While in the progressive approach, the bottom-up evolution concept is just an application to this approach, not about fully understand the concept separately.
-            - Application or project will withdraw the concept to server proper contextual usages, so that the intention will be achieve.
-                - And what if my progressive approach could become a isolated concept itself and an application for other things
-                    - So my mind here now is concept will be isolated by itself, but related to other concept
-                    - While application will require the interaction and contextual usages of them. Like I can make a journaling training, and the application of the program will need to have the progressive approach concept, so that instead of building the program on progressive approach, I build them on my journaling training project page instead.
-            - In Roam Research, block and sub-block is smallest unit for an atomic concept. Indent and page linking is a way to show the relationship between concepts.
-        - **[New insights](<New insights.md>):** 
-            - [as a whole](<as a whole.md>) means that the relationship of smaller things combine arise the whole new meaning of things.
-                - Water is a relation between hydrogen and oxygen.
-                - A melody is a relation between notes.
-                - A drawing is a relation between lines in space.
     - "How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?"
         - "Delete? Or query? Or filter? "
+        - Free-thoughts: 
+            - What's about internal data that got from articles, books?
+                - I'm thinking about deleting as well, as I don't feel that I will work like other people that reference that information and process it later. I need to think more about this abit.
+                - I can clean up my daily inbox thoughts, because I feel that I fully use it, so there is no need to keep it, and create the newness instead.
+                - While data from books, or articles may need to be reuse?
+                    - My point is I want to draw the data to generate output from my [evergreen notes](<evergreen notes.md>) instead of unprocess information from articles, books, own thoughts...
+        - **[My takeaways](<My takeaways.md>):** 
+            - Internal and external data will be tag freely to clean up later.
+                - Data on daily inbox will be clean by deleting.
+            - I will try to clean up every bit of information and put them in their own proper node.
+            - If certain data is too big or not ready to process yet, leave it there.
+            - Tag need to have general tags, and the main idea of that for resolve easier later.
     - "How I will organize my way of tagging and creating page?"
         - **[Free-thoughts](<Free-thoughts.md>):** It's not clear for me yet. I think that free thoughts will not need tag, while the key summary, expanding answers, whatever that got condensed will need to have tag instead. So that's I don't waste time to re-read unprocessed thoughts. 
             - However, will there be  a different level of processed thoughts is another [Expanding questions](<Expanding questions.md>)? And how will I organize this?
         - "[contextual usages](<contextual usages.md>)"
     - How I use Roam to encode the relationship between ideas based on atomic concept, evergreen source of truth based on references?
+    - How I will organize my workplace for solving current work and clean up later?
+    - 
 
 # Backlinks
 ## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
@@ -41,4 +38,7 @@
 - What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
 
 - Other is have a [workplace](<workplace.md>) for what I want to work with like [Expanding questions](<Expanding questions.md>)
+
+## [compressed process](<compressed process.md>)
+- resolving [Expanding questions](<Expanding questions.md>)
 

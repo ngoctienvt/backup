@@ -18,7 +18,7 @@
     - `Summary`
 - I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [[integration activity]] on the afternoon. [[morning rituals]]
 - I noticed that I could always temporary stop or find a work around while I got stuck, I always have a choice, and the highest choice most of the time is [[being mode]] - the mode that enjoy doing nothing and only experiencing.
-- [[condensing process]] [[information-linking]]
+- [[compressed process]] [[information-linking]]
     - I learned that I can always come back to add smaller context when possible to send [[information blocks]] to their proper connection, even though I tag them too broad at first. Because I can check and tag them on [[linked references]].
     - For the tags that are too narrow, or not linked yet, like [[fear of scarcity]] and I haven't tagged them to any big topics at first. And then I realize I want to focus them on the bigger topics like fear. Then I could just trust that whatever I need, they will easy to search when they re-emerge in my mind if I need to connect them, or I can just simply work on what I already have in my mind now.
     - Because I can always work with what's relevant now. So actually it's good to tag them with big topic first and split them later. [[relevant progressing]]

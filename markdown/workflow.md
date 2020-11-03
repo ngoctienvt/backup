@@ -1,1 +1,14 @@
-- 
+- Charateristic of my workflow:
+    - [[natural progression]]
+        - flow
+        - flexible to anything, any situation, or any context.
+    - [[focus on what matters]]
+- [[How to process external data?]]
+    - Collecting raw-data
+    - Highlighting and tagging raw-data
+    - Write key take-aways
+    - Write summarization
+- Raw workflow
+    - [[integration activity]]
+    - [[journaling]]
+    - [[learning]] or testing to complete the picture gradually.

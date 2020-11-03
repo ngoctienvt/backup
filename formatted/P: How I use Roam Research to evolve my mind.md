@@ -43,8 +43,8 @@
         - [real life application](<real life application.md>) is a top-down process that we start to have a top-down problem that we want to solve, an article that we want to write, a concept that we want to understand, a product that we want to build...
 - Practical application process
     - [accumulate scattering thoughts](<accumulate scattering thoughts.md>)
-    - [condensing process](<condensing process.md>)
-    - [condensing process](<condensing process.md>)
+    - [compressed process](<compressed process.md>)
+    - [compressed process](<compressed process.md>)
 - 
 - Learn to release the need for control and let life unfold
 

@@ -15,11 +15,11 @@ However, most of the time because of our judgment, that's why when I coach for o
     - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [workflow](<workflow.md>) that feels natural and fun.
     - The tasks will be
         - [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>) to gather pop-up random ideas to different related topics or new ideas
-        - [condensing process](<condensing process.md>) to carefully think, organize, condense ideas to deepen understanding
+        - [compressed process](<compressed process.md>) to carefully think, organize, condense ideas to deepen understanding
         - [creation process](<creation process.md>) to put condense thoughts and ideas to become a publish paper or articles that helpful
         - Each of these steps require real work
             - [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>) requires continuously write down random ideas, thoughts, new understanding and organize them to existing ideas or new ideas over time
-            - [condensing process](<condensing process.md>) requires putting time to condense the knowledge deeply so it becomes the materials for higher understanding
+            - [compressed process](<compressed process.md>) requires putting time to condense the knowledge deeply so it becomes the materials for higher understanding
             - [creation process](<creation process.md>) requires the connection with reality problems and what we want to achieve based on this creation to support the world. It requires us to narrow our focus, think deeply, completing ideas, fill in what's missing..
             - So actually the [focus](<focus.md>) will be from broad to narrow and narrower while it still can be open any time because we still can flexible to do in each process. Each process is supporting each other and has different roles. 
 

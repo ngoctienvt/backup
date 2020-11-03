@@ -7,8 +7,5 @@
 - And the measure of success for understanding is how rich you understand and apply your understanding to real world [deeper understanding](<deeper understanding.md>) [real life application](<real life application.md>)
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
-- The condensing process is now little bit more [intentional](<intentional.md>) or [goal-driven](<goal-driven.md>), but not too much as [condensing process](<condensing process.md>). This is kind of a [pressure makes diamond](<pressure makes diamond.md>) process. Before actually using for a [real life application](<real life application.md>).
-
-## [condensing process](<condensing process.md>)
-- This process is like a process of [pressure makes diamonds](<pressure makes diamonds.md>), and these diamonds are the materials for [condensing process](<condensing process.md>) or using into [real life application](<real life application.md>).
+- The condensing process is now little bit more [intentional](<intentional.md>) or [goal-driven](<goal-driven.md>), but not too much as [compressed process](<compressed process.md>). This is kind of a [pressure makes diamond](<pressure makes diamond.md>) process. Before actually using for a [real life application](<real life application.md>).
 

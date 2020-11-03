@@ -5,3 +5,6 @@
 
 - Step 4: Resurface [compressed understanding](<compressed understanding.md>)
 
+## [compressed process](<compressed process.md>)
+- [compressed understanding](<compressed understanding.md>)
+

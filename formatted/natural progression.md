@@ -28,9 +28,6 @@ us. [union experiences](<union experiences.md>)
 
 - The workflow will develop base on my [natural progression](<natural progression.md>)
 
-## [November 3rd, 2020](<November 3rd, 2020.md>)
-- I want my workflow will makes me [natural progression](<natural progression.md>)
-
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - there is nothing accumulate when working - this is [long-term solutions](<long-term solutions.md>) [natural progression](<natural progression.md>)
 
@@ -98,9 +95,6 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - [x] Working with [natural progression](<natural progression.md>)
 
-## [current work](<current work.md>)
-- "I want my workflow will makes me [natural progression](<natural progression.md>)
-
 ## [interests](<interests.md>)
 - [natural progression](<natural progression.md>)
 
@@ -127,4 +121,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 ## [true happiness](<true happiness.md>)
 - true happiness is a [natural progression](<natural progression.md>)
+
+## [workflow](<workflow.md>)
+- [natural progression](<natural progression.md>)
 

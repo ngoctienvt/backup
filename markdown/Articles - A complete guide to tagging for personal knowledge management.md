@@ -47,7 +47,7 @@
         - Updating with changes
         - Using as job aids
     - “[[information blocks]]” – organizing knowledge into **standardized “chunks” **that could be mixed and matched to suit a specific need.
-        - Unstructured information was “clustered” into information blocks with clear labels, which were linked together and further refined in the writing process. [[connection thinking]] [[condensing process]]
+        - Unstructured information was “clustered” into information blocks with clear labels, which were linked together and further refined in the writing process. [[connection thinking]] [[compressed process]]
     - [[Information mapping]] was an important step toward “Just-in-Time Learning.”
         - Instead of giving readers a massive text and expecting them to hold it all in their mind
         - the best use for labels is as an [[output mechanism]], not an input mechanism.
