@@ -30936,11 +30936,45 @@
         "uid": "SQv4WQaiY"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604367188402,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604367209984,
+            "string": "Collecting raw-data",
+            "uid": "QaEbR3P5d"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604367201987,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604367297725,
+            "string": "Highlighting and tagging raw-data",
+            "uid": "GfpFwvMi9"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604367269508,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604367280984,
+            "string": "Write key take-aways",
+            "uid": "da9ylhBI3"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604367214555,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604367263920,
+            "string": "Write summarization",
+            "uid": "eL8mB0z4W"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604365540665,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604365540665,
-        "string": "",
+        "edit-time": 1604367308273,
+        "string": "It seems like to me to process external data, there will be some tasks like this [[workflow]]",
         "uid": "pf-0E4YHa"
       }
     ],
@@ -31142,6 +31176,93 @@
             "heading": 3,
             "string": "Frameworks for Generating Ideas",
             "uid": "dpPAsKkKk"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "**Lean Startup** is presented as a systematic way to validate novel business models. In practice, you also generate a lot of ideas as you get out of the building and test whether your idea has legs.",
+                "uid": "x9U89mTr_"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "[Design Thinking](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) is a user-centric set of processes for solving problems.",
+                "uid": "oNe4SUfm-"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "**Focus Group Discussion** is a classic process used in the marketing world to check whether a new product or service fits a certain demographic.",
+                "uid": "TUGFtvQhd"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "These processes were made for teams. The only idea validation process I\u2019ve encountered that **seems** to be for individuals is the [Ask Method](https://www.youtube.com/watch?v=694RE8nDl-8). It is a systematic way to segment your market and customize your messaging for each segment.",
+                "uid": "rymSJvnm6"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604366607470,
+            "heading": 2,
+            "string": "Frameworks for Making Ideas Realistic",
+            "uid": "kyI84CGso"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "project is the work that needs to be done to bring an idea to reality.",
+                "uid": "EnPtV66_1"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "[Getting Things Done (GTD)](https://gettingthingsdone.com/) is one of the most well-known task management systems. The system is explained in the book of the same name by David Allen. GTD unfortunately doesn\u2019t work for me. It makes my present self feel like a slave of my past self.",
+                "uid": "i4ANqungY"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "[Building a Second Brain (BASB)](https://fortelabs.co/blog/basboverview/), I suspect, is Tiago Forte\u2019s personal idea-to-reality production stack. Its task management component is inspired by GTD. It also has components that help one generate ideas and make those ideas realistic (eg, keeping ideas moving and sharing them with the world).",
+                "uid": "ejztCl4Bs"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607470,
+                "string": "I recently attended a [Goal Crafting Intensive](https://complice.co/event/gci2020midyear) by [Complice](https://complice.co/). Going deep into **crafting goals** is one way to start making your ideas real. The central tension of goal crafting is that for deep achievements, you need your past self to coordinate the work of your present and future selves through commitment to a vision. However, your present and future selves almost always know better than your past self who crafted the goal.",
+                "uid": "jdou6pH7R"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604366607470,
+            "heading": 2,
+            "string": "Frameworks for Making Ideas Real",
+            "uid": "3T7kTF3lM"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607471,
+                "string": "My strong opinion on project management training is that it should be centered around project management frameworks and software, which are solutions to problems project managers are hired to solve.",
+                "uid": "LCtBOLptM"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604366607471,
+                "string": "The work of project conceptualization and planning is mainly that of imagination: reimagining reality and imagining the pathway to that new reality.",
+                "uid": "85iBYaPg9"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604366607471,
+            "heading": 2,
+            "string": "Software for Your Idea-to-Reality Production Stack",
+            "uid": "nMY4S1znp"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -31150,6 +31271,48 @@
         "edit-time": 1604365622175,
         "string": "Raw data",
         "uid": "UwIjr81S3"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604366669195,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604366822171,
+            "string": "A framework is a behind-the-scene approach that could be used together to execute certain projects or end goals.",
+            "uid": "bFbylgXHM"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604366780653,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604366839645,
+            "string": "Software is the support of the framework.",
+            "uid": "wf8gl0POP"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604366839643,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604366876142,
+            "string": "Start with goal, or what I want. Then developing the framework related to it. Then find the tools to support the process.",
+            "uid": "0EMX9xNNz"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604366876138,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604366876138,
+            "string": "",
+            "uid": "a1rI_s-Mv"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604366663170,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604366890501,
+        "string": "My takeaways::",
+        "uid": "ZL-3MOYSW"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",

@@ -18,3 +18,21 @@
         - **treat ideas as beings from another realm whose purpose is to manifest themselves in this world.**
         - They need a human partner to do this.
         - [Self-authoring](https://www.selfauthoring.com/) is a process created by a group of psychologists to systematically examine one’s past experiences (past authoring), strengths and and weaknesses (present authoring) and goals (future authoring).
+    - ## Frameworks for Making Ideas Realistic
+        - **Lean Startup** is presented as a systematic way to validate novel business models. In practice, you also generate a lot of ideas as you get out of the building and test whether your idea has legs.
+        - [Design Thinking](https://www.ideou.com/blogs/inspiration/what-is-design-thinking) is a user-centric set of processes for solving problems.
+        - **Focus Group Discussion** is a classic process used in the marketing world to check whether a new product or service fits a certain demographic.
+        - These processes were made for teams. The only idea validation process I’ve encountered that **seems** to be for individuals is the [Ask Method](https://www.youtube.com/watch?v=694RE8nDl-8). It is a systematic way to segment your market and customize your messaging for each segment.
+    - ## Frameworks for Making Ideas Real
+        - project is the work that needs to be done to bring an idea to reality.
+        - [Getting Things Done (GTD)](https://gettingthingsdone.com/) is one of the most well-known task management systems. The system is explained in the book of the same name by David Allen. GTD unfortunately doesn’t work for me. It makes my present self feel like a slave of my past self.
+        - [Building a Second Brain (BASB)](https://fortelabs.co/blog/basboverview/), I suspect, is Tiago Forte’s personal idea-to-reality production stack. Its task management component is inspired by GTD. It also has components that help one generate ideas and make those ideas realistic (eg, keeping ideas moving and sharing them with the world).
+        - I recently attended a [Goal Crafting Intensive](https://complice.co/event/gci2020midyear) by [Complice](https://complice.co/). Going deep into **crafting goals** is one way to start making your ideas real. The central tension of goal crafting is that for deep achievements, you need your past self to coordinate the work of your present and future selves through commitment to a vision. However, your present and future selves almost always know better than your past self who crafted the goal.
+    - ## Software for Your Idea-to-Reality Production Stack
+        - My strong opinion on project management training is that it should be centered around project management frameworks and software, which are solutions to problems project managers are hired to solve.
+        - The work of project conceptualization and planning is mainly that of imagination: reimagining reality and imagining the pathway to that new reality.
+- **[My takeaways](<My takeaways.md>):**
+    - A framework is a behind-the-scene approach that could be used together to execute certain projects or end goals.
+    - Software is the support of the framework.
+    - Start with goal, or what I want. Then developing the framework related to it. Then find the tools to support the process.
+    - 
