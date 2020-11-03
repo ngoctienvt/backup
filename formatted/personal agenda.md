@@ -1,5 +1,10 @@
 
 # Backlinks
+## [November 3rd, 2020](<November 3rd, 2020.md>)
+- It felt so good to feel moving forward and become better each day. Let go any thoughts, attachments, accept life as it is so that I could enjoy the life itself without any [personal standards](<personal standards.md>) or [personal agenda](<personal agenda.md>).
+
+- Is there any my [personal agenda](<personal agenda.md>)
+
 ## [September 14th, 2020](<September 14th, 2020.md>)
 - Mình thấy mình khá là mất đi tầm nhìn về cách một phiên coaching diễn ra và những gì cần làm để phiên đó hiệu quả. Như trong buổi ngày hôm nay, mình nhận thấy thay vì làm đủ những gì thật sự quan trọng và có ý nghĩa, cũng như phù hợp với coaching thì mình thấy mình đã có 1 số [personal agenda](<personal agenda.md>)
 

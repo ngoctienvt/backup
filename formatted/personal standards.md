@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 3rd, 2020](<November 3rd, 2020.md>)
+- It felt so good to feel moving forward and become better each day. Let go any thoughts, attachments, accept life as it is so that I could enjoy the life itself without any [personal standards](<personal standards.md>)
+
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - I felt kind of uncomfortable when playing with drift joy-con because it feels [inconvenient](<inconvenient.md>) and not meet the minimum standards that are not faulty. [personal standards](<personal standards.md>)
 

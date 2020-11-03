@@ -8,6 +8,9 @@
 ## [List of samskaras](<List of samskaras.md>)
 - [personal needs](<personal needs.md>)
 
+## [November 3rd, 2020](<November 3rd, 2020.md>)
+- Each intention most of the time will have a certain amount of [personal needs](<personal needs.md>).
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - For my parents, I want to love them as they are, instead of trying to please them with their [personal needs](<personal needs.md>)
 

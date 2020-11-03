@@ -10,6 +10,9 @@
 
 - My main [intention](<intention.md>) would be a [spiritual practitioner](<spiritual practitioner.md>) to [living from the place of surrender](<living from the place of surrender.md>). And I can [serving the demand of reality](<serving the demand of reality.md>)
 
+## [November 3rd, 2020](<November 3rd, 2020.md>)
+- Each intention most of the time will have a certain amount of [personal needs](<personal needs.md>). To truly raise the moment and support them develop on their own perfect way, it's important to let go all of these personal needs, so that there will be nothing that I will do for my [lower-self](<lower-self.md>), and only to [serving the demand of reality](<serving the demand of reality.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - When the connection is stable enough and there is very little blockages, I also know very clearly what I focus on, this is when [being mode](<being mode.md>) will be natural to express the inner energy to [serving the demand of reality](<serving the demand of reality.md>).
 

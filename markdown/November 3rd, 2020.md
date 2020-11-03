@@ -1,1 +1,7 @@
+- It felt so good to feel moving forward and become better each day. Let go any thoughts, attachments, accept life as it is so that I could enjoy the life itself without any [[personal standards]] or [[personal agenda]]. 
+- Why I want to support [[Vũ Khôi Nguyên]]?
+    - The reason is I saw that he is enthusiastic, have a willingness to overcome challenges and he's just lacking person who support him to do the inner work.
+    - I feel that I want to support people who already have the desire, the willingness, only lack the ability to work on the right thing. [[target clients]]
+    - Is there any my [[personal agenda]] here? Not much I think. Maybe a few expectations for compensation if it will succeed, or a little bit feeling good when able to support a person.
+- Each intention most of the time will have a certain amount of [[personal needs]]. To truly raise the moment and support them develop on their own perfect way, it's important to let go all of these personal needs, so that there will be nothing that I will do for my [[lower-self]], and only to [[serving the demand of reality]] instead.
 - 

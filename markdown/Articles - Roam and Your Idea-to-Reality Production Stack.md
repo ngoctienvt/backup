@@ -1,0 +1,20 @@
+- Link: https://www.roambrain.com/roam-and-your-idea-to-reality-production-stack/
+- Raw data
+    - ![Roam and Your Idea-to-Reality Production Stack](https://www.roambrain.com/wp-content/uploads/kahlil_corazo_production_stack_featured_2.png)
+    - The low-hanging fruits were meeting notes, to do lists and noting down ideas on ongoing projects and operations.
+    - Tools for thought are not only for academics. They are also for those of us whose calling in life is to bring ideas to reality.
+    - If we are to be deliberate in designing our workflow, we have to ask: what should be in our idea-to-reality production stack? 
+        - Note that our stacks are built not only with software, 
+        - but also the mental frameworks that we use with Roam and other apps.
+    - The idea-to-reality production stack gives us a language to describe the shape of our work.
+    - The work of intellectuals is to generate and grow ideas. The job of a project manager is to bring an idea to reality. The work of entrepreneurs span the three stages.
+        - ![](https://www.roambrain.com/wp-content/uploads/kahlil_corazo_production_stack_2.png)
+    - ### Frameworks for Generating Ideas
+        - **The Zettelkasten** is a note-taking and organization system invented by the ultra-prolific social theorist Niklas Luhmann.
+        - A **Mind Garden** is a collection of interlinked and publicly available notes. A good place to start is [this introduction](https://nesslabs.com/mind-garden) by Anne-Laure Le Cunff and [this drawing](https://twitter.com/Mappletons/status/1279798483218767877/photo/1) by Maggie Appleton:
+            - ![](https://www.roambrain.com/wp-content/uploads/kahlil_corazo_production_stack_3.png)
+        - **Morning Pages** is from [The Artist’s Way by Julia Cameron](https://amzn.to/2D36fAj). It is part of the creative recovery program outlined in the book. You write three pages of raw unrestrained sentences every morning during the program.
+        - **Artist Dates** is the other component of Julia Cameron’s creative recovery program. It is simply going outside to do something fun or interesting by yourself. I prefer to call it **Serendipity Walks**.
+        - **treat ideas as beings from another realm whose purpose is to manifest themselves in this world.**
+        - They need a human partner to do this.
+        - [Self-authoring](https://www.selfauthoring.com/) is a process created by a group of psychologists to systematically examine one’s past experiences (past authoring), strengths and and weaknesses (present authoring) and goals (future authoring).
