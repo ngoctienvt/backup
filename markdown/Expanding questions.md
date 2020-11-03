@@ -1,26 +1,25 @@
 - "I will work on to have my own synthesis and condensing process first. It will need to solve few big [[Expanding questions]]"
     - "How I can create a head page or evergreen head pages for condensing internal and external materials in an bottom-up approach? "
-        - Free-thoughts:: My concern now is about how I will manage the information and the development of different concepts/ ideas or understanding in a way that it's not too separation.
-            - For example, if I have a bottom-up evolution concept, then I will have a progressive approach that cover the bottom-up evolution concept. And I want to keep them relate but separate at the same time? How will I solve this?
-                - In the bottom-up evolution concept, I will work on everything related directly to this and develop my understand it over time.
-                - While in the progressive approach, the bottom-up evolution concept is just an application to this approach, not about fully understand the concept separately.
-            - And what if my progressive approach could become a isolated concept itself and an application for other things
-                - So my mind here now is concept will be isolated by itself, but related to other concept
-                - While application will require the interaction and contextual usages of them. Like I can make a journaling training, and the application of the program will need to have the progressive approach concept, so that instead of building the program on progressive approach, I build them on my journaling training project page instead.
-        - Another thing is thinking at atomized ideas level. It's about seeing the relationship while maintain them in an isolated manner. In Roam Research, I could have an atomic concept in a page or in a block, and develop the relationship between them through indent. #unprocesed
-            - The bottom is block and sub-block
-            - The top is page and different page usages
-            - How I use Roam to encode the relationship between ideas based on atomic concept, evergreen source of truth based on references, 
+        - Free-thoughts::
         - Expanding answers::
             - Concept will be isolated by itself, or could be live in a bigger concept to make it wholer, but understanding will be central around the idea of the topic concept.
+                - For example, if I have a bottom-up evolution concept, then I will have a progressive approach that cover the bottom-up evolution concept. And I want to keep them relate but separate at the same time? How will I solve this?
+                    - In the bottom-up evolution concept, I will work on everything related directly to this and develop my understand it over time.
+                    - While in the progressive approach, the bottom-up evolution concept is just an application to this approach, not about fully understand the concept separately.
             - Application or project will withdraw the concept to server proper contextual usages, so that the intention will be achieve.
-        - New insights:: [[as a whole]] means that the relationship of smaller things combine arise the whole new meaning of things.
-            - Water is a relation between hydrogen and oxygen.
-            - A melody is a relation between notes.
-            - A drawing is a relation between lines in space.
+                - And what if my progressive approach could become a isolated concept itself and an application for other things
+                    - So my mind here now is concept will be isolated by itself, but related to other concept
+                    - While application will require the interaction and contextual usages of them. Like I can make a journaling training, and the application of the program will need to have the progressive approach concept, so that instead of building the program on progressive approach, I build them on my journaling training project page instead.
+            - In Roam Research, block and sub-block is smallest unit for an atomic concept. Indent and page linking is a way to show the relationship between concepts.
+        - New insights:: 
+            - [[as a whole]] means that the relationship of smaller things combine arise the whole new meaning of things.
+                - Water is a relation between hydrogen and oxygen.
+                - A melody is a relation between notes.
+                - A drawing is a relation between lines in space.
     - "How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?"
         - "Delete? Or query? Or filter? "
     - "How I will organize my way of tagging and creating page?"
         - Free-thoughts:: It's not clear for me yet. I think that free thoughts will not need tag, while the key summary, expanding answers, whatever that got condensed will need to have tag instead. So that's I don't waste time to re-read unprocessed thoughts. 
             - However, will there be  a different level of processed thoughts is another [[Expanding questions]]? And how will I organize this?
         - "[[contextual usages]]"
+    - How I use Roam to encode the relationship between ideas based on atomic concept, evergreen source of truth based on references?

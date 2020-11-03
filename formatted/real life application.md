@@ -12,5 +12,3 @@
 ## [condensing process](<condensing process.md>)
 - This process is like a process of [pressure makes diamonds](<pressure makes diamonds.md>), and these diamonds are the materials for [condensing process](<condensing process.md>) or using into [real life application](<real life application.md>).
 
-- The condensing process is now little bit more [intentional](<intentional.md>) or [goal-driven](<goal-driven.md>), but not too much as [condensing process](<condensing process.md>). This is kind of a [pressure makes diamond](<pressure makes diamond.md>) process. Before actually using for a [real life application](<real life application.md>).
-

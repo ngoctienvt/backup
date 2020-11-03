@@ -1,16 +1,15 @@
-- The main meaning of [[condensing process]] is to help you achieve [[deeper understanding]] about the topics, concepts, so you can merge your scattering thoughts to a pearl of wisdom. 
+- Why? The main meaning of [[condensing process]] is to help you achieve [[deeper understanding]] about the topics, concepts, so you can merge your scattering thoughts to a pearl of wisdom. 
     - This process is like a process of [[pressure makes diamonds]], and these diamonds are the materials for [[condensing process]] or using into [[real life application]]. 
 - [[ideal process]]
     - Flow
     - Feel intuitive and natural
     - Require less or no effort
 - The ideal condense thought process:
-    - I can start with freely copy, write, condense them slowly into higher thoughts. It's the same as a daily journal but more focus on the specific topic.
-    - The condensing process is now little bit more [[intentional]] or [[goal-driven]], but not too much as [[condensing process]]. This is kind of a [[pressure makes diamond]] process. Before actually using for a [[real life application]].
-    - [[condensing process]] will require a little bit of summarizing, key points, key understanding instead of lengthy writing. 
-    - The information will be organized in a way that can edit or add-on later, or support [[condensing process]] or support the next [[condensing process]].
-    - The structure is easy to edit from multiple thoughts into a structure thought.
+    - collecting meaningful data (summerize, key take-aways, new awareness, new understanding...)
     - The old dumping thoughts are still present, so actually copy makes it easier. I only need to use [[Block Reference]] for the one that got condensed already, so I can upgrade it over time.
+- How to organize information?
+    - The information will be organized in a way that can edit or add-on later, or support [[condensing process]] or support the next [[condensing process]].
+    - The concept will be isolated by itself or could be live in a bigger concept to make it wholer, but understanding will be centered around the idea of the topic concept.
 - The condensing process:
     - Same as [[accumulate thought process]], but focus more on concepts, definitions, key ideas, usages,... Review and reread your related thoughts to get keywords or summarize of what you focus on in the [[accumulate thought process]].
     - Refined and repackage the thoughts into simple concepts, definitions, and remove unnecessary words. Changed from free-writing to concept-writing.

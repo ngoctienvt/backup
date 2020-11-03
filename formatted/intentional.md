@@ -6,6 +6,3 @@
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - The condensing process is now little bit more [intentional](<intentional.md>)
 
-## [condensing process](<condensing process.md>)
-- The condensing process is now little bit more [intentional](<intentional.md>)
-

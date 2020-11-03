@@ -33,7 +33,7 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 If the person only learns from what others teach them, they can't have their own solidify [basic foundation](<basic foundation.md>) and [deeper understanding](<deeper understanding.md>)
 
 ## [condensing process](<condensing process.md>)
-- The main meaning of [condensing process](<condensing process.md>) is to help you achieve [deeper understanding](<deeper understanding.md>)
+- Why? The main meaning of [condensing process](<condensing process.md>) is to help you achieve [deeper understanding](<deeper understanding.md>)
 
 ## [journaling training](<journaling training.md>)
 - accumulated and deepen knowledge over time [evergreen garden](<evergreen garden.md>) [deeper understanding](<deeper understanding.md>)

@@ -1,6 +1,6 @@
 
 # Backlinks
 ## [Expanding questions](<Expanding questions.md>)
-- How I use Roam to encode the relationship between ideas based on atomic concept, evergreen source of truth based on references, 
+- **[Free-thoughts](<Free-thoughts.md>):**
         - **[Expanding answers](<Expanding answers.md>):**
 

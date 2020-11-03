@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Expanding questions](<Expanding questions.md>)
-- Application or project will withdraw the concept to server proper contextual usages, so that the intention will be achieve.
+- In Roam Research, block and sub-block is smallest unit for an atomic concept. Indent and page linking is a way to show the relationship between concepts.
         - **[New insights](<New insights.md>):**
 
 ## [Metadata](<Metadata.md>)
