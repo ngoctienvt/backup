@@ -13,5 +13,10 @@ In daily life, we tend to zoom-in so much so that all we can know is what's in f
 - My [current work](<current work.md>) for my spiritual path is leaning away from the disturbance and have a zoom-out view consistently, so that I will not pull away from my [seat of consciousness](<seat of consciousness.md>) and able to accept and honour the reality without taking it personally. 
     - I'm like a guest that has a chance to experience the unfolding movies of life. And I'm not just a passive guest, but can be an active guest to contribute to the movies as well. [witness consciousness](<witness consciousness.md>)
         - My main job is to learn to not ruin the show by my incapable of enjoy the movies by itself first.
-- 
+- My mind is still wonder how I will handle the used data and the new data? [Expanding questions](<Expanding questions.md>)
+    - I fear that if I delete it, I will unable to trace them back later, and delete is not how I completely want to use Roam.
+    - But if I don't delete, then how I will handle new data without cluster by old processed data?
+- [my quotes](<my quotes.md>)
+Đời nhiều điều không trông mong. 
+Còn nhiều hơn những ngóng trông đúng không? - Nhắc nhau
 - 

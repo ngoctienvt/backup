@@ -31126,12 +31126,36 @@
         "uid": "fa-fgEHsj"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604417427799,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604417456042,
+            "string": "I fear that if I delete it, I will unable to trace them back later, and delete is not how I completely want to use Roam.",
+            "uid": "NYh9ZFYfj"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604417456061,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604417478970,
+            "string": "But if I don't delete, then how I will handle new data without cluster by old processed data?",
+            "uid": "6bOsVVv0h"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604399872713,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604399872713,
-        "string": "",
+        "edit-time": 1604417504103,
+        "string": "My mind is still wonder how I will handle the used data and the new data? [[Expanding questions]]",
         "uid": "BB5GT0_qM"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604418302067,
+        "string": "[[my quotes]]\n\u0110\u1eddi nhi\u1ec1u \u0111i\u1ec1u kh\u00f4ng tr\u00f4ng mong. \nC\u00f2n nhi\u1ec1u h\u01a1n nh\u1eefng ng\u00f3ng tr\u00f4ng \u0111\u00fang kh\u00f4ng? - Nh\u1eafc nhau",
+        "uid": "NKUxXuQrP"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
