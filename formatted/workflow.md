@@ -9,6 +9,8 @@
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - It seems like to me to process external data, there will be some tasks like this [workflow](<workflow.md>)
 
+- Build my [workflow](<workflow.md>)
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [workflow](<workflow.md>)
 
@@ -25,6 +27,9 @@
 
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
 - My [workflow](<workflow.md>)
+
+## [current work](<current work.md>)
+- "Build my [workflow](<workflow.md>)
 
 ## [intention](<intention.md>)
 - have a natural [life flow](<life flow.md>) and [workflow](<workflow.md>)

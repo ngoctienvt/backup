@@ -1,7 +1,7 @@
 - I noticed that I still involve too much in dreams instead of simply detach and let them go. [[dream]] This is the main reason why I felt tired after sleeping because I’m not fully recharged. Even in the awake stage, I’m not easy to disidentify [[establishing the seat of awareness]] and making conscious choices.
 - [[conscious choice]] is really not necessary. It's necessary now because I have many [[samskaras]] that diverge myself in different directions. If they do not exist and integrate as a whole, there will be only 1 direction to go, and at that time, there will be no need to make [[conscious choice]].
 
-But now I still need to make [[conscious choice]] to keep myself working on [[integration activtity]] as well as direct myself to the path that will exist when everything is merged. [[the only path]]
+But now I still need to make [[conscious choice]] to keep myself working on [[integration activity]] as well as direct myself to the path that will exist when everything is merged. [[the only path]]
 - {{[[TODO]]}} Working merging between [[focus mode]] and [[diffuse mode]] through an example.
 - Watching Dota 2 make me realize that a great [[teamwork]] is about everyone can manifest their full potentials first, after that the synergy and interaction with each other will follow up naturally.
 
@@ -14,16 +14,16 @@ The third level is to complement what is missing.
 - I noticed that I rarely give [[compliments]] to other people. The reason is I feel that if it's giving freely, it's not really a compliment but actually flattering. The true [[compliments]] requires a true [[acknowledgment]] with full presence to receive and to notice what deserves to compliment.
 - [[focus mode]] + [[diffuse mode]] = [[being mode]] [[progressive approach]]
     - [[being mode]] seems like the mode that fuse between the focus and diffuse mode.
-    - In [[being mode]], I will able to connect my inner energy to get in touch with reality, instead of being block by inner [[samskaras]] [[integration activtity]]. [[getting in touch with reality]]
-    - The hard part is this kind of connection is not stable at the moment, and in the early stage of [[being mode]], I will work on how to establish this connection in a stable way. [[diffuse mode]] is very important here, because this is when I clean the blockages with relaxation and [[integration activtity]].
+    - In [[being mode]], I will able to connect my inner energy to get in touch with reality, instead of being block by inner [[samskaras]] [[integration activity]]. [[getting in touch with reality]]
+    - The hard part is this kind of connection is not stable at the moment, and in the early stage of [[being mode]], I will work on how to establish this connection in a stable way. [[diffuse mode]] is very important here, because this is when I clean the blockages with relaxation and [[integration activity]].
     - When the connection is stable enough and there is very little blockages, I also know very clearly what I focus on, this is when [[being mode]] will be natural to express the inner energy to [[serving the demand of reality]].
     - {{[[TODO]]}} My early important task now is to clear the blockages and establish a stable connection between the inner energy, the seat of awareness and the reality.
 - I noticed that I only like to support people through their journey fully, instead of being a place for them to temporarily feel better, but not actually recognize and handle it. [[sustainable development]] [[short-term solutions]]
 - the need for [[convenient]] and the tendency to proctect myself through talking is really two main things that hinder me to connect with other people.
 - [[refining and delivering process]] 
     - Is it worth saying? to ensure that it's helpful and not [[personal needs]]
-    - Is it said clearly?  to ensure that it's easy to understand and digest [[integration activtity]]
-    - Is it said beautifully? to ensure that it's easy to integrate [[integration activtity]]
+    - Is it said clearly?  to ensure that it's easy to understand and digest [[integration activity]]
+    - Is it said beautifully? to ensure that it's easy to integrate [[integration activity]]
 - I felt that I have been going a far journey to meet the truth that I'm always seeking. I felt so grateful and exhausting at the same time. [[truth-seeking]] 
     - The reason why I feel [[grateful]] is at least now I'm not wasting time for half-solutions anymore and can only focus to work on a true [[sustainable development]].
     - The reason why I feel [[exhausting]] is because this path is unlimited, and there are so much things that I need to clean, to clear, to handle that I accumulate for so long.

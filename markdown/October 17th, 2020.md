@@ -65,7 +65,7 @@ inside.
     - One is the now that I focus on the moment in front of me and the current relationship of me and that moment
     - The second is to focus on my inner thoughts, emotions, and sensations that are distracting me from the moment in front of me.
     - [[living in the present]] is not about choosing the first or second now but about union the second now with me, so that I could fully present with the first now that are always unfolding and changing.
-- [[integration activtity]] [[transformation]] What I need to integrate and develop new way of living are:
+- [[integration activity]] [[transformation]] What I need to integrate and develop new way of living are:
     - [[habit-formed will]]
     - [[emotions]]
     - thoughts - [[union thoughts]]
@@ -103,7 +103,7 @@ materials [[generative wisdom]]
 - There is an intersection between [[self-learning]] and learning from the [[external knowledge]] is that it focuses on solving the current [[demand of reality]]  which is the current context. [[contextual mastery]]
     - [[self-learning]] come to context with a [[bottom-up evolution]] attitude.
     - [[external knowledge]] help to optimize the situation from a [[top-down boundary]]
-- [[From separation to union life]] [[integration activtity]] [[natural progression]]
+- [[From separation to union life]] [[integration activity]] [[natural progression]]
     - The societies split life into many different aspects
         - Work, life, social, entertainment, spiritual...
         - Physics, Math, Biology,...

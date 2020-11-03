@@ -1,7 +1,7 @@
 - [natural progression](<natural progression.md>) is the way of living that
 operates ourselves in a way that harmony with the [flow of life](<flow of life.md>).
 - The conditions for [natural progression](<natural progression.md>)
-    - [integration activtity](<integration activtity.md>)
+    - [integration activity](<integration activity.md>)
     - [establishing the seat of awareness](<establishing the seat of awareness.md>)
 - Why we don't live this way naturally?
     - The lack of understanding about the oneness [flow of life](<flow of life.md>)
@@ -28,6 +28,9 @@ us. [union experiences](<union experiences.md>)
 
 - The workflow will develop base on my [natural progression](<natural progression.md>)
 
+## [November 3rd, 2020](<November 3rd, 2020.md>)
+- I want my workflow will makes me [natural progression](<natural progression.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - there is nothing accumulate when working - this is [long-term solutions](<long-term solutions.md>) [natural progression](<natural progression.md>)
 
@@ -39,10 +42,10 @@ As long as I pay attention to myself and what happens on my journey without the 
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - My thoughts about [natural progression](<natural progression.md>)
 
-- [From separation to union life](<From separation to union life.md>) [integration activtity](<integration activtity.md>) [natural progression](<natural progression.md>)
+- [From separation to union life](<From separation to union life.md>) [integration activity](<integration activity.md>) [natural progression](<natural progression.md>)
 
 ## [October 20th, 2020](<October 20th, 2020.md>)
-- The [soul-guidance](<soul-guidance.md>) will base on the [integration activtity](<integration activtity.md>), [generating languages](<generating languages.md>), [being mode](<being mode.md>), natural flow-oriented - [natural progression](<natural progression.md>).
+- The [soul-guidance](<soul-guidance.md>) will base on the [integration activity](<integration activity.md>), [generating languages](<generating languages.md>), [being mode](<being mode.md>), natural flow-oriented - [natural progression](<natural progression.md>).
 
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - I want to able to integrate them and also split them at the same time in a natural way. [natural progression](<natural progression.md>)
@@ -94,6 +97,9 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - [x] Working with [natural progression](<natural progression.md>)
+
+## [current work](<current work.md>)
+- "I want my workflow will makes me [natural progression](<natural progression.md>)
 
 ## [interests](<interests.md>)
 - [natural progression](<natural progression.md>)

@@ -1,7 +1,7 @@
 - I noticed that I still involve too much in dreams instead of simply detach and let them go. [dream](<dream.md>) This is the main reason why I felt tired after sleeping because I’m not fully recharged. Even in the awake stage, I’m not easy to disidentify [establishing the seat of awareness](<establishing the seat of awareness.md>) and making conscious choices.
 - [conscious choice](<conscious choice.md>) is really not necessary. It's necessary now because I have many [samskaras](<samskaras.md>) that diverge myself in different directions. If they do not exist and integrate as a whole, there will be only 1 direction to go, and at that time, there will be no need to make [conscious choice](<conscious choice.md>).
 
-But now I still need to make [conscious choice](<conscious choice.md>) to keep myself working on [integration activtity](<integration activtity.md>) as well as direct myself to the path that will exist when everything is merged. [the only path](<the only path.md>)
+But now I still need to make [conscious choice](<conscious choice.md>) to keep myself working on [integration activity](<integration activity.md>) as well as direct myself to the path that will exist when everything is merged. [the only path](<the only path.md>)
 - [ ] Working merging between [focus mode](<focus mode.md>) and [diffuse mode](<diffuse mode.md>) through an example.
 - Watching Dota 2 make me realize that a great [teamwork](<teamwork.md>) is about everyone can manifest their full potentials first, after that the synergy and interaction with each other will follow up naturally.
 
@@ -14,16 +14,16 @@ The third level is to complement what is missing.
 - I noticed that I rarely give [compliments](<compliments.md>) to other people. The reason is I feel that if it's giving freely, it's not really a compliment but actually flattering. The true [compliments](<compliments.md>) requires a true [acknowledgment](<acknowledgment.md>) with full presence to receive and to notice what deserves to compliment.
 - [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>) = [being mode](<being mode.md>) [progressive approach](<progressive approach.md>)
     - [being mode](<being mode.md>) seems like the mode that fuse between the focus and diffuse mode.
-    - In [being mode](<being mode.md>), I will able to connect my inner energy to get in touch with reality, instead of being block by inner [samskaras](<samskaras.md>) [integration activtity](<integration activtity.md>). [getting in touch with reality](<getting in touch with reality.md>)
-    - The hard part is this kind of connection is not stable at the moment, and in the early stage of [being mode](<being mode.md>), I will work on how to establish this connection in a stable way. [diffuse mode](<diffuse mode.md>) is very important here, because this is when I clean the blockages with relaxation and [integration activtity](<integration activtity.md>).
+    - In [being mode](<being mode.md>), I will able to connect my inner energy to get in touch with reality, instead of being block by inner [samskaras](<samskaras.md>) [integration activity](<integration activity.md>). [getting in touch with reality](<getting in touch with reality.md>)
+    - The hard part is this kind of connection is not stable at the moment, and in the early stage of [being mode](<being mode.md>), I will work on how to establish this connection in a stable way. [diffuse mode](<diffuse mode.md>) is very important here, because this is when I clean the blockages with relaxation and [integration activity](<integration activity.md>).
     - When the connection is stable enough and there is very little blockages, I also know very clearly what I focus on, this is when [being mode](<being mode.md>) will be natural to express the inner energy to [serving the demand of reality](<serving the demand of reality.md>).
     - [ ] My early important task now is to clear the blockages and establish a stable connection between the inner energy, the seat of awareness and the reality.
 - I noticed that I only like to support people through their journey fully, instead of being a place for them to temporarily feel better, but not actually recognize and handle it. [sustainable development](<sustainable development.md>) [short-term solutions](<short-term solutions.md>)
 - the need for [convenient](<convenient.md>) and the tendency to proctect myself through talking is really two main things that hinder me to connect with other people.
 - [refining and delivering process](<refining and delivering process.md>) 
     - Is it worth saying? to ensure that it's helpful and not [personal needs](<personal needs.md>)
-    - Is it said clearly?  to ensure that it's easy to understand and digest [integration activtity](<integration activtity.md>)
-    - Is it said beautifully? to ensure that it's easy to integrate [integration activtity](<integration activtity.md>)
+    - Is it said clearly?  to ensure that it's easy to understand and digest [integration activity](<integration activity.md>)
+    - Is it said beautifully? to ensure that it's easy to integrate [integration activity](<integration activity.md>)
 - I felt that I have been going a far journey to meet the truth that I'm always seeking. I felt so grateful and exhausting at the same time. [truth-seeking](<truth-seeking.md>) 
     - The reason why I feel [grateful](<grateful.md>) is at least now I'm not wasting time for half-solutions anymore and can only focus to work on a true [sustainable development](<sustainable development.md>).
     - The reason why I feel [exhausting](<exhausting.md>) is because this path is unlimited, and there are so much things that I need to clean, to clear, to handle that I accumulate for so long.

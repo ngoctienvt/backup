@@ -36,7 +36,7 @@ own [samskaras](<samskaras.md>) or my own [inner urge](<inner urge.md>). [reacti
     - write to deeper understanding about each component and also
 clear the confusion, overlapping between them.
     - the solution emerge as a result from [optimal conditions](<optimal conditions.md>)
-- the shift from [exclusion](<exclusion.md>) to [inclusion](<inclusion.md>) attitude is very important because only by inclusion, the thing can become [wholer](<wholer.md>) and simpler at the same time. [integration activtity](<integration activtity.md>).
+- the shift from [exclusion](<exclusion.md>) to [inclusion](<inclusion.md>) attitude is very important because only by inclusion, the thing can become [wholer](<wholer.md>) and simpler at the same time. [integration activity](<integration activity.md>).
 - I realized that [spiritual growth](<spiritual growth.md>) is not just the fact that the soul evolve by merging with experiences, it's also about the soul able to consciously direct it to [higher intention](<higher intention.md>).
     - For example, when I realize that I don't want to addict to my mind, I wonder then what I want to do instead of that. It requires me to learn to have my own intention to do what instead.
 - I noticed my need for [convenient](<convenient.md>) when I'm considering between Roam Research and Logseq, when trying to find the best slack even though I don't really know what I really need. The tendency to find things for convenient makes me operate wrongly from a [top-down boundary](<top-down boundary.md>) instead of start with [bottom-up evolution](<bottom-up evolution.md>).

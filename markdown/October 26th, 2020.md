@@ -26,7 +26,7 @@
     - coaching
     - spiritual
     - mind-training
-    - I will handle them progressively through the [[integration activtity]] process
+    - I will handle them progressively through the [[integration activity]] process
 - I'm on the process to find a hard boundary for my way of storing information blocks. And as well as finding what will be included inside of it. [[information blocks]]
 - In order to know [[types of information blocks]], I need to know what is the [[contextual usages]] that I want to have first.
     - I also start to realize the usage of [[evergreen notes]] to concentrate my thinking into one concept. By this, I could develop different understand in different context and I could always create a bigger understanding by connecting these [[information blocks]].

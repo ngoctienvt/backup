@@ -1,5 +1,5 @@
 - Definition: [bottom-up evolution](<bottom-up evolution.md>) is an approach that 
-    - focuses on now with [integration activtity](<integration activtity.md>) what haven't resolved and accumulate what's necessary for future-self 
+    - focuses on now with [integration activity](<integration activity.md>) what haven't resolved and accumulate what's necessary for future-self 
     - let life unfolds and trust the process instead of trying to meet the demand of samskaras
 - [bottom-up evolution](<bottom-up evolution.md>) is a core components of [progressive approach](<progressive approach.md>). I think that the word approach is not show the different between them.
     - While progressive approach is better to have the name approach.

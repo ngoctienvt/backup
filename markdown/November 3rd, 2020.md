@@ -9,3 +9,10 @@
     - Highlighting and tagging raw-data
     - Write key take-aways
     - Write summarization
+- [[coaching reflection]] I felt that I'm still quite restless and not fully relax and let things happen. I still have a little bit of try to prove the effectiveness of coaching, instead of fully surrender myself to the moment and the person in front of me.
+- My [[current work]] will focus on
+    - Build my [[workflow]] with the support of [[journaling]], [[integration activity]], [[learning]] or experiencing.
+        - I want my workflow will makes me [[natural progression]] and no need to things too much. Create a [[flow]] that can easily adapt to anything, any situation, or any context.
+        - [[focus on what matters]] instead of based on my samskaras
+        - The main method will be [[integration activity]], then [[journaling]], then [[learning]] or testing to complete the picture gradually.
+    - 

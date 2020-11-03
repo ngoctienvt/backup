@@ -36,7 +36,7 @@ own [[samskaras]] or my own [[inner urge]]. [[reaction]]
     - write to deeper understanding about each component and also
 clear the confusion, overlapping between them.
     - the solution emerge as a result from [[optimal conditions]]
-- the shift from [[exclusion]] to [[inclusion]] attitude is very important because only by inclusion, the thing can become [[wholer]] and simpler at the same time. [[integration activtity]].
+- the shift from [[exclusion]] to [[inclusion]] attitude is very important because only by inclusion, the thing can become [[wholer]] and simpler at the same time. [[integration activity]].
 - I realized that [[spiritual growth]] is not just the fact that the soul evolve by merging with experiences, it's also about the soul able to consciously direct it to [[higher intention]].
     - For example, when I realize that I don't want to addict to my mind, I wonder then what I want to do instead of that. It requires me to learn to have my own intention to do what instead.
 - I noticed my need for [[convenient]] when I'm considering between Roam Research and Logseq, when trying to find the best slack even though I don't really know what I really need. The tendency to find things for convenient makes me operate wrongly from a [[top-down boundary]] instead of start with [[bottom-up evolution]].

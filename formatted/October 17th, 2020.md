@@ -65,7 +65,7 @@ inside.
     - One is the now that I focus on the moment in front of me and the current relationship of me and that moment
     - The second is to focus on my inner thoughts, emotions, and sensations that are distracting me from the moment in front of me.
     - [living in the present](<living in the present.md>) is not about choosing the first or second now but about union the second now with me, so that I could fully present with the first now that are always unfolding and changing.
-- [integration activtity](<integration activtity.md>) [transformation](<transformation.md>) What I need to integrate and develop new way of living are:
+- [integration activity](<integration activity.md>) [transformation](<transformation.md>) What I need to integrate and develop new way of living are:
     - [habit-formed will](<habit-formed will.md>)
     - [emotions](<emotions.md>)
     - thoughts - [union thoughts](<union thoughts.md>)
@@ -103,7 +103,7 @@ materials [generative wisdom](<generative wisdom.md>)
 - There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual mastery](<contextual mastery.md>)
     - [self-learning](<self-learning.md>) come to context with a [bottom-up evolution](<bottom-up evolution.md>) attitude.
     - [external knowledge](<external knowledge.md>) help to optimize the situation from a [top-down boundary](<top-down boundary.md>)
-- [From separation to union life](<From separation to union life.md>) [integration activtity](<integration activtity.md>) [natural progression](<natural progression.md>)
+- [From separation to union life](<From separation to union life.md>) [integration activity](<integration activity.md>) [natural progression](<natural progression.md>)
     - The societies split life into many different aspects
         - Work, life, social, entertainment, spiritual...
         - Physics, Math, Biology,...

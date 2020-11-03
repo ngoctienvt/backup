@@ -4,10 +4,10 @@
 - [[levels of inner work]] is my being to have the ability to take the driver's seat instead of letting the ego drive the way.
 - I feel so fear when my graph becomes a mess and loss a lot of data. I realized the truth that if what I have is already inside of me, and the external is just support me, then I still can rebuild my own stuff and even make them become better. The whole point is inside-out. [[fear of loss aversion]] => being mode - bottom-up
 - The lesson to use logseq here is never let the system sync many times with multiple pages open.
-- It's very important for me to relax to fully [[integration activtity]] what experiences I have, because it brought me to a higher level comparing to what I'm doing now, and it's far more effective than trying to think to solve the situation.
+- It's very important for me to relax to fully [[integration activity]] what experiences I have, because it brought me to a higher level comparing to what I'm doing now, and it's far more effective than trying to think to solve the situation.
     - ### [[being mode]] is far more effective than [[focus mode]]
     - ### [[focus mode]] only effective for what is clear and no need to think too much, while [[being mode]] is necessary to create a higher-self and generate wisdom.
-- While learning from external sources will provide input, I need the [[integration activtity]] to transfer these input to become my knowledge. So it's not separation between external resources and internal resources, I grain the gold from the dust in both of them through integration.
+- While learning from external sources will provide input, I need the [[integration activity]] to transfer these input to become my knowledge. So it's not separation between external resources and internal resources, I grain the gold from the dust in both of them through integration.
 - I felt that I'm focus on the wrong thing. When building [[human development process]], I'm focusing on the process and what would I do in the process, but this is not the ultimate way. Because the process will vary depends on the situation, the people, the content... So it still create complexity.
     - Instead, I want to build my process on something that every human being share, and for this, I need to bring the support from coaching and spirituality.
     - Something on my mind now are:
@@ -24,14 +24,14 @@
         - progressive approach - focus on now and trust the process
             - process-oriented
         - universal process - [[truth compass]]
-        - personal development oriented - [[integration activtity]]
+        - personal development oriented - [[integration activity]]
         - working at the root - the highest level that possible
-- I felt much clearer now, though they are still a mess because it's not easy to merge these things, the whole point is for something new to emerge, there need to be the [[integration activtity]] happens first. So this process will take time.
+- I felt much clearer now, though they are still a mess because it's not easy to merge these things, the whole point is for something new to emerge, there need to be the [[integration activity]] happens first. So this process will take time.
 - I still feel that I'm too careful and not let myself open fully yet, still have many fear, try to control at least in some way. Not fully let the process happens itself and spear the responsibilities as well as capacities like chị Dung.[[openness]]
     - My true [[openness]] and [[trust the process]] is not deny my ability for sustain able development and theory go before the practices. It's [[the middle way]] that show in the [[progressive approach]].
     - I'm kind of people who value mainly on focusing on the thinking instead of physical or immediate work. Though I still can do them in emergency moment, most of the time I will work to develop the long-term answer instead.
 - It feels so much good that I unconsciously follow what I think is good instead of building on [[truth compass]]. The fact that I still follow my mind and give too much power for it makes me work ineffective.
-- logseq is just where I put my inner work to store it out. It's not where the work actually happens. It supports me, but the true work is the [[integration activtity]] work that happens inside of me. This is also the most effective work. [[effective]]
+- logseq is just where I put my inner work to store it out. It's not where the work actually happens. It supports me, but the true work is the [[integration activity]] work that happens inside of me. This is also the most effective work. [[effective]]
 - I'm not at a stage that ready for producing complement products yet. I'm still on a stage that experimenting and integrating inside of me yet. I need to do this inner work for a period first, then I will become more ready and natural to create results.[[inner work]] [[experiment]]
     - It's better to work with a testing and complementing mindset so that there is less pressure on me.
     - A shift from let samskaras run life to take back driver's seat

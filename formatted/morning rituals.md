@@ -24,7 +24,7 @@
 - [morning rituals](<morning rituals.md>)
 
 ## [October 25th, 2020](<October 25th, 2020.md>)
-- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [integration activtity](<integration activtity.md>) on the afternoon. [morning rituals](<morning rituals.md>)
+- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [integration activity](<integration activity.md>) on the afternoon. [morning rituals](<morning rituals.md>)
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - [morning rituals](<morning rituals.md>)
