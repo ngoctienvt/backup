@@ -1,6 +1,9 @@
+- Related: [Roam's writing structure](<Roam's writing structure.md>)
 - [high-value information blocks](<high-value information blocks.md>)
-    - self-summary knowledge
-    - personal thoughts, emotions, ideas, reflections
+    - summary
+    - key take-aways, 
+    - new insights,
+    - new awareness
 - [types of information blocks](<types of information blocks.md>)
     - [definition](<definition.md>)
         - describes an idea or a concept

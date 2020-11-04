@@ -25273,22 +25273,46 @@
   {
     "children": [
       {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604469643559,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604469671776,
+        "string": "Related: [[Roam's writing structure]]",
+        "uid": "WQ7-dSRXK"
+      },
+      {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603704740249,
+            "create-time": 1604469491349,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603704796773,
-            "string": "self-summary knowledge",
-            "uid": "iF7vfH_Q8"
+            "edit-time": 1604469493737,
+            "string": "summary",
+            "uid": "A52zSDVAo"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604469487773,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604469487773,
+            "string": "key take-aways, ",
+            "uid": "PD19aAOF6"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603704772416,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603704828190,
-            "string": "personal thoughts, emotions, ideas, reflections",
+            "edit-time": 1604469497835,
+            "string": "new insights,",
             "uid": "gCRPYl-69"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604469495437,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604469501681,
+            "string": "new awareness",
+            "uid": "Mw4BGvlYO"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -31120,8 +31144,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604461046311,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604462429986,
-            "string": "I'm not totally clear about what I could generalize to capture [[entirety of an atomic concept]] [[generalization]]",
+            "edit-time": 1604468084963,
+            "string": "I'm not totally clear about what I could generalize to capture [[entirety of an atomic concept]] [[generalization]] [[contextual usages]]",
             "uid": "Rhpy2GP0V"
           },
           {
@@ -31649,6 +31673,56 @@
         "edit-time": 1604461579708,
         "string": "[[workflow]]",
         "uid": "uEjd1eJhz"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604467837032,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604467915198,
+        "string": "I'm on a [[transition stage]] that shift myself from the imposing structure of social to comeback to [[unattachment centering]] so that I could operate in a way that true harmony with reality, not society.",
+        "uid": "KAfB5y20-"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604467915196,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604468620464,
+        "string": "[[my quotes]]\n[[true harmony]] is the harmony between our true self and reality, not the ego self and society.",
+        "uid": "rQrrkftiu"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604468650990,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604468872965,
+            "string": "For example, grateful and ungrateful. Love and no love, Respect and unrespect. There is no need to care the differences of lower-self. Just need to know it is lower-self to aim to higher-self. [[indifferentiated]]",
+            "uid": "wTdX12LrC"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604469378302,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604469378302,
+            "string": "",
+            "uid": "WkjdvyVRW"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604468620461,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604468650997,
+        "string": "My [[mindset]] is now from the higher-self and the rest of the lower-self. ",
+        "uid": "krLT6aRs1"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604469359299,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604469359299,
+        "string": "",
+        "uid": "CdDVJtuPc"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -32180,10 +32254,48 @@
     "title": "generalization"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604469673581,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604469692476,
+        "string": "",
+        "uid": "q0J1rgDMb"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604461367280,
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604461367282,
     "title": "Roam's writing structure"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604467851940,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604467851942,
+    "title": "transition stage"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604468043850,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604468043850,
+    "title": "true harmony"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604468630917,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604468630918,
+    "title": "mindset"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604468872966,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604468872967,
+    "title": "indifferentiated"
   }
 ]

@@ -1,5 +1,5 @@
 - It feels quite uncomfortable and not natural to clean up the [bottom-up approach](<bottom-up approach.md>). The reason is
-    - I'm not totally clear about what I could generalize to capture [entirety of an atomic concept](<entirety of an atomic concept.md>) [generalization](<generalization.md>)
+    - I'm not totally clear about what I could generalize to capture [entirety of an atomic concept](<entirety of an atomic concept.md>) [generalization](<generalization.md>) [contextual usages](<contextual usages.md>)
     - How I will clean what's not the main point? [Roam's writing structure](<Roam's writing structure.md>)
         - Should I come to the main point and clean it now? or
         - Should I just remove the link, so it will clean on this bottom-up approach page?
@@ -73,3 +73,10 @@
         - Makers usually have clear goals that are very valuable. Think about programmers, architects, and writers. Their projects are very tangible and their output measurable.
         - But that is not the case for most managers. Their objectives are much more subjective and difficult to measure. On top of that, they usually have many smaller tasks.
         - A “Maker” works best in long, uninterrupted chunks. A “Manager” typically works in one hour blocks, changing subjects frequently.
+- I'm on a [transition stage](<transition stage.md>) that shift myself from the imposing structure of social to comeback to [unattachment centering](<unattachment centering.md>) so that I could operate in a way that true harmony with reality, not society.
+- [my quotes](<my quotes.md>)
+[true harmony](<true harmony.md>) is the harmony between our true self and reality, not the ego self and society.
+- My [mindset](<mindset.md>) is now from the higher-self and the rest of the lower-self. 
+    - For example, grateful and ungrateful. Love and no love, Respect and unrespect. There is no need to care the differences of lower-self. Just need to know it is lower-self to aim to higher-self. [indifferentiated](<indifferentiated.md>)
+    - 
+- 
