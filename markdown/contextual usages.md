@@ -1,2 +1,13 @@
-- Depending on what I want based on the [[contextual usages]], I could use it to link my notes by [[contextual linking]].
-- 
+- Definition: What is contextual usages?
+- The contextual usage that I want for using Roam Research
+    - Pages for storing - to help my brain store my work
+        - Raw-data and extracting wisdom
+        - Compressed data or [[entirety of an atomic concept]]
+        - Evergreen notes or Facebook status type data
+        - Self-development Courses/ Articles/ Program
+    - Information linking - to gathering and connecting my thoughts process
+        - Gathering information to a compressed data or an atomic concept 
+        - Wiki-like ????
+        - Integrating and becoming wholer over time
+    - Searching or querying??? - to finding and extracting information I need when needed
+- [[Tag usage]] for [[contextual linking]]

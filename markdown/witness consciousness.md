@@ -1,0 +1,5 @@
+- A guest that has a chance to watch the unfolding movies of human life.
+- Passive: experiencing
+- Active: involving
+- Responsiblity
+    - Not to ruin the shows by lack of capability for enjoying the variety nature of movies.

@@ -2,13 +2,20 @@
     - [[natural progression]]
         - flow
         - flexible to anything, any situation, or any context.
+        - quick switch between deep work and shallow work
     - [[focus on what matters]]
+- My workflow will be about 
+    - [[journey of wisdom]]
 - [[How to process external data?]]
     - Collecting raw-data
     - Highlighting and tagging raw-data
     - Write key take-aways
     - Write summarization
-- Raw workflow
-    - [[integration]]
-    - [[journaling]]
-    - [[learning]] or testing to complete the picture gradually.
+- Workflow activities
+    - Writing
+    - Meditating (integrating)
+    - Reading
+    - Researching
+    - Sharing
+    - Gathering
+    - 

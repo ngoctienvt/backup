@@ -16,7 +16,13 @@
     - [Projects](<Projects.md>)
     - #[Audio Books](<Audio Books.md>)
     - [Books](<Books.md>)
-- 
+- [types of information blocks](<types of information blocks.md>)
+    - real life application
+    - definition
+    - benefits 
+    - characteristics
+    - procedure
+    - process
 
 # Backlinks
 ## [Metadata](<Metadata.md>)

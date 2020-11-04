@@ -26,7 +26,7 @@
 ## [October 26th, 2020](<October 26th, 2020.md>)
 - I'm on the process to find a hard boundary for my way of storing information blocks. And as well as finding what will be included inside of it. [information blocks](<information blocks.md>)
 
-- I also start to realize the usage of [evergreen notes](<evergreen notes.md>) to concentrate my thinking into one concept. By this, I could develop different understand in different context and I could always create a bigger understanding by connecting these [information blocks](<information blocks.md>).
+- I also start to realize the usage of [evergreen notes](<evergreen notes.md>) to concentrate my thinking into one concept. By this, I could develop different understand in a different context and I could always create a bigger understanding by connecting these [information blocks](<information blocks.md>).
 
 ## [atomic concept](<atomic concept.md>)
 - The fundamental building blocks of [atomic concept](<atomic concept.md>) are [information blocks](<information blocks.md>)

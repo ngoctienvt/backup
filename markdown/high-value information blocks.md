@@ -1,12 +1,27 @@
 - Related: [[information blocks]]
-- There are different value levels of information
-    - Lowest are the first draft processing or picking up
-        - highlights 
-        - summary
-        - key take-aways, 
-        - new insights,
-        - new awareness
-    - Second is the information that go through compressed process [[compressed understanding]]
-    - Third is the information that relate a bit to external world [[evergreen notes]]
-    - Fourth is the information that go through generating process to become an articles - an information that capture entire of my understanding to certain things
-- 
+- [[journey of wisdom]]
+    - Internal journey
+        - Collecting raw data
+            - Books
+            - Articles
+            - Courses
+            - Self-learning
+            - Self-experiences
+        - Extracting piece of wisdom
+            - highlights 
+            - summary
+            - key take-aways, 
+            - new insights,
+            - new awareness
+        - Compressing wisdom
+            - high-value information blocks
+            - [[entirety of an atomic concept]]
+    - External journey 
+        - Generating pieces of personal wisdom
+            - evergreen notes
+            - Facebook status
+        - Compressing pieces of personal wisdom
+            - articles
+            - courses
+            - training program
+            - sharing talks

@@ -1,5 +1,16 @@
-- Depending on what I want based on the [contextual usages](<contextual usages.md>), I could use it to link my notes by [contextual linking](<contextual linking.md>).
-- 
+- Definition: What is contextual usages?
+- The contextual usage that I want for using Roam Research
+    - Pages for storing - to help my brain store my work
+        - Raw-data and extracting wisdom
+        - Compressed data or [entirety of an atomic concept](<entirety of an atomic concept.md>)
+        - Evergreen notes or Facebook status type data
+        - Self-development Courses/ Articles/ Program
+    - Information linking - to gathering and connecting my thoughts process
+        - Gathering information to a compressed data or an atomic concept 
+        - Wiki-like ????
+        - Integrating and becoming wholer over time
+    - Searching or querying??? - to finding and extracting information I need when needed
+- [Tag usage](<Tag usage.md>) for [contextual linking](<contextual linking.md>)
 
 # Backlinks
 ## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
@@ -27,9 +38,6 @@
 
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [contextual usages](<contextual usages.md>)
-
-## [contextual usages](<contextual usages.md>)
-- Depending on what I want based on the [contextual usages](<contextual usages.md>),
 
 ## [network note-taking](<network note-taking.md>)
 - My [contextual usages](<contextual usages.md>)

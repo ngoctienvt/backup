@@ -10,7 +10,7 @@
 - [contextual linking](<contextual linking.md>)
 
 ## [contextual usages](<contextual usages.md>)
-- Depending on what I want based on the [contextual usages](<contextual usages.md>), I could use it to link my notes by [contextual linking](<contextual linking.md>).
+- [Tag usage](<Tag usage.md>) for [contextual linking](<contextual linking.md>)
 
 ## [journaling training](<journaling training.md>)
 - Put [contextual linking](<contextual linking.md>)

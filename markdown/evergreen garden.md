@@ -1,0 +1,4 @@
+- digital gardeners keep on editing and refining their notes.
+- Another characteristic is the navigation:
+    - a digital garden uses bi-directional linking—or at least lots of internal links—to connect notes together. Such interconnection creates a trail of ideas that readers can follow.
+- 

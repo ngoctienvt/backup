@@ -11,6 +11,3 @@
 ## [compressed process](<compressed process.md>)
 - [compressed understanding](<compressed understanding.md>)
 
-## [high-value information blocks](<high-value information blocks.md>)
-- Second is the information that go through compressed process [compressed understanding](<compressed understanding.md>)
-

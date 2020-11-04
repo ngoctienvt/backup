@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 4th, 2020](<November 4th, 2020.md>)
+- cleaning [clustering](<clustering.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - for collecting raw materials, I feel that it's very important to keep it in a way that I can easily come back to what I haven't resolved yet. My current method is using Resources to keep track of things. But I have the worry when it will become clustering when there are more things. [clustering](<clustering.md>)
 

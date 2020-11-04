@@ -5,14 +5,10 @@
     - Is there any my [[personal agenda]] here? Not much I think. Maybe a few expectations for compensation if it will succeed, or a little bit feeling good when able to support a person.
 - Each intention most of the time will have a certain amount of [[personal needs]]. To truly raise the moment and support them develop on their own perfect way, it's important to let go all of these personal needs, so that there will be nothing that I will do for my [[lower-self]], and only to [[serving the demand of reality]] instead.
 - [[coaching reflection]] I felt that I'm still quite restless and not fully relax and let things happen. I still have a little bit of try to prove the effectiveness of coaching, instead of fully surrender myself to the moment and the person in front of me.
-- My [[current work]] will focus on
-    - {{[[TODO]]}} Build my [[workflow]] with the support of [[journaling]], [[integration]], [[learning]] or experiencing.
+- 
 - After taking a [[surrender walk]], I can truly zoom-out to see that life always happens by itself, not depend and own by anyone, any individual or creature. 
 
 In daily life, we tend to zoom-in so much so that all we can know is what's in front of us, and the urge that drives us to act in certain ways so that we feel much better inside. This zoom-in makes us see life in the too small picture and thought that's life.
-- My [[current work]] for my spiritual path is leaning away from the disturbance and have a zoom-out view consistently, so that I will not pull away from my [[seat of consciousness]] and able to accept and honour the reality without taking it personally. 
-    - I'm like a guest that has a chance to experience the unfolding movies of life. And I'm not just a passive guest, but can be an active guest to contribute to the movies as well. [[witness consciousness]]
-        - My main job is to learn to not ruin the show by my incapable of enjoy the movies by itself first.
 - My mind is still wonder how I will handle the used data and the new data? [[Expanding questions]]
     - I fear that if I delete it, I will unable to trace them back later, and delete is not how I completely want to use Roam.
     - But if I don't delete, then how I will handle new data without cluster by old processed data?

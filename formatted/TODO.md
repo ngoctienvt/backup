@@ -22,9 +22,6 @@
     - [Book - Journey to the Center of the Earth](<Book - Journey to the Center of the Earth.md>)
 
 # Backlinks
-## [November 3rd, 2020](<November 3rd, 2020.md>)
-- {{[TODO](<TODO.md>)}
-
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
@@ -69,5 +66,10 @@
 - {{[TODO](<TODO.md>)}
 
 ## [clean up fleeting notes](<clean up fleeting notes.md>)
+- {{[TODO](<TODO.md>)}
+
+## [current work](<current work.md>)
+- {{[TODO](<TODO.md>)}
+
 - {{[TODO](<TODO.md>)}
 

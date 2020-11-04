@@ -1,0 +1,3 @@
+- [[How to use tags in Roam Research?]]
+    - Tagging for direct related-ideas or key topics of the block
+    - Try to process them a bit before tagging them. (summary, key take-aways, new insights...) on daily notes or any sources of information

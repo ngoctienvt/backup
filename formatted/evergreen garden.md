@@ -1,5 +1,12 @@
+- digital gardeners keep on editing and refining their notes.
+- Another characteristic is the navigation:
+    - a digital garden uses bi-directional linking—or at least lots of internal links—to connect notes together. Such interconnection creates a trail of ideas that readers can follow.
+- 
 
 # Backlinks
+## [November 4th, 2020](<November 4th, 2020.md>)
+- The relationship between [evergreen garden](<evergreen garden.md>)
+
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - The process to grow my knowledge will be have different levels [knowledge development process](<knowledge development process.md>) [evergreen garden](<evergreen garden.md>)
 

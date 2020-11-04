@@ -2,16 +2,23 @@
     - [natural progression](<natural progression.md>)
         - flow
         - flexible to anything, any situation, or any context.
+        - quick switch between deep work and shallow work
     - [focus on what matters](<focus on what matters.md>)
+- My workflow will be about 
+    - [journey of wisdom](<journey of wisdom.md>)
 - [How to process external data?](<How to process external data?.md>)
     - Collecting raw-data
     - Highlighting and tagging raw-data
     - Write key take-aways
     - Write summarization
-- Raw workflow
-    - [integration](<integration.md>)
-    - [journaling](<journaling.md>)
-    - [learning](<learning.md>) or testing to complete the picture gradually.
+- Workflow activities
+    - Writing
+    - Meditating (integrating)
+    - Reading
+    - Researching
+    - Sharing
+    - Gathering
+    - 
 
 # Backlinks
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
@@ -19,13 +26,8 @@
 
 - ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>)
 
-## [November 3rd, 2020](<November 3rd, 2020.md>)
-- [ ] Build my [workflow](<workflow.md>)
-
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - What woul be my [workflow](<workflow.md>)
-
-- [workflow](<workflow.md>)
 
 - I noticed that the workflow of the writing is looks like this [writing workflow](<writing workflow.md>) [workflow](<workflow.md>)
 
@@ -45,6 +47,9 @@
 
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
 - My [workflow](<workflow.md>)
+
+## [current work](<current work.md>)
+- [ ] Build my [workflow](<workflow.md>)
 
 ## [intention](<intention.md>)
 - have a natural [life flow](<life flow.md>) and [workflow](<workflow.md>)

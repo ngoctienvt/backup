@@ -16,4 +16,10 @@
     - #Projects
     - #[[Audio Books]]
     - #Books
-- 
+- [[types of information blocks]]
+    - real life application
+    - definition
+    - benefits 
+    - characteristics
+    - procedure
+    - process

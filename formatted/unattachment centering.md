@@ -60,6 +60,9 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [coaching skills](<coaching skills.md>)
 - [unattachment centering](<unattachment centering.md>)
 
+## [current work](<current work.md>)
+- [ ] [unattachment centering](<unattachment centering.md>)
+
 ## [helpful manner](<helpful manner.md>)
 - [unattachment centering](<unattachment centering.md>)
 

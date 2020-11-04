@@ -27,11 +27,17 @@
 ## [atomic concept](<atomic concept.md>)
 - capture the entirety of that thing. [entirety of an atomic concept](<entirety of an atomic concept.md>)
 
+## [contextual usages](<contextual usages.md>)
+- Compressed data or [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
 ## [entirety of an atomic concept](<entirety of an atomic concept.md>)
 - [entirety of an atomic concept](<entirety of an atomic concept.md>)
 
 - examples of capturing [entirety of an atomic concept](<entirety of an atomic concept.md>)
 
+- [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
+## [high-value information blocks](<high-value information blocks.md>)
 - [entirety of an atomic concept](<entirety of an atomic concept.md>)
 
 ## [network note-taking](<network note-taking.md>)
