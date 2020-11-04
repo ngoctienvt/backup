@@ -48,4 +48,7 @@
 - [types of blog](<types of blog.md>)
     - digital garden
     - flourish-content blog
-    - 
+    - business blog
+- [threaded thinking](<threaded thinking.md>) instead of [linear thinking](<linear thinking.md>)
+    - Thinking is not only non-linear, it's messy. It involves a lot of back and forth, dead ends, branching, walking back, merging ideas, changing ideas, contradicting ideas. When I picture what my thoughts look like—the actual process of navigating different ideas in my head—I don't see a nice straight road with check points, I see a massive web of tangled threads.
+    -  The ideal tool for thought would embrace the messiness of our minds, and organically help insights emerge from chaos instead of forcing an artificial order. [condition for emergence](<condition for emergence.md>)

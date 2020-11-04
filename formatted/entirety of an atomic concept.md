@@ -37,7 +37,7 @@
 
 - [entirety of an atomic concept](<entirety of an atomic concept.md>)
 
-## [high-value information blocks](<high-value information blocks.md>)
+## [journey of wisdom](<journey of wisdom.md>)
 - [entirety of an atomic concept](<entirety of an atomic concept.md>)
 
 ## [network note-taking](<network note-taking.md>)

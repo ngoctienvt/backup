@@ -18,7 +18,8 @@
     - Researching
     - Sharing
     - Gathering
-    - 
+    - Consuming
+    - Creating
 
 # Backlinks
 ## [November 2nd, 2020](<November 2nd, 2020.md>)

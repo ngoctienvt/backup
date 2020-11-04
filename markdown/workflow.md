@@ -18,4 +18,5 @@
     - Researching
     - Sharing
     - Gathering
-    - 
+    - Consuming
+    - Creating

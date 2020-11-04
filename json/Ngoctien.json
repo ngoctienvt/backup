@@ -15662,11 +15662,29 @@
         "uid": "5wdJUTb_M"
       },
       {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604495716094,
+        "string": "**Seeds.**\u00a0Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes ([taking raw notes is useless](https://www.mentalnodes.com/taking-raw-notes-is-useless)). These don't need to be written in a publishable form.",
+        "uid": "Rb72tGw96"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604495716094,
+        "string": "**Trees.**\u00a0Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you're currently reading is such a note)\u00a0[Do not keep orphan notes](https://www.mentalnodes.com/do-not-keep-orphan-notes).\u00a0[Thread your thoughts.](https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking)",
+        "uid": "peo4mUUkU"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604495716094,
+        "string": "**Fruits.**\u00a0Produce\u00a0[new work](https://www.mentalnodes.com/on-the-newness-of-ideas). These are more substantial\u2014essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them\u00a0[live beyond their expiration date](https://www.mentalnodes.com/living-beyond-your-expiration-date).",
+        "uid": "zcRqrVJbE"
+      },
+      {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604495543127,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604495543127,
-        "string": "",
+        "edit-time": 1604495733436,
+        "string": "https://www.mentalnodes.com/a-gardening-guide-for-your-mind",
         "uid": "sTvbr65Ng"
       }
     ],
@@ -16420,9 +16438,17 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604493108350,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604493108350,
-            "string": "",
+            "edit-time": 1604496077290,
+            "string": "Consuming",
             "uid": "KWFjT7zLi"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604496077288,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604496078951,
+            "string": "Creating",
+            "uid": "bN4QV8mhr"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -25617,222 +25643,6 @@
         "uid": "qWzqbkcS7"
       },
       {
-        "children": [
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492674685,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492677014,
-                    "string": "Books",
-                    "uid": "vkp-z4CHn"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492686196,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492688422,
-                    "string": "Articles",
-                    "uid": "t-tDK9Kt8"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492694605,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492698795,
-                    "string": "Courses",
-                    "uid": "AmLkEwDsD"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492700812,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492703451,
-                    "string": "Self-learning",
-                    "uid": "rzKCYSZUr"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492677012,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492683853,
-                    "string": "Self-experiences",
-                    "uid": "HSWrasPak"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604492380107,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604492679084,
-                "string": "Collecting raw data",
-                "uid": "3G1YBWFlA"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604485909063,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492521779,
-                    "string": "highlights ",
-                    "uid": "oROxhLLzw"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604469491349,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492521778,
-                    "string": "summary",
-                    "uid": "A52zSDVAo"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604469487773,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492521778,
-                    "string": "key take-aways, ",
-                    "uid": "PD19aAOF6"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1603704772416,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492521779,
-                    "string": "new insights,",
-                    "uid": "gCRPYl-69"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604469495437,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492521779,
-                    "string": "new awareness",
-                    "uid": "Mw4BGvlYO"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604492406035,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604492413990,
-                "string": "Extracting piece of wisdom",
-                "uid": "pibPjfowP"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492416883,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492570106,
-                    "string": "high-value information blocks",
-                    "uid": "jrh591sLl"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492573428,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492591395,
-                    "string": "[[entirety of an atomic concept]]",
-                    "uid": "VA2ZmjonX"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604492570102,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604492570102,
-                "string": "Compressing wisdom",
-                "uid": "CV9_p1MCj"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604492634165,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604492639586,
-            "string": "Internal journey",
-            "uid": "GnbkQIkZX"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492593603,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492600347,
-                    "string": "evergreen notes",
-                    "uid": "bhRzGmfHK"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492720380,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492725966,
-                    "string": "Facebook status",
-                    "uid": "YFUSszPTj"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604492422387,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604492565186,
-                "string": "Generating pieces of personal wisdom",
-                "uid": "pymh-9_3X"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492615195,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492616854,
-                    "string": "articles",
-                    "uid": "Cc5E7EG71"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492616851,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492620951,
-                    "string": "courses",
-                    "uid": "SNhwI4uX2"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492620947,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492624127,
-                    "string": "training program",
-                    "uid": "-xbCvlQ8z"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604492624123,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604492629531,
-                    "string": "sharing talks",
-                    "uid": "g0tpMM_xc"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604492554755,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604492562922,
-                "string": "Compressing pieces of personal wisdom",
-                "uid": "R-wXhDkIV"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604492646078,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604492650818,
-            "string": "External journey ",
-            "uid": "WPGEpX9V3"
-          }
-        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604485748419,
         "edit-email": "ngoctienvt@gmail.com",
@@ -32092,14 +31902,6 @@
             "edit-time": 1604495670111,
             "string": "business blog",
             "uid": "rm-_GhJM_"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604495670107,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604495670107,
-            "string": "",
-            "uid": "FYkjdceDo"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -32108,6 +31910,32 @@
         "edit-time": 1604495623189,
         "string": "[[types of blog]]",
         "uid": "zCOD5Fgqk"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604495866738,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604495892625,
+            "string": "Thinking is not only non-linear, it's messy. It involves a lot of back and forth, dead ends, branching, walking back, merging ideas, changing ideas, contradicting ideas. When I picture what my thoughts look like\u2014the actual process of navigating different ideas in my head\u2014I don't see a nice straight road with check points, I see a massive web of tangled threads.",
+            "uid": "Eu5qtVIYO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604495914537,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604495922193,
+            "string": " The ideal tool for thought would embrace the messiness of our minds, and organically help insights emerge from chaos instead of forcing an artificial order. [[condition for emergence]]",
+            "uid": "L0SXPHfjL"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604495670107,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604495866431,
+        "string": "[[threaded thinking]] instead of [[linear thinking]]",
+        "uid": "FYkjdceDo"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -32964,6 +32792,222 @@
     "title": "writing workflow"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492674685,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "Books",
+                "uid": "vkp-z4CHn"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492686196,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "Articles",
+                "uid": "t-tDK9Kt8"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492694605,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "Courses",
+                "uid": "AmLkEwDsD"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492700812,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "Self-learning",
+                "uid": "rzKCYSZUr"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492677012,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "Self-experiences",
+                "uid": "HSWrasPak"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604492380107,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604496029689,
+            "string": "Collecting raw data - consumtion",
+            "uid": "3G1YBWFlA"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604485909063,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "highlights ",
+                "uid": "oROxhLLzw"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604469491349,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "summary",
+                "uid": "A52zSDVAo"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604469487773,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "key take-aways, ",
+                "uid": "PD19aAOF6"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603704772416,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "new insights,",
+                "uid": "gCRPYl-69"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604469495437,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "new awareness",
+                "uid": "Mw4BGvlYO"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604492406035,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604496009811,
+            "string": "Extracting piece of wisdom",
+            "uid": "pibPjfowP"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492416883,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "high-value information blocks",
+                "uid": "jrh591sLl"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492573428,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "[[entirety of an atomic concept]]",
+                "uid": "VA2ZmjonX"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604492570102,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604496009811,
+            "string": "Compressing wisdom",
+            "uid": "CV9_p1MCj"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604492634165,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604496009811,
+        "string": "Internal journey",
+        "uid": "GnbkQIkZX"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492593603,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009810,
+                "string": "evergreen notes",
+                "uid": "bhRzGmfHK"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492720380,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009810,
+                "string": "Facebook status",
+                "uid": "YFUSszPTj"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604492422387,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604496009810,
+            "string": "Generating pieces of personal wisdom",
+            "uid": "pymh-9_3X"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492615195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009810,
+                "string": "articles",
+                "uid": "Cc5E7EG71"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492616851,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009810,
+                "string": "courses",
+                "uid": "SNhwI4uX2"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492620947,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009810,
+                "string": "training program",
+                "uid": "-xbCvlQ8z"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604492624123,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604496009811,
+                "string": "sharing talks",
+                "uid": "g0tpMM_xc"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604492554755,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604496009811,
+            "string": "Compressing pieces of personal wisdom",
+            "uid": "R-wXhDkIV"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604492646078,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604496009811,
+        "string": "External journey ",
+        "uid": "WPGEpX9V3"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604492380116,
     "edit-email": "ngoctienvt@gmail.com",
@@ -32983,5 +33027,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604495623191,
     "title": "types of blog"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604495866432,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604495866434,
+    "title": "threaded thinking"
   }
 ]
