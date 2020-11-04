@@ -1,3 +1,15 @@
+- Related: [information blocks](<information blocks.md>)
+- There are different value levels of information
+    - Lowest are the first draft processing or picking up
+        - highlights 
+        - summary
+        - key take-aways, 
+        - new insights,
+        - new awareness
+    - Second is the information that go through compressed process [compressed understanding](<compressed understanding.md>)
+    - Third is the information that relate a bit to external world [evergreen notes](<evergreen notes.md>)
+    - Fourth is the information that go through generating process to become an articles - an information that capture entire of my understanding to certain things
+- 
 
 # Backlinks
 ## [November 4th, 2020](<November 4th, 2020.md>)

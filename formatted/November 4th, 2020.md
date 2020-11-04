@@ -97,3 +97,5 @@
     - Processing to [compressed understanding](<compressed understanding.md>)
     - Generating pieces of output notes
     - Collecting and edit pieces of output notes to become an high-quality article or blog post. 
+- [ ] working on workflow process again
+- 

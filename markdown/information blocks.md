@@ -1,9 +1,5 @@
 - Related: [[Roam's writing structure]]
 - [[high-value information blocks]]
-    - summary
-    - key take-aways, 
-    - new insights,
-    - new awareness
 - [[types of information blocks]]
     - [[real life application]]
     - [[todo list]]

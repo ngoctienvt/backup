@@ -25375,6 +25375,108 @@
     "title": "action-oriented"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604485787117,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604485794306,
+        "string": "Related: [[information blocks]]",
+        "uid": "qWzqbkcS7"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604485909063,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604485912612,
+                "string": "highlights ",
+                "uid": "oROxhLLzw"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604469491349,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604485585428,
+                "string": "summary",
+                "uid": "A52zSDVAo"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604469487773,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604485585428,
+                "string": "key take-aways, ",
+                "uid": "PD19aAOF6"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603704772416,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604485585428,
+                "string": "new insights,",
+                "uid": "gCRPYl-69"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604469495437,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604485585428,
+                "string": "new awareness",
+                "uid": "Mw4BGvlYO"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604485565067,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604485611617,
+            "string": "Lowest are the first draft processing or picking up",
+            "uid": "25sCE-je8"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604485587650,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604485654449,
+            "string": "Second is the information that go through compressed process [[compressed understanding]]",
+            "uid": "JRZrMsSko"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604485655131,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604485699840,
+            "string": "Third is the information that relate a bit to external world [[evergreen notes]]",
+            "uid": "Fok7zjGRY"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604485693995,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604485748421,
+            "string": "Fourth is the information that go through generating process to become an articles - an information that capture entire of my understanding to certain things",
+            "uid": "p-CeLCMnh"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604485554134,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604485771458,
+        "string": "There are different value levels of information",
+        "uid": "fETHPbw2T"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604485748419,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604485748419,
+        "string": "",
+        "uid": "kIxZtZOIg"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1603685293914,
     "edit-email": "ngoctienvt@gmail.com",
@@ -25413,40 +25515,6 @@
         "uid": "WQ7-dSRXK"
       },
       {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604469491349,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604469493737,
-            "string": "summary",
-            "uid": "A52zSDVAo"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604469487773,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604469487773,
-            "string": "key take-aways, ",
-            "uid": "PD19aAOF6"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603704772416,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604469497835,
-            "string": "new insights,",
-            "uid": "gCRPYl-69"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604469495437,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604469501681,
-            "string": "new awareness",
-            "uid": "Mw4BGvlYO"
-          }
-        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603685456760,
         "edit-email": "ngoctienvt@gmail.com",
@@ -31957,6 +32025,22 @@
         "edit-time": 1604480293096,
         "string": "I noticed that the workflow of the writing is looks like this [[writing workflow]] [[workflow]]",
         "uid": "--QEteU7c"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604485821294,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604485842265,
+        "string": "{{[[TODO]]}} working on workflow process again",
+        "uid": "x2DBXldcE"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604485842253,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604485842253,
+        "string": "",
+        "uid": "V9fRrsodl"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",

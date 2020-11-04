@@ -1,9 +1,5 @@
 - Related: [Roam's writing structure](<Roam's writing structure.md>)
 - [high-value information blocks](<high-value information blocks.md>)
-    - summary
-    - key take-aways, 
-    - new insights,
-    - new awareness
 - [types of information blocks](<types of information blocks.md>)
     - [real life application](<real life application.md>)
     - [todo list](<todo list.md>)
@@ -39,6 +35,9 @@
 - Dividing information into different [types of information blocks](<types of information blocks.md>) to store [information blocks](<information blocks.md>)
 
 - Creating a meaningful connection between these [information blocks](<information blocks.md>)
+
+## [high-value information blocks](<high-value information blocks.md>)
+- Related: [information blocks](<information blocks.md>)
 
 ## [types of note](<types of note.md>)
 - [information blocks](<information blocks.md>)
