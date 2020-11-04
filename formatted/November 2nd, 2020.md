@@ -2,7 +2,7 @@
     - It's like I know what's important for the child, but it's not suitable to give them advice when they are drowning.
 - Today I will continue to focus on learn Effortless Output with Roam.
 - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [point of focus](<point of focus.md>) [seeking clarity before resolving](<seeking clarity before resolving.md>)
-- I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [top-down boundary](<top-down boundary.md>)[coaching goals](<coaching goals.md>) [the relationship between end goals and methods](<the relationship between end goals and methods.md>)
+- I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [top-down approach](<top-down approach.md>)[coaching goals](<coaching goals.md>) [the relationship between end goals and methods](<the relationship between end goals and methods.md>)
     - Choose the [end goals](<end goals.md>) wisely
         - For instance, make becoming a good [spiritual practitioner](<spiritual practitioner.md>) at end goals. [unattachment centering](<unattachment centering.md>)
             - Other things are methods, tests, feedbacks for that goal

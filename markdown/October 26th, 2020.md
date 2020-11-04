@@ -37,5 +37,5 @@ I felt that my coaching is not fully releasing myself and helping clients to shi
 - I felt my uncomfortable feeling for my usual routine is disturbed [[need for convenient]]. I do not totally surrender myself to the [[flow of life]] yet.
 - [[Articles - Your Life Isn’t Defined By Your Choices, It’s Defined By Your Reactions]]
 - [[Articles - 7 Skills That Will Make You Emotionally Strong]]
-- [[bottom-line]] is a way to think about [[top-down boundary]] in a way that not feel negative and restricted.
+- [[bottom-line]] is a way to think about [[top-down approach]] in a way that not feel negative and restricted.
 - 

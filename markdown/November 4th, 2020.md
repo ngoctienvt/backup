@@ -79,4 +79,21 @@
 - My [[mindset]] is now from the higher-self and the rest of the lower-self. 
     - For example, grateful and ungrateful. Love and no love, Respect and unrespect. There is no need to care the differences of lower-self. Just need to know it is lower-self to aim to higher-self. [[indifferentiated]]
 - I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [[high-value information blocks]] that got process a bit and want to process more.
-- 
+- I feel much better when starting processing bottom-up approach to learn about my [[compressed process]]
+    - Key takeaways::
+        - Some [[types of information blocks]] that I started to see when processing bottom-up approach concepts are
+            - real life application
+            - definition
+            - benefits 
+            - characteristics
+            - procedure
+                - Process is more about a general concept or idea, while procedure is how execute every components in reality.
+        - Learn to link keywords in a helpful way
+            - Tagging for direct related-ideas or key topics of the block
+            - Try to process them a bit before tagging them. (summary, key take-aways, new insights...) on daily notes or any sources of information
+- I noticed that the workflow of the writing is looks like this [[writing workflow]] [[workflow]]
+    - Collecting external materials and transient thoughts
+    - Processing to [[high-value information blocks]]
+    - Processing to [[compressed understanding]]
+    - Generating pieces of output notes
+    - Collecting and edit pieces of output notes to become an high-quality article or blog post. 

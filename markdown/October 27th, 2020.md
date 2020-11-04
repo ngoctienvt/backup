@@ -6,7 +6,7 @@
         - For this to be complete, I need to be clear about the [[organic self-generated structure]] of Roam Research so that I could be free to do anything without the fear of [[inconvenient]] to fix things.
         - I would like to develop a established [[trust the process]] attitude, and everything is on their process of better, and even learn to have an [[abundance appreciation]] for activities that I feel uncomfortable and waste of time. 
         - Some keywords need to be clear
-            - [[top-down boundary]]
+            - [[top-down approach]]
                 - My work about this is there need to be a boundary for each [[atomic concept]] so that I would know what's appropriate and what's not appropriate to add to a node. So that I can somehow format the way I see them and not feel disorganized inside my head.
                 - The boundary need to be clear about what is okay to be keep open and what is not.
                     - What is okay?

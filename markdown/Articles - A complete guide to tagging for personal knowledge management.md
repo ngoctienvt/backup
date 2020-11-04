@@ -8,7 +8,7 @@
         - Networks are good in small-scale, quickly changing situations in unpredictable environments. [[flexible environments]]
     - Self-organization overcomes formal organizing’s rigidity. Formal organization keeps at bay self-organization’s tendency to self-destruct. [[self-organization]]
     - Francis Bacon’s scientific method, first introduced in the 17th century, was a bottom-up, networked approach to building scientific understanding. [[bottom-up approach]] [[network approach]]
-    - In the 18th century, the encyclopedia movement promoted most famously by Denis Diderot moved in the opposite direction. [[top-down boundary]]
+    - In the 18th century, the encyclopedia movement promoted most famously by Denis Diderot moved in the opposite direction. [[top-down approach]]
     - Memory searching
         - Searching relies on declarative memory – remembering and entering the precise contents of a file – which is a higher-level brain function that consumes a lot of energy.
         - Searching relies on declarative memory – remembering and entering the precise contents of a file – which is a higher-level brain function that consumes a lot of energy. [[declarative memory]]
@@ -19,7 +19,7 @@
             - Tunnels have a beginning and an end, a top and a bottom. We are comfortable navigating tunnels.
     - [[Tag usage]]
         - Tagging notes across different notebooks allows us to **perceive cross-disciplinary themes and patterns** that defy simple categorization. [[inter-related]]
-            - Tagging all the notes we want to review for a project could make our choices easier, by **creating a boundary** around the information we’ll consider before taking action. [[top-down boundary]]
+            - Tagging all the notes we want to review for a project could make our choices easier, by **creating a boundary** around the information we’ll consider before taking action. [[top-down approach]]
             - And tagging notes according to which stage of a project they are best suited for can improve our thinking by allowing us to focus on only the most relevant information for the given moment. [[point of focus]]
             - With the simple act of assigning labels to things, we invite the brain’s pattern recognition ability to identify their similarities and thereby predict what other items would fit the label too. [[relevant progressing]]
             - We shape the environment, and then the environment shapes our mind.

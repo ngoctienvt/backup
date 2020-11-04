@@ -10,7 +10,7 @@
 - ## Core methods
     -  [[bottom-up approach]] for merging with the experiences
         - [[integration]]
-    -  [[top-down boundary]] for focusing myself to certain direction
+    -  [[top-down approach]] for focusing myself to certain direction
 - ## Core principles:
     - living life as a [[circular process]]
         - focused on [[enjoy the process]] or journey instead of a [[linear process]] focused on [[results]]

@@ -10,7 +10,7 @@
 - ## Core methods
     -  [bottom-up approach](<bottom-up approach.md>) for merging with the experiences
         - [integration](<integration.md>)
-    -  [top-down boundary](<top-down boundary.md>) for focusing myself to certain direction
+    -  [top-down approach](<top-down approach.md>) for focusing myself to certain direction
 - ## Core principles:
     - living life as a [circular process](<circular process.md>)
         - focused on [enjoy the process](<enjoy the process.md>) or journey instead of a [linear process](<linear process.md>) focused on [results](<results.md>)
@@ -44,7 +44,7 @@
 [living from the place of surrender](<living from the place of surrender.md>) is fully orient myself into a higher life, but at the same time fully experiences what levels I am at as the stepping stones for my next level. [progressive approach](<progressive approach.md>)
 
 ## [October 13th, 2020](<October 13th, 2020.md>)
-- When I thought about how I could learn from the [top-down boundary](<top-down boundary.md>), I wonder how could I integrate it with the [bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation](<bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation.md>). [progressive approach](<progressive approach.md>)
+- When I thought about how I could learn from the [top-down approach](<top-down approach.md>), I wonder how could I integrate it with the [bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation](<bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation.md>). [progressive approach](<progressive approach.md>)
 
 That's maybe the reason why I'm very hard to master anything, but need to go through the process in an A -> B -> C way, so that I will not just able to do it alone, but can also teach other people how to do when they understand the process. [progressive approach](<progressive approach.md>)
 
@@ -54,7 +54,7 @@ That's maybe the reason why I'm very hard to master anything, but need to go thr
 - [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>) = [being mode](<being mode.md>) [progressive approach](<progressive approach.md>)
 
 ## [October 1st, 2020](<October 1st, 2020.md>)
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down boundary](<top-down boundary.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
 
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - My true [openness](<openness.md>) and [trust the process](<trust the process.md>) is not deny my ability for sustain able development and theory go before the practices. It's [the middle way](<the middle way.md>) that show in the [progressive approach](<progressive approach.md>).
@@ -74,7 +74,7 @@ That's maybe the reason why I'm very hard to master anything, but need to go thr
 - I found that I want to shift my way of living now is kind of laid back and passive to a way of living more energetic and active. I start to realize my highest [intention](<intention.md>) is to evolve myself and make progress forward every day on the time on earth. [progressive approach](<progressive approach.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
-I noticed that when I'm approaching things to train others, I like to work from a [top-down boundary](<top-down boundary.md>) as this helps me to ensure that the value and the understanding are there for them. However, this also put pressure too much on my shoulder. Ideally, I want to have some small top-down ideas [breakdown](<breakdown.md>) that I want to develop and work to complete these fragments and train them as well. This is exactly how [progressive approach](<progressive approach.md>)
+I noticed that when I'm approaching things to train others, I like to work from a [top-down approach](<top-down approach.md>) as this helps me to ensure that the value and the understanding are there for them. However, this also put pressure too much on my shoulder. Ideally, I want to have some small top-down ideas [breakdown](<breakdown.md>) that I want to develop and work to complete these fragments and train them as well. This is exactly how [progressive approach](<progressive approach.md>)
 
 - After setup the basic foundation, I will want to support people to work on each things in-depth or start to get used to things with [progressive approach](<progressive approach.md>)
 
@@ -114,7 +114,7 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 - [progressive approach](<progressive approach.md>)
 
 ## [bottom-up approach](<bottom-up approach.md>)
-- Related: [progressive approach](<progressive approach.md>)
+- ### Related: [progressive approach](<progressive approach.md>)
 
 - [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
 
@@ -128,7 +128,7 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 - [progressive approach](<progressive approach.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>)
 
 - This [progressive approach](<progressive approach.md>)
 

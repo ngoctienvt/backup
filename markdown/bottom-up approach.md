@@ -1,8 +1,10 @@
-- Related: [[progressive approach]]
+- ### Related: [[progressive approach]]
 - ### Definition:
     - [[bottom-up approach]] is an approach that a part of [[progressive approach]]
-        - for solving problems
-        - or achieving any end goals gradually. 
+        - for solving big problems
+        - learning any thing
+        - or achieving any end goals
+    - in a natural way
 - ### Benefits of bottom-up approach:
     - Releasing the goal-oriented pressure and developing trust the process
     - Releasing the [[need for perfect]] and developing [[grower mindset]]
@@ -10,17 +12,15 @@
     - work on [[integration]] what haven't resolved
     - emphasizes on now to learn in a progressive way
     - [[natural progression]] based on preparing [[readiness]] for next stage
-- ### Process of bottom-up approach:
+- ### Procedure of bottom-up approach:????
     - Identify what need to be integrate with
     - Working on to integrate it with myself
-    - Focusing on the [[natural progression]] that happens overtime
+    - Accumulating new ingredients for development
 - ### [[real life application]]
     - Learning to [[living from the place of surrender]] by using bottom-up approach
         - to let go [[samskaras]]
         - to stay in touch with the [[current moments]]
         - developing [[openness]] and [[abundance appreciation]] gradually
     - Developing [[deeper understanding]] or [[generative wisdom]] through a [[bottom-up approach]]
-        - Collecting raw data and learning materials for
-    - Learning to use [[bottom-up approach]] to gradually solve big problems
     - [[being coaching]] in a [[bottom-up approach]] way to support other people with their [[natural progression]] and free of [[personal agenda]]
     - [[training]] in a way that bottom-up students learning, understanding, and executing instead of simply giving personal knowledge.

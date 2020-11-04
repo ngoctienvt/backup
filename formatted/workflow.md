@@ -27,6 +27,8 @@
 
 - [workflow](<workflow.md>)
 
+- I noticed that the workflow of the writing is looks like this [writing workflow](<writing workflow.md>) [workflow](<workflow.md>)
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [workflow](<workflow.md>)
 

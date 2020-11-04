@@ -7,7 +7,7 @@
 - I felt tired today and feel that I need to [recharge](<recharge.md>) my energy first.
 - I noticed that I want to write a post about my [coaching services](<coaching services.md>) so that I could get in touch and support with the suitable clients that need my help.
     - The coaching services will talk who is suitable for my services, who is not,...
-- [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) also made me realize that I have a tendency to work by [top-down boundary](<top-down boundary.md>)  too much, though it's work for quite certain of times. But there is time it's not. 
+- [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) also made me realize that I have a tendency to work by [top-down approach](<top-down approach.md>)  too much, though it's work for quite certain of times. But there is time it's not. 
 - 
 - I have a little bit [worry](<worry.md>) about how logseq saves my notes, but I guess it will be fine and will test it more to refine this process.
 - 

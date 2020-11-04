@@ -98,8 +98,6 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [bottom-up approach](<bottom-up approach.md>)
 - [natural progression](<natural progression.md>)
 
-- Focusing on the [natural progression](<natural progression.md>)
-
 - [being coaching](<being coaching.md>) in a [bottom-up approach](<bottom-up approach.md>) way to support other people with their [natural progression](<natural progression.md>)
 
 ## [interests](<interests.md>)
@@ -109,7 +107,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 - [natural progression](<natural progression.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down boundary](<top-down boundary.md>) and [bottom-up approach](<bottom-up approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>) and [bottom-up approach](<bottom-up approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
 
 - [natural progression](<natural progression.md>)
 

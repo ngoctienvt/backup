@@ -19,6 +19,9 @@
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
 - Unstructured information was “clustered” into information blocks with clear labels, which were linked together and further refined in the writing process. [connection thinking](<connection thinking.md>) [compressed process](<compressed process.md>)
 
+## [November 4th, 2020](<November 4th, 2020.md>)
+- I feel much better when starting processing bottom-up approach to learn about my [compressed process](<compressed process.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 [compressed process](<compressed process.md>)
 

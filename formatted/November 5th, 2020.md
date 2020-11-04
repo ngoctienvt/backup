@@ -1,0 +1,31 @@
+- Link: https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/ {{[∆](<∆.md>):1+2}}
+    - ![](https://www.roambrain.com/wp-content/uploads/kahlil_corazo_zettelkasten_1.png)
+    - ### 1. Reading Inbox
+        - This is an optional step. If you encounter something interesting and you cannot read or watch it at the moment, you can send it to a reading inbox.
+        - The reading inbox is not a forever-expanding “someday, maybe” list. Draining out this temporary holding area is part of the routine. Draining means either:
+            - Deleting the note
+            - Serious reading of the material (ie, taking notes)
+            - Shallow reading of the material: transferring it to a list of references or
+            - Adding it to some other list (eg, recipes)
+        - This sounds like Inbox Zero, which has never worked for me. What I do instead is to treat incoming content like a giant river.
+        - In a world of abundance and searcheability, I prefer to spend time creating rather than organizing.
+    - ## 2. Transient Notes
+        - What Sönke Ahrens calls “Fleeting Notes” Andy Matuschak calls “Transient Notes.” Matuschak uses a pocket notebook. Pages with notes are ripped off for processing:
+        - When reading deeply technical or profound content, I copy quotes in Roam and nest my questions and dirty notes under the quotes.
+    - ## 3. The Writing Inbox
+        - The writing inbox is a collection of transient notes.
+    - ## 4. Evergreen Notes
+        - Creating evergreen notes is the most important part of zettelkasten. This is where thinking happens. Here are its key principles:
+            - Evergreen notes should be atomic.
+            - Evergreen notes should be concept-based.
+            - Evergreen notes should be connected, synthesized and distilled as a result of grappling with ideas.
+            - Evergreen notes should have titles that function like APIs.
+    - ### 4.3. Evergreen notes should be distilled, connected and synthesized as a result of grappling with ideas
+        - **Distillation.** When reading content, I only copy-paste the sections that resonate with me. Sometimes this is intuitive. Sometimes, I have specific answers I’m looking for.
+        - **Connecting notes **forces us to “[think expansively about what other concepts might be related to what we’re thinking about. It creates pressure to think carefully about how ideas relate to each other.](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)” In Roam, I use queries, search, and autocomplete using [] or ().
+        - **Synthesizing**.
+    - ## 5. Speculative outlines
+        - This article you are now reading came from a [Twitter thread](https://twitter.com/kcorazo/status/1255296825566920705). I’m transmuting it into an article because of the good feedback it got. Threads are [MVP](https://en.wikipedia.org/wiki/Minimum_viable_product)
+        - s for long-form writing and projects.
+    - ## 6. Writing
+        - __Normally, we start an outline when we start a writing project. This forces us to start with a blank page. By contrast, if we write new notes every day and notice how they relate to each other, these can accumulate into potential writing projects. — __[Andy Matuschak](https://notes.andymatuschak.org/z2uXyfV67dnWLUKg1iDbsrHk3DGjtNWTxSTah)

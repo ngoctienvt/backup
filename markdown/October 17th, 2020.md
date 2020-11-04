@@ -91,13 +91,13 @@ materials [[generative wisdom]]
 - It seems like for buying necessary things. Half of the price that I feel comfortable to pay is a good way to make choice. [[the middle way]]
 - There is an intersection between [[self-learning]] and learning from the [[external knowledge]] is that it focuses on solving the current [[demand of reality]]  which is the current context. [[contextual mastery]]
     - [[self-learning]] come to context with a [[bottom-up approach attitude.
-    - [[external knowledge]] help to optimize the situation from a [[top-down boundary]]
+    - [[external knowledge]] help to optimize the situation from a [[top-down approach]]
 - [[From separation to union life]] [[integration]] [[natural progression]]
     - The societies split life into many different aspects
         - Work, life, social, entertainment, spiritual...
         - Physics, Math, Biology,...
         - father, son, colleague, friend, trainer, coach...
-    - It's helpful to split things down so we can perform ourselves on that role and learn to master these roles separately. However, it's also unconsciously create hard [[top-down boundary]] and split our trueself to many different aspects.
+    - It's helpful to split things down so we can perform ourselves on that role and learn to master these roles separately. However, it's also unconsciously create hard [[top-down approach]] and split our trueself to many different aspects.
     - There is only one life, there is no hard-boundary in life. The splitting is the result of human mind and our job is not to believe that how it works. The truth is life are one.
     - All of the words that based on [[separation]] mindset is work-life balance, coach, trainer, father, mother, son, boyfriend, girl friend, roles,...
 - 

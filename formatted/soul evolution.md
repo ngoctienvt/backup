@@ -92,7 +92,7 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 
 - [soul evolution](<soul evolution.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>)
 
 ## [progressive approach](<progressive approach.md>)
 - [soul evolution](<soul evolution.md>)

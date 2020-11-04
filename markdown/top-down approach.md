@@ -1,0 +1,4 @@
+- [[top-down approach]] is an approach that focuses more on working with detail level and understanding the specific situation or context, the moment, the difference.
+- [[top-down approach]] helps to understand thing in a deeper level and honor the moment.
+- [[top-down approach]] helps to create a direction to utilizes the information that gathered from [[bottom-up approach]] to a specific usage.
+- [[top-down approach]] is just simply create a space for me to work things on, not to start from there downward, but actually create a destination for me to build-up to there overtime.

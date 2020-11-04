@@ -20,7 +20,7 @@
         - Is the [moment](<moment.md>) in front of me is the only moment in the universe?
         - Where does the moment in front of me coming from?
         - What makes me not okay with the moment that are giving to me?
-        - The [training method](<training method.md>) of Michael Singer is teaching students from a [top-down boundary](<top-down boundary.md>) that starts with what's the truth, proving it and linking it slowly to the understanding of students. It creates conflict and separation in the mind of the students between the perception and the absolute truth. 
+        - The [training method](<training method.md>) of Michael Singer is teaching students from a [top-down approach](<top-down approach.md>) that starts with what's the truth, proving it and linking it slowly to the understanding of students. It creates conflict and separation in the mind of the students between the perception and the absolute truth. 
         - Due to this, students can start to learn to let go of the untruth, so they can realize what's left. The truth is always there, it didn't need you to agree that it's true or create your perception about it. It just needs us to open and aware its existence. [absolute truth](<absolute truth.md>) [perception](<perception.md>) [existence](<existence.md>)
 
 # Backlinks

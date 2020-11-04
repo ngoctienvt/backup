@@ -10,7 +10,7 @@
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - I felt that the reason I want to have speakers is that I like to be on [diffuse mode](<diffuse mode.md>). Headphone mainly I want to use for [focus mode](<focus mode.md>). There is a [separation](<separation.md>) for these 2 ways of living of myself. And now I am starting to learn how to integrate focus mode to my diffuse mode. [integration](<integration.md>)
 
-- The hardest part of [progressive approach](<progressive approach.md>) is still about how to utilize the [focus mode](<focus mode.md>) to use my time effectively. The difficulty is still about I feel the [top-down boundary](<top-down boundary.md>) to learn like writing all of what I learn from the books is okay, but it's not maximize and fully effective if I just learn knowledge without starting to integrate it at the same time. [integration](<integration.md>)
+- The hardest part of [progressive approach](<progressive approach.md>) is still about how to utilize the [focus mode](<focus mode.md>) to use my time effectively. The difficulty is still about I feel the [top-down approach](<top-down approach.md>) to learn like writing all of what I learn from the books is okay, but it's not maximize and fully effective if I just learn knowledge without starting to integrate it at the same time. [integration](<integration.md>)
 
 ## [October 14th, 2020](<October 14th, 2020.md>)
 But now I still need to make [conscious choice](<conscious choice.md>) to keep myself working on [integration](<integration.md>)

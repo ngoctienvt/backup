@@ -1,7 +1,7 @@
 - letting go [personal agenda](<personal agenda.md>) that related to [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>)
 - developing or centering my coaching on [bottom-up approach](<bottom-up approach.md>) instead of top-down approach.
     - making [bottom-up approach](<bottom-up approach.md>) the central of my coaching skills
-        - [top-down boundary](<top-down boundary.md>) is a supplement for help me to on the right track.
+        - [top-down approach](<top-down approach.md>) is a supplement for help me to on the right track.
 - learning to use [powerful questions](<powerful questions.md>) to support clients stretch themselves to close the gap with their end goals [closing the gap](<closing the gap.md>)
 - integrating between [bottom-up approach](<bottom-up approach.md>) and strecth clients to [closing the gap](<closing the gap.md>)
 

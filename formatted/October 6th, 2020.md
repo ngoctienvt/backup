@@ -73,7 +73,7 @@ Each tasks also require different kind of attentions [types of attention](<types
     - The [externalization](<externalization.md>) of writing helps us to keep our work outside, and comeback whenever we want so our mind no need to keep them in mind like RAM. [mind-training](<mind-training.md>) [productivity](<productivity.md>) [writing](<writing.md>)
 
 This really helps to pick up the task where we at without the need to keep in our mind is a really way to use our [intellectual mind](<intellectual mind.md>) in a effective way.
-- I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [top-down boundary](<top-down boundary.md>) that works on support the thesis or argue about it, instead of a way that open and easy to include, expand the ideas. 
+- I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [top-down approach](<top-down approach.md>) that works on support the thesis or argue about it, instead of a way that open and easy to include, expand the ideas. 
 
 I will find a way to really develop my notes on a [bottom-up approach to be my main execution for [[progressive approach](<bottom-up approach to be my main execution for [[progressive approach.md>)
 - [funny](<funny.md>) [music](<music.md>) {{[youtube](<youtube.md>): https://www.youtube.com/watch?v=7jQipab-Ddc&ab_channel=Wowy}}
