@@ -1,4 +1,4 @@
-- It feels quite uncomfortable and not natural to clean up the [bottom-up approach](<bottom-up approach.md>). The reason is
+- It feels quite uncomfortable and not natural to clean up the [[bottom-up approach. The reason is
     - I'm not totally clear about what I could generalize to capture [entirety of an atomic concept](<entirety of an atomic concept.md>) [generalization](<generalization.md>) [contextual usages](<contextual usages.md>)
     - How I will clean what's not the main point? [Roam's writing structure](<Roam's writing structure.md>)
         - Should I come to the main point and clean it now? or
@@ -78,5 +78,5 @@
 [true harmony](<true harmony.md>) is the harmony between our true self and reality, not the ego self and society.
 - My [mindset](<mindset.md>) is now from the higher-self and the rest of the lower-self. 
     - For example, grateful and ungrateful. Love and no love, Respect and unrespect. There is no need to care the differences of lower-self. Just need to know it is lower-self to aim to higher-self. [indifferentiated](<indifferentiated.md>)
-    - 
+- I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [high-value information blocks](<high-value information blocks.md>) that got process a bit and want to process more.
 - 

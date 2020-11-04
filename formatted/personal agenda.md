@@ -20,6 +20,12 @@
 
 - I still have a conflict between accepting as it is versus want them to be better. The [personal agenda](<personal agenda.md>) for wanting people to be better makes me can't accepting as it is FIRST. I want to set myself to a state that can accept everything as it is without any [personal needs](<personal needs.md>) and [personal agenda](<personal agenda.md>)
 
+## [bottom-up approach](<bottom-up approach.md>)
+- [being coaching](<being coaching.md>) in a [bottom-up approach](<bottom-up approach.md>) way to support other people with their [natural progression](<natural progression.md>) and free of [personal agenda](<personal agenda.md>)
+
+## [coaching reflection](<coaching reflection.md>)
+- letting go [personal agenda](<personal agenda.md>)
+
 ## [human mind](<human mind.md>)
 - We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>) to expand the [wisdom](<wisdom.md>) of the world. We are so lost in [personal agenda](<personal agenda.md>)
 

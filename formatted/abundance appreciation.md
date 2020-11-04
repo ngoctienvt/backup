@@ -25,9 +25,6 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - develop [abundance appreciation](<abundance appreciation.md>)
 
-## [October 15th, 2020](<October 15th, 2020.md>)
-- Start from the top is mostly about expectations and clinging. Instead of that, I want to always stay at the bottom and climb the mountain up slowly with the [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>)
-
 ## [October 21st, 2020](<October 21st, 2020.md>)
 will actually use. [abundance appreciation](<abundance appreciation.md>)
 
@@ -61,4 +58,7 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 - [abundance appreciation](<abundance appreciation.md>)
 
 - The characteristics of [abundance appreciation](<abundance appreciation.md>)
+
+## [bottom-up approach](<bottom-up approach.md>)
+- developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>)
 

@@ -1750,8 +1750,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600128024372,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224827,
-        "string": "M\u00ecnh c\u0169ng nh\u1eadn ra l\u00e0 [[intention]] c\u1ee7a m\u00ecnh c\u0169ng \u0111ang \u0111\u01b0\u1ee3c c\u00f4 \u0111\u1ecdng l\u1ea1i nhi\u1ec1u h\u01a1n khi s\u1eed d\u1ee5ng Roam, v\u00ec n\u00f3 gi\u00fap cho m\u00ecnh tho\u1ea3i m\u00e1i \u0111\u1ec3 t\u00edch l\u0169y small thought v\u00e0 t\u1eeb \u0111\u00f3 c\u00f4 \u0111\u1ecdng t\u1eebng ch\u00fat t\u1eebng ch\u00fat m\u1ed9t, n\u00f3 c\u00f3 1 c\u00e1i h\u01b0\u1edbng \u0111\u1ec3 m\u00ecnh \u0111i t\u1edbi t\u1eeb t\u1eeb, ch\u1ee9 kh\u00f4ng b\u1ecb \u00e1p l\u1ef1c l\u00e0 ph\u1ea3i perfect ngay t\u1eeb \u0111\u1ea7u nh\u01b0 [[top-down boundary]]. [[bottom-up approach]]",
+        "edit-time": 1604477617596,
+        "string": "",
         "uid": "muxzZzXPg"
       },
       {
@@ -2448,8 +2448,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1600183319980,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604461119405,
-            "string": "It means that it\u2019s kind of of a structure to help people how to [[bottom-up approach]] their PC and have their own upgrade or evolve. ",
+            "edit-time": 1604477623333,
+            "string": "It means that it\u2019s kind of of a structure to help people how to [[bottom-up approach their PC and have their own upgrade or evolve. ",
             "uid": "0iS6i2Nbl"
           },
           {
@@ -2884,12 +2884,84 @@
   {
     "children": [
       {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604477863471,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604477872557,
+        "string": "Related: [[progressive approach]]",
+        "uid": "Hjbj8arLf"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604476720787,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604476720787,
+                "string": "for solving problems",
+                "uid": "Psr7i9yof"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603788119967,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604476722775,
+                "string": "or achieving any end goals gradually. ",
+                "uid": "rGm70EsLC"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604476718571,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604477186498,
+            "string": "[[bottom-up approach]] is an approach that a part of [[progressive approach]]",
+            "uid": "ZuivmETCe"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604476739683,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604476739683,
+        "heading": 3,
+        "string": "Definition:",
+        "uid": "vOb1i0PDo"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604477492126,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604477535504,
+            "string": "Releasing the goal-oriented pressure and developing trust the process",
+            "uid": "WG_9pOvp-"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604477512263,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604477595038,
+            "string": "Releasing the [[need for perfect]] and developing [[grower mindset]]",
+            "uid": "0S4kdA5_f"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604477482038,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604477492129,
+        "heading": 3,
+        "string": "Benefits of bottom-up approach:",
+        "uid": "ysaadm_yE"
+      },
+      {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603788077645,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460255051,
+            "edit-time": 1604476639023,
             "string": "work on [[integration]] what haven't resolved",
             "uid": "6gCDW_8a-"
           },
@@ -2897,51 +2969,148 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603788080420,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460978410,
+            "edit-time": 1604476639023,
             "string": "emphasizes on now to learn in a progressive way",
             "uid": "PbFILtw2p"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604477188215,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604477227935,
+            "string": "[[natural progression]] based on preparing [[readiness]] for next stage",
+            "uid": "WRP1DF1xz"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1603788119967,
+        "create-time": 1604476015817,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224828,
-        "string": "Definition: [[bottom-up approach]] is an approach that ",
-        "uid": "rGm70EsLC"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1603788416861,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460296372,
-        "string": "[[bottom-up approach]] is a components of [[progressive approach]].",
-        "uid": "Ut2szf65m"
+        "edit-time": 1604476030452,
+        "heading": 3,
+        "string": "Characteristics of bottom-up approach:",
+        "uid": "19-0wufF7"
       },
       {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604460762991,
+            "create-time": 1604476249728,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460783446,
-            "string": "[[need for convenient]]",
-            "uid": "Tc8WRAQv1"
+            "edit-time": 1604476271503,
+            "string": "Identify what need to be integrate with",
+            "uid": "m2Ngb9jhn"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604460796156,
+            "create-time": 1604476271495,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460796156,
-            "string": "",
-            "uid": "WaDXlj2zs"
+            "edit-time": 1604476286194,
+            "string": "Working on to integrate it with myself",
+            "uid": "caOTZnS0F"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604476288743,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604476332535,
+            "string": "Focusing on the [[natural progression]] that happens overtime",
+            "uid": "3_fdyEDLS"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1601909021857,
+        "create-time": 1604476228265,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460770971,
-        "string": "Objects for practices",
-        "uid": "PhvPFCl1_"
+        "edit-time": 1604476249730,
+        "heading": 3,
+        "string": "Process of bottom-up approach:",
+        "uid": "eM2BU1utG"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1601909021857,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475642998,
+                "string": "to let go [[samskaras]]",
+                "uid": "PhvPFCl1_"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604475643125,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475665719,
+                "string": "to stay in touch with the [[current moments]]",
+                "uid": "LzX_8FjwQ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604475633257,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604476145007,
+                "string": "developing [[openness]] and [[abundance appreciation]] gradually",
+                "uid": "t69QIBhgW"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604475640530,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604475640530,
+            "string": "Learning to [[living from the place of surrender]] by using bottom-up approach",
+            "uid": "NZxNGaqu-"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604475305839,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604476599231,
+                "string": "Collecting raw data and learning materials for",
+                "uid": "X9Z2A0XOV"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604476599227,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604476599227,
+            "string": "Developing [[deeper understanding]] or [[generative wisdom]] through a [[bottom-up approach]]",
+            "uid": "SsYiAEO64"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604476496470,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604476526465,
+            "string": "Learning to use [[bottom-up approach]] to gradually solve big problems",
+            "uid": "C0t7BENRG"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604475418573,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604475524207,
+            "string": "[[being coaching]] in a [[bottom-up approach]] way to support other people with their [[natural progression]] and free of [[personal agenda]]",
+            "uid": "CMfWizKpk"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604477378062,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604477463885,
+            "string": "[[training]] in a way that bottom-up students learning, understanding, and executing instead of simply giving personal knowledge.",
+            "uid": "0WtaCfBqB"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604475220863,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604475228236,
+        "heading": 3,
+        "string": "[[real life application]]",
+        "uid": "Kr-_-_HVZ"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -3323,16 +3492,16 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1600218785575,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1600218997830,
-                "string": "It makes the student less creative and may develop the fear of being wrong, instead of [[learner mindset]].",
+                "edit-time": 1604477595038,
+                "string": "It makes the student less creative and may develop the fear of being wrong, instead of [[grower mindset]].",
                 "uid": "Xh0KLAEk3"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1600218627253,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460224829,
-            "string": "[[training]] is kind of [[bottom-up approach]] due to the concept that the trainer wants to teach the students and help them utilize it in reality. The limitation of this is students maybe get limit by the trainer approach instead of personalizing the knowledge into their own wisdom.",
+            "edit-time": 1604477472337,
+            "string": " wisdom.",
             "uid": "bmfKzhi7k"
           },
           {
@@ -3357,8 +3526,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1600218939181,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1600219045641,
-                "string": "It makes the students expand themselves fearlessly and develop [[learner mindset]], which is excellent.",
+                "edit-time": 1604477595038,
+                "string": "It makes the students expand themselves fearlessly and develop [[grower mindset]], which is excellent.",
                 "uid": "elqSyNQr3"
               }
             ],
@@ -3431,8 +3600,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600219392757,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224828,
-        "string": "[[coaching]] is also a [[bottom-up approach]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]",
+        "edit-time": 1604477309626,
+        "string": "",
         "uid": "t8V18CWm5"
       },
       {
@@ -3793,8 +3962,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600248796374,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604461119405,
-        "string": "[[mind-training]] [[Roam Research]] We can start to use roam to [[bottom-up approach]] thinking by simply",
+        "edit-time": 1604477361845,
+        "string": "[[mind-training]] [[Roam Research]] We can start to use roam to [[bottom-up approach thinking by simply",
         "uid": "ZbrPZ2tF8"
       },
       {
@@ -5828,8 +5997,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1600218820129,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1600218997830,
-    "title": "learner mindset"
+    "edit-time": 1604477595038,
+    "title": "grower mindset"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -6589,9 +6758,53 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600314961921,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1600314961921,
-        "string": "",
+        "edit-time": 1604475565590,
+        "string": "letting go [[personal agenda]] that related to [[Nguy\u1ec5n M\u1ef9 Linh]]",
         "uid": "GVFR5KGyE"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604475957072,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475972220,
+                "string": "[[top-down boundary]] is a supplement for help me to on the right track.",
+                "uid": "YYThNVobQ"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604475918503,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604475957078,
+            "string": "making [[bottom-up approach]] the central of my coaching skills",
+            "uid": "_kmJzX5py"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604475568712,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604477047808,
+        "string": "developing or centering my coaching on [[bottom-up approach]] instead of top-down approach.",
+        "uid": "yLTNmDJNH"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604476862849,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604476974983,
+        "string": "learning to use [[powerful questions]] to support clients stretch themselves to close the gap with their end goals [[closing the gap]]",
+        "uid": "exG2HCpxC"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604476933811,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604476988704,
+        "string": "integrating between [[bottom-up approach]] and strecth clients to [[closing the gap]]",
+        "uid": "Sbd06MmDs"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -8250,8 +8463,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600398365606,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604461119405,
-        "string": "I feel that my brain is running too much, and trying to condensing thoughts from top-down, and it puts me into so much pressure. I start to realize that this pressure makes me think too much unnecessary. The [[top-down]] pressure is good for helping me to have a direction for what I want to do but it's also put me into a difficult situation because the [[bottom-up approach]] thinking is not enough [[materials]] to easily convert to solve the top-down problem yet.",
+        "edit-time": 1604477207726,
+        "string": "",
         "uid": "vSNWepnMh"
       },
       {
@@ -8394,8 +8607,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1600444824243,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460224827,
-            "string": "{{[[DONE]]}} [[top-down boundary]] and [[bottom-up approach]] ",
+            "edit-time": 1604477320383,
+            "string": "",
             "uid": "byH67LmXQ"
           },
           {
@@ -8523,20 +8736,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1600397739975,
     "title": "pressure makes diamonds"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1600398445072,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1600398445074,
-    "title": "top-down"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1600398533173,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1600398533174,
-    "title": "materials"
   },
   {
     "children": [
@@ -9832,8 +10031,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600780712362,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224827,
-        "string": "[[coaching reflection]] I felt that if my [[inner container]] of energy got depleted, I can't coaching in an [[optimal conditions]], which leads to the coaching is hard to become [[transformation]]. I also realize that my coaching tends to be mixing between [[bottom-up approach]] and [[top-down boundary]], but it seems like the top-down approach is heavier, while coaching will tend to be more flexible and heavily on [[bottom-up approach]]. [[coaching]]\n\nWhile coaching for Ng\u00e2n, I also kind of impatient because it's not usually the way I think instead of being empty and trust the process. My coaching also has a little bit of directing instead of fully [[hold the space]] and [[facilitate]] the transformation process.",
+        "edit-time": 1604477022385,
+        "string": "[[coaching reflection]] I felt that if my [[inner container]] of energy got depleted, I can't coaching in an [[optimal conditions]], which leads to the coaching is hard to become [[transformation]].  [[coaching]]\n\nWhile coaching for Ng\u00e2n, I also kind of impatient because it's not usually the way I think instead of being empty and trust the process. My coaching also has a little bit of directing instead of fully [[hold the space]] and [[facilitate]] the transformation process.",
         "uid": "n10W6u7k1"
       },
       {
@@ -12284,6 +12483,16 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604477311793,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604477313294,
+            "string": "[[coaching]] is also a [[bottom-up approach]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]",
+            "uid": "V6rVBHdFM"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604460367977,
         "edit-email": "ngoctienvt@gmail.com",
@@ -12410,8 +12619,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1601223105345,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224829,
-        "string": "I also noticed that I used to use [[bottom-up approach]] and because of this, I'm not comfortable or effectively use my [[powerful questions]] in a focused way when I need to use [[top-down boundary]] to support clients get their mind to focus in their specific concern. I want to learn to use [[top-down boundary]].",
+        "edit-time": 1604476926982,
+        "string": "",
         "uid": "DEv5OgtHL"
       },
       {
@@ -12829,8 +13038,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1601516934123,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604460224827,
-                "string": "Choose and go deep to acquire a [[deeper understanding]] in each thing [[bottom-up approach]]",
+                "edit-time": 1604476603472,
+                "string": "Choose and go deep to acquire a [[deeper understanding]] in each thing [[bottom-up approach",
                 "uid": "gszibv6iu"
               },
               {
@@ -12863,8 +13072,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1601531241549,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604461119405,
-                "string": "Come back to the foundation and start to [[bottom-up approach]] things.",
+                "edit-time": 1604476610800,
+                "string": "Come back to the foundation and start to [[bottom-up approach things.",
                 "uid": "upzOKjvhQ"
               }
             ],
@@ -15468,8 +15677,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1601899999608,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224828,
-        "string": "I still feel confused and stuck when trying to understand the way that I can use Roam Research to organize my information in a natural way. I still concern when to put information on the nodes, when simply just let them out on page.\n\nI feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [[need for big pictures]] [[personal needs]]. I need to see Roam Research fully how to build from [[bottom-up approach]] more than [[top-down boundary]].",
+        "edit-time": 1604476534875,
+        "string": "[[Expanding questions]] How to organize information in Roam Research?\n",
         "uid": "bfUAi83yK"
       },
       {
@@ -16536,8 +16745,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1601990283133,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224829,
-        "string": "I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [[top-down boundary]] that works on support the thesis or argue about it, instead of a way that open and easy to include, expand the ideas. \n\nI will find a way to really develop my notes on a [[bottom-up approach]] to be my main execution for [[progressive approach]]",
+        "edit-time": 1604476396089,
+        "string": "I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [[top-down boundary]] that works on support the thesis or argue about it, instead of a way that open and easy to include, expand the ideas. \n\nI will find a way to really develop my notes on a [[bottom-up approach to be my main execution for [[progressive approach]]",
         "uid": "EDFLQBR2n"
       },
       {
@@ -17753,8 +17962,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1602070688678,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604461119405,
-        "string": "[[coaching reflection]] Tonight coaching with H\u1eb1ng, I felt that I can focus and sure about the truth that I saw with more confident, though I still have a little bit tough and lack of [[compassion]]. \n\nI want to develop the combination between a [[tough love]] and [[compassion]] in a way that they merge with each other so I can coach with a tough love but let my compassion inspire the way. [[helpful manner]]\n\nI also realize that I still have a bit of [[top-down]] expectation instead of helping fully working from [[bottom-up approach]] and move forward the way.",
+        "edit-time": 1604476344656,
+        "string": "[[coaching reflection]] Tonight coaching with H\u1eb1ng, I felt that I can focus and sure about the truth that I saw with more confident, though I still have a little bit tough and lack of [[compassion]]. \n\nI want to develop the combination between a [[tough love]] and [[compassion]] in a way that they merge with each other so I can coach with a tough love but let my compassion inspire the way. [[helpful manner]]\n",
         "uid": "34ll91Q-R"
       },
       {
@@ -18098,8 +18307,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1601952279451,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604460224828,
-                "string": "What is the process of things will happen when using [[bottom-up approach]]",
+                "edit-time": 1604476335455,
+                "string": "",
                 "uid": "WcRvqIuES"
               }
             ],
@@ -20539,8 +20748,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1602576583779,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224829,
-        "string": "When I thought about how I could learn from the [[top-down boundary]], I wonder how could I integrate it with the [[bottom-up approach]] that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation]].",
+        "edit-time": 1604476213928,
+        "string": "When I thought about how I could learn from the [[top-down boundary]], I wonder how could I integrate it with the [[bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation]]. [[progressive approach]]",
         "uid": "v29FxZIgn"
       },
       {
@@ -21306,8 +21515,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1602743108964,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224827,
-        "string": "[[coaching reflection]] I noticed that when coaching, I'm going a counter-intuitive approach. I put my way of coaching mainly on [[top-down boundary]] instead of [[bottom-up approach]], and let the [[top-down boundary]] as a supplement instead.\n\nThis makes my coaching become pre-mature and not feel natural, though it's helpful. It's just the process is not really what [[deep coaching]] really means.",
+        "edit-time": 1604475981826,
+        "string": "",
         "uid": "7xjlTi-QN"
       },
       {
@@ -21383,32 +21592,6 @@
         "edit-time": 1602758498951,
         "string": " I felt my expectations and standards and the fear of not meeting my expectations making me feel uncomfortable and numbing. [[expectations]]",
         "uid": "0zOb5nPdX"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1602758614527,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603808423641,
-            "string": "When I start with [[top-down boundary]], I notice that I'm working with theory too much.",
-            "uid": "LS0S2AVlJ"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1602758645829,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460224828,
-            "string": "When I start with [[bottom-up approach]], I will start with a relaxing and gradual attitude to learn and not accumulate stress, because I start without any pressure.",
-            "uid": "bAXXLnwyP"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1602758495223,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224827,
-        "string": "Start from the top is mostly about expectations and clinging. Instead of that, I want to always stay at the bottom and climb the mountain up slowly with the [[openness]] and [[abundance appreciation]] attitude [[bottom-up approach]] ",
-        "uid": "D-FTKFArq"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -21502,8 +21685,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603684175954,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224828,
-        "string": "This is the beginning of [[establishing the seat of awareness]] and the [[bottom-up approach]] to fully relax and release all the need to control the reality or future.",
+        "edit-time": 1604475799630,
+        "string": "",
         "uid": "-_xx5Wivx"
       },
       {
@@ -21578,8 +21761,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603684175954,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224829,
-        "string": "I am in a transition time to establish myself with [[progressive approach]]  which mainly based on [[bottom-up approach]] .",
+        "edit-time": 1604475809815,
+        "string": "",
         "uid": "FNWl1Ebeq"
       },
       {
@@ -21663,8 +21846,8 @@
     "children": [
       {
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224827,
-        "string": "I noticed that instead of letting myself fully experience\nwhat I have now, I'm constantly looking for what could bring me other\nexperiences [[personal needs]] [[living in the future]]. This is very clearly a\n[[top-down boundary]] that want to prepare everything I need for experiences,\ninstead of [[bottom-up approach]] that fully experiences the moments then next.",
+        "edit-time": 1604475672415,
+        "string": "",
         "uid": "yhAv2QcYB"
       },
       {
@@ -21681,8 +21864,8 @@
       },
       {
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604461013443,
-        "string": "Today I want to keep myself with [[bottom-up approach]], I\nfully experience the moments and then I will know what I need to do next. I\nwill stop [[living in the future]] or at least know that I need to come back to\nnow, because everything is already here that I need to understand and fully\nexperience them first. ",
+        "edit-time": 1604475407035,
+        "string": "Today I want to keep myself with [[bottom-up approach, I\nfully experience the moments and then I will know what I need to do next. I\nwill stop [[living in the future]] or at least know that I need to come back to\nnow, because everything is already here that I need to understand and fully\nexperience them first.  [[current working]]",
         "uid": "H52v1Fpnj"
       },
       {
@@ -21717,12 +21900,6 @@
       },
       {
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224827,
-        "string": "[[coaching reflection]] I still feel that I have I desire to\nsupport her navigate through this transition as best as possible based on my\n[[top-down boundary]]. This desire makes my support is not natural from\n[[bottom-up approach]] but a little bit trying than normal too much. I feel a\nlittle bit of attachment here, it could be around my desire, my fear of losing\nher, my desire for proving my path instead of fully embrace and raise her.\n[[demand of reality]]",
-        "uid": "d0EsGqK0o"
-      },
-      {
-        "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1603793330476,
         "string": "I realize that when what I like to attach with a comeback to\nme, I start to try to grab and cling to it as best as possible. Instead of just\nlet things be and raise it up naturally without any attachments. [[living from the place of surrender]] [[unattachment]]",
         "uid": "LC36ENZaz"
@@ -21751,8 +21928,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684561535,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460224828,
-            "string": "{{[[TODO]]}}  working on [[bottom-up approach]]",
+            "edit-time": 1604475676021,
+            "string": "",
             "uid": "FGhIjKUf_"
           },
           {
@@ -21927,8 +22104,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603684608274,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224829,
-        "string": "[[living in the present]] I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [[demand of reality]] instead of worrying about where I need to go to. [[bottom-up approach]] [[being mode]] ",
+        "edit-time": 1604475786170,
+        "string": "[[living in the present]] I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [[demand of reality]] instead of worrying about where I need to go to. [[bottom-up approach [[being mode]] ",
         "uid": "4SqFViUVX"
       },
       {
@@ -22070,8 +22247,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684608274,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460224828,
-            "string": "[[self-learning]] come to context with a [[bottom-up approach]] attitude.",
+            "edit-time": 1604475752495,
+            "string": "[[self-learning]] come to context with a [[bottom-up approach attitude.",
             "uid": "UOqDUOZdK"
           },
           {
@@ -22701,8 +22878,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603698113612,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604460224827,
-            "string": "\u2022\tbuilding from a [[bottom-up approach]]",
+            "edit-time": 1604477613016,
+            "string": "\u2022\tbuilding from a [[bottom-up approach",
             "uid": "6W3_B4BWL"
           },
           {
@@ -22778,50 +22955,6 @@
         "edit-time": 1603685029270,
         "string": "[[Articles - The 4 levels of personal knowledge management]]",
         "uid": "Xz-4PhMEs"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603698143274,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603698155525,
-            "string": "I feel that in the first one month using Roam or Logseq, my main way is cleaning my inside first",
-            "uid": "c9H-oKERK"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603698143274,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603698162217,
-                "string": "Condensing what's not done yet",
-                "uid": "izZ8-Z3wL"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603698143274,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603698163955,
-                "string": "Input new data for my projects",
-                "uid": "WSchIG47R"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603698143274,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603698157149,
-            "string": "Now there are 2 things I need to focus on. while keep the process of free writing",
-            "uid": "wF_BajmB2"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1603698143274,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604460224827,
-        "string": "Today I start to move on to the next step that I need to collect data or learning input so that it will help me easier to rely on my own data to produce new insight. The [[bottom-up approach]] is helpful in the stage that I have many things inside and not handle them yet.",
-        "uid": "j_IGjd_PR"
       },
       {
         "children": [
@@ -25325,129 +25458,83 @@
       {
         "children": [
           {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603684456106,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603704646772,
-                "string": "describes an idea or a concept",
-                "uid": "lT2nMxL0g"
-              }
-            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604475178836,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604475188498,
+            "string": "[[real life application]]",
+            "uid": "SvkaWhxgx"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604475362731,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604475367238,
+            "string": "[[todo list]]",
+            "uid": "P5GSAsj3i"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604475207344,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604475207344,
+            "string": "",
+            "uid": "eLpz-abk2"
+          },
+          {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684456106,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603704646772,
-            "string": "[[definition]]",
+            "edit-time": 1604475194648,
+            "string": "[[definition]] describes an idea or a concept",
             "uid": "IzJlSTPt-"
           },
           {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603684456106,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603705606668,
-                "string": "what are the benefits of this?",
-                "uid": "SbxORH-fn"
-              }
-            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684456106,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603705550535,
-            "string": "[[meaning]]",
+            "edit-time": 1604475197633,
+            "string": "[[meaning]] what are the benefits of this?",
             "uid": "AvOo95Z1s"
           },
           {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603704156373,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603704646772,
-                "string": "steps by steps implementation",
-                "uid": "eMmoooDo9"
-              }
-            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603704148646,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603704646772,
-            "string": "[[procedure]]",
+            "edit-time": 1604475201375,
+            "string": "[[procedure]] steps by steps implementation",
             "uid": "KdjMTlZGh"
           },
           {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603684456106,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603704646772,
-                "string": "describe the flow of the activity",
-                "uid": "516FTfhbd"
-              }
-            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684456106,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603705532567,
-            "string": "[[process]]",
+            "edit-time": 1604475203782,
+            "string": "[[process]] describe the flow of the activity",
             "uid": "vs-0aDkbs"
           },
           {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603704242421,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603705568294,
-                "string": "usages of the concept",
-                "uid": "tKPM_j3YS"
-              }
-            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684456106,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603704646772,
-            "string": "[[function]]",
+            "edit-time": 1604475206418,
+            "string": "[[function]] usages of the concept",
             "uid": "fVWlvGda4"
           },
           {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603684456106,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603704646772,
-                "string": "a rule telling what is the behind structure (what is allowed and what not)",
-                "uid": "3GPaXmNsL"
-              }
-            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684456106,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603704646772,
-            "string": "[[principle]]",
+            "edit-time": 1604475211573,
+            "string": "[[principle]] a rule telling what is the behind structure (what is allowed and what not)",
             "uid": "EaSzLoqYh"
           },
           {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1603705650516,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603705705790,
-                "string": "detail information of the concept",
-                "uid": "06jcYdr6Q"
-              }
-            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603705622445,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603705650398,
-            "string": "[[information]]",
+            "edit-time": 1604475213979,
+            "string": "[[information]] detail information of the concept",
             "uid": "yj6y7rnO8"
           }
         ],
@@ -31220,8 +31307,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604461152964,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604461152964,
-        "string": "It feels quite uncomfortable and not natural to clean up the [[bottom-up approach]]. The reason is",
+        "edit-time": 1604477641633,
+        "string": "It feels quite uncomfortable and not natural to clean up the [[bottom-up approach. The reason is",
         "uid": "W3Oifzh4v"
       },
       {
@@ -31699,14 +31786,6 @@
             "edit-time": 1604468872965,
             "string": "For example, grateful and ungrateful. Love and no love, Respect and unrespect. There is no need to care the differences of lower-self. Just need to know it is lower-self to aim to higher-self. [[indifferentiated]]",
             "uid": "wTdX12LrC"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604469378302,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604469378302,
-            "string": "",
-            "uid": "WkjdvyVRW"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -31720,9 +31799,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604469359299,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604469359299,
-        "string": "",
+        "edit-time": 1604475880981,
+        "string": "I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [[high-value information blocks]] that got process a bit and want to process more.",
         "uid": "CdDVJtuPc"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604475859069,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604475859069,
+        "string": "",
+        "uid": "fZT76JYY-"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -32297,5 +32384,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604468872967,
     "title": "indifferentiated"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604475665721,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604475665721,
+    "title": "current moments"
   }
 ]

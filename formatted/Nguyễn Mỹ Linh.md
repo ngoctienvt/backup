@@ -47,3 +47,6 @@
 
 - After the coaching session, I feel much more comfortable with [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>)
 
+## [coaching reflection](<coaching reflection.md>)
+- letting go [personal agenda](<personal agenda.md>) that related to [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>)
+

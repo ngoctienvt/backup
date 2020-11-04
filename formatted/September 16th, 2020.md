@@ -16,20 +16,20 @@
     - "{[x] }} Chemistry session với chị Hằng "
     - [ ] Working on [mind evolution process](<mind evolution process.md>) with new ingredients [thought-generative process](<thought-generative process.md>) as mentioned below
 - [training](<training.md>)
-    - [training](<training.md>) is kind of [bottom-up approach](<bottom-up approach.md>) due to the concept that the trainer wants to teach the students and help them utilize it in reality. The limitation of this is students maybe get limit by the trainer approach instead of personalizing the knowledge into their own wisdom.
+    -  wisdom.
         - It makes the students less independent thinking and may rely on the trainer or the teacher.
-        - It makes the student less creative and may develop the fear of being wrong, instead of [learner mindset](<learner mindset.md>).
+        - It makes the student less creative and may develop the fear of being wrong, instead of [grower mindset](<grower mindset.md>).
     - While practices or activities is kind of [top-down boundary](<top-down boundary.md>) due to the accumulation of experience or self-learning that students gather for themselves in the process. This approach limitation is the students will not feel that they are able to do or learn much in the beginning.
         - However, in the long-run, this approach will get [accumulated interest](<accumulated interest.md>) and pay off later. 
         - It also makes the students develop independent thinking and less rely on the trainer.
-        - It makes the students expand themselves fearlessly and develop [learner mindset](<learner mindset.md>), which is excellent.
+        - It makes the students expand themselves fearlessly and develop [grower mindset](<grower mindset.md>), which is excellent.
     - Ideally, I want to have a [training method](<training method.md>) that can:
         - Support long-term and accumulated interest development [sustainable development](<sustainable development.md>) [productivity](<productivity.md>)
         - Low floor, high ceiling. Easy to start, but paid off well. [productivity](<productivity.md>)
         - Develop [independent competency](<independent competency.md>) in the students
         - Don't limit the creative and unlimited expanding direction of clients, but encourage them instead. [creative competency](<creative competency.md>)
         - The development of students depends on their own [intention](<intention.md>) and goals, and these things are not fixed but changed continuously. It means that they will not get stuck with the [tools](<tools.md>) or [trueself competency](<trueself competency.md>), but actually utilize or develop the [trueself competency](<trueself competency.md>) non-stop so that they will reach their [personal intention](<personal intention.md>)
-- [coaching](<coaching.md>) is also a [bottom-up approach](<bottom-up approach.md>) that have [accumulated interest](<accumulated interest.md>) and coach also a person who create [sustainable development](<sustainable development.md>) by helping clients growing their [trueself competency](<trueself competency.md>) through their [personal intention](<personal intention.md>)
+- 
 - {{[youtube](<youtube.md>): https://www.youtube.com/watch?v=4th0wHJDK1g&list=RDm9gBJKzlAgM&index=4&ab_channel=Fin%27D}} [music](<music.md>) [funny](<funny.md>)
 - We tend to forget that whether we want or not, everything is [inter-related](<inter-related.md>). There is never nothing that exist independently with others. If you stand and do nothing, you still actually do pressure to the ground, you still absorb O2 and release CO2, you still obstruct the sight of other people...
     - This means that everything is always [influence](<influence.md>) to each other in every moment. And it is always a [two-way interaction](<two-way interaction.md>). And things will better or worse depend on two main components:
@@ -53,7 +53,7 @@
             - The [goal](<goal.md>) may not change much, but become [clearer](<clearer.md>) and [preciser](<preciser.md>) than beginning when we can help them expand their awareness, go [deeper](<deeper.md>) into what they really want or concern and let them [sacred place](<sacred place.md>) they need to pour their consciousness into their higher mind.
 - [coaching reflection](<coaching reflection.md>) Today, I feel I coach with better [inner state](<inner state.md>), and I feel I'm much freer with results. I also feel that I can [presence](<presence.md>) much better, though I still have a little bit of lack of [inner container](<inner container.md>) of positive [emotional energy](<emotional energy.md>) to [hold the space](<hold the space.md>) with [compassion](<compassion.md>). 
     - I also have not too much clear about the goal of [chemistry session](<chemistry session.md>). This leads me to stay on the point and expand it in [open direction](<open direction.md>) instead of [narrow direction](<narrow direction.md>) with clear intention.
-- [mind-training](<mind-training.md>) [Roam Research](<Roam Research.md>) We can start to use roam to [bottom-up approach](<bottom-up approach.md>) thinking by simply
+- [mind-training](<mind-training.md>) [Roam Research](<Roam Research.md>) We can start to use roam to [[bottom-up approach thinking by simply
     - Dumping everything in brain out at any moment
     - Identify keyword, key concern, what I want to go deeper to create page and start to link it.
         - When choosing keywords, you would want to use [ideas](<ideas.md>) that you want to go deeper, instead of general categories to find things like author. Basically you want use [Roam Research](<Roam Research.md>) to upgrade your level of thinking, instead of using it as a [information organizer](<information organizer.md>). 

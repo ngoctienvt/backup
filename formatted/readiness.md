@@ -1,5 +1,8 @@
 
 # Backlinks
+## [bottom-up approach](<bottom-up approach.md>)
+- [natural progression](<natural progression.md>) based on preparing [readiness](<readiness.md>)
+
 ## [living from the place of surrender](<living from the place of surrender.md>)
 - focus on natural [cleaning and integrating process](<cleaning and integrating process.md>) and [accumulate thought process](<accumulate thought process.md>) to acquire [readiness](<readiness.md>)
 

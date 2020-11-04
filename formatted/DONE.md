@@ -58,8 +58,6 @@
 
 - {{[DONE](<DONE.md>)}
 
-- {{[DONE](<DONE.md>)}
-
 - "{{[DONE](<DONE.md>)}
 
 - {{[DONE](<DONE.md>)}
@@ -90,7 +88,5 @@
 - {{[DONE](<DONE.md>)}
 
 ## [September 28th, 2020](<September 28th, 2020.md>)
-- "{{[DONE](<DONE.md>)}
-
 - {{[DONE](<DONE.md>)}
 

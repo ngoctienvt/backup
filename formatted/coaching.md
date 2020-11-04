@@ -13,8 +13,6 @@
 However, most of the time because of our judgment, that's why when I coach for other people, I help them to realize that they don't do anything wrong and because of this realization, they let themselves to accept the experience so that they can handle and move on with it. [coaching](<coaching.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
-- [coaching](<coaching.md>)
-
 - In [coaching](<coaching.md>),
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
@@ -29,12 +27,15 @@ However, most of the time because of our judgment, that's why when I coach for o
 - I noticed that I still feel not too clear about my responsibilities and my attitudes for the way I want to support others. It's still kind of half-baked and makes me kind of confusing like I know that advising does not really work, but if they are not willing to change or have a goal then I also don't know what to do to help them. [coaching](<coaching.md>)\
 
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
-- [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>). I also realize that my coaching tends to be mixing between [bottom-up approach](<bottom-up approach.md>) and [top-down boundary](<top-down boundary.md>), but it seems like the top-down approach is heavier, while coaching will tend to be more flexible and heavily on [bottom-up approach](<bottom-up approach.md>). [coaching](<coaching.md>)
+- [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>).  [coaching](<coaching.md>)
 
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - My [coaching](<coaching.md>)
 
 ## [TODO](<TODO.md>)
+- [coaching](<coaching.md>)
+
+## [being coaching](<being coaching.md>)
 - [coaching](<coaching.md>)
 
 ## [interests](<interests.md>)

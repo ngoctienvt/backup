@@ -19,8 +19,6 @@
 - [intention](<intention.md>)
 
 ## [September 15th, 2020](<September 15th, 2020.md>)
-- Mình cũng nhận ra là [intention](<intention.md>)
-
 - Việc buông bỏ sẽ giúp mình có thể đi lên những nấc cao hơn, nhưng để duy trì được ở trên đó thì cần thứ giữ mình lại ở trên đó [intention](<intention.md>)
 
 - Meditation không phải là phương thức để giúp giải quyết những vấn đề mình đang có, mà là con đường giúp mình trở về với chính mình. [tools](<tools.md>) [intention](<intention.md>)

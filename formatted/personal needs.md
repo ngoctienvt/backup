@@ -22,9 +22,6 @@
 
 - When going to buy an audio theater, I want to let myself focus on what's really necessary instead of letting my [personal needs](<personal needs.md>)
 
-## [October 17th, 2020](<October 17th, 2020.md>)
-experiences [personal needs](<personal needs.md>)
-
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - For coaching, instead of trying to put the truth to them, I need to learn to stand back, let go of my [personal needs](<personal needs.md>).
 
@@ -39,9 +36,6 @@ However, it would be right and meaningful if my work to help the world recognize
 [Galileo Galilei](<Galileo Galilei.md>) decided not to die because of the truth of the fact that earth spin around the sun. For me, this is a [conscious choice](<conscious choice.md>) that is based on the true intellectual and beyond the [personal needs](<personal needs.md>).
 
 Only the person or the soul can know what's best for them and what's the [higher choices](<higher choices.md>) that helps them to serve the reality and going beyond their own [personal needs](<personal needs.md>).
-
-## [October 5th, 2020](<October 5th, 2020.md>)
-I feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [need for big pictures](<need for big pictures.md>) [personal needs](<personal needs.md>).
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - I have a little bit thoughts about this when reading novels that I still need to have a [truth compass](<truth compass.md>) for me to making decision. This compass absolutely will not about my [personal needs](<personal needs.md>)

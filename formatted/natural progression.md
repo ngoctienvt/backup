@@ -95,6 +95,13 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - [x] Working with [natural progression](<natural progression.md>)
 
+## [bottom-up approach](<bottom-up approach.md>)
+- [natural progression](<natural progression.md>)
+
+- Focusing on the [natural progression](<natural progression.md>)
+
+- [being coaching](<being coaching.md>) in a [bottom-up approach](<bottom-up approach.md>) way to support other people with their [natural progression](<natural progression.md>)
+
 ## [interests](<interests.md>)
 - [natural progression](<natural progression.md>)
 

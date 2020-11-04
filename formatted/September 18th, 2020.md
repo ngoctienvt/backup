@@ -1,4 +1,4 @@
-- I feel that my brain is running too much, and trying to condensing thoughts from top-down, and it puts me into so much pressure. I start to realize that this pressure makes me think too much unnecessary. The [top-down](<top-down.md>) pressure is good for helping me to have a direction for what I want to do but it's also put me into a difficult situation because the [bottom-up approach](<bottom-up approach.md>) thinking is not enough [materials](<materials.md>) to easily convert to solve the top-down problem yet.
+- 
 - Today my main tasks are:
     - [x] Editing video 2
     - [x] Bottom-up and condensing thoughts to produce top-down articles about Roam Research
@@ -16,7 +16,7 @@
 - Meditation and [surrender](<surrender.md>) is still the highest practice that I can have to release the part that not okay with the reality and to handle the urge to fix things inside by external solutions. [inner urge](<inner urge.md>)
 - I also start to less have new thoughts and feel I accumulated a lot of thoughts that want to condense into a deeper understanding and [pressure makes diamonds](<pressure makes diamonds.md>) first. 
 - [intention](<intention.md>) some of the topics that I want to spend my energy next is:
-    - [x] [top-down boundary](<top-down boundary.md>) and [bottom-up approach](<bottom-up approach.md>) 
+    - 
     - "[x] How to use [Roam Research](<Roam Research.md>) to evolve my mind effectively"
     - [ ] Summarizing [spiritual knowledge](<spiritual knowledge.md>) from Michael Singer teaching
     - [x] Releasing the samskaras about the need for attention and recognition, [fear](<fear.md>) and nurture [self-fulfilled](<self-fulfilled.md>)

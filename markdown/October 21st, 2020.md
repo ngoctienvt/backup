@@ -54,7 +54,7 @@ about other people without really checking this first. [[perception]]
     - •	contextual approach for different usage instead of many groups of different people now
     - •	centralized information
     - •	easy to access and check with - link to the existing messenger or email is also good for important notifications
-    - •	building from a [[bottom-up approach]]
+    - •	building from a [[bottom-up approach
     - •	contextual approach for different usage instead of many group of different people now [[contextual usages]]
     - •	[[centralized information]]
     - •	easy to access and check with - link to the existing messenger or email is also good for important notifications [[bridging]]
@@ -63,11 +63,6 @@ about other people without really checking this first. [[perception]]
         - for bridging, it's possible if there is a way to notify everyone on the channel.
 - [[Articles - A complete guide to tagging for personal knowledge management]]
 - [[Articles - The 4 levels of personal knowledge management]]
-- Today I start to move on to the next step that I need to collect data or learning input so that it will help me easier to rely on my own data to produce new insight. The [[bottom-up approach]] is helpful in the stage that I have many things inside and not handle them yet.
-    - I feel that in the first one month using Roam or Logseq, my main way is cleaning my inside first
-    - Now there are 2 things I need to focus on. while keep the process of free writing
-        - Condensing what's not done yet
-        - Input new data for my projects
 - I have a bit [[attachment with money]] when I need to pay
 for things that I don't pay usually, especially if it subscribes for a long
 time. The reason is I'm not sure that will I really use it and fear that I

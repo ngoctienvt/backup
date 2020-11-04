@@ -8,6 +8,9 @@
     - 
 
 # Backlinks
+## [October 17th, 2020](<October 17th, 2020.md>)
+experience them first.  [current working](<current working.md>)
+
 ## [October 30th, 2020](<October 30th, 2020.md>)
 If I want to know something, I need to be the one who really check it and [getting in touch with reality](<getting in touch with reality.md>), not listen to the [limiting thoughts](<limiting thoughts.md>) of my mind. [current working](<current working.md>)
 

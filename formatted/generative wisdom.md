@@ -3,6 +3,9 @@
 ## [October 17th, 2020](<October 17th, 2020.md>)
 materials [generative wisdom](<generative wisdom.md>)
 
+## [bottom-up approach](<bottom-up approach.md>)
+- Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>)
+
 ## [human mind](<human mind.md>)
 - Connecting instead of categorizing. Categorizing is to help the mind able to [extract and gather information](<extract and gather information.md>) easier, but it's not the real power of the mind. The power of it is on the ability to generate new things from old things. [generative wisdom](<generative wisdom.md>)
 

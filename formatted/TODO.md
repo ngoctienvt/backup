@@ -43,8 +43,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-- {{[TODO](<TODO.md>)}
-
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 

@@ -44,15 +44,14 @@
 [living from the place of surrender](<living from the place of surrender.md>) is fully orient myself into a higher life, but at the same time fully experiences what levels I am at as the stepping stones for my next level. [progressive approach](<progressive approach.md>)
 
 ## [October 13th, 2020](<October 13th, 2020.md>)
+- When I thought about how I could learn from the [top-down boundary](<top-down boundary.md>), I wonder how could I integrate it with the [bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation](<bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation.md>). [progressive approach](<progressive approach.md>)
+
 That's maybe the reason why I'm very hard to master anything, but need to go through the process in an A -> B -> C way, so that I will not just able to do it alone, but can also teach other people how to do when they understand the process. [progressive approach](<progressive approach.md>)
 
 - The hardest part of [progressive approach](<progressive approach.md>)
 
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>) = [being mode](<being mode.md>) [progressive approach](<progressive approach.md>)
-
-## [October 16th, 2020](<October 16th, 2020.md>)
-- I am in a transition time to establish myself with [progressive approach](<progressive approach.md>)
 
 ## [October 1st, 2020](<October 1st, 2020.md>)
 - The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down boundary](<top-down boundary.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
@@ -93,8 +92,6 @@ Nothing is start from scratch. If you want to do something, it must have generat
 
 - When I'm playing Spirit Island, I learned that it would very helpful to [setting up for success](<setting up for success.md>) as learning the game slowly which help to digest the experiences and grow our understanding as well as skills in a [progressive approach](<progressive approach.md>).
 
-I will find a way to really develop my notes on a [bottom-up approach](<bottom-up approach.md>) to be my main execution for [progressive approach](<progressive approach.md>)
-
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - There seems like there is two main important things on [progressive approach](<progressive approach.md>)
 
@@ -117,7 +114,9 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 - [progressive approach](<progressive approach.md>)
 
 ## [bottom-up approach](<bottom-up approach.md>)
-- [bottom-up approach](<bottom-up approach.md>) is a components of [progressive approach](<progressive approach.md>).
+- Related: [progressive approach](<progressive approach.md>)
+
+- [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
 
 ## [current working](<current working.md>)
 - [progressive approach](<progressive approach.md>)

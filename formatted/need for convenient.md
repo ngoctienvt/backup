@@ -12,9 +12,6 @@
 
 - I felt my uncomfortable feeling for my usual routine is disturbed [need for convenient](<need for convenient.md>).
 
-## [bottom-up approach](<bottom-up approach.md>)
-- [need for convenient](<need for convenient.md>)
-
 ## [need for convenient](<need for convenient.md>)
 - [need for convenient](<need for convenient.md>)
 

@@ -1,18 +1,14 @@
-- I noticed that instead of letting myself fully experience
-what I have now, I'm constantly looking for what could bring me other
-experiences [personal needs](<personal needs.md>) [living in the future](<living in the future.md>). This is very clearly a
-[top-down boundary](<top-down boundary.md>) that want to prepare everything I need for experiences,
-instead of [bottom-up approach](<bottom-up approach.md>) that fully experiences the moments then next.
+- 
 - When reading novels, I realize that I also have many
 limitations on my belief system. [limiting thoughts](<limiting thoughts.md>)
 - [[https://www.notion.so/chaungoctien/Living-from-the-place-of-surrender-b81c950f88fe4b36ad97c5007adf88e0][Living
 from the place of surrender - youtube link]] [[Course - Living from the place
 of surrender]]
-- Today I want to keep myself with [bottom-up approach](<bottom-up approach.md>), I
+- Today I want to keep myself with [[bottom-up approach, I
 fully experience the moments and then I will know what I need to do next. I
 will stop [living in the future](<living in the future.md>) or at least know that I need to come back to
 now, because everything is already here that I need to understand and fully
-experience them first. 
+experience them first.  [current working](<current working.md>)
 - I felt so much fun when teaching and also [deeper understanding](<deeper understanding.md>) for myself from today spiritual lessons. It's very satisfying
 when seeing people learning the [hard-truth](<hard-truth.md>). Because this pain is what
 really needs to confront and will give true solutions for true happiness.
@@ -27,13 +23,6 @@ her from that position instead.
 where they are]] instead of where I think they should be.
 - I also want my language
 will be more [concise](<concise.md>) instead of explaining or talking too much.
-- [coaching reflection](<coaching reflection.md>) I still feel that I have I desire to
-support her navigate through this transition as best as possible based on my
-[top-down boundary](<top-down boundary.md>). This desire makes my support is not natural from
-[bottom-up approach](<bottom-up approach.md>) but a little bit trying than normal too much. I feel a
-little bit of attachment here, it could be around my desire, my fear of losing
-her, my desire for proving my path instead of fully embrace and raise her.
-[demand of reality](<demand of reality.md>)
 - I realize that when what I like to attach with a comeback to
 me, I start to try to grab and cling to it as best as possible. Instead of just
 let things be and raise it up naturally without any attachments. [living from the place of surrender](<living from the place of surrender.md>) [unattachment](<unattachment.md>)
@@ -42,7 +31,7 @@ let things be and raise it up naturally without any attachments. [living from th
 - [ ] Coaching [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) [Nov 1st, 2020](<Nov 1st, 2020.md>)
 - [ ] Coaching [Lý Kim Ngân](<Lý Kim Ngân.md>) [Oct 26th, 2020](<Oct 26th, 2020.md>)
 - Planning for next next week:
-    - [ ] working on [bottom-up approach](<bottom-up approach.md>)
+    - 
     - [ ] refining [morning rituals](<morning rituals.md>)
     - [ ] editing video 6
     - [ ] resolving some of relationship attachments
@@ -75,7 +64,7 @@ inside.
 - [deep coaching](<deep coaching.md>) In deep coaching, it's important to notice the intersection that makes clients going out instead of work on themselves. It's the part that they can't handle inside so they use outside to serve as a solution. [reflection](<reflection.md>)
     - For instance, if a client want to have a higher salary, it's because there is a part inside of them that want to have a higher salary so that it will not feel uncomfortable or stuck inside.
     - Pointing to the right part is very important because it will [evoke awareness](<evoke awareness.md>) that directly relate to what client need to deal with.
-- [living in the present](<living in the present.md>) I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [demand of reality](<demand of reality.md>) instead of worrying about where I need to go to. [bottom-up approach](<bottom-up approach.md>) [being mode](<being mode.md>) 
+- [living in the present](<living in the present.md>) I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [demand of reality](<demand of reality.md>) instead of worrying about where I need to go to. [bottom-up approach [[being mode](<bottom-up approach [[being mode.md>) 
 - And if I want to connect with others deeply, I also need to just not see what's above the earth but understand what below it. [deep connection](<deep connection.md>) Without true understanding, it's very easy for my mind to make its own interpretation and make me trust those very low possibilities to true interpretations.
     - [the accumulated self](<the accumulated self.md>)
     - [demand of reality](<demand of reality.md>)
@@ -101,7 +90,7 @@ materials [generative wisdom](<generative wisdom.md>)
 - I felt kind of uncomfortable when playing with drift joy-con because it feels [inconvenient](<inconvenient.md>) and not meet the minimum standards that are not faulty. [personal standards](<personal standards.md>)
 - It seems like for buying necessary things. Half of the price that I feel comfortable to pay is a good way to make choice. [the middle way](<the middle way.md>)
 - There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual mastery](<contextual mastery.md>)
-    - [self-learning](<self-learning.md>) come to context with a [bottom-up approach](<bottom-up approach.md>) attitude.
+    - [self-learning](<self-learning.md>) come to context with a [[bottom-up approach attitude.
     - [external knowledge](<external knowledge.md>) help to optimize the situation from a [top-down boundary](<top-down boundary.md>)
 - [From separation to union life](<From separation to union life.md>) [integration](<integration.md>) [natural progression](<natural progression.md>)
     - The societies split life into many different aspects

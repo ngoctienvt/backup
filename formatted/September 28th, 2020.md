@@ -14,6 +14,6 @@
 - I still felt a little [worry](<worry.md>) about the coaching session with Linh. I still have some attachments here but not sure what it's really is. It's like I'm talking with a person higher than me and will be judge based on my behaviors or performance. [judgment](<judgment.md>). I will work on this tomorrow. [September 29th, 2020](<September 29th, 2020.md>)
 - I felt so grateful that there is people open and trust me. Life is much easier when we can trust and have compassion for each other.
 - [September 29th, 2020](<September 29th, 2020.md>)
-    - "[x] [top-down boundary](<top-down boundary.md>) and [bottom-up approach](<bottom-up approach.md>) "
+    - ""
     - [x] working with coaching and samskaras about the feeling of worry when coaching with Linh.
     - 

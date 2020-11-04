@@ -6,7 +6,7 @@ I also noticed I still have too much [[attachment]] for materials things. This m
     - {{[[DONE]]}} work on what I want to share on the [[journaling training]]
     - {{[[DONE]]}} continue working with progressive approach
         - How to completely shift from top-down thinking to build a bottom-up thinking instead
-        - What is the process of things will happen when using [[bottom-up approach]]
+        - 
 - After this reflection about [[sexual desire]], I understand much more deeply that there is nothing wrong, everything is an experience and a soul on evolving process. There is no wrong feelings, wrong experiences and wrong existences. [[truth compass]]. 
 
 [[There is nothing wrong, only the lack of wisdom]]. We are so lost that we live the rules by default without the ability to know why there's a need for rules from the beginnings. [[rules]] and [[top-down boundary]] are not meant for defining what's right or what's wrong. It's about for helping us realize that is the things we need to work on to evolve our souls.

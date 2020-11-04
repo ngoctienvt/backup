@@ -16,20 +16,20 @@
     - "{{{[[DONE]]}}}} Chemistry session với chị Hằng "
     - {{[[TODO]]}} Working on [[mind evolution process]] with new ingredients [[thought-generative process]] as mentioned below
 - [[training]]
-    - [[training]] is kind of [[bottom-up approach]] due to the concept that the trainer wants to teach the students and help them utilize it in reality. The limitation of this is students maybe get limit by the trainer approach instead of personalizing the knowledge into their own wisdom.
+    -  wisdom.
         - It makes the students less independent thinking and may rely on the trainer or the teacher.
-        - It makes the student less creative and may develop the fear of being wrong, instead of [[learner mindset]].
+        - It makes the student less creative and may develop the fear of being wrong, instead of [[grower mindset]].
     - While practices or activities is kind of [[top-down boundary]] due to the accumulation of experience or self-learning that students gather for themselves in the process. This approach limitation is the students will not feel that they are able to do or learn much in the beginning.
         - However, in the long-run, this approach will get [[accumulated interest]] and pay off later. 
         - It also makes the students develop independent thinking and less rely on the trainer.
-        - It makes the students expand themselves fearlessly and develop [[learner mindset]], which is excellent.
+        - It makes the students expand themselves fearlessly and develop [[grower mindset]], which is excellent.
     - Ideally, I want to have a [[training method]] that can:
         - Support long-term and accumulated interest development [[sustainable development]] [[productivity]]
         - Low floor, high ceiling. Easy to start, but paid off well. [[productivity]]
         - Develop [[independent competency]] in the students
         - Don't limit the creative and unlimited expanding direction of clients, but encourage them instead. [[creative competency]]
         - The development of students depends on their own [[intention]] and goals, and these things are not fixed but changed continuously. It means that they will not get stuck with the [[tools]] or [[trueself competency]], but actually utilize or develop the [[trueself competency]] non-stop so that they will reach their [[personal intention]]
-- [[coaching]] is also a [[bottom-up approach]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]
+- 
 - {{[[youtube]]: https://www.youtube.com/watch?v=4th0wHJDK1g&list=RDm9gBJKzlAgM&index=4&ab_channel=Fin%27D}} #music #funny
 - We tend to forget that whether we want or not, everything is [[inter-related]]. There is never nothing that exist independently with others. If you stand and do nothing, you still actually do pressure to the ground, you still absorb O2 and release CO2, you still obstruct the sight of other people...
     - This means that everything is always [[influence]] to each other in every moment. And it is always a [[two-way interaction]]. And things will better or worse depend on two main components:
@@ -53,7 +53,7 @@
             - The [[goal]] may not change much, but become [[clearer]] and [[preciser]] than beginning when we can help them expand their awareness, go [[deeper]] into what they really want or concern and let them [[sacred place]] they need to pour their consciousness into their higher mind.
 - [[coaching reflection]] Today, I feel I coach with better [[inner state]], and I feel I'm much freer with results. I also feel that I can [[presence]] much better, though I still have a little bit of lack of [[inner container]] of positive [[emotional energy]] to [[hold the space]] with [[compassion]]. 
     - I also have not too much clear about the goal of [[chemistry session]]. This leads me to stay on the point and expand it in [[open direction]] instead of [[narrow direction]] with clear intention.
-- [[mind-training]] [[Roam Research]] We can start to use roam to [[bottom-up approach]] thinking by simply
+- [[mind-training]] [[Roam Research]] We can start to use roam to [[bottom-up approach thinking by simply
     - Dumping everything in brain out at any moment
     - Identify keyword, key concern, what I want to go deeper to create page and start to link it.
         - When choosing keywords, you would want to use [[ideas]] that you want to go deeper, instead of general categories to find things like author. Basically you want use [[Roam Research]] to upgrade your level of thinking, instead of using it as a [[information organizer]]. 

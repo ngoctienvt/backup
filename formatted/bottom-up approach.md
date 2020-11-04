@@ -1,95 +1,33 @@
-- Definition: [bottom-up approach](<bottom-up approach.md>) is an approach that 
+- Related: [progressive approach](<progressive approach.md>)
+- ### Definition:
+    - [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
+        - for solving problems
+        - or achieving any end goals gradually. 
+- ### Benefits of bottom-up approach:
+    - Releasing the goal-oriented pressure and developing trust the process
+    - Releasing the [need for perfect](<need for perfect.md>) and developing [grower mindset](<grower mindset.md>)
+- ### Characteristics of bottom-up approach:
     - work on [integration](<integration.md>) what haven't resolved
     - emphasizes on now to learn in a progressive way
-- [bottom-up approach](<bottom-up approach.md>) is a components of [progressive approach](<progressive approach.md>).
-- Objects for practices
-    - [need for convenient](<need for convenient.md>)
-    - 
+    - [natural progression](<natural progression.md>) based on preparing [readiness](<readiness.md>) for next stage
+- ### Process of bottom-up approach:
+    - Identify what need to be integrate with
+    - Working on to integrate it with myself
+    - Focusing on the [natural progression](<natural progression.md>) that happens overtime
+- ### [real life application](<real life application.md>)
+    - Learning to [living from the place of surrender](<living from the place of surrender.md>) by using bottom-up approach
+        - to let go [samskaras](<samskaras.md>)
+        - to stay in touch with the [current moments](<current moments.md>)
+        - developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>) gradually
+    - Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>) through a [bottom-up approach](<bottom-up approach.md>)
+        - Collecting raw data and learning materials for
+    - Learning to use [bottom-up approach](<bottom-up approach.md>) to gradually solve big problems
+    - [being coaching](<being coaching.md>) in a [bottom-up approach](<bottom-up approach.md>) way to support other people with their [natural progression](<natural progression.md>) and free of [personal agenda](<personal agenda.md>)
+    - [training](<training.md>) in a way that bottom-up students learning, understanding, and executing instead of simply giving personal knowledge.
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
 - Francis Bacon’s scientific method, first introduced in the 17th century, was a bottom-up, networked approach to building scientific understanding. [bottom-up approach](<bottom-up approach.md>)
-
-## [November 4th, 2020](<November 4th, 2020.md>)
-- It feels quite uncomfortable and not natural to clean up the [bottom-up approach](<bottom-up approach.md>).
-
-## [October 13th, 2020](<October 13th, 2020.md>)
-- When I thought about how I could learn from the [top-down boundary](<top-down boundary.md>), I wonder how could I integrate it with the [bottom-up approach](<bottom-up approach.md>)
-
-## [October 15th, 2020](<October 15th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>) I noticed that when coaching, I'm going a counter-intuitive approach. I put my way of coaching mainly on [top-down boundary](<top-down boundary.md>) instead of [bottom-up approach](<bottom-up approach.md>),
-
-- Start from the top is mostly about expectations and clinging. Instead of that, I want to always stay at the bottom and climb the mountain up slowly with the [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>) attitude [bottom-up approach](<bottom-up approach.md>)
-
-- When I start with [bottom-up approach](<bottom-up approach.md>),
-
-## [October 16th, 2020](<October 16th, 2020.md>)
-- This is the beginning of [establishing the seat of awareness](<establishing the seat of awareness.md>) and the [bottom-up approach](<bottom-up approach.md>)
-
-- I am in a transition time to establish myself with [progressive approach](<progressive approach.md>)  which mainly based on [bottom-up approach](<bottom-up approach.md>)
-
-## [October 17th, 2020](<October 17th, 2020.md>)
-instead of [bottom-up approach](<bottom-up approach.md>)
-
-- Today I want to keep myself with [bottom-up approach](<bottom-up approach.md>),
-
-[bottom-up approach](<bottom-up approach.md>)
-
-- [ ] working on [bottom-up approach](<bottom-up approach.md>)
-
-- [living in the present](<living in the present.md>) I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [demand of reality](<demand of reality.md>) instead of worrying about where I need to go to. [bottom-up approach](<bottom-up approach.md>)
-
-- [self-learning](<self-learning.md>) come to context with a [bottom-up approach](<bottom-up approach.md>)
-
-## [October 1st, 2020](<October 1st, 2020.md>)
-- Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>) in each thing [bottom-up approach](<bottom-up approach.md>)
-
-- Come back to the foundation and start to [bottom-up approach](<bottom-up approach.md>)
-
-## [October 21st, 2020](<October 21st, 2020.md>)
-- •	building from a [bottom-up approach](<bottom-up approach.md>)
-
-- Today I start to move on to the next step that I need to collect data or learning input so that it will help me easier to rely on my own data to produce new insight. The [bottom-up approach](<bottom-up approach.md>)
-
-## [October 5th, 2020](<October 5th, 2020.md>)
-I feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [need for big pictures](<need for big pictures.md>) [personal needs](<personal needs.md>). I need to see Roam Research fully how to build from [bottom-up approach](<bottom-up approach.md>)
-
-## [October 6th, 2020](<October 6th, 2020.md>)
-I will find a way to really develop my notes on a [bottom-up approach](<bottom-up approach.md>)
-
-## [October 7th, 2020](<October 7th, 2020.md>)
-I also realize that I still have a bit of [top-down](<top-down.md>) expectation instead of helping fully working from [bottom-up approach](<bottom-up approach.md>)
-
-## [October 8th, 2020](<October 8th, 2020.md>)
-- What is the process of things will happen when using [bottom-up approach](<bottom-up approach.md>)
-
-## [September 15th, 2020](<September 15th, 2020.md>)
-- Mình cũng nhận ra là [intention](<intention.md>) của mình cũng đang được cô đọng lại nhiều hơn khi sử dụng Roam, vì nó giúp cho mình thoải mái để tích lũy small thought và từ đó cô đọng từng chút từng chút một, nó có 1 cái hướng để mình đi tới từ từ, chứ không bị áp lực là phải perfect ngay từ đầu như [top-down boundary](<top-down boundary.md>). [bottom-up approach](<bottom-up approach.md>)
-
-- It means that it’s kind of of a structure to help people how to [bottom-up approach](<bottom-up approach.md>)
-
-## [September 16th, 2020](<September 16th, 2020.md>)
-- [training](<training.md>) is kind of [bottom-up approach](<bottom-up approach.md>)
-
-- [coaching](<coaching.md>) is also a [bottom-up approach](<bottom-up approach.md>)
-
-- [mind-training](<mind-training.md>) [Roam Research](<Roam Research.md>) We can start to use roam to [bottom-up approach](<bottom-up approach.md>)
-
-## [September 18th, 2020](<September 18th, 2020.md>)
-- I feel that my brain is running too much, and trying to condensing thoughts from top-down, and it puts me into so much pressure. I start to realize that this pressure makes me think too much unnecessary. The [top-down](<top-down.md>) pressure is good for helping me to have a direction for what I want to do but it's also put me into a difficult situation because the [bottom-up approach](<bottom-up approach.md>)
-
-- [x] [top-down boundary](<top-down boundary.md>) and [bottom-up approach](<bottom-up approach.md>)
-
-## [September 22nd, 2020](<September 22nd, 2020.md>)
-- [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>). I also realize that my coaching tends to be mixing between [bottom-up approach](<bottom-up approach.md>)
-
-- [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>). I also realize that my coaching tends to be mixing between [bottom-up approach](<bottom-up approach.md>) and [top-down boundary](<top-down boundary.md>), but it seems like the top-down approach is heavier, while coaching will tend to be more flexible and heavily on [bottom-up approach](<bottom-up approach.md>).
-
-## [September 27th, 2020](<September 27th, 2020.md>)
-- I also noticed that I used to use [bottom-up approach](<bottom-up approach.md>)
-
-## [September 28th, 2020](<September 28th, 2020.md>)
-- "[x] [top-down boundary](<top-down boundary.md>) and [bottom-up approach](<bottom-up approach.md>)
 
 ## [TODO](<TODO.md>)
 - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [bottom-up approach](<bottom-up approach.md>)
@@ -97,10 +35,23 @@ I also realize that I still have a bit of [top-down](<top-down.md>) expectation 
 ## [being coaching](<being coaching.md>)
 - [bottom-up approach](<bottom-up approach.md>)
 
-## [bottom-up approach](<bottom-up approach.md>)
-- Definition: [bottom-up approach](<bottom-up approach.md>)
+- [coaching](<coaching.md>) is also a [bottom-up approach](<bottom-up approach.md>)
 
+## [bottom-up approach](<bottom-up approach.md>)
 - [bottom-up approach](<bottom-up approach.md>)
+
+- Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>) through a [bottom-up approach](<bottom-up approach.md>)
+
+- Learning to use [bottom-up approach](<bottom-up approach.md>)
+
+- [being coaching](<being coaching.md>) in a [bottom-up approach](<bottom-up approach.md>)
+
+## [coaching reflection](<coaching reflection.md>)
+- developing or centering my coaching on [bottom-up approach](<bottom-up approach.md>)
+
+- making [bottom-up approach](<bottom-up approach.md>)
+
+- integrating between [bottom-up approach](<bottom-up approach.md>)
 
 ## [contextual linking](<contextual linking.md>)
 - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [bottom-up approach](<bottom-up approach.md>)

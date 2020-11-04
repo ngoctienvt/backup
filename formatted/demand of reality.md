@@ -4,8 +4,6 @@
 - I also felt that when I started to clean things, I'm becoming more and more energy inside that naturally moves me. I reduced the fear that I won't make anything meaningful for this life, because the fact that I learn things and improve my soul everyday is the best that I could do to be able to handle bigger [demand of reality](<demand of reality.md>)
 
 ## [October 17th, 2020](<October 17th, 2020.md>)
-[demand of reality](<demand of reality.md>)
-
 - [living in the present](<living in the present.md>) I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [demand of reality](<demand of reality.md>)
 
 - [demand of reality](<demand of reality.md>)

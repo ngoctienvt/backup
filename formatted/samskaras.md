@@ -73,6 +73,9 @@ I will be presence myself to interact with them as a whole, not to use them to i
 ## [TODO](<TODO.md>)
 - "[samskaras](<samskaras.md>)
 
+## [bottom-up approach](<bottom-up approach.md>)
+- to let go [samskaras](<samskaras.md>)
+
 ## [inner work](<inner work.md>)
 - inner work is the job of the soul to release the [samskaras](<samskaras.md>)
 

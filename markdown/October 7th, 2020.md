@@ -21,7 +21,6 @@ If we identified with our thoughts and believed this is normal, there is no thin
 
 I want to develop the combination between a [[tough love]] and [[compassion]] in a way that they merge with each other so I can coach with a tough love but let my compassion inspire the way. [[helpful manner]]
 
-I also realize that I still have a bit of [[top-down]] expectation instead of helping fully working from [[bottom-up approach]] and move forward the way.
 - 
 - 
 - 

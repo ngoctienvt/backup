@@ -11,8 +11,7 @@ This is really a big [[life lessons]] for me about releasing all the dependent t
     - {{[[TODO]]}} templates or thinking process 
 -  I feel that I am still not so much clear how the [[progressive approach]] really apply in the context of [[Roam Research]]. I still feel that I think more about the system and how the [[workflow]] need to go in a smooth way. I want to focus on [[workflow]] in a general concept and in a practical way as well.
 - [[coaching reflection]] I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
-- I still feel confused and stuck when trying to understand the way that I can use Roam Research to organize my information in a natural way. I still concern when to put information on the nodes, when simply just let them out on page.
+- [[Expanding questions]] How to organize information in Roam Research?
 
-I feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [[need for big pictures]] [[personal needs]]. I need to see Roam Research fully how to build from [[bottom-up approach]] more than [[top-down boundary]].
 - Instead of thing how to organize Roam Research, it would be better if I find out how I can let the process build itself like how the life works. [[self-evolving process]]
 - 

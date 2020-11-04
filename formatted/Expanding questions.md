@@ -36,6 +36,9 @@
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - My mind is still wonder how I will handle the used data and the new data? [Expanding questions](<Expanding questions.md>)
 
+## [October 5th, 2020](<October 5th, 2020.md>)
+- [Expanding questions](<Expanding questions.md>)
+
 ## [compressed process](<compressed process.md>)
 - resolving [Expanding questions](<Expanding questions.md>)
 

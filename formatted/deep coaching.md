@@ -1,8 +1,5 @@
 
 # Backlinks
-## [October 15th, 2020](<October 15th, 2020.md>)
-This makes my coaching become pre-mature and not feel natural, though it's helpful. It's just the process is not really what [deep coaching](<deep coaching.md>)
-
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - [deep coaching](<deep coaching.md>)
 

@@ -9,3 +9,9 @@
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - The condensing process is now little bit more [intentional](<intentional.md>) or [goal-driven](<goal-driven.md>), but not too much as [compressed process](<compressed process.md>). This is kind of a [pressure makes diamond](<pressure makes diamond.md>) process. Before actually using for a [real life application](<real life application.md>).
 
+## [bottom-up approach](<bottom-up approach.md>)
+- ### [real life application](<real life application.md>)
+
+## [information blocks](<information blocks.md>)
+- [real life application](<real life application.md>)
+

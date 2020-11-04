@@ -5,20 +5,16 @@
     - new insights,
     - new awareness
 - [types of information blocks](<types of information blocks.md>)
-    - [definition](<definition.md>)
-        - describes an idea or a concept
-    - [meaning](<meaning.md>)
-        - what are the benefits of this?
-    - [procedure](<procedure.md>)
-        - steps by steps implementation
-    - [process](<process.md>)
-        - describe the flow of the activity
-    - [function](<function.md>)
-        - usages of the concept
-    - [principle](<principle.md>)
-        - a rule telling what is the behind structure (what is allowed and what not)
-    - [information](<information.md>)
-        - detail information of the concept
+    - [real life application](<real life application.md>)
+    - [todo list](<todo list.md>)
+    - 
+    - [definition](<definition.md>) describes an idea or a concept
+    - [meaning](<meaning.md>) what are the benefits of this?
+    - [procedure](<procedure.md>) steps by steps implementation
+    - [process](<process.md>) describe the flow of the activity
+    - [function](<function.md>) usages of the concept
+    - [principle](<principle.md>) a rule telling what is the behind structure (what is allowed and what not)
+    - [information](<information.md>) detail information of the concept
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)

@@ -7,6 +7,7 @@
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - [training](<training.md>)
 
+## [bottom-up approach](<bottom-up approach.md>)
 - [training](<training.md>)
 
 ## [interests](<interests.md>)

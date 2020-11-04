@@ -4,8 +4,6 @@
 won't able to sustain it for long term. [living in the future](<living in the future.md>)
 
 ## [October 17th, 2020](<October 17th, 2020.md>)
-experiences [personal needs](<personal needs.md>) [living in the future](<living in the future.md>).
-
 will stop [living in the future](<living in the future.md>)
 
 present at now first. [living in the future](<living in the future.md>)
