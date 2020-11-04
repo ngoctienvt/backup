@@ -9,6 +9,6 @@
     - Write key take-aways
     - Write summarization
 - Raw workflow
-    - [[integration activity]]
+    - [[integration]]
     - [[journaling]]
     - [[learning]] or testing to complete the picture gradually.

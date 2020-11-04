@@ -2,17 +2,17 @@
 what I have now, I'm constantly looking for what could bring me other
 experiences [[personal needs]] [[living in the future]]. This is very clearly a
 [[top-down boundary]] that want to prepare everything I need for experiences,
-instead of [[bottom-up evolution]] that fully experiences the moments then next.
+instead of [[bottom-up approach]] that fully experiences the moments then next.
 - When reading novels, I realize that I also have many
 limitations on my belief system. [[limiting thoughts]]
 - [[https://www.notion.so/chaungoctien/Living-from-the-place-of-surrender-b81c950f88fe4b36ad97c5007adf88e0][Living
 from the place of surrender - youtube link]] [[Course - Living from the place
 of surrender]]
-- Today I want to keep myself with [[bottom-up evolution]], I
+- Today I want to keep myself with [[bottom-up approach]], I
 fully experience the moments and then I will know what I need to do next. I
 will stop [[living in the future]] or at least know that I need to come back to
 now, because everything is already here that I need to understand and fully
-experience them first.
+experience them first. 
 - I felt so much fun when teaching and also [[deeper understanding]] for myself from today spiritual lessons. It's very satisfying
 when seeing people learning the [[hard-truth]]. Because this pain is what
 really needs to confront and will give true solutions for true happiness.
@@ -30,7 +30,7 @@ will be more [[concise]] instead of explaining or talking too much.
 - [[coaching reflection]] I still feel that I have I desire to
 support her navigate through this transition as best as possible based on my
 [[top-down boundary]]. This desire makes my support is not natural from
-[[bottom-up evolution]] but a little bit trying than normal too much. I feel a
+[[bottom-up approach]] but a little bit trying than normal too much. I feel a
 little bit of attachment here, it could be around my desire, my fear of losing
 her, my desire for proving my path instead of fully embrace and raise her.
 [[demand of reality]]
@@ -42,7 +42,7 @@ let things be and raise it up naturally without any attachments. [[living from t
 - {{[[TODO]]}} Coaching [[Nguyễn Mỹ Linh]] [[Nov 1st, 2020]]
 - {{[[TODO]]}} Coaching [[Lý Kim Ngân]] [[Oct 26th, 2020]]
 - Planning for next next week:
-    - {{[[TODO]]}}  working on [[bottom-up evolution]]
+    - {{[[TODO]]}}  working on [[bottom-up approach]]
     - {{[[TODO]]}}  refining [[morning rituals]]
     - {{[[TODO]]}}  editing video 6
     - {{[[TODO]]}}  resolving some of relationship attachments
@@ -65,7 +65,7 @@ inside.
     - One is the now that I focus on the moment in front of me and the current relationship of me and that moment
     - The second is to focus on my inner thoughts, emotions, and sensations that are distracting me from the moment in front of me.
     - [[living in the present]] is not about choosing the first or second now but about union the second now with me, so that I could fully present with the first now that are always unfolding and changing.
-- [[integration activity]] [[transformation]] What I need to integrate and develop new way of living are:
+- [[integration]] [[transformation]] What I need to integrate and develop new way of living are:
     - [[habit-formed will]]
     - [[emotions]]
     - thoughts - [[union thoughts]]
@@ -75,7 +75,7 @@ inside.
 - [[deep coaching]] In deep coaching, it's important to notice the intersection that makes clients going out instead of work on themselves. It's the part that they can't handle inside so they use outside to serve as a solution. [[reflection]]
     - For instance, if a client want to have a higher salary, it's because there is a part inside of them that want to have a higher salary so that it will not feel uncomfortable or stuck inside.
     - Pointing to the right part is very important because it will [[evoke awareness]] that directly relate to what client need to deal with.
-- [[living in the present]] I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [[demand of reality]] instead of worrying about where I need to go to. [[bottom-up evolution]] [[being mode]] 
+- [[living in the present]] I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [[demand of reality]] instead of worrying about where I need to go to. [[bottom-up approach]] [[being mode]] 
 - And if I want to connect with others deeply, I also need to just not see what's above the earth but understand what below it. [[deep connection]] Without true understanding, it's very easy for my mind to make its own interpretation and make me trust those very low possibilities to true interpretations.
     - [[the accumulated self]]
     - [[demand of reality]]
@@ -101,9 +101,9 @@ materials [[generative wisdom]]
 - I felt kind of uncomfortable when playing with drift joy-con because it feels [[inconvenient]] and not meet the minimum standards that are not faulty. [[personal standards]]
 - It seems like for buying necessary things. Half of the price that I feel comfortable to pay is a good way to make choice. [[the middle way]]
 - There is an intersection between [[self-learning]] and learning from the [[external knowledge]] is that it focuses on solving the current [[demand of reality]]  which is the current context. [[contextual mastery]]
-    - [[self-learning]] come to context with a [[bottom-up evolution]] attitude.
+    - [[self-learning]] come to context with a [[bottom-up approach]] attitude.
     - [[external knowledge]] help to optimize the situation from a [[top-down boundary]]
-- [[From separation to union life]] [[integration activity]] [[natural progression]]
+- [[From separation to union life]] [[integration]] [[natural progression]]
     - The societies split life into many different aspects
         - Work, life, social, entertainment, spiritual...
         - Physics, Math, Biology,...

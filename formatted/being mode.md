@@ -14,10 +14,10 @@
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - [being mode](<being mode.md>)
 
-- [living in the present](<living in the present.md>) I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [demand of reality](<demand of reality.md>) instead of worrying about where I need to go to. [bottom-up evolution](<bottom-up evolution.md>) [being mode](<being mode.md>)
+- [living in the present](<living in the present.md>) I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [demand of reality](<demand of reality.md>) instead of worrying about where I need to go to. [bottom-up approach](<bottom-up approach.md>) [being mode](<being mode.md>)
 
 ## [October 20th, 2020](<October 20th, 2020.md>)
-- The [soul-guidance](<soul-guidance.md>) will base on the [integration activity](<integration activity.md>), [generating languages](<generating languages.md>), [being mode](<being mode.md>),
+- The [soul-guidance](<soul-guidance.md>) will base on the [integration](<integration.md>), [generating languages](<generating languages.md>), [being mode](<being mode.md>),
 
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - ### [being mode](<being mode.md>)

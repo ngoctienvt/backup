@@ -1,6 +1,6 @@
 - [top-down boundary](<top-down boundary.md>) is an approach that focuses more on working with detail level and understanding the specific situation or context, the moment, the difference.
 - [top-down boundary](<top-down boundary.md>) helps to understand thing in a deeper level and honor the moment.
-- [top-down boundary](<top-down boundary.md>) helps to create a direction to utilizes the information that gathered from [bottom-up evolution](<bottom-up evolution.md>) to a specific usage.
+- [top-down boundary](<top-down boundary.md>) helps to create a direction to utilizes the information that gathered from [bottom-up approach](<bottom-up approach.md>) to a specific usage.
 - [top-down boundary](<top-down boundary.md>) is just simply create a space for me to work things on, not to start from there downward, but actually create a destination for me to build-up to there overtime.
 
 # Backlinks
@@ -25,7 +25,7 @@
 ## [October 15th, 2020](<October 15th, 2020.md>)
 - [coaching reflection](<coaching reflection.md>) I noticed that when coaching, I'm going a counter-intuitive approach. I put my way of coaching mainly on [top-down boundary](<top-down boundary.md>)
 
-- [coaching reflection](<coaching reflection.md>) I noticed that when coaching, I'm going a counter-intuitive approach. I put my way of coaching mainly on [top-down boundary](<top-down boundary.md>) instead of [bottom-up evolution](<bottom-up evolution.md>), and let the [top-down boundary](<top-down boundary.md>)
+- [coaching reflection](<coaching reflection.md>) I noticed that when coaching, I'm going a counter-intuitive approach. I put my way of coaching mainly on [top-down boundary](<top-down boundary.md>) instead of [bottom-up approach](<bottom-up approach.md>), and let the [top-down boundary](<top-down boundary.md>)
 
 - When I start with [top-down boundary](<top-down boundary.md>),
 
@@ -50,9 +50,6 @@
 
 - Synthesis things by a [top-down boundary](<top-down boundary.md>)
 
-## [October 21st, 2020](<October 21st, 2020.md>)
-- I noticed my need for [convenient](<convenient.md>) when I'm considering between Roam Research and Logseq, when trying to find the best slack even though I don't really know what I really need. The tendency to find things for convenient makes me operate wrongly from a [top-down boundary](<top-down boundary.md>)
-
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - What is the [entirety of an atomic concept](<entirety of an atomic concept.md>)? I do not really know yet, but create a hard [top-down boundary](<top-down boundary.md>)
 
@@ -66,7 +63,7 @@
 I noticed that when I'm approaching things to train others, I like to work from a [top-down boundary](<top-down boundary.md>)
 
 ## [October 5th, 2020](<October 5th, 2020.md>)
-I feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [need for big pictures](<need for big pictures.md>) [personal needs](<personal needs.md>). I need to see Roam Research fully how to build from [bottom-up evolution](<bottom-up evolution.md>) more than [top-down boundary](<top-down boundary.md>).
+I feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [need for big pictures](<need for big pictures.md>) [personal needs](<personal needs.md>). I need to see Roam Research fully how to build from [bottom-up approach](<bottom-up approach.md>) more than [top-down boundary](<top-down boundary.md>).
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [top-down boundary](<top-down boundary.md>)
@@ -84,15 +81,15 @@ I feel that I start to put unnecessary pressure on me to top-down things instead
 - [x] [top-down boundary](<top-down boundary.md>)
 
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
-- [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>). I also realize that my coaching tends to be mixing between [bottom-up evolution](<bottom-up evolution.md>) and [top-down boundary](<top-down boundary.md>),
+- [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>). I also realize that my coaching tends to be mixing between [bottom-up approach](<bottom-up approach.md>) and [top-down boundary](<top-down boundary.md>),
 
 ## [September 23rd, 2020](<September 23rd, 2020.md>)
 - The reason of these [inner conflict](<inner conflict.md>) mainly because I'm mainly heavily operating from [top-down boundary](<top-down boundary.md>)
 
 ## [September 27th, 2020](<September 27th, 2020.md>)
-- I also noticed that I used to use [bottom-up evolution](<bottom-up evolution.md>) and because of this, I'm not comfortable or effectively use my [powerful questions](<powerful questions.md>) in a focused way when I need to use [top-down boundary](<top-down boundary.md>)
+- I also noticed that I used to use [bottom-up approach](<bottom-up approach.md>) and because of this, I'm not comfortable or effectively use my [powerful questions](<powerful questions.md>) in a focused way when I need to use [top-down boundary](<top-down boundary.md>)
 
-- I also noticed that I used to use [bottom-up evolution](<bottom-up evolution.md>) and because of this, I'm not comfortable or effectively use my [powerful questions](<powerful questions.md>) in a focused way when I need to use [top-down boundary](<top-down boundary.md>) to support clients get their mind to focus in their specific concern. I want to learn to use [top-down boundary](<top-down boundary.md>).
+- I also noticed that I used to use [bottom-up approach](<bottom-up approach.md>) and because of this, I'm not comfortable or effectively use my [powerful questions](<powerful questions.md>) in a focused way when I need to use [top-down boundary](<top-down boundary.md>) to support clients get their mind to focus in their specific concern. I want to learn to use [top-down boundary](<top-down boundary.md>).
 
 ## [September 28th, 2020](<September 28th, 2020.md>)
 - "[x] [top-down boundary](<top-down boundary.md>)
@@ -108,7 +105,7 @@ I feel that I start to put unnecessary pressure on me to top-down things instead
 
 - [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up evolution](<bottom-up evolution.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down boundary](<top-down boundary.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down boundary](<top-down boundary.md>)
 
 ## [progressive approach](<progressive approach.md>)
 -  [top-down boundary](<top-down boundary.md>)

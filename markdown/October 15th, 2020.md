@@ -7,7 +7,7 @@ My job is doing the best as I could, but not responsible for their life. They wi
 This helps us to see life in a much broader picture so that what we need to resolve clearly emerge on that space.  [[design for emergence]]
 - I felt that I'm learning to shift fully from [[linear thinking]] to [[network thinking]] which release the roles of categories and embrace the roles of connections.
 - I'm on a stage that building the foundations for everything I will develop based on this [[basic foundation]].
-- [[coaching reflection]] I noticed that when coaching, I'm going a counter-intuitive approach. I put my way of coaching mainly on [[top-down boundary]] instead of [[bottom-up evolution]], and let the [[top-down boundary]] as a supplement instead.
+- [[coaching reflection]] I noticed that when coaching, I'm going a counter-intuitive approach. I put my way of coaching mainly on [[top-down boundary]] instead of [[bottom-up approach]], and let the [[top-down boundary]] as a supplement instead.
 
 This makes my coaching become pre-mature and not feel natural, though it's helpful. It's just the process is not really what [[deep coaching]] really means.
 - When I want to ask to know about [[Nguyễn Mỹ Linh]] situation. I felt that my way of asking is too general which often leads the other person to find hard to answer. I want it to at least a little bit specific so that people could easier look back on their situation. 
@@ -21,9 +21,9 @@ Instead of [[vague questions]], it's about [[contextual questions]]. Not leading
     - I also want to learn more about how PC connect with the audio theater, how the process works, and what's the difference? 
 - I noticed that I spent too much time for unnecessary [[worry]] instead of spending time to clear the fog and make [[conscious choice]] so that I could live it there and don't need to care about it any more. [[inconvenient of life flow]]
 -  I felt my expectations and standards and the fear of not meeting my expectations making me feel uncomfortable and numbing. [[expectations]]
-- Start from the top is mostly about expectations and clinging. Instead of that, I want to always stay at the bottom and climb the mountain up slowly with the [[openness]] and [[abundance appreciation]] attitude [[bottom-up evolution]] 
+- Start from the top is mostly about expectations and clinging. Instead of that, I want to always stay at the bottom and climb the mountain up slowly with the [[openness]] and [[abundance appreciation]] attitude [[bottom-up approach]] 
     - When I start with [[top-down boundary]], I notice that I'm working with theory too much.
-    - When I start with [[bottom-up evolution]], I will start with a relaxing and gradual attitude to learn and not accumulate stress, because I start without any pressure.
+    - When I start with [[bottom-up approach]], I will start with a relaxing and gradual attitude to learn and not accumulate stress, because I start without any pressure.
 - I still have a tendency to teach others suddenly, it could be helpful but without full awareness, there is still a lot of [[redundant information]] that I talk in a natural way. [[intentional]]
 - 
 - 

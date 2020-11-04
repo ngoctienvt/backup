@@ -1,0 +1,7 @@
+- Definition: [[bottom-up approach]] is an approach that 
+    - work on [[integration]] what haven't resolved
+    - emphasizes on now to learn in a progressive way
+- [[bottom-up approach]] is a components of [[progressive approach]].
+- Objects for practices
+    - [[need for convenient]]
+    - 

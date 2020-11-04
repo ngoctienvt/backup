@@ -4,19 +4,19 @@
         - [[soul evolution]] 
         - acquire [[mastery]] in a natural and effective way. 
 - ## The benefits of progressive approach are:
-    - natural and effortless development based on [[bottom-up evolution]]
+    - natural and effortless development based on [[bottom-up approach]]
     - directly connect with the highest goal of life - [[soul evolution]]
     - living a stress-free life
 - ## Core methods
-    -  [[bottom-up evolution]] for merging with the experiences
-        - [[integration activity]]
+    -  [[bottom-up approach]] for merging with the experiences
+        - [[integration]]
     -  [[top-down boundary]] for focusing myself to certain direction
 - ## Core principles:
     - living life as a [[circular process]]
         - focused on [[enjoy the process]] or journey instead of a [[linear process]] focused on [[results]]
     - flexibility with [[contextual mastery]]
     - [[design for emergence]]
-        - [[bottom-up evolution]] to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
+        - [[bottom-up approach]] to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
     - [[natural progression]]
     - [[establishing the seat of awareness]]
 - ## Supportive components:

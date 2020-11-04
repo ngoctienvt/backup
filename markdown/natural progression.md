@@ -1,7 +1,7 @@
 - [[natural progression]] is the way of living that
 operates ourselves in a way that harmony with the [[flow of life]].
 - The conditions for [[natural progression]]
-    - [[integration activity]]
+    - [[integration]]
     - [[establishing the seat of awareness]]
 - Why we don't live this way naturally?
     - The lack of understanding about the oneness [[flow of life]]

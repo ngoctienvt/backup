@@ -79,7 +79,7 @@ I would like to shift this [hidden intention](<hidden intention.md>) to another 
 ## [life](<life.md>)
 - [intention](<intention.md>)
 
-- [bottom-up evolution](<bottom-up evolution.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>),
+- [bottom-up approach](<bottom-up approach.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>),
 
 - [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>)
 

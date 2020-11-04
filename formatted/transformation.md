@@ -4,7 +4,7 @@
 - as long as I'm moving forward, things will stop exist in its own way [transformation](<transformation.md>)
 
 ## [October 17th, 2020](<October 17th, 2020.md>)
-- [integration activity](<integration activity.md>) [transformation](<transformation.md>)
+- [integration](<integration.md>) [transformation](<transformation.md>)
 
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - I feel a little wonder whether I can support her or not, and realize that I’m lacking the [trust](<trust.md>) on her [transformation](<transformation.md>).

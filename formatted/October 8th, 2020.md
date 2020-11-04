@@ -6,7 +6,7 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
     - [x] work on what I want to share on the [journaling training](<journaling training.md>)
     - [x] continue working with progressive approach
         - How to completely shift from top-down thinking to build a bottom-up thinking instead
-        - What is the process of things will happen when using [bottom-up evolution](<bottom-up evolution.md>)
+        - What is the process of things will happen when using [bottom-up approach](<bottom-up approach.md>)
 - After this reflection about [sexual desire](<sexual desire.md>), I understand much more deeply that there is nothing wrong, everything is an experience and a soul on evolving process. There is no wrong feelings, wrong experiences and wrong existences. [truth compass](<truth compass.md>). 
 
 [There is nothing wrong, only the lack of wisdom](<There is nothing wrong, only the lack of wisdom.md>). We are so lost that we live the rules by default without the ability to know why there's a need for rules from the beginnings. [rules](<rules.md>) and [top-down boundary](<top-down boundary.md>) are not meant for defining what's right or what's wrong. It's about for helping us realize that is the things we need to work on to evolve our souls.

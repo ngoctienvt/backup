@@ -12,11 +12,6 @@
 
 I feel there is a rush inside me to skip the cleaning step. It's like running a marathon but wish that I will be at the end of the road without paying too much effort and skip the reality. This tendency is related to my [convenient](<convenient.md>)
 
-## [October 21st, 2020](<October 21st, 2020.md>)
-- I noticed my need for [convenient](<convenient.md>)
-
-- Instead of trying to solve [convenient](<convenient.md>)s
-
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - I felt that I'm too lazy to go out to make a VCB atm so I can use my master card in an [convenient](<convenient.md>)
 

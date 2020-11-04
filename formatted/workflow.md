@@ -9,7 +9,7 @@
     - Write key take-aways
     - Write summarization
 - Raw workflow
-    - [integration activity](<integration activity.md>)
+    - [integration](<integration.md>)
     - [journaling](<journaling.md>)
     - [learning](<learning.md>) or testing to complete the picture gradually.
 
@@ -21,6 +21,11 @@
 
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - [ ] Build my [workflow](<workflow.md>)
+
+## [November 4th, 2020](<November 4th, 2020.md>)
+- What woul be my [workflow](<workflow.md>)
+
+- [workflow](<workflow.md>)
 
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [workflow](<workflow.md>)

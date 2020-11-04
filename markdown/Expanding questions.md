@@ -1,16 +1,10 @@
 - "I will work on to have my own synthesis and condensing process first. It will need to solve few big [[Expanding questions]]"
     - "How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?"
         - "Delete? Or query? Or filter? "
-        - Free-thoughts: 
-            - What's about internal data that got from articles, books?
-                - I'm thinking about deleting as well, as I don't feel that I will work like other people that reference that information and process it later. I need to think more about this abit.
-                - I can clean up my daily inbox thoughts, because I feel that I fully use it, so there is no need to keep it, and create the newness instead.
-                - While data from books, or articles may need to be reuse?
-                    - My point is I want to draw the data to generate output from my [[evergreen notes]] instead of unprocess information from articles, books, own thoughts...
         - My takeaways:: 
-            - Internal and external data will be tag freely to clean up later.
+            - Internal and external data will be tag freely to process and clean up later.
                 - Data on daily inbox will be clean by deleting.
-            - I will try to clean up every bit of information and put them in their own proper node.
+                - Data on external sources will be clean up as well, but could store in a way that if I need to use in other context later.
             - If certain data is too big or not ready to process yet, leave it there.
             - Tag need to have general tags, and the main idea of that for resolve easier later.
     - "How I will organize my way of tagging and creating page?"

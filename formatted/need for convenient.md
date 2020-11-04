@@ -1,4 +1,7 @@
 - 
+    - [need for convenient](<need for convenient.md>) 
+        - considering between Roam Research and Logseq
+
 
 # Backlinks
 ## [October 25th, 2020](<October 25th, 2020.md>)
@@ -8,4 +11,10 @@
 - I have the urge to buy a webcam for my PC because of the [need for convenient](<need for convenient.md>).
 
 - I felt my uncomfortable feeling for my usual routine is disturbed [need for convenient](<need for convenient.md>).
+
+## [bottom-up approach](<bottom-up approach.md>)
+- [need for convenient](<need for convenient.md>)
+
+## [need for convenient](<need for convenient.md>)
+- [need for convenient](<need for convenient.md>)
 

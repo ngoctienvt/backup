@@ -1,7 +1,7 @@
 - [natural progression](<natural progression.md>) is the way of living that
 operates ourselves in a way that harmony with the [flow of life](<flow of life.md>).
 - The conditions for [natural progression](<natural progression.md>)
-    - [integration activity](<integration activity.md>)
+    - [integration](<integration.md>)
     - [establishing the seat of awareness](<establishing the seat of awareness.md>)
 - Why we don't live this way naturally?
     - The lack of understanding about the oneness [flow of life](<flow of life.md>)
@@ -39,10 +39,10 @@ As long as I pay attention to myself and what happens on my journey without the 
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - My thoughts about [natural progression](<natural progression.md>)
 
-- [From separation to union life](<From separation to union life.md>) [integration activity](<integration activity.md>) [natural progression](<natural progression.md>)
+- [From separation to union life](<From separation to union life.md>) [integration](<integration.md>) [natural progression](<natural progression.md>)
 
 ## [October 20th, 2020](<October 20th, 2020.md>)
-- The [soul-guidance](<soul-guidance.md>) will base on the [integration activity](<integration activity.md>), [generating languages](<generating languages.md>), [being mode](<being mode.md>), natural flow-oriented - [natural progression](<natural progression.md>).
+- The [soul-guidance](<soul-guidance.md>) will base on the [integration](<integration.md>), [generating languages](<generating languages.md>), [being mode](<being mode.md>), natural flow-oriented - [natural progression](<natural progression.md>).
 
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - I want to able to integrate them and also split them at the same time in a natural way. [natural progression](<natural progression.md>)
@@ -102,7 +102,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 - [natural progression](<natural progression.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up evolution](<bottom-up evolution.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down boundary](<top-down boundary.md>) and [bottom-up evolution](<bottom-up evolution.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down boundary](<top-down boundary.md>) and [bottom-up approach](<bottom-up approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
 
 - [natural progression](<natural progression.md>)
 

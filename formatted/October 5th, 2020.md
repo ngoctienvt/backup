@@ -13,6 +13,6 @@ This is really a big [life lessons](<life lessons.md>) for me about releasing al
 - [coaching reflection](<coaching reflection.md>) I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
 - I still feel confused and stuck when trying to understand the way that I can use Roam Research to organize my information in a natural way. I still concern when to put information on the nodes, when simply just let them out on page.
 
-I feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [need for big pictures](<need for big pictures.md>) [personal needs](<personal needs.md>). I need to see Roam Research fully how to build from [bottom-up evolution](<bottom-up evolution.md>) more than [top-down boundary](<top-down boundary.md>).
+I feel that I start to put unnecessary pressure on me to top-down things instead of letting the bottom-up build up itself. [need for big pictures](<need for big pictures.md>) [personal needs](<personal needs.md>). I need to see Roam Research fully how to build from [bottom-up approach](<bottom-up approach.md>) more than [top-down boundary](<top-down boundary.md>).
 - Instead of thing how to organize Roam Research, it would be better if I find out how I can let the process build itself like how the life works. [self-evolving process](<self-evolving process.md>)
 - 

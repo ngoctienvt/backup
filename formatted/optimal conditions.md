@@ -26,5 +26,5 @@ Nothing is start from scratch. If you want to do something, it must have generat
 - [creative training](<creative training.md>) creating [optimal conditions](<optimal conditions.md>)
 
 ## [progressive approach](<progressive approach.md>)
-- [bottom-up evolution](<bottom-up evolution.md>) to create [optimal conditions](<optimal conditions.md>)
+- [bottom-up approach](<bottom-up approach.md>) to create [optimal conditions](<optimal conditions.md>)
 

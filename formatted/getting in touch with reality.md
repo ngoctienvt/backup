@@ -4,7 +4,7 @@
 - I also felt that I hate to deal with things that half good half past and need to make decision. [conscious choice](<conscious choice.md>) When I felt that I need to make conscious choices, I felt a feeling of tired and it looks like a burden that I need to handle with. [getting in touch with reality](<getting in touch with reality.md>)
 
 ## [October 14th, 2020](<October 14th, 2020.md>)
-- In [being mode](<being mode.md>), I will able to connect my inner energy to get in touch with reality, instead of being block by inner [samskaras](<samskaras.md>) [integration activity](<integration activity.md>). [getting in touch with reality](<getting in touch with reality.md>)
+- In [being mode](<being mode.md>), I will able to connect my inner energy to get in touch with reality, instead of being block by inner [samskaras](<samskaras.md>) [integration](<integration.md>). [getting in touch with reality](<getting in touch with reality.md>)
 
 ## [October 16th, 2020](<October 16th, 2020.md>)
 - I noticed that my tendency to express whatever got trigger and emerge inside of me without really [getting in touch with reality](<getting in touch with reality.md>)

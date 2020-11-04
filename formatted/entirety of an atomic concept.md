@@ -10,6 +10,9 @@
         - definition
 
 # Backlinks
+## [November 4th, 2020](<November 4th, 2020.md>)
+- I'm not totally clear about what I could generalize to capture [entirety of an atomic concept](<entirety of an atomic concept.md>)
+
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - What is the [entirety of an atomic concept](<entirety of an atomic concept.md>)?
 

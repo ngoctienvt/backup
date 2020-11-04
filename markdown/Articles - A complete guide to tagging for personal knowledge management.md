@@ -7,7 +7,7 @@
     - Networks are inherently “bottom-up,” in that the structure emerges organically from small interactions without direction from a central authority. [[network]]
         - Networks are good in small-scale, quickly changing situations in unpredictable environments. [[flexible environments]]
     - Self-organization overcomes formal organizing’s rigidity. Formal organization keeps at bay self-organization’s tendency to self-destruct. [[self-organization]]
-    - Francis Bacon’s scientific method, first introduced in the 17th century, was a bottom-up, networked approach to building scientific understanding. [[bottom-up evolution]] [[network approach]]
+    - Francis Bacon’s scientific method, first introduced in the 17th century, was a bottom-up, networked approach to building scientific understanding. [[bottom-up approach]] [[network approach]]
     - In the 18th century, the encyclopedia movement promoted most famously by Denis Diderot moved in the opposite direction. [[top-down boundary]]
     - Memory searching
         - Searching relies on declarative memory – remembering and entering the precise contents of a file – which is a higher-level brain function that consumes a lot of energy.

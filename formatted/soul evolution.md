@@ -88,11 +88,11 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 - fully taking [personal responsibilities](<personal responsibilities.md>) for my [soul evolution](<soul evolution.md>)
 
 ## [life](<life.md>)
-- [bottom-up evolution](<bottom-up evolution.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>)
+- [bottom-up approach](<bottom-up approach.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>)
 
 - [soul evolution](<soul evolution.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up evolution](<bottom-up evolution.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>)
 
 ## [progressive approach](<progressive approach.md>)
 - [soul evolution](<soul evolution.md>)

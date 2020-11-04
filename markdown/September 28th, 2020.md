@@ -14,6 +14,6 @@
 - I still felt a little [[worry]] about the coaching session with Linh. I still have some attachments here but not sure what it's really is. It's like I'm talking with a person higher than me and will be judge based on my behaviors or performance. [[judgment]]. I will work on this tomorrow. [[September 29th, 2020]]
 - I felt so grateful that there is people open and trust me. Life is much easier when we can trust and have compassion for each other.
 - [[September 29th, 2020]]
-    - "{{[[DONE]]}} [[top-down boundary]] and [[bottom-up evolution]] "
+    - "{{[[DONE]]}} [[top-down boundary]] and [[bottom-up approach]] "
     - {{[[DONE]]}} working with coaching and samskaras about the feeling of worry when coaching with Linh.
     - 

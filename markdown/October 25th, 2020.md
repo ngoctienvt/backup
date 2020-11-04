@@ -9,14 +9,14 @@
         - condensing journal
     - I'm not totally sure how I will categorize them yet. I will work on it later. My desire is how to have an easy way to relate and move into actions instead of thinking too much. So maybe I will let them action-oriented. [[action-oriented]] to support generating a certain outcome.
         - Because if it's not action-oriented, we will easy to fall back to our thoughts. While in fact, the journal activities is to help us clear our thoughts.
-- For the next period of time, my whole [[willpower]] will use to direct myself to improve my ability to integrate things. [[integration activity]] is the most effective and mindless for me now. I don't need to think, I just need to keep doing it, and the results are amazing.
+- For the next period of time, my whole [[willpower]] will use to direct myself to improve my ability to integrate things. [[integration]] is the most effective and mindless for me now. I don't need to think, I just need to keep doing it, and the results are amazing.
 - When watching how Nat outline an article, I learn that it's very important to have high-value thoughts, ideas scatter and able to easy to find to relate to the topic.
     - [[high-value information blocks]]
     - easy to gather information for a new emergence topic [[extract and gather information system]]
 - There will maybe different way for me to display information [[information formatting]] [[personal knowledge development]]
     - Normal writing is for free thoughts, and unprocessed data or information.
     - `Summary`
-- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [[integration activity]] on the afternoon. [[morning rituals]]
+- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [[integration]] on the afternoon. [[morning rituals]]
 - I noticed that I could always temporary stop or find a work around while I got stuck, I always have a choice, and the highest choice most of the time is [[being mode]] - the mode that enjoy doing nothing and only experiencing.
 - [[compressed process]] [[information-linking]]
     - I learned that I can always come back to add smaller context when possible to send [[information blocks]] to their proper connection, even though I tag them too broad at first. Because I can check and tag them on [[linked references]].

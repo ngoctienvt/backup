@@ -4,19 +4,19 @@
         - [soul evolution](<soul evolution.md>) 
         - acquire [mastery](<mastery.md>) in a natural and effective way. 
 - ## The benefits of progressive approach are:
-    - natural and effortless development based on [bottom-up evolution](<bottom-up evolution.md>)
+    - natural and effortless development based on [bottom-up approach](<bottom-up approach.md>)
     - directly connect with the highest goal of life - [soul evolution](<soul evolution.md>)
     - living a stress-free life
 - ## Core methods
-    -  [bottom-up evolution](<bottom-up evolution.md>) for merging with the experiences
-        - [integration activity](<integration activity.md>)
+    -  [bottom-up approach](<bottom-up approach.md>) for merging with the experiences
+        - [integration](<integration.md>)
     -  [top-down boundary](<top-down boundary.md>) for focusing myself to certain direction
 - ## Core principles:
     - living life as a [circular process](<circular process.md>)
         - focused on [enjoy the process](<enjoy the process.md>) or journey instead of a [linear process](<linear process.md>) focused on [results](<results.md>)
     - flexibility with [contextual mastery](<contextual mastery.md>)
     - [design for emergence](<design for emergence.md>)
-        - [bottom-up evolution](<bottom-up evolution.md>) to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
+        - [bottom-up approach](<bottom-up approach.md>) to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
     - [natural progression](<natural progression.md>)
     - [establishing the seat of awareness](<establishing the seat of awareness.md>)
 - ## Supportive components:
@@ -74,9 +74,6 @@ That's maybe the reason why I'm very hard to master anything, but need to go thr
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - I found that I want to shift my way of living now is kind of laid back and passive to a way of living more energetic and active. I start to realize my highest [intention](<intention.md>) is to evolve myself and make progress forward every day on the time on earth. [progressive approach](<progressive approach.md>)
 
-## [October 30th, 2020](<October 30th, 2020.md>)
-- For coaching, it's also a way for me to integrate my [progressive approach](<progressive approach.md>)
-
 ## [October 4th, 2020](<October 4th, 2020.md>)
 I noticed that when I'm approaching things to train others, I like to work from a [top-down boundary](<top-down boundary.md>) as this helps me to ensure that the value and the understanding are there for them. However, this also put pressure too much on my shoulder. Ideally, I want to have some small top-down ideas [breakdown](<breakdown.md>) that I want to develop and work to complete these fragments and train them as well. This is exactly how [progressive approach](<progressive approach.md>)
 
@@ -96,7 +93,7 @@ Nothing is start from scratch. If you want to do something, it must have generat
 
 - When I'm playing Spirit Island, I learned that it would very helpful to [setting up for success](<setting up for success.md>) as learning the game slowly which help to digest the experiences and grow our understanding as well as skills in a [progressive approach](<progressive approach.md>).
 
-I will find a way to really develop my notes on a [bottom-up evolution](<bottom-up evolution.md>) to be my main execution for [progressive approach](<progressive approach.md>)
+I will find a way to really develop my notes on a [bottom-up approach](<bottom-up approach.md>) to be my main execution for [progressive approach](<progressive approach.md>)
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - There seems like there is two main important things on [progressive approach](<progressive approach.md>)
@@ -119,8 +116,8 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 ## [TODO](<TODO.md>)
 - [progressive approach](<progressive approach.md>)
 
-## [bottom-up evolution](<bottom-up evolution.md>)
-- [bottom-up evolution](<bottom-up evolution.md>) is a core components of [progressive approach](<progressive approach.md>).
+## [bottom-up approach](<bottom-up approach.md>)
+- [bottom-up approach](<bottom-up approach.md>) is a components of [progressive approach](<progressive approach.md>).
 
 ## [current working](<current working.md>)
 - [progressive approach](<progressive approach.md>)
@@ -132,7 +129,7 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 - [progressive approach](<progressive approach.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up evolution](<bottom-up evolution.md>). This [progressive approach](<progressive approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down boundary](<top-down boundary.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>)
 
 - This [progressive approach](<progressive approach.md>)
 

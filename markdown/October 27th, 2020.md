@@ -48,7 +48,7 @@ The only thing that will never change and will never lose is me - my witness con
     - And [[deep listening]] need to help us to [[meet people
 where they are]] through the [[coaching reflection]] skills. When reflection, we could check whether we and client are [[on the same boat]] or not.
 - My [[coaching questions]] also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [[deep listening]].
-- I will focus to work on condensing the [[bottom-up evolution]] next as a way to practice and build up my way to condense knowledge.
+- I w.
 - [[The relationship of approach, method, and technique]]
     - [[end goals]]
         - An [[approach]] is a way to achieve the goal, and it needs to be based on something that efficient and useful.  [[approach]] 

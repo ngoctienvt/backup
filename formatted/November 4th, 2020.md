@@ -1,2 +1,75 @@
-- ```java
-``` {{∆:3+2}}
+- It feels quite uncomfortable and not natural to clean up the [bottom-up approach](<bottom-up approach.md>). The reason is
+    - I'm not totally clear about what I could generalize to capture [entirety of an atomic concept](<entirety of an atomic concept.md>) [generalization](<generalization.md>)
+    - How I will clean what's not the main point? [Roam's writing structure](<Roam's writing structure.md>)
+        - Should I come to the main point and clean it now? or
+        - Should I just remove the link, so it will clean on this bottom-up approach page?
+        - What should be my way to structure my daily note writing, 
+            - so that the inbox will SHOW what the thoughts truly about, 
+            - and how should I tag things intentionally, so that's they will not cluster page?
+            - What's the reason for me to tag freely before?
+    - What woul be my [workflow](<workflow.md>) for daily notes and seek clarity for what I'm working on?
+- [workflow](<workflow.md>)
+    - ![Image for post](https://miro.medium.com/max/1536/0*Jphg67tZn3FMCNni.jpeg)
+    - # 1. The Monastic Strategy
+        - The Monastic philosophy has one basic principle: **cut all shallow activities to focus on deep work.**“This philosophy attempts to maximize deep efforts by eliminating or radically minimizing shallow obligations”
+        - People who follow the Monastic strategy abolish any extra work not related to their main projects. This means weeks or months without answering emails or doing paperwork.
+    - # Who Should Use the Monastic Deep Work Strategy?
+        - People who work in fields in which success is **strictly tied** to the **quality** and **quantity** of the output.
+        - **Pros**
+            - Best for maximizing output
+            - Removes work that brings small results
+        - **Cons**
+            - Not an option for most careers
+            - Neglects new opportunities that may arise
+    - # Schedule Example of the Monastic Strategy
+        - The main rule of this strategy is to eliminate unnecessary shallow work.
+        - The ultimate goal is to **spend as much time in a state of deep focus** on your most meaningful projects.
+    - # 2. The Bimodal Strategy
+        - Followers of the Bimodal philosophy **split their schedule according to the depth of work**.
+        - They plan large, uninterrupted time blocks of deep work where they work like a monastic. When this period is over, they only deal with shallow work.
+        - “This philosophy asks that you divide your time, dedicating some clearly defined stretches to deep pursuits and leaving the rest open to everything else.”
+        - The size of the Deep Work blocks can range from months to days. However, one day per week is the minimum.
+    - # Who Should Use the Bimodal Deep Work Strategy?
+        - Individuals with **well-defined and valuable goals **are the most common users of the strategy.
+        - **Pros**
+            - Large quantities of deep work with schedule flexibility
+            - Great for projects that need long days of uninterrupted concentration
+        - **Cons**
+            - Not as productive as the monastic philosophy
+            - Still difficult to integrate with most knowledge jobs
+    - # Schedule Example of the Bimodal Strategy
+        - The bimodal philosophy can be implemented on a monthly or a weekly basis.
+        - On a weekly basis, you can **block Mondays and Fridays** to solely focus on deep work. If possible, try to include more days.
+    - # 3. The Rhythmic Strategy
+        - “This philosophy argues that the easiest way to consistently start deep work sessions is to transform them into a simple regular habit.”
+    - # Who Should Use the Rhythmic Deep Work Strategy?
+        - The flexibility of this strategy allows for most knowledge workers to use it. Some examples include university professors, consultants, and lawyers.
+        - You only need **consistent and uninterrupted ****time blocks** each day to use the rhythmic strategy.
+        - **Pros**
+            - Very easy to implement in a normal schedule
+            - Habit-based, increasing the chance of Deep Work completion
+        - **Cons**
+            - Not optimal for tackling big projects quickly
+            - Takes time and mental energy to switch from shallow work to Deep Work
+    - # 4. The Journalistic Strategy
+        - The main idea of the journalistic philosophy is to **fit Deep Work whenever possible**.
+        - If you do not have any obligations to meet at the moment, use the extra time to tackle Deep Work. Instead of glazing over your emails, make progress in your projects.
+    - # How to Use Journalistic Deep Work Strategy
+        - This strategy is reserved for people with lots of experience in Deep Work.
+        - Users of this strategy need two crucial attributes:
+            - The ability to switch between shallow work and Deep Work quickly
+            - Confidence in their abilities
+        - **Pros**
+            - Great for unpredictable schedules
+            - Time-efficient
+        - **Cons**
+            - Very difficult to replicate
+            - Requires a lot of deep work experience
+    - # Schedule Example of the Journalistic Strategy
+        - Given that it is the most unpredictable, the example is also the least insightful.
+        - Try to figure out beforehand when you will have more than 30 minutes free from any commitment.
+    - # What is the Right Deep Work Strategy for You?
+        - In “ [Maker’s Schedule, Manager’s Schedule](http://www.paulgraham.com/makersschedule.html) “, Paul Graham argues there are two types of workers:
+        - Makers usually have clear goals that are very valuable. Think about programmers, architects, and writers. Their projects are very tangible and their output measurable.
+        - But that is not the case for most managers. Their objectives are much more subjective and difficult to measure. On top of that, they usually have many smaller tasks.
+        - A “Maker” works best in long, uninterrupted chunks. A “Manager” typically works in one hour blocks, changing subjects frequently.

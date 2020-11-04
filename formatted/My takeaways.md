@@ -5,6 +5,6 @@
 - **[My takeaways](<My takeaways.md>):**
 
 ## [Expanding questions](<Expanding questions.md>)
-- My point is I want to draw the data to generate output from my [evergreen notes](<evergreen notes.md>) instead of unprocess information from articles, books, own thoughts...
+- "Delete? Or query? Or filter? "
         - **[My takeaways](<My takeaways.md>):**
 

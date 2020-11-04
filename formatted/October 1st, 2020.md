@@ -7,11 +7,11 @@
         - It's about listing the things that I want to master. The things to master will have different levels as well. 
             - One is to understand the components.
             - Second is to have a synthesis or a goal to use things together. [synthesis](<synthesis.md>)
-        - Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>) in each thing [bottom-up evolution](<bottom-up evolution.md>)
+        - Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>) in each thing [bottom-up approach](<bottom-up approach.md>)
         - Synthesis things by a [top-down boundary](<top-down boundary.md>) that have goals, challenges, application oriented as a result.
         - Reflection after each learning to condense knowledges and experiences. [condensing and generative process](<condensing and generative process.md>)
     - The third step is going beyond.
-        - Come back to the foundation and start to [bottom-up](<bottom-up.md>) things.
+        - Come back to the foundation and start to [bottom-up approach](<bottom-up approach.md>) things.
 - [coaching reflection](<coaching reflection.md>) As today, I can feel that the coaching is effective due to the fact that I didn't start with what clients want to discuss, but rather explore to understand deeply first.
     - However, there are some moments that I feel I still explain too much instead of concise [reflection](<reflection.md>) and support clients to formulate their own [understanding](<understanding.md>).
     - I felt that I still in charge too much unnecessary. In fact, I want to support them to work on their own first, and only have some [stand back support](<stand back support.md>) to help them facilitate their development. [silence](<silence.md>)

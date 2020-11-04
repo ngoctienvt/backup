@@ -6,7 +6,7 @@
 - Each intention most of the time will have a certain amount of [[personal needs]]. To truly raise the moment and support them develop on their own perfect way, it's important to let go all of these personal needs, so that there will be nothing that I will do for my [[lower-self]], and only to [[serving the demand of reality]] instead.
 - [[coaching reflection]] I felt that I'm still quite restless and not fully relax and let things happen. I still have a little bit of try to prove the effectiveness of coaching, instead of fully surrender myself to the moment and the person in front of me.
 - My [[current work]] will focus on
-    - {{[[TODO]]}} Build my [[workflow]] with the support of [[journaling]], [[integration activity]], [[learning]] or experiencing.
+    - {{[[TODO]]}} Build my [[workflow]] with the support of [[journaling]], [[integration]], [[learning]] or experiencing.
 - After taking a [[surrender walk]], I can truly zoom-out to see that life always happens by itself, not depend and own by anyone, any individual or creature. 
 
 In daily life, we tend to zoom-in so much so that all we can know is what's in front of us, and the urge that drives us to act in certain ways so that we feel much better inside. This zoom-in makes us see life in the too small picture and thought that's life.

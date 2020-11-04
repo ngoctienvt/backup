@@ -75,7 +75,7 @@ Each tasks also require different kind of attentions [[types of attention]].
 This really helps to pick up the task where we at without the need to keep in our mind is a really way to use our [[intellectual mind]] in a effective way.
 - I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [[top-down boundary]] that works on support the thesis or argue about it, instead of a way that open and easy to include, expand the ideas. 
 
-I will find a way to really develop my notes on a [[bottom-up evolution]] to be my main execution for [[progressive approach]]
+I will find a way to really develop my notes on a [[bottom-up approach]] to be my main execution for [[progressive approach]]
 - #funny #music {{[[youtube]]: https://www.youtube.com/watch?v=7jQipab-Ddc&ab_channel=Wowy}}
 - On Saturday, I want to share about freedom and wisdom, because this is really two things that makes me have a true happiness and a way of living. [[true happiness]] [[natural progression]]
 - For the [[truth compass]], I think that my main way to make decision on life is not about truth. Actually truth is what I can see and know what are really happening, but my decision is different. 
