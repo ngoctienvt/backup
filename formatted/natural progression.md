@@ -20,9 +20,6 @@ us. [union experiences](<union experiences.md>)
 [support system](<support system.md>) that harmony with the [flow of life](<flow of life.md>)
 
 # Backlinks
-## [Closing the transformational gap](<Closing the transformational gap.md>)
-- [end goal](<end goal.md>) of coaches for coaching should be the [natural progression](<natural progression.md>)
-
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - [natural progression](<natural progression.md>)
 

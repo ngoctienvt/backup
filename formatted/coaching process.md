@@ -1,9 +1,6 @@
-- [Closing the transformational gap](<Closing the transformational gap.md>)
+- [closing the gap](<closing the gap.md>)
 
 # Backlinks
-## [Closing the transformational gap](<Closing the transformational gap.md>)
-- [coaching process](<coaching process.md>)
-
 ## [October 4th, 2020](<October 4th, 2020.md>)
 Ideally, the [coaching process](<coaching process.md>)
 

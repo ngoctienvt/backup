@@ -1,1 +1,1 @@
-- [[Closing the transformational gap]]
+- [[closing the gap]]

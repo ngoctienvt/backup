@@ -45,10 +45,17 @@ Like if you have a bad dream, you change it to become a better environment for l
             - The most dangerous thing is you don't take the driver seat, just do whatever the thoughts say to you.
             - It's important to regain your kingdom. It's the default thoughts that the mind created by the stuff that I store. But I have the right to work on my thoughts.
             - Then become stronger and capable of dealing with things happens with your life.
-        - Fourth, techniques or doing your practices
+        - Fourth, techniques or doing your practices to work on yourself consistently
             - You practice enough so that you could do your work 24/7
-            - One should raise the selfish self, just like raise a child.
-            - 41:47
+            - One should raise the selfish self, just like raising a baby. 
+            - There will be negativity in the world, but no need to have negativity inside.
+                - One problem outside, why need two problems by having problem inside as well?
+            - What if you're playing chess, and meet a difficult opponent? Why you should worry inside?
+            - Meditation to practice raising your thoughts, not mind-control. Because there are reasons for the mind to be it way.
+            - The highest technique is relax instead of involve or suppress the mind. You - the one who notice the mind is disturbing relax.
+            - Whatever the mind said, relax, keep learning to relax.
+            - The nature of your being is the river of joy flow inside of you.
+            - Man - mind = god
 
 # Backlinks
 ## [Resources](<Resources.md>)

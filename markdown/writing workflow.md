@@ -1,0 +1,5 @@
+- Collecting external materials and transient thoughts
+- Processing to [[high-value information blocks]]
+- Processing to [[compressed understanding]]
+- Generating pieces of output notes
+- Collecting and edit pieces of output notes to become an high-quality article or blog post. 

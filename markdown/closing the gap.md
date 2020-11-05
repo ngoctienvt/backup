@@ -1,1 +1,8 @@
-- 
+- In order to close the gap, it's important to identify
+    - [[end goal]]
+    - [[current reality]]
+    - Exploring what need to resolve to move forward the end goals?
+- Note: 
+    - Most clients don't truly know their end goal. They only see their [[intermediary goals]] and their [[means]] to achieve it what in front of them.
+    - End goal needs to explore and examine carefully, before working on.
+    - [[trust]] and [[connection]] are essential to create [[optimal conditions]] for the emergence of [[end goal]]

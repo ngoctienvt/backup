@@ -16,6 +16,9 @@ Nothing is start from scratch. If you want to do something, it must have generat
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
 - [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>),
 
+## [closing the gap](<closing the gap.md>)
+- [trust](<trust.md>) and [connection](<connection.md>) are essential to create [optimal conditions](<optimal conditions.md>)
+
 ## [coaching skills](<coaching skills.md>)
 - for deep listening happens, we need to build some [optimal conditions](<optimal conditions.md>)
 

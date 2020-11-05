@@ -8,6 +8,3 @@ How to know what the reality truly need? It's about examining our behaviors, way
 
 - This [unshakable intention](<unshakable intention.md>) will not based on my ego-self but [bridging](<bridging.md>)
 
-## [daily workplace](<daily workplace.md>)
-- [bridging](<bridging.md>)
-

@@ -10,7 +10,7 @@
     - Clearing my thoughts about what I'm aiming to do now
 - 
 - For the [[goal-clarification]], I feel that the way I write randomly is not structure properly, so there will be a step to restructure it in an proper way
-    - It's very important to have [[zoom-out point of view]] instead of zoom-in too much to the tools 
+    - It's very important to have [[point of view]] instead of zoom-in too much to the tools 
     - The [[end goal]] need to be clarify clearly
         - The tools and methods or anything that I feel I should do or want to do need to be put in a way 
             - that does not hinder my focus on now and the end goals
@@ -33,5 +33,20 @@ This kind of thinking will create a smaller boundary that helps me to focus easi
     - I can store all of my current half-work and I can return to it any time.
     - I have a clear [[workflow]] to handle the work by breaking it down and clarify what's not clear or anything, instead of feeling stuck, but feeling knows what I need to do to progress. And the workplace need to be able to store all of my half-work.
     - I can easily connect and put the answer or my complete work to store in its proper way.
-    - 
-    - 
+    - How I will handle the flow of information that I'm working on?
+- My [[workflow]] could looks like this
+    - Consuming
+    - Processing
+    - Listing the expanding questions
+    - Exploring or resolving the expanding questions
+    - Integrating
+    - Reflecting and documenting
+    - It needs to be a flow that let me trust the process and as long as I keep doing the process, I will automatically generate good life or good output as a by-product.
+    - The goal is not that much important here. It's about the process that always keeps me moving forward on the right track, and never gets lost or gets stuck.
+    - The idea is generating better-self everyday, everytime and every moments. As long as I can do this, I will be sure to always have a better life. [[personal end goals]]
+    - Some examples of [[workflow]] would be
+        - Drafting
+        - Working
+        - Optimizing
+    - There should be a general workflow, while there will be detail workflow for smaller activities.
+- Tdoay I feel that's I'm becoming clearer everyday, and some of the most biggest puzzles are starting to appear and organizing. My life is getting to build a snowball engine that will be roll out soon. [[snowball]]

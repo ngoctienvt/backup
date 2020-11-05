@@ -5,9 +5,9 @@
 
 - Step 4: Resurface [compressed understanding](<compressed understanding.md>)
 
-## [November 4th, 2020](<November 4th, 2020.md>)
-- Processing to [compressed understanding](<compressed understanding.md>)
-
 ## [compressed process](<compressed process.md>)
 - [compressed understanding](<compressed understanding.md>)
+
+## [writing workflow](<writing workflow.md>)
+- Processing to [compressed understanding](<compressed understanding.md>)
 

@@ -1,19 +1,19 @@
-- 
+- Definition: end goal is final result that I want to achieve based on the relationship between my true self and the demand of reality.
+    - Example, 
+        - I want to always have unconditional joy inside myself  
+        - I want to support other people to live their higher life
+- How to know it is a good end goal?
+    - Not method-dependent
+    - Not tool-dependent
+    - Not ego-guidance
+    - Working at the root, not to compensation for the problems
+- How to find out the end goals?
+    - zoom-out point of view
+    - exploring the meaning of the mean goal
+    - exploring the feelings and thoughts
+    - digging deep to reveal what's important or hidden concern
 
 # Backlinks
-## [Closing the transformational gap](<Closing the transformational gap.md>)
-- [end goal](<end goal.md>)
-
-- [intermediary goals](<intermediary goals.md>) are the goals that we need to work with so that it could help us to close [the transformational gap](<the transformational gap.md>), so we can closer to our [end goal](<end goal.md>)
-
-- For example: what we aim to will be the [end goal](<end goal.md>),
-
-- The reason is most clients perceived [intermediary goals](<intermediary goals.md>) as [end goal](<end goal.md>),
-
-- The reason is most clients perceived [intermediary goals](<intermediary goals.md>) as [end goal](<end goal.md>), they thought they will get what they really want by achieving it but it's not what usually happens. Most of the time, until and unless their [hidden concern](<hidden concern.md>) or what's they truly want to reveal and they can see the [end goal](<end goal.md>)
-
-- [end goal](<end goal.md>)
-
 ## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
 - To search a cluster of things that I want to look for with no need to keep them in a hierarchy organization. Be able to search or group what I want is the most important reason for why I want to have a hierarchy organization. [end goal](<end goal.md>)
 
@@ -45,10 +45,18 @@
 
 - He also clear that the important is the [purpose](<purpose.md>) or the [end goal](<end goal.md>)
 
+## [closing the gap](<closing the gap.md>)
+- [end goal](<end goal.md>)
+
+- [trust](<trust.md>) and [connection](<connection.md>) are essential to create [optimal conditions](<optimal conditions.md>) for the emergence of [end goal](<end goal.md>)
+
 ## [focus on what matters](<focus on what matters.md>)
 - [what matters](<what matters.md>) or [end goal](<end goal.md>)
 
 - [focus on what matters](<focus on what matters.md>) are holding focus onto [end goal](<end goal.md>)
 
 - [focus on what matters](<focus on what matters.md>) are holding focus onto [end goal](<end goal.md>) and aware that [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goal](<end goal.md>)
+
+## [personal end goals](<personal end goals.md>)
+- Current [end goal](<end goal.md>)
 

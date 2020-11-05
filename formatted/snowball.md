@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 5th, 2020](<November 5th, 2020.md>)
+- Tdoay I feel that's I'm becoming clearer everyday, and some of the most biggest puzzles are starting to appear and organizing. My life is getting to build a snowball engine that will be roll out soon. [snowball](<snowball.md>)
+
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - Today I felt that I'm beginning to move more forward slowly, but it starts to roll and will become a [snowball](<snowball.md>)
 

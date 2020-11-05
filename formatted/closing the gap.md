@@ -1,4 +1,11 @@
-- 
+- In order to close the gap, it's important to identify
+    - [end goal](<end goal.md>)
+    - [current reality](<current reality.md>)
+    - Exploring what need to resolve to move forward the end goals?
+- Note: 
+    - Most clients don't truly know their end goal. They only see their [intermediary goals](<intermediary goals.md>) and their [means](<means.md>) to achieve it what in front of them.
+    - End goal needs to explore and examine carefully, before working on.
+    - [trust](<trust.md>) and [connection](<connection.md>) are essential to create [optimal conditions](<optimal conditions.md>) for the emergence of [end goal](<end goal.md>)
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
@@ -11,6 +18,12 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - an approach that reaching and [closing the gap](<closing the gap.md>),
+
+## [September 20th, 2020](<September 20th, 2020.md>)
+- When reading [Surat Shabd Yoga](<Surat Shabd Yoga.md>), it's very helpful for me to realize that the furthest what I learned can bring me is to release other things that I believe in, but then the last thing I need to do as well is release even what brought me to there. Just like the raft can help me navigate all the ways through seas, rivers, challenges, but in the end, I need to let go of it so I can reach the final destination. [letting go](<letting go.md>) [techniques](<techniques.md>) [practices](<practices.md>) [method](<method.md>) [closing the gap](<closing the gap.md>)
+
+## [coaching process](<coaching process.md>)
+- [closing the gap](<closing the gap.md>)
 
 ## [coaching reflection](<coaching reflection.md>)
 - learning to use [powerful questions](<powerful questions.md>) to support clients stretch themselves to close the gap with their end goals [closing the gap](<closing the gap.md>)

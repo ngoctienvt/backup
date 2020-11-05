@@ -1,5 +1,5 @@
-
-# Backlinks
-## [November 4th, 2020](<November 4th, 2020.md>)
-- I noticed that the workflow of the writing is looks like this [writing workflow](<writing workflow.md>)
-
+- Collecting external materials and transient thoughts
+- Processing to [high-value information blocks](<high-value information blocks.md>)
+- Processing to [compressed understanding](<compressed understanding.md>)
+- Generating pieces of output notes
+- Collecting and edit pieces of output notes to become an high-quality article or blog post. 

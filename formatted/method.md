@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Closing the transformational gap](<Closing the transformational gap.md>)
-- [means](<means.md>) are the [method](<method.md>)
-
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - I noticed that I have attachments for [method](<method.md>)
 

@@ -1,1 +1,14 @@
-- 
+- Definition: end goal is final result that I want to achieve based on the relationship between my true self and the demand of reality.
+    - Example, 
+        - I want to always have unconditional joy inside myself  
+        - I want to support other people to live their higher life
+- How to know it is a good end goal?
+    - Not method-dependent
+    - Not tool-dependent
+    - Not ego-guidance
+    - Working at the root, not to compensation for the problems
+- How to find out the end goals?
+    - zoom-out point of view
+    - exploring the meaning of the mean goal
+    - exploring the feelings and thoughts
+    - digging deep to reveal what's important or hidden concern

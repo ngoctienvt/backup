@@ -1,13 +1,13 @@
-- [[progressive approach]] for 
-    - coaching
-    - spiritual growth
-    - training
-- redirect [[habit-formed will]]
-    - develop a wisdom to stop listening to [[limiting thoughts]]
-    - focus on single-tasking
-    - 
 - {{[[TODO]]}} Build my [[workflow]] with the support of [[journaling]], [[integration]], [[learning]] or experiencing.
     - My workflow will need to cover my entire day of working in a natural way.
+    - What's lacking in my workflow?
+        - The process is not clear yet, sometimes I still don't know what I'm doing or should doing.
+        - What's the current focus goal?
+        - What need to do now so that I could progress?
+        - What's the bottleneck?
 - {{[[TODO]]}} [[unattachment centering]] with leaning back to seat of consciousness
     - consistent zoom-out viewpoint
     - accepting and honoring the impersonal reality
+    - redirect [[habit-formed will]]
+        - develop a wisdom to stop listening to [[limiting thoughts]]
+        - focus on single-tasking

@@ -118,9 +118,6 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 
 - [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
 
-## [current working](<current working.md>)
-- [progressive approach](<progressive approach.md>)
-
 ## [intention](<intention.md>)
 - [progressive approach](<progressive approach.md>)
 

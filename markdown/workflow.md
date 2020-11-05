@@ -10,7 +10,7 @@
     - [[journey of wisdom]]
 - Workflow activities
     - Meditating/ Integrating would need to be happening all the time, not just a specific time. - Living from the place of surrender or spiritual practitioner
-        - Goal-clarifying
+        - Clarify [[personal end goals]]
         - Internal work - scholar, trainer, coach
             - Researching
             - Consuming / Experiencing/ Reading 
