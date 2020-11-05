@@ -89,9 +89,6 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 ## [bottom-up approach](<bottom-up approach.md>)
 - Learning to [living from the place of surrender](<living from the place of surrender.md>)
 
-## [goal-clarification](<goal-clarification.md>)
-- Journaling their emotions and thoughts to identify the samskaras need to work with [living from the place of surrender](<living from the place of surrender.md>)
-
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)
 

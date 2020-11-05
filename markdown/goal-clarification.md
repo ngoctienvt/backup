@@ -6,7 +6,7 @@
     - What is the meaning of this goal for me?
     - Is it based on my true self or my ego self?
     - Why I want to achieve this goal?
-    - zoom-out
+    - zoom-out point of view
 - What is my current stage?
 - [[bridging]]
     - What I need to achieve the goal?
@@ -14,25 +14,16 @@
 - Levels of point of view
 - 
 - Some of my end goal based on the below goals are
-    - Supporting other people to detachment and raise awareness about their emotions and thoughts - helping others to realize their true self
-    - Supporting other people to develop a higher way of thinking as well as nurture their knowledge and become wiser over time - wisdom development
+    - Supporting myself and other people to detachment and raise awareness about their emotions and thoughts - helping others to realize their true self
+        - Externalize thoughts and emotions
+        - Merging their mind to live one life solution
+    - Supporting myself and other people to develop a higher way of thinking as well as nurture their knowledge and become wiser over time - wisdom development
+        - evergreen knowledge
+        - systematic thinking in a truthful and helpful way
     - Sharing my knowledge to the world so that it could become a part of the evolving wisdom of human being - serving
-    - Becoming the master at variety of tools to support the development of other people in different ways - mastery
+    - Becoming the master at a variety of tools to support the development of other people in different ways - self-mastery
         - Coach
         - Trainer
         - Writer
     - Having a way of living that completely surrender to the unfolding life to live the highest life - way of living
-    - Letting go every single personal need, samskaras to free myself - freedom
-    - 
-- Goals-listing
-    - Creating a journal training to support people to 
-        - Journaling their emotions and thoughts to identify the samskaras need to work with [[living from the place of surrender]]
-            - Externalizing their thoughts for create a dis-identification to it
-            - Merging their mind to live one life solution
-        - Building a learning process and a personal knowledge management system to become wiser over time
-        - Developing a systematic thinking to think in a truthful and helpful way
-    - Creating a blog to share my knowledge for other person
-    - Becoming a master coach
-    - Becoming a master trainer about spiritual, coaching, and wisdom developing
-    - Becoming a living example with a total surrender to the unfolding life - the surrender experiment
-    - Trusting the process completely instead of worrying about money consistently
+    - Letting go every single personal need, samskaras to free myself - self-freedom
