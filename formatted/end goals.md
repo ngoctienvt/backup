@@ -54,3 +54,6 @@
 
 - [focus on what matters](<focus on what matters.md>) are holding focus onto [end goals](<end goals.md>) and aware that [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goals](<end goals.md>)
 
+## [goal-clarification](<goal-clarification.md>)
+- [end goals](<end goals.md>)
+

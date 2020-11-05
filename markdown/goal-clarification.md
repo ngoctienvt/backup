@@ -1,5 +1,10 @@
-- What is my end goals?
+- [[end goals]] is a goal that only shows the relationship between my true self and reality.
+    - It removes the limitation of current thinking, methods, or beliefs
+    - It express the awareness of the true self and what the true self want to do base on the awareness
+    - It connect with the demand of the reality to solve true problems, not just what the self think could be good.
+- How to check the quality of end goals?
     - What is the meaning of this goal for me?
+    - Is it based on my true self or my ego self?
     - Why I want to achieve this goal?
     - zoom-out
 - What is my current stage?
@@ -8,6 +13,17 @@
     - zoom-in
 - Levels of point of view
 - 
+- Some of my end goal based on the below goals are
+    - Supporting other people to detachment and raise awareness about their emotions and thoughts - helping others to realize their true self
+    - Supporting other people to develop a higher way of thinking as well as nurture their knowledge and become wiser over time - wisdom development
+    - Sharing my knowledge to the world so that it could become a part of the evolving wisdom of human being - serving
+    - Becoming the master at variety of tools to support the development of other people in different ways - mastery
+        - Coach
+        - Trainer
+        - Writer
+    - Having a way of living that completely surrender to the unfolding life to live the highest life - way of living
+    - Letting go every single personal need, samskaras to free myself - freedom
+    - 
 - Goals-listing
     - Creating a journal training to support people to 
         - Journaling their emotions and thoughts to identify the samskaras need to work with [[living from the place of surrender]]
