@@ -23,7 +23,5 @@
 - I noticed that before I try to bring the output to other people, I need to work on myself perfectly first, as I'm the one who I could support first and will be the person who tests my own idea and intention. 
 
 This kind of thinking will create a smaller boundary that helps me to focus easier and will work more effectively. [self-experiment](<self-experiment.md>)
-- Some of the topic of my goals are
-    - self-mastery
-        - 
-    - serving the reality
+- I’m narrowing myself so that I could focus more on the moment instead of thinking too much about what is not ready to emerge yet. By narrow to focus to support and experiment only in one person, that is me. I could learn to make my life become an example and check the actual usage of what I want to do and have my own feedback first. 
+- 

@@ -12,6 +12,18 @@
     - What I need to achieve the goal?
     - zoom-in
 - Levels of point of view
+    - Soul or true self development
+    - Serving the reality
+        - Context of what I want to serve
+            - Niche program and methods
+                - Process/ procedure/ information
+- Some of the topic of my goals are
+    - self-freedom
+    - serving the reality
+        - knowledge and wisdom development
+        - mastery of certain tools to achieve certain intention
+        - supporting the true self development
+    - routine/ habit or work flow
 - 
 - Some of my end goal based on the below goals are
     - Supporting myself and other people to detachment and raise awareness about their emotions and thoughts - helping others to realize their true self
