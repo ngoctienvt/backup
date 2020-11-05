@@ -7,4 +7,26 @@
     - Now I need to build the [workflow](<workflow.md>) first.
 - My today focus will be
     - Continue to build up my workflow process
-    - 
+    - Clearing my thoughts about what I'm aiming to do now
+- I have too many thoughts, things that I want to do recently [goal-clarification](<goal-clarification.md>)
+    - Creating a journal training to support people to 
+        - Journaling their emotions and thoughts to identify the samskaras need to work with [living from the place of surrender](<living from the place of surrender.md>)
+            - Externalizing their thoughts for create a dis-identification to it
+            - Merging their mind to live one life solution
+        - Building a learning process and a personal knowledge management system to become wiser over time
+        - Developing a systematic thinking to think in a truthful and helpful way
+    - Creating a blog to share my knowledge for other person
+    - Becoming a master coach
+    - Becoming a master trainer about spiritual, coaching, and wisdom developing
+    - Becoming a living example with a total surrender to the unfolding life - the surrender experiment
+    - Trusting the process completely instead of worrying about money consistently
+- For the [goal-clarification](<goal-clarification.md>), I feel that the way I write randomly is not structure properly, so there will be a step to restructure it in an proper way
+    - It's very important to have [zoom-out point of view](<zoom-out point of view.md>) instead of zoom-in too much to the tools 
+    - The [end goals](<end goals.md>) need to be clarify clearly
+    - The tools and methods need to be put in a way 
+        - that does not hinder my focus on now and the end goals
+    - Organizing or merging them in a way that I feel integrating and just working on them instead of splitting myself into different directions
+    - Detailing what I'm needing to do next for each smaller point
+    - Letting go what I don't need to focus now, until reflection later on.
+- I felt that when I'm just working slowly like this, the pattern, the framework is starting to emerge by itself, and my job is only need to pickup it later, instead of focusing too much on it early. [pattern recognition](<pattern recognition.md>)
+- 

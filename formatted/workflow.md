@@ -1,25 +1,25 @@
 - Charateristic of my workflow:
-    - [natural progression](<natural progression.md>)
+    - [natural progression](<natural progression.md>) based on natural [readiness](<readiness.md>) for next stages
         - flow
         - flexible to anything, any situation, or any context.
         - quick switch between deep work and shallow work
     - [focus on what matters](<focus on what matters.md>)
-- My workflow will be about 
+    - [batching methodology](<batching methodology.md>)
+- My workflow will be about supporting me to become a great being and a helpful human being.
+    - [living from the place of surrender](<living from the place of surrender.md>)
     - [journey of wisdom](<journey of wisdom.md>)
-- [How to process external data?](<How to process external data?.md>)
-    - Collecting raw-data
-    - Highlighting and tagging raw-data
-    - Write key take-aways
-    - Write summarization
 - Workflow activities
-    - Writing
-    - Meditating (integrating)
-    - Reading
-    - Researching
-    - Sharing
-    - Gathering
-    - Consuming
-    - Creating
+    - Meditating/ Integrating would need to be happening all the time, not just a specific time. - Living from the place of surrender or spiritual practitioner
+        - Goal-clarifying
+        - Internal work - scholar, trainer, coach
+            - Researching
+            - Consuming / Experiencing/ Reading 
+            - Gathering/ Writing
+            - Compressing/ Connecting
+        - External work - blogger, trainer
+            - Writing/ Creating
+            - Sharing
+            - Letting go
 
 # Backlinks
 ## [November 2nd, 2020](<November 2nd, 2020.md>)

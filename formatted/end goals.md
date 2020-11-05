@@ -22,6 +22,9 @@
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - Choose the [end goals](<end goals.md>)
 
+## [November 5th, 2020](<November 5th, 2020.md>)
+- The [end goals](<end goals.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - In order to avoid losing on the method, the tools, the attachments, focus on [end goals](<end goals.md>)
 

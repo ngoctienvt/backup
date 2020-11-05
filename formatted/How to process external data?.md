@@ -1,5 +1,5 @@
-
-# Backlinks
-## [workflow](<workflow.md>)
-- [How to process external data?](<How to process external data?.md>)
-
+- Related: [journey of wisdom](<journey of wisdom.md>)
+- Collecting raw-data
+- Highlighting and tagging raw-data
+- Write key take-aways
+- Write summarization

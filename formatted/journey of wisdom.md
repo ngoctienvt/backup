@@ -25,6 +25,9 @@
         - sharing talks
 
 # Backlinks
+## [How to process external data?](<How to process external data?.md>)
+- Related: [journey of wisdom](<journey of wisdom.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - The relationship between [evergreen garden](<evergreen garden.md>) and [journey of wisdom](<journey of wisdom.md>)
 

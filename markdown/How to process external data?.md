@@ -1,0 +1,5 @@
+- Related: [[journey of wisdom]]
+- Collecting raw-data
+- Highlighting and tagging raw-data
+- Write key take-aways
+- Write summarization
