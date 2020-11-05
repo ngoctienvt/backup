@@ -23,10 +23,12 @@
 - For the [[goal-clarification]], I feel that the way I write randomly is not structure properly, so there will be a step to restructure it in an proper way
     - It's very important to have [[zoom-out point of view]] instead of zoom-in too much to the tools 
     - The [[end goals]] need to be clarify clearly
-    - The tools and methods need to be put in a way 
-        - that does not hinder my focus on now and the end goals
-    - Organizing or merging them in a way that I feel integrating and just working on them instead of splitting myself into different directions
-    - Detailing what I'm needing to do next for each smaller point
-    - Letting go what I don't need to focus now, until reflection later on.
+        - The tools and methods or anything that I feel I should do or want to do need to be put in a way 
+            - that does not hinder my focus on now and the end goals
+        - Organizing or merging them in a way that I feel integrating and just working on them instead of splitting myself into different directions
+        - Detailing what I'm needing to do next for each smaller point
+        - Letting go what I don't need to focus now, until reflection later on.
 - I felt that when I'm just working slowly like this, the pattern, the framework is starting to emerge by itself, and my job is only need to pickup it later, instead of focusing too much on it early. [[pattern recognition]]
+- I noticed that I have an uncomfortable feeling when I hear people just want to talk. I have a [[judgment]] about them that it will not gonna work, or I have an attachment with my coaching as a better way to support other people. My [[point of focus]] has been focus on my tools and what I like to do, instead of support other people.
+    - The way I'm talking is more about myself rather than that person. I'm trying to at least have benefits for myself and protect these benefits first. I don't want to do, to spend my effort without any sure compensation back. [[need for reciprocal]]
 - 

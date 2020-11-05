@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 5th, 2020](<November 5th, 2020.md>)
+- I noticed that I have an uncomfortable feeling when I hear people just want to talk. I have a [judgment](<judgment.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - I still have many [judgment](<judgment.md>)
 
