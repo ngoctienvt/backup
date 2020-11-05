@@ -25,9 +25,6 @@
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>)
 
-## [November 5th, 2020](<November 5th, 2020.md>)
-- Journaling their emotions and thoughts to identify the samskaras need to work with [living from the place of surrender](<living from the place of surrender.md>)
-
 ## [October 11th, 2020](<October 11th, 2020.md>)
 [living from the place of surrender](<living from the place of surrender.md>)
 
@@ -91,6 +88,9 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 
 ## [bottom-up approach](<bottom-up approach.md>)
 - Learning to [living from the place of surrender](<living from the place of surrender.md>)
+
+## [goal-clarification](<goal-clarification.md>)
+- Journaling their emotions and thoughts to identify the samskaras need to work with [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)
