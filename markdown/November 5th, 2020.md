@@ -28,3 +28,5 @@ This kind of thinking will create a smaller boundary that helps me to focus easi
     - incapable of digest past experiences
     - seek external experiences to solve inner sick-being
     - incapable of stand back and enjoy everything
+- It felt good that I learned so much things in much deeper way when I take note the teaching of my teacher, Michael Singer. It didn't feel alien, but rather start to connect deeper to myself and deepen my understanding in a structural and clearer way. [[network note-taking]]
+- 

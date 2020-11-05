@@ -1,8 +1,24 @@
-- [Metadata](<Metadata.md>)
+- Books
     - **[Author](<Author.md>):**
     - **[URL](<URL.md>):**
-    - **[Status](<Status.md>):** 
-    - **[Tags](<Tags.md>):**
+    - **[Status](<Status.md>):**
+    - **[Tags](<Tags.md>):** [Books](<Books.md>)
+- Articles
+    - **[Author](<Author.md>):**
+    - **[URL](<URL.md>):**
+    - **[Status](<Status.md>):**
+    - **[Tags](<Tags.md>):** [Articles](<Articles.md>)
+- Podcasts
+    - **[Author](<Author.md>):**
+    - **[URL](<URL.md>):**
+    - **[Status](<Status.md>):**
+    - **[Tags](<Tags.md>):** [Podcasts](<Podcasts.md>)
+- Videos
+    - **[Author](<Author.md>):**
+    - **[URL](<URL.md>):**
+    - **[Status](<Status.md>):**
+    - **[Tags](<Tags.md>):** [Videos](<Videos.md>)
+- 
 - [deeper understanding](<deeper understanding.md>)
     - **[Free-thoughts](<Free-thoughts.md>):**
     - **[Summary](<Summary.md>):**
@@ -11,11 +27,6 @@
     - **[New awareness](<New awareness.md>):**
     - **[Expanding questions](<Expanding questions.md>):**
 - Inbox
-- Tag types
-    - [Articles](<Articles.md>)
-    - [Projects](<Projects.md>)
-    - #[Audio Books](<Audio Books.md>)
-    - [Books](<Books.md>)
 - [types of information blocks](<types of information blocks.md>)
     - real life application
     - definition
@@ -23,8 +34,3 @@
     - characteristics
     - procedure
     - process
-
-# Backlinks
-## [Metadata](<Metadata.md>)
-- [Metadata](<Metadata.md>)
-

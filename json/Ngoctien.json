@@ -19891,11 +19891,29 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604579988653,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580349872,
+            "string": "```css\n/* Custom data tags */\nspan.rm-page-ref[data-tag=\"Tweets\"] {\n    background: #2980b9 !important;\n    color: white !important;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Projects\"] {\n    background: #2980b9 !important;\n    color: white !important;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Books\"] {\n    background: #FF9800 !important;\n    color: white !important;\n    padding: 3px 7px;\n    font-weight: 500;\n    line-height: 2em;\n}\n\nspan.rm-page-ref[data-tag=\"People\"] {\n    background: #8e44ad !important;\n    color: white !important;\n    padding: 3px 7px;\n    font-weight: 500;\n    line-height: 2em;\n}\n\nspan.rm-page-ref[data-tag=\"Ideas\"] {\n    background: #e67e22 !important;\n    color: white !important;\n    padding: 3px 7px;\n    font-weight: 500;\n    line-height: 2em;\n}\n\nspan.rm-page-ref[data-tag=\"Recipes\"] {\n    background: #e67e22 !important;\n    color: white !important;\n    padding: 3px 7px;\n    font-weight: 500;\n    line-height: 2em;\n}\n\nspan.rm-page-ref[data-tag=\"Videos\"] {\n    background: #f1c40f !important;\n    color: white !important;\n    padding: 3px 7px;\n    font-weight: 500;\n    line-height: 2em;\n}\n\nspan.rm-page-ref[data-tag=\"Articles\"] {\n    background: #27ae60;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Goals\"] {\n    background: #27ae60;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Podcasts\"] {\n    background: #0005EC;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Waiting\"] {\n    background: #f39c12;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}\n\nspan.rm-page-ref[data-tag=\"Inbox\"] {\n    background: #e74c3c;\n    color: #fff;\n    padding: 3px 7px;\n    line-height: 2em;\n    font-weight: 500;\n}```",
+            "uid": "N-j_kG5u9"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580004221,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580004221,
+            "string": "",
+            "uid": "78MNqHBK4"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603702908616,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603702908616,
-        "string": "",
+        "edit-time": 1604579988660,
+        "string": "css",
         "uid": "78FTUI4fU"
       }
     ],
@@ -30927,33 +30945,167 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604326156186,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326333642,
+            "edit-time": 1604580117491,
             "string": "URL::",
             "uid": "okOJxeZPO"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326166708,
+            "create-time": 1604580123348,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326545956,
-            "string": "Status:: ",
-            "uid": "cQiBkSDU3"
+            "edit-time": 1604580264970,
+            "string": "Status::",
+            "uid": "0mmERovLL"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604326168314,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326334798,
-            "string": "Tags::",
+            "edit-time": 1604580105482,
+            "string": "Tags:: #Books",
             "uid": "aeM4RSwVJ"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604326157034,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604326314238,
-        "string": "[[Metadata]]",
+        "edit-time": 1604580097552,
+        "string": "Books",
         "uid": "0DQfF2Ghi"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580142025,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580142025,
+            "string": "Author::",
+            "uid": "vmlBUgHz0"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580142025,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580142025,
+            "string": "URL::",
+            "uid": "yFPTo-woP"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580142025,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580269211,
+            "string": "Status::",
+            "uid": "L3aZf2mhD"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580142025,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580152998,
+            "string": "Tags:: #Articles",
+            "uid": "jqtb08kIi"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604580142025,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604580146836,
+        "string": "Articles",
+        "uid": "IyChO4VLS"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580155635,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580155635,
+            "string": "Author::",
+            "uid": "OdXXPryyG"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580155635,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580155635,
+            "string": "URL::",
+            "uid": "PeFLfE_Wd"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580155635,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580273913,
+            "string": "Status::",
+            "uid": "hi0Ys-fqg"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580155635,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580167185,
+            "string": "Tags:: #Podcasts",
+            "uid": "ZxwzO8kLC"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604580155635,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604580159981,
+        "string": "Podcasts",
+        "uid": "73zli6Iyl"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580178556,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580178556,
+            "string": "Author::",
+            "uid": "R3Uez_tvo"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580178556,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580178556,
+            "string": "URL::",
+            "uid": "c1JxFLMfO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580178557,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580278764,
+            "string": "Status::",
+            "uid": "EwHf8mj_3"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604580178557,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604580187478,
+            "string": "Tags:: #Videos",
+            "uid": "vg21ABRMI"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604580178557,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604580182932,
+        "string": "Videos",
+        "uid": "vhtvqpIOU"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604580178556,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604580178556,
+        "string": "",
+        "uid": "N4FNwQi9S"
       },
       {
         "children": [
@@ -31017,51 +31169,9 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604326210378,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604326294077,
+        "edit-time": 1604580210686,
         "string": "Inbox",
         "uid": "ZZJZXdAbO"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326152220,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326495196,
-            "string": "#Articles",
-            "uid": "PzLvrDngl"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326495194,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326499877,
-            "string": "#Projects",
-            "uid": "1QrZl3jFc"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326499874,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326533614,
-            "string": "#[[Audio Books]]",
-            "uid": "qfzHQHxzC"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604326520859,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604326526482,
-            "string": "#Books",
-            "uid": "oCo7K5KCd"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604326563508,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604326567433,
-        "string": "Tag types",
-        "uid": "ZwgtBZG3S"
       },
       {
         "children": [
@@ -31155,13 +31265,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604326526483,
     "title": "Books"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1604326533616,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604326533624,
-    "title": "Audio Books"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -32854,6 +32957,22 @@
         "edit-time": 1604577060135,
         "string": "[[experience indigestion]] is what happens for me and people nowadays as we have been in a loop of seeking",
         "uid": "jouNud-_U"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604579511390,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604579672024,
+        "string": "It felt good that I learned so much things in much deeper way when I take note the teaching of my teacher, Michael Singer. It didn't feel alien, but rather start to connect deeper to myself and deepen my understanding in a structural and clearer way. [[network note-taking]]",
+        "uid": "BF-aXkwTq"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604579673637,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604579673637,
+        "string": "",
+        "uid": "ue85IgEPc"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -33542,11 +33661,35 @@
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604577283145,
+        "create-time": 1604580237925,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604577289352,
-        "string": "Author:: Michael Singer",
-        "uid": "Lq61nlSVb"
+        "edit-time": 1604580242653,
+        "string": "Author:: Michael A. Singer",
+        "uid": "mKumXdXgg"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604580237925,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604580237925,
+        "string": "URL::",
+        "uid": "ntkTjpUGM"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604580237925,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604580301155,
+        "string": "Status:: #consuming",
+        "uid": "2bi-O-i_3"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604580237925,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604580365187,
+        "string": "Tags:: #Podcasts ",
+        "uid": "Z83_gbur5"
       },
       {
         "children": [
@@ -33558,8 +33701,8 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1604577373878,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604578640645,
-                    "string": "As long as you don't know you're not your mind or your car, you will not get out.",
+                    "edit-time": 1604580481056,
+                    "string": "As long as you don't know you're not your mind or your car, you will not get  out. Meeting someone on their car. And you told them to your house. But they can't get out. Car is an instrument, a gift.",
                     "uid": "KMTftOC2n"
                   },
                   {
@@ -33585,6 +33728,178 @@
                     "edit-time": 1604577719737,
                     "string": "When the mind in a stillness state, you will know you're not your thought.",
                     "uid": "oI58z9-dV"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1604577872226,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1604580465178,
+                            "string": "you withdraw out of the part of the mind that receiving the information of the world from the senses - [[the receiving mind]]",
+                            "uid": "QpNM3q1gv"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604577925769,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604580465178,
+                                "string": "where dream comes from",
+                                "uid": "JlZHtaDMJ"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604577974113,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604580465178,
+                                "string": "where you store the things that you don't want to have on conscious mind",
+                                "uid": "iBPeWJPmc"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604578033200,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604580465178,
+                                "string": "It's the part of the room that you don't want to look at. If you're willing to look at, there will be no subconscious.",
+                                "uid": "WrLkDTw3T"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1604577923282,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1604580465178,
+                            "string": "and go to the subconscious mind - [[the suppressing mind]]",
+                            "uid": "wrKMm3kRj"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604578078105,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604580465178,
+                                "string": "You want a bicycle and dream having the experience of have a bicycle.",
+                                "uid": "mH-s5W753"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1604578051632,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1604580465178,
+                            "string": "Wish-fulfillment dream",
+                            "uid": "NPS6nXOcL"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604577869406,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604580465178,
+                        "string": "You go to sleep mean that ",
+                        "uid": "9l0gLNEAn"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604577760599,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "When you sleep, do you hear anything? You said you go to sleep. Where you go? And who go?",
+                    "uid": "pq_fA6pkS"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604578016538,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "You're always conscious, just the matter of what's your conscious of. The exact same you experience the receiving mind and the suppressing mind.",
+                    "uid": "jCz5ciQjM"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604578332764,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "Where your dream comes from? Your mind - instead of creating thoughts, it's creating the dream.",
+                    "uid": "laWS5DrP-"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604578409247,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604580465178,
+                        "string": "The day, it creates thoughts based on the stimulate of the external world - we should call it day-mare",
+                        "uid": "Fu77MbAtC"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604578419102,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604580465178,
+                        "string": "At sleep, it creates dreams - we call them nightmare. It just normally don't receive the information from the external world to influence your suppressing mind.",
+                        "uid": "zOuRRLS1B"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604578370431,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "During the day, your mind does the exact samething it does at night",
+                    "uid": "rjWctlXxh"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604578194486,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "Just because the mind creates social-acceptable things, doesn't mean it is the truth.",
+                    "uid": "9rqV04-i-"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604578785687,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604580465178,
+                        "string": "Some body tell you will call you at 10 P.M. But now is 10:15 P.M, what your mind will do? It will drive you crazy, making up accidents, any possible things... Even though, the fact is you don't know why she didn't call.",
+                        "uid": "Z4l03VA6J"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604578891597,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604580465178,
+                        "string": "Mind, do you know why she didn't call? How do I know? Then shut up.",
+                        "uid": "c-1hOp5KW"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604578679143,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "Not all the thoughts are positive and constructive.",
+                    "uid": "daOIg9yM7"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604578907750,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "There's no condition ever that you are your thoughts. You are the subject, watching the object thoughts.",
+                    "uid": "zhgpD7jx_"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604579033798,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580465178,
+                    "string": "You are not the thouhts, you don't have to be caught on the thoughts.",
+                    "uid": "AoX_w2Tq7"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
@@ -33593,6 +33908,156 @@
                 "edit-time": 1604578660317,
                 "string": "First is realize you are not your mind, but the one who watch your mind. This is the first awakening.",
                 "uid": "kYzWofoZk"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604579101551,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604579127564,
+                    "string": "If a crazy, neurotic dog doing everything its want, do you want to have it in your house?",
+                    "uid": "mgBVUkiHg"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604579237997,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580448079,
+                    "string": "Why do you have to practice positive thinking? What happens if you don't do it? It doesn't mean you are positive, actually, you are negative.",
+                    "uid": "4PcODkz2_"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604579269759,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604579309041,
+                    "string": "I bought a new car. / I don't need a new car, I have one.",
+                    "uid": "dl-tvavNs"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604580403556,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580420364,
+                    "string": "You couldn't handle the conversation, because you're become neurotic in your head.",
+                    "uid": "sVWlSkncm"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604580492860,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580510811,
+                    "string": "If you dream, you won't call police. But you do it at day.",
+                    "uid": "ZdpmxuZSO"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604579067991,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604580433787,
+                "string": "Second is realize that the thoughts mostly not positive and constructive. And it's ruined my entire life.",
+                "uid": "u-RAiWOLl"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604580638126,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580757191,
+                    "string": "Positive thinking is making other thoughts. Because at least making the nice one, even though the thoughts of your mind and the thoughts you make up, both are may not true. At least you make up what's good for you.\n\nLike if you have a bad dream, you change it to become a better environment for live in.",
+                    "uid": "XlXMLmyRF"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604580701526,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580820176,
+                    "string": "If you're still making the thoughts that make you scare, sick. Don't meditate. Just like don't eat the poison food, and try to eat good food to compensate for it.",
+                    "uid": "DqTeZwwHD"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604580820173,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580928973,
+                    "string": "What is the worst thought? This is what I like, that is what I don't like. ",
+                    "uid": "uJFo_TAlX"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604580929836,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604580990545,
+                    "string": "This is my thought, just like my hand, my eyes. They are suppose to be nice to me, not do the bad thing to me.",
+                    "uid": "BGBbr6cbp"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604580951118,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604581065913,
+                    "string": "The most dangerous thing is you don't take the driver seat, just do whatever the thoughts say to you.",
+                    "uid": "aaKS9AIDU"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604581065910,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604581109970,
+                    "string": "It's important to regain your kingdom. It's the default thoughts that the mind created by the stuff that I store. But I have the right to work on my thoughts.",
+                    "uid": "3jdBJP1nk"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604581110245,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604581150148,
+                    "string": "Then become stronger and capable of dealing with things happens with your life.",
+                    "uid": "N9UVlLepR"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604580542736,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604580638129,
+                "string": "Third is doing something with your thought.",
+                "uid": "7GdUQNSLL"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604581179180,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604581198083,
+                    "string": "You practice enough so that you could do your work 24/7",
+                    "uid": "HZfHGezEO"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604581252333,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604581293978,
+                    "string": "One should raise the selfish self, just like raise a child.",
+                    "uid": "MM5e8mvL9"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604581287693,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604581287693,
+                    "string": "",
+                    "uid": "4EB2ueQtv"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604581168828,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604581179183,
+                "string": "Fourth, techniques or doing your practices",
+                "uid": "7axGsqXCf"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -33601,162 +34066,6 @@
             "edit-time": 1604577373881,
             "string": "There are many stages on evolution, growth, liberation.",
             "uid": "C8D_Oqozf"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604577382383,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604577473970,
-            "string": "Meeting someone on their car. And you told them to your house. But they can't get out. Car is an instrument, a gift",
-            "uid": "1xuTBRTtd"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604577872226,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604578165964,
-                    "string": "you withdraw out of the part of the mind that receiving the information of the world from the senses - [[the receiving mind]]",
-                    "uid": "QpNM3q1gv"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604577925769,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1604577925769,
-                        "string": "where dream comes from",
-                        "uid": "JlZHtaDMJ"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604577974113,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1604577974113,
-                        "string": "where you store the things that you don't want to have on conscious mind",
-                        "uid": "iBPeWJPmc"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604578033200,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1604578033200,
-                        "string": "It's the part of the room that you don't want to look at. If you're willing to look at, there will be no subconscious.",
-                        "uid": "WrLkDTw3T"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604577923282,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604578325197,
-                    "string": "and go to the subconscious mind - [[the suppressing mind]]",
-                    "uid": "wrKMm3kRj"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604578078105,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1604578078105,
-                        "string": "You want a bicycle and dream having the experience of have a bicycle.",
-                        "uid": "mH-s5W753"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604578051632,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604578051632,
-                    "string": "Wish-fulfillment dream",
-                    "uid": "NPS6nXOcL"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604577869406,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604577869406,
-                "string": "You go to sleep mean that ",
-                "uid": "9l0gLNEAn"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604577760599,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604577781944,
-            "string": "When you sleep, do you hear anything? You said you go to sleep. Where you go? And who go?",
-            "uid": "pq_fA6pkS"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604578016538,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604578317546,
-            "string": "You're always conscious, just the matter of what's your conscious of. The exact same you experience the receiving mind and the suppressing mind.",
-            "uid": "jCz5ciQjM"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604578332764,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604578370434,
-            "string": "Where your dream comes from? Your mind - instead of creating thoughts, it's creating the dream.",
-            "uid": "laWS5DrP-"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604578409247,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604578575205,
-                "string": "The day, it creates thoughts based on the stimulate of the external world - we should call it day-mare",
-                "uid": "Fu77MbAtC"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604578419102,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604578496770,
-                "string": "At sleep, it creates dreams - we call them nightmare. It just normally don't receive the information from the external world to influence your suppressing mind.",
-                "uid": "zOuRRLS1B"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604578370431,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604578409250,
-            "string": "During the day, your mind does the exact samething it does at night",
-            "uid": "rjWctlXxh"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604578194486,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604578607756,
-            "string": "Just because the mind creates social-acceptable things, doesn't mean it is the truth.",
-            "uid": "9rqV04-i-"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604578785687,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604578815462,
-                "string": "Some body tell you will call you at 10 P.M. But now is 10:15 P.M, what your mind do? ",
-                "uid": "Z4l03VA6J"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604578679143,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604578779545,
-            "string": "Not all the thoughts are positive and constructive.",
-            "uid": "daOIg9yM7"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -33786,5 +34095,26 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604578325197,
     "title": "the suppressing mind"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604580046934,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604580046935,
+    "title": "Podcasts"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604580187479,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604580187480,
+    "title": "Videos"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604580301156,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604580301157,
+    "title": "consuming"
   }
 ]

@@ -1,8 +1,24 @@
-- [[Metadata]]
+- Books
     - Author::
     - URL::
-    - Status:: 
-    - Tags::
+    - Status::
+    - Tags:: #Books
+- Articles
+    - Author::
+    - URL::
+    - Status::
+    - Tags:: #Articles
+- Podcasts
+    - Author::
+    - URL::
+    - Status::
+    - Tags:: #Podcasts
+- Videos
+    - Author::
+    - URL::
+    - Status::
+    - Tags:: #Videos
+- 
 - [[deeper understanding]]
     - Free-thoughts::
     - Summary::
@@ -11,11 +27,6 @@
     - New awareness::
     - Expanding questions::
 - Inbox
-- Tag types
-    - #Articles
-    - #Projects
-    - #[[Audio Books]]
-    - #Books
 - [[types of information blocks]]
     - real life application
     - definition
