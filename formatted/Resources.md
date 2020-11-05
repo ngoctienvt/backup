@@ -13,6 +13,8 @@
 - Audio Books
     - [Audio Book - The untethered soul lecture series](<Audio Book - The untethered soul lecture series.md>)
     - [Audio - Michael Singer's teachings](<Audio - Michael Singer's teachings.md>)
+- Podcast
+    - [Podcast - It's your mind. Regain your kingdom](<Podcast - It's your mind. Regain your kingdom.md>)
 - Courses
     - [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - Entertaiment

@@ -1,0 +1,31 @@
+- **[Author](<Author.md>):** Michael Singer
+- Raw data
+    - There are many stages on evolution, growth, liberation.
+        - First is realize you are not your mind, but the one who watch your mind. This is the first awakening.
+            - As long as you don't know you're not your mind or your car, you will not get out.
+            - You have a mind - a thought-generating machine. The mind can quiet and stop creating thoughts. Just like a lake don't create wave, a vaccum don't suck. 
+            - It's a state that thoughts are not created, it's just stop its fuction. 
+            - When the mind in a stillness state, you will know you're not your thought.
+    - Meeting someone on their car. And you told them to your house. But they can't get out. Car is an instrument, a gift
+    - When you sleep, do you hear anything? You said you go to sleep. Where you go? And who go?
+        - You go to sleep mean that 
+            - you withdraw out of the part of the mind that receiving the information of the world from the senses - [the receiving mind](<the receiving mind.md>)
+            - and go to the subconscious mind - [the suppressing mind](<the suppressing mind.md>)
+                - where dream comes from
+                - where you store the things that you don't want to have on conscious mind
+                - It's the part of the room that you don't want to look at. If you're willing to look at, there will be no subconscious.
+            - Wish-fulfillment dream
+                - You want a bicycle and dream having the experience of have a bicycle.
+    - You're always conscious, just the matter of what's your conscious of. The exact same you experience the receiving mind and the suppressing mind.
+    - Where your dream comes from? Your mind - instead of creating thoughts, it's creating the dream.
+    - During the day, your mind does the exact samething it does at night
+        - The day, it creates thoughts based on the stimulate of the external world - we should call it day-mare
+        - At sleep, it creates dreams - we call them nightmare. It just normally don't receive the information from the external world to influence your suppressing mind.
+    - Just because the mind creates social-acceptable things, doesn't mean it is the truth.
+    - Not all the thoughts are positive and constructive.
+        - Some body tell you will call you at 10 P.M. But now is 10:15 P.M, what your mind do? 
+
+# Backlinks
+## [Resources](<Resources.md>)
+- [Podcast - It's your mind. Regain your kingdom](<Podcast - It's your mind. Regain your kingdom.md>)
+

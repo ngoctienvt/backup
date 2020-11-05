@@ -22,6 +22,9 @@
     - The way I'm talking is more about myself rather than that person. I'm trying to at least have benefits for myself and protect these benefits first. I don't want to do, to spend my effort without any sure compensation back. [need for reciprocal](<need for reciprocal.md>)
 - I noticed that before I try to bring the output to other people, I need to work on myself perfectly first, as I'm the one who I could support first and will be the person who tests my own idea and intention. 
 
-This kind of thinking will create a smaller boundary that helps me to focus easier and will work more effectively. [self-experiment](<self-experiment.md>)
-- I’m narrowing myself so that I could focus more on the moment instead of thinking too much about what is not ready to emerge yet. By narrow to focus to support and experiment only in one person, that is me. I could learn to make my life become an example and check the actual usage of what I want to do and have my own feedback first. 
-- 
+This kind of thinking will create a smaller boundary that helps me to focus easier and will work more effectively. [self-experiment](<self-experiment.md>) I’m narrowing myself so that I could focus more on the moment instead of thinking too much about what is not ready to emerge yet. By narrow to focus to support and experiment only in one person, that is me. I could learn to make my life become an example and check the actual usage of what I want to do and have my own feedback first. 
+- [experience indigestion](<experience indigestion.md>) is what happens for me and people nowadays as we have been in a loop of seeking
+    - experiences to satisfy ourselves
+    - incapable of digest past experiences
+    - seek external experiences to solve inner sick-being
+    - incapable of stand back and enjoy everything
