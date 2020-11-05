@@ -11,7 +11,7 @@
 - 
 - For the [[goal-clarification]], I feel that the way I write randomly is not structure properly, so there will be a step to restructure it in an proper way
     - It's very important to have [[zoom-out point of view]] instead of zoom-in too much to the tools 
-    - The [[end goals]] need to be clarify clearly
+    - The [[end goal]] need to be clarify clearly
         - The tools and methods or anything that I feel I should do or want to do need to be put in a way 
             - that does not hinder my focus on now and the end goals
         - Organizing or merging them in a way that I feel integrating and just working on them instead of splitting myself into different directions
@@ -29,4 +29,9 @@ This kind of thinking will create a smaller boundary that helps me to focus easi
     - seek external experiences to solve inner sick-being
     - incapable of stand back and enjoy everything
 - It felt good that I learned so much things in much deeper way when I take note the teaching of my teacher, Michael Singer. It didn't feel alien, but rather start to connect deeper to myself and deepen my understanding in a structural and clearer way. [[network note-taking]]
-- 
+- My [[workplace]] for working on my current work need to be a place that
+    - I can store all of my current half-work and I can return to it any time.
+    - I have a clear [[workflow]] to handle the work by breaking it down and clarify what's not clear or anything, instead of feeling stuck, but feeling knows what I need to do to progress. And the workplace need to be able to store all of my half-work.
+    - I can easily connect and put the answer or my complete work to store in its proper way.
+    - 
+    - 

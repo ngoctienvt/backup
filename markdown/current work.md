@@ -1,4 +1,0 @@
-- {{[[TODO]]}} Build my [[workflow]] with the support of [[journaling]], [[integration]], [[learning]] or experiencing.
-- {{[[TODO]]}} [[unattachment centering]] with leaning back to seat of consciousness
-    - consistent zoom-out viewpoint
-    - accepting and honoring the impersonal reality

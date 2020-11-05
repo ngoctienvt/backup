@@ -3,7 +3,7 @@
 ## [Closing the transformational gap](<Closing the transformational gap.md>)
 - [means](<means.md>)
 
-- For example: what we aim to will be the [end goals](<end goals.md>), but [the transformational gap](<the transformational gap.md>) is too big that we need to find some [intermediary goals](<intermediary goals.md>) so we can move forward and upgrade ourselves in the process. [means](<means.md>)
+- For example: what we aim to will be the [end goal](<end goal.md>), but [the transformational gap](<the transformational gap.md>) is too big that we need to find some [intermediary goals](<intermediary goals.md>) so we can move forward and upgrade ourselves in the process. [means](<means.md>)
 
 - Most clients can only see their [intermediary goals](<intermediary goals.md>) and focus too much to the [means](<means.md>)
 

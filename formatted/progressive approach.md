@@ -64,7 +64,7 @@ That's maybe the reason why I'm very hard to master anything, but need to go thr
 
 - [progressive approach](<progressive approach.md>)
 
-- My understanding for [approach](<approach.md>) provide the way I want to achieve my [end goals](<end goals.md>). If I want to go from HCM to HN, I want to have a [progressive approach](<progressive approach.md>)
+- My understanding for [approach](<approach.md>) provide the way I want to achieve my [end goal](<end goal.md>). If I want to go from HCM to HN, I want to have a [progressive approach](<progressive approach.md>)
 
 - [ ] building [progressive approach](<progressive approach.md>)
 

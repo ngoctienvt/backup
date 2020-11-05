@@ -292,7 +292,7 @@ span.rm-page-ref {
             - Ctrl + Shift + O
             - Shift + Click
         - Using filters to search your growing database
-            - To search a cluster of things that I want to look for with no need to keep them in a hierarchy organization. Be able to search or group what I want is the most important reason for why I want to have a hierarchy organization. [[end goals]]
+            - To search a cluster of things that I want to look for with no need to keep them in a hierarchy organization. Be able to search or group what I want is the most important reason for why I want to have a hierarchy organization. [[end goal]]
             - To focus more on what I want to focus at the moment
         - Todos and Task management
             - Control + Enter to create a todo

@@ -53,7 +53,7 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [bottom-up approach](<bottom-up approach.md>)
 - work on [integration](<integration.md>)
 
-## [current work](<current work.md>)
+## [current working](<current working.md>)
 - [ ] Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>),
 
 ## [natural progression](<natural progression.md>)

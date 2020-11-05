@@ -18,5 +18,5 @@
 - The development of students depends on their own [intention](<intention.md>) and goals, and these things are not fixed but changed continuously. It means that they will not get stuck with the [tools](<tools.md>)
 
 ## [focus on what matters](<focus on what matters.md>)
-- [focus on what matters](<focus on what matters.md>) are holding focus onto [end goals](<end goals.md>) and aware that [tools](<tools.md>)
+- [focus on what matters](<focus on what matters.md>) are holding focus onto [end goal](<end goal.md>) and aware that [tools](<tools.md>)
 

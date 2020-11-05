@@ -6,7 +6,7 @@
 I will be presence myself to interact with them as a whole, not to use them to interact with my inner [samskaras](<samskaras.md>).
         - The second coach skills I want to focus is [deep listening](<deep listening.md>). It's about make room for clients to express their inner environment and understand their inner situation, instead of listen to give solutions.
         - Without [deep listening](<deep listening.md>) to understand the clients, how could I support them to navigate through their inner environments, to see them clearly and to empower them to handle their stuffs, so that they can achieve what they truly want. 
-        - [true freedom](<true freedom.md>) and [true happiness](<true happiness.md>) are what everyone want, every goal if I look deeply, it only based on two things [end goals](<end goals.md>)
+        - [true freedom](<true freedom.md>) and [true happiness](<true happiness.md>) are what everyone want, every goal if I look deeply, it only based on two things [end goal](<end goal.md>)
         - One is the inner samskaras so that we could satisfy its need
             - Two is the inner shakti that feed you with tremendous happiness, joy, peace, and you want to express it outside to raise the external moments up.
 - I will focus on learning [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>) next week, so that I could learn to use Roam more effectively, and get input to build my [journaling training](<journaling training.md>) as well.

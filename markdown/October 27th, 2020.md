@@ -50,7 +50,7 @@ where they are]] through the [[coaching reflection]] skills. When reflection, we
 - My [[coaching questions]] also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [[deep listening]].
 - I w.
 - [[The relationship of approach, method, and technique]]
-    - [[end goals]]
+    - [[end goal]]
         - An [[approach]] is a way to achieve the goal, and it needs to be based on something that efficient and useful.  [[approach]] 
             - My approach would means that the preferred way to achieve something, and it needs to be efficient and useful and focus on the important thing or end goals. So the above of level of approach would be the end goal. [[credible approach]]
         - [[method]] is the level at which theory is put into practice and at which choices are made about the particular skills to be taught, the content to be taught, and the order in which the content will be presented;
@@ -85,7 +85,7 @@ where they are]] through the [[coaching reflection]] skills. When reflection, we
     - ![Hình ảnh](https://pbs.twimg.com/media/ElMpy6iXYAQ9nES?format=jpg&name=4096x4096)
     - 
 - [[my quotes]] If we don't evolve enough to handle our heart, we can't handle life. Because life will always touch our heart.
-- My understanding for [[approach]] provide the way I want to achieve my [[end goals]]. If I want to go from HCM to HN, I want to have a [[progressive approach]] that helped me to reach my destination in an effortless and natural way.
+- My understanding for [[approach]] provide the way I want to achieve my [[end goal]]. If I want to go from HCM to HN, I want to have a [[progressive approach]] that helped me to reach my destination in an effortless and natural way.
     - [[method]] are the way that I actual use based on the context provided by [[approach]]. For above example, I can go by foot with a map. Or I can go by any other vehicles. I just need to develop the process to make sure I will reach my goal.
         - [[techniques]] are the way that I can improve for myself to execute the [[method]] in a better way. Like I develop a technique to go by foot without feel tired.
         - [[activities]] are the action that I do to ensure I help me reach my goal, and it is develop based on the method.

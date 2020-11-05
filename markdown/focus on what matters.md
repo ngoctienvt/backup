@@ -1,3 +1,3 @@
-- [[what matters]] or [[end goals]] are the intention that I make clear in the beginning or intentional adjusting in the process, not the tools or the method I have and grow an [[attachment]] with them.
-- [[focus on what matters]] are holding focus onto [[end goals]] and aware that [[tools]] or [[method]] are just a means to make the process of achieving [[end goals]] become easier and more effective.
+- [[what matters]] or [[end goal]] are the intention that I make clear in the beginning or intentional adjusting in the process, not the tools or the method I have and grow an [[attachment]] with them.
+- [[focus on what matters]] are holding focus onto [[end goal]] and aware that [[tools]] or [[method]] are just a means to make the process of achieving [[end goal]] become easier and more effective.
 - 

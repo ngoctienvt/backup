@@ -22,7 +22,7 @@
     - right way
     - right place
     - right time
-- When I reading the talk about the state of boardgame, I feel that people still focus on the problem and try to fix that problem, instead of focusing on what they truly want, and work their way through that with creativity, provoking ideas, expanding self-development. [[end goals]] 
+- When I reading the talk about the state of boardgame, I feel that people still focus on the problem and try to fix that problem, instead of focusing on what they truly want, and work their way through that with creativity, provoking ideas, expanding self-development. [[end goal]] 
 - [[development management]] is the term that I start to see the system that I want to build for myself, so that it will nurture my grow naturally and just keep rolling.
 - It felt so satisfied that I noticed when after certain period of times, especially near what I used to with. My brain will start to tell me that it’s my limitation, that I should take a rest, that it’s okay to stop here. The whole point is I’m easy to be deceived by this thoughts that based on my past experiences, instead of I’m the one who check whether I want to stop or not, so that I could make my [[conscious choice]]. [[naive]] [[inner thoughts]] [[give up thoughts]]
 - My highest [[priority]] now is being able to enjoy the moment, enjoy doing nothing instead of always follow the inner thougths, and inner urge. I need to be comfortable to [[centering on the seat of awareness]] so that I could develop my next stage of development is [[unattachment centering]].

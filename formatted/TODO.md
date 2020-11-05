@@ -71,7 +71,7 @@
 ## [clean up fleeting notes](<clean up fleeting notes.md>)
 - {{[TODO](<TODO.md>)}
 
-## [current work](<current work.md>)
+## [current working](<current working.md>)
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

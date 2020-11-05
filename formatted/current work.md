@@ -1,4 +1,0 @@
-- [ ] Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>), [learning](<learning.md>) or experiencing.
-- [ ] [unattachment centering](<unattachment centering.md>) with leaning back to seat of consciousness
-    - consistent zoom-out viewpoint
-    - accepting and honoring the impersonal reality

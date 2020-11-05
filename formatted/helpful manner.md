@@ -21,7 +21,7 @@ Instead of looking at I'm not enough because this is the fact already, I can use
 - behaviors - [helpful manner](<helpful manner.md>)
 
 ## [October 1st, 2020](<October 1st, 2020.md>)
-- I noticed that I have a big desire to support other people to become better and that makes me want to share I know, what I find out to support them. But sometimes I focus too much on the process of sharing and forget the [end goals](<end goals.md>) are not sharing, but how helpful they are with them and how they can utilize it to become better. [helpful manner](<helpful manner.md>)
+- I noticed that I have a big desire to support other people to become better and that makes me want to share I know, what I find out to support them. But sometimes I focus too much on the process of sharing and forget the [end goal](<end goal.md>) are not sharing, but how helpful they are with them and how they can utilize it to become better. [helpful manner](<helpful manner.md>)
 
 ## [October 21st, 2020](<October 21st, 2020.md>)
 compassion and caring for other people in an [helpful manner](<helpful manner.md>).

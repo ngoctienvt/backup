@@ -11,6 +11,6 @@
 
 - We are always in the process of master something, either conscious or unconscious, either positive or negative, either good at doing something or avoiding something [mastery](<mastery.md>) [learning](<learning.md>)
 
-## [current work](<current work.md>)
+## [current working](<current working.md>)
 - [ ] Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>), [learning](<learning.md>)
 

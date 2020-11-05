@@ -6,3 +6,8 @@
     - develop a wisdom to stop listening to [[limiting thoughts]]
     - focus on single-tasking
     - 
+- {{[[TODO]]}} Build my [[workflow]] with the support of [[journaling]], [[integration]], [[learning]] or experiencing.
+    - My workflow will need to cover my entire day of working in a natural way.
+- {{[[TODO]]}} [[unattachment centering]] with leaning back to seat of consciousness
+    - consistent zoom-out viewpoint
+    - accepting and honoring the impersonal reality

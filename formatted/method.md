@@ -28,7 +28,7 @@ If we are able to [establishing the seat of awareness](<establishing the seat of
 - When reading [Surat Shabd Yoga](<Surat Shabd Yoga.md>), it's very helpful for me to realize that the furthest what I learned can bring me is to release other things that I believe in, but then the last thing I need to do as well is release even what brought me to there. Just like the raft can help me navigate all the ways through seas, rivers, challenges, but in the end, I need to let go of it so I can reach the final destination. [letting go](<letting go.md>) [techniques](<techniques.md>) [practices](<practices.md>) [method](<method.md>)
 
 ## [focus on what matters](<focus on what matters.md>)
-- [focus on what matters](<focus on what matters.md>) are holding focus onto [end goals](<end goals.md>) and aware that [tools](<tools.md>) or [method](<method.md>)
+- [focus on what matters](<focus on what matters.md>) are holding focus onto [end goal](<end goal.md>) and aware that [tools](<tools.md>) or [method](<method.md>)
 
 ## [my quotes](<my quotes.md>)
 -  If we want something, find it directly, don't find something to help you to have it temporarily. [method](<method.md>)

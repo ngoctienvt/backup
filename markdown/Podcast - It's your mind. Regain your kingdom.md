@@ -48,4 +48,4 @@ Like if you have a bad dream, you change it to become a better environment for l
         - Fourth, techniques or doing your practices
             - You practice enough so that you could do your work 24/7
             - One should raise the selfish self, just like raise a child.
-            - 
+            - 41:47

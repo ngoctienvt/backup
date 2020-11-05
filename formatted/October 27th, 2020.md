@@ -50,7 +50,7 @@ where they are]] through the [coaching reflection](<coaching reflection.md>) ski
 - My [coaching questions](<coaching questions.md>) also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [deep listening](<deep listening.md>).
 - I w.
 - [The relationship of approach, method, and technique](<The relationship of approach, method, and technique.md>)
-    - [end goals](<end goals.md>)
+    - [end goal](<end goal.md>)
         - An [approach](<approach.md>) is a way to achieve the goal, and it needs to be based on something that efficient and useful.  [approach](<approach.md>) 
             - My approach would means that the preferred way to achieve something, and it needs to be efficient and useful and focus on the important thing or end goals. So the above of level of approach would be the end goal. [credible approach](<credible approach.md>)
         - [method](<method.md>) is the level at which theory is put into practice and at which choices are made about the particular skills to be taught, the content to be taught, and the order in which the content will be presented;
@@ -85,7 +85,7 @@ where they are]] through the [coaching reflection](<coaching reflection.md>) ski
     - ![Hình ảnh](https://pbs.twimg.com/media/ElMpy6iXYAQ9nES?format=jpg&name=4096x4096)
     - 
 - [my quotes](<my quotes.md>) If we don't evolve enough to handle our heart, we can't handle life. Because life will always touch our heart.
-- My understanding for [approach](<approach.md>) provide the way I want to achieve my [end goals](<end goals.md>). If I want to go from HCM to HN, I want to have a [progressive approach](<progressive approach.md>) that helped me to reach my destination in an effortless and natural way.
+- My understanding for [approach](<approach.md>) provide the way I want to achieve my [end goal](<end goal.md>). If I want to go from HCM to HN, I want to have a [progressive approach](<progressive approach.md>) that helped me to reach my destination in an effortless and natural way.
     - [method](<method.md>) are the way that I actual use based on the context provided by [approach](<approach.md>). For above example, I can go by foot with a map. Or I can go by any other vehicles. I just need to develop the process to make sure I will reach my goal.
         - [techniques](<techniques.md>) are the way that I can improve for myself to execute the [method](<method.md>) in a better way. Like I develop a technique to go by foot without feel tired.
         - [activities](<activities.md>) are the action that I do to ensure I help me reach my goal, and it is develop based on the method.
