@@ -23,6 +23,9 @@ I'm on the process to learn to lean myself away from my inner stuff and my inner
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - I'm on a [transition stage](<transition stage.md>) that shift myself from the imposing structure of social to comeback to [unattachment centering](<unattachment centering.md>)
 
+## [November 5th, 2020](<November 5th, 2020.md>)
+- I felt that my practice for [unattachment centering](<unattachment centering.md>)
+
 ## [October 20th, 2020](<October 20th, 2020.md>)
 - I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [unattachment centering](<unattachment centering.md>)
 
