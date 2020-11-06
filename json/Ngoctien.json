@@ -4878,12 +4878,30 @@
                 "uid": "nYxqRH1ow"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604658824188,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604658824188,
+                    "string": "It is** realizing the moment in front of you would exist with or without you,** ",
+                    "uid": "cFhgl6CmI"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604649341284,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604658824193,
+                    "string": "and **at the same time, understanding that engaging with the moment allows you to step into the flow of the universe.**",
+                    "uid": "fuVau8s7w"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604649341284,
+                "create-time": 1604658821625,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604651974559,
-                "string": "**Inner clarity** is about **waking up to both the reality and the miracle of the moment.** It is** realizing the moment in front of you would exist with or without you,** and **at the same time, understanding that engaging with the moment allows you to step into the flow of the universe.**",
-                "uid": "fuVau8s7w"
+                "edit-time": 1604658821625,
+                "string": "[[inner clarity]] is about **waking up to both the reality and the miracle of the moment.** ",
+                "uid": "-K2vKvxQ9"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -35950,5 +35968,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604633308673,
     "title": "process goal"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604658804389,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604658804390,
+    "title": "inner clarity"
   }
 ]
