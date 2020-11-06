@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Metadata](<Metadata.md>)
-- [deeper understanding](<deeper understanding.md>)
-
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - I felt that my whole life is about finding and learning the way to live instead of focus too much on the detail of things. [deeper understanding](<deeper understanding.md>)
 
@@ -31,6 +28,9 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 
 ## [September 30th, 2020](<September 30th, 2020.md>)
 If the person only learns from what others teach them, they can't have their own solidify [basic foundation](<basic foundation.md>) and [deeper understanding](<deeper understanding.md>)
+
+## [Templates](<Templates.md>)
+- [deeper understanding](<deeper understanding.md>)
 
 ## [bottom-up approach](<bottom-up approach.md>)
 - Developing [deeper understanding](<deeper understanding.md>)

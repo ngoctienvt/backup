@@ -18,6 +18,15 @@
     - **[URL](<URL.md>):**
     - **[Status](<Status.md>):**
     - **[Tags](<Tags.md>):** [Videos](<Videos.md>)
+- Process to achieve [personal end goals](<personal end goals.md>)
+    - Identify - What is my end goal
+    - Reason - Why I want to achieve this goal
+    - Diagnose - Identify "what is" before "what to do"
+        - Breakdown the levels
+        - Identify the blockages
+    - Design the way to achieve the end goal based on the diagnose
+    - Execution in reality
+    - Review and optimize the whole process with an feedback loop system 
 - 
 - [deeper understanding](<deeper understanding.md>)
     - **[Free-thoughts](<Free-thoughts.md>):**
@@ -26,7 +35,7 @@
     - **[New insights](<New insights.md>):**
     - **[New awareness](<New awareness.md>):**
     - **[Expanding questions](<Expanding questions.md>):**
-- Inbox
+- 
 - [types of information blocks](<types of information blocks.md>)
     - real life application
     - definition

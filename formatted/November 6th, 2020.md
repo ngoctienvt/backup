@@ -2,4 +2,21 @@
 - Now today I will work on what will be my process to achieve my [personal end goals](<personal end goals.md>) by closing the gap progressively and not feel stuck.
     - The [bottom-up approach](<bottom-up approach.md>) is about how I could create [optimal conditions](<optimal conditions.md>) and [design for emergence](<design for emergence.md>) of wisdom. 
     - While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>), then break it down to become the things that I just need to clarify and to work on by the support of [bottom-up approach](<bottom-up approach.md>).
-    - 
+- It seems like my process to achieve my [personal end goals](<personal end goals.md>) are
+    - Identify - What is my end goal
+    - Reason - Why I want to achieve this goal
+    - Diagnose 
+        - Identify "what is" before "what to do"
+            - Breakdown the levels
+            - Identify the blockages
+    - Design the way to achieve the end goal based on the diagnose
+    - Execution in reality
+    - Review and optimize the whole process with an feedback loop system 
+- There will be a different [stages of development](<stages of development.md>)
+    - Testing / Experimenting
+    - Optimizing / Refining
+    - Generalizing
+- I tend to try to the final step that is generalizing too much, and this makes me include all of the above stages that makes me feel overwhelming, while there is actually different stage to focus on. The reason is I'm not developing the ability to [breakdown](<breakdown.md>) things into small things. 
+
+It's like playing puzzle but always try to have the big picture but didn't see that in order to have the big pictures, the fragment need to be on their place first. [seeing the process](<seeing the process.md>)
+- 

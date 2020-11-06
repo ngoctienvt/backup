@@ -7,17 +7,35 @@
             - I will have [unattachment centering](<unattachment centering.md>) if I have
                 - a process or way of living to consistently nurture [unattachment centering](<unattachment centering.md>)
                     - I will have a process to nurture [unattachment centering](<unattachment centering.md>) consistently if I have
-                        - What is required to have unattachment centering?
-                            - a willpower to follow and nurture the habit to follow the process
-                                - the strong desire and clear reason to why I want unattachment centering
-                            - knowing clearly how to climb up the [levels of unattachment centering](<levels of unattachment centering.md>)
-                            - a feedback system to review and optimize the process
-                        - What is the [levels of unattachment centering](<levels of unattachment centering.md>) development?
-                            - awareness that we are not the thoughts and the emotions and
-                            - learn to detach and stop addict to involve with the mind and the emotions
-                            - consistently relax and let go any attachment that notice 
-                            - establish a state that never leave the seat of awareness
-                        - What block us to achieve unattachment centering? 
+                        - ### What is required to have unattachment centering? 
+                            - develop and nurture a willpower to follow and nurture the habit to follow the process - WHY
+                                - the strong desire to achieve the end goal
+                                    - clear reason to why I want unattachment centering
+                            - develop a process to climb up the [levels of unattachment centering](<levels of unattachment centering.md>) - HOW
+                                - remembering who we are - 1st
+                                    - listening to Michael Singer podcast
+                                    - maintaining the practices
+                                    - acknowledge the truth through self-evidence
+                                - practicing the detachment and cure the habit to listen to the mind - 2nd
+                                    - journal to external the thoughts and the emotions - help to create the distance 
+                                    - meditation to willfully detach - practice for self-detach
+                                - practing letting go external attachment and develop the attachment with the self - 3rd
+                                    - meditation
+                                    - relax, release and repeat 
+                            - develop the procedure to implement the process of practicing in daily basis
+                                - When will I practice the 1st stage?
+                                - When will I practice the 2nd stage?
+                                - And the third?
+                            - a feedback system to review and optimize the process - FEEDBACK LOOP
+                        - ### What is the [levels of unattachment centering](<levels of unattachment centering.md>) development? - IDENTIFY THE LEARNING LEVELS
+                            - 1st - awareness that we are not the thoughts and the emotions - TRAINING
+                            - 2nd - learn to detach and stop addict to involve with the mind and the emotions 
+                            - 3rd - consistently relax and let go any attachment that notice 
+                            - Measure of success:
+                                - establish a state that never leave the seat of awareness and keep the relax in daily basis
+                                - able to unattachment with anything
+                                - identify or attach only with the self (and the shakti?)
+                        - ### What is blocking us to achieve unattachment centering? - IDENTIFY THE BLOCKAGES
                             - the habit-formed will that addict to listen to the mind and the emotions
                             - the desire and willingness is not strong enough to pull me out of the mind and to direct myself to higher desire
                             - the need for short-term pleasure
@@ -41,6 +59,11 @@
 - Now today I will work on what will be my process to achieve my [personal end goals](<personal end goals.md>)
 
 - While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>),
+
+- It seems like my process to achieve my [personal end goals](<personal end goals.md>)
+
+## [Templates](<Templates.md>)
+- Process to achieve [personal end goals](<personal end goals.md>)
 
 ## [workflow](<workflow.md>)
 - Clarify [personal end goals](<personal end goals.md>)

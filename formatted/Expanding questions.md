@@ -24,10 +24,6 @@
 
 - However, will there be  a different level of processed thoughts is another [Expanding questions](<Expanding questions.md>)?
 
-## [Metadata](<Metadata.md>)
-- **[New awareness](<New awareness.md>):**
-    - **[Expanding questions](<Expanding questions.md>):**
-
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
 
@@ -41,6 +37,10 @@
 
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - [Expanding questions](<Expanding questions.md>)
+
+## [Templates](<Templates.md>)
+- **[New awareness](<New awareness.md>):**
+    - **[Expanding questions](<Expanding questions.md>):**
 
 ## [compressed process](<compressed process.md>)
 - resolving [Expanding questions](<Expanding questions.md>)

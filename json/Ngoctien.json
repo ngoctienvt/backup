@@ -31068,6 +31068,82 @@
         "uid": "vhtvqpIOU"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630763947,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630763946,
+            "string": "Identify - What is my end goal",
+            "uid": "ex1Zj_O4Y"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630763946,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630763946,
+            "string": "Reason - Why I want to achieve this goal",
+            "uid": "dS-M9a5eD"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604630763946,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604630763946,
+                "string": "Breakdown the levels",
+                "uid": "Z_Xuyr5U3"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604630763946,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604630763946,
+                "string": "Identify the blockages",
+                "uid": "DgzBzF9Gw"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630763946,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630794445,
+            "string": "Diagnose - Identify \"what is\" before \"what to do\"",
+            "uid": "RXQ96raHN"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630763946,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630763946,
+            "string": "Design the way to achieve the end goal based on the diagnose",
+            "uid": "0PoU75vwW"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630763946,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630763946,
+            "string": "Execution in reality",
+            "uid": "U4IUREycP"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630763946,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630763946,
+            "string": "Review and optimize the whole process with an feedback loop system ",
+            "uid": "5wDZ6MGey"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604630765392,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604630784316,
+        "string": "Process to achieve [[personal end goals]]",
+        "uid": "hBh5A-l9A"
+      },
+      {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604580178556,
         "edit-email": "ngoctienvt@gmail.com",
@@ -31137,8 +31213,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604326210378,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604580210686,
-        "string": "Inbox",
+        "edit-time": 1604631687164,
+        "string": "",
         "uid": "ZZJZXdAbO"
       },
       {
@@ -31203,8 +31279,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604326314240,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604326314240,
-    "title": "Metadata"
+    "edit-time": 1604631665350,
+    "title": "Templates"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -33347,14 +33423,6 @@
             "edit-time": 1604627804252,
             "string": "While [[top-down approach]] will start mainly with my [[personal end goals]], then break it down to become the things that I just need to clarify and to work on by the support of [[bottom-up approach]].",
             "uid": "CM58HLQC8"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604627804249,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604627804249,
-            "string": "",
-            "uid": "_C-Z_0Gkj"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -33363,6 +33431,142 @@
         "edit-time": 1604627609855,
         "string": "Now today I will work on what will be my process to achieve my [[personal end goals]] by closing the gap progressively and not feel stuck.",
         "uid": "qclkeAW_J"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630332794,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630613134,
+            "string": "Identify - What is my end goal",
+            "uid": "Fnji0B_Mr"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630340287,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630615448,
+            "string": "Reason - Why I want to achieve this goal",
+            "uid": "zAs0Cm0S_"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604630562472,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604630570377,
+                    "string": "Breakdown the levels",
+                    "uid": "NWXP-oo5P"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604630570374,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604630588289,
+                    "string": "Identify the blockages",
+                    "uid": "P1yBnMWll"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604630457097,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604630476770,
+                "string": "Identify \"what is\" before \"what to do\"",
+                "uid": "oUteGn0b4"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630359622,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630394438,
+            "string": "Diagnose ",
+            "uid": "woYWCAd60"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630476768,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630524098,
+            "string": "Design the way to achieve the end goal based on the diagnose",
+            "uid": "blypvED0C"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630524095,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630625325,
+            "string": "Execution in reality",
+            "uid": "hYXgWUauE"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604630526599,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604630662986,
+            "string": "Review and optimize the whole process with an feedback loop system ",
+            "uid": "OiNG0cCqH"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604627804249,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604630332796,
+        "string": "It seems like my process to achieve my [[personal end goals]] are",
+        "uid": "_C-Z_0Gkj"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604631252222,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604631262098,
+            "string": "Testing / Experimenting",
+            "uid": "M6iEVrSmE"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604631264463,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604631275130,
+            "string": "Optimizing / Refining",
+            "uid": "w35F5forZ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604631278815,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604631281762,
+            "string": "Generalizing",
+            "uid": "Zj4lXSjUR"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604631226674,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604631252225,
+        "string": "There will be a different [[stages of development]]",
+        "uid": "Evmxw8gQ0"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604631441080,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604631635104,
+        "string": "I tend to try to the final step that is generalizing too much, and this makes me include all of the above stages that makes me feel overwhelming, while there is actually different stage to focus on. The reason is I'm not developing the ability to [[breakdown]] things into small things. \n\nIt's like playing puzzle but always try to have the big picture but didn't see that in order to have the big pictures, the fragment need to be on their place first. [[seeing the process]]",
+        "uid": "B9b6D03ST"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604631577686,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604631577686,
+        "string": "",
+        "uid": "1rg8SNkup"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -34258,43 +34462,176 @@
                                   {
                                     "children": [
                                       {
+                                        "children": [
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604628842600,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629110143,
+                                            "string": "clear reason to why I want unattachment centering",
+                                            "uid": "ZUFhdc5xt"
+                                          }
+                                        ],
                                         "create-email": "ngoctienvt@gmail.com",
-                                        "create-time": 1604628842600,
+                                        "create-time": 1604629094240,
                                         "edit-email": "ngoctienvt@gmail.com",
-                                        "edit-time": 1604628870457,
-                                        "string": "the strong desire and clear reason to why I want unattachment centering",
-                                        "uid": "ZUFhdc5xt"
+                                        "edit-time": 1604629103833,
+                                        "string": "the strong desire to achieve the end goal",
+                                        "uid": "b2ZtwPu7O"
                                       }
                                     ],
                                     "create-email": "ngoctienvt@gmail.com",
                                     "create-time": 1604627977429,
                                     "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1604628958583,
-                                    "string": "a willpower to follow and nurture the habit to follow the process",
+                                    "edit-time": 1604629236797,
+                                    "string": "develop and nurture a willpower to follow and nurture the habit to follow the process - WHY",
                                     "uid": "Maufyng_o"
                                   },
                                   {
+                                    "children": [
+                                      {
+                                        "children": [
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604629610799,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629620700,
+                                            "string": "listening to Michael Singer podcast",
+                                            "uid": "U9hiSlpqT"
+                                          },
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604629620695,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629628777,
+                                            "string": "maintaining the practices",
+                                            "uid": "zJcQar8pN"
+                                          },
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604629628774,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629659156,
+                                            "string": "acknowledge the truth through self-evidence",
+                                            "uid": "IMdbK6rPV"
+                                          }
+                                        ],
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629552421,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629610802,
+                                        "string": "remembering who we are - 1st",
+                                        "uid": "SxMl5UJrj"
+                                      },
+                                      {
+                                        "children": [
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604629301311,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629756468,
+                                            "string": "journal to external the thoughts and the emotions - help to create the distance ",
+                                            "uid": "D1OsTEI-T"
+                                          },
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604629304481,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629736127,
+                                            "string": "meditation to willfully detach - practice for self-detach",
+                                            "uid": "HskOLbGk0"
+                                          }
+                                        ],
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629653184,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629696425,
+                                        "string": "practicing the detachment and cure the habit to listen to the mind - 2nd",
+                                        "uid": "ks-Ahz6i3"
+                                      },
+                                      {
+                                        "children": [
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604629758208,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629823174,
+                                            "string": "meditation",
+                                            "uid": "ja9V2OFk4"
+                                          },
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1604629817987,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1604629831380,
+                                            "string": "relax, release and repeat ",
+                                            "uid": "LkRB0QsA8"
+                                          }
+                                        ],
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629807289,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629812245,
+                                        "string": "practing letting go external attachment and develop the attachment with the self - 3rd",
+                                        "uid": "2Z7Zu-FGt"
+                                      }
+                                    ],
                                     "create-email": "ngoctienvt@gmail.com",
                                     "create-time": 1604628870454,
                                     "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1604628977430,
-                                    "string": "knowing clearly how to climb up the [[levels of unattachment centering]]",
+                                    "edit-time": 1604629551012,
+                                    "string": "develop a process to climb up the [[levels of unattachment centering]] - HOW",
                                     "uid": "ztM4udufE"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629920872,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629933818,
+                                        "string": "When will I practice the 1st stage?",
+                                        "uid": "eQofSQyCT"
+                                      },
+                                      {
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629933816,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629942521,
+                                        "string": "When will I practice the 2nd stage?",
+                                        "uid": "p8FkidNQH"
+                                      },
+                                      {
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629942519,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629951748,
+                                        "string": "And the third?",
+                                        "uid": "L13h7pokT"
+                                      }
+                                    ],
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1604629891722,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1604629919805,
+                                    "string": "develop the procedure to implement the process of practicing in daily basis",
+                                    "uid": "EbqPAvGEb"
                                   },
                                   {
                                     "create-email": "ngoctienvt@gmail.com",
                                     "create-time": 1604628919656,
                                     "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1604628983680,
-                                    "string": "a feedback system to review and optimize the process",
+                                    "edit-time": 1604629155411,
+                                    "string": "a feedback system to review and optimize the process - FEEDBACK LOOP",
                                     "uid": "gPty9gTx4"
                                   }
                                 ],
                                 "create-email": "ngoctienvt@gmail.com",
                                 "create-time": 1604628315912,
                                 "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1604629056343,
-                                "string": "What is required to have unattachment centering?",
+                                "edit-time": 1604629162758,
+                                "heading": 3,
+                                "string": "What is required to have unattachment centering? ",
                                 "uid": "88trU7FyX"
                               },
                               {
@@ -34303,40 +34640,67 @@
                                     "create-email": "ngoctienvt@gmail.com",
                                     "create-time": 1604628485720,
                                     "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1604628514539,
-                                    "string": "awareness that we are not the thoughts and the emotions and",
+                                    "edit-time": 1604629570607,
+                                    "string": "1st - awareness that we are not the thoughts and the emotions - TRAINING",
                                     "uid": "zaxaqjSdf"
                                   },
                                   {
                                     "create-email": "ngoctienvt@gmail.com",
                                     "create-time": 1604628536543,
                                     "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1604628536543,
-                                    "string": "learn to detach and stop addict to involve with the mind and the emotions",
+                                    "edit-time": 1604629579454,
+                                    "string": "2nd - learn to detach and stop addict to involve with the mind and the emotions ",
                                     "uid": "UglW_Pimc"
                                   },
                                   {
                                     "create-email": "ngoctienvt@gmail.com",
                                     "create-time": 1604628554210,
                                     "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1604628595284,
-                                    "string": "consistently relax and let go any attachment that notice ",
+                                    "edit-time": 1604629582512,
+                                    "string": "3rd - consistently relax and let go any attachment that notice ",
                                     "uid": "iNK6zZLu2"
                                   },
                                   {
+                                    "children": [
+                                      {
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604628560785,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629452948,
+                                        "string": "establish a state that never leave the seat of awareness and keep the relax in daily basis",
+                                        "uid": "f3_xtYSKS"
+                                      },
+                                      {
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629416439,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629444199,
+                                        "string": "able to unattachment with anything",
+                                        "uid": "mJee2RkQe"
+                                      },
+                                      {
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1604629456601,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1604629481829,
+                                        "string": "identify or attach only with the self (and the shakti?)",
+                                        "uid": "P0RXzZrYw"
+                                      }
+                                    ],
                                     "create-email": "ngoctienvt@gmail.com",
-                                    "create-time": 1604628560785,
+                                    "create-time": 1604629414376,
                                     "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1604628581438,
-                                    "string": "establish a state that never leave the seat of awareness",
-                                    "uid": "f3_xtYSKS"
+                                    "edit-time": 1604629414376,
+                                    "string": "Measure of success:",
+                                    "uid": "3QkiD9zeP"
                                   }
                                 ],
                                 "create-email": "ngoctienvt@gmail.com",
                                 "create-time": 1604628389127,
                                 "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1604628778132,
-                                "string": "What is the [[levels of unattachment centering]] development?",
+                                "edit-time": 1604629195988,
+                                "heading": 3,
+                                "string": "What is the [[levels of unattachment centering]] development? - IDENTIFY THE LEARNING LEVELS",
                                 "uid": "FIiiDBL-Z"
                               },
                               {
@@ -34377,8 +34741,9 @@
                                 "create-email": "ngoctienvt@gmail.com",
                                 "create-time": 1604628401079,
                                 "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1604629020925,
-                                "string": "What block us to achieve unattachment centering? ",
+                                "edit-time": 1604629182600,
+                                "heading": 3,
+                                "string": "What is blocking us to achieve unattachment centering? - IDENTIFY THE BLOCKAGES",
                                 "uid": "lQRvzJSTW"
                               }
                             ],
@@ -34543,5 +34908,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604628778135,
     "title": "levels of unattachment centering"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604631252225,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604631252227,
+    "title": "stages of development"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604631632925,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604631632928,
+    "title": "seeing the process"
   }
 ]

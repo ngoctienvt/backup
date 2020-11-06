@@ -18,6 +18,15 @@
     - URL::
     - Status::
     - Tags:: #Videos
+- Process to achieve [[personal end goals]]
+    - Identify - What is my end goal
+    - Reason - Why I want to achieve this goal
+    - Diagnose - Identify "what is" before "what to do"
+        - Breakdown the levels
+        - Identify the blockages
+    - Design the way to achieve the end goal based on the diagnose
+    - Execution in reality
+    - Review and optimize the whole process with an feedback loop system 
 - 
 - [[deeper understanding]]
     - Free-thoughts::
@@ -26,7 +35,7 @@
     - New insights::
     - New awareness::
     - Expanding questions::
-- Inbox
+- 
 - [[types of information blocks]]
     - real life application
     - definition
