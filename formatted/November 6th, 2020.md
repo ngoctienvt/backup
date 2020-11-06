@@ -47,4 +47,5 @@ It's like playing puzzle but always try to have the big picture but didn't see t
     - showing my short-form sharing like facebook status
     - sharing my deep and concise articles about certain things
     - showing a part of my personal life or personal self
-    - 
+- I felt so [angry](<angry.md>) when I know that people don't seriously do the task that I give them. I felt that my effort is wasted. This is a personal part that I need to let go first. Then I will know what I want to work with them tomorrow.
+-  
