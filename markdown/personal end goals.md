@@ -1,8 +1,27 @@
 - My highest looping goal are soul evolution or generating higher-self every moments.
 - Current [[end goal]]
-    - Developing way to nurture ability to detach with emotions and thoughts
+    - Developing way of living to nurture [[unattachment centering]]
         - Externalize thoughts and emotions
         - Merging their mind to live one life solution
+        - Free thoughts:
+            - I will have [[unattachment centering]] if I have
+                - a process or way of living to consistently nurture [[unattachment centering]]
+                    - I will have a process to nurture [[unattachment centering]] consistently if I have
+                        - What is required to have unattachment centering?
+                            - a willpower to follow and nurture the habit to follow the process
+                                - the strong desire and clear reason to why I want unattachment centering
+                            - knowing clearly how to climb up the [[levels of unattachment centering]]
+                            - a feedback system to review and optimize the process
+                        - What is the [[levels of unattachment centering]] development?
+                            - awareness that we are not the thoughts and the emotions and
+                            - learn to detach and stop addict to involve with the mind and the emotions
+                            - consistently relax and let go any attachment that notice 
+                            - establish a state that never leave the seat of awareness
+                        - What block us to achieve unattachment centering? 
+                            - the habit-formed will that addict to listen to the mind and the emotions
+                            - the desire and willingness is not strong enough to pull me out of the mind and to direct myself to higher desire
+                            - the need for short-term pleasure
+                            - the unwillingness to experience the pain
     - Developing a system and process for higher thinking and wisdom development
         - evergreen knowledge
         - systematic thinking in a truthful and helpful way

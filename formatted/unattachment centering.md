@@ -72,6 +72,15 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [interests](<interests.md>)
 - relationship - [true love](<true love.md>) [deep connection](<deep connection.md>) [unattachment](<unattachment.md>) [unattachment centering](<unattachment centering.md>)
 
+## [personal end goals](<personal end goals.md>)
+- Developing way of living to nurture [unattachment centering](<unattachment centering.md>)
+
+- I will have [unattachment centering](<unattachment centering.md>)
+
+- a process or way of living to consistently nurture [unattachment centering](<unattachment centering.md>)
+
+- I will have a process to nurture [unattachment centering](<unattachment centering.md>)
+
 ## [trueself competency](<trueself competency.md>)
 - [unattachment centering](<unattachment centering.md>)
 

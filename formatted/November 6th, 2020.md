@@ -1,1 +1,5 @@
-- Link: https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/ {{[∆](<∆.md>):3+2}}
+- I slowly completed my picture. I already somehow developed my [journey of wisdom](<journey of wisdom.md>). It is the process that I will digest external knowledge and self-realization to transform them to my wisdom and share it to the world.
+- Now today I will work on what will be my process to achieve my [personal end goals](<personal end goals.md>) by closing the gap progressively and not feel stuck.
+    - The [bottom-up approach](<bottom-up approach.md>) is about how I could create [optimal conditions](<optimal conditions.md>) and [design for emergence](<design for emergence.md>) of wisdom. 
+    - While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>), then break it down to become the things that I just need to clarify and to work on by the support of [bottom-up approach](<bottom-up approach.md>).
+    - 

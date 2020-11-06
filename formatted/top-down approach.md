@@ -15,6 +15,9 @@
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [top-down approach](<top-down approach.md>)[
 
+## [November 6th, 2020](<November 6th, 2020.md>)
+- While [top-down approach](<top-down approach.md>)
+
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - When I thought about how I could learn from the [top-down approach](<top-down approach.md>),
 

@@ -29,6 +29,11 @@
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
 - Francis Bacon’s scientific method, first introduced in the 17th century, was a bottom-up, networked approach to building scientific understanding. [bottom-up approach](<bottom-up approach.md>)
 
+## [November 6th, 2020](<November 6th, 2020.md>)
+- The [bottom-up approach](<bottom-up approach.md>)
+
+- While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>), then break it down to become the things that I just need to clarify and to work on by the support of [bottom-up approach](<bottom-up approach.md>).
+
 ## [TODO](<TODO.md>)
 - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [bottom-up approach](<bottom-up approach.md>)
 

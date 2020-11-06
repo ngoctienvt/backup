@@ -1,0 +1,1 @@
+- Link: https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/ {{[[∆]]:5+2}}
