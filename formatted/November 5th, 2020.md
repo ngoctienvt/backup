@@ -8,7 +8,6 @@
 - My today focus will be
     - Continue to build up my workflow process
     - Clearing my thoughts about what I'm aiming to do now
-- 
 - For the [goal-clarification](<goal-clarification.md>), I feel that the way I write randomly is not structure properly, so there will be a step to restructure it in an proper way
     - It's very important to have [point of view](<point of view.md>) instead of zoom-in too much to the tools 
     - The [end goal](<end goal.md>) need to be clarify clearly

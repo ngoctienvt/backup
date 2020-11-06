@@ -32756,14 +32756,6 @@
         "uid": "Yp5TRlIAo"
       },
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604544098419,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604553534606,
-        "string": "",
-        "uid": "-VMK8ybtg"
-      },
-      {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
@@ -33561,11 +33553,111 @@
         "uid": "B9b6D03ST"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604632739017,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604634114774,
+            "string": "Process is the way to execute and implement the stage of development.",
+            "uid": "bw7ZpKXvY"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604633361368,
+                "string": "Product goals focus on the destination while process goals focus on the journey.",
+                "uid": "QD-rB5Rkx"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604633361368,
+                "string": "Product goals tend to be short-term but process goals tend to be long-term.",
+                "uid": "hAwzyB4Ol"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604633361368,
+                "string": "Product goals are project-oriented while process goals are designed to build habits.",
+                "uid": "KBGQjqXXf"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604633361368,
+                "string": "Product goals stick to firm deadlines while process goals stick to consistent routines.",
+                "uid": "MGSvtZNf4"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604633361368,
+                "string": "Product goals define success by the completion of great work.",
+                "uid": "FkZsfMjv8"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604633369512,
+                "string": "By contrast, **process goals define success as growth in one\u2019s skills and abilities.**",
+                "uid": "lAezDF3Qu"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604633158900,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604633308670,
+            "string": "**Process goals**, on the other hand, are all about the process. They are about doing the right thing, regardless of the outcome, knowing that the right activities will lead you to ultimate victory. [[process goal]]",
+            "uid": "MsvMRraGh"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604634189774,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604634207976,
+                    "string": "Therefore, a process to move forward this goal continuously is very important.",
+                    "uid": "4EH9rpuyt"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604634168901,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604634189776,
+                "string": "For example, untether soul is a very big end goal and need to maintain continuously",
+                "uid": "znHWvW2WA"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604633372142,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604634168904,
+            "string": "Something related to a very big end goal like a way of living will need to have a process that optimize continuously",
+            "uid": "nsPbGCq5_"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604634207974,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604634313369,
+            "string": "I don't need to care much about the smaller goal though, just need to include it in the bigger end goal and then it will complete naturally.",
+            "uid": "ddgH8fi5f"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604634313367,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604634313367,
+            "string": "",
+            "uid": "9mBPk3cuP"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604631577686,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604631577686,
-        "string": "",
+        "edit-time": 1604634120843,
+        "string": "The relationship between a process and a stage of development or end goal is ",
         "uid": "1rg8SNkup"
       }
     ],
@@ -34922,5 +35014,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604631632928,
     "title": "seeing the process"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604633308672,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604633308673,
+    "title": "process goal"
   }
 ]

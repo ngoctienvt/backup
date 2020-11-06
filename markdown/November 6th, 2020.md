@@ -19,4 +19,17 @@
 - I tend to try to the final step that is generalizing too much, and this makes me include all of the above stages that makes me feel overwhelming, while there is actually different stage to focus on. The reason is I'm not developing the ability to [[breakdown]] things into small things. 
 
 It's like playing puzzle but always try to have the big picture but didn't see that in order to have the big pictures, the fragment need to be on their place first. [[seeing the process]]
-- 
+- The relationship between a process and a stage of development or end goal is 
+    - Process is the way to execute and implement the stage of development.
+    - **Process goals**, on the other hand, are all about the process. They are about doing the right thing, regardless of the outcome, knowing that the right activities will lead you to ultimate victory. [[process goal]]
+        - Product goals focus on the destination while process goals focus on the journey.
+        - Product goals tend to be short-term but process goals tend to be long-term.
+        - Product goals are project-oriented while process goals are designed to build habits.
+        - Product goals stick to firm deadlines while process goals stick to consistent routines.
+        - Product goals define success by the completion of great work.
+        - By contrast, **process goals define success as growth in one’s skills and abilities.**
+    - Something related to a very big end goal like a way of living will need to have a process that optimize continuously
+        - For example, untether soul is a very big end goal and need to maintain continuously
+            - Therefore, a process to move forward this goal continuously is very important.
+    - I don't need to care much about the smaller goal though, just need to include it in the bigger end goal and then it will complete naturally.
+    - 
