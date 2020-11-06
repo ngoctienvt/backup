@@ -3,6 +3,11 @@
 - 
 
 # Backlinks
+## [November 6th, 2020](<November 6th, 2020.md>)
+- My main concern when I'm looking for [Webflow](<Webflow.md>) is I don't want to spend much time to worry about hosting, maintaining, and dealing with security stuff. I want a system that I can trust and rely on and just work on the important stuff instead. [focus on what matters](<focus on what matters.md>)
+
+- Other is the fear of lacking features. I felt that I could just let it go, as I didn't even develop my habit to show the work yet, I'm thinking too early about the other stuff like how I will make money from this. Money will just a by-prodct. The main focus will be share my work and support other from that work. [focus on what matters](<focus on what matters.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - In order to avoid losing on the method, the tools, the attachments, focus on [end goal](<end goal.md>) [focus on what matters](<focus on what matters.md>)
 

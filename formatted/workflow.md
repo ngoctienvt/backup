@@ -62,3 +62,6 @@
 ## [intention](<intention.md>)
 - have a natural [life flow](<life flow.md>) and [workflow](<workflow.md>)
 
+## [personal end goals](<personal end goals.md>)
+- Developing a [workflow](<workflow.md>)
+

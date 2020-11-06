@@ -19,7 +19,7 @@
 - I tend to try to the final step that is generalizing too much, and this makes me include all of the above stages that makes me feel overwhelming, while there is actually different stage to focus on. The reason is I'm not developing the ability to [[breakdown]] things into small things. 
 
 It's like playing puzzle but always try to have the big picture but didn't see that in order to have the big pictures, the fragment need to be on their place first. [[seeing the process]]
-- The relationship between a process and a stage of development or end goal is 
+- The relationship between a process and a stage of development or end goal is [[the relationship between goal and process]]
     - Process is the way to execute and implement the stage of development.
     - **Process goals**, on the other hand, are all about the process. They are about doing the right thing, regardless of the outcome, knowing that the right activities will lead you to ultimate victory. [[process goal]]
         - Product goals focus on the destination while process goals focus on the journey.
@@ -32,4 +32,8 @@ It's like playing puzzle but always try to have the big picture but didn't see t
         - For example, untether soul is a very big end goal and need to maintain continuously
             - Therefore, a process to move forward this goal continuously is very important.
     - I don't need to care much about the smaller goal though, just need to include it in the bigger end goal and then it will complete naturally.
-    - 
+- I felt that I'm progressing in a good way, and everything just becomes more and more clear on the process. I also start to integrate and develop myself in an exceptional way that I can feel I will learn and master many things when I'm living as a human being on earth. It feels so [[satisfied]] and I just keep letting go anything that makes me can't enjoy the reality.
+-  After today yoga activities, I felt that my [[physical body]] starting to become stronger and can handle more in a natural way.
+- My main concern when I'm looking for [[Webflow]] is I don't want to spend much time to worry about hosting, maintaining, and dealing with security stuff. I want a system that I can trust and rely on and just work on the important stuff instead. [[focus on what matters]]
+    - Some other concern is money. The pricing is now is very high for my usage. I would like to wait until I truly feel that I am ready to commit to show my work to the world consistently and in a natural way. So that I will not drop out like every blog or website that I abandon in the past. [[natural progression]]
+    - Other is the fear of lacking features. I felt that I could just let it go, as I didn't even develop my habit to show the work yet, I'm thinking too early about the other stuff like how I will make money from this. Money will just a by-prodct. The main focus will be share my work and support other from that work. [[focus on what matters]]

@@ -5,4 +5,4 @@
         - mastery of certain tools to achieve certain intention
         - supporting the true self development
     - routine/ habit or work flow
-- 
+- [[personal end goals]]

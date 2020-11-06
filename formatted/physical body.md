@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 6th, 2020](<November 6th, 2020.md>)
+-  After today yoga activities, I felt that my [physical body](<physical body.md>)
+
 ## [October 15th, 2020](<October 15th, 2020.md>)
 - I felt a little cold this morning. My physical body is sensitive with the environment and not able to handle a tough environment yet. [physical body](<physical body.md>)
 

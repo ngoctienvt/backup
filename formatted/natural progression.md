@@ -25,6 +25,9 @@ us. [union experiences](<union experiences.md>)
 
 - The workflow will develop base on my [natural progression](<natural progression.md>)
 
+## [November 6th, 2020](<November 6th, 2020.md>)
+- Some other concern is money. The pricing is now is very high for my usage. I would like to wait until I truly feel that I am ready to commit to show my work to the world consistently and in a natural way. So that I will not drop out like every blog or website that I abandon in the past. [natural progression](<natural progression.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - there is nothing accumulate when working - this is [long-term solutions](<long-term solutions.md>) [natural progression](<natural progression.md>)
 
