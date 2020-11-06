@@ -34995,6 +34995,100 @@
         "edit-time": 1604663963577,
         "string": "My main concern when I'm looking for [[Webflow]] is I don't want to spend much time to worry about hosting, maintaining, and dealing with security stuff. I want a system that I can trust and rely on and just work on the important stuff instead. [[focus on what matters]]",
         "uid": "3cYd-Mceo"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604671658543,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604671686173,
+            "string": "Writing about myself to practice embracing the vulnerable",
+            "uid": "sS5TwCwZN"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604671714239,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604671744620,
+                "string": "https://www.youtube.com/watch?v=7fPZZ-Nv6Eg&ab_channel=NityaAnanta",
+                "uid": "BJIkT8sRK"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604671687340,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604671714159,
+            "string": "Writing my understanding from the lecture of higher people like [[Mooji]].",
+            "uid": "RclIzDv45"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604671838404,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604671838404,
+            "string": "Writing my understanding about the topic that I learn from higher people to help people embrace that understanding, like Where does the moment in front of us come from?",
+            "uid": "ZbuA7QGXr"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604671603157,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604671658546,
+        "string": "I start to have some [[blog ideas]] that I want to express myself on. I still not fully sure that it is soul-guidance or the need of personal mind. But I will leave it here first.",
+        "uid": "niO8DIT5F"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604671744612,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604671893332,
+        "string": "I don't have anything need to fear when I write what I saw from the meditation now, because there are all immature thoughts that will be clarify soon. [[inner clarity]]",
+        "uid": "K8GayDlB-"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604671987570,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604672070162,
+            "string": "showing my short-form sharing like facebook status",
+            "uid": "9ElgwwzaB"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604671893329,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604672031595,
+            "string": "sharing my deep and concise articles about certain things",
+            "uid": "cbRkgdbg2"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604672031591,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604672044535,
+            "string": "showing a part of my personal life or personal self",
+            "uid": "udJ-Akitv"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604672044532,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604672044532,
+            "string": "",
+            "uid": "bT6zeQvCJ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604671966360,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604671966360,
+        "string": "I have some thoughts that I want my [[personal blog]] will be able to",
+        "uid": "OLlEDt2Kj"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -36021,5 +36115,26 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604664017411,
     "title": "the relationship between goal and process"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604671629234,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604671629235,
+    "title": "blog ideas"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604671713356,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604671713358,
+    "title": "Mooji"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604671951596,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604671951597,
+    "title": "personal blog"
   }
 ]

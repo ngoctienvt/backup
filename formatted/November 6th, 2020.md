@@ -37,3 +37,14 @@ It's like playing puzzle but always try to have the big picture but didn't see t
 - My main concern when I'm looking for [Webflow](<Webflow.md>) is I don't want to spend much time to worry about hosting, maintaining, and dealing with security stuff. I want a system that I can trust and rely on and just work on the important stuff instead. [focus on what matters](<focus on what matters.md>)
     - Some other concern is money. The pricing is now is very high for my usage. I would like to wait until I truly feel that I am ready to commit to show my work to the world consistently and in a natural way. So that I will not drop out like every blog or website that I abandon in the past. [natural progression](<natural progression.md>)
     - Other is the fear of lacking features. I felt that I could just let it go, as I didn't even develop my habit to show the work yet, I'm thinking too early about the other stuff like how I will make money from this. Money will just a by-prodct. The main focus will be share my work and support other from that work. [focus on what matters](<focus on what matters.md>)
+- I start to have some [blog ideas](<blog ideas.md>) that I want to express myself on. I still not fully sure that it is soul-guidance or the need of personal mind. But I will leave it here first.
+    - Writing about myself to practice embracing the vulnerable
+    - Writing my understanding from the lecture of higher people like [Mooji](<Mooji.md>).
+        - https://www.youtube.com/watch?v=7fPZZ-Nv6Eg&ab_channel=NityaAnanta
+    - Writing my understanding about the topic that I learn from higher people to help people embrace that understanding, like Where does the moment in front of us come from?
+- I don't have anything need to fear when I write what I saw from the meditation now, because there are all immature thoughts that will be clarify soon. [inner clarity](<inner clarity.md>)
+- I have some thoughts that I want my [personal blog](<personal blog.md>) will be able to
+    - showing my short-form sharing like facebook status
+    - sharing my deep and concise articles about certain things
+    - showing a part of my personal life or personal self
+    - 
