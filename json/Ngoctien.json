@@ -17339,6 +17339,72 @@
         "edit-time": 1604493092472,
         "string": "Workflow activities",
         "uid": "FeJ6bzr77"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604665311001,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604665311001,
+        "string": "Identify - What is my end goal",
+        "uid": "b9uXWJNfU"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604665311001,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604665311001,
+        "string": "Reason - Why I want to achieve this goal",
+        "uid": "fC7iNQ9mD"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604665311001,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604665311001,
+            "string": "Breakdown the levels",
+            "uid": "6xeV7vZMl"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604665311001,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604665311001,
+            "string": "Identify the blockages",
+            "uid": "ceWE8_enq"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604665311001,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604665311001,
+        "string": "Diagnose - Identify \"what is\" before \"what to do\"",
+        "uid": "6SROAsGpI"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604665311001,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604665311001,
+        "string": "Design the way to achieve the end goal based on the diagnose",
+        "uid": "eyuMGalfL"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604665311001,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604665311001,
+        "string": "Execution in reality",
+        "uid": "M1rSbtG1S"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604665311001,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604665311001,
+        "string": "Review and optimize the whole process with an feedback loop system ",
+        "uid": "xFPojkv6V"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
