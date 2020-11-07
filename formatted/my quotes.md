@@ -16,6 +16,9 @@ If we decide everything will make us happy, anything makes us not happy will be 
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - [my quotes](<my quotes.md>)
 
+## [November 7th, 2020](<November 7th, 2020.md>)
+- [my quotes](<my quotes.md>)
+
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - [my quotes](<my quotes.md>)
 

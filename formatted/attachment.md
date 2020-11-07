@@ -7,6 +7,9 @@
 
 - [attachment](<attachment.md>)
 
+## [November 7th, 2020](<November 7th, 2020.md>)
+- I noticed that I unconsciously easy to attach with the tools or methods that I found or invested on. This is not a good habit, because it will hinder me to what I truly want and get stuck by the tools. It became the tools shape me, instead of I shape myself. [attachment](<attachment.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - I felt that there are some people make me feel want to support them more than normal people. I'm not so sure why but I feel that I want to see them better. Somehow there is a connection between me and them, and their happiness will influence my happiness [attachment](<attachment.md>),
 

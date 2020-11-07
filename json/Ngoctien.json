@@ -32765,6 +32765,14 @@
           },
           {
             "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604729841700,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604729854220,
+            "string": "Support system (tools, ...)",
+            "uid": "-qjKyAB_e"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604630763946,
             "edit-email": "ngoctienvt@gmail.com",
             "edit-time": 1604630763946,
@@ -34235,28 +34243,56 @@
         "uid": "qQlIJj1rf"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604728905194,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604729651617,
+            "string": "[[my quotes]] [[influence]]\nWe - the witness consciouss must be the one who shape ourselves and the one who solely we attach with. \n\nIt's not we shape the environment, and the environment shapes us. It's about we are being ourselves, and the environment is being itself. \n\nWe exist inter-related but independent at the same time.",
+            "uid": "_axLnp7pt"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604715133633,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604715133633,
-        "string": "",
+        "edit-time": 1604729522374,
+        "string": "I noticed that I unconsciously easy to attach with the tools or methods that I found or invested on. This is not a good habit, because it will hinder me to what I truly want and get stuck by the tools. It became the tools shape me, instead of I shape myself. [[attachment]]",
         "uid": "3SGS-ZJ3C"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604715133918,
+        "create-time": 1604728900794,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604715133918,
-        "string": "",
-        "uid": "iNAU7mBX7"
+        "edit-time": 1604729924526,
+        "string": "I feel so thankful when I found out [[Nick Milo]]. He helped me to realize my attachments and whether Roam or Obsidian, I will stop to care about the tools yet. I will identify what I truly want, how would be my process to work on it, then I will be considered the tool later. The tools are just [[support system]] that I will look for after I already have inner clarity, not the attachment by the samskaras that give me short-term pleasure.",
+        "uid": "qBGHDdKLX"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604715136764,
+        "create-time": 1604729960299,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604715136764,
-        "string": "",
-        "uid": "Xfcblsdf6"
+        "edit-time": 1604729974665,
+        "string": "[[Articles - The Potential Side Effects of Progressive Summarization]]",
+        "uid": "jMZDh9htk"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604731434458,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604731434458,
+            "string": "",
+            "uid": "-N3h6pag8"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604729829184,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604731433344,
+        "string": "[[Map of Contents]]",
+        "uid": "MrBNoNUNE"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -36502,5 +36538,268 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604671951597,
     "title": "personal blog"
+  },
+  {
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604728943981,
+    "title": "Roam/Comments"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604729723432,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604729723439,
+    "title": "Nick Milo"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604729980450,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604729982677,
+        "string": "Link: https://medium.com/@nickmilo22/why-progressive-summarization-must-die-c2635d1f79f1",
+        "uid": "mGAG5BjG2"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730011598,
+            "string": "\u201cProgressive Summarization\u201d should more accurately be called \u201cJust in Time Summarization\u201d",
+            "uid": "Um1in9_xu"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730011598,
+            "string": "\u201cProgressive Summarization\u201d aids in creating a false sense of achievement.",
+            "uid": "NLf7ryugW"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730011598,
+            "string": "\u201cProgressive Summarization\u201d doesn\u2019t encourage fresh, insightful thinking.",
+            "uid": "wqVGvHPdi"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730011598,
+            "string": "\u201cProgressive Summarization\u201d doesn\u2019t build a dynamic digital library.",
+            "uid": "AaSm-Lbwt"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730011598,
+            "string": "Too much spent on this form of \u201cJust in Time\u201d \u201cProgressive Summarization\u201d steals time that you could have spent towards developing ideas and creating lasting value.",
+            "uid": "2wSXGEQcC"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730011598,
+        "heading": 2,
+        "string": "In summary\u2026",
+        "uid": "m3BbsmTcl"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730026602,
+        "heading": 1,
+        "string": "A Different Way to Spend the Same Thing",
+        "uid": "UH1oaPTuf"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730026602,
+            "string": "What if there was a better way to spend your thinking time?",
+            "uid": "w8iJ5h5VV"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730026602,
+            "string": "What if there was a better way to create value?",
+            "uid": "f_ySVBqmV"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730026602,
+            "string": "What if you could help to re-balance the ratio of your regurgitative thinking to your more independent thinking?",
+            "uid": "qPmEPRPP1"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730026602,
+            "string": "What if you could\u00a0__compound__\u00a0**__your__**\u00a0thinking efforts over time?",
+            "uid": "0kfa1FHcv"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730026602,
+        "string": "What if instead of spending time practicing \u201cJust in Time\u201d Summarization, you spent the same amount of time developing your own nuanced thoughts to the ideas you encounter?",
+        "uid": "a0M9VMXI8"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730026602,
+        "string": "SIMULTANEOUS, RELATIONAL IDEATION is the way to spend time in a high-value activity that encourages your own independent, connective thinking \u2014 and grows with you deep into the future.",
+        "uid": "ngT70xDbM"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730046380,
+        "heading": 1,
+        "string": "What is Active Ideation?",
+        "uid": "WBQJXVNDc"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730046379,
+        "string": "**__\u201cProgressive Summarization\u201d__**\u00a0is: \u201cCollect, Collect more, Bold, Bold, Bold, Collect, Collect more, Highlight the bolds, Highlight the Highlights, Collect, Collect, Summarize a tiny bit, Rewrite an even tinier bit. Collect more.\u201d",
+        "uid": "3cZWNaLak"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730046380,
+            "string": "Highlight/Comment/Relate",
+            "uid": "h4WQ1ONBM"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604730046380,
+            "string": "Create/Connect/Create",
+            "uid": "0R8vVfZ1G"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730046380,
+        "string": "**__Active Ideation__**\u00a0is:",
+        "uid": "UzzlC2oMG"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730058695,
+        "string": "As you read, you\u2019re actively engaged. You make\u00a0**highlights**\u00a0and\u00a0**comments**\u00a0as you go \u2014 and you\u2019re not afraid to think in the back of your mind:\u00a0__\u201cHow does this\u00a0__**__relate__**__?\u201d__",
+        "uid": "OZhITG_7w"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730058694,
+        "string": "Later, with an equally engaged mind, you\u00a0**create**\u00a0new notes from the highlights and comments, or you\u00a0**connect**\u00a0an idea with an already existing note \u2014 and you continue to\u00a0**create**\u00a0all sorts of dynamically related and growing ideas.",
+        "uid": "0c178AFTQ"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604730079852,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730080263,
+        "string": "Active Ideation says:\u00a0**__be an active, engaged participant in the conversation, extract ideas into your own words as early in the process as you can, and start developing your own take on them, while linking them to others \u2014 and over the years your compounded value will explode.__**",
+        "uid": "G75gv_kqR"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604730080842,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604730080842,
+        "string": "",
+        "uid": "1fr-K6Dju"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604729974666,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604729974667,
+    "title": "Articles - The Potential Side Effects of Progressive Summarization"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604731445313,
+            "string": "Tag-like: It groups the links of associated notes in a non-exclusive way. (The notes themselves live freely elsewhere.)",
+            "uid": "sG89CHrjT"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604731445313,
+            "string": "Folder-like: It assembles notes in a tightly-packed grouping.",
+            "uid": "N4IMgK69R"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604731445313,
+            "string": "Proximity: It grants you the ability to deliberately position each note in relation to the other notes.",
+            "uid": "fUkjin-TA"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604731445313,
+        "string": "An MOC is just a note \u2014 a very special type of note. It uses proximity effectively and acts like a tag and a non-exclusive folder at the same time.",
+        "uid": "X51mgqh4x"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604731787427,
+            "string": "Using MOCs is like being in your own warehouse full of workbenches, where each workbench contains a selection of highly curated index cards for you to engage with.",
+            "uid": "zAMAsizyK"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604731787427,
+                "string": "MOCs are Evergreen notes, just at the next level of emergence.",
+                "uid": "JVtVJN2uf"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604731787427,
+                "string": "In an MOC, the party is always happening. It\u2019s the \u201croom where it happens.\u201d Individual notes can \u201cshadow-clone\u201d themselves and essentially be in multiple parties simultaneous \u2014 interacting and developing complexity from each party at the same time!",
+                "uid": "y8k1k2_v0"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604731787427,
+            "string": "Another way to consider MOCs is through emergence.",
+            "uid": "pKIVo2O_Z"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604731798555,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604731807220,
+        "string": "Map of contents's metaphor",
+        "uid": "KixkzDkLt"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604731747507,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604731751383,
+            "string": "The highest-level of your zettelkasten / digital library. It has links to the main MOCs in your library along with your most relevant tags.",
+            "uid": "Y28R1K6pq"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604731738410,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604731739888,
+        "string": "A Home Note",
+        "uid": "EcFpjVetg"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604731433346,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604731433348,
+    "title": "Map of Contents"
   }
 ]

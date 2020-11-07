@@ -26,6 +26,7 @@
         - Identify the blockages
     - Design the way to achieve the end goal based on the diagnose
     - Execution in reality
+    - Support system (tools, ...)
     - Review and optimize the whole process with an feedback loop system 
 - 
 - [deeper understanding](<deeper understanding.md>)

@@ -1,0 +1,28 @@
+- Link: https://medium.com/@nickmilo22/why-progressive-summarization-must-die-c2635d1f79f1
+- ## In summary…
+    - “Progressive Summarization” should more accurately be called “Just in Time Summarization”
+    - “Progressive Summarization” aids in creating a false sense of achievement.
+    - “Progressive Summarization” doesn’t encourage fresh, insightful thinking.
+    - “Progressive Summarization” doesn’t build a dynamic digital library.
+    - Too much spent on this form of “Just in Time” “Progressive Summarization” steals time that you could have spent towards developing ideas and creating lasting value.
+- # A Different Way to Spend the Same Thing
+- What if instead of spending time practicing “Just in Time” Summarization, you spent the same amount of time developing your own nuanced thoughts to the ideas you encounter?
+    - What if there was a better way to spend your thinking time?
+    - What if there was a better way to create value?
+    - What if you could help to re-balance the ratio of your regurgitative thinking to your more independent thinking?
+    - What if you could __compound__ **__your__** thinking efforts over time?
+- SIMULTANEOUS, RELATIONAL IDEATION is the way to spend time in a high-value activity that encourages your own independent, connective thinking — and grows with you deep into the future.
+- # What is Active Ideation?
+- **__“Progressive Summarization”__** is: “Collect, Collect more, Bold, Bold, Bold, Collect, Collect more, Highlight the bolds, Highlight the Highlights, Collect, Collect, Summarize a tiny bit, Rewrite an even tinier bit. Collect more.”
+- **__Active Ideation__** is:
+    - Highlight/Comment/Relate
+    - Create/Connect/Create
+- As you read, you’re actively engaged. You make **highlights** and **comments** as you go — and you’re not afraid to think in the back of your mind: __“How does this __**__relate__**__?”__
+- Later, with an equally engaged mind, you **create** new notes from the highlights and comments, or you **connect** an idea with an already existing note — and you continue to **create** all sorts of dynamically related and growing ideas.
+- Active Ideation says: **__be an active, engaged participant in the conversation, extract ideas into your own words as early in the process as you can, and start developing your own take on them, while linking them to others — and over the years your compounded value will explode.__**
+- 
+
+# Backlinks
+## [November 7th, 2020](<November 7th, 2020.md>)
+- [Articles - The Potential Side Effects of Progressive Summarization](<Articles - The Potential Side Effects of Progressive Summarization.md>)
+

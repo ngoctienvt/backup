@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 7th, 2020](<November 7th, 2020.md>)
+- I feel so thankful when I found out [Nick Milo](<Nick Milo.md>). He helped me to realize my attachments and whether Roam or Obsidian, I will stop to care about the tools yet. I will identify what I truly want, how would be my process to work on it, then I will be considered the tool later. The tools are just [support system](<support system.md>)
+
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - [organic self-generated structure](<organic self-generated structure.md>) [support system](<support system.md>)
 

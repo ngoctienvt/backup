@@ -1,0 +1,16 @@
+- An MOC is just a note — a very special type of note. It uses proximity effectively and acts like a tag and a non-exclusive folder at the same time.
+    - Tag-like: It groups the links of associated notes in a non-exclusive way. (The notes themselves live freely elsewhere.)
+    - Folder-like: It assembles notes in a tightly-packed grouping.
+    - Proximity: It grants you the ability to deliberately position each note in relation to the other notes.
+- Map of contents's metaphor
+    - Using MOCs is like being in your own warehouse full of workbenches, where each workbench contains a selection of highly curated index cards for you to engage with.
+    - Another way to consider MOCs is through emergence.
+        - MOCs are Evergreen notes, just at the next level of emergence.
+        - In an MOC, the party is always happening. It’s the “room where it happens.” Individual notes can “shadow-clone” themselves and essentially be in multiple parties simultaneous — interacting and developing complexity from each party at the same time!
+- A Home Note
+    - The highest-level of your zettelkasten / digital library. It has links to the main MOCs in your library along with your most relevant tags.
+
+# Backlinks
+## [November 7th, 2020](<November 7th, 2020.md>)
+- [Map of Contents](<Map of Contents.md>)
+
