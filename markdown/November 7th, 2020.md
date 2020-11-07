@@ -13,4 +13,37 @@ We exist inter-related but independent at the same time.
 - I feel so thankful when I found out [[Nick Milo]]. He helped me to realize my attachments and whether Roam or Obsidian, I will stop to care about the tools yet. I will identify what I truly want, how would be my process to work on it, then I will be considered the tool later. The tools are just [[support system]] that I will look for after I already have inner clarity, not the attachment by the samskaras that give me short-term pleasure.
 - [[Articles - The Potential Side Effects of Progressive Summarization]]
 - [[Map of Contents]]
-    - 
+- [[idea emergence]]
+    - Level 1 
+        - ![Image](https://pbs.twimg.com/media/EkeEdg7UcAE3DML?format=jpg&name=large)
+        - from the nothingness of fleeting thoughts »» 
+to the “somethingness” of a concrete note
+    - Level 2
+        - ![Image](https://pbs.twimg.com/media/EkeFhY_VgAA5HRb?format=jpg&name=900x900)
+        - Notes start to link to other notes. Relationships are formed. This is basic Zettelkasten.
+        - ![Image](https://pbs.twimg.com/media/EkeF4vaVkAE3GzY?format=jpg&name=large)
+        - As we continue making connections, the system starts to come alive, almost naturally evolving itself.
+        - ![Image](https://pbs.twimg.com/media/EkeHM8rU8AUnFmw?format=jpg&name=large)
+        - The beauty of the direct link is that ideas emerge organically. The limitation is that you're always in the forest. 
+
+Very often, you want a birds-eye view of these relationships. That's where EMERGENCE LEVEL 3 begins...
+    - Level 3
+        - The solution is to make higher-order notes—which are just "notes with primarily links to other notes".
+
+Higher-order notes like MOCs (Maps of Content) serve countless purposes...
+        - You can use MOCs to overcome "Mental Squeeze Points" & continue triumphantly w/ your ideas & projects.
+
+Just "Assemble" links to notes in a new MOC. You offload the cognitive burden so you stay in creative Flow
+            - ![Image](https://pbs.twimg.com/media/EkeJSX7U8AA2XmV?format=jpg&name=medium)
+        - But the even more profound and next-level power of MOCs is to USE THEM AS RAPID IDEATION CHAMBERS.
+
+I can't stress the superpower of this enough...
+
+MOCs are IDEATION ACCELERATORS!   
+            - ![Image](https://pbs.twimg.com/media/EkeJb-LVMAEaeoC?format=jpg&name=large)
+        - And yes, most obviously, higher-order notes like MOCs can be used for navigational purposes (hence the "Map" nomenclature).
+            - ![Image](https://pbs.twimg.com/media/EkeKo0nUUAA4JI1?format=jpg&name=medium)
+        - 80%
+            - ![Image](https://pbs.twimg.com/media/EkeQWTRVoAES5K0?format=jpg&name=large)
+    - Level 4
+        - 
