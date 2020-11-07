@@ -116,13 +116,26 @@
         - In our interaction with the outside world, if a physical object comes too close, we instinctively put our hands up to protect ourselves. Can you see that we do the same thing inside with uncomfortable energies emanating from the heart? Can you imagine what it would be like to relax and allow the energies to pass through? What is stopping you?
 - ## Session 6 - The predicament and the spiritual path
     - ### Introduction
+        - In this session, we more fully explore the stored energy patterns from the past (samskaras) that are running your life. Michael explains in detail how these patterns are created and the difficulties they cause. What would happen if you decided to free yourself of these past patterns instead of using life to compensate for them? Once you start becoming serious about your inner work, you will begin to understand the power of a life of surrender.
     - ### Lessons
     - ### Summary
+        - As we have already learned, we have stored patterns inside, which are called samskaras. These patterns are based upon past experiences that we did not let go of, and as a result, they were not able to pass through us. Instead, we either resisted the moment because we did not like it, or we clung to the moment because we did like it. You did this with your own free will.
+        - In this session, we **explored the dynamics of these stored energy patterns and showed how they run your life.** Michael describes this as the predicament we find ourselves in.
+        - **Your mind uses its power of imagination** to create situations and experiences that fit your stored patterns, all **in an attempt to make you feel better.** Basically, you are **either trying to match the energy patterns** you stored inside because it feels better, **or you are attempting to do the opposite and avoid the energy patterns** stored inside. Either way, **whether you are for or against them, these stored patterns are running your life. **This again, is what is meant by the predicament.
+        - We **continue to distract ourselves from ourselves** with new houses, new jobs, new cities, and new relationships **because we are not OK inside. **We try to solve our inner problems with outer things. However, **as we learned, these are inner problems, and therefore they can only be solved inside.**
+        - **You have a choice:** **every single moment of your life**
+            - is either about getting what you want, 
+            - or **letting go of the part of you** that is keeping you from being OK. 
+            - Getting what you want is not going to make you permanently OK. However, you will always be OK if you let go of what is making you think you need something.
+        - **Letting go of the blockages and cleaning out your patterns will set you free.** You free yourself to experience the moment unfolding in front of you, instead of defining what that moment needs to be for you to be OK.
+        - Your entire life changes **when you decide to no longer live for your personal self**, and instead let go of it. When you do this, **your life becomes about the inner energy flow that is set free.** This is the spiritual path. In this session, we began to learn how to live this spiritual path—a life of surrender.
     - ### Reflection questions
 - ## Session 7 - Learning to let go
     - ### Introduction
+        - True spiritual growth is not about getting anything—it is always about letting go. In this session, we will learn that letting go is the highest spiritual path there is. You are absolutely capable of completely freeing yourself from what has you locked in the limits of your habitual thoughts. Michael shows us clear techniques and practices for letting go of what is keeping us from deep inner liberation.
     - ### Lessons
     - ### Summary
+        - 
     - ### Reflection questions
 - ## Session 8 - 
     - ### Introduction

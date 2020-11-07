@@ -13,6 +13,9 @@
 
 - List of noticed [samskaras](<samskaras.md>):
 
+## [November 7th, 2020](<November 7th, 2020.md>)
+- I noticed that I still feel there are some [samskaras](<samskaras.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - I felt that I still have a lot of attach with what's [convenient](<convenient.md>) for me and feel very disturb when they are not in sync, and makes me need to adapt with it. [samskaras](<samskaras.md>)
 
