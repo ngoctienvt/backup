@@ -14,6 +14,7 @@ We exist inter-related but independent at the same time.
 - [[Articles - The Potential Side Effects of Progressive Summarization]]
 - [[Map of Contents]]
 - [[idea emergence]]
+    - https://twitter.com/NickMilo/status/1317190776284086272
     - Level 1 
         - ![Image](https://pbs.twimg.com/media/EkeEdg7UcAE3DML?format=jpg&name=large)
         - from the nothingness of fleeting thoughts »» 
@@ -43,7 +44,32 @@ MOCs are IDEATION ACCELERATORS!
             - ![Image](https://pbs.twimg.com/media/EkeJb-LVMAEaeoC?format=jpg&name=large)
         - And yes, most obviously, higher-order notes like MOCs can be used for navigational purposes (hence the "Map" nomenclature).
             - ![Image](https://pbs.twimg.com/media/EkeKo0nUUAA4JI1?format=jpg&name=medium)
-        - 80%
+        - With your MOCs, you are 80% of the way done to finalized CREATION!
             - ![Image](https://pbs.twimg.com/media/EkeQWTRVoAES5K0?format=jpg&name=large)
     - Level 4
+        - At this next level of emergence: MOCs are linked to MOCs! Instead of a just having living systems (basic Zettelkasten)...
+
+Now we have living ecosystems!
+            - ![Image](https://pbs.twimg.com/media/EkeQ8WAU0AAXYQi?format=jpg&name=large)
+        - This allows you to fly around your note library rapidly, organically getting UNFORCED BEHAVIOR-BASED SPACED REPETITION.
+
+Now you have multiple MOCs that easily communicate and contribute to more fun-to-finalize CREATIONS!
+
+How powerful is that?!
+            - ![Image](https://pbs.twimg.com/media/EkeR-DiVMAErc1K?format=png&name=900x900)
+    - Level 5
+        - Now, we get to the highest level of your Idea Emergence...Your HOME NOTE
+
+It consolidates new higher-order notes w/ older, more mature higher-order notes.
+
+The Home note is the beginning & the end. It is a launchpad & a homebase. It is your North Star.
+            - ![Image](https://pbs.twimg.com/media/EkeStGIVcAAkvcg?format=jpg&name=large)
+        - At this level, your ideas have become like a relatively stable Planetary system. (someone else's PKM would be another planet btw).
+
+It's your "Earth"
+
+"All roads lead to HOME."
+        - The Home note allows for top-down “Convergent” thinking like navigating and deliberate creating.
+
+The Home note allows for bottom-up “Convergent” thinking by consolidating new forms of emergence.
         - 
