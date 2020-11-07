@@ -26,3 +26,7 @@
     - [[setting up for success]] to create [[snowball]]
         - [[positive inner feedback loop]]
     - [[getting in touch with reality]] to [[work at the root]]
+- In your Dynamic Note Mass, what does that look like?
+    - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
+    - Sometimes __top-down__ creates meaning: Index » MOC » Note
+    - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index

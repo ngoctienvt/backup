@@ -26,6 +26,10 @@
     - [setting up for success](<setting up for success.md>) to create [snowball](<snowball.md>)
         - [positive inner feedback loop](<positive inner feedback loop.md>)
     - [getting in touch with reality](<getting in touch with reality.md>) to [work at the root](<work at the root.md>)
+- In your Dynamic Note Mass, what does that look like?
+    - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
+    - Sometimes __top-down__ creates meaning: Index » MOC » Note
+    - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)

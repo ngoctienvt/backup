@@ -12751,6 +12751,32 @@
         "heading": 2,
         "string": "Supportive components:",
         "uid": "QiY2HXTq5"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604758297665,
+            "string": "Sometimes\u00a0__bottoms-up__\u00a0creates meaning:\u00a0Note \u00bb MOC \u00bb Index",
+            "uid": "vUCaBPocn"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604758297665,
+            "string": "Sometimes\u00a0__top-down__\u00a0creates meaning:\u00a0Index \u00bb MOC \u00bb Note",
+            "uid": "fiHjErdr7"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604758297665,
+            "string": "Sometimes\u00a0__middle-out__\u00a0creates meaning:\u00a0MOC \u00bb Note, and\u00a0MOC \u00bb Index",
+            "uid": "bnFW0sww9"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604758297665,
+        "string": "In your Dynamic Note Mass, what does that look like?",
+        "uid": "gNOoQGMZZ"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -27151,12 +27177,22 @@
         "uid": "BGZU_2vsm"
       },
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1603706514284,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603706514284,
-        "string": "",
-        "uid": "1ZCgVPo9L"
+        "edit-time": 1604758259920,
+        "string": "Notes",
+        "uid": "gR-n5bjQF"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604758259920,
+        "string": "Higher-order notes (like MOCs)",
+        "uid": "M0pWfack-"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604758259920,
+        "string": "A top note (like an Index note)",
+        "uid": "7_EV1-YuH"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -37072,6 +37108,52 @@
         "edit-time": 1604731739888,
         "string": "A Home Note",
         "uid": "EcFpjVetg"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604757954052,
+            "string": "**Collect**\u00a0- put related stuff on a new digital workbench",
+            "uid": "pWesqtRAo"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604757954052,
+            "string": "**Craft**\u00a0- have your ideas battle for relational positioning.",
+            "uid": "eri0Hsox3"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604757954052,
+            "string": "**Use\u00a0**- enjoy your new knowledge graph; adding, editing and evolving with time",
+            "uid": "7pvWtI8ZQ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604756690159,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604756694796,
+        "string": "3 phase of MOC",
+        "uid": "HUU6AkV0q"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604757316866,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604757316866,
+            "string": "",
+            "uid": "JbIucMEKQ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604756697144,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604757316870,
+        "string": "[[mental squeeze point]]",
+        "uid": "ddHK31kiV"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -37288,5 +37370,22 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604751196945,
     "title": "idea emergence"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604757328760,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604757329734,
+        "string": "A \"Mental Squeeze Point\" is when your unsorted knowledge becomes so messy it overwhelms and discourages you. Either you are equipped with frameworks to overcome the squeeze point, or you are discouraged and possibly abandon your project. This is usually followed by yet another search for the next app that will make all the difference.",
+        "uid": "gZUPlIMGc"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604757316873,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604757316874,
+    "title": "mental squeeze point"
   }
 ]

@@ -9,6 +9,12 @@
         - In an MOC, the party is always happening. It’s the “room where it happens.” Individual notes can “shadow-clone” themselves and essentially be in multiple parties simultaneous — interacting and developing complexity from each party at the same time!
 - A Home Note
     - The highest-level of your zettelkasten / digital library. It has links to the main MOCs in your library along with your most relevant tags.
+- 3 phase of MOC
+    - **Collect** - put related stuff on a new digital workbench
+    - **Craft** - have your ideas battle for relational positioning.
+    - **Use **- enjoy your new knowledge graph; adding, editing and evolving with time
+- [mental squeeze point](<mental squeeze point.md>)
+    - 
 
 # Backlinks
 ## [November 7th, 2020](<November 7th, 2020.md>)

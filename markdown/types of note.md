@@ -1,3 +1,5 @@
 - [[information blocks]]
 - [[output notes]]
-- 
+- Notes
+- Higher-order notes (like MOCs)
+- A top note (like an Index note)
