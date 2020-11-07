@@ -4,3 +4,5 @@ When I keep letting it go, I start to become much more freedom, less judging and
 
 Life is about learning to embrace, not judging.
 - 
+- 
+- 
