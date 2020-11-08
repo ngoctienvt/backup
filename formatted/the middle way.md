@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 8th, 2020](<November 8th, 2020.md>)
+- And this is also somehow taught me [the middle way](<the middle way.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - The laptop makes me realize that I am trying to get the best instead of getting enough so that the tools will become a supporter rather than a big pressure for me. [the middle way](<the middle way.md>)
 

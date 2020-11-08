@@ -8,6 +8,9 @@
 
 - Other is the fear of lacking features. I felt that I could just let it go, as I didn't even develop my habit to show the work yet, I'm thinking too early about the other stuff like how I will make money from this. Money will just a by-prodct. The main focus will be share my work and support other from that work. [focus on what matters](<focus on what matters.md>)
 
+## [November 8th, 2020](<November 8th, 2020.md>)
+- [built-in feedback loops](<built-in feedback loops.md>) is very important, because it will help me to work what is true, not what seems to be true. What the feedback loops want to feedback me is also important. It needs to [focus on what matters](<focus on what matters.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - In order to avoid losing on the method, the tools, the attachments, focus on [end goal](<end goal.md>) [focus on what matters](<focus on what matters.md>)
 

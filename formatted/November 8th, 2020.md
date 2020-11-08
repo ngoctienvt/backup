@@ -2,6 +2,8 @@
     - ![Info-pyramid](https://forum.obsidian.md/uploads/default/original/2X/f/fc9fd08e9f2c29e537b8ce41dcbf4fa16b08fffa.png)
     - Information -> Inisght -> Knowledge -> Wisdom
     - ![image](https://forum.obsidian.md/uploads/default/original/2X/6/6319a25e71dedae4e55fb15e7f98d682da9312d9.jpeg)
+    - ![](https://forum.obsidian.md/uploads/default/original/2X/e/eb6fc396f10129e836a95b9ee549b506430830a3.jpeg)
+    - ![Innovation process model](https://forum.obsidian.md/uploads/default/original/2X/a/adc7f3ee06e5997cefbe659c6f5ff8596419054c.jpeg)
 - I start to see that my next step is focusing on integrating and producing my value to the world, and I will need [Dương Thị Huyền](<Dương Thị Huyền.md>) to help me communicate my work with the world in a way that it's easy for them to digest with. [current working](<current working.md>)
     - My work will be creating courses, writing articles, books, developing framework, way of thinking, way of working, concepts... My main life will about become a spiritual practitioner with the support roles to serve the world is trainer, coach, thinker,...
     - Her work will be visualizing, developing websites, beautifying, clearing, structuring my work. She will still continue the spiritual path while will learn to become a life coach, a designer, a developer, a person who connect me with the world...
@@ -16,9 +18,18 @@
         - The MOCs will start to develop and could be become the smaller MOC of the emergence of bigger MOC.
     - Note:
         - When MOCs and evergreen notes start to appear, it is where I start to do my main job and I could discard the used data, because they will integrate in these MOCs and evergreen notes. 
-            - Therefore the way I store information before the integration and after integration will be varied. [contextual linking](<contextual linking.md>) [contextual usages](<contextual usages.md>)
+            - Therefore the way I store information before the integration and after integration will be varied. [contextual linking](<contextual linking.md>) [contextual usages](<contextual usages.md>) [soft-boundary](<soft-boundary.md>)
                 - Before that, they can link and tag freely, while after integration, they will be condense and tag properly so that they will become my long-term wisdom.
-        - My knowledge will be develop in a divergence to the middle part, or start to converge from the middle part to other things. My job is learning to flow freely between this middle and be flexible to develop myself.
+                - Filter and query would also be a big thing for the results of those stars that formed and matured after the integration to categorize them. 
+                - I don't need to categorize what below integration, but above it is neccessary.
+                - This is really a good boundary that starts to truly form how I will work on my personal knowledge development. 
+                - And this is also somehow taught me [the middle way](<the middle way.md>) as well. The path here is the balance between foggy and clarity, between hard boundary and no boundary - but soft-boundary.
+        - My knowledge will be developed in divergence to the middle part, or start to converge from the middle part to other things. My job is learning to flow freely between this middle and be flexible to develop myself.
 - My focus for next week will be learning to work on the middle phase of my [personal knowledge development](<personal knowledge development.md>). This phase or stage could be called as [star formation](<star formation.md>) as this is the stage that the star could start to form its civilization or merge with other star to become a bigger star...
+- The [Expanding questions](<Expanding questions.md>) could be consider as [missing pieces](<missing pieces.md>) so that I will spend my time to find and work on it to my own system.
+- [built-in feedback loops](<built-in feedback loops.md>) is very important, because it will help me to work what is true, not what seems to be true. What the feedback loops want to feedback me is also important. It needs to [focus on what matters](<focus on what matters.md>) like understanding instead of collecting, creating value instead of feeling meaningful, moving forward instead of just preparing and watching.
+- When reading the [Book - Extend your mind](<Book - Extend your mind.md>), it's truly interesting to learn how he develops his thinking process and the way he breaks things down to explain it in an easy to digest way. [seeing the process](<seeing the process.md>)
+- The idea of breaking work to smaller batches and measure them by ideas is a way that it breaks thing down to what will actually help us to move forward on the process. [moving forward](<moving forward.md>) is also the most indicator for [built-in feedback loops](<built-in feedback loops.md>) to ensure the progression. It really similars to the way I live and the most helpful thing to ensure me moving forward is the inner cleaning or integrating that cleaning my own samskaras through meditation. 
 - 
+
 - 

@@ -35,6 +35,9 @@
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - It feels quite uncomfortable and not natural to clean up the bottom-up approach. [Expanding questions](<Expanding questions.md>)
 
+## [November 8th, 2020](<November 8th, 2020.md>)
+- The [Expanding questions](<Expanding questions.md>)
+
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - [Expanding questions](<Expanding questions.md>)
 
