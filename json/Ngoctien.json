@@ -37112,29 +37112,91 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604801508004,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604801508896,
+                "string": "(1) [[Habits MOC - Assembling Phase|Assembling Phase]]: Imagine having a warehouse of limitless workbenches, and for each workbench, you curate the notes placed on it. Whenever you feel you need to get a handle on a bunch of notes Subject XYZ,  just throw them all onto a new workbench\u2014i.e. place their links into a new MOC note titled `Subject XYZ MOC`. Now it's easier to begin.",
+                "uid": "w4vKwbCFt"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604800681178,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604757954052,
-            "string": "**Collect**\u00a0- put related stuff on a new digital workbench",
-            "uid": "pWesqtRAo"
+            "edit-time": 1604800681205,
+            "string": "1. **Assembling Phase**: *Collect, Curate, Incubate* - Put related stuff on a new digital workbench.",
+            "uid": "MvKFJRW-8"
           },
           {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604801495171,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604801529864,
+                    "string": "(2b) As you position these related notes, you might naturally form something that looks like a Table of Contents (TOC). TOCs are specific and linear. Depending on the project, you might need one as you get closer to a final product.",
+                    "uid": "_LZkPRV8n"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604801495171,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604801529863,
+                    "string": "**Map of Content = MOC** - Use these as a thinking tool and to structure your digital library",
+                    "uid": "rJ5Yo0fNE"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604801495171,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604801529863,
+                    "string": "**Table of Contents = TOC** - Use these to structure more specific, near-final projects in a single, linear way",
+                    "uid": "TRkFa977N"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604801521110,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604801521841,
+                "string": "(2) [[Habits MOC - Colliding Phase|Colliding Phase]]: Once you have all your ideas in one MOC, use it like a crucible where ideas can battle it out for positioning, forcing you to grind them to their fundamental essence\u2014thinking of their proximal importance to each other and building stronger connective tissue between them. Great work is accomplished during in this conceptual battle royale. The product of this work is rarely one without satisfaction.",
+                "uid": "krH-3wEDR"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604800681178,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604757954052,
-            "string": "**Craft**\u00a0- have your ideas battle for relational positioning.",
-            "uid": "eri0Hsox3"
+            "edit-time": 1604800681205,
+            "string": "2. **Colliding Phase**: *Battle, Collide, Dismember, Combine, Craft, Discover* - Have your ideas battle for relational positioning. This is the most joyous and valuable stage.",
+            "uid": "1hUJwHGAk"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604801495171,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604801535638,
+                "string": "(3) [[Habits MOC|Unifying Phase]]: As you finish work on an area of interest, the MOC remains as a renewable summation of thought for the future you. An MOC is your easy access point back into the topic\u2014whether that's tomorrow or in ten years. ",
+                "uid": "VcVc3rOez"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604800681178,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604757954052,
-            "string": "**Use\u00a0**- enjoy your new knowledge graph; adding, editing and evolving with time",
-            "uid": "7pvWtI8ZQ"
+            "edit-time": 1604800681205,
+            "string": "3. **Unifying Phase**: *Enjoy and Use* - Enjoy the spatial constellation you created out of concepts. It most likely is meaningful to you. Use it for different purposes: for final products (content creation), as a reference point in the future, or for the inherent joy the ideas provide.",
+            "uid": "LukLXdhJH"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604756690159,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604756694796,
-        "string": "3 phase of MOC",
+        "edit-time": 1604801196004,
+        "string": "3 phase of MOCs",
         "uid": "HUU6AkV0q"
       },
       {
@@ -37404,5 +37466,125 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604768552213,
     "title": "November 8th, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604799883973,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604799886777,
+            "string": "LYT stands for \"Linking Your Thinking\". Which is a system of knowledge management based on using links\u2014and especially with using higher-order notes like a Home note and Maps of Content to enhance your thinking. See [[LYT System]].",
+            "uid": "d0-K5TDPi"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604799850784,
+        "heading": 3,
+        "string": "What is the LYT System",
+        "uid": "4Q9QIyJGz"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604799850784,
+            "string": "**The Home note**\u00a0- The Home note can act as your homebase to ground you, and as a launching pad into your note library.",
+            "uid": "O2Kql6jY2"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604799850784,
+            "string": "**Maps of Content**\u00a0(MOCs) - These are like having curated worktables with all your relevant index cards placed on them. MOCs will help you overcome the overwhelming anxiety that can arise from having notes scattered everywhere. More on this later.",
+            "uid": "yiEY7eTZU"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604799850784,
+            "string": "**Other Fluid Frameworks**\u00a0- Adding structure to your notes has gotten a bad rap lately. But if you know how to keep your frameworks fluid, you'll get the best of both worlds: order\u00a0__and__\u00a0chaos; excellent note retrieval\u00a0__and__\u00a0the serendipity of discovery. More on this later.",
+            "uid": "_bZZMS8XE"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604799850784,
+        "string": "LYT provides a framework for your notes. You can find them. You can work with them. And this framework encourages them to grow more valuable over time.",
+        "uid": "HxMN1qGSW"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604799804119,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604799804120,
+    "title": "Linking Your Thinking - LYT"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604799884864,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604799884865,
+    "title": "LYT System"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604800105867,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604800159998,
+        "string": "[[External sources]]",
+        "uid": "z86J-1dCo"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604800426196,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604800431000,
+        "string": "Internal sources",
+        "uid": "mE0BeoKls"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604800430996,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604800430996,
+        "string": "",
+        "uid": "zXvol7L8u"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604799933185,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604799933186,
+    "title": "000 Home"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604800160004,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604800160025,
+    "title": "External sources"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604801495173,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604801495184,
+    "title": "Habits MOC - Assembling Phase|Assembling Phase"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604801495175,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604801495184,
+    "title": "Habits MOC - Colliding Phase|Colliding Phase"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604801495177,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604801495184,
+    "title": "Habits MOC|Unifying Phase"
   }
 ]
