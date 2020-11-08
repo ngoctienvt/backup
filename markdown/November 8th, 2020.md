@@ -1,1 +1,10 @@
+- The [[journey of wisdom]] development will be somehow like this
+    - ![Info-pyramid](https://forum.obsidian.md/uploads/default/original/2X/f/fc9fd08e9f2c29e537b8ce41dcbf4fa16b08fffa.png)
+    - Information -> Inisght -> Knowledge -> Wisdom
+    - ![image](https://forum.obsidian.md/uploads/default/original/2X/6/6319a25e71dedae4e55fb15e7f98d682da9312d9.jpeg)
+- I start to see that my next step is focusing on integrating and producing my value to the world, and I will need [[Dương Thị Huyền]] to help me communicate my work with the world in a way that it's easy for them to digest with. [[current working]]
+    - My work will be creating courses, writing articles, books, developing framework, way of thinking, way of working, concepts... My main life will about become a spiritual practitioner with the support roles to serve the world is trainer, coach, thinker,...
+    - Her work will be visualizing, developing websites, beautifying, clearing, structuring my work. She will still continue the spiritual path while will learn to become a life coach, a designer, a developer, a person who connect me with the world...
+- I also noticed that I have a feeling of satisfy when I have a new insight or making a progress. For me, this is a goal-oriented tendency that I want to release. It's making me easy to satisfy and not leave my best life, it's a [[samskaras]] that I need to work on, so that I could [[self-fulfilled]] by the process instead of the result, by living instead of gaining, by inner fulfill instead of result fulfill.
+- 
 - 

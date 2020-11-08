@@ -16,6 +16,9 @@
 ## [November 7th, 2020](<November 7th, 2020.md>)
 - I noticed that I still feel there are some [samskaras](<samskaras.md>)
 
+## [November 8th, 2020](<November 8th, 2020.md>)
+- I also noticed that I have a feeling of satisfy when I have a new insight or making a progress. For me, this is a goal-oriented tendency that I want to release. It's making me easy to satisfy and not leave my best life, it's a [samskaras](<samskaras.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - I felt that I still have a lot of attach with what's [convenient](<convenient.md>) for me and feel very disturb when they are not in sync, and makes me need to adapt with it. [samskaras](<samskaras.md>)
 
