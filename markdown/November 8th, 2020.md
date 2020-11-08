@@ -30,6 +30,6 @@
 - [[built-in feedback loops]] is very important, because it will help me to work what is true, not what seems to be true. What the feedback loops want to feedback me is also important. It needs to [[focus on what matters]] like understanding instead of collecting, creating value instead of feeling meaningful, moving forward instead of just preparing and watching.
 - When reading the [[Book - Extend your mind]], it's truly interesting to learn how he develops his thinking process and the way he breaks things down to explain it in an easy to digest way. [[seeing the process]]
 - The idea of breaking work to smaller batches and measure them by ideas is a way that it breaks thing down to what will actually help us to move forward on the process. [[moving forward]] is also the most indicator for [[built-in feedback loops]] to ensure the progression. It really similars to the way I live and the most helpful thing to ensure me moving forward is the inner cleaning or integrating that cleaning my own samskaras through meditation. 
-- 
+- [[mental squeeze point]] is a really powerful concept for putting [[hard-boundary]] to ease and make us focus on what’s important, while it is act as an indicator when we need to start to break the boundary and expand it to something else. [[soft-boundary]] can’t find early, it’s the result of many tested [[hard-boundary]] that got expand eventually.
 
 - 

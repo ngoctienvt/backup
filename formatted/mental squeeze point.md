@@ -4,3 +4,6 @@
 ## [Map of Contents](<Map of Contents.md>)
 - [mental squeeze point](<mental squeeze point.md>)
 
+## [November 8th, 2020](<November 8th, 2020.md>)
+- [mental squeeze point](<mental squeeze point.md>)
+
