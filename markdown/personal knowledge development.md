@@ -1,0 +1,7 @@
+- Phase of personal knowledge development
+    -   Early big-bang
+    - [[star formation]]
+        - the appear of MOCs
+        - evergreen notes
+    - [[star development]]
+        - develop the above stars to become civilization or bigger stars and start to form its true shapes.

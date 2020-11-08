@@ -36,3 +36,6 @@ The Home note allows for bottom-up “Convergent” thinking by consolidating ne
 ## [November 7th, 2020](<November 7th, 2020.md>)
 - [idea emergence](<idea emergence.md>)
 
+## [November 8th, 2020](<November 8th, 2020.md>)
+- [idea emergence](<idea emergence.md>)
+

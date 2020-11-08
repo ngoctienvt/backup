@@ -6,5 +6,19 @@
     - My work will be creating courses, writing articles, books, developing framework, way of thinking, way of working, concepts... My main life will about become a spiritual practitioner with the support roles to serve the world is trainer, coach, thinker,...
     - Her work will be visualizing, developing websites, beautifying, clearing, structuring my work. She will still continue the spiritual path while will learn to become a life coach, a designer, a developer, a person who connect me with the world...
 - I also noticed that I have a feeling of satisfy when I have a new insight or making a progress. For me, this is a goal-oriented tendency that I want to release. It's making me easy to satisfy and not leave my best life, it's a [[samskaras]] that I need to work on, so that I could [[self-fulfilled]] by the process instead of the result, by living instead of gaining, by inner fulfill instead of result fulfill.
+- As for my understanding about the [[Linking Your Thinking - LYT]] system, it is an bottom-up approach to deepen our understanding and generate output naturally.
+    - [[idea emergence]]
+        - The system start with data collecting - the emergence of nothingness to somethingness - ideas, concepts, way of thinking...
+        - The ideas and concepts start to collect data and relate to each other through a collecting and connecting stage.
+        - The ideas and concepts will start to be assemble and integrate to become a Map of Content about certain big ideas or concepts. They will hold different evergreen notes to develop smaller ideas in a convergence way.
+            - For example, progressive approach is smaller topic of self-development MOCs
+            - While Evolving by bottom-up approach is the evergreen not for progressive approach.
+        - The MOCs will start to develop and could be become the smaller MOC of the emergence of bigger MOC.
+    - Note:
+        - When MOCs and evergreen notes start to appear, it is where I start to do my main job and I could discard the used data, because they will integrate in these MOCs and evergreen notes. 
+            - Therefore the way I store information before the integration and after integration will be varied. [[contextual linking]] [[contextual usages]]
+                - Before that, they can link and tag freely, while after integration, they will be condense and tag properly so that they will become my long-term wisdom.
+        - My knowledge will be develop in a divergence to the middle part, or start to converge from the middle part to other things. My job is learning to flow freely between this middle and be flexible to develop myself.
+- My focus for next week will be learning to work on the middle phase of my [[personal knowledge development]]. This phase or stage could be called as [[star formation]] as this is the stage that the star could start to form its civilization or merge with other star to become a bigger star...
 - 
 - 

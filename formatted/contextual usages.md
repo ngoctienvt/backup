@@ -25,6 +25,9 @@
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - I'm not totally clear about what I could generalize to capture [entirety of an atomic concept](<entirety of an atomic concept.md>) [generalization](<generalization.md>) [contextual usages](<contextual usages.md>)
 
+## [November 8th, 2020](<November 8th, 2020.md>)
+- Therefore the way I store information before the integration and after integration will be varied. [contextual linking](<contextual linking.md>) [contextual usages](<contextual usages.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - •	contextual approach for different usage instead of many group of different people now [contextual usages](<contextual usages.md>)
 
