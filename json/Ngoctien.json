@@ -38198,12 +38198,116 @@
         "uid": "V9pWj2WXo"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604913239583,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604913244570,
+                    "string": "External data",
+                    "uid": "cC7XMEVUO"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604913244566,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604913246497,
+                    "string": "Internal data",
+                    "uid": "7hCi0VYO_"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604913246494,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604913246494,
+                    "string": "",
+                    "uid": "uE3tAgNmw"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913067039,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604913156034,
+                "string": "Collecting and connecting raw data",
+                "uid": "ObWr0b0p2"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913156031,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604913390588,
+                "string": "Emergencing higher-order concepts or ideas - forming the shape",
+                "uid": "26RCN1JbD"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604913304410,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604913304410,
+                    "string": "MOCs",
+                    "uid": "6mK_IjqK1"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604913190597,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604913305397,
+                    "string": "Evergreen notes",
+                    "uid": "xyTskGNOv"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604913306095,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604913309805,
+                    "string": "Concepts/ Ideas",
+                    "uid": "ZhOmYUEY6"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913300586,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604913396504,
+                "string": "Developing, shaping and nurturing - ",
+                "uid": "dtNCgURTq"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913217749,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604913232285,
+                "string": "Organizing and cleaning the system",
+                "uid": "mumR--byi"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604913002827,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604913055240,
+            "string": "What is the process of my personal knowledge development?",
+            "uid": "iLpmDd--a"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604893131790,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604912954122,
+            "string": "![](https://lh3.googleusercontent.com/1L_MmlANS1C1udaKIphivBf_Bab1ZWhKDAAK7CFwnXSfop28seCjTNCqZaUc1_ABXKIO6K5uSUj9tD2M856Kzteh16tjO0rJzRjJEn7pEtXIEm3edepsbfWcmSwWD-5lHHxF2nxTvZyaTZWrfmZZmnC7kVIyl84M7pmJKMFdNZrooNB7f9nhVRb8LgLtFsl0ukS2e0jGssT5TpA5fKOT7xRoQJGNs7wxHEuucVnbmL4ZqMdAtoduG3EJriIcPMOEy4hP5vKAK1GcaThbSz4oUViZ6FiF0QtWiUOBcpX3PTGass-fyvEo6xuSOxX2QAvn_Q9HpsU0MMrXjXaS1lrfyI2IkPywZ6AnMXA1dVE256tFh7g_AXXS6nwfguYJQVaNqiJKtDEL5aiGjQaHMbYY2SIjaU9HhDzJvM4YQn-vR0gtOkXYQPclgpTF6LwiEZLV2PRWhpN2k0EQXKk8mcHnbK-TuSKT4genTRPsos7HMD7razzmhX6WmB3eZsM8cLNSzxERrsmrrPdSNMj9ZTYSMoBP7KJWY7ly_cxki8BxoUXOHhx4KgQYkRg1jwL7IB2S-9BN_n2M2EDtPETAWNLqxgNjTAWOHptX2j8xgg-tCSdSRuLaL2x37BdW3ibZ2lNH3X_b-ZEf77wuC7JUTVwXRJ-7T2LNMDWliIF6itxJoxtmD9pJvTAs3GlyWrvBmA=w687-h915-no?authuser=0)",
+            "uid": "NXuy1ls30"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604893131790,
+        "create-time": 1604912997520,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604893131790,
-        "string": "",
-        "uid": "NXuy1ls30"
+        "edit-time": 1604913002829,
+        "string": "Evergreen notes",
+        "uid": "qbGiO7Nsf"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -38241,6 +38345,24 @@
     "title": "Support system MOC"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604912426907,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604912961240,
+        "string": "![](https://lh3.googleusercontent.com/1L_MmlANS1C1udaKIphivBf_Bab1ZWhKDAAK7CFwnXSfop28seCjTNCqZaUc1_ABXKIO6K5uSUj9tD2M856Kzteh16tjO0rJzRjJEn7pEtXIEm3edepsbfWcmSwWD-5lHHxF2nxTvZyaTZWrfmZZmnC7kVIyl84M7pmJKMFdNZrooNB7f9nhVRb8LgLtFsl0ukS2e0jGssT5TpA5fKOT7xRoQJGNs7wxHEuucVnbmL4ZqMdAtoduG3EJriIcPMOEy4hP5vKAK1GcaThbSz4oUViZ6FiF0QtWiUOBcpX3PTGass-fyvEo6xuSOxX2QAvn_Q9HpsU0MMrXjXaS1lrfyI2IkPywZ6AnMXA1dVE256tFh7g_AXXS6nwfguYJQVaNqiJKtDEL5aiGjQaHMbYY2SIjaU9HhDzJvM4YQn-vR0gtOkXYQPclgpTF6LwiEZLV2PRWhpN2k0EQXKk8mcHnbK-TuSKT4genTRPsos7HMD7razzmhX6WmB3eZsM8cLNSzxERrsmrrPdSNMj9ZTYSMoBP7KJWY7ly_cxki8BxoUXOHhx4KgQYkRg1jwL7IB2S-9BN_n2M2EDtPETAWNLqxgNjTAWOHptX2j8xgg-tCSdSRuLaL2x37BdW3ibZ2lNH3X_b-ZEf77wuC7JUTVwXRJ-7T2LNMDWliIF6itxJoxtmD9pJvTAs3GlyWrvBmA=w687-h915-no?authuser=0)",
+        "uid": "Q32KWr3Q-"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604912962207,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604912962207,
+        "string": "",
+        "uid": "fRua7151_"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604900907432,
     "edit-email": "ngoctienvt@gmail.com",
