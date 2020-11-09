@@ -37,6 +37,9 @@
 ## [November 8th, 2020](<November 8th, 2020.md>)
 - The [journey of wisdom](<journey of wisdom.md>)
 
+## [November 9th, 2020](<November 9th, 2020.md>)
+- [ ] working on [journey of wisdom](<journey of wisdom.md>)
+
 ## [high-value information blocks](<high-value information blocks.md>)
 - [journey of wisdom](<journey of wisdom.md>)
 

@@ -35163,13 +35163,6 @@
     "title": "November 5th, 2020"
   },
   {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1604480238769,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604480238770,
-    "title": "\u2206"
-  },
-  {
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -36835,12 +36828,64 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604890811205,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604890870218,
+                "string": "Start to work on the level of creating MOCs and evergreen notes",
+                "uid": "8zrKGKFJX"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604890868428,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604890868428,
+            "string": "{{[[TODO]]}} working on [[journey of wisdom]]",
+            "uid": "VdMunjezO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604890860133,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604890899411,
+            "string": "{{[[TODO]]}} improving coaching skills",
+            "uid": "p63hJ0p5H"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604479170874,
+        "create-time": 1604890729293,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604627416013,
-        "string": "Link: https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/ {{[[\u2206]]:5+2}}",
-        "uid": "thbeFfzA4"
+        "edit-time": 1604890811214,
+        "string": " This week focus:",
+        "uid": "fcU1ogTIZ"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604891014286,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604891217997,
+        "string": "Last night [[dream]], I have a fear about bad things, unpleasant things, I feel so much disturbed that I feel hard to center and let go. I need to remember that everything is just energy nurture energy, they are the energy of experiences that come to nurture me - the soul - the energy, so there is no need to fear and resist. They will not be able to harm me, but only teach me the nature of everything.\n\nThe reason I fear and resist is I thought that they will harm me, but I'm not the physical person, I'm the energy that can't die, and impressions, samskaras can't kill me.",
+        "uid": "8nT6CIfI8"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604891154570,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604891312090,
+        "string": "About the front door, I start to learn to feel safe and put more trust into the reality. I learn to let go my attachment for stuff and the feeling of owning something. [[fear]]",
+        "uid": "81UW9OLDo"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604891336121,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604891336121,
+        "string": "",
+        "uid": "tGYjfmnSN"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -37874,27 +37919,54 @@
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604800105867,
+        "create-time": 1604891369495,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604800159998,
-        "string": "[[External sources]]",
-        "uid": "z86J-1dCo"
+        "edit-time": 1604891428802,
+        "heading": 1,
+        "string": "Home Maps",
+        "uid": "-KsXuXe0j"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604800426196,
+        "create-time": 1604891476597,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604800431000,
-        "string": "Internal sources",
-        "uid": "mE0BeoKls"
+        "edit-time": 1604891574002,
+        "string": "[[010 Spiritual MOC]]",
+        "uid": "RGGXMKErz"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604800105867,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604891361155,
+            "string": "[[External sources]]",
+            "uid": "z86J-1dCo"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604800426196,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604891361155,
+            "string": "Internal sources",
+            "uid": "mE0BeoKls"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604800430996,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604800430996,
-        "string": "",
+        "edit-time": 1604891622207,
+        "string": "[[020 Personal Knowledge Management MOC]]",
         "uid": "zXvol7L8u"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604891641179,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604891641179,
+        "string": "",
+        "uid": "taibDV7wz"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -37979,5 +38051,36 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1604849704251,
     "title": "hard-boundary"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604479170874,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604890782728,
+        "string": "",
+        "uid": "thbeFfzA4"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604890729289,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604890729290,
+    "title": "November 14th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604891574007,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604891574008,
+    "title": "010 Spiritual MOC"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1604891622209,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1604891622210,
+    "title": "020 Personal Knowledge Management MOC"
   }
 ]

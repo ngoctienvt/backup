@@ -1,3 +1,6 @@
-- [External sources](<External sources.md>)
-- Internal sources
+- # Home Maps
+- [010 Spiritual MOC](<010 Spiritual MOC.md>)
+- [020 Personal Knowledge Management MOC](<020 Personal Knowledge Management MOC.md>)
+    - [External sources](<External sources.md>)
+    - Internal sources
 - 

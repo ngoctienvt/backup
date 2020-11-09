@@ -11,6 +11,9 @@
 
 - [fear](<fear.md>)
 
+## [November 9th, 2020](<November 9th, 2020.md>)
+- About the front door, I start to learn to feel safe and put more trust into the reality. I learn to let go my attachment for stuff and the feeling of owning something. [fear](<fear.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - [joy of missing out](<joy of missing out.md>) versus [fear of missing out](<fear of missing out.md>) [fear](<fear.md>)
 

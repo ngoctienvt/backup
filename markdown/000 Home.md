@@ -1,3 +1,6 @@
-- [[External sources]]
-- Internal sources
+- # Home Maps
+- [[010 Spiritual MOC]]
+- [[020 Personal Knowledge Management MOC]]
+    - [[External sources]]
+    - Internal sources
 - 
