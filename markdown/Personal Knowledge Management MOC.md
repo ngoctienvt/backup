@@ -8,11 +8,13 @@
     - Forming higher-order concepts or ideas - forming the shape - internalizing
         - Meditation
         - Writing
+        - Condensing 
     - Developing, shaping and nurturing - forming the detail - externalizing
         - Breaking down
             - MOCs
             - Evergreen notes
             - Concepts/ Ideas
+        - Structuring and detailing
         - Nurturing
     - Organizing and cleaning the system 
         - Navigating
