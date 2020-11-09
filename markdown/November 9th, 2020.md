@@ -9,4 +9,4 @@ The reason I fear and resist is I thought that they will harm me, but I'm not th
 - I'm on the stage learning how to forming my personal knowledge and generating output. And somehow this is nearly all of my workflow because usually, I don't count coaching, training as part of my workflow. The reason is I don't do them too often, but actually [[workflow]] is a bigger picture of [[personal knowledge development]].
 
 So I will complement my workflow for personal knowledge development first.
-- 
+- [[coaching reflection]] I noticed that sometimes I couldn't just reflect and question, sometimes I need to have clients to have some options to clarify their thoughts, especially when they are keep going around. This is the same as me, as I'm 
