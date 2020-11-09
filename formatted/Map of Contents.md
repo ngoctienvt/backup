@@ -26,6 +26,9 @@
 ## [November 7th, 2020](<November 7th, 2020.md>)
 - [Map of Contents](<Map of Contents.md>)
 
+## [November 9th, 2020](<November 9th, 2020.md>)
+- Each [Map of Contents](<Map of Contents.md>)
+
 ## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
 - [Map of Contents](<Map of Contents.md>)
 

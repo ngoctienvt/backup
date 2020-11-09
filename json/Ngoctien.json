@@ -18644,14 +18644,6 @@
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1602420735745,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1602420761761,
-        "string": "What's not truth will have hole",
-        "uid": "SqqYefap5"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
         "create-time": 1602421587486,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1602421916204,
@@ -18665,14 +18657,6 @@
         "edit-time": 1602420761758,
         "string": "",
         "uid": "5oPGFF8Bk"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1602420752001,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1602420752001,
-        "string": "",
-        "uid": "1HbU0PC-n"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -36900,9 +36884,33 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604927869685,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604927869685,
-        "string": "",
+        "edit-time": 1604935744322,
+        "string": "I started to realize that there will be something that needs to come directly from me, instead of just things emerge from my thoughts. Without the [[truth compass]] that hold the intention that comes from within myself, it's hard for me to guide the tools, the thoughts, whatever I do to connect to each other and to fully integrate into one. [[oneness]]. \n\nThe truth compass or [[soul-guidance]] needs to be clarified so that I could have a direction to merge my MOCs into a way that support the intention that I want to live my life. For example, everything needs to support me to free myself or attach with only myself [[true freedom]], to be the blessing on the world by being an instrument for the unfolding life. ",
         "uid": "slRR0oqP7"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604936024071,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604937484847,
+        "string": "Each [[Map of Contents]] will need to be linked to my [[soul-guidance]] or have clear roles so that it will make sure me to always on the right track, as well as have a clear direction for my work. Now I start to work from top to bottom, and somehow bottom to top to meet them in a middle. It is the connection between me - my true self, the reality and what is in between that I need to work on?\n\nA clear boundary will help me to easy to focus on the middle. I become more and more clear about me and what would be the process for me to live my life to live this life to its fullest without the fear illusion.",
+        "uid": "epzFjZBs7"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604936226818,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604936226818,
+        "string": "",
+        "uid": "ZBJt_Q2aj"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604936067955,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604936067955,
+        "string": "",
+        "uid": "0n2aDipQD"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -37935,6 +37943,33 @@
   {
     "children": [
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604935788227,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604935823010,
+            "string": "True freedom to be the witness conscious",
+            "uid": "yQot4Fs5I"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604935792632,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1604935831612,
+            "string": "Be the blessing of the world",
+            "uid": "jtBbZErnF"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604935753293,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1604935786877,
+        "heading": 1,
+        "string": "My highest intention for living life",
+        "uid": "rU6KOAwJb"
+      },
+      {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604891369495,
         "edit-email": "ngoctienvt@gmail.com",
@@ -37948,6 +37983,7 @@
         "create-time": 1604892735813,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1604892745780,
+        "heading": 3,
         "string": "Highest MOC",
         "uid": "Vkx2Olz8a"
       },
@@ -38055,8 +38091,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604799933185,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604799933186,
-    "title": "000 Home"
+    "edit-time": 1604935859850,
+    "title": "Home Maps"
   },
   {
     "create-email": "ngoctienvt@gmail.com",

@@ -1,10 +1,11 @@
-- What's not truth will have hole
 - If we want to support others, focus on the light and expand it. [support](<support.md>)
 If we want to protect ourselves, focus on the hole or what's lacking on arguments of other people. [defense](<defense.md>)
 - 
-- 
 
 # Backlinks
+## [November 9th, 2020](<November 9th, 2020.md>)
+- I started to realize that there will be something that needs to come directly from me, instead of just things emerge from my thoughts. Without the [truth compass](<truth compass.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - I learned a big thing that when we are going far ahead enough, everything that we see at problems are not problems anymore. [truth compass](<truth compass.md>)
 

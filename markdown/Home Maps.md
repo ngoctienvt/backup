@@ -1,5 +1,8 @@
+- # My highest intention for living life
+    - True freedom to be the witness conscious
+    - Be the blessing of the world
 - # Home Maps
-- Highest MOC
+- ### Highest MOC
 - [[Spiritual MOC]]
 - [[Personal Knowledge Management MOC]]
     - [[External sources]]

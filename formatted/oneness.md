@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 9th, 2020](<November 9th, 2020.md>)
+- I started to realize that there will be something that needs to come directly from me, instead of just things emerge from my thoughts. Without the [truth compass](<truth compass.md>) that hold the intention that comes from within myself, it's hard for me to guide the tools, the thoughts, whatever I do to connect to each other and to fully integrate into one. [oneness](<oneness.md>).
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - I start to learn how to operate myself to [oneness](<oneness.md>)
 
