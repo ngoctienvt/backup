@@ -39,3 +39,6 @@ The Home note allows for bottom-up “Convergent” thinking by consolidating ne
 ## [November 8th, 2020](<November 8th, 2020.md>)
 - [idea emergence](<idea emergence.md>)
 
+## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
+- [idea emergence](<idea emergence.md>)
+

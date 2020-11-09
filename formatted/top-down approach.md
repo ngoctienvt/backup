@@ -60,6 +60,9 @@ I noticed that when I'm approaching things to train others, I like to work from 
 ## [October 8th, 2020](<October 8th, 2020.md>)
 [There is nothing wrong, only the lack of wisdom](<There is nothing wrong, only the lack of wisdom.md>). We are so lost that we live the rules by default without the ability to know why there's a need for rules from the beginnings. [rules](<rules.md>) and [top-down approach](<top-down approach.md>)
 
+## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
+- [top-down approach](<top-down approach.md>)
+
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - While practices or activities is kind of [top-down approach](<top-down approach.md>)
 

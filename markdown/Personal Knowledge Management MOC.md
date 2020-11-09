@@ -1,0 +1,7 @@
+- [[progressive approach]]
+    - [[top-down approach]]
+    - [[bottom-up approach]]
+- [[journey of wisdom]]
+- [[Map of Contents]]
+- [[idea emergence]]
+- 

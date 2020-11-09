@@ -171,7 +171,7 @@
 
 # Backlinks
 ## [October 17th, 2020](<October 17th, 2020.md>)
-from the place of surrender - youtube link]] [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+- Untitled_2 [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 
 ## [Resources](<Resources.md>)
 - [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)

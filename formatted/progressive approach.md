@@ -99,6 +99,9 @@ Nothing is start from scratch. If you want to do something, it must have generat
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - There seems like there is two main important things on [progressive approach](<progressive approach.md>)
 
+## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
+- [progressive approach](<progressive approach.md>)
+
 ## [September 23rd, 2020](<September 23rd, 2020.md>)
 The importance is not what we do, but the [intention](<intention.md>) behind the action, followed by [progressive approach](<progressive approach.md>)
 

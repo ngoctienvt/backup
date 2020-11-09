@@ -1,6 +1,14 @@
 - # Home Maps
-- [010 Spiritual MOC](<010 Spiritual MOC.md>)
-- [020 Personal Knowledge Management MOC](<020 Personal Knowledge Management MOC.md>)
+- Highest MOC
+- [Spiritual MOC](<Spiritual MOC.md>)
+- [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
     - [External sources](<External sources.md>)
     - Internal sources
+- [Support system MOC](<Support system MOC.md>)
 - 
+- [Coaching MOC](<Coaching MOC.md>)
+- [Training MOC](<Training MOC.md>)
+- [Working Zone MOC](<Working Zone MOC.md>)
+- 
+- Smaller MOC working on
+    - 

@@ -1,8 +1,7 @@
 - 
 - When reading novels, I realize that I also have many
 limitations on my belief system. [[limiting thoughts]]
-- [[https://www.notion.so/chaungoctien/Living-from-the-place-of-surrender-b81c950f88fe4b36ad97c5007adf88e0][Living
-from the place of surrender - youtube link]] [[Course - Living from the place of surrender]]
+- Untitled_2 [[Course - Living from the place of surrender]]
 - Today I want to keep myself with [[bottom-up approach, I
 fully experience the moments and then I will know what I need to do next. I
 will stop [[living in the future]] or at least know that I need to come back to

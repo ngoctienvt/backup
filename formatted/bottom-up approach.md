@@ -34,6 +34,9 @@
 
 - While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>), then break it down to become the things that I just need to clarify and to work on by the support of [bottom-up approach](<bottom-up approach.md>).
 
+## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
+- [bottom-up approach](<bottom-up approach.md>)
+
 ## [TODO](<TODO.md>)
 - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [bottom-up approach](<bottom-up approach.md>)
 

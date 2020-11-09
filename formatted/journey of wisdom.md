@@ -40,6 +40,9 @@
 ## [November 9th, 2020](<November 9th, 2020.md>)
 - [ ] working on [journey of wisdom](<journey of wisdom.md>)
 
+## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
+- [journey of wisdom](<journey of wisdom.md>)
+
 ## [high-value information blocks](<high-value information blocks.md>)
 - [journey of wisdom](<journey of wisdom.md>)
 

@@ -1,6 +1,14 @@
 - # Home Maps
-- [[010 Spiritual MOC]]
-- [[020 Personal Knowledge Management MOC]]
+- Highest MOC
+- [[Spiritual MOC]]
+- [[Personal Knowledge Management MOC]]
     - [[External sources]]
     - Internal sources
+- [[Support system MOC]]
 - 
+- [[Coaching MOC]]
+- [[Training MOC]]
+- [[Working Zone MOC]]
+- 
+- Smaller MOC working on
+    - 
