@@ -47,6 +47,9 @@
 
 - Some examples of [workflow](<workflow.md>)
 
+## [November 9th, 2020](<November 9th, 2020.md>)
+- I'm on the stage learning how to forming my personal knowledge and generating output. And somehow this is nearly all of my workflow because usually, I don't count coaching, training as part of my workflow. The reason is I don't do them too often, but actually [workflow](<workflow.md>)
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [workflow](<workflow.md>)
 

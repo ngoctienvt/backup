@@ -6,4 +6,7 @@
 
 The reason I fear and resist is I thought that they will harm me, but I'm not the physical person, I'm the energy that can't die, and impressions, samskaras can't kill me.
 - About the front door, I start to learn to feel safe and put more trust into the reality. I learn to let go my attachment for stuff and the feeling of owning something. [fear](<fear.md>)
+- I'm on the stage learning how to forming my personal knowledge and generating output. And somehow this is nearly all of my workflow because usually, I don't count coaching, training as part of my workflow. The reason is I don't do them too often, but actually [workflow](<workflow.md>) is a bigger picture of [personal knowledge development](<personal knowledge development.md>).
+
+So I will complement my workflow for personal knowledge development first.
 - 
