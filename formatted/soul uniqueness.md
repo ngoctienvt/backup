@@ -6,9 +6,6 @@
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - When I can contain things, I will have my way of interacting with the world instead of following the action of other masters. They will not be the one who defines my behavior, but I will instead. [soul uniqueness](<soul uniqueness.md>)
 
-## [September 30th, 2020](<September 30th, 2020.md>)
-- [progressive development approach](<progressive development approach.md>) emphasizes on the self-experiencing and self-learning so that the person can deepen their own understanding and generate new insight from their [soul uniqueness](<soul uniqueness.md>)
-
 ## [life](<life.md>)
 - [natural progression](<natural progression.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>)
 

@@ -6,6 +6,6 @@
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - How can I see like as a [continuous process](<continuous process.md>)
 
-## [October 6th, 2020](<October 6th, 2020.md>)
-- Everything has different levels, and they only become higher and higher. Just like relaxation. That's why our way of thinking need to be set the intention and destination but focus on where we are, because everything is a [continuous process](<continuous process.md>)
+## [progressive development approach](<progressive development approach.md>)
+- see life as continuous process instead of separation stages only [continuous process](<continuous process.md>)
 

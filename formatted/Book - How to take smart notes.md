@@ -7,8 +7,6 @@
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [Book - How to take smart notes](<Book - How to take smart notes.md>)
 
-- [Book - How to take smart notes](<Book - How to take smart notes.md>)
-
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - [Book - How to take smart notes](<Book - How to take smart notes.md>)
 

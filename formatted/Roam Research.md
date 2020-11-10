@@ -25,12 +25,7 @@
 
 # Backlinks
 ## [October 4th, 2020](<October 4th, 2020.md>)
-- [Roam Research](<Roam Research.md>)
-
-- [Roam Research](<Roam Research.md>) [progressive development approach](<progressive development approach.md>) [mind-training](<mind-training.md>) I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [convenient](<convenient.md>) way, so that my [Roam Research](<Roam Research.md>)
-
-## [October 5th, 2020](<October 5th, 2020.md>)
--  I feel that I am still not so much clear how the [progressive development approach](<progressive development approach.md>) really apply in the context of [Roam Research](<Roam Research.md>).
+-  [mind-training](<mind-training.md>) I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [convenient](<convenient.md>) way, so that my [Roam Research](<Roam Research.md>)
 
 ## [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)
 - How [Roam Research](<Roam Research.md>)

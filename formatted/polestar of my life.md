@@ -12,6 +12,9 @@
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - I noticed that deep inside of me, the bridge that I want to connect my trueself and the reality is an [unshakable intention](<unshakable intention.md>) that will be a [polestar of my life](<polestar of my life.md>)
 
+## [September 23rd, 2020](<September 23rd, 2020.md>)
+- My rule of living is I don't want to serve myself based on the [trigger](<trigger.md>) of the pain of others, but I want to evoke their inner inspiration and desire to live a higher life and support them from that level. [serving](<serving.md>) [living from the place of surrender](<living from the place of surrender.md>) [Karma yoga](<Karma yoga.md>). [polestar of my life](<polestar of my life.md>)
+
 ## [living from the place of surrender](<living from the place of surrender.md>)
 - [polestar of my life](<polestar of my life.md>)
 

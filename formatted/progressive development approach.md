@@ -1,34 +1,72 @@
 - [Progressive Development Approach](<Progressive Development Approach.md>)
     - an approach for natural and effortless personal and professional development
 - ## Benefits
-    - stress-free
-    - sustainable development
+    - self-expression /self-uniqueness
+    - [natural progression](<natural progression.md>)
+        - stress-free
+        - sustainable development
+    - structured and deep understanding
+    - learing to enjoy the process instead of skip through to the goals
 - ## Core methods
     -  [bottom-up approach](<bottom-up approach.md>) for merging with the experiences
         - [integration](<integration.md>)
     -  [top-down approach](<top-down approach.md>) for focusing myself to certain direction
-- ## Core components:
+        - [evergreen notes](<evergreen notes.md>)
+- ## Core principles
     - living life as a [circular process](<circular process.md>)
         - focused on [enjoy the process](<enjoy the process.md>) or journey instead of a [linear process](<linear process.md>) focused on [results](<results.md>)
-    - flexibility with [contextual mastery](<contextual mastery.md>) and different direction of development (convergence/divergence)
-    - [design for emergence](<design for emergence.md>)
-        - [bottom-up approach](<bottom-up approach.md>) to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
-    - [natural progression](<natural progression.md>)
-    - [establishing the seat of awareness](<establishing the seat of awareness.md>)
-    - looping with [built-in feedback loops](<built-in feedback loops.md>)
-    - [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>) = [being mode](<being mode.md>)
-    - focus on true progression instead of the feeling of doing something meaningful
+        - flow to integration instead of separation
+        - see life as continuous process instead of separation stages only [continuous process](<continuous process.md>)
+    - build up the emerge structure and solidify them over time 
+        - [design for emergence](<design for emergence.md>)
+            - [bottom-up approach](<bottom-up approach.md>) to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
+        - building [basic foundation](<basic foundation.md>)
+        - flexibility with [contextual mastery](<contextual mastery.md>) and different direction of development (convergence/divergence)
+    - ensure the focus on what's truly effective
+        - right person
+            - [establishing the seat of awareness](<establishing the seat of awareness.md>)
+        - right focus
+            - breakdown process for easier digesting and productive batching
+            - [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>) = [being mode](<being mode.md>)
+            - focus on true progression instead of the feeling of doing something meaningful, like instead of focusing on bolding and highlighting/ focus on self-commentary instead.
+                - [getting in touch with reality](<getting in touch with reality.md>) to [work at the root](<work at the root.md>)
+        - right reflection
+            - looping with [built-in feedback loops](<built-in feedback loops.md>)
+        - right tools
+            - [support system](<support system.md>) to utilize external tools, so internal tools focus energy on what's important 
+                - creating an [evergreen garden](<evergreen garden.md>) to support thoughts process and store personal knowledge [workspace for intellectual mind](<workspace for intellectual mind.md>)
+                - [coaching](<coaching.md>)
+        - momentum
+            - [setting up for success](<setting up for success.md>) to create [snowball](<snowball.md>)
+                - [positive inner feedback loop](<positive inner feedback loop.md>)
+- ### Core components:
 - ## Supportive components:
-    - [support system](<support system.md>) to utilize external tools, so internal tools focus energy on what's important 
-        - creating an [evergreen garden](<evergreen garden.md>) to support thoughts process and store personal knowledge [workspace for intellectual mind](<workspace for intellectual mind.md>)
-        - [coaching](<coaching.md>)
-    - [setting up for success](<setting up for success.md>) to create [snowball](<snowball.md>)
-        - [positive inner feedback loop](<positive inner feedback loop.md>)
-    - [getting in touch with reality](<getting in touch with reality.md>) to [work at the root](<work at the root.md>)
+- ### What I want to apply this approach
+    - way of living
+    - personal knowledge development
+    - working/ creating products
 - In your Dynamic Note Mass, what does that look like?
     - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
     - Sometimes __top-down__ creates meaning: Index » MOC » Note
     - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive development approach](<progressive development approach.md>)
+    - The reason to have a [starting point](<starting point.md>) is to realize that things have different levels or different progress to work on. [top-down approach](<top-down approach.md>) The starting point is established by 
+        - learning and getting used to what's possible, 
+        - what's the floor and what's the possible ceiling?
+        - what's the meaning of this?
+    - After establishing a starting point, the next thing is about the [mastery](<mastery.md>) process. The process of mastery is what's I actually do in the [top-down approach](<top-down approach.md>) that I defined. 
+        - It's about listing the things that I want to master. The things to master will have different levels as well. 
+            - One is to understand the components.
+            - Second is to have a synthesis or a goal to use things together. [synthesis](<synthesis.md>)
+        - Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>) in each thing [[bottom-up approach
+        - Synthesis things by a [top-down approach](<top-down approach.md>) that have goals, challenges, application oriented as a result.
+        - Reflection after each learning to condense knowledges and experiences. [condensing and generative process](<condensing and generative process.md>)
+    - The third step is going beyond.
+        - Come back to the foundation and start to [[bottom-up approach things.
+- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive development approach](<progressive development approach.md>)
+    - The [top of the ceiling](<top of the ceiling.md>) is about all 4 broad elements of the world, the nature of each of them, and the relationship of them.
+    - The [bottom of the floor](<bottom of the floor.md>) is about the actual experience of each moment and the interaction of each moment with the 4 elements.
+    - The middle is the human life that happens in the world based on the tools that the conscious have: emotions, mind, body.
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
@@ -40,60 +78,7 @@
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive development approach](<progressive development approach.md>)
 
-## [October 11th, 2020](<October 11th, 2020.md>)
-[living from the place of surrender](<living from the place of surrender.md>) is fully orient myself into a higher life, but at the same time fully experiences what levels I am at as the stepping stones for my next level. [progressive development approach](<progressive development approach.md>)
-
-## [October 13th, 2020](<October 13th, 2020.md>)
-- When I thought about how I could learn from the [top-down approach](<top-down approach.md>), I wonder how could I integrate it with the [bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation](<bottom-up approach that I'm doing right now seamlessly. It requires a merge on my thinking to find a way to do both of them without the need of [[separation.md>). [progressive development approach](<progressive development approach.md>)
-
-That's maybe the reason why I'm very hard to master anything, but need to go through the process in an A -> B -> C way, so that I will not just able to do it alone, but can also teach other people how to do when they understand the process. [progressive development approach](<progressive development approach.md>)
-
-- The hardest part of [progressive development approach](<progressive development approach.md>)
-
-## [October 1st, 2020](<October 1st, 2020.md>)
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive development approach](<progressive development approach.md>)
-
-## [October 2nd, 2020](<October 2nd, 2020.md>)
-- I found that I want to shift my way of living now is kind of laid back and passive to a way of living more energetic and active. I start to realize my highest [intention](<intention.md>) is to evolve myself and make progress forward every day on the time on earth. [progressive development approach](<progressive development approach.md>)
-
-## [October 4th, 2020](<October 4th, 2020.md>)
-I noticed that when I'm approaching things to train others, I like to work from a [top-down approach](<top-down approach.md>) as this helps me to ensure that the value and the understanding are there for them. However, this also put pressure too much on my shoulder. Ideally, I want to have some small top-down ideas [breakdown](<breakdown.md>) that I want to develop and work to complete these fragments and train them as well. This is exactly how [progressive development approach](<progressive development approach.md>)
-
-- After setup the basic foundation, I will want to support people to work on each things in-depth or start to get used to things with [progressive development approach](<progressive development approach.md>)
-
-- [Book - How to take smart notes](<Book - How to take smart notes.md>) rather than put information into topics, [progressive development approach](<progressive development approach.md>)
-
-Nothing is start from scratch. If you want to do something, it must have generate by somewhere, your experience, your difficulty, other existing ideas. Not brainstorming but rather a [progressive development approach](<progressive development approach.md>)
-
-- [Roam Research](<Roam Research.md>) [progressive development approach](<progressive development approach.md>)
-
-## [October 5th, 2020](<October 5th, 2020.md>)
--  I feel that I am still not so much clear how the [progressive development approach](<progressive development approach.md>)
-
-## [October 6th, 2020](<October 6th, 2020.md>)
-- Everything has different levels, and they only become higher and higher. Just like relaxation. That's why our way of thinking need to be set the intention and destination but focus on where we are, because everything is a [continuous process](<continuous process.md>) without clear starting point and end point.[level of development](<level of development.md>) [progressive development approach](<progressive development approach.md>)
-
-- When I'm playing Spirit Island, I learned that it would very helpful to [setting up for success](<setting up for success.md>) as learning the game slowly which help to digest the experiences and grow our understanding as well as skills in a [progressive development approach](<progressive development approach.md>).
-
-## [October 8th, 2020](<October 8th, 2020.md>)
-- There seems like there is two main important things on [progressive development approach](<progressive development approach.md>)
-
 ## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
-- [progressive development approach](<progressive development approach.md>)
-
-## [September 23rd, 2020](<September 23rd, 2020.md>)
-The importance is not what we do, but the [intention](<intention.md>) behind the action, followed by [progressive development approach](<progressive development approach.md>)
-
-## [September 25th, 2020](<September 25th, 2020.md>)
-- There are only 4 broad categories that we need to know. And we need to know the nature of them, not the details. [spiritual growth](<spiritual growth.md>) [understanding](<understanding.md>) [progressive development approach](<progressive development approach.md>)
-
-## [September 26th, 2020](<September 26th, 2020.md>)
-- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive development approach](<progressive development approach.md>)
-
-## [September 29th, 2020](<September 29th, 2020.md>)
-- To complete [progressive development approach](<progressive development approach.md>)
-
-## [September 30th, 2020](<September 30th, 2020.md>)
 - [progressive development approach](<progressive development approach.md>)
 
 ## [TODO](<TODO.md>)
@@ -124,6 +109,11 @@ The importance is not what we do, but the [intention](<intention.md>) behind the
 
 ## [network note-taking](<network note-taking.md>)
 - My usage of network note-taking will be based on [progressive development approach](<progressive development approach.md>)
+
+## [progressive development approach](<progressive development approach.md>)
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive development approach](<progressive development approach.md>)
+
+- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive development approach](<progressive development approach.md>)
 
 ## [true happiness](<true happiness.md>)
 - seeking and living the truth on a [progressive development approach](<progressive development approach.md>)

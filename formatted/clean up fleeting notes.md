@@ -10,7 +10,10 @@
 
 # Backlinks
 ## [October 4th, 2020](<October 4th, 2020.md>)
-- [Roam Research](<Roam Research.md>) [progressive development approach](<progressive development approach.md>) [mind-training](<mind-training.md>) I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [convenient](<convenient.md>) way, so that my [Roam Research](<Roam Research.md>) personal knowledge garden can grow up in a helpful way and not become cluster over time. [clean up fleeting notes](<clean up fleeting notes.md>)
+-  [mind-training](<mind-training.md>) I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [convenient](<convenient.md>) way, so that my [Roam Research](<Roam Research.md>) personal knowledge garden can grow up in a helpful way and not become cluster over time. [clean up fleeting notes](<clean up fleeting notes.md>)
+
+## [Personal Knowledge Management MOC](<Personal Knowledge Management MOC.md>)
+- [clean up fleeting notes](<clean up fleeting notes.md>)
 
 ## [TODO](<TODO.md>)
 - [clean up fleeting notes](<clean up fleeting notes.md>)

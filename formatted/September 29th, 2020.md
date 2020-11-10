@@ -5,7 +5,7 @@
 The reason is I have a [hidden intention](<hidden intention.md>) to grasp the big picture and understand everything as soon as possible and focus on the [effective result](<effective result.md>) in an unattachment way.
 
 I would like to shift this [hidden intention](<hidden intention.md>) to another [intention](<intention.md>) is 
-    - To complete [progressive development approach](<progressive development approach.md>) as [a way to effective mastery](<a way to effective mastery.md>) in a smaller picture.
+    - 
     - To enjoy the process and to learn as a way to improve the enjoyment is a bigger picture. [enjoy the process](<enjoy the process.md>)
 - In [coaching session](<coaching session.md>), it would be really helpful to discover the goal that really matters with clients. It's the meaningful results for clients instead of focusing on what they are only concern now.
 

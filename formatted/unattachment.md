@@ -27,9 +27,6 @@ let things be and raise it up naturally without any attachments. [living from th
 
 - I still have a conflict between accepting as it is versus want them to be better. The [personal agenda](<personal agenda.md>) for wanting people to be better makes me can't accepting as it is FIRST. I want to set myself to a state that can accept everything as it is without any [personal needs](<personal needs.md>) and [personal agenda](<personal agenda.md>) FIRST. Then, if I still want to support them to be better, this support will be completely [unattachment](<unattachment.md>).
 
-## [September 23rd, 2020](<September 23rd, 2020.md>)
-The importance is not what we do, but the [intention](<intention.md>) behind the action, followed by [progressive development approach](<progressive development approach.md>) to achieve it and the [unattachment](<unattachment.md>)
-
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - [x] Working with the way I want to support the evolution process of other souls with an [unattachment](<unattachment.md>)
 

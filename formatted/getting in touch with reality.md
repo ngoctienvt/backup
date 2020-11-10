@@ -15,9 +15,6 @@ If I want to know something, I need to be the one who really check it and [getti
 ## [October 3rd, 2020](<October 3rd, 2020.md>)
 Ideally, I want to shift my tendency from protecting myself to relax and enjoy the learning experience, then I can be clear and neutral enough to [getting in touch with reality](<getting in touch with reality.md>)
 
-## [October 8th, 2020](<October 8th, 2020.md>)
-- Second is [getting in touch with reality](<getting in touch with reality.md>)
-
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - It became much clearer for me that now is the time for me to really learn the lesson connects with reality in a slow-motion way so that I could see clearly what happens and improves myself at the moment instead of only able to replay them back after that. [life lessons](<life lessons.md>) [getting in touch with reality](<getting in touch with reality.md>)
 

@@ -1,8 +1,5 @@
 
 # Backlinks
-## [October 1st, 2020](<October 1st, 2020.md>)
-- After establishing a starting point, the next thing is about the [mastery](<mastery.md>)
-
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - The differences between teachers and experts are teachers good at theory, but experts good at handling situation. The teachers follow structure, while the experts flow in the scenario. [mastery](<mastery.md>)
 
@@ -11,4 +8,7 @@
 
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - We are always in the process of master something, either conscious or unconscious, either positive or negative, either good at doing something or avoiding something [mastery](<mastery.md>)
+
+## [progressive development approach](<progressive development approach.md>)
+- After establishing a starting point, the next thing is about the [mastery](<mastery.md>)
 

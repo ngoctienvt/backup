@@ -1,8 +1,6 @@
 
 # Backlinks
 ## [October 1st, 2020](<October 1st, 2020.md>)
-- Reflection after each learning to condense knowledges and experiences. [condensing and generative process](<condensing and generative process.md>)
-
 - I still feel a little mess to focus to working on [condensing and generative process](<condensing and generative process.md>).
 
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
@@ -16,4 +14,7 @@
 
 ## [interests](<interests.md>)
 - wisdom - [condensing and generative process](<condensing and generative process.md>)
+
+## [progressive development approach](<progressive development approach.md>)
+- Reflection after each learning to condense knowledges and experiences. [condensing and generative process](<condensing and generative process.md>)
 

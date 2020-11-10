@@ -19,10 +19,6 @@
 - While [top-down approach](<top-down approach.md>)
 
 ## [October 13th, 2020](<October 13th, 2020.md>)
-- When I thought about how I could learn from the [top-down approach](<top-down approach.md>),
-
-- The hardest part of [progressive development approach](<progressive development approach.md>) is still about how to utilize the [focus mode](<focus mode.md>) to use my time effectively. The difficulty is still about I feel the [top-down approach](<top-down approach.md>)
-
 - [convergence focus](<convergence focus.md>) will about I have a thing with [clear intention](<clear intention.md>), [constraint](<constraint.md>) and [top-down approach](<top-down approach.md>)
 
 ## [October 16th, 2020](<October 16th, 2020.md>)
@@ -32,15 +28,6 @@
 - [external knowledge](<external knowledge.md>) help to optimize the situation from a [top-down approach](<top-down approach.md>)
 
 - It's helpful to split things down so we can perform ourselves on that role and learn to master these roles separately. However, it's also unconsciously create hard [top-down approach](<top-down approach.md>)
-
-## [October 1st, 2020](<October 1st, 2020.md>)
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>),
-
-- The reason to have a [starting point](<starting point.md>) is to realize that things have different levels or different progress to work on. [top-down approach](<top-down approach.md>)
-
-- After establishing a starting point, the next thing is about the [mastery](<mastery.md>) process. The process of mastery is what's I actually do in the [top-down approach](<top-down approach.md>)
-
-- Synthesis things by a [top-down approach](<top-down approach.md>)
 
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - What is the [entirety of an atomic concept](<entirety of an atomic concept.md>)? I do not really know yet, but create a hard [top-down approach](<top-down approach.md>)
@@ -53,9 +40,6 @@
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
 I noticed that when I'm approaching things to train others, I like to work from a [top-down approach](<top-down approach.md>)
-
-## [October 6th, 2020](<October 6th, 2020.md>)
-- I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [top-down approach](<top-down approach.md>)
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
 [There is nothing wrong, only the lack of wisdom](<There is nothing wrong, only the lack of wisdom.md>). We are so lost that we live the rules by default without the ability to know why there's a need for rules from the beginnings. [rules](<rules.md>) and [top-down approach](<top-down approach.md>)
@@ -87,6 +71,14 @@ I noticed that when I'm approaching things to train others, I like to work from 
 
 ## [progressive development approach](<progressive development approach.md>)
 -  [top-down approach](<top-down approach.md>)
+
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>),
+
+- The reason to have a [starting point](<starting point.md>) is to realize that things have different levels or different progress to work on. [top-down approach](<top-down approach.md>)
+
+- After establishing a starting point, the next thing is about the [mastery](<mastery.md>) process. The process of mastery is what's I actually do in the [top-down approach](<top-down approach.md>)
+
+- Synthesis things by a [top-down approach](<top-down approach.md>)
 
 ## [top-down approach](<top-down approach.md>)
 - [top-down approach](<top-down approach.md>)

@@ -5,6 +5,7 @@
     - [top-down approach](<top-down approach.md>)
     - [bottom-up approach](<bottom-up approach.md>) [processed](<processed.md>)
 - [Map of Contents](<Map of Contents.md>)
+- [clean up fleeting notes](<clean up fleeting notes.md>)
 - ### Evergreen notes
 - [What is the process of my personal knowledge development?](<What is the process of my personal knowledge development?.md>)
     - Collecting and connecting raw data

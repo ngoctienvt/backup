@@ -9,7 +9,7 @@ This is really a big [[life lessons]] for me about releasing all the dependent t
     - {{[[DONE]]}} [[energy management]]
     - {{[[DONE]]}} condensing knowledge about deep coaching
     - {{[[TODO]]}} templates or thinking process 
--  I feel that I am still not so much clear how the [[progressive development approach]] really apply in the context of [[Roam Research]]. I still feel that I think more about the system and how the [[workflow]] need to go in a smooth way. I want to focus on [[workflow]] in a general concept and in a practical way as well.
+- 
 - [[coaching reflection]] I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
 - [[Expanding questions]] How to organize information in Roam Research?
 

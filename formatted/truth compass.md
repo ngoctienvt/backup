@@ -9,9 +9,6 @@ If we want to protect ourselves, focus on the hole or what's lacking on argument
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - I learned a big thing that when we are going far ahead enough, everything that we see at problems are not problems anymore. [truth compass](<truth compass.md>)
 
-## [October 1st, 2020](<October 1st, 2020.md>)
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>)
-
 ## [October 20th, 2020](<October 20th, 2020.md>)
 - There is a realization that in order to define what's right and what's not, the main point is who decides. And if I could always let my true self decide then I'm always on good shape, and also can be sure that I'm on the right track. [soul-guidance](<soul-guidance.md>) [truth compass](<truth compass.md>)
 
@@ -40,6 +37,9 @@ If we want to protect ourselves, focus on the hole or what's lacking on argument
 
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - based on the [truth compass](<truth compass.md>)
+
+## [progressive development approach](<progressive development approach.md>)
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>)
 
 ## [spiritual growth](<spiritual growth.md>)
 - [truth compass](<truth compass.md>)

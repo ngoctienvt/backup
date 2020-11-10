@@ -26,8 +26,6 @@
 - ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 11th, 2020](<October 11th, 2020.md>)
-[living from the place of surrender](<living from the place of surrender.md>)
-
 So what I want to have is the ability to focus myself to the fact that [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 13th, 2020](<October 13th, 2020.md>)

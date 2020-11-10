@@ -5,6 +5,7 @@
     - [[top-down approach]]
     - [[bottom-up approach]] #processed
 - [[Map of Contents]]
+- [[clean up fleeting notes]]
 - ### Evergreen notes
 - [[What is the process of my personal knowledge development?]]
     - Collecting and connecting raw data

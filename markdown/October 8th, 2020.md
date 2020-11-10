@@ -21,6 +21,3 @@ I also noticed I still have too much [[attachment]] for materials things. This m
 - Today I still learn that [[focus]] can't happen if we force it to happen. When we start to merge the experiences, things will start to be clear and be condense, so that's the focus happens in a [[natural progression]] way. [[soul evolution]] [[union experiences]]
 - I also felt that I become more calm when facing with alien moments that usually felt [[threaten]] for me. [[emotions]]
 - Some memories about poops still makes me feel uncomfortable, and all I need is just trust that I will be better after the [[union experiences]]. [[trust the process]]
-- There seems like there is two main important things on [[progressive development approach]]
-    - One is [[union experiences]] so the self can [[establishing the seat of awareness]] with all the tools that are union instead of fragement
-    - Second is [[getting in touch with reality]] so that the self can merge the inner shakti with the reality naturally. [[universal union]]

@@ -5,8 +5,6 @@
 
 - Some memories about poops still makes me feel uncomfortable, and all I need is just trust that I will be better after the [union experiences](<union experiences.md>).
 
-- One is [union experiences](<union experiences.md>)
-
 ## [October 9th, 2020](<October 9th, 2020.md>)
 And in other to gain [contextual mastery](<contextual mastery.md>), learning the knowledge is not enough, practicing alone is not enough, it's about deep reflection to [deeper understanding](<deeper understanding.md>) and [union experiences](<union experiences.md>)
 
