@@ -1,3 +1,4 @@
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [[unattachment centering]] even when I'm dreaming. 
 - I felt that I'm quite [[restless]] when fixing problems. I have a fear that they maybe went wrong and I have to pay money to fix it. The uncomfortable feeling of inconvenient and fear of loss money really make me feel uneasy.
+- [[mental squeeze point]] is a good indicator for [[renovation]] something occurs. It indicates the transition to different phases, stages or require much more focus on something.
 - 
