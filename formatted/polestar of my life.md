@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Life Polestar](<Life Polestar.md>)
+- [polestar of my life](<polestar of my life.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - The [polestar of my life](<polestar of my life.md>)
 

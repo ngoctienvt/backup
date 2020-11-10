@@ -1,6 +1,6 @@
 - [intention](<intention.md>) is the direction that I want to align myself to.
     - have a clear intention to aim my will that direction
-    - [progressive approach](<progressive approach.md>) to move forward in an [effective](<effective.md>) way every day
+    - [progressive development approach](<progressive development approach.md>) to move forward in an [effective](<effective.md>) way every day
     - have a natural [life flow](<life flow.md>) and [workflow](<workflow.md>)
     - have a [work ethic](<work ethic.md>) and [discipline](<discipline.md>) to hold myself above the lower-self that pull me down and to keep me 
     - have a attitude to [enjoy the process](<enjoy the process.md>) and [enjoy the learning experience](<enjoy the learning experience.md>)

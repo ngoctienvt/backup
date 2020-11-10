@@ -16,7 +16,7 @@ I feel there is a rush inside me to skip the cleaning step. It's like running a 
 - I felt that I'm too lazy to go out to make a VCB atm so I can use my master card in an [convenient](<convenient.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
-- [Roam Research](<Roam Research.md>) [progressive approach](<progressive approach.md>) [mind-training](<mind-training.md>) I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [convenient](<convenient.md>)
+- [Roam Research](<Roam Research.md>) [progressive development approach](<progressive development approach.md>) [mind-training](<mind-training.md>) I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [convenient](<convenient.md>)
 
 ## [September 30th, 2020](<September 30th, 2020.md>)
 - I felt so much disturb when I saw things that are not [convenient](<convenient.md>)

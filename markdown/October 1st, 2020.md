@@ -1,4 +1,4 @@
-- The [[starting point]] of everything is established a solidify [[basic foundation]] so that I can come back at any time. The role of a basic foundation is to establish a [[top-down approach]], a broad viewpoint that includes things I want to work on. It would help to set me a [[truth compass]] to come back when I feel lost or to expand myself based on the experience that I gained. [[life flow]] [[progressive approach]]
+- The [[starting point]] of everything is established a solidify [[basic foundation]] so that I can come back at any time. The role of a basic foundation is to establish a [[top-down approach]], a broad viewpoint that includes things I want to work on. It would help to set me a [[truth compass]] to come back when I feel lost or to expand myself based on the experience that I gained. [[life flow]] [[progressive development approach]]
     - The reason to have a [[starting point]] is to realize that things have different levels or different progress to work on. [[top-down approach]] The starting point is established by 
         - learning and getting used to what's possible, 
         - what's the floor and what's the possible ceiling?

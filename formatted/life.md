@@ -7,9 +7,9 @@
 - [bottom-up approach](<bottom-up approach.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>), the soul will easily get distracted and live in a sleep state or accept the lower life.
     - meditation
     - [coaching](<coaching.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>) and [bottom-up approach](<bottom-up approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>) as possible.
-    - This [progressive approach](<progressive approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>) process to evolve the soul.
-    - This [progressive approach](<progressive approach.md>) also have 3 important point:
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive development approach](<progressive development approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>) and [bottom-up approach](<bottom-up approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>) as possible.
+    - This [progressive development approach](<progressive development approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>) process to evolve the soul.
+    - This [progressive development approach](<progressive development approach.md>) also have 3 important point:
         - Intention
         - Available or accumulate
         - Now

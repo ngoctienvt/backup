@@ -10,7 +10,7 @@
 - Instead of focus teaching on the knowledge, I could do better if I could describe more about how the process of our [feelings](<feelings.md>) will occurs. [training method](<training method.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
-I noticed that when I'm approaching things to train others, I like to work from a [top-down approach](<top-down approach.md>) as this helps me to ensure that the value and the understanding are there for them. However, this also put pressure too much on my shoulder. Ideally, I want to have some small top-down ideas [breakdown](<breakdown.md>) that I want to develop and work to complete these fragments and train them as well. This is exactly how [progressive approach](<progressive approach.md>) in action but not only I work in my mind but I put them, in reality, to experiment and get feedback as well. [training method](<training method.md>)
+I noticed that when I'm approaching things to train others, I like to work from a [top-down approach](<top-down approach.md>) as this helps me to ensure that the value and the understanding are there for them. However, this also put pressure too much on my shoulder. Ideally, I want to have some small top-down ideas [breakdown](<breakdown.md>) that I want to develop and work to complete these fragments and train them as well. This is exactly how [progressive development approach](<progressive development approach.md>) in action but not only I work in my mind but I put them, in reality, to experiment and get feedback as well. [training method](<training method.md>)
 
 - [mind-training](<mind-training.md>) [training method](<training method.md>)
 

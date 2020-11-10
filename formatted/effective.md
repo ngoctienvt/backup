@@ -16,7 +16,7 @@
 - helpful manner is a manner that focuses on raising the moments or the person in front of me in an [effective](<effective.md>)
 
 ## [intention](<intention.md>)
-- [progressive approach](<progressive approach.md>) to move forward in an [effective](<effective.md>)
+- [progressive development approach](<progressive development approach.md>) to move forward in an [effective](<effective.md>)
 
 ## [interests](<interests.md>)
 - [effective](<effective.md>)

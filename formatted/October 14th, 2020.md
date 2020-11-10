@@ -12,7 +12,7 @@ The first level is reflection and hypothesis.
 The second is real-life experiments to test the above.
 The third level is to complement what is missing.
 - I noticed that I rarely give [compliments](<compliments.md>) to other people. The reason is I feel that if it's giving freely, it's not really a compliment but actually flattering. The true [compliments](<compliments.md>) requires a true [acknowledgment](<acknowledgment.md>) with full presence to receive and to notice what deserves to compliment.
-- [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>) = [being mode](<being mode.md>) [progressive approach](<progressive approach.md>)
+- 
     - [being mode](<being mode.md>) seems like the mode that fuse between the focus and diffuse mode.
     - In [being mode](<being mode.md>), I will able to connect my inner energy to get in touch with reality, instead of being block by inner [samskaras](<samskaras.md>) [integration](<integration.md>). [getting in touch with reality](<getting in touch with reality.md>)
     - The hard part is this kind of connection is not stable at the moment, and in the early stage of [being mode](<being mode.md>), I will work on how to establish this connection in a stable way. [diffuse mode](<diffuse mode.md>) is very important here, because this is when I clean the blockages with relaxation and [integration](<integration.md>).

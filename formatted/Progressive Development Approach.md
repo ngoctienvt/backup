@@ -1,6 +1,5 @@
-- 
 
 # Backlinks
 ## [progressive development approach](<progressive development approach.md>)
-- living life as a [circular process](<circular process.md>)
+- [Progressive Development Approach](<Progressive Development Approach.md>)
 

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Life Polestar](<Life Polestar.md>)
+- [self-fulfilled](<self-fulfilled.md>)
+
 ## [November 8th, 2020](<November 8th, 2020.md>)
 - I also noticed that I have a feeling of satisfy when I have a new insight or making a progress. For me, this is a goal-oriented tendency that I want to release. It's making me easy to satisfy and not leave my best life, it's a [samskaras](<samskaras.md>) that I need to work on, so that I could [self-fulfilled](<self-fulfilled.md>)
 

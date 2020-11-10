@@ -75,8 +75,8 @@ where they are]] through the [coaching reflection](<coaching reflection.md>) ski
                 - If I use spaceship, I could use technique to maneuver it
                 - If I use a rocket, I need to have technique to land safely.
         - In the end, method and technique are simply “things” or means to an end. These things will largely depend on your approach. And your approach will depend on you.
-- My way to approach life will include [living from the place of surrender](<living from the place of surrender.md>) and [progressive approach](<progressive approach.md>).
-- [progressive approach](<progressive approach.md>) will be the fundamental for the way I approach life generally, as well as could be a way to approach smaller goal as well.
+- My way to approach life will include [living from the place of surrender](<living from the place of surrender.md>) and [progressive development approach. [[polestar of my life](<progressive development approach. [[polestar of my life.md>)
+- 
 - thoughts -> concept -> deepen understand to concept 
     - microcosmic and macrocosmic
 - [contextual usages](<contextual usages.md>) are a way to interpret or utilize knowledge
@@ -85,13 +85,13 @@ where they are]] through the [coaching reflection](<coaching reflection.md>) ski
     - ![Hình ảnh](https://pbs.twimg.com/media/ElMpy6iXYAQ9nES?format=jpg&name=4096x4096)
     - 
 - [my quotes](<my quotes.md>) If we don't evolve enough to handle our heart, we can't handle life. Because life will always touch our heart.
-- My understanding for [approach](<approach.md>) provide the way I want to achieve my [end goal](<end goal.md>). If I want to go from HCM to HN, I want to have a [progressive approach](<progressive approach.md>) that helped me to reach my destination in an effortless and natural way.
+- My understanding for [approach](<approach.md>) provide the way I want to achieve my [end goal](<end goal.md>). If I want to go from HCM to HN, I want to have a [[progressive development approach that helped me to reach my destination in an effortless and natural way.
     - [method](<method.md>) are the way that I actual use based on the context provided by [approach](<approach.md>). For above example, I can go by foot with a map. Or I can go by any other vehicles. I just need to develop the process to make sure I will reach my goal.
         - [techniques](<techniques.md>) are the way that I can improve for myself to execute the [method](<method.md>) in a better way. Like I develop a technique to go by foot without feel tired.
         - [activities](<activities.md>) are the action that I do to ensure I help me reach my goal, and it is develop based on the method.
     - [principle](<principle.md>) are the rules that act like a filter to help me develop my [method](<method.md>), techniques and activities.
-- [ ] building [progressive approach](<progressive approach.md>) through [living from the place of surrender](<living from the place of surrender.md>) example [October 29th, 2020](<October 29th, 2020.md>)
-    - The approach I want to support myself to reach this way of living is [progressive approach](<progressive approach.md>). 
+- 
+    - 
         - progressive approach is based on the following criterion
             - natural development
             - process-oriented or continuous work in progress

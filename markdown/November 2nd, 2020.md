@@ -37,7 +37,7 @@ I'm on the process to learn to lean myself away from my inner stuff and my inner
         - One of new [[way of thinking]] I feel that I will need to develop now is [[think in a filter way]] instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [[contextual usages]].
         - Other is have a [[workplace]] for what I want to work with like [[Expanding questions]] or where to inbox free thoughts. And then how to put the answers back to their place.
 - 
-- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [[workflow]] [[output mechanism]] [[living from the place of surrender]] [[progressive approach]] [[From idea to production]]
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [[workflow]] [[output mechanism]] [[living from the place of surrender]] [[progressive development approach]] [[From idea to production]]
     - https://twitter.com/Roamfu/status/1293505256962183170
     - https://www.roambrain.com/roam-and-your-idea-to-reality-production-stack/
 - [[evergreen notes]] https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/

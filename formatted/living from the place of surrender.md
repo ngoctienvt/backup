@@ -1,8 +1,8 @@
 - [polestar of my life](<polestar of my life.md>) The core direction of living a surrender life
-    - living an [impactful life](<impactful life.md>) that happens as natural results of practicing [progressive approach](<progressive approach.md>) in a daily manner
+    - living an [impactful life](<impactful life.md>) that happens as natural results of practicing [progressive development approach](<progressive development approach.md>) in a daily manner
 - ### Core principles
     - a continuously refining [polestar of my life](<polestar of my life.md>)
-    - [progressive approach](<progressive approach.md>) for a natural progression
+    - [progressive development approach](<progressive development approach.md>) for a natural progression
         - focus on natural [cleaning and integrating process](<cleaning and integrating process.md>) and [accumulate thought process](<accumulate thought process.md>) to acquire [readiness](<readiness.md>) for the unpredictable unfolding of life
         - moving through life with learning attitude and trust the process
 - ### Components of living a surrender life
@@ -42,8 +42,6 @@ let things be and raise it up naturally without any attachments. [living from th
 
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - My way to approach life will include [living from the place of surrender](<living from the place of surrender.md>)
-
-- [ ] building [progressive approach](<progressive approach.md>) through [living from the place of surrender](<living from the place of surrender.md>)
 
 - [living from the place of surrender](<living from the place of surrender.md>)
 
@@ -94,9 +92,6 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)
-
-## [progressive approach](<progressive approach.md>)
-- a approach of living life to nurture the way of living - [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [workflow](<workflow.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)

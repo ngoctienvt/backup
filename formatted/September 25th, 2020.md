@@ -1,5 +1,5 @@
 - I felt that I still have a little bit of putting other people higher than myself, instead of realizing that we are the same. Souls are the same, but the identification that we live in makes me feel we are not the same. Some people are better than me. [comparison](<comparison.md>) This makes me feel [nervous](<nervous.md>) and forgets my [trueself](<trueself.md>), and reacts in a way that wants to have [recognition](<recognition.md>).
-- There are only 4 broad categories that we need to know. And we need to know the nature of them, not the details. [spiritual growth](<spiritual growth.md>) [understanding](<understanding.md>) [progressive approach](<progressive approach.md>)
+- There are only 4 broad categories that we need to know. And we need to know the nature of them, not the details. [spiritual growth](<spiritual growth.md>) [understanding](<understanding.md>) [progressive development approach](<progressive development approach.md>)
     - [consciousness](<consciousness.md>)
         - The nature of the [consciousness](<consciousness.md>) is conscious, attention, and experience
     - [the outside world](<the outside world.md>)

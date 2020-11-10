@@ -10,7 +10,7 @@
     - accumulated and deepen knowledge over time [evergreen garden](<evergreen garden.md>) [deeper understanding](<deeper understanding.md>)
     - preparing all the needed materials for creation [serving the demand of reality](<serving the demand of reality.md>)
 - ### What's the difference of this journaling method?
-    - [progressive approach](<progressive approach.md>)
+    - [progressive development approach](<progressive development approach.md>)
     - [natural progression](<natural progression.md>)
 - ### Journaling in practice
     - [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>)

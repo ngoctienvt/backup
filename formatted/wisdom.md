@@ -16,5 +16,5 @@
 - We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>) to expand the [wisdom](<wisdom.md>)
 
 ## [true happiness](<true happiness.md>)
-- seeking and living the truth on a [progressive approach](<progressive approach.md>) [wisdom](<wisdom.md>)
+- seeking and living the truth on a [progressive development approach](<progressive development approach.md>) [wisdom](<wisdom.md>)
 

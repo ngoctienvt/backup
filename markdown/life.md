@@ -7,9 +7,9 @@
 - [[bottom-up approach]] is the way of approach life from the current starting point and working from that level to move up the [[soul evolution]] process in a natural way. However, if there is no [[intention]], the soul will easily get distracted and live in a sleep state or accept the lower life.
     - meditation
     - [[coaching]]
-- [[soul evolution]] will need to work on both level to have a [[intention]] to aim to from [[top-down approach]] and close the gap by [[bottom-up approach]]. This [[progressive approach]] of [[soul evolution]] includes both [[top-down approach]] and [[bottom-up approach]] that complement each other to help the soul evolve and live the truth as [[natural progression]] as possible.
-    - This [[progressive approach]] actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [[merging]] process to evolve the soul.
-    - This [[progressive approach]] also have 3 important point:
+- [[soul evolution]] will need to work on both level to have a [[intention]] to aim to from [[top-down approach]] and close the gap by [[bottom-up approach]]. This [[progressive development approach]] of [[soul evolution]] includes both [[top-down approach]] and [[bottom-up approach]] that complement each other to help the soul evolve and live the truth as [[natural progression]] as possible.
+    - This [[progressive development approach]] actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [[merging]] process to evolve the soul.
+    - This [[progressive development approach]] also have 3 important point:
         - Intention
         - Available or accumulate
         - Now

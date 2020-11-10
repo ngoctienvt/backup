@@ -14,6 +14,6 @@
 
 And in other to gain [contextual mastery](<contextual mastery.md>),
 
-## [progressive approach](<progressive approach.md>)
+## [progressive development approach](<progressive development approach.md>)
 - flexibility with [contextual mastery](<contextual mastery.md>)
 

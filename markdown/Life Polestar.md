@@ -1,0 +1,5 @@
+- Processing
+    - [[polestar of my life]]
+    - [[self-fulfilled]]
+    - [[integration]]
+- Processed

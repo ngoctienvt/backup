@@ -12,6 +12,3 @@
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - We are always in the process of master something, either conscious or unconscious, either positive or negative, either good at doing something or avoiding something [mastery](<mastery.md>)
 
-## [progressive approach](<progressive approach.md>)
-- acquire [mastery](<mastery.md>)
-

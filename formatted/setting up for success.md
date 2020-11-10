@@ -9,7 +9,7 @@
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - I felt so [restless](<restless.md>) about the [Hades game](<Hades game.md>) because it's enjoyable, fun to play and didn't punish much. It makes me think about setting up for success in coaching and training. Because the soul will learn lessons in a much enjoyable way instead of digest too big things at once. [setting up for success](<setting up for success.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [progressive development approach](<progressive development approach.md>)
 - [setting up for success](<setting up for success.md>)
 
 ## [setting up for success](<setting up for success.md>)

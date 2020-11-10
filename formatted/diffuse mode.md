@@ -11,7 +11,8 @@
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - [ ] Working merging between [focus mode](<focus mode.md>) and [diffuse mode](<diffuse mode.md>)
 
-- [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>)
-
 - The hard part is this kind of connection is not stable at the moment, and in the early stage of [being mode](<being mode.md>), I will work on how to establish this connection in a stable way. [diffuse mode](<diffuse mode.md>)
+
+## [progressive development approach](<progressive development approach.md>)
+- [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>)
 

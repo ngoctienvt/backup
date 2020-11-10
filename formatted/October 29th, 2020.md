@@ -37,5 +37,3 @@ How to know what the reality truly need? It's about examining our behaviors, way
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - [ ] Coaching [Nguyễn Thúy Hằng](<Nguyễn Thúy Hằng.md>) [October 29th, 2020](<October 29th, 2020.md>)
 
-- [ ] building [progressive approach](<progressive approach.md>) through [living from the place of surrender](<living from the place of surrender.md>) example [October 29th, 2020](<October 29th, 2020.md>)
-

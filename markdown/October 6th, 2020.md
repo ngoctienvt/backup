@@ -47,12 +47,12 @@ I want to transcend myself over this as this will be a big shift inside of me th
 
 When I manage to learn this lesson, I will be able to merge all of the perception to the truth and experience the truth itself. [[life lessons]]
 - After today yoga practices, I feel I start to connect more with my body and I also learn to relax on the process as well. [[being while doing]]
-- Everything has different levels, and they only become higher and higher. Just like relaxation. That's why our way of thinking need to be set the intention and destination but focus on where we are, because everything is a [[continuous process]] without clear starting point and end point.[[level of development]] [[progressive approach]]
+- Everything has different levels, and they only become higher and higher. Just like relaxation. That's why our way of thinking need to be set the intention and destination but focus on where we are, because everything is a [[continuous process]] without clear starting point and end point.[[level of development]] [[progressive development approach]]
     - relax when no disturbance
     - relax when there is disturbance
     - relax when doing
     - relax when there is disturbance and doing
-- When I'm playing Spirit Island, I learned that it would very helpful to [[setting up for success]] as learning the game slowly which help to digest the experiences and grow our understanding as well as skills in a [[progressive approach]]. 
+- When I'm playing Spirit Island, I learned that it would very helpful to [[setting up for success]] as learning the game slowly which help to digest the experiences and grow our understanding as well as skills in a [[progressive development approach]]. 
 
 The way to do this is break things down and focus on 1 things at a time. For instance
     - Learning about the ability of spirit
@@ -75,7 +75,7 @@ Each tasks also require different kind of attentions [[types of attention]].
 This really helps to pick up the task where we at without the need to keep in our mind is a really way to use our [[intellectual mind]] in a effective way.
 - I felt that PARA system is good to keep my large topics organized and easy to work on. However, the evergreen notes approach is kind of a [[top-down approach]] that works on support the thesis or argue about it, instead of a way that open and easy to include, expand the ideas. 
 
-I will find a way to really develop my notes on a [[bottom-up approach to be my main execution for [[progressive approach]]
+I will find a way to really develop my notes on a [[bottom-up approach to be my main execution for [[progressive development approach]]
 - #funny #music {{[[youtube]]: https://www.youtube.com/watch?v=7jQipab-Ddc&ab_channel=Wowy}}
 - On Saturday, I want to share about freedom and wisdom, because this is really two things that makes me have a true happiness and a way of living. [[true happiness]] [[natural progression]]
 - For the [[truth compass]], I think that my main way to make decision on life is not about truth. Actually truth is what I can see and know what are really happening, but my decision is different. 

@@ -9,7 +9,7 @@ This is really a big [life lessons](<life lessons.md>) for me about releasing al
     - [x] [energy management](<energy management.md>)
     - [x] condensing knowledge about deep coaching
     - [ ] templates or thinking process 
--  I feel that I am still not so much clear how the [progressive approach](<progressive approach.md>) really apply in the context of [Roam Research](<Roam Research.md>). I still feel that I think more about the system and how the [workflow](<workflow.md>) need to go in a smooth way. I want to focus on [workflow](<workflow.md>) in a general concept and in a practical way as well.
+-  I feel that I am still not so much clear how the [progressive development approach](<progressive development approach.md>) really apply in the context of [Roam Research](<Roam Research.md>). I still feel that I think more about the system and how the [workflow](<workflow.md>) need to go in a smooth way. I want to focus on [workflow](<workflow.md>) in a general concept and in a practical way as well.
 - [coaching reflection](<coaching reflection.md>) I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
 - [Expanding questions](<Expanding questions.md>) How to organize information in Roam Research?
 

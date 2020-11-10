@@ -21,7 +21,7 @@
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - When I thought about how I could learn from the [top-down approach](<top-down approach.md>),
 
-- The hardest part of [progressive approach](<progressive approach.md>) is still about how to utilize the [focus mode](<focus mode.md>) to use my time effectively. The difficulty is still about I feel the [top-down approach](<top-down approach.md>)
+- The hardest part of [progressive development approach](<progressive development approach.md>) is still about how to utilize the [focus mode](<focus mode.md>) to use my time effectively. The difficulty is still about I feel the [top-down approach](<top-down approach.md>)
 
 - [convergence focus](<convergence focus.md>) will about I have a thing with [clear intention](<clear intention.md>), [constraint](<constraint.md>) and [top-down approach](<top-down approach.md>)
 
@@ -83,9 +83,9 @@ I noticed that when I'm approaching things to train others, I like to work from 
 
 - [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive development approach](<progressive development approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [progressive development approach](<progressive development approach.md>)
 -  [top-down approach](<top-down approach.md>)
 
 ## [top-down approach](<top-down approach.md>)

@@ -4,7 +4,7 @@ Instead of looking at I'm not enough because this is the fact already, I can use
 - Whatever things I still look at problems and avoid is because I am not fully embracing that I'm an [[eternal soul]]. I haven't fully experienced myself and establish myself on that spot, so I still can easily get lost on to the [[object of consciousness]]. [[self-experience]] [[self-trust]]
 - I still have so many levels of experiences that I have preferences for and this makes me unconsciously protect these needs and clings [[preferences]]. They can always good in a short-term, but will be a hindrance for a higher way of living life. 
 
-[[living from the place of surrender]] is fully orient myself into a higher life, but at the same time fully experiences what levels I am at as the stepping stones for my next level. [[progressive approach]]
+[[living from the place of surrender]] is fully orient myself into a higher life, but at the same time fully experiences what levels I am at as the stepping stones for my next level. [[progressive development approach]]
 - The ratio for my [[Workflow for an surrender life]] is not clear yet, I only have the ratio of some activities now are
     - Meditation - half morning, half afternoon
     - Writing, relaxing, reading, working - the remaining half

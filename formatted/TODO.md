@@ -7,7 +7,7 @@
         - "[fear](<fear.md>)"
 - Projects I am working on
     - [mind-training](<mind-training.md>)
-        - [progressive approach](<progressive approach.md>)
+        - [progressive development approach](<progressive development approach.md>)
             - [ ] working with the ideas How to choose the context that I want my fleeting notes appear? and Do I need to clean the fleeting notes?
                 - [contextual linking](<contextual linking.md>) The context that I want to mention when I'm writing are
                     - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [bottom-up approach](<bottom-up approach.md>) to expand it
@@ -52,8 +52,6 @@
 - {{[TODO](<TODO.md>)}
 
 ## [October 27th, 2020](<October 27th, 2020.md>)
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

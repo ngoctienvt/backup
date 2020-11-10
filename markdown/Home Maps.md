@@ -2,16 +2,15 @@
     - True freedom to be the witness conscious
     - Be the blessing of the world
 - # Home Maps
-- ### Highest MOC
-- [[Spiritual MOC]]
+- [[Life Polestar]]
+- ### Priority MOC
 - [[Personal Knowledge Management MOC]]
-    - [[External sources]]
-    - Internal sources
-- [[Support system MOC]]
-- 
+- [[Working Zone MOC]]
+- [[Workflow MOC]]
+- ### Low priority MOC
 - [[Coaching MOC]]
 - [[Training MOC]]
-- [[Working Zone MOC]]
+- [[Spiritual MOC]]
 - 
 - Smaller MOC working on
-    - [[Workflow MOC]]
+    - [[Support system MOC]]

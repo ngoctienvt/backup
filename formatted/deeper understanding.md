@@ -44,9 +44,6 @@ If the person only learns from what others teach them, they can't have their own
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - For example, [deeper understanding](<deeper understanding.md>)
 
-## [progressive approach](<progressive approach.md>)
-- [deeper understanding](<deeper understanding.md>),
-
 ## [soul evolution](<soul evolution.md>)
 - Reflection for [deeper understanding](<deeper understanding.md>)
 

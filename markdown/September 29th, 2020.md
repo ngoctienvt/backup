@@ -5,7 +5,7 @@
 The reason is I have a [[hidden intention]] to grasp the big picture and understand everything as soon as possible and focus on the [[effective result]] in an unattachment way.
 
 I would like to shift this [[hidden intention]] to another [[intention]] is 
-    - To complete [[progressive approach]] as [[a way to effective mastery]] in a smaller picture.
+    - To complete [[progressive development approach]] as [[a way to effective mastery]] in a smaller picture.
     - To enjoy the process and to learn as a way to improve the enjoyment is a bigger picture. [[enjoy the process]]
 - In [[coaching session]], it would be really helpful to discover the goal that really matters with clients. It's the meaningful results for clients instead of focusing on what they are only concern now.
 

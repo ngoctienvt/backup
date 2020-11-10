@@ -107,7 +107,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 - [natural progression](<natural progression.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>) and [bottom-up approach](<bottom-up approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive development approach](<progressive development approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>) and [bottom-up approach](<bottom-up approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
 
 - [natural progression](<natural progression.md>)
 
@@ -121,7 +121,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [point of focus](<point of focus.md>)
 - [natural progression](<natural progression.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [progressive development approach](<progressive development approach.md>)
 - [natural progression](<natural progression.md>)
 
 ## [true happiness](<true happiness.md>)

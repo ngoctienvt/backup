@@ -28,7 +28,7 @@
         - working at the root - the highest level that possible
 - I felt much clearer now, though they are still a mess because it's not easy to merge these things, the whole point is for something new to emerge, there need to be the [integration](<integration.md>) happens first. So this process will take time.
 - I still feel that I'm too careful and not let myself open fully yet, still have many fear, try to control at least in some way. Not fully let the process happens itself and spear the responsibilities as well as capacities like chị Dung.[openness](<openness.md>)
-    - My true [openness](<openness.md>) and [trust the process](<trust the process.md>) is not deny my ability for sustain able development and theory go before the practices. It's [the middle way](<the middle way.md>) that show in the [progressive approach](<progressive approach.md>).
+    - 
     - I'm kind of people who value mainly on focusing on the thinking instead of physical or immediate work. Though I still can do them in emergency moment, most of the time I will work to develop the long-term answer instead.
 - It feels so much good that I unconsciously follow what I think is good instead of building on [truth compass](<truth compass.md>). The fact that I still follow my mind and give too much power for it makes me work ineffective.
 - logseq is just where I put my inner work to store it out. It's not where the work actually happens. It supports me, but the true work is the [integration](<integration.md>) work that happens inside of me. This is also the most effective work. [effective](<effective.md>)

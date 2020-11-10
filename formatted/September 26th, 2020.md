@@ -12,7 +12,7 @@
     - Coaching -> spiritual teaching -> mind-training would be my ideal process for supporting others.
 - [weekly reflection](<weekly reflection.md>) 
     - This week I have been focused on a few main [samskaras](<samskaras.md>): love, recognition, anger, and fear. My mind is becoming less and less stuffs when I write on Roam Research and they also started to condense in a much easier way.
-    - I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive approach](<progressive approach.md>)
+    - I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive development approach](<progressive development approach.md>)
         - The [top of the ceiling](<top of the ceiling.md>) is about all 4 broad elements of the world, the nature of each of them, and the relationship of them.
         - The [bottom of the floor](<bottom of the floor.md>) is about the actual experience of each moment and the interaction of each moment with the 4 elements.
         - The middle is the human life that happens in the world based on the tools that the conscious have: emotions, mind, body.

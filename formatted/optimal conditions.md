@@ -14,7 +14,7 @@
 - I want to sleep a bit early each night so that I will ready for the morning and also put myself in a better [optimal conditions](<optimal conditions.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
-Nothing is start from scratch. If you want to do something, it must have generate by somewhere, your experience, your difficulty, other existing ideas. Not brainstorming but rather a [progressive approach](<progressive approach.md>) to [optimal conditions](<optimal conditions.md>)
+Nothing is start from scratch. If you want to do something, it must have generate by somewhere, your experience, your difficulty, other existing ideas. Not brainstorming but rather a [progressive development approach](<progressive development approach.md>) to [optimal conditions](<optimal conditions.md>)
 
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
 - [coaching reflection](<coaching reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>),
@@ -31,6 +31,6 @@ Nothing is start from scratch. If you want to do something, it must have generat
 ## [mind-training](<mind-training.md>)
 - [creative training](<creative training.md>) creating [optimal conditions](<optimal conditions.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [progressive development approach](<progressive development approach.md>)
 - [bottom-up approach](<bottom-up approach.md>) to create [optimal conditions](<optimal conditions.md>)
 

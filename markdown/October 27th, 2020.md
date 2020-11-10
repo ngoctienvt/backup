@@ -75,8 +75,8 @@ where they are]] through the [[coaching reflection]] skills. When reflection, we
                 - If I use spaceship, I could use technique to maneuver it
                 - If I use a rocket, I need to have technique to land safely.
         - In the end, method and technique are simply “things” or means to an end. These things will largely depend on your approach. And your approach will depend on you.
-- My way to approach life will include [[living from the place of surrender]] and [[progressive approach]].
-- [[progressive approach]] will be the fundamental for the way I approach life generally, as well as could be a way to approach smaller goal as well.
+- My way to approach life will include [[living from the place of surrender]] and [[progressive development approach. [[polestar of my life]]
+- 
 - thoughts -> concept -> deepen understand to concept 
     - microcosmic and macrocosmic
 - [[contextual usages]] are a way to interpret or utilize knowledge
@@ -85,13 +85,13 @@ where they are]] through the [[coaching reflection]] skills. When reflection, we
     - ![Hình ảnh](https://pbs.twimg.com/media/ElMpy6iXYAQ9nES?format=jpg&name=4096x4096)
     - 
 - [[my quotes]] If we don't evolve enough to handle our heart, we can't handle life. Because life will always touch our heart.
-- My understanding for [[approach]] provide the way I want to achieve my [[end goal]]. If I want to go from HCM to HN, I want to have a [[progressive approach]] that helped me to reach my destination in an effortless and natural way.
+- My understanding for [[approach]] provide the way I want to achieve my [[end goal]]. If I want to go from HCM to HN, I want to have a [[progressive development approach that helped me to reach my destination in an effortless and natural way.
     - [[method]] are the way that I actual use based on the context provided by [[approach]]. For above example, I can go by foot with a map. Or I can go by any other vehicles. I just need to develop the process to make sure I will reach my goal.
         - [[techniques]] are the way that I can improve for myself to execute the [[method]] in a better way. Like I develop a technique to go by foot without feel tired.
         - [[activities]] are the action that I do to ensure I help me reach my goal, and it is develop based on the method.
     - [[principle]] are the rules that act like a filter to help me develop my [[method]], techniques and activities.
-- {{[[TODO]]}} building [[progressive approach]] through [[living from the place of surrender]] example [[October 29th, 2020]]
-    - The approach I want to support myself to reach this way of living is [[progressive approach]]. 
+- 
+    - 
         - progressive approach is based on the following criterion
             - natural development
             - process-oriented or continuous work in progress

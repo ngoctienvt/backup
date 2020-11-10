@@ -8,4 +8,4 @@
         - Learning and serving the reality
             - System to master anything
                 - Things to learn and master one: coaching, training, writing...
-    - Daily workflow
+    - 

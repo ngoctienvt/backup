@@ -9,9 +9,6 @@
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - •	I also realized that I want to learn to let myself integrate every single samskaras that popup without the [need for understanding](<need for understanding.md>) them. I could learn to resolve them after that. [trust the process](<trust the process.md>)
 
-## [October 23rd, 2020](<October 23rd, 2020.md>)
-- My true [openness](<openness.md>) and [trust the process](<trust the process.md>)
-
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - I would like to develop a established [trust the process](<trust the process.md>)
 

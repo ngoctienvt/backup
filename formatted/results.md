@@ -6,6 +6,6 @@
 ## [September 23rd, 2020](<September 23rd, 2020.md>)
 - I realized that I still have a lot of [inner conflict](<inner conflict.md>) that makes me [hesitate](<hesitate.md>) and not fully [confident](<confident.md>) to act. These [inner conflict](<inner conflict.md>) usually because of the [fear](<fear.md>) of not sure about the results of my action. For example, if I congratz someone, I still feel that if I'm helping or harming that person. [results](<results.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [progressive development approach](<progressive development approach.md>)
 - focused on [enjoy the process](<enjoy the process.md>) or journey instead of a [linear process](<linear process.md>) focused on [results](<results.md>)
 
