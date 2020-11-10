@@ -5,9 +5,7 @@ It hears funny but it's actually what it really looks like. Khổ quen rồi sư
 - I noticed that I have attachments for [[method]] to be effective and not wasting. We will tend to focus on the [[method]] because the cause of it is our inner disturbance, and all we want is to solve it with external solutions as soon as possible.
 
 If we are able to [[establishing the seat of awareness]] inside, we will have no need to focus on the [[method]] and will start to learn to appreciate life, to choose what we want to do in an unattachment manner.
-    - The reason is I don't have a clear intention to focus on. This will require me to always hold my [[focus]] on the intention to [[living from the place of surrender]]. To establishing myself to a polestar that will guide me through the journey. [[polestar of my life]]. 
-
-This polestar doesn't need to be perfect but will be refine continuously. 
+    - 
     - The second is I have a tendency to what I don't have instead of appreciating what I already have. It would be better when I start with the appreciation of what already is and then [[complement]] based on that. This will be the shift from [[fear of scarcity]] to [[abundance appreciation]]. [[soul evolution]]
 - I am still easy to lose myself to what others do instead of confident and grounded on my own uniqueness. [[establishing the seat of awareness]] This is because of urges and samskaras inside of me still too strong and easily pull me out.
 - 

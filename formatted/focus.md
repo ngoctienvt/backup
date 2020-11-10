@@ -1,8 +1,5 @@
 
 # Backlinks
-## [October 13th, 2020](<October 13th, 2020.md>)
-- The reason is I don't have a clear intention to focus on. This will require me to always hold my [focus](<focus.md>)
-
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - So actually the [focus](<focus.md>)
 

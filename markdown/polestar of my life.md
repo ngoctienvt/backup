@@ -1,10 +1,16 @@
-- The [[polestar of my life]] somehow will structure like this
-    - The direction - Enjoying the journey on earth
-        - Always feeling fulfill, love, excitement, trust inside myself
-            - [[cleaning the inner blockages]]
-        - Able to embrace every single experience that the unfolding life giving to me
-            - [[unattachment centering]]
-        - Learning and serving the reality
-            - System to master anything
-                - Things to learn and master one: coaching, training, writing...
-    - The middle - How to 
+- The [[polestar of my life]] somehow will structure like this with [[unshakable intention]]
+    - The structure will be the bridging between my trueself and [[the impersonal world]] - [[soul-guidance]] [[living from the place of surrender]]
+        - The direction - Enjoying the journey on earth all the time
+            - Always feeling fulfill, love, excitement, trust inside myself
+                - [[cleaning the inner blockages]]
+            - Able to embrace every single experience that the unfolding life giving to me
+                - [[unattachment centering]]
+                - [[abundance appreciation]] for the fact that able to experience is enough
+            - Learning and serving the reality
+                - value and service oriented attitude
+                    - evoke inner inspiration and deep desire to live a higher level of other people
+                    - support them from that level
+                - System to master anything
+                    - Things to learn and master one: coaching, training, writing...
+        - The middle - What I want to do, develop, master, learn in between
+        - The attitude - unattachment centering, learning, helicopter point of view, and trusting the process

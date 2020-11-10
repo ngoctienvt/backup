@@ -37,9 +37,6 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [abundance appreciation](<abundance appreciation.md>)
 
-## [October 29th, 2020](<October 29th, 2020.md>)
-- Instead of that, my [unshakable intention](<unshakable intention.md>) would be kind of based on my [soul-guidance](<soul-guidance.md>) with value-oriented or service-oriented to [the impersonal world](<the impersonal world.md>). Everything else is just a tool to support me, and the fact that I'm alive and have the chance to experience will be more than enough for me. [abundance appreciation](<abundance appreciation.md>)
-
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - I realized that I still not used to [acknowledge](<acknowledge.md>) and [honor](<honor.md>) the [effort](<effort.md>) of other people. I still have a tendency to focus on what's wrong instead of acknowledging, [abundance appreciation](<abundance appreciation.md>),
 
@@ -61,4 +58,7 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 
 ## [bottom-up approach](<bottom-up approach.md>)
 - developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>)
+
+## [polestar of my life](<polestar of my life.md>)
+- [abundance appreciation](<abundance appreciation.md>)
 

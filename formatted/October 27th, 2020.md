@@ -75,7 +75,7 @@ where they are]] through the [coaching reflection](<coaching reflection.md>) ski
                 - If I use spaceship, I could use technique to maneuver it
                 - If I use a rocket, I need to have technique to land safely.
         - In the end, method and technique are simply “things” or means to an end. These things will largely depend on your approach. And your approach will depend on you.
-- My way to approach life will include [living from the place of surrender](<living from the place of surrender.md>) and [progressive development approach. [[polestar of my life](<progressive development approach. [[polestar of my life.md>)
+- 
 - 
 - thoughts -> concept -> deepen understand to concept 
     - microcosmic and macrocosmic

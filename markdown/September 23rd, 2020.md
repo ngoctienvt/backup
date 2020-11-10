@@ -9,8 +9,7 @@
 - I realized that I still have a lot of [[inner conflict]] that makes me [[hesitate]] and not fully [[confident]] to act. These [[inner conflict]] usually because of the [[fear]] of not sure about the results of my action. For example, if I congratz someone, I still feel that if I'm helping or harming that person. [[results]] [[conscious choice]]. [[fear of unknown]]
     - The reason of these [[inner conflict]] mainly because I'm mainly heavily operating from [[top-down approach]] with no clear boundary or limitation.
 
-- My rule of living is I don't want to serve myself based on the [[trigger]] of the pain of others, but I want to evoke their inner inspiration and desire to live a higher life and support them from that level. [[serving]] [[living from the place of surrender]] [[Karma yoga]]. [[polestar of my life]]
-The importance is not what we do, but the [[intention]] behind the action, followed by [[progressive development approach to achieve it and the [[unattachment]] attitude.
+- 
 - I want to have some activities to [[pay it forward]] and some activities for the soul that have enough [[desire]] to learn to awake.
 - [[intellectual gratification]] is one of the way to [[short-term feel good energy]] inside that avoid to do [[inner work]].
 - When watching The first song program, I realized I still haven't able to handle my feelings with Kiều. I still feel a lot of regret and miss. It's a [[memorable memories]] for me that I still attach so much to how fun, how happy that I was. I realized that my love life still has a lot of [[samskaras]] that I haven't finished to merge, to fully experience, and to let go yet. I want to contain all of these memorable memories so that I can fully enjoy the presence and maybe these are the things that I can payback for them, for other people or my future lover. [[love]] [[merging]] 

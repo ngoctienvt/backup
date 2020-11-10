@@ -29,8 +29,6 @@
 So what I want to have is the ability to focus myself to the fact that [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 13th, 2020](<October 13th, 2020.md>)
-- The reason is I don't have a clear intention to focus on. This will require me to always hold my [focus](<focus.md>) on the intention to [living from the place of surrender](<living from the place of surrender.md>).
-
 - [establishing the seat of awareness](<establishing the seat of awareness.md>) is not simply as able to come back to that seat when I disconnect with external things, but it's about how to operate from that seat and connect with external world. [living from the place of surrender](<living from the place of surrender.md>)
 
 A life without the need to think about decisions is about surrendering the need to making [conscious choice](<conscious choice.md>). [living from the place of surrender](<living from the place of surrender.md>)
@@ -39,8 +37,6 @@ A life without the need to think about decisions is about surrendering the need 
 let things be and raise it up naturally without any attachments. [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 27th, 2020](<October 27th, 2020.md>)
-- My way to approach life will include [living from the place of surrender](<living from the place of surrender.md>)
-
 - [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 28th, 2020](<October 28th, 2020.md>)
@@ -79,9 +75,6 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - I still can't stop creating new training courses, because there is a bigger picture that I want to complete. It's kind of a [living from the place of surrender](<living from the place of surrender.md>)
 
-## [September 23rd, 2020](<September 23rd, 2020.md>)
-- My rule of living is I don't want to serve myself based on the [trigger](<trigger.md>) of the pain of others, but I want to evoke their inner inspiration and desire to live a higher life and support them from that level. [serving](<serving.md>) [living from the place of surrender](<living from the place of surrender.md>)
-
 ## [Spiritual MOC](<Spiritual MOC.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)
 
@@ -90,6 +83,9 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)
+
+## [polestar of my life](<polestar of my life.md>)
+- The structure will be the bridging between my trueself and [the impersonal world](<the impersonal world.md>) - [soul-guidance](<soul-guidance.md>) [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [workflow](<workflow.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)

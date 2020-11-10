@@ -52,9 +52,6 @@
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
 - [intention](<intention.md>)
 
-## [September 23rd, 2020](<September 23rd, 2020.md>)
-The importance is not what we do, but the [intention](<intention.md>)
-
 ## [September 24th, 2020](<September 24th, 2020.md>)
 - My [intention](<intention.md>)
 
