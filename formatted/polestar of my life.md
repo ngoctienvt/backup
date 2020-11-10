@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 10th, 2020](<November 10th, 2020.md>)
+- The [polestar of my life](<polestar of my life.md>)
+
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - The reason is I don't have a clear intention to focus on. This will require me to always hold my [focus](<focus.md>) on the intention to [living from the place of surrender](<living from the place of surrender.md>). To establishing myself to a polestar that will guide me through the journey. [polestar of my life](<polestar of my life.md>).
 

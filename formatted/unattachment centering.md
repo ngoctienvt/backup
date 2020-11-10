@@ -41,6 +41,11 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - So if I want to focus back on myself: [unattachment centering](<unattachment centering.md>)
 
+## [November 10th, 2020](<November 10th, 2020.md>)
+- I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [unattachment centering](<unattachment centering.md>)
+
+- [unattachment centering](<unattachment centering.md>)
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - Meditation is mainly to practice [unattachment centering](<unattachment centering.md>)
 

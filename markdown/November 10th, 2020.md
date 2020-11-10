@@ -1,0 +1,11 @@
+- I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [[unattachment centering]] even when I'm dreaming. 
+- The [[polestar of my life]] somehow will structure like this
+    - Enjoying the journey on earth
+        - Always feeling fulfill, love, excitement, trust inside myself
+            - [[cleaning the inner blockages]]
+        - Able to embrace every single experience that the unfolding life giving to me
+            - [[unattachment centering]]
+        - Learning and serving the reality
+            - System to master anything
+                - Things to learn and master one: coaching, training, writing...
+    - Daily workflow
