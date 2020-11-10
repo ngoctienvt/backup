@@ -1,0 +1,18 @@
+- Tags: #[[evergreen notes]] #processing
+- Three indicators to know that I'm on the right track (big picture)
+    - Always feeling fulfill, love, excitement, trust inside myself [[self-fulfilled]]
+        - [[cleaning the inner blockages]]
+    - Able to embrace every single experience that the unfolding life giving to me [[integration]]
+        - [[unattachment centering]]
+        - [[abundance appreciation]] for the fact that able to experience is enough
+    - Consistent learning and serving the reality impersonally
+        - value and service oriented attitude
+            - evoke inner inspiration and deep desire to live a higher level of other people
+            - support them from that level
+        - System to master anything
+            - Things to learn and master one: coaching, training, writing...
+- What is my attitude to guide myself in daily situation (daily context)
+    - unattachment centering, 
+    - no bad things, only lessons, 
+    - helicopter point of view, 
+    - and trusting the process

@@ -26716,14 +26716,6 @@
   {
     "children": [
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604493568967,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604493579186,
-        "string": "Definition: What is contextual usages?",
-        "uid": "RpQAUBZxR"
-      },
-      {
         "children": [
           {
             "children": [
@@ -27688,6 +27680,104 @@
         "edit-time": 1604493394254,
         "string": "[[How to use tags in Roam Research?]]",
         "uid": "7yLZPZUZ4"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605016251517,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605016278063,
+            "string": "Tags easy to create association, but not good as describing relationships.",
+            "uid": "nrSYRGXye"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605016352993,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605016393517,
+                    "string": "The purpose of tags is how to utilize the connections",
+                    "uid": "xcflT0oVz"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605016395669,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605016418987,
+                    "string": "Tags high-signal or strong connections",
+                    "uid": "LP-Uw3_xE"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605016315598,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016351324,
+                "string": "Tags for explicit associations instead of inferred associations",
+                "uid": "tFwijuOvQ"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605016535734,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605016553038,
+                    "string": "Paper X relates to paragraph N",
+                    "uid": "cwOdpXQNU"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605016556141,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605016573281,
+                    "string": "Help to see why the \"backwards\" relationship makes sense",
+                    "uid": "4c7bLr80b"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605016453357,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016535737,
+                "string": "Tags for specific context",
+                "uid": "XRnZmzqXP"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605016615215,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605016616659,
+                    "string": "\u201cX is related to Y\u201d: better to say \u201cX goes into more detail about Y in the context of Z.\u201d",
+                    "uid": "6xwQwyVzX"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605016573277,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016622551,
+                "string": "Tags for contextual associations",
+                "uid": "XYW0Dgwh9"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605016286973,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605016315600,
+            "string": "In order to use tags more effectively, I will need to learn how to use tags intentionally",
+            "uid": "XgkiPNiIz"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605016242460,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605016251521,
+        "string": "How to use tags effectively?",
+        "uid": "O73qi1Ne_"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -38500,6 +38590,14 @@
       },
       {
         "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605015939911,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605015941200,
+        "string": "Once you can see the shape, then you can think about its character.",
+        "uid": "HC8yENysY"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604912997520,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1604913567990,
@@ -38826,9 +38924,257 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605013919273,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605013974071,
-        "string": "For [[@D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n]], I'm kind of worry about how to buy for her a new pc or laptop for work in the next stage. I think it's okay for me to ",
+        "edit-time": 1605014007272,
+        "string": "For [[@D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n]], I'm kind of worry about how to buy for her a new pc or laptop for work in the next stage. I think it's okay for me to take out my money and buy for her a so so PC, so that's we could use for the time being. But I will need to check the usage needed first.",
         "uid": "gYKokvNBd"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605014007268,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605014132634,
+        "string": "It's very important to remind myself that the [[polestar of my life]] is enjoy, not stressful.",
+        "uid": "CHlkF6l6T"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016181739,
+                "string": "Tags are an easy way to relate heterogenous items, but they\u2019re quite a low-signal way of describing relationships.",
+                "uid": "_sstK1g0e"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016181739,
+                "string": "All items with a given tag are presented as being related\u2026 but it\u2019s hard to see how. They\u2019re just a jumbled, unordered list.",
+                "uid": "oufM8GhC4"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016193315,
+                "string": "Some of those items are more relevant to a particular tag\u2019s topic than others, so we should\u00a0[Prefer explicit associations to inferred associations](https://notes.andymatuschak.org/z4RjXweCWNTdmHUFJpDCPmWVnwBEDbKviu9QJ).",
+                "uid": "21PVXCpgu"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016193315,
+                "string": "Some of those items have only a few sentences touching on a tag, but the tag is associated with the whole item. We should\u00a0[Prefer fine-grained associations](https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB). Relatedly, tags are often pretty vague or broad. Better to link to associate ideas more precisely.",
+                "uid": "K_lxOQIhQ"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016193315,
+                "string": "And sometimes, it would be very helpful to have a few words of context about\u00a0__why__\u00a0an item relates to a particular tag. We should\u00a0[Prefer labeled associations](https://notes.andymatuschak.org/z7pGUpz2fQsHHUPbjThz85xXPvHwrmikAeYH4).",
+                "uid": "UPTE7Kz8r"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605016181739,
+            "heading": 1,
+            "string": "Tags are an ineffective association structure",
+            "uid": "m6bcjQVQE"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016042221,
+                "string": "When building an interconnected personal knowledge base (e.g.\u00a0[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)), is it critical to build all the associations by hand? Tools like DEVONthink use machine learning to suggest \u201crelated\u201d notes. And on the web, one\u2019s history (perhaps even contextualized within a single tab\u2019s timeline) can suggest some relationships between content. Or: can we just use search functionality when we want to navigate around a set of ideas?",
+                "uid": "qIrzG_8JY"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016042221,
+                "string": "Tools like these can be helpful for scaffolding the associative process, and they can serve as a second place to look for linkages, but we shouldn\u2019t rely on them to do all the work.",
+                "uid": "SeWlqdzed"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016042221,
+                "string": "First: the process of thinking about the relationships between items is part of how you can\u00a0[Do your own thinking](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw). It forces you to engage with new material more deeply.",
+                "uid": "08HEWYAX0"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016042221,
+                "string": "Second: you want your associations to be high-signal so that you don\u2019t have to try to evaluate some unordered list of links. Being able to quickly evaluate such a list without navigating among the items requires that you remember what all those items contain. Tightly-curated associations will be higher-signal.",
+                "uid": "9NBI7PUr2"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016042221,
+                "string": "Third: your terminology will evolve over time, so text-based linkages aren\u2019t going to help long-term.",
+                "uid": "CT8ieKROI"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605016042221,
+            "heading": 1,
+            "string": "Prefer explicit associations to inferred associations",
+            "uid": "ghDAufvbU"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016086413,
+                "string": "Links between materials in an information system (e.g.\u00a0[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)) can be fine-grained (like a citation in the middle of a sentence of a paper) or coarse-grained (like a \u201csee also\u201d section).",
+                "uid": "ozDT2UDE_"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016086413,
+                "string": "It\u2019s generally better to make fine-grained associations. For instance, rather than evaluating a jumbled list of papers related to the paper you\u2019re reading, it\u2019s more helpful to see that I noticed paper X relates to paragraph N.",
+                "uid": "nbRJfqONF"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016086413,
+                "string": "This is particularly true when links are bidirectional, since you\u2019ll need help to see why the \u201cbackwards\u201d relationship makes sense.",
+                "uid": "n_e8DyNg-"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605016086413,
+            "heading": 1,
+            "string": "Prefer fine-grained associations",
+            "uid": "j7enWmacA"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016122804,
+                "string": "Edges linking nodes in information systems (e.g.\u00a0[Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)) should themselves be labeled in some way which contextualizes the association. It\u2019s often not enough to say \u201cX is related to Y\u201d: better to say \u201cX goes into more detail about Y in the context of Z.\u201d",
+                "uid": "fd00otE2Q"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605016122804,
+                "string": "The extra context will be a cue for your memory or evaluation of the linked material, which will help you effectively navigate the knowledge graph and retrace your former thought processes.",
+                "uid": "eGTCfM2Vc"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605016122804,
+            "heading": 1,
+            "string": "Prefer labeled associations",
+            "uid": "Al1AFqjql"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605014132631,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605016236972,
+        "string": "[[contextual usages]] [[Tag usage]]",
+        "uid": "2Z9dm9J0Z"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605016920184,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605016954592,
+        "string": "[[built-in feedback loops]] Note-writing provide weak feedback, comment or thoughts writing stronger feedback.",
+        "uid": "9eidCrmIc"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605017220336,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605017220336,
+            "string": "https://medium.com/@mattbrockwell/a-taxonomy-of-notes-c6fc77aac311",
+            "uid": "ZRwsZPsit"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605017408498,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605017437215,
+                "string": " level 1 was about defining areas of the house that you were going to fill, [[area of interest]] ",
+                "uid": "YAOphD2YI"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605017413817,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605017486623,
+                "string": "and level 2 was about defining the objects you were going to fill them with, [[objects inside area of interest]]",
+                "uid": "KyrRgkbn-"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605017401715,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605017504143,
+                "string": "then, at level 3, for the first time, you are working on describing and declaring **__relationships between the objects in your mental house** __\u2014 or your \u201cmagic junkyard\u201d, to borrow a descriptor I first read used by Anne-Laure Le Cunff) [[relationship between objects inside area of interest ]]",
+                "uid": "uhl9YYN1l"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605017405361,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605017405361,
+            "string": "(From my perspective, it\u2019s at level 3 that your own ideas first occur, because if",
+            "uid": "dC3V9Fn2I"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605017361651,
+            "string": "These notes are the \u201cmeta\u201d notes, that start to build on ideas you have developed across multiple lower-levels of notes. Andy compares these notes to \u201cAPI\u201ds, in that they then become useful \u201chandles\u201d for developing ideas at the highest levels of complexity.",
+            "uid": "o4gjFwUB8"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605017361651,
+            "string": "When [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) are factored and titled well, those titles become an abstraction for the note itself. The entire note\u2019s ideas can then be referenced using that handle.",
+            "uid": "V4Pnfb03l"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605017361651,
+            "string": "In fact, this property itself functions as a kind of litmus: as you develop ideas in notes over time, and improve the \u201cAPIs,\u201d you\u2019ll be able to write individual notes which abstract over increasingly large subtrees (e.g. \u201c[Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/Enacted_experiences_have_incredible_potential_as_a_mass_medium)\u201d, \u201c[Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work)\u201d).",
+            "uid": "6INnEpbEM"
+          },
+          {
+            "children": [
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605017361651,
+                "string": "**separation of concerns **([Evergreen notes should be atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)),",
+                "uid": "D-vD7FsxI"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605017361651,
+                "string": "**sharp titles** ([Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)), and",
+                "uid": "YFeVR4jnt"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605017361651,
+                "string": "**positive framings** ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)).",
+                "uid": "zU_-aJCno"
+              }
+            ],
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605017361651,
+            "string": "Some effective note \u201cAPI design\u201d techniques:",
+            "uid": "lgpXQEmAS"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605017218498,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605017218498,
+        "string": "[[evergreen notes]]",
+        "uid": "y0qbwSIZg"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -38847,20 +39193,40 @@
   {
     "children": [
       {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605014143526,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605014840019,
+        "heading": 3,
+        "string": "My Life Polestar - Enjoying the journey on earth all the time",
+        "uid": "KwCd4-qid"
+      },
+      {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604977357225,
+            "create-time": 1605014189789,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604977374024,
-            "string": "[[polestar of my life]]",
-            "uid": "wZk6z9WID"
-          },
+            "edit-time": 1605014260725,
+            "string": "[[The process to keep myself follow my life polestar]]",
+            "uid": "-lHKBWpqS"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605014714918,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605014723766,
+        "heading": 3,
+        "string": "Evergreen notes ",
+        "uid": "SlgEzVieK"
+      },
+      {
+        "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604977411106,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604977414317,
+            "edit-time": 1605014751421,
             "string": "[[self-fulfilled]]",
             "uid": "vs5teq8M7"
           },
@@ -38868,7 +39234,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604977414314,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604977422244,
+            "edit-time": 1605014751422,
             "string": "[[integration]]",
             "uid": "m20qPaxJV"
           }
@@ -38876,15 +39242,25 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604977378963,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604977382517,
+        "edit-time": 1605014751422,
         "string": "Processing",
         "uid": "BlymJm0Io"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604977357225,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014751421,
+            "string": "[[polestar of my life]]",
+            "uid": "wZk6z9WID"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604977374020,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604977385834,
+        "edit-time": 1605014751421,
         "string": "Processed",
         "uid": "nOxpd56kW"
       }
@@ -38922,5 +39298,225 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605013820504,
     "title": "Windows Boot"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605014786275,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605014810957,
+        "string": "Tags: #[[evergreen notes]] #processing",
+        "uid": "9Av10amic"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605014270347,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605014780799,
+                "string": "[[cleaning the inner blockages]]",
+                "uid": "c6hW5kaYM"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605014270347,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014780799,
+            "string": "Always feeling fulfill, love, excitement, trust inside myself [[self-fulfilled]]",
+            "uid": "o3DHU6hX2"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605014270347,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605014780799,
+                "string": "[[unattachment centering]]",
+                "uid": "semzkdiOw"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605014270347,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605014780799,
+                "string": "[[abundance appreciation]] for the fact that able to experience is enough",
+                "uid": "RSkCccUKD"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605014270347,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014780799,
+            "string": "Able to embrace every single experience that the unfolding life giving to me [[integration]]",
+            "uid": "FMu3vggyT"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605014270347,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605014780798,
+                    "string": "evoke inner inspiration and deep desire to live a higher level of other people",
+                    "uid": "PwSsMhRs5"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605014270347,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605014780798,
+                    "string": "support them from that level",
+                    "uid": "wCp-Yy1HQ"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605014270347,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605014780798,
+                "string": "value and service oriented attitude",
+                "uid": "ZCQkwD6R4"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605014270347,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605014780799,
+                    "string": "Things to learn and master one: coaching, training, writing...",
+                    "uid": "TZjowbPc8"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605014270347,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605014780799,
+                "string": "System to master anything",
+                "uid": "BZGFISP_j"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605014270347,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014780799,
+            "string": "Consistent learning and serving the reality impersonally",
+            "uid": "nURykp58T"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605014270347,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605014927837,
+        "string": "Three indicators to know that I'm on the right track (big picture)",
+        "uid": "eaL6LaffI"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605014440017,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014780798,
+            "string": "unattachment centering, ",
+            "uid": "NnnZ-Ukgv"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605014442961,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014780798,
+            "string": "no bad things, only lessons, ",
+            "uid": "b4p6W_NVy"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605014444545,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014780798,
+            "string": "helicopter point of view, ",
+            "uid": "5O-oAr35Y"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605014270347,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605014780798,
+            "string": "and trusting the process",
+            "uid": "izJK03hLo"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605014437504,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605014949524,
+        "string": "What is my attitude to guide myself in daily situation (daily context)",
+        "uid": "4DOchCaAN"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605014260726,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605014260728,
+    "title": "The process to keep myself follow my life polestar"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605014797518,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605014797518,
+    "title": "processing"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605016805041,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605016809955,
+        "string": "Link: https://carlyanderson.com/members-only/the-upgraded-target-approach-ia",
+        "uid": "jmUKmNlfr"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605016809951,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605016809951,
+        "string": "",
+        "uid": "cp_6lvlF9"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605016804004,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605016804005,
+    "title": "Courses - The target approach - Coaching"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605017437216,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605017437218,
+    "title": "area of interest"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605017486624,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605017486624,
+    "title": "objects inside area of interest"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605017504144,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605017504144,
+    "title": "relationship between objects inside area of interest "
   }
 ]

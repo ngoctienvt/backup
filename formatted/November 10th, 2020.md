@@ -2,4 +2,39 @@
 - I felt that I'm quite [restless](<restless.md>) when fixing problems. I have a fear that they maybe went wrong and I have to pay money to fix it. The uncomfortable feeling of inconvenient and fear of loss money really make me feel uneasy.
 - [mental squeeze point](<mental squeeze point.md>) is a good indicator for [renovation](<renovation.md>) something occurs. It indicates the transition to different phases, stages or require much more focus on something.
 - Windows has two kinds of boot: UEFI and Legacy. My Dell laptop is UEFI and I don't truly understand how to reinstall or ghost my windows. It's not really [mental squeeze point](<mental squeeze point.md>) yet, because I wouldn't do it many times now. So for things happen sometimes only, and the price is not much, I think I will use external support if it's kind of complicated. [Windows Boot](<Windows Boot.md>)
-- For [@Dương Thị Huyền](<@Dương Thị Huyền.md>), I'm kind of worry about how to buy for her a new pc or laptop for work in the next stage. I think it's okay for me to 
+- For [@Dương Thị Huyền](<@Dương Thị Huyền.md>), I'm kind of worry about how to buy for her a new pc or laptop for work in the next stage. I think it's okay for me to take out my money and buy for her a so so PC, so that's we could use for the time being. But I will need to check the usage needed first.
+- It's very important to remind myself that the [polestar of my life](<polestar of my life.md>) is enjoy, not stressful.
+- [contextual usages](<contextual usages.md>) [Tag usage](<Tag usage.md>)
+    - # Tags are an ineffective association structure
+        - Tags are an easy way to relate heterogenous items, but they’re quite a low-signal way of describing relationships.
+        - All items with a given tag are presented as being related… but it’s hard to see how. They’re just a jumbled, unordered list.
+        - Some of those items are more relevant to a particular tag’s topic than others, so we should [Prefer explicit associations to inferred associations](https://notes.andymatuschak.org/z4RjXweCWNTdmHUFJpDCPmWVnwBEDbKviu9QJ).
+        - Some of those items have only a few sentences touching on a tag, but the tag is associated with the whole item. We should [Prefer fine-grained associations](https://notes.andymatuschak.org/z68tVM68dEAuH4acs7HY6K76tTVzBdoBGKMZB). Relatedly, tags are often pretty vague or broad. Better to link to associate ideas more precisely.
+        - And sometimes, it would be very helpful to have a few words of context about __why__ an item relates to a particular tag. We should [Prefer labeled associations](https://notes.andymatuschak.org/z7pGUpz2fQsHHUPbjThz85xXPvHwrmikAeYH4).
+    - # Prefer explicit associations to inferred associations
+        - When building an interconnected personal knowledge base (e.g. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)), is it critical to build all the associations by hand? Tools like DEVONthink use machine learning to suggest “related” notes. And on the web, one’s history (perhaps even contextualized within a single tab’s timeline) can suggest some relationships between content. Or: can we just use search functionality when we want to navigate around a set of ideas?
+        - Tools like these can be helpful for scaffolding the associative process, and they can serve as a second place to look for linkages, but we shouldn’t rely on them to do all the work.
+        - First: the process of thinking about the relationships between items is part of how you can [Do your own thinking](https://notes.andymatuschak.org/z4enRPbLXdD8X8hCfVjaRkcGkronvhcfrgSQw). It forces you to engage with new material more deeply.
+        - Second: you want your associations to be high-signal so that you don’t have to try to evaluate some unordered list of links. Being able to quickly evaluate such a list without navigating among the items requires that you remember what all those items contain. Tightly-curated associations will be higher-signal.
+        - Third: your terminology will evolve over time, so text-based linkages aren’t going to help long-term.
+    - # Prefer fine-grained associations
+        - Links between materials in an information system (e.g. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)) can be fine-grained (like a citation in the middle of a sentence of a paper) or coarse-grained (like a “see also” section).
+        - It’s generally better to make fine-grained associations. For instance, rather than evaluating a jumbled list of papers related to the paper you’re reading, it’s more helpful to see that I noticed paper X relates to paragraph N.
+        - This is particularly true when links are bidirectional, since you’ll need help to see why the “backwards” relationship makes sense.
+    - # Prefer labeled associations
+        - Edges linking nodes in information systems (e.g. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)) should themselves be labeled in some way which contextualizes the association. It’s often not enough to say “X is related to Y”: better to say “X goes into more detail about Y in the context of Z.”
+        - The extra context will be a cue for your memory or evaluation of the linked material, which will help you effectively navigate the knowledge graph and retrace your former thought processes.
+- [built-in feedback loops](<built-in feedback loops.md>) Note-writing provide weak feedback, comment or thoughts writing stronger feedback.
+- [evergreen notes](<evergreen notes.md>)
+    - https://medium.com/@mattbrockwell/a-taxonomy-of-notes-c6fc77aac311
+    - (From my perspective, it’s at level 3 that your own ideas first occur, because if
+        -  level 1 was about defining areas of the house that you were going to fill, [area of interest](<area of interest.md>) 
+        - and level 2 was about defining the objects you were going to fill them with, [objects inside area of interest](<objects inside area of interest.md>)
+        - then, at level 3, for the first time, you are working on describing and declaring **__relationships between the objects in your mental house** __— or your “magic junkyard”, to borrow a descriptor I first read used by Anne-Laure Le Cunff) [relationship between objects inside area of interest ](<relationship between objects inside area of interest .md>)
+    - These notes are the “meta” notes, that start to build on ideas you have developed across multiple lower-levels of notes. Andy compares these notes to “API”s, in that they then become useful “handles” for developing ideas at the highest levels of complexity.
+    - When [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle.
+    - In fact, this property itself functions as a kind of litmus: as you develop ideas in notes over time, and improve the “APIs,” you’ll be able to write individual notes which abstract over increasingly large subtrees (e.g. “[Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/Enacted_experiences_have_incredible_potential_as_a_mass_medium)”, “[Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work)”).
+    - Some effective note “API design” techniques:
+        - **separation of concerns **([Evergreen notes should be atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)),
+        - **sharp titles** ([Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)), and
+        - **positive framings** ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)).

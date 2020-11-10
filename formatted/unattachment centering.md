@@ -96,6 +96,9 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - I also felt kind of [uncomfortable](<uncomfortable.md>) and [annoying](<annoying.md>) about the problem that appears and I don't know how to handle it yet. [emotions](<emotions.md>) I want to become much more [unattachment centering](<unattachment centering.md>)
 
+## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
+- [unattachment centering](<unattachment centering.md>)
+
 ## [coaching skills](<coaching skills.md>)
 - [unattachment centering](<unattachment centering.md>)
 

@@ -1,0 +1,2 @@
+- Link: https://carlyanderson.com/members-only/the-upgraded-target-approach-ia
+- 

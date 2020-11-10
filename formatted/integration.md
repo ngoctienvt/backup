@@ -51,6 +51,9 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [October 26th, 2020](<October 26th, 2020.md>)
 - I will handle them progressively through the [integration](<integration.md>)
 
+## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
+- Able to embrace every single experience that the unfolding life giving to me [integration](<integration.md>)
+
 ## [bottom-up approach](<bottom-up approach.md>)
 - work on [integration](<integration.md>)
 

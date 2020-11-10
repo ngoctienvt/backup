@@ -1,4 +1,3 @@
-- Definition: What is contextual usages?
 - The contextual usage that I want for using Roam Research
     - Pages for storing - to help my brain store my work
         - Raw-data and extracting wisdom

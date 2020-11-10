@@ -6,6 +6,7 @@
     - [[bottom-up approach]] #processed
 - [[Map of Contents]]
 - [[clean up fleeting notes]]
+- Once you can see the shape, then you can think about its character.
 - ### Evergreen notes
 - [[What is the process of my personal knowledge development?]]
     - Collecting and connecting raw data

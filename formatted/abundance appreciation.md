@@ -49,6 +49,9 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - I feel so [abundance appreciation](<abundance appreciation.md>)
 
+## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
+- [abundance appreciation](<abundance appreciation.md>)
+
 ## [abundance appreciation](<abundance appreciation.md>)
 - [abundance appreciation](<abundance appreciation.md>)
 

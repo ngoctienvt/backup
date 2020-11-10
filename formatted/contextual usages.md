@@ -1,4 +1,3 @@
-- Definition: What is contextual usages?
 - The contextual usage that I want for using Roam Research
     - Pages for storing - to help my brain store my work
         - Raw-data and extracting wisdom
@@ -18,6 +17,9 @@
 
 ## [Expanding questions](<Expanding questions.md>)
 - "[contextual usages](<contextual usages.md>)"
+
+## [November 10th, 2020](<November 10th, 2020.md>)
+- [contextual usages](<contextual usages.md>)
 
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - One of new [way of thinking](<way of thinking.md>) I feel that I will need to develop now is [think in a filter way](<think in a filter way.md>) instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [contextual usages](<contextual usages.md>).

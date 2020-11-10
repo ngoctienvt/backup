@@ -19,6 +19,9 @@
 ## [Life Polestar](<Life Polestar.md>)
 - [polestar of my life](<polestar of my life.md>)
 
+## [November 10th, 2020](<November 10th, 2020.md>)
+- It's very important to remind myself that the [polestar of my life](<polestar of my life.md>)
+
 ## [living from the place of surrender](<living from the place of surrender.md>)
 - [polestar of my life](<polestar of my life.md>)
 

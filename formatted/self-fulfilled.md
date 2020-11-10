@@ -24,3 +24,6 @@
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - For gaming in general, they let me feel good in the owning and collecting rather than the actual experience. The good feeling coming from the collecting experience [short-term feel good energy](<short-term feel good energy.md>) helps me to fulfill a little bit, but this kind of fulfillment is not real and superficial. I want to fulfill myself in a much more deeper that involves my self through a deep [learning](<learning.md>) and evolving process. [self-fulfilled](<self-fulfilled.md>)
 
+## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
+- Always feeling fulfill, love, excitement, trust inside myself [self-fulfilled](<self-fulfilled.md>)
+

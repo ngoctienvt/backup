@@ -1,5 +1,8 @@
+- ### My Life Polestar - Enjoying the journey on earth all the time
+- ### Evergreen notes 
+    - [[The process to keep myself follow my life polestar]]
 - Processing
-    - [[polestar of my life]]
     - [[self-fulfilled]]
     - [[integration]]
 - Processed
+    - [[polestar of my life]]
