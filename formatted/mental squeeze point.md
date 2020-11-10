@@ -7,6 +7,8 @@
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - [mental squeeze point](<mental squeeze point.md>)
 
+- Windows has two kinds of boot: UEFI and Legacy. My Dell laptop is UEFI and I don't truly understand how to reinstall or ghost my windows. It's not really [mental squeeze point](<mental squeeze point.md>)
+
 ## [November 8th, 2020](<November 8th, 2020.md>)
 - [mental squeeze point](<mental squeeze point.md>)
 

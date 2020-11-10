@@ -37899,8 +37899,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604822424768,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604822637944,
-        "string": "I start to see that my next step is focusing on integrating and producing my value to the world, and I will need [[D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n]] to help me communicate my work with the world in a way that it's easy for them to digest with. [[current working]]",
+        "edit-time": 1605013939869,
+        "string": "I start to see that my next step is focusing on integrating and producing my value to the world, and I will need [[@D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n]] to help me communicate my work with the world in a way that it's easy for them to digest with. [[current working]]",
         "uid": "5HX9u32y3"
       },
       {
@@ -38351,8 +38351,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604822478507,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604822478510,
-    "title": "D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n"
+    "edit-time": 1605013939869,
+    "title": "@D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -38818,9 +38818,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605003895185,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605003895185,
-        "string": "",
+        "edit-time": 1605013925279,
+        "string": "Windows has two kinds of boot: UEFI and Legacy. My Dell laptop is UEFI and I don't truly understand how to reinstall or ghost my windows. It's not really [[mental squeeze point]] yet, because I wouldn't do it many times now. So for things happen sometimes only, and the price is not much, I think I will use external support if it's kind of complicated. [[Windows Boot]]",
         "uid": "UNHAH6RzY"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605013919273,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605013974071,
+        "string": "For [[@D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n]], I'm kind of worry about how to buy for her a new pc or laptop for work in the next stage. I think it's okay for me to ",
+        "uid": "gYKokvNBd"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -38907,5 +38915,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605003876669,
     "title": "renovation"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605013820502,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605013820504,
+    "title": "Windows Boot"
   }
 ]
