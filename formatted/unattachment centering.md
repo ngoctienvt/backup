@@ -44,8 +44,6 @@
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [unattachment centering](<unattachment centering.md>)
 
-- [unattachment centering](<unattachment centering.md>)
-
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - Meditation is mainly to practice [unattachment centering](<unattachment centering.md>)
 
@@ -112,6 +110,9 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 
 ## [personal end goals](<personal end goals.md>)
 - Developing a way of living to nurture [unattachment centering](<unattachment centering.md>)
+
+## [polestar of my life](<polestar of my life.md>)
+- [unattachment centering](<unattachment centering.md>)
 
 ## [trueself competency](<trueself competency.md>)
 - [unattachment centering](<unattachment centering.md>)

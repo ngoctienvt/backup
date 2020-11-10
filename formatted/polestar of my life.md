@@ -1,10 +1,17 @@
+- The [polestar of my life](<polestar of my life.md>) somehow will structure like this
+    - The direction - Enjoying the journey on earth
+        - Always feeling fulfill, love, excitement, trust inside myself
+            - [cleaning the inner blockages](<cleaning the inner blockages.md>)
+        - Able to embrace every single experience that the unfolding life giving to me
+            - [unattachment centering](<unattachment centering.md>)
+        - Learning and serving the reality
+            - System to master anything
+                - Things to learn and master one: coaching, training, writing...
+    - The middle - How to 
 
 # Backlinks
 ## [Life Polestar](<Life Polestar.md>)
 - [polestar of my life](<polestar of my life.md>)
-
-## [November 10th, 2020](<November 10th, 2020.md>)
-- The [polestar of my life](<polestar of my life.md>)
 
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - The reason is I don't have a clear intention to focus on. This will require me to always hold my [focus](<focus.md>) on the intention to [living from the place of surrender](<living from the place of surrender.md>). To establishing myself to a polestar that will guide me through the journey. [polestar of my life](<polestar of my life.md>).
@@ -19,4 +26,7 @@
 - [polestar of my life](<polestar of my life.md>)
 
 - a continuously refining [polestar of my life](<polestar of my life.md>)
+
+## [polestar of my life](<polestar of my life.md>)
+- The [polestar of my life](<polestar of my life.md>)
 
