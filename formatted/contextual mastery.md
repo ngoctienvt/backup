@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 11th, 2020](<November 11th, 2020.md>)
+- [contextual mastery](<contextual mastery.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - One of the way that emerge inside of me now is [contextual mastery](<contextual mastery.md>).
 
