@@ -25,6 +25,27 @@ If I count on others, it's because that's the part I'm working on and need to ha
     - Execution in reality is about integrating it to my daily life
     - Support system is what possible for further research and optimize the process later
     - Review and optimize is the time that I put to improve the whole MOCs.
-    - The metaphor for my [[Personal Knowledge Development System MOC]] process are collecting food ingredients, proccessing raw ingredients, emerging the course, developing the menus and how to cook them, become a master chef that has knowledge and able to deliver good food.
-    - 
-    - 
+- The metaphor for my [[Personal Knowledge Development System MOC]] process are collecting food ingredients, proccessing raw ingredients, emerging the course, developing the menus and how to cook them, become a master chef that has knowledge and able to deliver good food.
+- Today I feel much clearer about my journey ahead, it's about continuing my spiritual journey, while developing myself to become a great human being as well through continuous learning and ouput creating.
+- My [[physical body]] feel cold, hurt though, I should get extra relax on these days first. I'm also learning to relax my inner stuff without the need to clarify them first. Just digest them slowly through relax and release, as long as I keep myself focus on relax and release process, everything will get out eventually.
+- There is a metaphor that makes me feel much easier about my point of view of the world. [[cleaning the inner blockages]]. It is seeing most of us are still babies and even myself, and we are all on learning to become mature souls like Buddha, Christ or spiritual master like Yogananda, Michael Singer. [[metaphor about our true self]] 
+
+It also makes me feel much easier about seeing the world that other people behaviour to me is always the chance for me to grow, and they don't grow at that time. So it's actually the stepping stone for me to go up while they are going down. There is nothing right or wrong, just the truth. Because what's truly important in the end HOW MUCH WE ENJOY, GROW AND SERVE ON THE TIME ON EARTH. Not how high our starting point is, but how much we go so far and how much we contribute as by-products. [[measure the meaning of life]]
+- 5 [[workflow]] to make your design team effecient [[team workflow]]
+    - https://www.notion.so/webinars/5-workflows-to-make-your-design-team-hyper-efficient?utm_source=whatsnew&utm_medium=101320&utm_campaign=webinar100720
+    - Note
+        - What every team design should strive for
+            - Holistic and consistent design system
+            - Cross-functional collaboration
+            - Quick iterations
+        - Why this is hard?
+            - Scattered assets without context
+            - Iterations are hard to manage
+            - Disconnect between design and engineering
+                - Everyone track their tasks independently
+    - Centralized design wiki
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F8IHRCn9vHa.png?alt=media&token=f3857953-7126-4a07-ab9c-8134540e488d)
+    - Design system with brand guide and assets
+    - Personalized templates for design docs
+    - Design tasks with bundled context
+    - Sharing public resources or client work
