@@ -29,6 +29,6 @@
 ## [November 9th, 2020](<November 9th, 2020.md>)
 - Each [Map of Contents](<Map of Contents.md>)
 
-## [Personal Knowledge Management System MOC](<Personal Knowledge Management System MOC.md>)
+## [Personal Knowledge Development System MOC](<Personal Knowledge Development System MOC.md>)
 - [Map of Contents](<Map of Contents.md>)
 

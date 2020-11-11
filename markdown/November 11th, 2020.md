@@ -7,4 +7,21 @@
 - I felt that all of my goals now is truly independent and freedom. I will learn to fully count on myself, my witness consciousness and will not put my expectation, my happiness, my peace into other people responsibility. [[current working]]
 
 If I count on others, it's because that's the part I'm working on and need to have the support of other people for the time being. It's my responsibility, and they are helping me. 
-- 
+- When developing my [[Personal Knowledge Development System MOC]], I noticed that [[breakdown]]
+    - approach is the way that I want to achieve my end goal
+    - method is the vehicle that will help me to achieve my end goal
+    - procedure is the actual implementation that how I use my vehicle in action to reach my end goal
+    - support system is what will support me to develop my vehicle, support me on the journey,...
+    - There are two kind of end goals here
+        - One is the true end goal that I want to reach
+            - In this case, the true end goal is my personal knowledge develop in a sustainable and natural over time
+        - Second is the development of the way I want to reach my end goal
+            - One is the vehicle which is [[Personal Knowledge Development System MOC]]
+            - Second is the way I will actually use this vehicle in my daily basis - which related to my own action whether to use it properly or not.
+    - Identify will be about identify the direct goal that related to that MOC
+    - Reason is the reason to achieve this goal
+    - Diagnose is about breaking down what needed, the components of this goal, or what need to be solved
+    - Design the way is about detailing what identify on the diagnose
+    - Execution in reality is about integrating it to my daily life
+    - Support system is what possible for further research and optimize the process later
+    - Review and optimize is the time that I put to improve the whole MOCs.

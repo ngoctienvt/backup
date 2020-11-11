@@ -38331,8 +38331,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604800430996,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605082576500,
-        "string": "[[Personal Knowledge Management System MOC]]",
+        "edit-time": 1605082610781,
+        "string": "[[Personal Knowledge Development System MOC]]",
         "uid": "zXvol7L8u"
       },
       {
@@ -38573,26 +38573,18 @@
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605082353187,
+                    "create-time": 1605083521190,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605082353187,
-                    "string": "[[sustainable development]] ",
-                    "uid": "TFInZjuyz"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605080637232,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605082353190,
-                    "string": "and [[natural progression]]",
-                    "uid": "O-tzG7eVG"
+                    "edit-time": 1605083599068,
+                    "string": "personal development in a sustainable and natural way [[current working]]",
+                    "uid": "_XV54napa"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605082348723,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605082348723,
-                "string": "Having a personal knowledge management system for ",
+                "edit-time": 1605083504292,
+                "string": "Having a personal knowledge management system for serving my true end goal which is ",
                 "uid": "KOqmPeNlu"
               }
             ],
@@ -38660,6 +38652,44 @@
               {
                 "children": [
                   {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604892861358,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604977551701,
+                                "string": "[[top-down approach]]",
+                                "uid": "Kn9xeNOK-"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604892863870,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604977576030,
+                                "string": "[[bottom-up approach]] #processed",
+                                "uid": "gdQfbks85"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1604892830780,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1604977642206,
+                            "string": "[[progressive development approach]]",
+                            "uid": "DGuIEgHDB"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604913578679,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604913635298,
+                        "string": "What is the approach to develop my personal knowledge?",
+                        "uid": "M63mGDIxE"
+                      }
+                    ],
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605082364837,
                     "edit-email": "ngoctienvt@gmail.com",
@@ -38668,6 +38698,44 @@
                     "uid": "X5hi7Gt3e"
                   },
                   {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604977558058,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604977559129,
+                                "string": "[[Map of Contents]]",
+                                "uid": "uyiR_FMdx"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1604978728080,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1604978731494,
+                                "string": "[[clean up fleeting notes]]",
+                                "uid": "KzUtmfESK"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1604913635296,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1604914468105,
+                            "string": "What is the way I organize my personal knowledge system?",
+                            "uid": "MsUXU3v9D"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604913002827,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604915155946,
+                        "string": "[[What is the process of my personal knowledge development?]]",
+                        "uid": "iLpmDd--a"
+                      }
+                    ],
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605082385703,
                     "edit-email": "ngoctienvt@gmail.com",
@@ -38684,6 +38752,24 @@
                     "uid": "ZQUSdOnFr"
                   },
                   {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605082748884,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605082751844,
+                        "string": "Roam Research",
+                        "uid": "qiDBIX_PJ"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605082766926,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605082775288,
+                        "string": "Quality External Sources",
+                        "uid": "nQT9M11Tj"
+                      }
+                    ],
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605082467009,
                     "edit-email": "ngoctienvt@gmail.com",
@@ -38742,80 +38828,6 @@
             "uid": "6Jkcqkb6f"
           },
           {
-            "children": [
-              {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604892861358,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1604977551701,
-                        "string": "[[top-down approach]]",
-                        "uid": "Kn9xeNOK-"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604892863870,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1604977576030,
-                        "string": "[[bottom-up approach]] #processed",
-                        "uid": "gdQfbks85"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604892830780,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604977642206,
-                    "string": "[[progressive development approach]]",
-                    "uid": "DGuIEgHDB"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604913578679,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604913635298,
-                "string": "What is the approach to develop my personal knowledge?",
-                "uid": "M63mGDIxE"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604978728080,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604978731494,
-                    "string": "[[clean up fleeting notes]]",
-                    "uid": "KzUtmfESK"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604913002827,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604915155946,
-                "string": "[[What is the process of my personal knowledge development?]]",
-                "uid": "iLpmDd--a"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604977558058,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604977559129,
-                    "string": "[[Map of Contents]]",
-                    "uid": "uyiR_FMdx"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604913635296,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914468105,
-                "string": "What is the way I organize my personal knowledge system?",
-                "uid": "MsUXU3v9D"
-              }
-            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605080587150,
             "edit-email": "ngoctienvt@gmail.com",
@@ -38860,8 +38872,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604891622209,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605082576500,
-    "title": "Personal Knowledge Management System MOC"
+    "edit-time": 1605082610781,
+    "title": "Personal Knowledge Development System MOC"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -39781,11 +39793,155 @@
         "uid": "Uc91mdHl5"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605082972486,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605082983617,
+            "string": "approach is the way that I want to achieve my end goal",
+            "uid": "aKCq_VW-P"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605082983613,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083003131,
+            "string": "method is the vehicle that will help me to achieve my end goal",
+            "uid": "NQvPgEAK0"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083005942,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083029410,
+            "string": "procedure is the actual implementation that how I use my vehicle in action to reach my end goal",
+            "uid": "BUGswP6t2"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083029407,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083057464,
+            "string": "support system is what will support me to develop my vehicle, support me on the journey,...",
+            "uid": "8apgUTNJv"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605083120701,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605083194204,
+                    "string": "In this case, the true end goal is my personal knowledge develop in a sustainable and natural over time",
+                    "uid": "U8bw_8xVh"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605083081637,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605083094156,
+                "string": "One is the true end goal that I want to reach",
+                "uid": "g6XbVXgvJ"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605083196589,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605083209143,
+                    "string": "One is the vehicle which is [[Personal Knowledge Development System MOC]]",
+                    "uid": "MEqzu1Jcd"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605083209405,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605083282114,
+                    "string": "Second is the way I will actually use this vehicle in my daily basis - which related to my own action whether to use it properly or not.",
+                    "uid": "-AtUmOF01"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605083094150,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605083120419,
+                "string": "Second is the development of the way I want to reach my end goal",
+                "uid": "9itRqNO0r"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083072806,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083081642,
+            "string": "There are two kind of end goals here",
+            "uid": "jFSdgVjIu"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083282110,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083645303,
+            "string": "Identify will be about identify the direct goal that related to that MOC",
+            "uid": "AAq6_FYtX"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083645300,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083666953,
+            "string": "Reason is the reason to achieve this goal",
+            "uid": "297ZJ6G7m"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083666950,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083722445,
+            "string": "Diagnose is about breaking down what needed, the components of this goal, or what need to be solved",
+            "uid": "tVAHcAeGr"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083723126,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083750810,
+            "string": "Design the way is about detailing what identify on the diagnose",
+            "uid": "A1UFN2S3v"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083750807,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083763937,
+            "string": "Execution in reality is about integrating it to my daily life",
+            "uid": "9aPnOeW1E"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083763934,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083792928,
+            "string": "Support system is what possible for further research and optimize the process later",
+            "uid": "QCzIKIMU8"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605083792925,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605083822974,
+            "string": "Review and optimize is the time that I put to improve the whole MOCs.",
+            "uid": "OCvuOHPLC"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605079827525,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605079827525,
-        "string": "",
+        "edit-time": 1605083975999,
+        "string": "When developing my [[Personal Knowledge Development System MOC]], I noticed that [[breakdown]]",
         "uid": "ZFP2Z223e"
       }
     ],

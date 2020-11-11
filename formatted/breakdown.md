@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 11th, 2020](<November 11th, 2020.md>)
+- When developing my [Personal Knowledge Development System MOC](<Personal Knowledge Development System MOC.md>), I noticed that [breakdown](<breakdown.md>)
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - I tend to try to the final step that is generalizing too much, and this makes me include all of the above stages that makes me feel overwhelming, while there is actually different stage to focus on. The reason is I'm not developing the ability to [breakdown](<breakdown.md>)
 
