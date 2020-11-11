@@ -39525,9 +39525,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605060912800,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605060930800,
-        "string": "[[contextual mastery]] is about learning how to see the world in a way that unique",
+        "edit-time": 1605061000485,
+        "string": "[[contextual mastery]] is about learning how to see the uniqueness of everything, every moment, every situation or person. [[uniqueness]]",
         "uid": "n1qWVQBsh"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605061000476,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605061000476,
+        "string": "",
+        "uid": "siRNAvoJF"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -39535,5 +39543,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605054845523,
     "title": "November 11th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605061000488,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605061000493,
+    "title": "uniqueness"
   }
 ]

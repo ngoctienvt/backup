@@ -1,1 +1,2 @@
-- [[contextual mastery]] is about learning how to see the world in a way that unique
+- [[contextual mastery]] is about learning how to see the uniqueness of everything, every moment, every situation or person. [[uniqueness]]
+- 
