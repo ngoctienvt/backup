@@ -47,3 +47,5 @@
 
 - One is the vehicle which is [Personal Knowledge Development System MOC](<Personal Knowledge Development System MOC.md>)
 
+- The metaphor for my [Personal Knowledge Development System MOC](<Personal Knowledge Development System MOC.md>)
+

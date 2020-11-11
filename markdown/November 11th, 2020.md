@@ -25,3 +25,6 @@ If I count on others, it's because that's the part I'm working on and need to ha
     - Execution in reality is about integrating it to my daily life
     - Support system is what possible for further research and optimize the process later
     - Review and optimize is the time that I put to improve the whole MOCs.
+    - The metaphor for my [[Personal Knowledge Development System MOC]] process are collecting food ingredients, proccessing raw ingredients, emerging the course, developing the menus and how to cook them, become a master chef that has knowledge and able to deliver good food.
+    - 
+    - 
