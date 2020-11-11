@@ -49,3 +49,4 @@ It also makes me feel much easier about seeing the world that other people behav
     - Personalized templates for design docs
     - Design tasks with bundled context
     - Sharing public resources or client work
+- Roam Research seems like a perfect tool for personal knowledge development, while team collaboration and writing Notion seems better for me. Each tool will serve different functions [workflow](<workflow.md>)
