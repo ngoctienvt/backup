@@ -3,6 +3,9 @@ If we want to protect ourselves, focus on the hole or what's lacking on argument
 - 
 
 # Backlinks
+## [November 11th, 2020](<November 11th, 2020.md>)
+- These types of information mostly inter-related to each other in different ways. And when they are in a certain relationship to each other, they will lead to a new outcome or effect. This is truly important because what's important is learning how to achieve the effect that we want, not just focus on the isolation of them. The goal or polestar is very important to guide us on the right track of living true with ourselves. [truth compass](<truth compass.md>)
+
 ## [November 9th, 2020](<November 9th, 2020.md>)
 - I started to realize that there will be something that needs to come directly from me, instead of just things emerge from my thoughts. Without the [truth compass](<truth compass.md>)
 

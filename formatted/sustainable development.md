@@ -15,6 +15,9 @@
 ## [October 30th, 2020](<October 30th, 2020.md>)
 - I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy [unattachment centering](<unattachment centering.md>) over anything else. It's hard, it's challenging, and it requires me to use my own will power to keep myself detach with my mind and my emotions, but I can se that it's a highest thing that I can do for myself, and there is no cost, no time, no loss, just benefits, sustainable benefits. [sustainable development](<sustainable development.md>)
 
+## [Personal Knowledge Management System MOC](<Personal Knowledge Management System MOC.md>)
+- [sustainable development](<sustainable development.md>)
+
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - Support long-term and accumulated interest development [sustainable development](<sustainable development.md>)
 

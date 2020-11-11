@@ -66,6 +66,9 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [October 9th, 2020](<October 9th, 2020.md>)
 - [natural progression](<natural progression.md>)
 
+## [Personal Knowledge Management System MOC](<Personal Knowledge Management System MOC.md>)
+- and [natural progression](<natural progression.md>)
+
 ## [September 15th, 2020](<September 15th, 2020.md>)
 - The other thing is it’s [natural progression](<natural progression.md>)
 

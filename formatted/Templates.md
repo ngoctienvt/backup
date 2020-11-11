@@ -18,16 +18,16 @@
     - **[URL](<URL.md>):**
     - **[Status](<Status.md>):**
     - **[Tags](<Tags.md>):** [Videos](<Videos.md>)
-- Process to achieve [personal end goals](<personal end goals.md>)
-    - Identify - What is my end goal
-    - Reason - Why I want to achieve this goal
-    - Diagnose - Identify "what is" before "what to do"
+- # Process to develop a MOC
+    - **Identify** - What is my end goal for developing this MOC
+    - **Reason** - Why I want to achieve this end goal
+    - **Diagnose** - Identify "what needs to be solved" before "how to solve it"
         - Breakdown the levels
         - Identify the blockages
-    - Design the way to achieve the end goal based on the diagnose
-    - Execution in reality
-    - Support system (tools, ...)
-    - Review and optimize the whole process with an feedback loop system 
+    - **Design the way** to achieve the end goal based on the diagnose
+    - **Execution in reality**
+    - **Support system** (tools, resources, people...)
+    - **Review and optimize** the whole process with an feedback loop system 
 - 
 - [deeper understanding](<deeper understanding.md>)
     - **[Free-thoughts](<Free-thoughts.md>):**

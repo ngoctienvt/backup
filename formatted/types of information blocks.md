@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 11th, 2020](<November 11th, 2020.md>)
+- [types of information blocks](<types of information blocks.md>)
+
 ## [November 4th, 2020](<November 4th, 2020.md>)
 - Some [types of information blocks](<types of information blocks.md>)
 

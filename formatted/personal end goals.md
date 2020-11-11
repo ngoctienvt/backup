@@ -22,9 +22,6 @@
 
 - It seems like my process to achieve my [personal end goals](<personal end goals.md>)
 
-## [Templates](<Templates.md>)
-- Process to achieve [personal end goals](<personal end goals.md>)
-
 ## [daily workplace](<daily workplace.md>)
 - [personal end goals](<personal end goals.md>)
 

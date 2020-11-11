@@ -33117,16 +33117,16 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604630763947,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604630763946,
-            "string": "Identify - What is my end goal",
+            "edit-time": 1605080777636,
+            "string": "**Identify** - What is my end goal for developing this MOC",
             "uid": "ex1Zj_O4Y"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604630763946,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604630763946,
-            "string": "Reason - Why I want to achieve this goal",
+            "edit-time": 1605080790717,
+            "string": "**Reason** - Why I want to achieve this end goal",
             "uid": "dS-M9a5eD"
           },
           {
@@ -33151,48 +33151,49 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604630763946,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604630794445,
-            "string": "Diagnose - Identify \"what is\" before \"what to do\"",
+            "edit-time": 1605081069493,
+            "string": "**Diagnose** - Identify \"what needs to be solved\" before \"how to solve it\"",
             "uid": "RXQ96raHN"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604630763946,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604630763946,
-            "string": "Design the way to achieve the end goal based on the diagnose",
+            "edit-time": 1605080539093,
+            "string": "**Design the way** to achieve the end goal based on the diagnose",
             "uid": "0PoU75vwW"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604630763946,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604630763946,
-            "string": "Execution in reality",
+            "edit-time": 1605080545270,
+            "string": "**Execution in reality**",
             "uid": "U4IUREycP"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604729841700,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604729854220,
-            "string": "Support system (tools, ...)",
+            "edit-time": 1605080561069,
+            "string": "**Support system** (tools, resources, people...)",
             "uid": "-qjKyAB_e"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604630763946,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604630763946,
-            "string": "Review and optimize the whole process with an feedback loop system ",
+            "edit-time": 1605080567999,
+            "string": "**Review and optimize** the whole process with an feedback loop system ",
             "uid": "5wDZ6MGey"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604630765392,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604630784316,
-        "string": "Process to achieve [[personal end goals]]",
+        "edit-time": 1605080617017,
+        "heading": 1,
+        "string": "Process to develop a MOC",
         "uid": "hBh5A-l9A"
       },
       {
@@ -38330,8 +38331,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604800430996,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604891843621,
-        "string": "[[Personal Knowledge Management MOC]]",
+        "edit-time": 1605082576500,
+        "string": "[[Personal Knowledge Management System MOC]]",
         "uid": "zXvol7L8u"
       },
       {
@@ -38526,8 +38527,9 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604977563397,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604977565988,
-        "string": "Processing",
+        "edit-time": 1605080507796,
+        "heading": 1,
+        "string": "Processing raw data",
         "uid": "zifwEcT-N"
       },
       {
@@ -38547,48 +38549,6 @@
         "uid": "V9pWj2WXo"
       },
       {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604892861358,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604977551701,
-            "string": "[[top-down approach]]",
-            "uid": "Kn9xeNOK-"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604892863870,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604977576030,
-            "string": "[[bottom-up approach]] #processed",
-            "uid": "gdQfbks85"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604892830780,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604977642206,
-        "string": "[[progressive development approach]]",
-        "uid": "DGuIEgHDB"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604977558058,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604977559129,
-        "string": "[[Map of Contents]]",
-        "uid": "uyiR_FMdx"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604978728080,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604978731494,
-        "string": "[[clean up fleeting notes]]",
-        "uid": "KzUtmfESK"
-      },
-      {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605015939911,
         "edit-email": "ngoctienvt@gmail.com",
@@ -38601,7 +38561,7 @@
         "create-time": 1604912997520,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1604913567990,
-        "heading": 3,
+        "heading": 1,
         "string": "Evergreen notes",
         "uid": "qbGiO7Nsf"
       },
@@ -38610,62 +38570,38 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082353187,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082353187,
+                    "string": "[[sustainable development]] ",
+                    "uid": "TFInZjuyz"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605080637232,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082353190,
+                    "string": "and [[natural progression]]",
+                    "uid": "O-tzG7eVG"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604913239583,
+                "create-time": 1605082348723,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604913548013,
-                "string": "External Data",
-                "uid": "cC7XMEVUO"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604913244566,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604913551772,
-                "string": "Internal Data",
-                "uid": "7hCi0VYO_"
+                "edit-time": 1605082348723,
+                "string": "Having a personal knowledge management system for ",
+                "uid": "KOqmPeNlu"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604913067039,
+            "create-time": 1605080587149,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604913156034,
-            "string": "Collecting and connecting raw data",
-            "uid": "ObWr0b0p2"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604914544139,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914549713,
-                "string": "Meditation",
-                "uid": "cSOxTanX-"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604914549709,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914580243,
-                "string": "Writing",
-                "uid": "39n3MeFh0"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604928032748,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604928046049,
-                "string": "Condensing ",
-                "uid": "7PSC65IPG"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604913156031,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604913487102,
-            "string": "Forming higher-order concepts or ideas - forming the shape - internalizing",
-            "uid": "26RCN1JbD"
+            "edit-time": 1605080587149,
+            "string": "((ex1Zj_O4Y))",
+            "uid": "6Cyz33zXA"
           },
           {
             "children": [
@@ -38673,158 +38609,259 @@
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604913304410,
+                    "create-time": 1605080833351,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604913304410,
-                    "string": "MOCs",
-                    "uid": "6mK_IjqK1"
+                    "edit-time": 1605080857839,
+                    "string": "Effective learning",
+                    "uid": "Ar8HRiPS-"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604913190597,
+                    "create-time": 1605080857836,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604913305397,
-                    "string": "Evergreen notes",
-                    "uid": "xyTskGNOv"
+                    "edit-time": 1605080871744,
+                    "string": "Reinforce my philosophy of life",
+                    "uid": "8WGHf41L7"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1604913306095,
+                    "create-time": 1605080872437,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604913309805,
-                    "string": "Concepts/ Ideas",
-                    "uid": "ZhOmYUEY6"
+                    "edit-time": 1605080922168,
+                    "string": "As a support system to develop myself so I can serve the reality better",
+                    "uid": "5Nom3lcSZ"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604914598086,
+                "create-time": 1605080201365,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914604652,
-                "string": "Breaking down",
-                "uid": "f4WSMrtcv"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604928068606,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604928104220,
-                "string": "Structuring and detailing",
-                "uid": "e0wCOBFFP"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604914607871,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914653927,
-                "string": "Nurturing",
-                "uid": "OX0gB1Skv"
+                "edit-time": 1605080255002,
+                "string": "Why I want to have a system to develop my personal knowledge?",
+                "uid": "fLkXSp4Nt"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604913300586,
+            "create-time": 1605080587150,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604913463971,
-            "string": "Developing, shaping and nurturing - forming the detail - externalizing",
-            "uid": "dtNCgURTq"
+            "edit-time": 1605080587150,
+            "string": "((dS-M9a5eD))",
+            "uid": "gzgmlxu9d"
           },
           {
             "children": [
               {
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604914661350,
+                "create-time": 1605082311703,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914678937,
-                "string": "Navigating",
-                "uid": "hXMBm7c0L"
+                "edit-time": 1605082362679,
+                "string": "What are the components of my personal knowledge management system need to have so that I could achieve my end goal",
+                "uid": "O94KEwIFe"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082364837,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082424526,
+                    "string": "approach that include the requirement end goal",
+                    "uid": "X5hi7Gt3e"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082385703,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082447632,
+                    "string": "method or process of my personal knowledge management system",
+                    "uid": "gQw7C_h5u"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082436375,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082467012,
+                    "string": "procedure for execution",
+                    "uid": "ZQUSdOnFr"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082467009,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082513690,
+                    "string": "support system for optimize the system",
+                    "uid": "t5YC3_nxC"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604914678934,
+                "create-time": 1605080587150,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914688313,
-                "string": "Cleaning what processed",
-                "uid": "p5gkyla8i"
+                "edit-time": 1605080587150,
+                "string": "((Z_Xuyr5U3))",
+                "uid": "l8v9Zdc0k"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082516184,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082532411,
+                    "string": "personal blockages like old habit-formed will",
+                    "uid": "ScHeyECWc"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082527535,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082540705,
+                    "string": "learning curve ",
+                    "uid": "Whv0u154X"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605082547438,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605082555406,
+                    "string": "unclear and feeling stuck",
+                    "uid": "Ge1yvttbZ"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1604914688310,
+                "create-time": 1605080587150,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604914702379,
-                "string": "Structuring",
-                "uid": "ZHOF9XEY1"
+                "edit-time": 1605080587150,
+                "string": "((DgzBzF9Gw))",
+                "uid": "GL_ejnIHd"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604913217749,
+            "create-time": 1605080587150,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604913409829,
-            "string": "Organizing and cleaning the system ",
-            "uid": "mumR--byi"
+            "edit-time": 1605080587150,
+            "string": "((RXQ96raHN))",
+            "uid": "6Jkcqkb6f"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604892861358,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604977551701,
+                        "string": "[[top-down approach]]",
+                        "uid": "Kn9xeNOK-"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1604892863870,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1604977576030,
+                        "string": "[[bottom-up approach]] #processed",
+                        "uid": "gdQfbks85"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604892830780,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604977642206,
+                    "string": "[[progressive development approach]]",
+                    "uid": "DGuIEgHDB"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913578679,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604913635298,
+                "string": "What is the approach to develop my personal knowledge?",
+                "uid": "M63mGDIxE"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604978728080,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604978731494,
+                    "string": "[[clean up fleeting notes]]",
+                    "uid": "KzUtmfESK"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913002827,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604915155946,
+                "string": "[[What is the process of my personal knowledge development?]]",
+                "uid": "iLpmDd--a"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1604977558058,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1604977559129,
+                    "string": "[[Map of Contents]]",
+                    "uid": "uyiR_FMdx"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913635296,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604914468105,
+                "string": "What is the way I organize my personal knowledge system?",
+                "uid": "MsUXU3v9D"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605080587150,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605080587150,
+            "string": "((0PoU75vwW))",
+            "uid": "dmTAXttVq"
           },
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604893131790,
+            "create-time": 1605080587150,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604912954122,
-            "props": {
-              "image-size": {
-                "https://lh3.googleusercontent.com/1L_MmlANS1C1udaKIphivBf_Bab1ZWhKDAAK7CFwnXSfop28seCjTNCqZaUc1_ABXKIO6K5uSUj9tD2M856Kzteh16tjO0rJzRjJEn7pEtXIEm3edepsbfWcmSwWD-5lHHxF2nxTvZyaTZWrfmZZmnC7kVIyl84M7pmJKMFdNZrooNB7f9nhVRb8LgLtFsl0ukS2e0jGssT5TpA5fKOT7xRoQJGNs7wxHEuucVnbmL4ZqMdAtoduG3EJriIcPMOEy4hP5vKAK1GcaThbSz4oUViZ6FiF0QtWiUOBcpX3PTGass-fyvEo6xuSOxX2QAvn_Q9HpsU0MMrXjXaS1lrfyI2IkPywZ6AnMXA1dVE256tFh7g_AXXS6nwfguYJQVaNqiJKtDEL5aiGjQaHMbYY2SIjaU9HhDzJvM4YQn-vR0gtOkXYQPclgpTF6LwiEZLV2PRWhpN2k0EQXKk8mcHnbK-TuSKT4genTRPsos7HMD7razzmhX6WmB3eZsM8cLNSzxERrsmrrPdSNMj9ZTYSMoBP7KJWY7ly_cxki8BxoUXOHhx4KgQYkRg1jwL7IB2S-9BN_n2M2EDtPETAWNLqxgNjTAWOHptX2j8xgg-tCSdSRuLaL2x37BdW3ibZ2lNH3X_b-ZEf77wuC7JUTVwXRJ-7T2LNMDWliIF6itxJoxtmD9pJvTAs3GlyWrvBmA=w687-h915-no?authuser=0": {
-                  "height": null,
-                  "width": 319
-                }
-              }
-            },
-            "string": "![](https://lh3.googleusercontent.com/1L_MmlANS1C1udaKIphivBf_Bab1ZWhKDAAK7CFwnXSfop28seCjTNCqZaUc1_ABXKIO6K5uSUj9tD2M856Kzteh16tjO0rJzRjJEn7pEtXIEm3edepsbfWcmSwWD-5lHHxF2nxTvZyaTZWrfmZZmnC7kVIyl84M7pmJKMFdNZrooNB7f9nhVRb8LgLtFsl0ukS2e0jGssT5TpA5fKOT7xRoQJGNs7wxHEuucVnbmL4ZqMdAtoduG3EJriIcPMOEy4hP5vKAK1GcaThbSz4oUViZ6FiF0QtWiUOBcpX3PTGass-fyvEo6xuSOxX2QAvn_Q9HpsU0MMrXjXaS1lrfyI2IkPywZ6AnMXA1dVE256tFh7g_AXXS6nwfguYJQVaNqiJKtDEL5aiGjQaHMbYY2SIjaU9HhDzJvM4YQn-vR0gtOkXYQPclgpTF6LwiEZLV2PRWhpN2k0EQXKk8mcHnbK-TuSKT4genTRPsos7HMD7razzmhX6WmB3eZsM8cLNSzxERrsmrrPdSNMj9ZTYSMoBP7KJWY7ly_cxki8BxoUXOHhx4KgQYkRg1jwL7IB2S-9BN_n2M2EDtPETAWNLqxgNjTAWOHptX2j8xgg-tCSdSRuLaL2x37BdW3ibZ2lNH3X_b-ZEf77wuC7JUTVwXRJ-7T2LNMDWliIF6itxJoxtmD9pJvTAs3GlyWrvBmA=w687-h915-no?authuser=0)",
-            "uid": "NXuy1ls30"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604913002827,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604915155946,
-        "string": "[[What is the process of my personal knowledge development?]]",
-        "uid": "iLpmDd--a"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604913578679,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604913635298,
-        "string": "What is the approach to develop my personal knowledge?",
-        "uid": "M63mGDIxE"
-      },
-      {
-        "children": [
+            "edit-time": 1605080587150,
+            "string": "((U4IUREycP))",
+            "uid": "blEOueMqM"
+          },
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604892940987,
+            "create-time": 1605080587150,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604977556389,
-            "string": "",
-            "uid": "RLjQ14qyh"
+            "edit-time": 1605080587150,
+            "string": "((-qjKyAB_e))",
+            "uid": "dqSbM7X5q"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605080587150,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605080587150,
+            "string": "((5wDZ6MGey))",
+            "uid": "5xy65zvJU"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604913635296,
+        "create-time": 1605080587150,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604914468105,
-        "string": "What is the way I organize my personal knowledge system?",
-        "uid": "MsUXU3v9D"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604914407815,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604914407815,
-        "string": "",
-        "uid": "mhyZMWQAO"
+        "edit-time": 1605080587150,
+        "heading": 1,
+        "string": "((hBh5A-l9A))",
+        "uid": "t2GzxR2R2"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604891622209,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604891843621,
-    "title": "Personal Knowledge Management MOC"
+    "edit-time": 1605082576500,
+    "title": "Personal Knowledge Management System MOC"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -38880,6 +38917,170 @@
     "title": "Workflow MOC"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604913239583,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "External Data",
+            "uid": "cC7XMEVUO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604913244566,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Internal Data",
+            "uid": "7hCi0VYO_"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604913067039,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605081140768,
+        "string": "Collecting and connecting raw data",
+        "uid": "ObWr0b0p2"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604914544139,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Meditation",
+            "uid": "cSOxTanX-"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604914549709,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Writing",
+            "uid": "39n3MeFh0"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604928032748,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Condensing ",
+            "uid": "7PSC65IPG"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604913156031,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605081140768,
+        "string": "Forming higher-order concepts or ideas - forming the shape - internalizing",
+        "uid": "26RCN1JbD"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913304410,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605081140768,
+                "string": "MOCs",
+                "uid": "6mK_IjqK1"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913190597,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605081140768,
+                "string": "Evergreen notes",
+                "uid": "xyTskGNOv"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604913306095,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605081140768,
+                "string": "Concepts/ Ideas",
+                "uid": "ZhOmYUEY6"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604914598086,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Breaking down",
+            "uid": "f4WSMrtcv"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604928068606,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Structuring and detailing",
+            "uid": "e0wCOBFFP"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604914607871,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Nurturing",
+            "uid": "OX0gB1Skv"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604913300586,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605081140768,
+        "string": "Developing, shaping and nurturing - forming the detail - externalizing",
+        "uid": "dtNCgURTq"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604914661350,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Navigating",
+            "uid": "hXMBm7c0L"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604914678934,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Cleaning what processed",
+            "uid": "p5gkyla8i"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604914688310,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605081140768,
+            "string": "Structuring",
+            "uid": "ZHOF9XEY1"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604913217749,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605081140768,
+        "string": "Organizing and cleaning the system ",
+        "uid": "mumR--byi"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1604893131790,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605081140768,
+        "string": "![](https://lh3.googleusercontent.com/1L_MmlANS1C1udaKIphivBf_Bab1ZWhKDAAK7CFwnXSfop28seCjTNCqZaUc1_ABXKIO6K5uSUj9tD2M856Kzteh16tjO0rJzRjJEn7pEtXIEm3edepsbfWcmSwWD-5lHHxF2nxTvZyaTZWrfmZZmnC7kVIyl84M7pmJKMFdNZrooNB7f9nhVRb8LgLtFsl0ukS2e0jGssT5TpA5fKOT7xRoQJGNs7wxHEuucVnbmL4ZqMdAtoduG3EJriIcPMOEy4hP5vKAK1GcaThbSz4oUViZ6FiF0QtWiUOBcpX3PTGass-fyvEo6xuSOxX2QAvn_Q9HpsU0MMrXjXaS1lrfyI2IkPywZ6AnMXA1dVE256tFh7g_AXXS6nwfguYJQVaNqiJKtDEL5aiGjQaHMbYY2SIjaU9HhDzJvM4YQn-vR0gtOkXYQPclgpTF6LwiEZLV2PRWhpN2k0EQXKk8mcHnbK-TuSKT4genTRPsos7HMD7razzmhX6WmB3eZsM8cLNSzxERrsmrrPdSNMj9ZTYSMoBP7KJWY7ly_cxki8BxoUXOHhx4KgQYkRg1jwL7IB2S-9BN_n2M2EDtPETAWNLqxgNjTAWOHptX2j8xgg-tCSdSRuLaL2x37BdW3ibZ2lNH3X_b-ZEf77wuC7JUTVwXRJ-7T2LNMDWliIF6itxJoxtmD9pJvTAs3GlyWrvBmA=w687-h915-no?authuser=0)",
+        "uid": "NXuy1ls30"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604915155952,
     "edit-email": "ngoctienvt@gmail.com",
@@ -39530,12 +39731,62 @@
         "uid": "n1qWVQBsh"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605079677945,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605079685890,
+            "string": "concepts or ideas",
+            "uid": "r4H7a5soq"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605079685886,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605079689569,
+            "string": "contextual usages",
+            "uid": "RwOXCrag9"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605079695133,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605079716265,
+            "string": "information related to other blocks",
+            "uid": "hFR5LYr5C"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605079963279,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605080184163,
+            "string": "These types of information mostly inter-related to each other in different ways. And when they are in a certain relationship to each other, they will lead to a new outcome or effect. This is truly important because what's important is learning how to achieve the effect that we want, not just focus on the isolation of them. The goal or polestar is very important to guide us on the right track of living true with ourselves. [[truth compass]] [[inter-related]]",
+            "uid": "KUm9xDM8d"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605061000476,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605061000476,
-        "string": "",
+        "edit-time": 1605079677955,
+        "string": "[[types of information blocks]] could be break into",
         "uid": "siRNAvoJF"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605079716261,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605079946089,
+        "string": "I felt that all of my goals now is truly independent and freedom. I will learn to fully count on myself, my witness consciousness and will not put my expectation, my happiness, my peace into other people responsibility. [[current working]]\n\nIf I count on others, it's because that's the part I'm working on and need to have the support of other people for the time being. It's my responsibility, and they are helping me. ",
+        "uid": "Uc91mdHl5"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605079827525,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605079827525,
+        "string": "",
+        "uid": "ZFP2Z223e"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
