@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 12th, 2020](<November 12th, 2020.md>)
+- I noticed that I started to think in [evergreen notes](<evergreen notes.md>) way. And I also start to differentiate between the thoughts that pop up by itself, and the act of thinking that I’m using my mind consciously. [thinking](<thinking.md>) [intellectual mind](<intellectual mind.md>)
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - [Book - How to take smart notes](<Book - How to take smart notes.md>) is a great book that helps me to deeper working on [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>) and [condensing and generative process](<condensing and generative process.md>) to use the [human mind](<human mind.md>) in an effective way so that we could bring out the result that our [intellectual mind](<intellectual mind.md>)
 
