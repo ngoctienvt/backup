@@ -40179,8 +40179,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605150202405,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605150202405,
-        "string": "",
+        "edit-time": 1605171493024,
+        "string": "Breaking things down to make complicated things become simple things [[simplify]]",
         "uid": "Qb-7B3Qqu"
       }
     ],
@@ -40189,5 +40189,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605141508402,
     "title": "November 12th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605171493026,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605171493028,
+    "title": "simplify"
   }
 ]
