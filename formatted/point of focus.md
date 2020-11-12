@@ -10,6 +10,9 @@
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
 - And tagging notes according to which stage of a project they are best suited for can improve our thinking by allowing us to focus on only the most relevant information for the given moment. [point of focus](<point of focus.md>)
 
+## [November 12th, 2020](<November 12th, 2020.md>)
+- [purpose](<purpose.md>) is a high level [point of focus](<point of focus.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [point of focus](<point of focus.md>)
 

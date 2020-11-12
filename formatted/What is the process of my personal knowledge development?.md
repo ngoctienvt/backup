@@ -6,6 +6,9 @@
     - Writing
     - Condensing 
 - Developing, shaping and nurturing - forming the detail - externalizing
+    - There are two main purpose for this stage
+    - One is clarify understanding and creating storage for further development
+    - Second is create high quality information blocks for generating output
     - Breaking down
         - MOCs
         - Evergreen notes

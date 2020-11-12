@@ -35,6 +35,9 @@
 
 - Roam Research seems like a perfect tool for personal knowledge development, while team collaboration and writing Notion seems better for me. Each tool will serve different functions [workflow](<workflow.md>)
 
+## [November 12th, 2020](<November 12th, 2020.md>)
+- End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [workflow](<workflow.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I felt that I start to have a [workflow](<workflow.md>)
 
