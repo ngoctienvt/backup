@@ -1,6 +1,9 @@
 - 
 
 # Backlinks
+## [November 12th, 2020](<November 12th, 2020.md>)
+- I felt the flow of energy inside of me flow fluently without the disturbance. It felt so peaceful, self-fulfilled and just want to stay at that state of being. [inner flow of energy](<inner flow of energy.md>).
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - The second down is from not sure what need to do and keep build up the [samskaras](<samskaras.md>), keep harness the power of resistance and make us not able to access the [inner flow of energy](<inner flow of energy.md>).
 
