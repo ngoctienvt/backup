@@ -40182,6 +40182,22 @@
         "edit-time": 1605171493024,
         "string": "Breaking things down to make complicated things become simple things [[simplify]]",
         "uid": "Qb-7B3Qqu"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605182394128,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605182510518,
+        "string": "[[stage of knowledge development]] ideas, research, experiment, generalize, best practices, optimize or standardize",
+        "uid": "I_m6x-NOd"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605182410931,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605183205537,
+        "string": "[[system thinking]] I felt that I started to see the big connection between details like the connection between HTML and CSS, process and procedure, principles and execution...",
+        "uid": "buTN67Boo"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -40196,5 +40212,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605171493028,
     "title": "simplify"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605182410937,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605182410941,
+    "title": "stage of knowledge development"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605183126142,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605183126148,
+    "title": "system thinking"
   }
 ]

@@ -1,2 +1,4 @@
 - I felt the flow of energy inside of me flow fluently without the disturbance. It felt so peaceful, self-fulfilled and just want to stay at that state of being. [inner flow of energy](<inner flow of energy.md>). When I slept, there are still many things that need to clean though, but it's good, I'm on the right track and I felt much more clarity now.
 - Breaking things down to make complicated things become simple things [simplify](<simplify.md>)
+- [stage of knowledge development](<stage of knowledge development.md>) ideas, research, experiment, generalize, best practices, optimize or standardize
+- [system thinking](<system thinking.md>) I felt that I started to see the big connection between details like the connection between HTML and CSS, process and procedure, principles and execution...
