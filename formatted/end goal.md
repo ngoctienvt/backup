@@ -20,6 +20,8 @@
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [workflow](<workflow.md>) [end goal](<end goal.md>)
 
+- the difference between mean goal and [end goal](<end goal.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - Choose the [end goal](<end goal.md>)
 
