@@ -11,6 +11,9 @@
 
 - In order to know [types of information blocks](<types of information blocks.md>),
 
+## [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)
+- An evergreen note will have content about different [types of information blocks](<types of information blocks.md>)
+
 ## [Templates](<Templates.md>)
 - [types of information blocks](<types of information blocks.md>)
 

@@ -38265,8 +38265,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604800430996,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605082610781,
-        "string": "[[Personal Knowledge Development System MOC]]",
+        "edit-time": 1605234609323,
+        "string": "[[PKDS - Personal Knowledge Development System MOC]]",
         "uid": "zXvol7L8u"
       },
       {
@@ -38498,6 +38498,14 @@
         "heading": 1,
         "string": "Evergreen notes",
         "uid": "qbGiO7Nsf"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605234598640,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605234603307,
+        "string": "[[PKDS - Personal Knowledge Development System terminology]]",
+        "uid": "BP5B9RGU_"
       },
       {
         "children": [
@@ -38806,8 +38814,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604891622209,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605082610781,
-    "title": "Personal Knowledge Development System MOC"
+    "edit-time": 1605234609323,
+    "title": "PKDS - Personal Knowledge Development System MOC"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -39904,8 +39912,8 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605083196589,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605083209143,
-                    "string": "One is the vehicle which is [[Personal Knowledge Development System MOC]]",
+                    "edit-time": 1605234609323,
+                    "string": "One is the vehicle which is [[PKDS - Personal Knowledge Development System MOC]]",
                     "uid": "MEqzu1Jcd"
                   },
                   {
@@ -39992,16 +40000,16 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605079827525,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605083975999,
-        "string": "When developing my [[Personal Knowledge Development System MOC]], I noticed that [[breakdown]]",
+        "edit-time": 1605234609323,
+        "string": "When developing my [[PKDS - Personal Knowledge Development System MOC]], I noticed that [[breakdown]]",
         "uid": "ZFP2Z223e"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605091661464,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605091814460,
-        "string": "The metaphor for my [[Personal Knowledge Development System MOC]] process are collecting food ingredients, proccessing raw ingredients, emerging the course, developing the menus and how to cook them, become a master chef that has knowledge and able to deliver good food.",
+        "edit-time": 1605234609323,
+        "string": "The metaphor for my [[PKDS - Personal Knowledge Development System MOC]] process are collecting food ingredients, proccessing raw ingredients, emerging the course, developing the menus and how to cook them, become a master chef that has knowledge and able to deliver good food.",
         "uid": "0ix1egZf4"
       },
       {
@@ -40498,24 +40506,6 @@
           {
             "children": [
               {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605229364499,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605229738636,
-                    "string": "goal, approach, principle, method, execution, purpose, stage versus action...",
-                    "uid": "3P9-Rphb8"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605229438673,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605229738636,
-                    "string": "zoom-out and zoom-in point of view",
-                    "uid": "TnDC87NI-"
-                  }
-                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605229360284,
                 "edit-email": "ngoctienvt@gmail.com",
@@ -40899,26 +40889,52 @@
                         "children": [
                           {
                             "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1605233769681,
+                            "create-time": 1605234640701,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1605233807491,
-                            "string": "Map of contents are the navigating system that organize my central nodes",
-                            "uid": "s8ImjUinL"
+                            "edit-time": 1605234722990,
+                            "string": "I still have some not clear with terminology about evergreen notes. Before I view evergreen notes as long-writing notes, while actually it is more about the notes that will be develop over time, so actually every note on my developing phase are evergreen notes.",
+                            "uid": "bPGZKHyiS"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1605234740740,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1605234792626,
+                                "string": "One will be for my own understanding - concept notes, process notes, ",
+                                "uid": "3inRaeVTb"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1605234792620,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1605234862894,
+                                "string": "Second is about further understanding and serving reality through teaching to other people.",
+                                "uid": "gapQAbf92"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1605234722984,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605234830583,
+                            "string": "Now there will be some type of [[evergreen notes]] here",
+                            "uid": "IS5gJ2-E3"
                           },
                           {
                             "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1605233807486,
+                            "create-time": 1605234862891,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1605233807486,
+                            "edit-time": 1605234862891,
                             "string": "",
-                            "uid": "pVuK0_3Hn"
+                            "uid": "D2-_peLY_"
                           }
                         ],
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1605233740224,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233769687,
-                        "string": "I will need to develop my own terminology for type of notes, so I could easy to visualize.",
+                        "edit-time": 1605234651511,
+                        "string": "I will need to develop my own terminology for type of notes, so I could easy to visualize. [[terminology]] [[PKDS - Personal Knowledge Development System terminology]]",
                         "uid": "BBNOZoIB4"
                       }
                     ],
@@ -40941,9 +40957,27 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605230590274,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605230613659,
-            "string": "The MOC stage of personal knowledge management system, ",
+            "edit-time": 1605234885664,
+            "string": "The MOC stage of personal knowledge management system",
             "uid": "kaPqQT56K"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605229438673,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605229738636,
+                "string": "zoom-out and zoom-in point of view",
+                "uid": "TnDC87NI-"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605229364499,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605229738636,
+            "string": "goal, approach, principle, method, execution, purpose, stage versus action...",
+            "uid": "3P9-Rphb8"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -41188,6 +41222,16 @@
     "title": "Consuming"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605234493482,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605234584899,
+        "string": "[[PKDS - Personal Knowledge Development System terminology]]",
+        "uid": "b2vWWwp_1"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1605231019057,
     "edit-email": "ngoctienvt@gmail.com",
@@ -41228,5 +41272,110 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605232484061,
     "title": "Design"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605234283905,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605234594681,
+                        "string": "Concepts/ideas/process note",
+                        "uid": "1ZCCa-EBo"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605234352927,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605234594681,
+                        "string": "Explaining notes",
+                        "uid": "Z2KtDMU7m"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605234398708,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605234594681,
+                        "string": "Blog notes/ Articles notes",
+                        "uid": "nXxTnJV1U"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605234439293,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605234594681,
+                        "string": "Argument notes",
+                        "uid": "CgDDp7guq"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605234233276,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605234594681,
+                    "string": "My type of evergreen notes are",
+                    "uid": "bL4CAS4nr"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605236363632,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605236368202,
+                        "string": "definition",
+                        "uid": "EJNvA1RYi"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605236368199,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605236368199,
+                        "string": "",
+                        "uid": "_ygWCC8dq"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605236351612,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605236407819,
+                    "string": "An evergreen note will have content about different [[types of information blocks]]",
+                    "uid": "nMrEkUsei"
+                  }
+                ],
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605234594681,
+                "string": "[[evergreen notes]] are notes that are written and organized to evolve, contribute, and accumulate over time.",
+                "uid": "0ENSSRzCi"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605233807486,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605236531168,
+            "string": "Centralized notes are the notes that highly develop with many evergreen notes ",
+            "uid": "pVuK0_3Hn"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605233769681,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605234594681,
+        "string": "Map of contents are the navigating system that organize my central nodes",
+        "uid": "s8ImjUinL"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605234584901,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605234584903,
+    "title": "PKDS - Personal Knowledge Development System terminology"
   }
 ]

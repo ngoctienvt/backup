@@ -4,7 +4,7 @@
 - # Home Maps
 - [[Life Polestar]]
 - ### Priority MOC
-- [[Personal Knowledge Development System MOC]]
+- [[PKDS - Personal Knowledge Development System MOC]]
 - [[Working Zone MOC]]
 - [[Workflow MOC]]
 - ### Low priority MOC

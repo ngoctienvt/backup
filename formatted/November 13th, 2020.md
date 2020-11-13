@@ -23,8 +23,6 @@
 - [Journaling](<Journaling.md>)
     - I'm thinking that today I will be focus on 
         - clarify the relationship between 
-            - goal, approach, principle, method, execution, purpose, stage versus action...
-            - zoom-out and zoom-in point of view
     - For [process](<process.md>) [terminology](<terminology.md>), I could use the word
         - cycle to refer the whole of something
         - phase for major stages 
@@ -51,7 +49,7 @@
             - doing project or scheduled tasks like translating, coaching, training, also for serving the reality
             - entertaining when near lunchtime, sleeping and meditation sometimes in between the day, for energy and willpower recharge
         - 
-    - The MOC stage of personal knowledge management system, 
+    - The MOC stage of personal knowledge management system
         - evergreen notes, atomic concepts,
             - this one I'm not really clear yet. This is my clarifying stage, and now I need to clarify what I need to clarify. After collecting and shaping a bunch of notes, I will start to emerge the higher-order concepts that I could spend time to spend my time thinking on. 
             - Then I will start to see the components that it's holding like
@@ -70,7 +68,13 @@
             - There will be certain principles for me to develop the notes so that it will serve me best.
                 - I think Map of contents just make me think about navigating, it's fine though, because I will develop many atomic concepts and evergreen notes inside here.
                 - However, beside of MOC, I will need to have some ways to call these high-order development centralized notes. It's like the notes that contain the evergreen notes. Temporary I could it as central notes.
-                - I will need to develop my own terminology for type of notes, so I could easy to visualize.
-                    - Map of contents are the navigating system 
+                - I will need to develop my own terminology for type of notes, so I could easy to visualize. [terminology](<terminology.md>) [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)
+                    - I still have some not clear with terminology about evergreen notes. Before I view evergreen notes as long-writing notes, while actually it is more about the notes that will be develop over time, so actually every note on my developing phase are evergreen notes.
+                    - Now there will be some type of [evergreen notes](<evergreen notes.md>) here
+                        - One will be for my own understanding - concept notes, process notes, 
+                        - Second is about further understanding and serving reality through teaching to other people.
+                    - 
+    - goal, approach, principle, method, execution, purpose, stage versus action...
+        - zoom-out and zoom-in point of view
 - [Consuming](<Consuming.md>)
 - 
