@@ -1,6 +1,6 @@
 - Related: [[Roam's writing structure]]
 - Information blocks are the fundamental unit of notes
-- [[types of information blocks]]
+- [[types of information block]]
     - Based on quality
         - [[high-value information blocks]]
             - [[Information]]

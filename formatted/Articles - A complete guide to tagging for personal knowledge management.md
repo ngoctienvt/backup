@@ -46,7 +46,7 @@
         - Briefing and browsing
         - Updating with changes
         - Using as job aids
-    - “[information blocks](<information blocks.md>)” – organizing knowledge into **standardized “chunks” **that could be mixed and matched to suit a specific need.
+    - “[information block](<information block.md>)” – organizing knowledge into **standardized “chunks” **that could be mixed and matched to suit a specific need.
         - Unstructured information was “clustered” into information blocks with clear labels, which were linked together and further refined in the writing process. [connection thinking](<connection thinking.md>) [compressed process](<compressed process.md>)
     - [Information mapping](<Information mapping.md>) was an important step toward “Just-in-Time Learning.”
         - Instead of giving readers a massive text and expecting them to hold it all in their mind

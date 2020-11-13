@@ -1,4 +1,4 @@
-- [[information blocks]]
+- [[information block]]
 - [[output notes]]
 - Notes
 - Higher-order notes (like MOCs)

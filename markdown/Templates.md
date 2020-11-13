@@ -37,7 +37,7 @@
     - New awareness::
     - Expanding questions::
 - 
-- [[types of information blocks]]
+- [[types of information block]]
     - real life application
     - definition
     - benefits 

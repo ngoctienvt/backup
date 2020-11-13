@@ -1,4 +1,4 @@
-- [information blocks](<information blocks.md>)
+- [information block](<information block.md>)
 - [output notes](<output notes.md>)
 - Notes
 - Higher-order notes (like MOCs)

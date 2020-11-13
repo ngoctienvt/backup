@@ -1,4 +1,4 @@
-- Related: [information blocks](<information blocks.md>)
+- Related: [information block](<information block.md>)
 - [The journey of understanding](<The journey of understanding.md>)
 
 # Backlinks
@@ -7,7 +7,7 @@
 
 - For how I store information, I will focus on storing them as [high-value information blocks](<high-value information blocks.md>)
 
-## [information blocks](<information blocks.md>)
+## [information block](<information block.md>)
 - [high-value information blocks](<high-value information blocks.md>)
 
 ## [writing workflow](<writing workflow.md>)

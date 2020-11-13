@@ -6,5 +6,5 @@
                 - Explaining notes
                 - Blog notes/ Articles notes
                 - Argument notes
-            - An evergreen note will have content about different [[types of information blocks]]
+            - An evergreen note will have content about different [[types of information block]]
                 - definition

@@ -3,6 +3,6 @@
     - High-quality information blocks / evergreen notes/ MOCs
 
 # Backlinks
-## [information blocks](<information blocks.md>)
+## [information block](<information block.md>)
 - [Knowledge](<Knowledge.md>)
 

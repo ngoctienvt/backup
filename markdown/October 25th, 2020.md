@@ -19,15 +19,15 @@
 - I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [[integration]] on the afternoon. [[morning rituals]]
 - I noticed that I could always temporary stop or find a work around while I got stuck, I always have a choice, and the highest choice most of the time is [[being mode]] - the mode that enjoy doing nothing and only experiencing.
 - [[compressed process]] [[information-linking]]
-    - I learned that I can always come back to add smaller context when possible to send [[information blocks]] to their proper connection, even though I tag them too broad at first. Because I can check and tag them on [[linked references]].
+    - I learned that I can always come back to add smaller context when possible to send [[information block]] to their proper connection, even though I tag them too broad at first. Because I can check and tag them on [[linked references]].
     - For the tags that are too narrow, or not linked yet, like [[fear of scarcity]] and I haven't tagged them to any big topics at first. And then I realize I want to focus them on the bigger topics like fear. Then I could just trust that whatever I need, they will easy to search when they re-emerge in my mind if I need to connect them, or I can just simply work on what I already have in my mind now.
     - Because I can always work with what's relevant now. So actually it's good to tag them with big topic first and split them later. [[relevant progressing]]
     - What's important will always be there, it might be not perfectly convenient, but there is always a way to improve. And I could refine the process over time. [[union attitude]]
 - [[types of note]]
     - There will be a little different kind of notes that I will need to create a bit of boundary how I will store information within them, so I will not fell fuzy.
-    - The first is [[information blocks]], it is blocks or nodes that I stored at my understanding about certain things, and it is capture around these bit of knowledge or wisdom. These blocks are like my wisdom materials to apply for different use case to server the demand of reality.
+    - The first is [[information block]], it is blocks or nodes that I stored at my understanding about certain things, and it is capture around these bit of knowledge or wisdom. These blocks are like my wisdom materials to apply for different use case to server the demand of reality.
     - The second is a type of note that stored what I want to share to the world. This is the note that package all of my bits of wisdom to serve a specific purpose, and it is not for my own understanding, but for [[serving the demand of reality]] . I will temporary called them as [[output notes]].
-- [[information blocks]]
+- [[information block]]
     - For how I store information, I will focus on storing them as [[high-value information blocks]] that not too broad, but not too narrow at the same time. They said that it should be [[atomic concept]] that capture entirety of that thing.
     - What is the [[entirety of an atomic concept]]? I do not really know yet, but create a hard [[top-down approach]] for this is necessary because I whole them as a connected node, not an isolated node.
 - When using logseq with lots of bug that makes me feel [[inconvenient]] of workflow, it's really a good opportunity for me to learning to let go this [[need for convenient]] and learning to have an [[abundance appreciation]] attitude instead.

@@ -2,7 +2,7 @@
     - only about one thing 
     - capture the entirety of that thing. [entirety of an atomic concept](<entirety of an atomic concept.md>)
     - densely connected
-- The fundamental building blocks of [atomic concept](<atomic concept.md>) are [information blocks](<information blocks.md>)
+- The fundamental building blocks of [atomic concept](<atomic concept.md>) are [information block](<information block.md>)
 
 # Backlinks
 ## [October 25th, 2020](<October 25th, 2020.md>)

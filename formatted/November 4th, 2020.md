@@ -16,7 +16,7 @@
 - I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [high-value information blocks that got process a bit and want to process more. [[Tag usage](<high-value information blocks that got process a bit and want to process more. [[Tag usage.md>)
 - I feel much better when starting processing bottom-up approach to learn about my [compressed process](<compressed process.md>)
     - **[Key takeaways](<Key takeaways.md>):**
-        - Some [types of information blocks](<types of information blocks.md>) that I started to see when processing bottom-up approach concepts are
+        - Some [types of information block](<types of information block.md>) that I started to see when processing bottom-up approach concepts are
             - real life application
             - definition
             - benefits 

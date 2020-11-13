@@ -1,5 +1,5 @@
 - [contextual mastery](<contextual mastery.md>) is about learning how to see the uniqueness of everything, every moment, every situation or person. [uniqueness](<uniqueness.md>)
-- [types of information blocks](<types of information blocks.md>) could be break into
+- [types of information block](<types of information block.md>) could be break into
     - concepts or ideas
     - contextual usages
     - information related to other blocks

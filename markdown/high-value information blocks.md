@@ -1,2 +1,2 @@
-- Related: [[information blocks]]
+- Related: [[information block]]
 - [[The journey of understanding]]

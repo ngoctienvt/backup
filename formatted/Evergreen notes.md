@@ -1,6 +1,6 @@
 - Evergreen notes are notes that are written and organized to evolve, contribute, and accumulate over time through intellectual thinking.
-    - The smallest fundamental block of evergreen notes are [information blocks](<information blocks.md>)
-        - [types of information blocks](<types of information blocks.md>)
+    - The smallest fundamental block of evergreen notes are [information block](<information block.md>)
+        - The [types of information block](<types of information block.md>) that's helpful for me to develop my evergreen notes are????
 - Type of evergreen notes:
     - Based on purpose
         - One will be for my own understanding - concept notes, process notes

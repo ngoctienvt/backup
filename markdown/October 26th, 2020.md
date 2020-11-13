@@ -10,7 +10,7 @@
 - pattern will emerge naturally when we work on things deep enough. [[pattern recognition]]
 - For [[compressed process]], what I feel still lacking is what is the [[entirety of an atomic concept]]. Because I don't have a clear picture of this yet. So it's making my condensing node seems like a mess and not able to become a flow process.
 - My point of view is that the big picture will include of many smaller things, but the way I break them down to capture in each node will define the way I organize my thoughts.
-- [[entirety of an atomic concept]] will be varies depend on what is the node. And there will be different characteristics that need to cover or add over time. I need to identify these characteristics first. Then learning how to combine them together to make sense an atomic concept. [[list of atomic concept's characteristics]] [[types of information blocks]]
+- [[entirety of an atomic concept]] will be varies depend on what is the node. And there will be different characteristics that need to cover or add over time. I need to identify these characteristics first. Then learning how to combine them together to make sense an atomic concept. [[list of atomic concept's characteristics]] [[types of information block]]
 - [[Articles - A complete guide to tagging for personal knowledge management]]
 - [[Structured Writing]]
     - Structured Writing is an integrated set of novel techniques, approaches, and principles:
@@ -27,8 +27,8 @@
     - spiritual
     - mind-training
     - I will handle them progressively through the [[integration]] process
-- I'm on the process to find a hard boundary for my way of storing information blocks. And as well as finding what will be included inside of it. [[information blocks]]
-- In order to know [[types of information blocks]], I need to know what is the [[contextual usages]] that I want to have first.
+- I'm on the process to find a hard boundary for my way of storing information blocks. And as well as finding what will be included inside of it. [[information block]]
+- In order to know [[types of information block]], I need to know what is the [[contextual usages]] that I want to have first.
     - 
 - [[coaching reflection]] Today coaching, I noticed that I'm not fully starting with where client at, but tend to start with where I'm at. This is not totally wrong, but it is ineffective because of my position should be supporter, not be a source of truth. [[meet people
 where they are]] 

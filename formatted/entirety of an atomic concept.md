@@ -3,8 +3,8 @@
     - packaging in a way that's easy to understand
     - around maximum 5 direct connections to know when need to re-organize information
 - [How to capture entirety of an atomic concept?](<How to capture entirety of an atomic concept?.md>)
-    - Dividing information into different [types of information blocks](<types of information blocks.md>) to store [information blocks](<information blocks.md>)
-    - Creating a meaningful connection between these [information blocks](<information blocks.md>)
+    - Dividing information into different [types of information block](<types of information block.md>) to store [information block](<information block.md>)
+    - Creating a meaningful connection between these [information block](<information block.md>)
 - examples of capturing [entirety of an atomic concept](<entirety of an atomic concept.md>)
     - [entirety of an atomic concept](<entirety of an atomic concept.md>) have the following characteristics
         - definition

@@ -37,7 +37,7 @@
     - **[New awareness](<New awareness.md>):**
     - **[Expanding questions](<Expanding questions.md>):**
 - 
-- [types of information blocks](<types of information blocks.md>)
+- [types of information block](<types of information block.md>)
     - real life application
     - definition
     - benefits 

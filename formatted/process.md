@@ -6,6 +6,6 @@
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - For [process](<process.md>)
 
-## [information blocks](<information blocks.md>)
+## [information block](<information block.md>)
 - [process](<process.md>)
 

@@ -12,6 +12,6 @@
 ## [bottom-up approach](<bottom-up approach.md>)
 - ### [real life application](<real life application.md>)
 
-## [information blocks](<information blocks.md>)
+## [information block](<information block.md>)
 - [real life application](<real life application.md>)
 

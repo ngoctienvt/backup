@@ -6,7 +6,7 @@
                 - Explaining notes
                 - Blog notes/ Articles notes
                 - Argument notes
-            - An evergreen note will have content about different [types of information blocks](<types of information blocks.md>)
+            - An evergreen note will have content about different [types of information block](<types of information block.md>)
                 - definition
 
 # Backlinks

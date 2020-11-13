@@ -1,5 +1,5 @@
 
 # Backlinks
-## [information blocks](<information blocks.md>)
+## [information block](<information block.md>)
 - [function](<function.md>)
 

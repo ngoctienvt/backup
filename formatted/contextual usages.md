@@ -34,7 +34,7 @@
 - •	contextual approach for different usage instead of many group of different people now [contextual usages](<contextual usages.md>)
 
 ## [October 26th, 2020](<October 26th, 2020.md>)
-- In order to know [types of information blocks](<types of information blocks.md>), I need to know what is the [contextual usages](<contextual usages.md>)
+- In order to know [types of information block](<types of information block.md>), I need to know what is the [contextual usages](<contextual usages.md>)
 
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - [contextual usages](<contextual usages.md>)
