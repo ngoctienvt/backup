@@ -1,0 +1,24 @@
+- ## **MORNING PAGES PROMPTS**
+    - Free thoughts
+        - What are you thinking about right now?
+        - What concerns you?
+        - What are your today goals?
+        - What did you dream about?
+    - How do you feel?
+    - Why do you approach a particular situation the way you do?
+    - Why do you replay certain scenarios the way you do?
+    - Where do you need help?
+    - What can you do to make yourself feel good?
+    - What are your values and why?
+    - What journey are you on?
+    - What is really annoying you right now?
+    - What made you smile?
+    - What are you grateful for?
+    - What do you like about yourself?
+    - Where do you want to be heading?
+    - What have you learned recently?
+- Daily Notes Templates
+    - [[Capturing]]
+    - [[Journaling]]
+    - [[Clarifying]]
+    - [[Consuming]]

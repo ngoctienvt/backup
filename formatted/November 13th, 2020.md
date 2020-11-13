@@ -1,13 +1,13 @@
-- [[Capturing]]
-    - [[Webflow]] Webflow inspiration https://www.madflow.co/
-- [[Journaling]]
+- [Capturing](<Capturing.md>)
+    - [Webflow](<Webflow.md>) Webflow inspiration https://www.madflow.co/
+- [Journaling](<Journaling.md>)
     - I'm thinking that today I will be focus on 
         - clarify the relationship between 
             - the MOC stage of personal knowledge management system, 
                 - evergreen notes, atomic concepts,
             - goal, approach, principle, method, execution, purpose, stage versus action...
             - zoom-out and zoom-in point of view
-- [[Clarifying]]
+- [Clarifying](<Clarifying.md>)
     - My flow of work and flow of living
         - Somehow I see that's it will be more about the action that will I do rather than the object or the topic that I'm working on.
         - There are some actions that I current aware of is
@@ -21,4 +21,4 @@
             - work on main tasks like thinking, consolidating, clarifying
             - doing project tasks like translating
             - 
-- [[Consuming]]
+- [Consuming](<Consuming.md>)
