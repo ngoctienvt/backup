@@ -1,28 +1,27 @@
 -  Personal Knowledge Development cycle
-    - [[Assembling phase]] - bottom-up knowledge
-        - Collecting stage
-            - Note-taking external knowledge
-                - Books
-                - Articles
-                - Courses
+    - [[Assembling phase]] - bottom-up knowledge - 
+        - Collecting stage - area of interest
+            - Smart note-taking external knowledge (books, articles, courses, podcasts...) - objects inside area of interest
+                - Interesting concepts, ideas, point of view
                 - Summary
                 - Key take-aways
-            - Journaling internal knowledge
+            - Journaling internal knowledge - objects inside area of interest
                 - Thoughts
                 - Self-realization
                 - Self-reflection
                 - New insights
                 - New awareness
         - Shaping stage
-            - Connecting and nurturing notes
+            - Creating new notes
+            - Connecting to existing notes
             - Forming higher-order key concepts, key ideas
         - Processing stage
             - Processing nurturing notes
             - Preparing processed notes for next phase
-    - [[Developing phase]] - unifying knowledge
+    - [[Developing phase]] - unifying knowledge - [[Evergreen garden]]
         - Mapping stage
             - Creating map of contents
-        - Clarifying stage
+        - Clarifying stage - defining relationship between objects inside area of interest
             - Breaking down components
                 - MOCs
                 - Evergreen notes
@@ -35,7 +34,7 @@
             - Navigating
             - Cleaning what processed
             - Structuring
-    - [[Creating phase]]
+    - [[Creating phase]] - [[generative wisdom]]
         - Writing articles
         - Creating training courses
         - ...

@@ -7,4 +7,4 @@
         - or deeper understanding
     - making my mind clear and sharp in a structural but flexible way. [[organic self-generated structure]]
         - This require a way to create a boundary for capturing [[entirety of an atomic concept]]
-        - While maintaining a flexible way to handle these [[atomic concept]] as well as [[evergreen notes]]
+        - While maintaining a flexible way to handle these [[atomic concept]] as well as [[Evergreen notes]]

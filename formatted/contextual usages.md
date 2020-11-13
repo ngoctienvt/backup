@@ -44,6 +44,9 @@
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [contextual usages](<contextual usages.md>)
 
+## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+- [contextual usages](<contextual usages.md>)
+
 ## [network note-taking](<network note-taking.md>)
 - My [contextual usages](<contextual usages.md>)
 

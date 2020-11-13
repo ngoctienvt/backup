@@ -6316,8 +6316,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1601815154056,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1601815214366,
-            "string": "A [[evergreen garden]] which develop slowly over time through the death of old materials and the born of new ideas ",
+            "edit-time": 1605252388038,
+            "string": "A [[Evergreen garden]] which develop slowly over time through the death of old materials and the born of new ideas ",
             "uid": "JEwmZVUbe"
           }
         ],
@@ -12606,8 +12606,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1604978595220,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604978598016,
-                "string": "[[evergreen notes]]",
+                "edit-time": 1605252811203,
+                "string": "[[Evergreen notes]]",
                 "uid": "9UsDsiGcr"
               }
             ],
@@ -12797,8 +12797,8 @@
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1602409882296,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1602409952270,
-                        "string": "creating an [[evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]",
+                        "edit-time": 1605252388038,
+                        "string": "creating an [[Evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]",
                         "uid": "kI09-epgn"
                       },
                       {
@@ -16842,8 +16842,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1602398172607,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1602398172607,
-                "string": "For example, [[evergreen garden]] ",
+                "edit-time": 1605252388038,
+                "string": "For example, [[Evergreen garden]] ",
                 "uid": "ANd9WelXD"
               }
             ],
@@ -17039,62 +17039,70 @@
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605252278007,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605252811203,
+        "string": "Evergreen gardens is place for nurture [[Evergreen notes]] to become solidify knowledge and wisdom",
+        "uid": "lJ_wt6_7o"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605252418144,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605252420052,
+            "string": "Roam Research",
+            "uid": "AYqNVYqhB"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605252420048,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605252430863,
+            "string": "Blog without publish button",
+            "uid": "aEIT8jyvW"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604495513234,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604495514790,
-        "string": "digital gardeners keep on editing and refining their notes.",
+        "edit-time": 1605252529520,
+        "string": "It's a workplace for developing personal knowledge, a space for collecting, emerging and connecting the dots. Some examples",
         "uid": "11psKBFTH"
       },
       {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604495533835,
+            "create-time": 1602064107697,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604495542786,
-            "string": "a digital garden uses bi-directional linking\u2014or at least lots of internal links\u2014to connect notes together. Such interconnection creates a trail of ideas that readers can follow.",
-            "uid": "vcXEBgMAO"
+            "edit-time": 1605252784286,
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkA2aftsAO4.png?alt=media&token=5cb97501-2f85-4df2-b770-564661cd7d9e": {
+                  "height": null,
+                  "width": 300
+                }
+              }
+            },
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkA2aftsAO4.png?alt=media&token=5cb97501-2f85-4df2-b770-564661cd7d9e)",
+            "uid": "oEo2FDtTI"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604495515114,
+        "create-time": 1605252215075,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604495533838,
-        "string": "Another characteristic is the navigation:",
-        "uid": "5wdJUTb_M"
-      },
-      {
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604495716094,
-        "string": "**Seeds.**\u00a0Seed your garden with quality content and cultivate your curiosity. Plant seeds in your mind garden by taking smart personal notes ([taking raw notes is useless](https://www.mentalnodes.com/taking-raw-notes-is-useless)). These don't need to be written in a publishable form.",
-        "uid": "Rb72tGw96"
-      },
-      {
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604495716094,
-        "string": "**Trees.**\u00a0Grow your knowledge by forming new branches and connecting the dots. Write short structured notes articulating specific ideas and publish them in your digital garden. One note in your digital garden = one idea. (what you're currently reading is such a note)\u00a0[Do not keep orphan notes](https://www.mentalnodes.com/do-not-keep-orphan-notes).\u00a0[Thread your thoughts.](https://www.mentalnodes.com/threaded-thinking-instead-of-linear-thinking)",
-        "uid": "peo4mUUkU"
-      },
-      {
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604495716094,
-        "string": "**Fruits.**\u00a0Produce\u00a0[new work](https://www.mentalnodes.com/on-the-newness-of-ideas). These are more substantial\u2014essays, videos, maybe a book at some point. The kind of work researchers and creatives may hope will help them\u00a0[live beyond their expiration date](https://www.mentalnodes.com/living-beyond-your-expiration-date).",
-        "uid": "zcRqrVJbE"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604495543127,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604495733436,
-        "string": "https://www.mentalnodes.com/a-gardening-guide-for-your-mind",
-        "uid": "sTvbr65Ng"
+        "edit-time": 1605252560450,
+        "string": "[[The journey of understanding]] is the journey of personal knowledge.",
+        "uid": "EIx-soyD5"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1601814995228,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1601814995229,
-    "title": "evergreen garden"
+    "edit-time": 1605252388038,
+    "title": "Evergreen garden"
   },
   {
     "children": [
@@ -18433,8 +18441,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1602032629714,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1602063815519,
-            "string": "accumulated and deepen knowledge over time [[evergreen garden]] [[deeper understanding]]",
+            "edit-time": 1605252388038,
+            "string": "accumulated and deepen knowledge over time [[Evergreen garden]] [[deeper understanding]]",
             "uid": "LZZT2QTgF"
           },
           {
@@ -19504,22 +19512,6 @@
         "edit-time": 1602064117151,
         "string": "This afternoon I start to practice [[nurturing the wake up state of consciousness]] more by cleaning the inner samskaras continuously. I feel good about this and start to become easier to conscious. And start to release the habit-formed will to asleep into identification and pulled out of [[seat of consciousness]]",
         "uid": "cQFHMAiAe"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1602064107697,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1602070715192,
-        "props": {
-          "image-size": {
-            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkA2aftsAO4.png?alt=media&token=5cb97501-2f85-4df2-b770-564661cd7d9e": {
-              "height": null,
-              "width": 580
-            }
-          }
-        },
-        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkA2aftsAO4.png?alt=media&token=5cb97501-2f85-4df2-b770-564661cd7d9e) [[evergreen garden]]",
-        "uid": "oEo2FDtTI"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -23856,46 +23848,6 @@
       {
         "children": [
           {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603698532625,
-            "string": "Simply reading",
-            "uid": "ea425Nz8N"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603698532625,
-            "string": "Take notes interesting concepts, ideas, understanding - raw\nmaterials without the need to connect to my own system [[raw knowledges]]",
-            "uid": "O2pTfRnXT"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603698532625,
-            "string": "process these notes to my own understanding - creating\nideas, concepts nodes and relate them to my own system [[processed knowledges]]",
-            "uid": "PeEgcpFld"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603698532625,
-            "string": "continue developing these ideas and concepts over time\nthrough experiences, note-taking, connecting - [[mature knowledges]]",
-            "uid": "mYch-suV0"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603698532625,
-            "string": "creating articles, condensing wisdom from these refined\nmaterials [[generative wisdom]]",
-            "uid": "p8f3agJVi"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1603684608274,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603684608311,
-        "string": "The process to grow my knowledge will be have different levels [[knowledge development process]] [[evergreen garden]]",
-        "uid": "ij4PQamcG"
-      },
-      {
-        "children": [
-          {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603684608274,
             "edit-email": "ngoctienvt@gmail.com",
@@ -25321,8 +25273,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603719349253,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604493435304,
-            "string": "I also start to realize the usage of [[evergreen notes]] to concentrate my thinking into one concept. By this, I could develop different understand in a different context and I could always create a bigger understanding by connecting these [[information blocks]].",
+            "edit-time": 1605253334309,
+            "string": "",
             "uid": "t5eeU8ekq"
           }
         ],
@@ -26340,27 +26292,6 @@
     "title": "knowledge development process"
   },
   {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603684608285,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603684608311,
-    "title": "raw knowledges"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603684608285,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603684608311,
-    "title": "processed knowledges"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603684608286,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603684608311,
-    "title": "mature knowledges"
-  },
-  {
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -27285,101 +27216,167 @@
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1603685456760,
+        "create-time": 1605254733505,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603685460277,
-        "string": "[[high-value information blocks]]",
-        "uid": "95AnCvHV7"
+        "edit-time": 1605254788550,
+        "string": "Information blocks are the fundamental unit of notes",
+        "uid": "JykS9ydk9"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605255027996,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605255107955,
+                    "string": "[[Information]]",
+                    "uid": "c4g_C0hDn"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605255041759,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605255134742,
+                    "string": "[[Knowledge]]",
+                    "uid": "vyNkaVkOY"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603685456760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1603685460277,
+                "string": "[[high-value information blocks]]",
+                "uid": "95AnCvHV7"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605255345725,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605255358024,
+                    "string": "Raw data, long text",
+                    "uid": "x980fOq9Y"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605255335735,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255345648,
+                "string": "[[low-value information blocks]]",
+                "uid": "Nbuadi37P"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604475178836,
+            "create-time": 1605254799182,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475188498,
-            "string": "[[real life application]]",
-            "uid": "SvkaWhxgx"
+            "edit-time": 1605254815893,
+            "string": "Based on quality",
+            "uid": "ZDL_rFljz"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604475178836,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475188498,
+                "string": "[[real life application]]",
+                "uid": "SvkaWhxgx"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1604475362731,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475367238,
+                "string": "[[todo list]]",
+                "uid": "P5GSAsj3i"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604475362731,
+            "create-time": 1605254822543,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475367238,
-            "string": "[[todo list]]",
-            "uid": "P5GSAsj3i"
+            "edit-time": 1605254860721,
+            "string": "Based on contextual function",
+            "uid": "NsVTld5Fk"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603684456106,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475194648,
+                "string": "[[definition]] describes an idea or a concept",
+                "uid": "IzJlSTPt-"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603684456106,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475197633,
+                "string": "[[meaning]] what are the benefits of this?",
+                "uid": "AvOo95Z1s"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603704148646,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475201375,
+                "string": "[[procedure]] steps by steps implementation",
+                "uid": "KdjMTlZGh"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603684456106,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475203782,
+                "string": "[[process]] describe the flow of the activity",
+                "uid": "vs-0aDkbs"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603684456106,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475206418,
+                "string": "[[function]] usages of the concept",
+                "uid": "fVWlvGda4"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603684456106,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475211573,
+                "string": "[[principle]] a rule telling what is the behind structure (what is allowed and what not)",
+                "uid": "EaSzLoqYh"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1603705622445,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1604475213979,
+                "string": "[[information]] detail information of the concept",
+                "uid": "yj6y7rnO8"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604475207344,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475207344,
-            "string": "",
+            "edit-time": 1605254869477,
+            "string": "Based on general function",
             "uid": "eLpz-abk2"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603684456106,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475194648,
-            "string": "[[definition]] describes an idea or a concept",
-            "uid": "IzJlSTPt-"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603684456106,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475197633,
-            "string": "[[meaning]] what are the benefits of this?",
-            "uid": "AvOo95Z1s"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603704148646,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475201375,
-            "string": "[[procedure]] steps by steps implementation",
-            "uid": "KdjMTlZGh"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603684456106,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475203782,
-            "string": "[[process]] describe the flow of the activity",
-            "uid": "vs-0aDkbs"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603684456106,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475206418,
-            "string": "[[function]] usages of the concept",
-            "uid": "fVWlvGda4"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603684456106,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475211573,
-            "string": "[[principle]] a rule telling what is the behind structure (what is allowed and what not)",
-            "uid": "EaSzLoqYh"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1603705622445,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604475213979,
-            "string": "[[information]] detail information of the concept",
-            "uid": "yj6y7rnO8"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1603685460275,
+        "create-time": 1605254793009,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603704640230,
+        "edit-time": 1605254839017,
         "string": "[[types of information blocks]]",
-        "uid": "2NMsFMY_u"
+        "uid": "wpqKTn3eU"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -27928,8 +27925,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1603720229412,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603720574228,
-                "string": "While maintaining a flexible way to handle these [[atomic concept]] as well as [[evergreen notes]]",
+                "edit-time": 1605252811203,
+                "string": "While maintaining a flexible way to handle these [[atomic concept]] as well as [[Evergreen notes]]",
                 "uid": "LeRviSfaK"
               }
             ],
@@ -27956,11 +27953,395 @@
     "title": "network note-taking"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605254607782,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605254613765,
+                "string": "[[types of information blocks]]",
+                "uid": "i5Dv5UM2D"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605254557498,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605254597391,
+            "string": "The smallest fundamental block of evergreen notes are [[information blocks]]",
+            "uid": "xJe1gPi9e"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605252978383,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605253806929,
+        "string": "Evergreen notes are notes that are written and organized to evolve, contribute, and accumulate over time through intellectual thinking.",
+        "uid": "5VbacL7OT"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253971282,
+                            "string": "[A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes))",
+                            "uid": "cfhAKcrrN"
+                          },
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253971282,
+                            "string": "[Andy's morning writing practice](https://notes.andymatuschak.org/My_morning_writing_practice)",
+                            "uid": "E9AwEuY2b"
+                          }
+                        ],
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605253971282,
+                        "string": "Systems:",
+                        "uid": "5xf1n1VJv"
+                      },
+                      {
+                        "children": [
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253971282,
+                            "string": "[Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)",
+                            "uid": "t2h9AkNN2"
+                          }
+                        ],
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605253971282,
+                        "string": "Ideas",
+                        "uid": "uhmzqOO89"
+                      },
+                      {
+                        "children": [
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605254011863,
+                            "string": "[The most effective readers and thinkers I know don\u2019t take notes when reading](https://notes.andymatuschak.org/The_most_effective_readers_and_thinkers_I_know_don%E2%80%99t_take_notes_when_reading)",
+                            "uid": "CqUA812-c"
+                          }
+                        ],
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605254011863,
+                        "string": "Observations",
+                        "uid": "UoUuNxqKm"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605253315693,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605253322512,
+                    "string": "non-directional notes",
+                    "uid": "QvFDQY7Yh"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605234740740,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605253315696,
+                "string": "One will be for my own understanding - concept notes, process notes",
+                "uid": "3inRaeVTb"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253941126,
+                            "string": "[Write about what you read](https://notes.andymatuschak.org/Write_about_what_you_read)",
+                            "uid": "16IVs3146"
+                          },
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253941126,
+                            "string": "[Do your own thinking](https://notes.andymatuschak.org/Do_your_own_thinking)",
+                            "uid": "XVaH7H5Z5"
+                          }
+                        ],
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605253941126,
+                        "string": "Advice",
+                        "uid": "9TF_flcoR"
+                      },
+                      {
+                        "children": [
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253956060,
+                            "string": "[Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)",
+                            "uid": "4WOX1ZhUc"
+                          },
+                          {
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253956060,
+                            "string": "[Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)",
+                            "uid": "jLH1UDrDN"
+                          }
+                        ],
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605253956060,
+                        "string": "Arguments:",
+                        "uid": "OC7i39rU3"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605253323517,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605253326328,
+                    "string": "directional notes",
+                    "uid": "xHI8BG21g"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605234792620,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605252854243,
+                "string": "Second is about further understanding and serving reality through teaching to other people.",
+                "uid": "gapQAbf92"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605253723950,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605253729279,
+            "string": "Based on purpose",
+            "uid": "fdj1w6rrL"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1605252923304,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253855513,
+                            "string": "Concepts/ideas/process note",
+                            "uid": "1NHpVQrHu"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1605252923304,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253855513,
+                            "string": "Explaining notes",
+                            "uid": "57auuviiA"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1605252923304,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253855513,
+                            "string": "Blog notes/ Articles notes",
+                            "uid": "FSROdJof0"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1605252923304,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605253855513,
+                            "string": "Argument notes",
+                            "uid": "C8k0v04Fs"
+                          },
+                          {
+                            "children": [
+                              {
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1605253855513,
+                                "string": "These notes are the \u201cmeta\u201d notes, that start to build on ideas you have developed across multiple lower-levels of notes. Andy compares these notes to \u201cAPI\u201ds, in that they then become useful \u201chandles\u201d for developing ideas at the highest levels of complexity.",
+                                "uid": "o4gjFwUB8"
+                              },
+                              {
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1605253855513,
+                                "string": "When [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) are factored and titled well, those titles become an abstraction for the note itself. The entire note\u2019s ideas can then be referenced using that handle.",
+                                "uid": "V4Pnfb03l"
+                              },
+                              {
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1605253855513,
+                                "string": "In fact, this property itself functions as a kind of litmus: as you develop ideas in notes over time, and improve the \u201cAPIs,\u201d you\u2019ll be able to write individual notes which abstract over increasingly large subtrees (e.g. \u201c[Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/Enacted_experiences_have_incredible_potential_as_a_mass_medium)\u201d, \u201c[Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work)\u201d).",
+                                "uid": "6INnEpbEM"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1605253855513,
+                                    "string": "**separation of concerns **([Evergreen notes should be atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)),",
+                                    "uid": "D-vD7FsxI"
+                                  },
+                                  {
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1605253855513,
+                                    "string": "**sharp titles** ([Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)), and",
+                                    "uid": "YFeVR4jnt"
+                                  },
+                                  {
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1605253855513,
+                                    "string": "**positive framings** ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)).",
+                                    "uid": "zU_-aJCno"
+                                  }
+                                ],
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1605253855513,
+                                "string": "Some effective note \u201cAPI design\u201d techniques:",
+                                "uid": "lgpXQEmAS"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1605253194318,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1605254390763,
+                            "string": "Meta API notes",
+                            "uid": "dTZiKMyvM"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605254488149,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605254491782,
+                        "string": "Atomic notes",
+                        "uid": "312pZ9N3C"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605252923304,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605253767266,
+                    "string": "Centralized notes are the notes that highly develop with many evergreen notes ",
+                    "uid": "bBNUESGOA"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605252923304,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605253767267,
+                "string": "Map of contents are the navigating system that organize my central nodes",
+                "uid": "CIkvsD5Xy"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605253733381,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605254696319,
+            "string": "Based on the structure of content",
+            "uid": "0DCWEyP-5"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605252842172,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605252849272,
+        "string": "Type of evergreen notes:",
+        "uid": "8YrNw_xlu"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605253590523,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255175526,
+                "string": "External knowledge (books, articles, courses, experiences...)",
+                "uid": "BoaBwPkh_"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605253590523,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605253590523,
+            "string": "((xChZS6iIw))",
+            "uid": "EotRrVn-g"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605253590523,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255209734,
+                "string": "Highlights, summary, key take-aways",
+                "uid": "E3XTO1gRf"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605253590523,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255209735,
+            "string": "[[Information]] - meaningful data",
+            "uid": "OB74gH7K3"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605253590523,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255152367,
+                "string": "New insights, new awareness, self-reflection, pop-up understanding",
+                "uid": "SFH91J8AX"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605253590523,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255152373,
+                "string": "High-quality information blocks / evergreen notes/ MOCs",
+                "uid": "mkngxKHtM"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605253590523,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255152373,
+            "string": "Knowledge - pattern recognition and self-understanding",
+            "uid": "aAygVbZZw"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605253590523,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605253594766,
+            "string": "",
+            "uid": "6obVwxqwj"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605253059788,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605254666977,
+        "string": "Quality information of evergreen notes development:",
+        "uid": "P3Rt9Qoub"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1603719369207,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603719369209,
-    "title": "evergreen notes"
+    "edit-time": 1605252811203,
+    "title": "Evergreen notes"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -32774,8 +33155,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604331658680,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604332103621,
-        "string": "[[evergreen notes]] https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/",
+        "edit-time": 1605253234691,
+        "string": "",
         "uid": "YR6dN0ZJQ"
       },
       {
@@ -33786,8 +34167,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604469359299,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604475880981,
-        "string": "I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [[high-value information blocks]] that got process a bit and want to process more.",
+        "edit-time": 1605254953635,
+        "string": "I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [[high-value information blocks that got process a bit and want to process more. [[Tag usage]]",
         "uid": "CdDVJtuPc"
       },
       {
@@ -33869,76 +34250,11 @@
         "uid": "x2DBXldcE"
       },
       {
-        "children": [
-          {
-            "children": [
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604495471690,
-                "string": "blogging is mostly performative thinking and less captain\u2019s log. So I am looking for a space to nurture, edit in real time and evolve my thinking.",
-                "uid": "fXlhsMCg9"
-              }
-            ],
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604495461562,
-            "heading": 2,
-            "string": "A blog without a publish button",
-            "uid": "ws0-Lk2ht"
-          },
-          {
-            "children": [
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604495461562,
-                "string": "It\u2019s more common to think of \u201cconnecting the dots\u201d but the truth is that you can\u2019t connect the dots you can\u2019t see.",
-                "uid": "M7HLyXCmO"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604495461562,
-                "string": "And we can only hold a tiny number of things in our brains at once. So a space for collecting (and organizing) the dots is a crucial foundation for thinking, creativity and more:",
-                "uid": "GHmYtT5QL"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604495461562,
-                "string": "But ideas aren\u2019t summoned from nowhere: they come from raw material, other ideas or observations about the world. Hence a two-step creative process: collect raw material, then think about it. From this process comes pattern recognition and eventually the insights that form the basis of novel ideas.",
-                "uid": "brGOgA3Az"
-              }
-            ],
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604495461562,
-            "heading": 2,
-            "string": "A space for collecting the dots",
-            "uid": "a9jme88hK"
-          },
-          {
-            "children": [
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604495461562,
-                "string": "Firstly - apparently, folders and files is the \u201cbest in class\u201d tool (better than tags and search) for personal information management",
-                "uid": "8_tgOoY1X"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1604495461562,
-                "string": "Critics of this method point out that information is hidden from sight in folders that are often within other folders so that we have to remember the exact location of information to access it.",
-                "uid": "WLpF8Qhqj"
-              }
-            ],
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604495461562,
-            "heading": 2,
-            "string": "Longevity, text files and folders",
-            "uid": "UB8DUAyAF"
-          }
-        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604485842253,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605251617788,
-        "string": "The relationship between [[evergreen garden]] and [[The journey of understanding]]",
+        "edit-time": 1605252535687,
+        "string": "",
         "uid": "V9fRrsodl"
       },
       {
@@ -35426,123 +35742,81 @@
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605251019421,
+            "create-time": 1605251364766,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251476656,
-            "string": "External knowledge (books, articles, courses, experiences...)",
-            "uid": "4f0QNTx5g"
+            "edit-time": 1605255171830,
+            "string": "[[Data]]",
+            "uid": "xChZS6iIw"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605255217007,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255217007,
+                "string": "((cNIog5yMZ))",
+                "uid": "KMVYot9pY"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605255217007,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255217007,
+            "string": "((SwYkbUPLd))",
+            "uid": "bVtmo0d-p"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605255157820,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255157820,
+                "string": "((wCayLCgRM))",
+                "uid": "XjfNqT9Tv"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605255157821,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255157821,
+                "string": "((eKxTmZil-))",
+                "uid": "rtExXTKLn"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605255157821,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255157821,
+            "string": "((fjCsQ3Uz8))",
+            "uid": "20iBZiarw"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605255279422,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605255279422,
+                "string": "((djRWzbTB1))",
+                "uid": "dmm-_l54u"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605255279422,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255279422,
+            "string": "((0edyqTQlX))",
+            "uid": "uOBXFg3Z-"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1605251364766,
+        "create-time": 1605251810317,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605251471031,
-        "string": "Data",
-        "uid": "xChZS6iIw"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605251035086,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251487375,
-            "string": "Highlights, summary, key take-aways",
-            "uid": "KpHM8dUJ7"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1605251476653,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605251484489,
-        "string": "Information - meaningful data",
-        "uid": "Tr56bqN0_"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605251069981,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251509776,
-            "string": "New insights, new awareness, self-reflection, pop-up understanding",
-            "uid": "8aFRlDIV-"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605251114486,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251543732,
-            "string": "High-quality information blocks / evergreen notes/ MOCs",
-            "uid": "UH7Rv-yqU"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1605251488605,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605251504248,
-        "string": "Knowledge - pattern recognition and self-understanding",
-        "uid": "qzZqKOmRb"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605251171045,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251579930,
-            "string": "Personal articles, courses books, sharing talks",
-            "uid": "G07kUoWxC"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604495168103,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251656867,
-            "string": "watering ideas, seeds",
-            "uid": "c_cQQyjxV"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604495053586,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251656867,
-            "string": "cleaning [[clustering]] weeds",
-            "uid": "fnF9mQ_4x"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604495069714,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251656867,
-            "string": "wither, resurface or flourish seeds",
-            "uid": "wmHx_TxtU"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251656867,
-            "string": "**Streams**\u00a0- For me this is twitter and is more than enough stream for now.",
-            "uid": "GzJdfKwLi"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251656867,
-            "string": "**Campfires**\u00a0- For me this is the blog here (and more broadly the blogosphere that I read and engage with). Room to grow here but generally I\u2019m satisfied here.",
-            "uid": "7W9PnJvn4"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251656867,
-            "string": "**Gardens**\u00a0- This is where there\u2019s a gap for me personally. No place to store and evolve deeper longer-term thinking. Many of my friends have gravitated to\u00a0[Are.na](https://are.na/)\u00a0but I just can\u2019t get it to work for me.",
-            "uid": "56ktVmU2V"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1605251548806,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605251577393,
-        "string": "Wisdom - the package of personal knowledge that comes from deeply understand the essence of something or a truth",
-        "uid": "JdOSFtiqk"
+        "edit-time": 1605251830013,
+        "string": "Types of understanding",
+        "uid": "QGehRbRpO"
       },
       {
         "children": [
@@ -35550,9 +35824,41 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605251669198,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251683019,
-            "string": "Data - ",
+            "edit-time": 1605251750222,
+            "string": "Data - seeds",
             "uid": "iGM2LPV80"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605251750606,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605251775204,
+            "string": "Information - quality seeds",
+            "uid": "m8RaSN-UV"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605251755716,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605252069403,
+            "string": "Knowledge - seeds that are wither, resurface and flourish to trees or flowers - small notes",
+            "uid": "WhPnLP0GP"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605251803076,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605252074215,
+            "string": "Wisdom - mature trees that's worth selling - long-form notes",
+            "uid": "-1tl0mK_X"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605252017347,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605252089844,
+            "string": "Further wisdom - fruits - ebooks, courses",
+            "uid": "FBkm2Eqn8"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -38341,6 +38647,32 @@
         "uid": "V9pWj2WXo"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605253114957,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605253117844,
+            "string": "[[Evergreen notes]]",
+            "uid": "rL3c7xUxb"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605252395681,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605252399106,
+        "string": "[[Evergreen garden]]",
+        "uid": "BDC4fpbTA"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605253260239,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605253266105,
+        "string": "[[contextual usages]]",
+        "uid": "MEub38Ka0"
+      },
+      {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605015939911,
         "edit-email": "ngoctienvt@gmail.com",
@@ -38740,27 +39072,11 @@
                     "children": [
                       {
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604492674685,
+                        "create-time": 1605252600408,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605250711076,
-                        "string": "Books",
-                        "uid": "vkp-z4CHn"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604492686196,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605250711076,
-                        "string": "Articles",
-                        "uid": "t-tDK9Kt8"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1604492694605,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605250711076,
-                        "string": "Courses",
-                        "uid": "AmLkEwDsD"
+                        "edit-time": 1605252638661,
+                        "string": "Interesting concepts, ideas, point of view",
+                        "uid": "CqsfevQUm"
                       },
                       {
                         "create-email": "ngoctienvt@gmail.com",
@@ -38782,8 +39098,8 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605231308554,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605231573318,
-                    "string": "Note-taking external knowledge",
+                    "edit-time": 1605253486665,
+                    "string": "Smart note-taking external knowledge (books, articles, courses, podcasts...) - objects inside area of interest",
                     "uid": "Kdx7yp6TZ"
                   },
                   {
@@ -38832,26 +39148,34 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605231315027,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605231354722,
-                    "string": "Journaling internal knowledge",
+                    "edit-time": 1605253493672,
+                    "string": "Journaling internal knowledge - objects inside area of interest",
                     "uid": "2zkryXAC0"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605231541402,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605231546349,
-                "string": "Collecting stage",
+                "edit-time": 1605253465775,
+                "string": "Collecting stage - area of interest",
                 "uid": "amfdwuqPQ"
               },
               {
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605252697355,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605252709649,
+                    "string": "Creating new notes",
+                    "uid": "MvpDIVGxJ"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605231663011,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605231813053,
-                    "string": "Connecting and nurturing notes",
+                    "edit-time": 1605252707401,
+                    "string": "Connecting to existing notes",
                     "uid": "g9abkD6rM"
                   },
                   {
@@ -38900,8 +39224,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605231269969,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605232231300,
-            "string": "[[Assembling phase]] - bottom-up knowledge",
+            "edit-time": 1605251887520,
+            "string": "[[Assembling phase]] - bottom-up knowledge - ",
             "uid": "s6WMceej9"
           },
           {
@@ -38972,8 +39296,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605231890542,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605232017578,
-                "string": "Clarifying stage",
+                "edit-time": 1605253430820,
+                "string": "Clarifying stage - defining relationship between objects inside area of interest",
                 "uid": "k_CMFRcmh"
               },
               {
@@ -39040,8 +39364,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605231269969,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605232757028,
-            "string": "[[Developing phase]] - unifying knowledge",
+            "edit-time": 1605252388038,
+            "string": "[[Developing phase]] - unifying knowledge - [[Evergreen garden]]",
             "uid": "zwJaX1Jn4"
           },
           {
@@ -39074,8 +39398,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605231269969,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605232253912,
-            "string": "[[Creating phase]]",
+            "edit-time": 1605252733491,
+            "string": "[[Creating phase]] - [[generative wisdom]]",
             "uid": "6zBzoWWNj"
           }
         ],
@@ -39301,94 +39625,16 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605017220336,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605017220336,
-            "string": "https://medium.com/@mattbrockwell/a-taxonomy-of-notes-c6fc77aac311",
+            "edit-time": 1605253227497,
+            "string": "",
             "uid": "ZRwsZPsit"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605017408498,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605017437215,
-                "string": " level 1 was about defining areas of the house that you were going to fill, [[area of interest]] ",
-                "uid": "YAOphD2YI"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605017413817,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605017486623,
-                "string": "and level 2 was about defining the objects you were going to fill them with, [[objects inside area of interest]]",
-                "uid": "KyrRgkbn-"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605017401715,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605017504143,
-                "string": "then, at level 3, for the first time, you are working on describing and declaring **__relationships between the objects in your mental house** __\u2014 or your \u201cmagic junkyard\u201d, to borrow a descriptor I first read used by Anne-Laure Le Cunff) [[relationship between objects inside area of interest ]]",
-                "uid": "uhl9YYN1l"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605017405361,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605017405361,
-            "string": "(From my perspective, it\u2019s at level 3 that your own ideas first occur, because if",
-            "uid": "dC3V9Fn2I"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605017361651,
-            "string": "These notes are the \u201cmeta\u201d notes, that start to build on ideas you have developed across multiple lower-levels of notes. Andy compares these notes to \u201cAPI\u201ds, in that they then become useful \u201chandles\u201d for developing ideas at the highest levels of complexity.",
-            "uid": "o4gjFwUB8"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605017361651,
-            "string": "When [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) are factored and titled well, those titles become an abstraction for the note itself. The entire note\u2019s ideas can then be referenced using that handle.",
-            "uid": "V4Pnfb03l"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605017361651,
-            "string": "In fact, this property itself functions as a kind of litmus: as you develop ideas in notes over time, and improve the \u201cAPIs,\u201d you\u2019ll be able to write individual notes which abstract over increasingly large subtrees (e.g. \u201c[Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/Enacted_experiences_have_incredible_potential_as_a_mass_medium)\u201d, \u201c[Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work)\u201d).",
-            "uid": "6INnEpbEM"
-          },
-          {
-            "children": [
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605017361651,
-                "string": "**separation of concerns **([Evergreen notes should be atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)),",
-                "uid": "D-vD7FsxI"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605017361651,
-                "string": "**sharp titles** ([Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)), and",
-                "uid": "YFeVR4jnt"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605017361651,
-                "string": "**positive framings** ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)).",
-                "uid": "zU_-aJCno"
-              }
-            ],
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605017361651,
-            "string": "Some effective note \u201cAPI design\u201d techniques:",
-            "uid": "lgpXQEmAS"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605017218498,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605017218498,
-        "string": "[[evergreen notes]]",
+        "edit-time": 1605253229629,
+        "string": "",
         "uid": "y0qbwSIZg"
       }
     ],
@@ -39520,8 +39766,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605014786275,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605014810957,
-        "string": "Tags: #[[evergreen notes]] #processing",
+        "edit-time": 1605252811203,
+        "string": "Tags: #[[Evergreen notes]] #processing",
         "uid": "9Av10amic"
       },
       {
@@ -39712,27 +39958,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605016804005,
     "title": "Courses - The target approach - Coaching"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1605017437216,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605017437218,
-    "title": "area of interest"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1605017486624,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605017486624,
-    "title": "objects inside area of interest"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1605017504144,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605017504144,
-    "title": "relationship between objects inside area of interest "
   },
   {
     "children": [
@@ -40237,8 +40462,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605201544724,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605201647486,
-        "string": "I noticed that I started to think in [[evergreen notes]] way. And I also start to differentiate between the thoughts that pop up by itself, and the act of thinking that I\u2019m using my mind consciously. [[thinking]] [[intellectual mind]]",
+        "edit-time": 1605253044313,
+        "string": "I noticed that I started to think in [[Evergreen notes way. And I also start to differentiate between the thoughts that pop up by itself, and the act of thinking that I\u2019m using my mind consciously. [[thinking]] [[intellectual mind]]",
         "uid": "2q-aEYsVI"
       },
       {
@@ -40322,126 +40547,6 @@
             "edit-time": 1605232488861,
             "string": "[[Design]]",
             "uid": "jsfVHFBjm"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702021,
-                        "string": "[Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)",
-                        "uid": "4WOX1ZhUc"
-                      },
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702021,
-                        "string": "[Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)",
-                        "uid": "jLH1UDrDN"
-                      }
-                    ],
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605233702021,
-                    "string": "Arguments:",
-                    "uid": "OC7i39rU3"
-                  },
-                  {
-                    "children": [
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702021,
-                        "string": "[A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes))",
-                        "uid": "cfhAKcrrN"
-                      },
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702021,
-                        "string": "[Andy's morning writing practice](https://notes.andymatuschak.org/My_morning_writing_practice)",
-                        "uid": "E9AwEuY2b"
-                      }
-                    ],
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605233702021,
-                    "string": "Systems:",
-                    "uid": "5xf1n1VJv"
-                  },
-                  {
-                    "children": [
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702021,
-                        "string": "[Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)",
-                        "uid": "t2h9AkNN2"
-                      }
-                    ],
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605233702021,
-                    "string": "Ideas",
-                    "uid": "uhmzqOO89"
-                  },
-                  {
-                    "children": [
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702021,
-                        "string": "[Pocket memo pad to capture into writing inbox while out](https://notes.andymatuschak.org/Pocket_memo_pad_to_capture_into_writing_inbox_while_out)",
-                        "uid": "kMkLwQPr2"
-                      }
-                    ],
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605233702021,
-                    "string": "Objects",
-                    "uid": "cm_q4bo7P"
-                  },
-                  {
-                    "children": [
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702022,
-                        "string": "[Write about what you read](https://notes.andymatuschak.org/Write_about_what_you_read)",
-                        "uid": "16IVs3146"
-                      },
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702022,
-                        "string": "[Do your own thinking](https://notes.andymatuschak.org/Do_your_own_thinking)",
-                        "uid": "XVaH7H5Z5"
-                      }
-                    ],
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605233702022,
-                    "string": "Advice",
-                    "uid": "9TF_flcoR"
-                  },
-                  {
-                    "children": [
-                      {
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605233702022,
-                        "string": "[The most effective readers and thinkers I know don\u2019t take notes when reading](https://notes.andymatuschak.org/The_most_effective_readers_and_thinkers_I_know_don%E2%80%99t_take_notes_when_reading)",
-                        "uid": "CqUA812-c"
-                      }
-                    ],
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605233702022,
-                    "string": "Observations",
-                    "uid": "UoUuNxqKm"
-                  }
-                ],
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605233702022,
-                "string": "Some categories of Evergreen notes from Andy's site:",
-                "uid": "uatgORJ58"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605233696849,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605233701495,
-            "string": "[[evergreen notes]]",
-            "uid": "iYUOltPRV"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -40846,29 +40951,11 @@
                             "uid": "bPGZKHyiS"
                           },
                           {
-                            "children": [
-                              {
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1605234740740,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1605234792626,
-                                "string": "One will be for my own understanding - concept notes, process notes, ",
-                                "uid": "3inRaeVTb"
-                              },
-                              {
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1605234792620,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1605234862894,
-                                "string": "Second is about further understanding and serving reality through teaching to other people.",
-                                "uid": "gapQAbf92"
-                              }
-                            ],
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1605234722984,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1605234830583,
-                            "string": "Now there will be some type of [[evergreen notes]] here",
+                            "edit-time": 1605252857485,
+                            "string": "",
                             "uid": "IS5gJ2-E3"
                           },
                           {
@@ -41282,14 +41369,6 @@
                         "edit-time": 1605236368202,
                         "string": "definition",
                         "uid": "EJNvA1RYi"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1605236368199,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1605236368199,
-                        "string": "",
-                        "uid": "_ygWCC8dq"
                       }
                     ],
                     "create-email": "ngoctienvt@gmail.com",
@@ -41301,8 +41380,8 @@
                   }
                 ],
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605234594681,
-                "string": "[[evergreen notes]] are notes that are written and organized to evolve, contribute, and accumulate over time.",
+                "edit-time": 1605252811203,
+                "string": "[[Evergreen notes]] are notes that are written and organized to evolve, contribute, and accumulate over time.",
                 "uid": "0ENSSRzCi"
               }
             ],
@@ -41327,5 +41406,128 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605234584903,
     "title": "PKDS - Personal Knowledge Development System terminology"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605255119676,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255119676,
+            "string": "Highlights, summary, key take-aways",
+            "uid": "cNIog5yMZ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605255087984,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605255207598,
+        "string": "Information - meaningful data",
+        "uid": "SwYkbUPLd"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605255080288,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605255080289,
+    "title": "Information"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605255140924,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255140924,
+            "string": "New insights, new awareness, self-reflection, pop-up understanding",
+            "uid": "wCayLCgRM"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605255140924,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255140924,
+            "string": "High-quality information blocks / evergreen notes/ MOCs",
+            "uid": "eKxTmZil-"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605255140924,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605255140924,
+        "string": "Knowledge - pattern recognition and self-understanding",
+        "uid": "fjCsQ3Uz8"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605255129044,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605255129045,
+    "title": "Knowledge"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605251019421,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255180728,
+            "string": "External knowledge (books, articles, courses, experiences...)",
+            "uid": "4f0QNTx5g"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605255184776,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605255186061,
+        "string": "Data",
+        "uid": "S5zIgSm58"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605255171831,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605255171831,
+    "title": "Data"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605255261343,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605255271399,
+            "string": "Personal books, courses, training programs",
+            "uid": "djRWzbTB1"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605255237130,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605255243781,
+        "string": "Wisdom - the package of personal knowledge that comes from deeply understand the essence of something or a truth",
+        "uid": "0edyqTQlX"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605255228439,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605255228440,
+    "title": "Wisdom"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605255345649,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605255345650,
+    "title": "low-value information blocks"
   }
 ]

@@ -1,0 +1,2 @@
+- Information - meaningful data
+    - Highlights, summary, key take-aways

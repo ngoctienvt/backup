@@ -1,7 +1,7 @@
 
 # Backlinks
-## [October 17th, 2020](<October 17th, 2020.md>)
-materials [generative wisdom](<generative wisdom.md>)
+## [What is my Personal Knowledge Development cycle?](<What is my Personal Knowledge Development cycle?.md>)
+- [Creating phase](<Creating phase.md>) - [generative wisdom](<generative wisdom.md>)
 
 ## [bottom-up approach](<bottom-up approach.md>)
 - Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>)

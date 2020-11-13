@@ -13,7 +13,7 @@
 [[true harmony]] is the harmony between our true self and reality, not the ego self and society.
 - My [[mindset]] is now from the higher-self and the rest of the lower-self. 
     - For example, grateful and ungrateful. Love and no love, Respect and unrespect. There is no need to care the differences of lower-self. Just need to know it is lower-self to aim to higher-self. [[indifferentiated]]
-- I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [[high-value information blocks]] that got process a bit and want to process more.
+- I noticed that if I want to tag something, it could not be my free-thoughts, but rather the [[high-value information blocks that got process a bit and want to process more. [[Tag usage]]
 - I feel much better when starting processing bottom-up approach to learn about my [[compressed process]]
     - Key takeaways::
         - Some [[types of information blocks]] that I started to see when processing bottom-up approach concepts are
@@ -23,16 +23,7 @@
             - characteristics
             - procedure
 - {{[[TODO]]}} working on workflow process again
-- The relationship between [[evergreen garden]] and [[The journey of understanding]]
-    - ## A blog without a publish button
-        - blogging is mostly performative thinking and less captain’s log. So I am looking for a space to nurture, edit in real time and evolve my thinking.
-    - ## A space for collecting the dots
-        - It’s more common to think of “connecting the dots” but the truth is that you can’t connect the dots you can’t see.
-        - And we can only hold a tiny number of things in our brains at once. So a space for collecting (and organizing) the dots is a crucial foundation for thinking, creativity and more:
-        - But ideas aren’t summoned from nowhere: they come from raw material, other ideas or observations about the world. Hence a two-step creative process: collect raw material, then think about it. From this process comes pattern recognition and eventually the insights that form the basis of novel ideas.
-    - ## Longevity, text files and folders
-        - Firstly - apparently, folders and files is the “best in class” tool (better than tags and search) for personal information management
-        - Critics of this method point out that information is hidden from sight in folders that are often within other folders so that we have to remember the exact location of information to access it.
+- 
 - [[types of blog]]
     - digital garden
     - flourish-content blog

@@ -1,6 +1,6 @@
 - Map of contents are the navigating system that organize my central nodes
     - Centralized notes are the notes that highly develop with many evergreen notes 
-        - [evergreen notes](<evergreen notes.md>) are notes that are written and organized to evolve, contribute, and accumulate over time.
+        - [Evergreen notes](<Evergreen notes.md>) are notes that are written and organized to evolve, contribute, and accumulate over time.
             - My type of evergreen notes are
                 - Concepts/ideas/process note
                 - Explaining notes
@@ -8,7 +8,6 @@
                 - Argument notes
             - An evergreen note will have content about different [types of information blocks](<types of information blocks.md>)
                 - definition
-                - 
 
 # Backlinks
 ## [November 13th, 2020](<November 13th, 2020.md>)

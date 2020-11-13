@@ -1,6 +1,6 @@
 - [self-generated motivation](<self-generated motivation.md>) for [snowball](<snowball.md>) effect
     - Instead of trying to go to the next step, we will naturally move on when the current step are ready for the next step. [readiness](<readiness.md>)
-        - For example, [evergreen garden](<evergreen garden.md>) 
+        - For example, [Evergreen garden](<Evergreen garden.md>) 
             - When the trees are gathered enough, we will start developing a need to condense them naturally, because we will feel that they are clustering and need to resolve when the materials are ready. [clustering](<clustering.md>) [positive inner feedback loop](<positive inner feedback loop.md>)
     - [joy of development](<joy of development.md>)
         - For example, [deeper understanding](<deeper understanding.md>)

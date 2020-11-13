@@ -16,9 +16,6 @@
 - ## An example that I want to use to learn to creating this process are [journaling training](<journaling training.md>)
 
 # Backlinks
-## [October 17th, 2020](<October 17th, 2020.md>)
-- The process to grow my knowledge will be have different levels [knowledge development process](<knowledge development process.md>)
-
 ## [October 20th, 2020](<October 20th, 2020.md>)
 - As I tested [knowledge development process](<knowledge development process.md>)
 

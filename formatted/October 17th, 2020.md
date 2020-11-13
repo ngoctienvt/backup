@@ -71,16 +71,6 @@ inside.
 meet my [inner demand of reality](<inner demand of reality.md>). I don't want to let any external things
 responsible for my inner container. I still feel grateful, enjoy, honor, but
 not put the responsibility on them. [personal responsibilities](<personal responsibilities.md>)
-- The process to grow my knowledge will be have different levels [knowledge development process](<knowledge development process.md>) [evergreen garden](<evergreen garden.md>)
-    - Simply reading
-    - Take notes interesting concepts, ideas, understanding - raw
-materials without the need to connect to my own system [raw knowledges](<raw knowledges.md>)
-    - process these notes to my own understanding - creating
-ideas, concepts nodes and relate them to my own system [processed knowledges](<processed knowledges.md>)
-    - continue developing these ideas and concepts over time
-through experiences, note-taking, connecting - [mature knowledges](<mature knowledges.md>)
-    - creating articles, condensing wisdom from these refined
-materials [generative wisdom](<generative wisdom.md>)
 - When bathing, I noticed that how I look at and name things is different depends on the view [point of focus](<point of focus.md>) [rules for naming](<rules for naming.md>) [generating languages](<generating languages.md>)
     - results - be clean inside
     - process or actions - integration

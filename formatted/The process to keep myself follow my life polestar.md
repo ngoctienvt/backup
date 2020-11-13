@@ -1,4 +1,4 @@
-- Tags: #[evergreen notes](<evergreen notes.md>) [processing](<processing.md>)
+- Tags: #[Evergreen notes](<Evergreen notes.md>) [processing](<processing.md>)
 - Three indicators to know that I'm on the right track (big picture)
     - Always feeling fulfill, love, excitement, trust inside myself [self-fulfilled](<self-fulfilled.md>)
         - [cleaning the inner blockages](<cleaning the inner blockages.md>)

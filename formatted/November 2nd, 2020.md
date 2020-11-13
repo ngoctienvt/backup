@@ -40,5 +40,5 @@ I'm on the process to learn to lean myself away from my inner stuff and my inner
 - ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive development approach](<progressive development approach.md>) [From idea to production](<From idea to production.md>)
     - https://twitter.com/Roamfu/status/1293505256962183170
     - https://www.roambrain.com/roam-and-your-idea-to-reality-production-stack/
-- [evergreen notes](<evergreen notes.md>) https://www.roambrain.com/i-tried-to-build-a-zettelkasten-following-andy-matuschaks-notes-and-now-i-have-this-weird-thing/
+- 
 - 

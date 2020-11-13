@@ -1,4 +1,4 @@
-- Tags: #[[evergreen notes]] #processing
+- Tags: #[[Evergreen notes]] #processing
 - Three indicators to know that I'm on the right track (big picture)
     - Always feeling fulfill, love, excitement, trust inside myself [[self-fulfilled]]
         - [[cleaning the inner blockages]]

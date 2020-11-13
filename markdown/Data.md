@@ -1,0 +1,2 @@
+- Data
+    - External knowledge (books, articles, courses, experiences...)

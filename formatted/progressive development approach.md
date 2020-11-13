@@ -11,7 +11,7 @@
     -  [bottom-up approach](<bottom-up approach.md>) for merging with the experiences
         - [integration](<integration.md>)
     -  [top-down approach](<top-down approach.md>) for focusing myself to certain direction
-        - [evergreen notes](<evergreen notes.md>)
+        - [Evergreen notes](<Evergreen notes.md>)
 - ## Core principles
     - living life as a [circular process](<circular process.md>)
         - focused on [enjoy the process](<enjoy the process.md>) or journey instead of a [linear process](<linear process.md>) focused on [results](<results.md>)
@@ -34,7 +34,7 @@
             - looping with [built-in feedback loops](<built-in feedback loops.md>)
         - right tools
             - [support system](<support system.md>) to utilize external tools, so internal tools focus energy on what's important 
-                - creating an [evergreen garden](<evergreen garden.md>) to support thoughts process and store personal knowledge [workspace for intellectual mind](<workspace for intellectual mind.md>)
+                - creating an [Evergreen garden](<Evergreen garden.md>) to support thoughts process and store personal knowledge [workspace for intellectual mind](<workspace for intellectual mind.md>)
                 - [coaching](<coaching.md>)
         - momentum
             - [setting up for success](<setting up for success.md>) to create [snowball](<snowball.md>)

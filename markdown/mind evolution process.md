@@ -2,7 +2,7 @@
 - [[mind evolution process]] is a process to condense my scattered thoughts into higher quality thoughts, ideas, concepts, or level of thinking.
 - ### Metaphor for [[mind evolution process]] 
     - A universe with stars inter-related
-    - A [[evergreen garden]] which develop slowly over time through the death of old materials and the born of new ideas 
+    - A [[Evergreen garden]] which develop slowly over time through the death of old materials and the born of new ideas 
 - [[mind evolution process]]:
     - [[accumulate scattering thoughts process]]
     - [[compressed process]]

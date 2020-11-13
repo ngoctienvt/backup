@@ -28,7 +28,7 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 - The main meaning of [compressed process](<compressed process.md>) is to help you achieve [deeper understanding](<deeper understanding.md>)
 
 ## [journaling training](<journaling training.md>)
-- accumulated and deepen knowledge over time [evergreen garden](<evergreen garden.md>) [deeper understanding](<deeper understanding.md>)
+- accumulated and deepen knowledge over time [Evergreen garden](<Evergreen garden.md>) [deeper understanding](<deeper understanding.md>)
 
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - For example, [deeper understanding](<deeper understanding.md>)

@@ -11,7 +11,7 @@
     -  [[bottom-up approach]] for merging with the experiences
         - [[integration]]
     -  [[top-down approach]] for focusing myself to certain direction
-        - [[evergreen notes]]
+        - [[Evergreen notes]]
 - ## Core principles
     - living life as a [[circular process]]
         - focused on [[enjoy the process]] or journey instead of a [[linear process]] focused on [[results]]
@@ -34,7 +34,7 @@
             - looping with [[built-in feedback loops]]
         - right tools
             - [[support system]] to utilize external tools, so internal tools focus energy on what's important 
-                - creating an [[evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]
+                - creating an [[Evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]
                 - [[coaching]]
         - momentum
             - [[setting up for success]] to create [[snowball]]

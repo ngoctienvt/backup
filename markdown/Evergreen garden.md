@@ -1,0 +1,6 @@
+- Evergreen gardens is place for nurture [[Evergreen notes]] to become solidify knowledge and wisdom
+- It's a workplace for developing personal knowledge, a space for collecting, emerging and connecting the dots. Some examples
+    - Roam Research
+    - Blog without publish button
+- [[The journey of understanding]] is the journey of personal knowledge.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkA2aftsAO4.png?alt=media&token=5cb97501-2f85-4df2-b770-564661cd7d9e)

@@ -71,16 +71,6 @@ inside.
 meet my [[inner demand of reality]]. I don't want to let any external things
 responsible for my inner container. I still feel grateful, enjoy, honor, but
 not put the responsibility on them. [[personal responsibilities]]
-- The process to grow my knowledge will be have different levels [[knowledge development process]] [[evergreen garden]]
-    - Simply reading
-    - Take notes interesting concepts, ideas, understanding - raw
-materials without the need to connect to my own system [[raw knowledges]]
-    - process these notes to my own understanding - creating
-ideas, concepts nodes and relate them to my own system [[processed knowledges]]
-    - continue developing these ideas and concepts over time
-through experiences, note-taking, connecting - [[mature knowledges]]
-    - creating articles, condensing wisdom from these refined
-materials [[generative wisdom]]
 - When bathing, I noticed that how I look at and name things is different depends on the view [[point of focus]] [[rules for naming]] [[generating languages]]
     - results - be clean inside
     - process or actions - integration

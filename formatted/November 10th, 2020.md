@@ -25,16 +25,5 @@
         - Edges linking nodes in information systems (e.g. [Evergreen notes should be densely linked](https://notes.andymatuschak.org/z2HUE4ABbQjUNjrNemvkTCsLa1LPDRuwh1tXC)) should themselves be labeled in some way which contextualizes the association. It’s often not enough to say “X is related to Y”: better to say “X goes into more detail about Y in the context of Z.”
         - The extra context will be a cue for your memory or evaluation of the linked material, which will help you effectively navigate the knowledge graph and retrace your former thought processes.
 - [built-in feedback loops](<built-in feedback loops.md>) Note-writing provide weak feedback, comment or thoughts writing stronger feedback.
-- [evergreen notes](<evergreen notes.md>)
-    - https://medium.com/@mattbrockwell/a-taxonomy-of-notes-c6fc77aac311
-    - (From my perspective, it’s at level 3 that your own ideas first occur, because if
-        -  level 1 was about defining areas of the house that you were going to fill, [area of interest](<area of interest.md>) 
-        - and level 2 was about defining the objects you were going to fill them with, [objects inside area of interest](<objects inside area of interest.md>)
-        - then, at level 3, for the first time, you are working on describing and declaring **__relationships between the objects in your mental house** __— or your “magic junkyard”, to borrow a descriptor I first read used by Anne-Laure Le Cunff) [relationship between objects inside area of interest ](<relationship between objects inside area of interest .md>)
-    - These notes are the “meta” notes, that start to build on ideas you have developed across multiple lower-levels of notes. Andy compares these notes to “API”s, in that they then become useful “handles” for developing ideas at the highest levels of complexity.
-    - When [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes) are factored and titled well, those titles become an abstraction for the note itself. The entire note’s ideas can then be referenced using that handle.
-    - In fact, this property itself functions as a kind of litmus: as you develop ideas in notes over time, and improve the “APIs,” you’ll be able to write individual notes which abstract over increasingly large subtrees (e.g. “[Enacted experiences have incredible potential as a mass medium](https://notes.andymatuschak.org/Enacted_experiences_have_incredible_potential_as_a_mass_medium)”, “[Evergreen note-writing as fundamental unit of knowledge work](https://notes.andymatuschak.org/Evergreen_note-writing_as_fundamental_unit_of_knowledge_work)”).
-    - Some effective note “API design” techniques:
-        - **separation of concerns **([Evergreen notes should be atomic](https://notes.andymatuschak.org/Evergreen_notes_should_be_atomic)),
-        - **sharp titles** ([Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)), and
-        - **positive framings** ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)).
+- 
+    - 

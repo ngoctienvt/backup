@@ -1,13 +1,20 @@
 - Related: [[Roam's writing structure]]
-- [[high-value information blocks]]
+- Information blocks are the fundamental unit of notes
 - [[types of information blocks]]
-    - [[real life application]]
-    - [[todo list]]
-    - 
-    - [[definition]] describes an idea or a concept
-    - [[meaning]] what are the benefits of this?
-    - [[procedure]] steps by steps implementation
-    - [[process]] describe the flow of the activity
-    - [[function]] usages of the concept
-    - [[principle]] a rule telling what is the behind structure (what is allowed and what not)
-    - [[information]] detail information of the concept
+    - Based on quality
+        - [[high-value information blocks]]
+            - [[Information]]
+            - [[Knowledge]]
+        - [[low-value information blocks]]
+            - Raw data, long text
+    - Based on contextual function
+        - [[real life application]]
+        - [[todo list]]
+    - Based on general function
+        - [[definition]] describes an idea or a concept
+        - [[meaning]] what are the benefits of this?
+        - [[procedure]] steps by steps implementation
+        - [[process]] describe the flow of the activity
+        - [[function]] usages of the concept
+        - [[principle]] a rule telling what is the behind structure (what is allowed and what not)
+        - [[information]] detail information of the concept

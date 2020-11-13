@@ -1,0 +1,2 @@
+- Wisdom - the package of personal knowledge that comes from deeply understand the essence of something or a truth
+    - Personal books, courses, training programs

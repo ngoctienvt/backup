@@ -1,6 +1,9 @@
 - # Processing raw data
 - [The journey of understanding](<The journey of understanding.md>)
 - [idea emergence](<idea emergence.md>)
+- [Evergreen garden](<Evergreen garden.md>)
+    - [Evergreen notes](<Evergreen notes.md>)
+- [contextual usages](<contextual usages.md>)
 - Once you can see the shape, then you can think about its character.
 - # Evergreen notes
 - [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)

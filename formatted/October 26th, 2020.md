@@ -29,7 +29,7 @@
     - I will handle them progressively through the [integration](<integration.md>) process
 - I'm on the process to find a hard boundary for my way of storing information blocks. And as well as finding what will be included inside of it. [information blocks](<information blocks.md>)
 - In order to know [types of information blocks](<types of information blocks.md>), I need to know what is the [contextual usages](<contextual usages.md>) that I want to have first.
-    - I also start to realize the usage of [evergreen notes](<evergreen notes.md>) to concentrate my thinking into one concept. By this, I could develop different understand in a different context and I could always create a bigger understanding by connecting these [information blocks](<information blocks.md>).
+    - 
 - [coaching reflection](<coaching reflection.md>) Today coaching, I noticed that I'm not fully starting with where client at, but tend to start with where I'm at. This is not totally wrong, but it is ineffective because of my position should be supporter, not be a source of truth. [[meet people
 where they are]] 
 

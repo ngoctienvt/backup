@@ -1,6 +1,9 @@
 - # Processing raw data
 - [[The journey of understanding]]
 - [[idea emergence]]
+- [[Evergreen garden]]
+    - [[Evergreen notes]]
+- [[contextual usages]]
 - Once you can see the shape, then you can think about its character.
 - # Evergreen notes
 - [[PKDS - Personal Knowledge Development System terminology]]

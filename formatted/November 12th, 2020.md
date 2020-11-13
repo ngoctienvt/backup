@@ -6,5 +6,5 @@
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [workflow](<workflow.md>) [end goal](<end goal.md>) [process](<process.md>). 
 - the difference between mean goal and [end goal](<end goal.md>) are so. Mena goal will always have ‘so’, while end goal usually direct link to your happiness, most of the time end goal are feeling.
 - [Wild end goals that can lead you to true freedom and happiness](<Wild end goals that can lead you to true freedom and happiness.md>) Able to enjoy experiences that come to me. Able to handle any thoughts and emotions that reemerge inside of me. 
-- I noticed that I started to think in [evergreen notes](<evergreen notes.md>) way. And I also start to differentiate between the thoughts that pop up by itself, and the act of thinking that I’m using my mind consciously. [thinking](<thinking.md>) [intellectual mind](<intellectual mind.md>)
+- I noticed that I started to think in [Evergreen notes way. And I also start to differentiate between the thoughts that pop up by itself, and the act of thinking that I’m using my mind consciously. [[thinking](<Evergreen notes way. And I also start to differentiate between the thoughts that pop up by itself, and the act of thinking that I’m using my mind consciously. [[thinking.md>) [intellectual mind](<intellectual mind.md>)
 - 

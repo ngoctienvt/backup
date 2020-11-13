@@ -7,7 +7,7 @@
     - releasing the unnecessary task for our minds (SSD, RAM...)
     - using our [intellectual mind](<intellectual mind.md>) on generating ideas and making meaningful connections - awaken your intellectual mind [thought-generative process](<thought-generative process.md>)
     - externalize and detachment with our thoughts, so that we can raise ourselves over it to raise our life [spiritual growth](<spiritual growth.md>) [transcendence](<transcendence.md>)
-    - accumulated and deepen knowledge over time [evergreen garden](<evergreen garden.md>) [deeper understanding](<deeper understanding.md>)
+    - accumulated and deepen knowledge over time [Evergreen garden](<Evergreen garden.md>) [deeper understanding](<deeper understanding.md>)
     - preparing all the needed materials for creation [serving the demand of reality](<serving the demand of reality.md>)
 - ### What's the difference of this journaling method?
     - [progressive development approach](<progressive development approach.md>)
