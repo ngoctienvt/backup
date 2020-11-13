@@ -1,5 +1,6 @@
 - [[Capturing]]
-    - [[Webflow]] Webflow inspiration https://www.madflow.co/
+    - [[Webflow]] Webflow inspiration https://www.madflow.co/ https://webflow.com/blog/how-to-create-a-membership-website
+    - 
     - [[Design]]
         - Example for process
         -  ![](https://i2.wp.com/blog.sukad.com/wp-content/uploads/2020/08/15_13-2.jpg?resize=625%2C189)
