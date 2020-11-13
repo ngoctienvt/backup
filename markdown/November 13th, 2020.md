@@ -1,24 +1,76 @@
 - [[Capturing]]
     - [[Webflow]] Webflow inspiration https://www.madflow.co/
+    - [[Design]]
+        - Example for process
+        -  ![](https://i2.wp.com/blog.sukad.com/wp-content/uploads/2020/08/15_13-2.jpg?resize=625%2C189)
+    - [[evergreen notes]]
+        - Some categories of Evergreen notes from Andy's site:
+            - Arguments:
+                - [Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)
+                - [Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)
+            - Systems:
+                - [A writing inbox for transient and incomplete notes](https://notes.andymatuschak.org/A_writing_inbox_for_transient_and_incomplete_notes))
+                - [Andy's morning writing practice](https://notes.andymatuschak.org/My_morning_writing_practice)
+            - Ideas
+                - [Evergreen notes](https://notes.andymatuschak.org/Evergreen_notes)
+            - Objects
+                - [Pocket memo pad to capture into writing inbox while out](https://notes.andymatuschak.org/Pocket_memo_pad_to_capture_into_writing_inbox_while_out)
+            - Advice
+                - [Write about what you read](https://notes.andymatuschak.org/Write_about_what_you_read)
+                - [Do your own thinking](https://notes.andymatuschak.org/Do_your_own_thinking)
+            - Observations
+                - [The most effective readers and thinkers I know don’t take notes when reading](https://notes.andymatuschak.org/The_most_effective_readers_and_thinkers_I_know_don%E2%80%99t_take_notes_when_reading)
 - [[Journaling]]
     - I'm thinking that today I will be focus on 
         - clarify the relationship between 
-            - the MOC stage of personal knowledge management system, 
-                - evergreen notes, atomic concepts,
             - goal, approach, principle, method, execution, purpose, stage versus action...
             - zoom-out and zoom-in point of view
+    - For [[process]] [[terminology]], I could use the word
+        - cycle to refer the whole of something
+        - phase for major stages 
+        - stage for sub-phases
+        - For example:
+            -  Personal Knowledge Development cycle
+                - Capturing phase
+                - Shaping phase
+                - Consolidating and nurturing phase
+                - Creating phase
+                - Re-organizing phase
 - [[Clarifying]]
-    - My flow of work and flow of living
+    - My flow of work and flow of living [[workflow]]
         - Somehow I see that's it will be more about the action that will I do rather than the object or the topic that I'm working on.
         - There are some actions that I current aware of is
             - Centering to cleaning my inner stress and samskaras, as well as enjoy the moments
             - Writing to clarify thoughts process, thinking effectively, identify unanswered questions, consolidating 
             - Consuming through reading books or articles, watching Youtube videos or courses, listening to podcasts or audiobooks for learning new things
             -  Entertaining for relaxing
-        - I will want to start my day with 
-            - centering through meditation activities
+        - I will want to start my day with [[workflow]]
+            - centering through meditation activities, so that I could stay on being myself
             - writing morning page for narrowing today focus
-            - work on main tasks like thinking, consolidating, clarifying
-            - doing project tasks like translating
-            - 
+            - work on main tasks like thinking, consolidating, clarifying, so I could serve the reality
+            - doing project or scheduled tasks like translating, coaching, training, also for serving the reality
+            - entertaining when near lunchtime, sleeping and meditation sometimes in between the day, for energy and willpower recharge
+        - 
+    - The MOC stage of personal knowledge management system, 
+        - evergreen notes, atomic concepts,
+            - this one I'm not really clear yet. This is my clarifying stage, and now I need to clarify what I need to clarify. After collecting and shaping a bunch of notes, I will start to emerge the higher-order concepts that I could spend time to spend my time thinking on. 
+            - Then I will start to see the components that it's holding like
+                - Personal Knowledge Development system will have 
+                    - personal knowledge development cycle, 
+                    - the approach to develop the knowledge, 
+                    - the procedure to nurture the knowledge, 
+                    - the support system and tools needed
+            - Now what is the roles of atomic concepts, and evergreen notes here?
+                - personal knowledge development cycle will be the concept that I need to develop 
+                - while I could develop some evergreen notes for explaining about this sytem like
+                    - Why we need personal knowledge development cycle?
+                    - How to develop your own?
+                    - These evergreen notes is more about for other person instead of myself. 
+                - So actually atomic concepts more about my own internalizing, while evergreen notes is developing for further unstanding and more about externalizing
+            - There will be certain principles for me to develop the notes so that it will serve me best.
+                - I think Map of contents just make me think about navigating, it's fine though, because I will develop many atomic concepts and evergreen notes inside here.
+                - However, beside of MOC, I will need to have some ways to call these high-order development centralized notes. It's like the notes that contain the evergreen notes. Temporary I could it as central notes.
+                - I will need to develop my own terminology for type of notes, so I could easy to visualize.
+                    - Map of contents are the navigating system 
 - [[Consuming]]
+- 

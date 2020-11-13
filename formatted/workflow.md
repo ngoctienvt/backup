@@ -20,14 +20,6 @@
             - Writing/ Creating
             - Sharing
             - Letting go
-- Identify - What is my end goal
-- Reason - Why I want to achieve this goal
-- Diagnose - Identify "what is" before "what to do"
-    - Breakdown the levels
-    - Identify the blockages
-- Design the way to achieve the end goal based on the diagnose
-- Execution in reality
-- Review and optimize the whole process with an feedback loop system 
 
 # Backlinks
 ## [November 11th, 2020](<November 11th, 2020.md>)
@@ -37,6 +29,11 @@
 
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [workflow](<workflow.md>)
+
+## [November 13th, 2020](<November 13th, 2020.md>)
+- My flow of work and flow of living [workflow](<workflow.md>)
+
+- I will want to start my day with [workflow](<workflow.md>)
 
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I felt that I start to have a [workflow](<workflow.md>)

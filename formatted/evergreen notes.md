@@ -6,6 +6,9 @@
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - I noticed that I started to think in [evergreen notes](<evergreen notes.md>)
 
+## [November 13th, 2020](<November 13th, 2020.md>)
+- [evergreen notes](<evergreen notes.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - [evergreen notes](<evergreen notes.md>)
 
