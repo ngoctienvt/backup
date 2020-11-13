@@ -2,7 +2,17 @@
     - [[Assembling phase]] - bottom-up knowledge
         - Collecting stage
             - Note-taking external knowledge
+                - Books
+                - Articles
+                - Courses
+                - Summary
+                - Key take-aways
             - Journaling internal knowledge
+                - Thoughts
+                - Self-realization
+                - Self-reflection
+                - New insights
+                - New awareness
         - Shaping stage
             - Connecting and nurturing notes
             - Forming higher-order key concepts, key ideas

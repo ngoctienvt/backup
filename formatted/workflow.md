@@ -7,7 +7,7 @@
     - [batching methodology](<batching methodology.md>)
 - My workflow will be about supporting me to become a great being and a helpful human being.
     - [living from the place of surrender](<living from the place of surrender.md>)
-    - [journey of wisdom](<journey of wisdom.md>)
+    - [The journey of understanding](<The journey of understanding.md>)
 - Workflow activities
     - Meditating/ Integrating would need to be happening all the time, not just a specific time. - Living from the place of surrender or spiritual practitioner
         - Clarify [personal end goals](<personal end goals.md>)

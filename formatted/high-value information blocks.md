@@ -1,5 +1,5 @@
 - Related: [information blocks](<information blocks.md>)
-- [journey of wisdom](<journey of wisdom.md>)
+- [The journey of understanding](<The journey of understanding.md>)
 
 # Backlinks
 ## [November 4th, 2020](<November 4th, 2020.md>)

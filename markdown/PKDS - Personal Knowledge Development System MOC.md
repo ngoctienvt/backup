@@ -1,5 +1,5 @@
 - # Processing raw data
-- [[journey of wisdom]]
+- [[The journey of understanding]]
 - [[idea emergence]]
 - Once you can see the shape, then you can think about its character.
 - # Evergreen notes

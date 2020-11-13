@@ -37,9 +37,6 @@
 
 - [entirety of an atomic concept](<entirety of an atomic concept.md>)
 
-## [journey of wisdom](<journey of wisdom.md>)
-- [entirety of an atomic concept](<entirety of an atomic concept.md>)
-
 ## [network note-taking](<network note-taking.md>)
 - This require a way to create a boundary for capturing [entirety of an atomic concept](<entirety of an atomic concept.md>)
 

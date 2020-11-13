@@ -1,4 +1,4 @@
-- Related: [[journey of wisdom]]
+- Related: [[The journey of understanding]]
 - Collecting raw-data
 - Highlighting and tagging raw-data
 - Write key take-aways

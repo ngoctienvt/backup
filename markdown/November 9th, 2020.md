@@ -1,6 +1,4 @@
 -  This week focus:
-    - {{[[TODO]]}} working on [[journey of wisdom]]
-        - Start to work on the level of creating MOCs and evergreen notes
     - {{[[TODO]]}} improving coaching skills
 - Last night [[dream]], I have a fear about bad things, unpleasant things, I feel so much disturbed that I feel hard to center and let go. I need to remember that everything is just energy nurture energy, they are the energy of experiences that come to nurture me - the soul - the energy, so there is no need to fear and resist. They will not be able to harm me, but only teach me the nature of everything.
 

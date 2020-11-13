@@ -1,6 +1,4 @@
-- The [journey of wisdom](<journey of wisdom.md>) development will be somehow like this
-    - ![Info-pyramid](https://forum.obsidian.md/uploads/default/original/2X/f/fc9fd08e9f2c29e537b8ce41dcbf4fa16b08fffa.png)
-    - Information -> Inisght -> Knowledge -> Wisdom
+- The [The journey of understanding](<The journey of understanding.md>) development will be somehow like this
     - ![image](https://forum.obsidian.md/uploads/default/original/2X/6/6319a25e71dedae4e55fb15e7f98d682da9312d9.jpeg)
     - ![](https://forum.obsidian.md/uploads/default/original/2X/e/eb6fc396f10129e836a95b9ee549b506430830a3.jpeg)
     - ![Innovation process model](https://forum.obsidian.md/uploads/default/original/2X/a/adc7f3ee06e5997cefbe659c6f5ff8596419054c.jpeg)

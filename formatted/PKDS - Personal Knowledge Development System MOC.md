@@ -1,5 +1,5 @@
 - # Processing raw data
-- [journey of wisdom](<journey of wisdom.md>)
+- [The journey of understanding](<The journey of understanding.md>)
 - [idea emergence](<idea emergence.md>)
 - Once you can see the shape, then you can think about its character.
 - # Evergreen notes

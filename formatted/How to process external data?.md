@@ -1,4 +1,4 @@
-- Related: [journey of wisdom](<journey of wisdom.md>)
+- Related: [The journey of understanding](<The journey of understanding.md>)
 - Collecting raw-data
 - Highlighting and tagging raw-data
 - Write key take-aways

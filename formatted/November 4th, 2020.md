@@ -23,13 +23,7 @@
             - characteristics
             - procedure
 - [ ] working on workflow process again
-- The relationship between [evergreen garden](<evergreen garden.md>) and [journey of wisdom](<journey of wisdom.md>)
-    - watering ideas, seeds
-    - cleaning [clustering](<clustering.md>) weeds
-    - wither, resurface or flourish seeds
-    - **Streams** - For me this is twitter and is more than enough stream for now.
-    - **Campfires** - For me this is the blog here (and more broadly the blogosphere that I read and engage with). Room to grow here but generally I’m satisfied here.
-    - **Gardens** - This is where there’s a gap for me personally. No place to store and evolve deeper longer-term thinking. Many of my friends have gravitated to [Are.na](https://are.na/) but I just can’t get it to work for me.
+- The relationship between [evergreen garden](<evergreen garden.md>) and [The journey of understanding](<The journey of understanding.md>)
     - ## A blog without a publish button
         - blogging is mostly performative thinking and less captain’s log. So I am looking for a space to nurture, edit in real time and evolve my thinking.
     - ## A space for collecting the dots
