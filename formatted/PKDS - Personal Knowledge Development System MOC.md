@@ -53,3 +53,6 @@
 
 - The metaphor for my [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
+## [November 13th, 2020](<November 13th, 2020.md>)
+- [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+

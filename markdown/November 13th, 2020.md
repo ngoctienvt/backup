@@ -1,12 +1,10 @@
 - [[Capturing]]
-    - [[Webflow]] Webflow inspiration https://www.madflow.co/ https://webflow.com/blog/how-to-create-a-membership-website
-    - 
+    - [[Webflow]] Webflow inspiration https://www.madflow.co/ 
+https://webflow.com/blog/how-to-create-a-membership-website
     - [[Design]]
         - Example for process
         -  ![](https://i2.wp.com/blog.sukad.com/wp-content/uploads/2020/08/15_13-2.jpg?resize=625%2C189)
 - [[Journaling]]
-    - I'm thinking that today I will be focus on 
-        - clarify the relationship between 
     - For [[process]] [[terminology]], I could use the word
         - cycle to refer the whole of something
         - phase for major stages 
@@ -18,6 +16,8 @@
                 - Consolidating and nurturing phase
                 - Creating phase
                 - Re-organizing phase
+    - Today has been an effective day, I clarified my work a lot, and seem like there will be new things for me to learn a new workshop tomorrow, I'm exciting about it. I also feel that the snowball is rolling. I want to share my joy with [[Nguyễn Mỹ Linh]] anh I also want to hear how's she doing, any if I can do something to help her with.
+    - It's a little bit overwhelming though, because there are many things that accumulated and many new things that I want to learn. But I can truly feel that I'm doing better. I'm living. I'm alive. Not as the way before, but truly alive.
 - [[Clarifying]]
     - My flow of work and flow of living [[workflow]]
         - Somehow I see that's it will be more about the action that will I do rather than the object or the topic that I'm working on.
@@ -32,8 +32,7 @@
             - work on main tasks like thinking, consolidating, clarifying, so I could serve the reality
             - doing project or scheduled tasks like translating, coaching, training, also for serving the reality
             - entertaining when near lunchtime, sleeping and meditation sometimes in between the day, for energy and willpower recharge
-        - 
-    - The MOC stage of personal knowledge management system
+    - [[PKDS - Personal Knowledge Development System MOC]]
         - evergreen notes, atomic concepts,
             - this one I'm not really clear yet. This is my clarifying stage, and now I need to clarify what I need to clarify. After collecting and shaping a bunch of notes, I will start to emerge the higher-order concepts that I could spend time to spend my time thinking on. 
             - Then I will start to see the components that it's holding like
@@ -49,14 +48,6 @@
                     - How to develop your own?
                     - These evergreen notes is more about for other person instead of myself. 
                 - So actually atomic concepts more about my own internalizing, while evergreen notes is developing for further unstanding and more about externalizing
-            - There will be certain principles for me to develop the notes so that it will serve me best.
-                - I think Map of contents just make me think about navigating, it's fine though, because I will develop many atomic concepts and evergreen notes inside here.
-                - However, beside of MOC, I will need to have some ways to call these high-order development centralized notes. It's like the notes that contain the evergreen notes. Temporary I could it as central notes.
-                - I will need to develop my own terminology for type of notes, so I could easy to visualize. [[terminology]] [[PKDS - Personal Knowledge Development System terminology]]
-                    - I still have some not clear with terminology about evergreen notes. Before I view evergreen notes as long-writing notes, while actually it is more about the notes that will be develop over time, so actually every note on my developing phase are evergreen notes.
-                    - 
-                    - 
-    - goal, approach, principle, method, execution, purpose, stage versus action...
-        - zoom-out and zoom-in point of view
-- [[Consuming]]
+- goal, approach, principle, method, execution, purpose, stage versus action... This one for tomorrow [[November 14th, 2020]]
+    - zoom-out and zoom-in point of view
 - 

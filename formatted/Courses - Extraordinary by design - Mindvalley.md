@@ -1,0 +1,3 @@
+- Purpose of the course: Goal settings redefined
+- 1. Understand Culturescape - belief that shaped how we should
+- 2. Break free from rules
