@@ -35,4 +35,9 @@ Giới hạn đối tượng tham gia
         - Subject Matter Expert (SME) - Chuyên môn về chủ đề
         - Instructional Designer (ID) - Chuyên môn về thiết kế cấu trúc, hiểu về 1 cách người học, tiếp thu và xử lý thông tin
         - => Trainer - Facilitator
+        - Demo activity
+        - Competency-based training
+        - Structured Sharing
+        - Item Processing
+        - 
 - 
