@@ -12,9 +12,9 @@ We start to cling, to resist, to look out to find who we are
 Eventually, we exhaust, collapse and breakdown
 - And then a coach come in to offer support
 They aid us to detach with our thoughts and feelings
-We start to realize who we truly are, not the one we identified with
+They help us to realize who we truly are, not the one we identified with
 The place we are looking for is the place from which we are looking
-We start to realize we have choices and regain our freewill
+We realize we have choices and regain our freewill
 We notice habit-formed will and guide them to conscious will
 Day by day, we die to be reborn
 - From there, we grow, evolve, embrace the gift of life

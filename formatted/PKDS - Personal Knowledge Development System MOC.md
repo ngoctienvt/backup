@@ -56,3 +56,6 @@
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
+## [November 14th, 2020](<November 14th, 2020.md>)
+- I feel that it will take time for me to truly practice my spiritual path first. I will focus on [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+
