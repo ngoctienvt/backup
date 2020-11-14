@@ -38926,14 +38926,6 @@
                 "edit-time": 1605364579502,
                 "string": "Item Processing",
                 "uid": "utT7h_k7v"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605364579499,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605364579499,
-                "string": "",
-                "uid": "nQtfAwdo2"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -38950,6 +38942,14 @@
         "edit-time": 1605355489348,
         "string": "[[Workshop Design]]",
         "uid": "RDOV_a0To"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605364579499,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605370688243,
+        "string": " I felt a little bit [[restless]] inside myself. There are a few things that I still feel worried if I disturb other people while they're sharing. There is a feeling of worry about the speakers get problems and need to fix. I have a concern if I should join their [[instructional design]] or not. Because I still want to learn on my own, and whether if the teaching is worth my time and money.",
+        "uid": "nQtfAwdo2"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -42069,5 +42069,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605355489351,
     "title": "Workshop Design"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605370654372,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605370654379,
+    "title": "instructional design"
   }
 ]

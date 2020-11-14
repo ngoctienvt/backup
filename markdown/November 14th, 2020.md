@@ -39,5 +39,5 @@ Giới hạn đối tượng tham gia
         - Competency-based training
         - Structured Sharing
         - Item Processing
-        - 
+-  I felt a little bit [[restless]] inside myself. There are a few things that I still feel worried if I disturb other people while they're sharing. There is a feeling of worry about the speakers get problems and need to fix. I have a concern if I should join their [[instructional design]] or not. Because I still want to learn on my own, and whether if the teaching is worth my time and money.
 - 
