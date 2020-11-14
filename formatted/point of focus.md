@@ -40,3 +40,6 @@
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - Last night, I learnt that I put my [point of focus](<point of focus.md>)
 
+## [point of view](<point of view.md>)
+- point of view is the level or the direction of [point of focus](<point of focus.md>)
+
