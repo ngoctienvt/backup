@@ -12,6 +12,7 @@ I will also wear long-hand clothes at night so that I can protect my arm. [physi
 - I also learned in today that I don't have to worry about what I need to do, as long as I'm keep raising my energy to higher center, it will do its work instead of me. I will just need to be myself most of the time. [choiceless](<choiceless.md>) [serving the demand of reality](<serving the demand of reality.md>)
 - [topic prompts](<topic prompts.md>) https://www.notion.so/Topics-Forest-Template-29982b6e7e2b4df2adf35bcae8902d9b
 - [Workshop Design](<Workshop Design.md>)
+    - https://sites.google.com/view/thietkeworkshoptinhgon
     - While You Wait activity
     - Jamboard
     - Activities for relax and get used to tools
