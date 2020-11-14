@@ -18,5 +18,21 @@ I will also wear long-hand clothes at night so that I can protect my arm. [physi
     - What is training?
         - Knowledge, skills, attitude, competency
         - Đào tạo: quá trình học hỏi để phát triển kỹ năng, kiến thức, thái độ cần có để làm được một nhiệm vụ hay công việc nào đó
-
+Giới hạn đối tượng tham gia
+        - Ideal students
+        - Xác định mục tiêu của chương trình và mục tiêu của học viên
+        - Mục tiêu ẩn - tăng kiến thức và nguyên lý
+        - Bloom's cognitive taxonomy
+        - Biết - Hiểu - Ứng dụng - Phân tích - Đánh giá - Kiến tạo
+        - Mục tiêu rõ ràng
+            - Điều gì - learning objectives
+            - Cho ai - 
+            - Để họ làm được gì - leaning outcomes
+            - Bằng phương tiện gì
+            - Trong điều kiện nào - 
+            - Tiêu chí thành công - measure of success
+        - Instructional Design
+        - Subject Matter Expert (SME) - Chuyên môn về chủ đề
+        - Instructional Designer (ID) - Chuyên môn về thiết kế cấu trúc, hiểu về 1 cách người học, tiếp thu và xử lý thông tin
+        - => Trainer - Facilitator
 - 
