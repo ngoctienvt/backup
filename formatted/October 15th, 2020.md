@@ -8,7 +8,7 @@ This helps us to see life in a much broader picture so that what we need to reso
 - I felt that I'm learning to shift fully from [linear thinking](<linear thinking.md>) to [network thinking](<network thinking.md>) which release the roles of categories and embrace the roles of connections.
 - I'm on a stage that building the foundations for everything I will develop based on this [basic foundation](<basic foundation.md>).
 - 
-- When I want to ask to know about [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) situation. I felt that my way of asking is too general which often leads the other person to find hard to answer. I want it to at least a little bit specific so that people could easier look back on their situation. 
+- When I want to ask to know about [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) situation. I felt that my way of asking is too general which often leads the other person to find hard to answer. I want it to at least a little bit specific so that people could easier look back on their situation. 
 
 Instead of [vague questions](<vague questions.md>), it's about [contextual questions](<contextual questions.md>). Not leading, just context. The question with clear context also show how much I understand and connect with that person's situation. 
 - When going to buy an audio theater, I want to let myself focus on what's really necessary instead of letting my [personal needs](<personal needs.md>) drive the way. I will focus on the fact that I want to have a simple audio system that [audio theater](<audio theater.md>)

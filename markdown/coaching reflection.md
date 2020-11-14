@@ -1,4 +1,4 @@
-- letting go [[personal agenda]] that related to [[Nguyễn Mỹ Linh]]
+- letting go [[personal agenda]] that related to [[@Nguyễn Mỹ Linh]]
 - developing or centering my coaching on [[bottom-up approach]] instead of top-down approach.
     - making [[bottom-up approach]] the central of my coaching skills
         - [[top-down approach]] is a supplement for help me to on the right track.

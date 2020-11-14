@@ -16,7 +16,7 @@ https://webflow.com/blog/how-to-create-a-membership-website
                 - Consolidating and nurturing phase
                 - Creating phase
                 - Re-organizing phase
-    - Today has been an effective day, I clarified my work a lot, and seem like there will be new things for me to learn a new workshop tomorrow, I'm exciting about it. I also feel that the snowball is rolling. I want to share my joy with [[Nguyễn Mỹ Linh]] anh I also want to hear how's she doing, any if I can do something to help her with.
+    - Today has been an effective day, I clarified my work a lot, and seem like there will be new things for me to learn a new workshop tomorrow, I'm exciting about it. I also feel that the snowball is rolling. I want to share my joy with [[@Nguyễn Mỹ Linh]] anh I also want to hear how's she doing, any if I can do something to help her with.
     - It's a little bit overwhelming though, because there are many things that accumulated and many new things that I want to learn. But I can truly feel that I'm doing better. I'm living. I'm alive. Not as the way before, but truly alive.
 - [[Clarifying]]
     - My flow of work and flow of living [[workflow]]
@@ -48,6 +48,4 @@ https://webflow.com/blog/how-to-create-a-membership-website
                     - How to develop your own?
                     - These evergreen notes is more about for other person instead of myself. 
                 - So actually atomic concepts more about my own internalizing, while evergreen notes is developing for further unstanding and more about externalizing
-- goal, approach, principle, method, execution, purpose, stage versus action... This one for tomorrow [[November 14th, 2020]]
-    - zoom-out and zoom-in point of view
 - 

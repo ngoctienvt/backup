@@ -10,7 +10,7 @@ Instead of looking at I'm not enough because this is the fact already, I can use
     - Writing, relaxing, reading, working - the remaining half
     - There are a time for bottom-up [diffuse mode](<diffuse mode.md>) and time for top-down [focus mode](<focus mode.md>)
     - I will test this on the next week
-- I felt that I still [worry](<worry.md>) too much for [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>), she's on the vulnerable and overwhelm stages. However, all of what I can do for her now is [trust the process](<trust the process.md>) that she will be able to over come these challenges, and give her the best [impersonal support](<impersonal support.md>) as possible. 
+- I felt that I still [worry](<worry.md>) too much for [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>), she's on the vulnerable and overwhelm stages. However, all of what I can do for her now is [trust the process](<trust the process.md>) that she will be able to over come these challenges, and give her the best [impersonal support](<impersonal support.md>) as possible. 
 - [joy of missing out](<joy of missing out.md>) versus [fear of missing out](<fear of missing out.md>) [fear](<fear.md>)
     - “Oh the joy of missing out. 
 When the world begins to shout

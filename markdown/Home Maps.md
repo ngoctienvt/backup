@@ -11,6 +11,7 @@
 - [[Coaching MOC]]
 - [[Training MOC]]
 - [[Spiritual MOC]]
+- [[People]]
 - 
 - Smaller MOC working on
     - [[Support system MOC]]

@@ -13,6 +13,9 @@
 
 - List of noticed [samskaras](<samskaras.md>):
 
+## [November 14th, 2020](<November 14th, 2020.md>)
+- I felt kind of tired when I still dream so much and can't wake up. I'm not asserting my will power to get up and be myself, but let myself drowning on the release of samskaras. I will try to wake up and support the process of releasing inner samskaras. [willpower](<willpower.md>) [samskaras](<samskaras.md>).
+
 ## [November 7th, 2020](<November 7th, 2020.md>)
 - I noticed that I still feel there are some [samskaras](<samskaras.md>)
 

@@ -1,0 +1,17 @@
+- The system of goal-achieving strategy
+    - Goal is what I want to achieve
+    - Approach is how I want to reach the end goal. (fast or slow, experience or direct, leaning or just need achieve, visual or auditory,...)
+    - Method is the way that develop based on the approach to achieve the goal. For example, reading is a method to gain self-mastery through a self-study approach.
+    - Procedure is the step-by-step action or workflow to implement the method
+    - Execution is the act of execute the procedure to move forward the goal based.
+- The support system
+    - Principles are something that put constraint for the system so that everything will need to align inside of it. [[constraint]]
+    - The purpose is the reason for which something is done or created or for which something exists. It will help to improve the focus and maintain the intention or motivation (meaning, benefit,...)
+    - zoom-in and zoom-out [[point of view]]
+- Picture versus execution
+    - In the process of achieving goal, there will be a need for understanding the big pictures and clarify how things will achieve (planning stage), so that the execution has the map to follow through.
+    - The pictures is a bout
+        - The goal
+        - The process/ phase/ stage
+        -  
+- 

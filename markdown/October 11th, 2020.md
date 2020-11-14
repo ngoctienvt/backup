@@ -10,7 +10,7 @@ Instead of looking at I'm not enough because this is the fact already, I can use
     - Writing, relaxing, reading, working - the remaining half
     - There are a time for bottom-up [[diffuse mode]] and time for top-down [[focus mode]]
     - I will test this on the next week
-- I felt that I still [[worry]] too much for [[Nguyễn Mỹ Linh]], she's on the vulnerable and overwhelm stages. However, all of what I can do for her now is [[trust the process]] that she will be able to over come these challenges, and give her the best [[impersonal support]] as possible. 
+- I felt that I still [[worry]] too much for [[@Nguyễn Mỹ Linh]], she's on the vulnerable and overwhelm stages. However, all of what I can do for her now is [[trust the process]] that she will be able to over come these challenges, and give her the best [[impersonal support]] as possible. 
 - [[joy of missing out]] versus [[fear of missing out]] [[fear]]
     - “Oh the joy of missing out. 
 When the world begins to shout

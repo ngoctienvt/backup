@@ -1,4 +1,4 @@
-- I have a dream about [Nguyễn Diễm Kiều](<Nguyễn Diễm Kiều.md>). I felt that I still have a desire with her and not able to let it go completely yet. She is cute, kind and gentle. She makes me feel peace, I can be myself around her and I want to take care of her. 
+- I have a dream about [@Nguyễn Diễm Kiều](<@Nguyễn Diễm Kiều.md>). I felt that I still have a desire with her and not able to let it go completely yet. She is cute, kind and gentle. She makes me feel peace, I can be myself around her and I want to take care of her. 
 - My physical body feel so tired in the morning, I still haven't able to resolve this yet. It feels cold inside, and make me feel hurt. [physical body](<physical body.md>)
 - It seems like there are multiple goals that I want to achieve, and I want to apply all of them based on one approach. [living from the place of surrender](<living from the place of surrender.md>)
     - Some of my current goals are

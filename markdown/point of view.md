@@ -1,3 +1,4 @@
+- point of view is the level or the direction that I'm looking on something.
 - [[zoom-out point of view]]
     - It's a view that see the big picture, a helicopter point of view, a high level of seeing the truth
     - Most of the time, it's a disidentification stage of the witness conscious.

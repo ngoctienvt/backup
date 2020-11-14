@@ -15,3 +15,6 @@
 
 - [executing](<executing.md>) - [focus](<focus.md>) to execute the [intention](<intention.md>) to reach the [constraint](<constraint.md>)
 
+## [goal-achieving strategy](<goal-achieving strategy.md>)
+- Principles are something that put constraint for the system so that everything will need to align inside of it. [constraint](<constraint.md>)
+

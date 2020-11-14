@@ -12,7 +12,7 @@ when seeing people learning the [[hard-truth]]. Because this pain is what
 really needs to confront and will give true solutions for true happiness.
 - [[concise]] is about clear intention, enough and trust the
 process.
-- Today coaching with [[Nguyễn Mỹ Linh]], I would like to have
+- Today coaching with [[@Nguyễn Mỹ Linh]], I would like to have
 a far step-back to let her tell more and I will listen more to really
 understand and establish a deep connection with her first. I will also let go
 of any top-down agendas so that I can fully meet her at where she was and help
@@ -25,9 +25,9 @@ will be more [[concise]] instead of explaining or talking too much.
 me, I start to try to grab and cling to it as best as possible. Instead of just
 let things be and raise it up naturally without any attachments. [[living from the place of surrender]] [[unattachment]]
 - {{[[TODO]]}} Coaching
-[[Nguyễn Thúy Hằng]] [[Oct 29th, 2020]]
-- {{[[TODO]]}} Coaching [[Nguyễn Mỹ Linh]] [[Nov 1st, 2020]]
-- {{[[TODO]]}} Coaching [[Lý Kim Ngân]] [[Oct 26th, 2020]]
+[[@Nguyễn Thúy Hằng]] [[Oct 29th, 2020]]
+- {{[[TODO]]}} Coaching [[@Nguyễn Mỹ Linh]] [[Nov 1st, 2020]]
+- {{[[TODO]]}} Coaching [[@Lý Kim Ngân]] [[Oct 26th, 2020]]
 - Planning for next next week:
     - 
     - {{[[TODO]]}}  refining [[morning rituals]]

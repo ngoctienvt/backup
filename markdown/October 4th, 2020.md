@@ -3,7 +3,7 @@
 Today I want to work more on some of the things I still work on:
     - way of living life
     - intention
-    - coaching with [[Nguyễn Mỹ Linh]]
+    - coaching with [[@Nguyễn Mỹ Linh]]
     - outline about [[mind-training]]
 - I'm thinking about doing a short training about using Roam for people to try it before I do my real training. However, I still concern about the picture is not clear and the process is not completed so it would make people become confused about the approach. 
 
@@ -41,6 +41,6 @@ Ideally, the [[coaching process]] will need to have these things:
 -  [[mind-training]] I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [[convenient]] way, so that my [[Roam Research]] personal knowledge garden can grow up in a helpful way and not become cluster over time. [[clean up fleeting notes]]
 - When I read about the routines of Andy - evergreen notes, I feel that I also want to shift myself to that directions. To have a routine habit and activities that like a [[life flow]] or [[workflow]] that naturally to me but also keep me on the right track.
 - I felt a little bit nervous to coach for Linh. I want to center myself and let me fully relax and trust things to unfold in a natural way. Release all of my needs, my fear, and let my true self in charge of the situation.
-- After the coaching session, I feel much more comfortable with [[Nguyễn Mỹ Linh]] and become natural with each other, rather than fear, need for recognition. I started to be myself, trust myself, share what best, and trust the process.
+- After the coaching session, I feel much more comfortable with [[@Nguyễn Mỹ Linh]] and become natural with each other, rather than fear, need for recognition. I started to be myself, trust myself, share what best, and trust the process.
 
 I feel happy that she realized things that she wasn't able to resolve in the past. She also realized the inner path to start with it. I'm happy with the fact that she's seeing the truth. She started to really build the inner well-being.

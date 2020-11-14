@@ -31,7 +31,7 @@ This will lead to the [[soul evolution]] to become wholer and keep the [[inner f
         - or I focus enough on the work and not get distract by the stuffs that emerge - [[short-term solutions]] [[focus mode]]
 - I felt that my [[impersonal desires]] are experiences without the need to satisfy any needs inside of myself. [[interests]]
     - I am [[complement]] myself so that I could be at least somehow ready than ever to become a good [[life partner]] and a good father or a good [[supporter]] for my child on their journey on the earth.
-- I felt that I and [[Nguyễn Mỹ Linh]] are not separate too much like the past. I  don't know whether we will become a [[life partner]] for each other or not, but I just want to support her as best as possible.  
+- I felt that I and [[@Nguyễn Mỹ Linh]] are not separate too much like the past. I  don't know whether we will become a [[life partner]] for each other or not, but I just want to support her as best as possible.  
 - For my parents, I want to love them as they are, instead of trying to please them with their [[personal needs]] as this is the indirect way to solve the true problems. [[work at the root]]
 - Instead of focus teaching on the knowledge, I could do better if I could describe more about how the process of our [[feelings]] will occurs. [[training method]]
 - [[level of development]] because everything has levels of development, from the easiest to most complicated, it's good to practice slowly from each level and increase the difficulty gradually.

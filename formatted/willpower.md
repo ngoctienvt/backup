@@ -9,6 +9,9 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>)
 
+## [November 14th, 2020](<November 14th, 2020.md>)
+- I felt kind of tired when I still dream so much and can't wake up. I'm not asserting my will power to get up and be myself, but let myself drowning on the release of samskaras. I will try to wake up and support the process of releasing inner samskaras. [willpower](<willpower.md>)
+
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - For the next period of time, my whole [willpower](<willpower.md>)
 

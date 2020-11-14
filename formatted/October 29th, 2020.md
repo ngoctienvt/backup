@@ -20,7 +20,7 @@ How to know what the reality truly need? It's about examining our behaviors, way
 - [Articles - Start a blog](<Articles - Start a blog.md>)
 - I also noticed that there is a big fear, a big limitation for me to go beyond myself to embrace the wholeness of the world when I think about going [international](<international.md>), going beyond my [Vietnamese](<Vietnamese.md>) and drop myself to the ocean of the vast world that are separated unconsciously. [wholeness](<wholeness.md>) [beyond personal-self](<beyond personal-self.md>)
 - [Articles - My Information Operating System Part 3: Synthesizing](<Articles - My Information Operating System Part 3: Synthesizing.md>) [Resources](<Resources.md>)
-- [coaching reflection](<coaching reflection.md>) Today when I coach for [Nguyễn Thúy Hằng](<Nguyễn Thúy Hằng.md>), I felt so much relief and have more trust for myself, because I can see the result of my coaching that truly satisfy my desire for [sustainable development](<sustainable development.md>) and not just work on the surface. 
+- [coaching reflection](<coaching reflection.md>) Today when I coach for [@Nguyễn Thúy Hằng](<@Nguyễn Thúy Hằng.md>), I felt so much relief and have more trust for myself, because I can see the result of my coaching that truly satisfy my desire for [sustainable development](<sustainable development.md>) and not just work on the surface. 
     - My [fear](<fear.md>) about trying to have the good result is shifting to [trust the process](<trust the process.md>) by doing what feel right at the moment. I can always improve it later.
     - It's funny to see a [coaching metaphor](<coaching metaphor.md>) about the way of [living without causing harm](<living without causing harm.md>) that I used to use before reappear again. Everyone have a hard time following their samskaras and cause them to live a life that make them smaller instead of expand themselves. [self expanding](<self expanding.md>)
     - I still have a tendency to give advices though I'm not sure that it will necessary or not. The reason is because I have the [need for perfect](<need for perfect.md>). And this need is to serve myself, not the person in front of me. [perfect](<perfect.md>) I want to let go this need for perfect, and embrace [trust the process](<trust the process.md>) instead, because no one can plan their future, they grow continuously through experiences and new awareness.
@@ -31,5 +31,5 @@ How to know what the reality truly need? It's about examining our behaviors, way
 
 # Backlinks
 ## [October 27th, 2020](<October 27th, 2020.md>)
-- [ ] Coaching [Nguyễn Thúy Hằng](<Nguyễn Thúy Hằng.md>) [October 29th, 2020](<October 29th, 2020.md>)
+- [ ] Coaching [@Nguyễn Thúy Hằng](<@Nguyễn Thúy Hằng.md>) [October 29th, 2020](<October 29th, 2020.md>)
 

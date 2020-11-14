@@ -4,7 +4,7 @@
 - I felt a little worry about this morning. I felt that I tend to put pressure on myself too much to not do the things wrong [self-pressure](<self-pressure.md>). There is a fear that I don't do things effectively and there is also a mistrust on other people abilities to develop their own uniqueness and their own learning. [trust the process](<trust the process.md>).
 
 ## [October 11th, 2020](<October 11th, 2020.md>)
-- I felt that I still [worry](<worry.md>) too much for [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>), she's on the vulnerable and overwhelm stages. However, all of what I can do for her now is [trust the process](<trust the process.md>)
+- I felt that I still [worry](<worry.md>) too much for [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>), she's on the vulnerable and overwhelm stages. However, all of what I can do for her now is [trust the process](<trust the process.md>)
 
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - •	I also realized that I want to learn to let myself integrate every single samskaras that popup without the [need for understanding](<need for understanding.md>) them. I could learn to resolve them after that. [trust the process](<trust the process.md>)

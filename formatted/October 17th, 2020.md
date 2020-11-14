@@ -12,7 +12,7 @@ when seeing people learning the [hard-truth](<hard-truth.md>). Because this pain
 really needs to confront and will give true solutions for true happiness.
 - [concise](<concise.md>) is about clear intention, enough and trust the
 process.
-- Today coaching with [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>), I would like to have
+- Today coaching with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>), I would like to have
 a far step-back to let her tell more and I will listen more to really
 understand and establish a deep connection with her first. I will also let go
 of any top-down agendas so that I can fully meet her at where she was and help
@@ -25,9 +25,9 @@ will be more [concise](<concise.md>) instead of explaining or talking too much.
 me, I start to try to grab and cling to it as best as possible. Instead of just
 let things be and raise it up naturally without any attachments. [living from the place of surrender](<living from the place of surrender.md>) [unattachment](<unattachment.md>)
 - [ ] Coaching
-[Nguyễn Thúy Hằng](<Nguyễn Thúy Hằng.md>) [Oct 29th, 2020](<Oct 29th, 2020.md>)
-- [ ] Coaching [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) [Nov 1st, 2020](<Nov 1st, 2020.md>)
-- [ ] Coaching [Lý Kim Ngân](<Lý Kim Ngân.md>) [Oct 26th, 2020](<Oct 26th, 2020.md>)
+[@Nguyễn Thúy Hằng](<@Nguyễn Thúy Hằng.md>) [Oct 29th, 2020](<Oct 29th, 2020.md>)
+- [ ] Coaching [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) [Nov 1st, 2020](<Nov 1st, 2020.md>)
+- [ ] Coaching [@Lý Kim Ngân](<@Lý Kim Ngân.md>) [Oct 26th, 2020](<Oct 26th, 2020.md>)
 - Planning for next next week:
     - 
     - [ ] refining [morning rituals](<morning rituals.md>)

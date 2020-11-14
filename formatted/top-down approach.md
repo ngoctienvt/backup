@@ -22,7 +22,7 @@
 - [convergence focus](<convergence focus.md>) will about I have a thing with [clear intention](<clear intention.md>), [constraint](<constraint.md>) and [top-down approach](<top-down approach.md>)
 
 ## [October 16th, 2020](<October 16th, 2020.md>)
-- [Nguyễn Mỹ Linh](<Nguyễn Mỹ Linh.md>) also made me realize that I have a tendency to work by [top-down approach](<top-down approach.md>)
+- [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) also made me realize that I have a tendency to work by [top-down approach](<top-down approach.md>)
 
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - [external knowledge](<external knowledge.md>) help to optimize the situation from a [top-down approach](<top-down approach.md>)

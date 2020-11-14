@@ -11,6 +11,7 @@
 - [Coaching MOC](<Coaching MOC.md>)
 - [Training MOC](<Training MOC.md>)
 - [Spiritual MOC](<Spiritual MOC.md>)
+- [People](<People.md>)
 - 
 - Smaller MOC working on
     - [Support system MOC](<Support system MOC.md>)
