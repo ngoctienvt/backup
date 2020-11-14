@@ -14,4 +14,9 @@ I will also wear long-hand clothes at night so that I can protect my arm. [physi
 - [Workshop Design](<Workshop Design.md>)
     - While You Wait activity
     - Jamboard
+    - Activities for relax and get used to tools
+    - What is training?
+        - Knowledge, skills, attitude, competency
+        - Đào tạo: quá trình học hỏi để phát triển kỹ năng, kiến thức, thái độ cần có để làm được một nhiệm vụ hay công việc nào đó
+
 - 
