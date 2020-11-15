@@ -23,6 +23,9 @@
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I noticed that I still have a happy feeling when [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 
+## [November 15th, 2020](<November 15th, 2020.md>)
+- Today I just want to talk with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - I felt that I still [worry](<worry.md>) too much for [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>),
 

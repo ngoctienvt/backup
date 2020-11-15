@@ -26,4 +26,6 @@ Who shines the sun
 Who laid this one
 - There are still many strong [[samskaras]] that able to pull me out if I'm not aware of it. At least I can always notice them and keep melting them so they will become softer and softer over time. My [[inner flow of energy]] become cleaner over time. 
 -  [[transcribing software]] https://gosubtitle.com/
+- Today I just want to talk with [[@Nguyễn Mỹ Linh]] as two friends and not to solve anything, but to feel, to understand, and let her be herself. Let her feel seen, feel heard and feel understood, to be express her inner state, to share her life, to feel that's there is a person who always stand by her side unconditionally, always curious about her, and always want the best for her life unconditionally. It's not a reciprocal communication, but rather a deep connection between two souls to feel each other heart. [[unconditional relationship]]
+- Let other people feel that's they are important. Let them feel seen, feel heard, and feel understood. [[coaching]] [[unconditional relationship]]
 - 
