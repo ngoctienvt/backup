@@ -11,7 +11,7 @@ I will also wear long-hand clothes at night so that I can protect my arm. [[phys
 - I felt much more calm and peaceful these days, it became much more natural to relax and release. I also noticed that I still have some resistance when learning online by Zoom and interacting with strangers, it's time for me to release these resistances and trust the process to unfold. It's time to learn to nurture [[humility]] and to enjoy the varities of life.
 - I also learned in today that I don't have to worry about what I need to do, as long as I'm keep raising my energy to higher center, it will do its work instead of me. I will just need to be myself most of the time. [[choiceless]] [[serving the demand of reality]]
 - [[topic prompts]] https://www.notion.so/Topics-Forest-Template-29982b6e7e2b4df2adf35bcae8902d9b
-- [[Workshop Design]]
+- [[Workshop Design]] [[instructional design]]
     - https://sites.google.com/view/thietkeworkshoptinhgon
     - While You Wait activity
     - Jamboard

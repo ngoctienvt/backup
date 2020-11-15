@@ -44,6 +44,17 @@
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [unattachment centering](<unattachment centering.md>)
 
+## [November 15th, 2020](<November 15th, 2020.md>)
+- I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [bottom-up approach](<bottom-up approach.md>). [unattachment centering](<unattachment centering.md>)
+
+- I noticed that I still need to work more on my [workflow](<workflow.md>), I still not clear what I need to do, so I just keep my mind wander and let it sink into the thoughts, emotions, and feelings. I'm not actively [unattachment centering](<unattachment centering.md>)
+
+- I noticed that my [unattachment centering](<unattachment centering.md>)
+
+- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>)
+
+- I can really feel that I'm becoming more and more clarity, more freedom, and much more cleaner inside. Even though sometimes I will lose myself, I still can easily get my center back. [unattachment centering](<unattachment centering.md>)
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - Meditation is mainly to practice [unattachment centering](<unattachment centering.md>)
 

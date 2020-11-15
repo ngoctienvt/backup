@@ -13,6 +13,11 @@
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - [purpose](<purpose.md>) is a high level [point of focus](<point of focus.md>)
 
+## [November 15th, 2020](<November 15th, 2020.md>)
+- My [point of focus](<point of focus.md>)
+
+- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>) are three quality that is my [point of focus](<point of focus.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [point of focus](<point of focus.md>)
 

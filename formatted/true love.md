@@ -14,6 +14,9 @@
 - 
 
 # Backlinks
+## [November 15th, 2020](<November 15th, 2020.md>)
+- [humility](<humility.md>), [true love](<true love.md>).
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 It's not fully impersonal and for other, it's still have a personal part. [true love](<true love.md>)
 
@@ -33,6 +36,10 @@ It's not fully impersonal and for other, it's still have a personal part. [true 
 - For [ideas](<ideas.md>) and [concepts](<concepts.md>), I would like to write them without capitalize so it could use easier in sentences, and I want to use a noun instead of a verb because its capture the ideas and concepts better like [surrender](<surrender.md>) or [true love](<true love.md>).
 
 ## [September 23rd, 2020](<September 23rd, 2020.md>)
+- When watching The first song program, I realized I still haven't able to handle my feelings with Kiều. I still feel a lot of regret and miss. It's a [memorable memories](<memorable memories.md>) for me that I still attach so much to how fun, how happy that I was. I realized that my love life still has a lot of [samskaras](<samskaras.md>) that I haven't finished to merge, to fully experience, and to let go yet. I want to contain all of these memorable memories so that I can fully enjoy the presence and maybe these are the things that I can payback for them, for other people or my future lover. [true love](<true love.md>)
+
+- I feel so grateful for all of the people that used to love me, which taught me a lot of things and that got hurt by me. I wish they have the best life and the best [true love](<true love.md>)
+
 - I also felt that in the past, I'm not totally clear about what is [romantic love](<romantic love.md>) with me? What is the [intimacy relationship](<intimacy relationship.md>) with my mate really mean? I only behave unconsciously by my need and my unclear attitude with the relationship, so that I let it happens with an irresponsible attitude. Now it's my time to have the right understanding and to fully responsible for it. [true love](<true love.md>)
 
 - Love is not only sharing, but also support and take care of each other and the relationship with a clear and right understanding. [true love](<true love.md>)

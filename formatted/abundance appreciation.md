@@ -41,7 +41,7 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 - I realized that I still not used to [acknowledge](<acknowledge.md>) and [honor](<honor.md>) the [effort](<effort.md>) of other people. I still have a tendency to focus on what's wrong instead of acknowledging, [abundance appreciation](<abundance appreciation.md>),
 
 ## [September 23rd, 2020](<September 23rd, 2020.md>)
-- I feel so grateful for all of the people that used to love me, which taught me a lot of things and that got hurt by me. I wish they have the best life and the best [love](<love.md>) if possible on the journey on earth [abundance appreciation](<abundance appreciation.md>).
+- I feel so grateful for all of the people that used to love me, which taught me a lot of things and that got hurt by me. I wish they have the best life and the best [true love](<true love.md>) if possible on the journey on earth [abundance appreciation](<abundance appreciation.md>).
 
 ## [September 24th, 2020](<September 24th, 2020.md>)
 - For me, practicing [honoring](<honoring.md>) and [abundance appreciation](<abundance appreciation.md>)

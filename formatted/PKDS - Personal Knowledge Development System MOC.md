@@ -25,7 +25,7 @@
                         - [top-down approach](<top-down approach.md>)
                         - [bottom-up approach](<bottom-up approach.md>) [processed](<processed.md>)
             - method or process of my personal knowledge management system
-                - [What is my Personal Knowledge Development cycle?](<What is my Personal Knowledge Development cycle?.md>)
+                - [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
                     - What is the way I organize my personal knowledge system?
                         - [Map of Contents](<Map of Contents.md>)
                         - [clean up fleeting notes](<clean up fleeting notes.md>)
@@ -58,4 +58,7 @@
 
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I feel that it will take time for me to truly practice my spiritual path first. I will focus on [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+
+## [November 15th, 2020](<November 15th, 2020.md>)
+- [workflow](<workflow.md>) [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 

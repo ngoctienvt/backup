@@ -25,7 +25,7 @@
                         - [[top-down approach]]
                         - [[bottom-up approach]] #processed
             - method or process of my personal knowledge management system
-                - [[What is my Personal Knowledge Development cycle?]]
+                - [[Personal Knowledge Development cycle]]
                     - What is the way I organize my personal knowledge system?
                         - [[Map of Contents]]
                         - [[clean up fleeting notes]]

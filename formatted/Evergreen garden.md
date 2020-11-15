@@ -9,7 +9,7 @@
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [Evergreen garden](<Evergreen garden.md>)
 
-## [What is my Personal Knowledge Development cycle?](<What is my Personal Knowledge Development cycle?.md>)
+## [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
 - [Developing phase](<Developing phase.md>) - unifying knowledge - [Evergreen garden](<Evergreen garden.md>)
 
 ## [journaling training](<journaling training.md>)
