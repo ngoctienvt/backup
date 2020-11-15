@@ -4,6 +4,9 @@
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - I felt the flow of energy inside of me flow fluently without the disturbance. It felt so peaceful, self-fulfilled and just want to stay at that state of being. [inner flow of energy](<inner flow of energy.md>).
 
+## [November 15th, 2020](<November 15th, 2020.md>)
+- There are still many strong [samskaras](<samskaras.md>) that able to pull me out if I'm not aware of it. At least I can always notice them and keep melting them so they will become softer and softer over time. My [inner flow of energy](<inner flow of energy.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - The second down is from not sure what need to do and keep build up the [samskaras](<samskaras.md>), keep harness the power of resistance and make us not able to access the [inner flow of energy](<inner flow of energy.md>).
 

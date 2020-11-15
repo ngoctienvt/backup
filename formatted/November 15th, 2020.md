@@ -11,16 +11,18 @@
     - My feeling about time now is much slower, because I go through much more transformation in a short period of time, and it happens continuously, everything around me and inside me also change significantly without me even truly realizing how it has been changed. [time awareness](<time awareness.md>)
 - I wonder how I will handle my tag when I start to develop MOC and centralized notes. [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
 - [Who lights the stars](<Who lights the stars.md>)
-- Who lights the stars last night?
-- Who shines the sun. x2 
-- To this one I gave my life, till my days as done.
-- To this one I gave my heart, till we merge as one.
-- Who... x2
-- Who beats my heart
-- Who raise this one
-- Who lights the stars?
-- Who shines the sun
-- Who laid this one
-- 
-- 
+    - Who lights the stars last night?
+Who shines the sun. x2 
+To this one I gave my life, till my days as done.
+To this one I gave my heart, till we merge as one.
+    - Who lights the stars last night?
+Who shines the sun. x2 
+To this one I gave my life, till my days as done.
+To this one I gave my heart, till we merge as one.
+    - Who beats my heart
+Who raise this one
+Who lights the stars?
+Who shines the sun
+Who laid this one
+- There are still many strong [samskaras](<samskaras.md>) that able to pull me out if I'm not aware of it. At least I can always notice them and keep melting them so they will become softer and softer over time. My [inner flow of energy](<inner flow of energy.md>) become cleaner over time. 
 -  
