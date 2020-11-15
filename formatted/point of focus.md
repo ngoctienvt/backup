@@ -48,3 +48,6 @@
 ## [point of view](<point of view.md>)
 - point of view is the level or the direction of [point of focus](<point of focus.md>)
 
+## [workflow](<workflow.md>)
+- What is the [point of focus](<point of focus.md>)
+

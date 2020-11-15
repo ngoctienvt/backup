@@ -1,3 +1,6 @@
+- What is the [point of focus](<point of focus.md>) for my workflow
+    - unattachment centering so that I can come to the workplace, and my workplace here is my life 24/7.
+    - action rather than 
 - Charateristic of my workflow:
     - [natural progression](<natural progression.md>) based on natural [readiness](<readiness.md>) for next stages
         - flow
@@ -20,6 +23,11 @@
             - Writing/ Creating
             - Sharing
             - Letting go
+    - centering through meditation activities, so that I could stay on being myself
+    - writing morning page for narrowing today focus
+    - work on main tasks like thinking, consolidating, clarifying, so I could serve the reality
+    - doing project or scheduled tasks like translating, coaching, training, also for serving the reality
+    - entertaining when near lunchtime, sleeping and meditation sometimes in between the day, for energy and willpower recharge
 
 # Backlinks
 ## [November 11th, 2020](<November 11th, 2020.md>)
@@ -32,13 +40,6 @@
 
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - My flow of work and flow of living [workflow](<workflow.md>)
-
-- I will want to start my day with [workflow](<workflow.md>)
-
-## [November 15th, 2020](<November 15th, 2020.md>)
-- I noticed that I still need to work more on my [workflow](<workflow.md>),
-
-- [workflow](<workflow.md>)
 
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I felt that I start to have a [workflow](<workflow.md>)

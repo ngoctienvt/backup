@@ -1,3 +1,6 @@
+- What is the [[point of focus]] for my workflow
+    - unattachment centering so that I can come to the workplace, and my workplace here is my life 24/7.
+    - action rather than 
 - Charateristic of my workflow:
     - [[natural progression]] based on natural [[readiness]] for next stages
         - flow
@@ -20,3 +23,8 @@
             - Writing/ Creating
             - Sharing
             - Letting go
+    - centering through meditation activities, so that I could stay on being myself
+    - writing morning page for narrowing today focus
+    - work on main tasks like thinking, consolidating, clarifying, so I could serve the reality
+    - doing project or scheduled tasks like translating, coaching, training, also for serving the reality
+    - entertaining when near lunchtime, sleeping and meditation sometimes in between the day, for energy and willpower recharge

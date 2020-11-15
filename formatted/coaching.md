@@ -4,8 +4,6 @@
 - [coaching](<coaching.md>)
 
 ## [November 15th, 2020](<November 15th, 2020.md>)
-- [workflow](<workflow.md>) [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>) is my current focus of working, followed by [coaching](<coaching.md>).
-
 - Let other people feel that's they are important. Let them feel seen, feel heard, and feel understood. [coaching](<coaching.md>)
 
 ## [October 15th, 2020](<October 15th, 2020.md>)

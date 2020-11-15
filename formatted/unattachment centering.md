@@ -47,8 +47,6 @@
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [bottom-up approach](<bottom-up approach.md>). [unattachment centering](<unattachment centering.md>)
 
-- I noticed that I still need to work more on my [workflow](<workflow.md>), I still not clear what I need to do, so I just keep my mind wander and let it sink into the thoughts, emotions, and feelings. I'm not actively [unattachment centering](<unattachment centering.md>)
-
 - I noticed that my [unattachment centering](<unattachment centering.md>)
 
 - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>)

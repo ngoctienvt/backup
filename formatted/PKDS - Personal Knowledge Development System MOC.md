@@ -59,6 +59,3 @@
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I feel that it will take time for me to truly practice my spiritual path first. I will focus on [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
-## [November 15th, 2020](<November 15th, 2020.md>)
-- [workflow](<workflow.md>) [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-

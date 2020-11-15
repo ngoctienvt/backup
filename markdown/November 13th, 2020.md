@@ -26,12 +26,7 @@ https://webflow.com/blog/how-to-create-a-membership-website
             - Writing to clarify thoughts process, thinking effectively, identify unanswered questions, consolidating 
             - Consuming through reading books or articles, watching Youtube videos or courses, listening to podcasts or audiobooks for learning new things
             -  Entertaining for relaxing
-        - I will want to start my day with [[workflow]]
-            - centering through meditation activities, so that I could stay on being myself
-            - writing morning page for narrowing today focus
-            - work on main tasks like thinking, consolidating, clarifying, so I could serve the reality
-            - doing project or scheduled tasks like translating, coaching, training, also for serving the reality
-            - entertaining when near lunchtime, sleeping and meditation sometimes in between the day, for energy and willpower recharge
+        - 
     - [[PKDS - Personal Knowledge Development System MOC]]
         - evergreen notes, atomic concepts,
             - this one I'm not really clear yet. This is my clarifying stage, and now I need to clarify what I need to clarify. After collecting and shaping a bunch of notes, I will start to emerge the higher-order concepts that I could spend time to spend my time thinking on. 
