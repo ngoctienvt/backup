@@ -25,4 +25,5 @@ Who lights the stars?
 Who shines the sun
 Who laid this one
 - There are still many strong [[samskaras]] that able to pull me out if I'm not aware of it. At least I can always notice them and keep melting them so they will become softer and softer over time. My [[inner flow of energy]] become cleaner over time. 
--  
+-  [[transcribing software]] https://gosubtitle.com/
+- 

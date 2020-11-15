@@ -42226,9 +42226,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605373758467,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605411723984,
-        "string": " ",
+        "edit-time": 1605434465500,
+        "string": " [[transcribing software]] https://gosubtitle.com/",
         "uid": "OXZ0zNT69"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605434465496,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605434465496,
+        "string": "",
+        "uid": "hj_3lO1Cg"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -42257,5 +42265,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605421091941,
     "title": "Who lights the stars"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605434464654,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605434464657,
+    "title": "transcribing software"
   }
 ]
