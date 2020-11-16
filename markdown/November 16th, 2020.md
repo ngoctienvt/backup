@@ -6,4 +6,5 @@
 - [[the middle way]] also about the balance of using different senses instead of preferable sense like seeing.
 - There are still many times that instead of simply presented with the moment, I still have many voices and disturbances that emerge inside of me. The journey for me to become completely stillness and freedom is just started. And just like how I want to tell [[@Nguyễn Mỹ Linh]]. It's not about the hope that the light will be there, it's about the inner peace that keeps us moving forward no matter the result. It's about [[unattachment centering]].
 - I feel that I'm not fully comfortable with my [[physical body]], I feel stressful, hot, uncomfortable, tired, pain with it. There will be a work needed to regain the relationship with my body.
+- Today is enough for cleaning myself a little bit, reconnecting with my body, and resting more a little bit, I will continue to work on my ideal workflow tomorrow.
 - 
