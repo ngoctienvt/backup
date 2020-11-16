@@ -41,6 +41,9 @@
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - My flow of work and flow of living [workflow](<workflow.md>)
 
+## [November 16th, 2020](<November 16th, 2020.md>)
+- Today my main focus will be about my [workflow](<workflow.md>).
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I felt that I start to have a [workflow](<workflow.md>)
 

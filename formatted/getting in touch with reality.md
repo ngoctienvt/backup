@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 16th, 2020](<November 16th, 2020.md>)
+- I dream that I still have attachment to things and it makes me even put myself in danger by following the urge unconsciously. And I still not be able to detach myself easliy with these type of dreams or mental stories. I need to learn to keep myself detach with them, and notice that only things real is what's happening now, I could use my intellectual mind to interact with the reality, not let the mental stories distract me out of the reality. [getting in touch with reality](<getting in touch with reality.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - I also felt that I hate to deal with things that half good half past and need to make decision. [conscious choice](<conscious choice.md>) When I felt that I need to make conscious choices, I felt a feeling of tired and it looks like a burden that I need to handle with. [getting in touch with reality](<getting in touch with reality.md>)
 
