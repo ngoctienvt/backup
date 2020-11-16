@@ -1,4 +1,4 @@
-- My [[workflow]] will split into 3 main parts
+- My [[personal workflow]] will split into 3 main parts
     - direction [[planning]] based on the the right intention and challenging [[constraint]] - 10%
         - [[intention]]
         - [[constraint]]

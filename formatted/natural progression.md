@@ -23,8 +23,6 @@ us. [union experiences](<union experiences.md>)
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - [natural progression](<natural progression.md>)
 
-- The workflow will develop base on my [natural progression](<natural progression.md>)
-
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - Some other concern is money. The pricing is now is very high for my usage. I would like to wait until I truly feel that I am ready to commit to show my work to the world consistently and in a natural way. So that I will not drop out like every blog or website that I abandon in the past. [natural progression](<natural progression.md>)
 
@@ -95,6 +93,9 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - [x] Working with [natural progression](<natural progression.md>)
 
+## [Workflow MOC](<Workflow MOC.md>)
+- [natural progression](<natural progression.md>)
+
 ## [bottom-up approach](<bottom-up approach.md>)
 - [natural progression](<natural progression.md>)
 
@@ -118,6 +119,9 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 - How we can live a [natural progression](<natural progression.md>)?
 
+## [personal workflow](<personal workflow.md>)
+- The workflow will develop base on my [natural progression](<natural progression.md>)
+
 ## [point of focus](<point of focus.md>)
 - [natural progression](<natural progression.md>)
 
@@ -126,7 +130,4 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 ## [true happiness](<true happiness.md>)
 - true happiness is a [natural progression](<natural progression.md>)
-
-## [workflow](<workflow.md>)
-- [natural progression](<natural progression.md>)
 

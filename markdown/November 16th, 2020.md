@@ -1,5 +1,1 @@
 - I dream that I still have attachment to things and it makes me even put myself in danger by following the urge unconsciously. And I still not be able to detach myself easliy with these type of dreams or mental stories. I need to learn to keep myself detach with them, and notice that only things real is what's happening now, I could use my intellectual mind to interact with the reality, not let the mental stories distract me out of the reality. [[getting in touch with reality]]
-- Today my main focus will be about my [[workflow]].
-    - The reason is without the clear workflow, I will easy to fall back to the habit to listen and drow in the thoughts and emotions.
-    - In the morning, there are so many things that happen inside of me after I wake up. There is a feeling of tired that pull me down. A dream that attaches me with. A fear of sustainable awake after that. An unclear intention to keep myself out of the unconscious mind and come back to the conscious mind.
-    - 

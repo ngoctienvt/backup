@@ -63,9 +63,7 @@ The way to do this is break things down and focus on 1 things at a time. For ins
     - By setting up for success like reduce the difficult and focus on 1 to 2 concepts at a time, it's help to understand each things deeply and makes the learning experiences are not overwhelming and requires too much stretching, but put a fun factor and a deep sense of satisfy by able to evolve thanks to digest the experiences instead. 
 - [Book - How to take smart notes](<Book - How to take smart notes.md>)
     - [psychology](<psychology.md>) [mere-exposure effect](<mere-exposure effect.md>) doing something many times makes us believe we have become good at it [productivity](<productivity.md>)
-    - [workflow](<workflow.md>) [flow](<flow.md>) remove possible distractions and separate different kind of tasks with clear intention what it is about.
-
-Each tasks also require different kind of attentions [types of attention](<types of attention.md>). 
+    - 
     - The differences between teachers and experts are teachers good at theory, but experts good at handling situation. The teachers follow structure, while the experts flow in the scenario. [mastery](<mastery.md>) 
     - Remembering are different with understanding. Things we understand are connected and have meaningful connections. [deeper understanding](<deeper understanding.md>)
     - [Zeigarnik effect](<Zeigarnik effect.md>) Open tasks occupy our short-term memory - until they are done. Tips: We don't have to finish, but rather write them down so trick our brains to stop thinking about them.

@@ -12,7 +12,7 @@
 
 However, most of the time because of our judgment, that's why when I coach for other people, I help them to realize that they don't do anything wrong and because of this realization, they let themselves to accept the experience so that they can handle and move on with it. [coaching](<coaching.md>) 
 - [mind-training](<mind-training.md>) In order to create writings and articles that clear and meaningful, the work to create this creation is not completed by 1 day, but an accumulated process that happens over time.
-    - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [workflow](<workflow.md>) that feels natural and fun.
+    - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [personal workflow](<personal workflow.md>) that feels natural and fun.
     - The tasks will be
         - [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>) to gather pop-up random ideas to different related topics or new ideas
         - [compressed process](<compressed process.md>) to carefully think, organize, condense ideas to deepen understanding

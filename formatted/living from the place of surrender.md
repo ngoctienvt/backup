@@ -23,7 +23,7 @@
 - My main [intention](<intention.md>) would be a [spiritual practitioner](<spiritual practitioner.md>) to [living from the place of surrender](<living from the place of surrender.md>).
 
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
-- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [workflow](<workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>)
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [personal workflow](<personal workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 11th, 2020](<October 11th, 2020.md>)
 So what I want to have is the ability to focus myself to the fact that [living from the place of surrender](<living from the place of surrender.md>)
@@ -86,7 +86,4 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 
 ## [polestar of my life](<polestar of my life.md>)
 - The structure will be the bridging between my trueself and [the impersonal world](<the impersonal world.md>) - [soul-guidance](<soul-guidance.md>) [living from the place of surrender](<living from the place of surrender.md>)
-
-## [workflow](<workflow.md>)
-- [living from the place of surrender](<living from the place of surrender.md>)
 

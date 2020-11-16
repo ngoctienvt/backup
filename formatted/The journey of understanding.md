@@ -31,6 +31,3 @@
 ## [high-value information blocks](<high-value information blocks.md>)
 - [The journey of understanding](<The journey of understanding.md>)
 
-## [workflow](<workflow.md>)
-- [The journey of understanding](<The journey of understanding.md>)
-

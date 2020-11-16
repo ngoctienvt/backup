@@ -4,9 +4,6 @@
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - So in order for [flow](<flow.md>)
 
-## [October 6th, 2020](<October 6th, 2020.md>)
-- [workflow](<workflow.md>) [flow](<flow.md>)
-
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - Conditions for [flow](<flow.md>):
 

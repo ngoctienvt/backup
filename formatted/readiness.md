@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Workflow MOC](<Workflow MOC.md>)
+- [readiness](<readiness.md>)
+
 ## [bottom-up approach](<bottom-up approach.md>)
 - [natural progression](<natural progression.md>) based on preparing [readiness](<readiness.md>)
 
@@ -8,7 +11,4 @@
 
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - Instead of trying to go to the next step, we will naturally move on when the current step are ready for the next step. [readiness](<readiness.md>)
-
-## [workflow](<workflow.md>)
-- [natural progression](<natural progression.md>) based on natural [readiness](<readiness.md>)
 

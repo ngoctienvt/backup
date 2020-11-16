@@ -24,11 +24,6 @@
 
 - However, will there be  a different level of processed thoughts is another [Expanding questions](<Expanding questions.md>)?
 
-## [November 2nd, 2020](<November 2nd, 2020.md>)
-- What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
-
-- Other is have a [workplace](<workplace.md>) for what I want to work with like [Expanding questions](<Expanding questions.md>)
-
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - My mind is still wonder how I will handle the used data and the new data? [Expanding questions](<Expanding questions.md>)
 
@@ -47,4 +42,9 @@
 
 ## [compressed process](<compressed process.md>)
 - resolving [Expanding questions](<Expanding questions.md>)
+
+## [personal workflow](<personal workflow.md>)
+- What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
+
+- Other is have a [workplace](<workplace.md>) for what I want to work with like [Expanding questions](<Expanding questions.md>)
 

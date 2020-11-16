@@ -1,4 +1,4 @@
-- [ ] Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>), [learning](<learning.md>) or experiencing.
+- [ ] Build my [personal workflow](<personal workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>), [learning](<learning.md>) or experiencing.
     - My workflow will need to cover my entire day of working in a natural way.
     - What's lacking in my workflow?
         - The process is not clear yet, sometimes I still don't know what I'm doing or should doing.

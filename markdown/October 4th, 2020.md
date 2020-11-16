@@ -39,7 +39,7 @@ Ideally, the [[coaching process]] will need to have these things:
     - He also clear that the important is the [[purpose]] or the [[end goal]] instead of the temporary tools that we are having for a different purpose. And only when connecting the true purpose and align everything else to match that purpose, only that tiem the real [[impactful results]] appear.
 - 
 -  [[mind-training]] I'm thinking that how could I clean up the fleeting notes that got used to permanent notes without losing their values in an [[convenient]] way, so that my [[Roam Research]] personal knowledge garden can grow up in a helpful way and not become cluster over time. [[clean up fleeting notes]]
-- When I read about the routines of Andy - evergreen notes, I feel that I also want to shift myself to that directions. To have a routine habit and activities that like a [[life flow]] or [[workflow]] that naturally to me but also keep me on the right track.
+- 
 - I felt a little bit nervous to coach for Linh. I want to center myself and let me fully relax and trust things to unfold in a natural way. Release all of my needs, my fear, and let my true self in charge of the situation.
 - After the coaching session, I feel much more comfortable with [[@Nguyễn Mỹ Linh]] and become natural with each other, rather than fear, need for recognition. I started to be myself, trust myself, share what best, and trust the process.
 

@@ -4,7 +4,7 @@
     - In the past, I can't maintain a process of high-quality output, so that it feels not natural to me and then I quit after a period of trying times.
     - However, now is the time I'm starting to build the flow to create truly personal high-quality output consistently, so I think I could do it.
     - The point is doing things in a surrender and bottom-up way, slowly I will get there, then I will do the next step. 
-    - Now I need to build the [[workflow]] first.
+    - 
 - My today focus will be
     - Continue to build up my workflow process
     - Clearing my thoughts about what I'm aiming to do now
@@ -30,22 +30,8 @@ This kind of thinking will create a smaller boundary that helps me to focus easi
 - It felt good that I learned so much things in much deeper way when I take note the teaching of my teacher, Michael Singer. It didn't feel alien, but rather start to connect deeper to myself and deepen my understanding in a structural and clearer way. [[network note-taking]]
 - My [[workplace]] for working on my current work need to be a place that
     - I can store all of my current half-work and I can return to it any time.
-    - I have a clear [[workflow]] to handle the work by breaking it down and clarify what's not clear or anything, instead of feeling stuck, but feeling knows what I need to do to progress. And the workplace need to be able to store all of my half-work.
+    - I have a clear [[personal workflow to handle the work by breaking it down and clarify what's not clear or anything, instead of feeling stuck, but feeling knows what I need to do to progress. And the workplace need to be able to store all of my half-work.
     - I can easily connect and put the answer or my complete work to store in its proper way.
     - How I will handle the flow of information that I'm working on?
-- My [[workflow]] could looks like this
-    - Consuming
-    - Processing
-    - Listing the expanding questions
-    - Exploring or resolving the expanding questions
-    - Integrating
-    - Reflecting and documenting
-    - It needs to be a flow that let me trust the process and as long as I keep doing the process, I will automatically generate good life or good output as a by-product.
-    - The goal is not that much important here. It's about the process that always keeps me moving forward on the right track, and never gets lost or gets stuck.
-    - The idea is generating better-self everyday, everytime and every moments. As long as I can do this, I will be sure to always have a better life. [[personal end goals]]
-    - Some examples of [[workflow]] would be
-        - Drafting
-        - Working
-        - Optimizing
-    - There should be a general workflow, while there will be detail workflow for smaller activities.
+- 
 - Tdoay I feel that's I'm becoming clearer everyday, and some of the most biggest puzzles are starting to appear and organizing. My life is getting to build a snowball engine that will be roll out soon. [[snowball]]

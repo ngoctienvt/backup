@@ -1,2 +1,45 @@
-- ![](https://lh3.googleusercontent.com/1L_MmlANS1C1udaKIphivBf_Bab1ZWhKDAAK7CFwnXSfop28seCjTNCqZaUc1_ABXKIO6K5uSUj9tD2M856Kzteh16tjO0rJzRjJEn7pEtXIEm3edepsbfWcmSwWD-5lHHxF2nxTvZyaTZWrfmZZmnC7kVIyl84M7pmJKMFdNZrooNB7f9nhVRb8LgLtFsl0ukS2e0jGssT5TpA5fKOT7xRoQJGNs7wxHEuucVnbmL4ZqMdAtoduG3EJriIcPMOEy4hP5vKAK1GcaThbSz4oUViZ6FiF0QtWiUOBcpX3PTGass-fyvEo6xuSOxX2QAvn_Q9HpsU0MMrXjXaS1lrfyI2IkPywZ6AnMXA1dVE256tFh7g_AXXS6nwfguYJQVaNqiJKtDEL5aiGjQaHMbYY2SIjaU9HhDzJvM4YQn-vR0gtOkXYQPclgpTF6LwiEZLV2PRWhpN2k0EQXKk8mcHnbK-TuSKT4genTRPsos7HMD7razzmhX6WmB3eZsM8cLNSzxERrsmrrPdSNMj9ZTYSMoBP7KJWY7ly_cxki8BxoUXOHhx4KgQYkRg1jwL7IB2S-9BN_n2M2EDtPETAWNLqxgNjTAWOHptX2j8xgg-tCSdSRuLaL2x37BdW3ibZ2lNH3X_b-ZEf77wuC7JUTVwXRJ-7T2LNMDWliIF6itxJoxtmD9pJvTAs3GlyWrvBmA=w687-h915-no?authuser=0)
+- [[personal workflow]]
+- [[workplace]]
+- [[focus on what matters]]
+- [[natural progression]]
+- [[readiness]]
+- [[point of focus]]
 - 
+- ### The end goal of an ideal workflow 
+    - An engine process 
+        - to grow myself into a great human being
+            - grounded unattachment centering
+            - wise mind with pesonal knowledge development
+        - and contribute value to the reality.
+            - generating output
+- ### The characteristic of an ideal workflow
+    - Flow and natural progression
+        - one life solution and role/task - independent
+        - rountine habits/activities
+        - flow remove possible distractions and separate different kind of tasks with clear intention what it is about.
+        - flexible to anything, any situation, or any context.
+        - quick switch between deep work and shallow work
+    - Inner clarity
+        - Focus on what matters
+        - Breakdown 
+        - What is the [[point of focus]] for my workflow
+            - unattachment centering 
+                - so that I can come to the workplace, and my workplace here is my life 24/7.
+            - action and process-oriented instead of topic-oriented
+    - Efficient
+        - Remain unattachment centering
+        - [[batching methodology]]
+- ### What is the blockages that I need to resolve?
+    - habit-formed will, 
+    - the pull of lower-self (emotions, body and thoughts)
+    - resistance with physical body, 
+    - dream, sleep and relax tendency
+    - unclear intention
+- ### Tools - support system
+    - [[workplace]]
+    - Roam Research for personal knowledge development
+    - Notion for writing and team collaboration
+    - Automation
+- ### Workflow activities
+    - 
+- Example of an ideal working day

@@ -31,7 +31,7 @@ If I count on others, it's because that's the part I'm working on and need to ha
 - There is a metaphor that makes me feel much easier about my point of view of the world. [[cleaning the inner blockages]]. It is seeing most of us are still babies and even myself, and we are all on learning to become mature souls like Buddha, Christ or spiritual master like Yogananda, Michael Singer. [[metaphor about our true self]] 
 
 It also makes me feel much easier about seeing the world that other people behaviour to me is always the chance for me to grow, and they don't grow at that time. So it's actually the stepping stone for me to go up while they are going down. There is nothing right or wrong, just the truth. Because what's truly important in the end HOW MUCH WE ENJOY, GROW AND SERVE ON THE TIME ON EARTH. Not how high our starting point is, but how much we go so far and how much we contribute as by-products. [[measure the meaning of life]]
-- 5 [[workflow]] to make your design team effecient [[team workflow]]
+- 5 workflow to make your design team effecient [[team workflow]]
     - https://www.notion.so/webinars/5-workflows-to-make-your-design-team-hyper-efficient?utm_source=whatsnew&utm_medium=101320&utm_campaign=webinar100720
     - Note
         - What every team design should strive for
@@ -49,4 +49,3 @@ It also makes me feel much easier about seeing the world that other people behav
     - Personalized templates for design docs
     - Design tasks with bundled context
     - Sharing public resources or client work
-- Roam Research seems like a perfect tool for personal knowledge development, while team collaboration and writing Notion seems better for me. Each tool will serve different functions [[workflow]]

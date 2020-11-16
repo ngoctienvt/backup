@@ -1,8 +1,5 @@
 
 # Backlinks
-## [October 4th, 2020](<October 4th, 2020.md>)
-- When I read about the routines of Andy - evergreen notes, I feel that I also want to shift myself to that directions. To have a routine habit and activities that like a [life flow](<life flow.md>)
-
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [life flow](<life flow.md>)
 

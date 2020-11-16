@@ -15,6 +15,3 @@
 ## [Conditions for flow](<Conditions for flow.md>)
 - [types of attention](<types of attention.md>)
 
-## [October 6th, 2020](<October 6th, 2020.md>)
-Each tasks also require different kind of attentions [types of attention](<types of attention.md>).
-

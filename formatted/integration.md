@@ -58,7 +58,7 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 - work on [integration](<integration.md>)
 
 ## [current working](<current working.md>)
-- [ ] Build my [workflow](<workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>),
+- [ ] Build my [personal workflow](<personal workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>),
 
 ## [natural progression](<natural progression.md>)
 - [integration](<integration.md>)

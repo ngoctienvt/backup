@@ -1,4 +1,4 @@
-- My [workflow](<workflow.md>) will split into 3 main parts
+- My [personal workflow](<personal workflow.md>) will split into 3 main parts
     - direction [planning](<planning.md>) based on the the right intention and challenging [constraint](<constraint.md>) - 10%
         - [intention](<intention.md>)
         - [constraint](<constraint.md>)

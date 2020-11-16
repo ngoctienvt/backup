@@ -1,4 +1,4 @@
-- {{[[TODO]]}} Build my [[workflow]] with the support of [[journaling]], [[integration]], [[learning]] or experiencing.
+- {{[[TODO]]}} Build my [[personal workflow]] with the support of [[journaling]], [[integration]], [[learning]] or experiencing.
     - My workflow will need to cover my entire day of working in a natural way.
     - What's lacking in my workflow?
         - The process is not clear yet, sometimes I still don't know what I'm doing or should doing.

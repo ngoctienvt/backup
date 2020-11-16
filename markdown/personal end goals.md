@@ -1,7 +1,7 @@
 - My highest-looping process goal is soul evolution or generating higher-self every moment.
 - Current [[end goal]]
     - Developing a way of living to nurture [[unattachment centering]]
-    - Developing a [[workflow]] or daily activities that support me to become better in a natural way
+    - Developing a [[personal workflow]] or daily activities that support me to become better in a natural way
     - Developing a system and process for higher thinking and wisdom development
         - evergreen knowledge
         - systematic thinking in a truthful and helpful way
