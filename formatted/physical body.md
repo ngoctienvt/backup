@@ -6,6 +6,9 @@
 ## [November 14th, 2020](<November 14th, 2020.md>)
 I will also wear long-hand clothes at night so that I can protect my arm. [physical body](<physical body.md>)
 
+## [November 16th, 2020](<November 16th, 2020.md>)
+- I feel that I'm not fully comfortable with my [physical body](<physical body.md>),
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 -  After today yoga activities, I felt that my [physical body](<physical body.md>)
 

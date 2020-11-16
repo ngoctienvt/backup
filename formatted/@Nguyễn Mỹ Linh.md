@@ -26,6 +26,9 @@
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - Today I just want to talk with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 
+## [November 16th, 2020](<November 16th, 2020.md>)
+- There are still many times that instead of simply presented with the moment, I still have many voices and disturbances that emerge inside of me. The journey for me to become completely stillness and freedom is just started. And just like how I want to tell [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>).
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - I felt that I still [worry](<worry.md>) too much for [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>),
 
