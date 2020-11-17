@@ -27,6 +27,9 @@
 ## [Areas for an surrender life](<Areas for an surrender life.md>)
 - [soul evolution](<soul evolution.md>)
 
+## [November 17th, 2020](<November 17th, 2020.md>)
+- I noticed that I want to let myself satisfy and fulfil by higher purpose like love, [soul evolution](<soul evolution.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 It's about whether you are evolved and expand yourself enough to handle that truth, and this is what we lived for. [capacity to handle](<capacity to handle.md>) [soul evolution](<soul evolution.md>)
 

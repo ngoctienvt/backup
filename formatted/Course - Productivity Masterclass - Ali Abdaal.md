@@ -1,0 +1,55 @@
+- Link: https://www.skillshare.com/classes/Productivity-Masterclass-Principles-and-Tools-to-Boost-Your-Productivity/647318269?via=user-profile
+- ## Course structure
+- ### Class project
+    - reflective writing and reflective practice
+    - internal habit, internal state
+- ### The productivity equation
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FS-uT_vqdyL.png?alt=media&token=bd7f7895-0b39-4c23-ad10-bcdc765ba097)
+    - Targeted interventions
+    - Productivity = (Useful or Meaningful Output)/ Time * fun factor
+        - Productive about the right thing
+    - Mental model about productivity
+        - Pilot - 10% - clarity - **Useful**
+            - Set the course of the plane
+            - Figure out what direction the plane is heading in
+            - Gives the instruction to the plane
+        - Plane - 80% - **Output**
+            - Follow the course, not deviate
+            - Take off efficiently, land safely
+        - The engineer - 5-10% - **Time**
+            - Make sure the plane is efficient
+            - Fuel efficient
+            - Keep the system organized 
+    - Reflective question
+        - Which do I struggle most of all? In what specific way?
+            - I struggle with most of them
+                - For the pilot, I struggle to set the long destination, and break down to small milestones that ensure to keep me on the right direction.
+                - For the plane, I'm not comfortable to work on the long period of time, and sometimes I'm just kind of working in a circle or let things emerge appear by themselves, but not actually fully active working on this.
+                - For the engineer, I'm just starting to build my system, before that, I just keep myself at least on the not breakdown level and too much stress.
+- ### The myth of "I don't have time"
+    - Time is what we want most, but what we use worst - William Penn
+    - We always choose to do something, and not do something.
+    - It's not we don't have time, it's not our priority
+    - It's not the case limited by time, it's a case that limited by the choices that we make with our time.
+    - From "I don't have time" to "I'm choosing not to make the time".
+    - Train our brain not to say "Sorry I don't have time" but "I have other priority things to do..."
+    - Tips
+        - Write down exactly what you are doing with your time - tracking it
+    - Reflective question
+        - What is the reason for me using the phrase I don't have time?
+            - I don't feel meaning on that - small talk, listening other people problem without seeing their intention to resolve it
+            - I feel tired and I want to rest
+            - I'm not interested on that
+        - Optional action - tracking your time on 1 week
+- ### The myth of motivation
+    - We think we had to have the feeling of doing something to do something.
+    - Relying on our feelings to work is a receipt for disaster, because it's not reliable.
+    - It's about the true self choose to do something, not about depend on our heart to allow us to do things we want.
+    - The outcome is usually long time on the future, we don't have an immeditate feedback. 
+    - Make the action is more pleasurable
+    - 
+
+# Backlinks
+## [Resources](<Resources.md>)
+- [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+

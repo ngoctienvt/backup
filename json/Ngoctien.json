@@ -19558,6 +19558,22 @@
             "edit-time": 1603686919773,
             "string": "[[Course - Living from the place of surrender]]",
             "uid": "uUKmYJUtS"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580458319,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580466432,
+            "string": "[[Courses - The target approach - Coaching]]",
+            "uid": "xFyIYZtaW"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580466429,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580539735,
+            "string": "[[Course - Productivity Masterclass - Ali Abdaal]]",
+            "uid": "94pXu5Dgl"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -42703,10 +42719,523 @@
     "title": "ownership"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605579890080,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580141521,
+        "string": "I felt that my [[Workflow MOC]] for the morning is more about cleaning, recharging, and consuming new knowledge. I will work on the main tasks in the afternoon.",
+        "uid": "8CYL0SWLM"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605580196164,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580332368,
+        "string": "I noticed that the way I breakdown data is making them out of context, so that I can fully digest it personally, but at the same time, I'm breaking it out of context instead of keeping the context for writing literature note. \n\nThis is helpful for me to learn and develop my personal knowledge, but then I will need to write up fully by myself later. I will think about a way to still maintain certain context while digest them fully at the same time. [[Personal Knowledge Development cycle]]",
+        "uid": "ciLXVNKSH"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605580345276,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580438927,
+        "string": "I noticed that I want to let myself satisfy and fulfil by higher purpose like love, [[soul evolution]] or [[serving the demand of reality]]. Instead of lower purpose from lower-self like sexual, owning, controlling, recognition...",
+        "uid": "NNpw-eltR"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580143491,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580175463,
+            "string": "Consuming productivity course of [[Ali Abdaal]]",
+            "uid": "Kk4ZOV4bC"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580169250,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580185030,
+            "string": "Continue working on Workflow",
+            "uid": "raYxkvH_F"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605580141515,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580143495,
+        "string": "Today focus:",
+        "uid": "ACdQdIdSp"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605579950660,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605579950660,
+        "string": "",
+        "uid": "8rGst2zkp"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1605573636868,
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605573636869,
     "title": "November 17th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605580168989,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605580168990,
+    "title": "Ali Abdaal"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605580541754,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580547963,
+        "string": "Link: https://www.skillshare.com/classes/Productivity-Masterclass-Principles-and-Tools-to-Boost-Your-Productivity/647318269?via=user-profile",
+        "uid": "8EHKp_xr8"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605580769087,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580776726,
+        "heading": 2,
+        "string": "Course structure",
+        "uid": "Wh978zSkC"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580562673,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580663594,
+            "string": "reflective writing and reflective practice",
+            "uid": "3NRPSIJ7_"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580753274,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580758695,
+            "string": "internal habit, internal state",
+            "uid": "fob-47XGs"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605580548124,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580562680,
+        "heading": 3,
+        "string": "Class project",
+        "uid": "Z1Jxxv4bT"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605581419244,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605581427371,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FS-uT_vqdyL.png?alt=media&token=bd7f7895-0b39-4c23-ad10-bcdc765ba097)",
+            "uid": "f6G4hXDsS"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580787171,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580805895,
+            "string": "Targeted interventions",
+            "uid": "HzVQtFpwD"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605580860348,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605580986831,
+                "string": "Productive about the right thing",
+                "uid": "ohKp2AWfO"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580805886,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580915717,
+            "string": "Productivity = (Useful or Meaningful Output)/ Time * fun factor",
+            "uid": "Is3oYvsPc"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581004039,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581009758,
+                    "string": "Set the course of the plane",
+                    "uid": "04P4sTfyH"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581009755,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581029445,
+                    "string": "Figure out what direction the plane is heading in",
+                    "uid": "7q4S5Lm-b"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581131848,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581138583,
+                    "string": "Gives the instruction to the plane",
+                    "uid": "Wxzt2SChC"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605580979359,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605581256831,
+                "string": "Pilot - 10% - clarity - **Useful**",
+                "uid": "X8tdgUswn"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581043990,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581049802,
+                    "string": "Follow the course, not deviate",
+                    "uid": "qU1kKaRLb"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581054104,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581066073,
+                    "string": "Take off efficiently, land safely",
+                    "uid": "hgPH4DmOt"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605580998399,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605581264523,
+                "string": "Plane - 80% - **Output**",
+                "uid": "qTp_ndDOb"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581147273,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581592187,
+                    "string": "Make sure the plane is efficient",
+                    "uid": "BvfKnXqVS"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581187054,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581190040,
+                    "string": "Fuel efficient",
+                    "uid": "AJroAWPkP"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581190023,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581197603,
+                    "string": "Keep the system organized ",
+                    "uid": "P4RiCMd1c"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605581066062,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605581272156,
+                "string": "The engineer - 5-10% - **Time**",
+                "uid": "Niay2tpNk"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605580972498,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605580979366,
+            "string": "Mental model about productivity",
+            "uid": "G5tOZ4dUD"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605581462516,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605581514938,
+                        "string": "For the pilot, I struggle to set the long destination, and break down to small milestones that ensure to keep me on the right direction.",
+                        "uid": "mEcMjXrCN"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605581515371,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605581578671,
+                        "string": "For the plane, I'm not comfortable to work on the long period of time, and sometimes I'm just kind of working in a circle or let things emerge appear by themselves, but not actually fully active working on this.",
+                        "uid": "Ad3xlUe4-"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605581578668,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605581645907,
+                        "string": "For the engineer, I'm just starting to build my system, before that, I just keep myself at least on the not breakdown level and too much stress.",
+                        "uid": "JzbPybqFo"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605581451453,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605581462519,
+                    "string": "I struggle with most of them",
+                    "uid": "Qmi8vd5pi"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605581362244,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605581635104,
+                "string": "Which do I struggle most of all? In what specific way?",
+                "uid": "X4Vsl71O_"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605581352000,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605581362247,
+            "string": "Reflective question",
+            "uid": "W4oTtITBS"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605580758687,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605580787175,
+        "heading": 3,
+        "string": "The productivity equation",
+        "uid": "MBVUhUVYV"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605581699540,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605581747837,
+            "string": "Time is what we want most, but what we use worst - William Penn",
+            "uid": "zzqGvAzeB"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605581826377,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605581846454,
+            "string": "We always choose to do something, and not do something.",
+            "uid": "DK8Xq7DVK"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605581849284,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605581861708,
+            "string": "It's not we don't have time, it's not our priority",
+            "uid": "G47sRXohi"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605581861702,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605581917934,
+            "string": "It's not the case limited by time, it's a case that limited by the choices that we make with our time.",
+            "uid": "K918OtNYW"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605581917931,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605581992347,
+            "string": "From \"I don't have time\" to \"I'm choosing not to make the time\".",
+            "uid": "CYdDFCvDk"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605582011847,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605582038360,
+            "string": "Train our brain not to say \"Sorry I don't have time\" but \"I have other priority things to do...\"",
+            "uid": "illBD8DN2"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605582066737,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605582090273,
+                "string": "Write down exactly what you are doing with your time - tracking it",
+                "uid": "HILp-C-F_"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605582061197,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605582066712,
+            "string": "Tips",
+            "uid": "qlgVg3y26"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605582335244,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605582480098,
+                    "string": "I don't feel meaning on that - small talk, listening other people problem without seeing their intention to resolve it",
+                    "uid": "HPQjqEB8k"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605582380538,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605582509001,
+                    "string": "I feel tired and I want to rest",
+                    "uid": "_nXDO8iWc"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605582388428,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605582428014,
+                    "string": "I'm not interested on that",
+                    "uid": "sHpmh9KdF"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605582322988,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605582373463,
+                "string": "What is the reason for me using the phrase I don't have time?",
+                "uid": "Mk0-GJcVf"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605582530830,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605582544196,
+                "string": "Optional action - tracking your time on 1 week",
+                "uid": "0vfJtM0TU"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605582081556,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605582322991,
+            "string": "Reflective question",
+            "uid": "hcRAcXIrV"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605581687122,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605581699544,
+        "heading": 3,
+        "string": "The myth of \"I don't have time\"",
+        "uid": "ueIuUhCQW"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605582555567,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605582964221,
+            "string": "We think we had to have the feeling of doing something to do something.",
+            "uid": "xOJMhznoV"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605582964215,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605583048569,
+            "string": "Relying on our feelings to work is a receipt for disaster, because it's not reliable.",
+            "uid": "3g34W_76Z"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605583163678,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605583214841,
+            "string": "It's about the true self choose to do something, not about depend on our heart to allow us to do things we want.",
+            "uid": "Pp0h_RAmL"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605583315087,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605583323853,
+                "string": "Make the action is more pleasurable",
+                "uid": "QssIaO23k"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605583323847,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605583323847,
+                "string": "",
+                "uid": "LxawHKeeO"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605583234751,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605583250961,
+            "string": "The outcome is usually long time on the future, we don't have an immeditate feedback. ",
+            "uid": "TEumeJYhL"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605582544190,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605582555572,
+        "heading": 3,
+        "string": "The myth of motivation",
+        "uid": "MHWFibPD1"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605580539738,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605580539741,
+    "title": "Course - Productivity Masterclass - Ali Abdaal"
   }
 ]
