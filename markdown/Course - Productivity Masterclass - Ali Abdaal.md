@@ -42,9 +42,22 @@
             - I'm not interested on that
         - Optional action - tracking your time on 1 week
 - ### The myth of motivation
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F2G_MQglYWD.png?alt=media&token=ad06b972-c4e4-43b8-86fa-6b3bb9778572)
     - We think we had to have the feeling of doing something to do something.
-    - Relying on our feelings to work is a receipt for disaster, because it's not reliable.
-    - It's about the true self choose to do something, not about depend on our heart to allow us to do things we want.
+        - Relying on our feelings to work is a receipt for disaster, because it's not reliable.
+        - It's about the true self choose to do something, not about depend on our heart to allow us to do things we want.
     - The outcome is usually long time on the future, we don't have an immeditate feedback. 
-    - Make the action is more pleasurable
-    - 
+        - Make the action 
+            - more pleasurable 
+                - (game, friendly competition like boardgame, process goal, environment. music...)
+            - consequences of inaction more painful. 
+                - It's kind of trigger the pain samskaras.
+                - Deadline, pre-paid money, beeminder, 
+        - Outcome
+            - short-term [[built-in feedback loops]]
+                - example of feedback loops, game, sports,...
+            - making the outcome more salient, more clear
+    - Ideal is we don't need motivation on the first place, but rather nurture our will-power to overcome these habit-formed will instead.
+        - You don't need the motivation to go to work or to go to school to do exam.
+    - Reflective thinking
+        - 

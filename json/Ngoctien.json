@@ -42774,7 +42774,335 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605579950660,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605579950660,
+        "edit-time": 1605585003655,
+        "props": {
+          "lines": [
+            {
+              "color": "#2d3436",
+              "points": [
+                [
+                  386,
+                  24
+                ]
+              ],
+              "width": 4
+            },
+            {
+              "color": "#2d3436",
+              "points": [
+                [
+                  73,
+                  108
+                ],
+                [
+                  79,
+                  114
+                ],
+                [
+                  79,
+                  117
+                ],
+                [
+                  79,
+                  119
+                ],
+                [
+                  79,
+                  123
+                ],
+                [
+                  79,
+                  126
+                ],
+                [
+                  80,
+                  130
+                ],
+                [
+                  81,
+                  133
+                ],
+                [
+                  81,
+                  136
+                ],
+                [
+                  81,
+                  139
+                ],
+                [
+                  82,
+                  142
+                ],
+                [
+                  82,
+                  145
+                ],
+                [
+                  82,
+                  148
+                ],
+                [
+                  82,
+                  150
+                ],
+                [
+                  82,
+                  153
+                ],
+                [
+                  82,
+                  155
+                ],
+                [
+                  82,
+                  158
+                ],
+                [
+                  82,
+                  160
+                ],
+                [
+                  82,
+                  162
+                ],
+                [
+                  82,
+                  164
+                ],
+                [
+                  82,
+                  165
+                ],
+                [
+                  82,
+                  167
+                ],
+                [
+                  81,
+                  168
+                ],
+                [
+                  81,
+                  169
+                ],
+                [
+                  80,
+                  170
+                ],
+                [
+                  80,
+                  171
+                ],
+                [
+                  79,
+                  172
+                ],
+                [
+                  79,
+                  173
+                ],
+                [
+                  78,
+                  174
+                ],
+                [
+                  78,
+                  175
+                ],
+                [
+                  77,
+                  176
+                ],
+                [
+                  76,
+                  177
+                ],
+                [
+                  75,
+                  178
+                ],
+                [
+                  74,
+                  179
+                ],
+                [
+                  72,
+                  180
+                ],
+                [
+                  72,
+                  181
+                ],
+                [
+                  71,
+                  182
+                ],
+                [
+                  70,
+                  182
+                ],
+                [
+                  70,
+                  183
+                ],
+                [
+                  70,
+                  184
+                ],
+                [
+                  69,
+                  184
+                ],
+                [
+                  68,
+                  185
+                ],
+                [
+                  68,
+                  186
+                ],
+                [
+                  67,
+                  186
+                ],
+                [
+                  67,
+                  187
+                ],
+                [
+                  66,
+                  188
+                ],
+                [
+                  65,
+                  189
+                ],
+                [
+                  64,
+                  189
+                ],
+                [
+                  64,
+                  190
+                ],
+                [
+                  63,
+                  190
+                ],
+                [
+                  63,
+                  191
+                ],
+                [
+                  62,
+                  191
+                ],
+                [
+                  61,
+                  191
+                ],
+                [
+                  60,
+                  191
+                ],
+                [
+                  58,
+                  191
+                ],
+                [
+                  54,
+                  191
+                ],
+                [
+                  51,
+                  189
+                ],
+                [
+                  46,
+                  186
+                ],
+                [
+                  41,
+                  182
+                ],
+                [
+                  37,
+                  179
+                ],
+                [
+                  34,
+                  176
+                ],
+                [
+                  31,
+                  174
+                ],
+                [
+                  29,
+                  172
+                ],
+                [
+                  29,
+                  170
+                ],
+                [
+                  28,
+                  169
+                ],
+                [
+                  28,
+                  168
+                ],
+                [
+                  28,
+                  167
+                ],
+                [
+                  28,
+                  166
+                ],
+                [
+                  28,
+                  164
+                ],
+                [
+                  29,
+                  162
+                ],
+                [
+                  32,
+                  157
+                ],
+                [
+                  36,
+                  152
+                ],
+                [
+                  41,
+                  147
+                ],
+                [
+                  46,
+                  142
+                ],
+                [
+                  51,
+                  137
+                ],
+                [
+                  56,
+                  132
+                ],
+                [
+                  60,
+                  129
+                ]
+              ],
+              "width": 4
+            }
+          ]
+        },
         "string": "",
         "uid": "8rGst2zkp"
       }
@@ -43174,6 +43502,32 @@
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605584065377,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605584074707,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F2G_MQglYWD.png?alt=media&token=ad06b972-c4e4-43b8-86fa-6b3bb9778572)",
+            "uid": "EUuQcucgN"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605582964215,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605583048569,
+                "string": "Relying on our feelings to work is a receipt for disaster, because it's not reliable.",
+                "uid": "3g34W_76Z"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605583163678,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605583214841,
+                "string": "It's about the true self choose to do something, not about depend on our heart to allow us to do things we want.",
+                "uid": "Pp0h_RAmL"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605582555567,
             "edit-email": "ngoctienvt@gmail.com",
             "edit-time": 1605582964221,
@@ -43181,37 +43535,95 @@
             "uid": "xOJMhznoV"
           },
           {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605582964215,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605583048569,
-            "string": "Relying on our feelings to work is a receipt for disaster, because it's not reliable.",
-            "uid": "3g34W_76Z"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605583163678,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605583214841,
-            "string": "It's about the true self choose to do something, not about depend on our heart to allow us to do things we want.",
-            "uid": "Pp0h_RAmL"
-          },
-          {
             "children": [
               {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605583315087,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605583540940,
+                        "string": "(game, friendly competition like boardgame, process goal, environment. music...)",
+                        "uid": "QssIaO23k"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605583540933,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605583540933,
+                    "string": "more pleasurable ",
+                    "uid": "dAfqfZrmE"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605583342719,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605583657587,
+                        "string": "It's kind of trigger the pain samskaras.",
+                        "uid": "gMLsVhRwX"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605583502231,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605583576613,
+                        "string": "Deadline, pre-paid money, beeminder, ",
+                        "uid": "BLD7RaxKJ"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605583657576,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605583657576,
+                    "string": "consequences of inaction more painful. ",
+                    "uid": "wfMP0NOZQ"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605583315087,
+                "create-time": 1605583340174,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605583323853,
-                "string": "Make the action is more pleasurable",
-                "uid": "QssIaO23k"
+                "edit-time": 1605583340174,
+                "string": "Make the action ",
+                "uid": "iIMyCQYS3"
               },
               {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605583703262,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605583744542,
+                        "string": "example of feedback loops, game, sports,...",
+                        "uid": "fXcSVrUHg"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605583694975,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605583702757,
+                    "string": "short-term [[built-in feedback loops]]",
+                    "uid": "TIwWTK6Wd"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605583744536,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605583812206,
+                    "string": "making the outcome more salient, more clear",
+                    "uid": "BJZtvvTqW"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605583323847,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605583323847,
-                "string": "",
+                "edit-time": 1605583694983,
+                "string": "Outcome",
                 "uid": "LxawHKeeO"
               }
             ],
@@ -43221,6 +43633,42 @@
             "edit-time": 1605583250961,
             "string": "The outcome is usually long time on the future, we don't have an immeditate feedback. ",
             "uid": "TEumeJYhL"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605583919927,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605583977794,
+                "string": "You don't need the motivation to go to work or to go to school to do exam.",
+                "uid": "AV-xxoK1B"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605583812214,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605583919931,
+            "string": "Ideal is we don't need motivation on the first place, but rather nurture our will-power to overcome these habit-formed will instead.",
+            "uid": "DTDwqBgcg"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605584006272,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605584006272,
+                "string": "",
+                "uid": "SHBvkoWGx"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605583965399,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605584006279,
+            "string": "Reflective thinking",
+            "uid": "UnRXcSCqk"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
