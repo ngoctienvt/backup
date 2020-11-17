@@ -1,0 +1,2 @@
+- single source of truth
+    - related and connected information

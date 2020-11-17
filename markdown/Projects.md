@@ -3,5 +3,6 @@
     - [[coach training]]
     - [[journaling training]]
     - [[A: Suffering]]
+    - [[A: Learning to handle our heart]]
 - Completed
     - [[P: How I use Roam Research to evolve my mind]]

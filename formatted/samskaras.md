@@ -19,6 +19,9 @@
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - There are still many strong [samskaras](<samskaras.md>)
 
+## [November 17th, 2020](<November 17th, 2020.md>)
+- Today when hearing about next week I have to come back to Vung Tau to examine my health for national service. I feel really uncomfortable inside my heart, fear, anxiety, worry, resistance,... and this is truly a big [samskaras](<samskaras.md>)
+
 ## [November 7th, 2020](<November 7th, 2020.md>)
 - I noticed that I still feel there are some [samskaras](<samskaras.md>)
 

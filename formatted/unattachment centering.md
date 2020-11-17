@@ -56,6 +56,9 @@
 ## [November 16th, 2020](<November 16th, 2020.md>)
 - There are still many times that instead of simply presented with the moment, I still have many voices and disturbances that emerge inside of me. The journey for me to become completely stillness and freedom is just started. And just like how I want to tell [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>). It's not about the hope that the light will be there, it's about the inner peace that keeps us moving forward no matter the result. It's about [unattachment centering](<unattachment centering.md>).
 
+## [November 17th, 2020](<November 17th, 2020.md>)
+This is a big opportunity for me to learn to handle the societies, my need for convenience, and learn to nurture my ability for [unattachment centering](<unattachment centering.md>),
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - Meditation is mainly to practice [unattachment centering](<unattachment centering.md>)
 
