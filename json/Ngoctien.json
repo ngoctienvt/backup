@@ -42704,9 +42704,25 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605599640023,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605601029630,
-        "string": "I suddenly feel that I lost certain information, not sure because of my fault or because of Roam Research. This feeling of lost make me uncomfortable and unsecure.",
+        "edit-time": 1605601180761,
+        "string": "I suddenly feel that I lost certain information, not sure because of my fault or because of Roam Research. This feeling of loss makes me uncomfortable and unsecured. But it's okay,  as long as it's mine, I could always create them back. If not, then there is no need to fear of losing it.",
         "uid": "S-CUmVva4"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605601180757,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605601569981,
+        "string": "I still not sure how I will use my tag properly, it's making me kind of confused about the structure to build my [[PKDS - Personal Knowledge Development System MOC]] clean and optimal. [[Tag usage]] [[information structuring]]",
+        "uid": "RK2gCsWri"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605601162534,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605601162534,
+        "string": "",
+        "uid": "_wLO39g68"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -43516,5 +43532,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605599241804,
     "title": "stretch zone"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605601568937,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605601568939,
+    "title": "information structuring"
   }
 ]

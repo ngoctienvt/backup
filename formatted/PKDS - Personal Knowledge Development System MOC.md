@@ -60,5 +60,5 @@
 - I feel that it will take time for me to truly practice my spiritual path first. I will focus on [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
 ## [November 17th, 2020](<November 17th, 2020.md>)
-- I still not sure how I will use my tag properly, it's making me kind of confuse about the structure to build my [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+- I still not sure how I will use my tag properly, it's making me kind of confused about the structure to build my [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
