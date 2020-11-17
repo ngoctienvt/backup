@@ -19,5 +19,5 @@ Just like if you want to have a good meal, do your job to have a good meal inste
 
 [[preferences]] in the teaching of Michael Singer is preferences about the vibration energy of things in reality that we are like or dislike. While the soul is energy and it really loves high-quality energy which comes from the shakti. 
 - [[life flow]] To have an effective and meaningful life, we need to not just live right with the [[flow of life]] but learn how to utilize it as well. And one thing important is to have a system that we can trust to support our mind out of the task of remembering and gathering information. [[support system]]
-    - A good structure enables [[flow]].
+    - 
     - We don’t need to use plan as it imposes structure on us, but we create a structure that generates insights and ideas so it can become the driving forces for creation.

@@ -61,8 +61,6 @@
 
 - [Roam Research](<Roam Research.md>)
 
-- Using [Roam Research](<Roam Research.md>)
-
 - When reading the communication of [Roam Research](<Roam Research.md>)
 
 - [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>) [Roam Research](<Roam Research.md>)

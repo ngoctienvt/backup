@@ -4,7 +4,6 @@
 - [natural progression](<natural progression.md>)
 - [readiness](<readiness.md>)
 - [point of focus](<point of focus.md>)
-- 
 - ### The end goal of an ideal workflow 
     - An engine process 
         - to grow myself into a great human being
@@ -13,20 +12,16 @@
         - and contribute value to the reality.
             - generating output
 - ### The characteristic of an ideal workflow
-    - Flow and natural progression
-        - one life solution and role/task - independent
-        - rountine habits/activities
-        - flow remove possible distractions and separate different kind of tasks with clear intention what it is about.
-        - flexible to anything, any situation, or any context.
-        - quick switch between deep work and shallow work
-    - Inner clarity
+    - Pilot - directing
         - Focus on what matters
-        - Breakdown 
-        - What is the [point of focus](<point of focus.md>) for my workflow
+        - Task-breakdown 
+        - Clear [point of focus](<point of focus.md>)
             - unattachment centering 
                 - so that I can come to the workplace, and my workplace here is my life 24/7.
             - action and process-oriented instead of topic-oriented
-    - Efficient
+    - Plane or execution
+        - [flow state](<flow state.md>)
+    - Engineering - efficient
         - Remain unattachment centering
         - [batching methodology](<batching methodology.md>)
 - ### What is the blockages that I need to resolve?

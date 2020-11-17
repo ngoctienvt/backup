@@ -4,5 +4,5 @@
 
 # Backlinks
 ## [interests](<interests.md>)
-- [effective](<effective.md>) - workflow, life flow, work ethics, progressive approach, [[getting in touch with reality], [meditation](<meditation.md>), [significant constraint](<significant constraint.md>)
+- [efficient](<efficient.md>) - workflow, life flow, work ethics, progressive approach, [[getting in touch with reality], [meditation](<meditation.md>), [significant constraint](<significant constraint.md>)
 

@@ -3,6 +3,11 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - [inner clarity](<inner clarity.md>)
 
+## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+- Make the outcome [inner clarity](<inner clarity.md>)
+
+- making the outcome more salient, more clear [inner clarity](<inner clarity.md>)
+
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - [ ] Learning to have a clarity mind and a clear point of focus will be one of my important task for next week [inner clarity](<inner clarity.md>)
 

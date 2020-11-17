@@ -2,7 +2,7 @@
     - [[nurturing the wake up state of consciousness]]
     - [[living from the place of surrender]]
         - [[external expressions]]
-- [[effective]]
+- [[efficient]]
     - [[productivity]]
 - [[work]]
     - [[training]]

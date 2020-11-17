@@ -10,5 +10,5 @@
 - My [intention](<intention.md>) is still not condensing enough to just simply move forward. It's still scattered and split too much in different directions, like love, work, money, health, emotions... I want to be able to merge my intention into one. [oneness](<oneness.md>) [focus](<focus.md>)
 
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
-- [executing](<executing.md>) - [focus](<focus.md>)
+- [execution](<execution.md>) - [focus](<focus.md>)
 

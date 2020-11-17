@@ -1,4 +1,4 @@
-- helpful manner is a manner that focuses on raising the moments or the person in front of me in an [[effective]] way instead of using them to satisfy my [[personal needs]] or releasing my unhandled samskaras.
+- helpful manner is a manner that focuses on raising the moments or the person in front of me in an [[efficient]] way instead of using them to satisfy my [[personal needs]] or releasing my unhandled samskaras.
 - There are two parts of a helpful manner
     - One is I need to evolve myself enough to not let the samskaras controlled me [[soul evolution]]
         - [[unattachment centering]] to hold myself above any samskaras so that I will not react but release instead

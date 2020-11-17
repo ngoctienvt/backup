@@ -5,5 +5,5 @@
     - [[joy of development]]
         - For example, [[deeper understanding]]
             - instead of writing what we are taught without processing, write it in our own word or own understanding can give us feedback to how much we understand
-- [[built-in feedback loops]]
+- [[built-in feedback loop]]
     - The feedback are built in the process itself instead of an external things

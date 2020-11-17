@@ -1,11 +1,14 @@
 - [intention](<intention.md>) is the direction that I want to align myself to.
     - have a clear intention to aim my will that direction
-    - [progressive development approach](<progressive development approach.md>) to move forward in an [effective](<effective.md>) way every day
+    - [progressive development approach](<progressive development approach.md>) to move forward in an [efficient](<efficient.md>) way every day
     - have a natural [life flow](<life flow.md>) and [personal workflow](<personal workflow.md>)
     - have a [work ethic](<work ethic.md>) and [discipline](<discipline.md>) to hold myself above the lower-self that pull me down and to keep me 
     - have a attitude to [enjoy the process](<enjoy the process.md>) and [enjoy the learning experience](<enjoy the learning experience.md>)
 
 # Backlinks
+## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+- Pilot - 10% - clarity - **Useful** [intention](<intention.md>)
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - My main [intention](<intention.md>)
 
@@ -66,7 +69,7 @@ I would like to shift this [hidden intention](<hidden intention.md>) to another 
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
 - [intention](<intention.md>)
 
-- [executing](<executing.md>) - [focus](<focus.md>) to execute the [intention](<intention.md>)
+- [execution](<execution.md>) - [focus](<focus.md>) to execute the [intention](<intention.md>)
 
 ## [intention](<intention.md>)
 - [intention](<intention.md>)

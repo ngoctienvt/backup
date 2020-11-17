@@ -1,63 +1,77 @@
 - Link: https://www.skillshare.com/classes/Productivity-Masterclass-Principles-and-Tools-to-Boost-Your-Productivity/647318269?via=user-profile
 - ## Course structure
 - ### Class project
-    - reflective writing and reflective practice
-    - internal habit, internal state
-- ### The productivity equation
+    - reflective writing and reflective practice [[reflective writing]]
+        - internal habit, internal state
+- ### The [[productivity equation]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FS-uT_vqdyL.png?alt=media&token=bd7f7895-0b39-4c23-ad10-bcdc765ba097)
-    - Targeted interventions
     - Productivity = (Useful or Meaningful Output)/ Time * fun factor
-        - Productive about the right thing
-    - Mental model about productivity
-        - Pilot - 10% - clarity - **Useful**
+        - Aspect that could be [[targeted intervention]]
+        - Productive about the right thing [[on the right track]]
+    - Mental model about productivity [[productivity mental model]]
+        - Pilot - 10% - clarity - **Useful** [[intention]]
             - Set the course of the plane
             - Figure out what direction the plane is heading in
             - Gives the instruction to the plane
-        - Plane - 80% - **Output**
+        - Plane - 80% - **Output** [[execution]]
             - Follow the course, not deviate
             - Take off efficiently, land safely
-        - The engineer - 5-10% - **Time**
+        - The engineer - 5-10% - **Time** [[maintenance]]
             - Make sure the plane is efficient
             - Fuel efficient
             - Keep the system organized 
     - Reflective question
-        - Which do I struggle most of all? In what specific way?
-            - I struggle with most of them
+        - Which do I struggle most of all? In what specific way? 
+            - I struggle with most of them [[personal challenges]]
                 - For the pilot, I struggle to set the long destination, and break down to small milestones that ensure to keep me on the right direction.
                 - For the plane, I'm not comfortable to work on the long period of time, and sometimes I'm just kind of working in a circle or let things emerge appear by themselves, but not actually fully active working on this.
                 - For the engineer, I'm just starting to build my system, before that, I just keep myself at least on the not breakdown level and too much stress.
-- ### The myth of "I don't have time"
-    - Time is what we want most, but what we use worst - William Penn
-    - We always choose to do something, and not do something.
-    - It's not we don't have time, it's not our priority
-    - It's not the case limited by time, it's a case that limited by the choices that we make with our time.
-    - From "I don't have time" to "I'm choosing not to make the time".
-    - Train our brain not to say "Sorry I don't have time" but "I have other priority things to do..."
-    - Tips
-        - Write down exactly what you are doing with your time - tracking it
+- ### [["I don't have time" myth]]
+    - Time is what we want most, but what we use worst - William Penn [[efficient]]
+        - We always choose to do something, and not do something. 
+            - It's not we don't have time, it's not our priority
+            - It's not the case limited by time, it's a case that limited by the choices that we make with our time.
+    - From "I don't have time" to "I'm choosing not to make the time".  
+        - Train our brain not to say "Sorry I don't have time" but "I have other priority things to do..."
+        - Tips
+            - Write down exactly what you are doing with your time - tracking it to get in touch with the reality
     - Reflective question
         - What is the reason for me using the phrase I don't have time?
             - I don't feel meaning on that - small talk, listening other people problem without seeing their intention to resolve it
             - I feel tired and I want to rest
             - I'm not interested on that
         - Optional action - tracking your time on 1 week
-- ### The myth of motivation
+- ### [[motivation myth]]
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F2G_MQglYWD.png?alt=media&token=ad06b972-c4e4-43b8-86fa-6b3bb9778572)
-    - We think we had to have the feeling of doing something to do something.
-        - Relying on our feelings to work is a receipt for disaster, because it's not reliable.
-        - It's about the true self choose to do something, not about depend on our heart to allow us to do things we want.
-    - The outcome is usually long time on the future, we don't have an immeditate feedback. 
-        - Make the action 
+    - We think we had to have the feeling of doing something to do something. [[false belief]]
+        - Relying on our feelings to work is a receipt for disaster, because it's not reliable. [[solid foundation]]
+            - It's about the true self choose to do something, not about give up our free-will to our heart.  [[freewill]]
+    - The outcome is usually long time on the future, we don't have an immeditate feedback. [[getting in touch with reality]] continuously
+        - Make the action [[samskaras-based solution]]
             - more pleasurable 
                 - (game, friendly competition like boardgame, process goal, environment. music...)
             - consequences of inaction more painful. 
                 - It's kind of trigger the pain samskaras.
                 - Deadline, pre-paid money, beeminder, 
-        - Outcome
-            - short-term [[built-in feedback loops]]
+        - Make the outcome [[inner clarity]]
+            - short-term [[built-in feedback loop]]
                 - example of feedback loops, game, sports,...
-            - making the outcome more salient, more clear
-    - Ideal is we don't need motivation on the first place, but rather nurture our will-power to overcome these habit-formed will instead.
+            - making the outcome more salient, more clear [[inner clarity]]
+    - The ideal is we don't need motivation in the first place, but rather nurture our will-power to overcome these habit-formed will and transform them into our desired habit pattern  instead. [[willpower]]
         - You don't need the motivation to go to work or to go to school to do exam.
     - Reflective thinking
-        - 
+        - The most important thing I learn is I don't have to give my right to my feelings and my thoughts, I need to learn to become the one who direct my life, so that they become my servant instead.
+        - [[samskaras-based solution]] is helpful for short-term, but for long-term, it's better to let go of the inner blockages and build up the [[conscious will]] instead.
+        - It's very important to build ourselves based on a [[solid foundation]] which usually based on truth, reality or the natural flow of inner energy, instead of our feelings and our thoughts. 
+- [[multi-tasking myth]]
+    - Do work at the same time create the feeling of productive, but not actually. [[getting in touch with reality]]
+    - [[flow state]] is an optimal consciousness state that we can completely focused on one thing.
+        - put ourselves on [[stretch zone]] so that we can focused on it 
+        - absence of distractions
+            - internal
+            - external
+    - Reflective questions
+        - What's situation when I was in my 'flow state'?
+        - What's circumstances and mindsets led to that?
+        - How can I create the optimal conditions to let me in that state?
+    - 

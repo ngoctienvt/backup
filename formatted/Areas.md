@@ -2,7 +2,7 @@
     - [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
     - [living from the place of surrender](<living from the place of surrender.md>)
         - [external expressions](<external expressions.md>)
-- [effective](<effective.md>)
+- [efficient](<efficient.md>)
     - [productivity](<productivity.md>)
 - [work](<work.md>)
     - [training](<training.md>)

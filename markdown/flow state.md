@@ -1,0 +1,19 @@
+- [[Conditions for flow]]
+    - convergence focus
+        - inner clarity
+            - knowing what to do next
+            - knowing how to do it
+            - one single type of task 
+                - removing unnecessary tasks. For ex, if dumping thoughts then no need to care about grammar, wordings. 
+        - stretch zone
+            - high perceived challenge and high perceived skills
+    - freedom from internal and external distractions
+        - internal (thoughts, emotions, inner urges...)
+        - external (phone, facebook, other people...)
+    - good structure
+        - balance between [[focus mode]] and [[diffuse mode]]
+            - proper relax and refocus
+            - stress-releasing
+                - no stress accumulation
+        - short-term built-in feedback loop
+            - clear and immediate feedback

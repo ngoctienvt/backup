@@ -82,7 +82,7 @@ Only the person or the soul can know what's best for them and what's the [higher
 - I feel there is an urge inside of me that wants to talk about the relationship of me with Mỹ Linh, it's like it wants to tell the world that I could be high if I have a relationship with the person I want. And now, I - the witness conscious - don't want to depend on Linh to open my heart. I want to open it by myself. I want to proud of myself, do my own work to free myself instead of letting her do that job [personal needs](<personal needs.md>).
 
 ## [helpful manner](<helpful manner.md>)
-- helpful manner is a manner that focuses on raising the moments or the person in front of me in an [effective](<effective.md>) way instead of using them to satisfy my [personal needs](<personal needs.md>)
+- helpful manner is a manner that focuses on raising the moments or the person in front of me in an [efficient](<efficient.md>) way instead of using them to satisfy my [personal needs](<personal needs.md>)
 
 ## [natural progression](<natural progression.md>)
 - Surrender our [personal needs](<personal needs.md>)

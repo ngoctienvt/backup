@@ -35,7 +35,7 @@
     - This means that everything is always [[influence]] to each other in every moment. And it is always a [[two-way interaction]]. And things will better or worse depend on two main components:
         - One is the characteristic of [[the source of influence]].
         - Second is the ability to resist or embrace the influence by the [[receiver]].
--  I feel that I want to let everyone start slowly forward instead of dumping them into a "big gap of understanding" in the beginning. My [[training method]] will break things down into different levels of practice because some [[practices]] are useful and [[effective]] but too [[high floor]] to begin with.
+-  I feel that I want to let everyone start slowly forward instead of dumping them into a "big gap of understanding" in the beginning. My [[training method]] will break things down into different levels of practice because some [[practices]] are useful and [[efficient]] but too [[high floor]] to begin with.
     -  Low floor to start with so students can start to grasp the concept and build up their personal knowledge and [[wisdom of the world]].
     - Through practices, they will start to condense their thoughts and competencies which will make reduce [[the gap of competencies]].
     - When they are seem to be able to grasp the first level of concept and understanding, introducing them slowly to another higher concept.

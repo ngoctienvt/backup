@@ -29,9 +29,6 @@
 
 - This speeds up the [mind evolution process](<mind evolution process.md>)I
 
-## [September 17th, 2020](<September 17th, 2020.md>)
-- Using [Roam Research](<Roam Research.md>) for [mind evolution process](<mind evolution process.md>)
-
 ## [mind evolution process](<mind evolution process.md>)
 - [mind evolution process](<mind evolution process.md>)
 

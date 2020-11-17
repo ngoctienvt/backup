@@ -20,6 +20,9 @@
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - [contextual usages](<contextual usages.md>) [Tag usage](<Tag usage.md>)
 
+## [November 17th, 2020](<November 17th, 2020.md>)
+- I still not sure how I will use my tag properly, it's making me kind of confuse about the structure to build my [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>) clean and optimal. [Tag usage](<Tag usage.md>)
+
 ## [contextual usages](<contextual usages.md>)
 - [Tag usage](<Tag usage.md>)
 

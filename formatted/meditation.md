@@ -23,7 +23,7 @@
 - [meditation](<meditation.md>)
 
 ## [interests](<interests.md>)
-- [effective](<effective.md>) - workflow, life flow, work ethics, progressive approach, [[getting in touch with reality], [meditation](<meditation.md>),
+- [efficient](<efficient.md>) - workflow, life flow, work ethics, progressive approach, [[getting in touch with reality], [meditation](<meditation.md>),
 
 - wisdom - [condensing and generative process](<condensing and generative process.md>) [writing](<writing.md>) [thinking](<thinking.md>) [reading](<reading.md>) [meditation](<meditation.md>)
 

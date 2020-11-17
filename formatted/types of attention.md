@@ -10,8 +10,3 @@
 - ### Executive attention
     - Do you feel able to focus intently enough to create goals and monitor your progress? If you are inclined to do these things, you are displaying executive attention. **Executive attention** is particularly good at blocking out unimportant features of the environment and attending to what really matters. It is the attention we use when we are making steps toward a particular end.
     - For example, maybe you need to finish a research project by the end of the day. You might start by making a plan, or you might jump into it and attack different parts of it as they come. You keep track of what you've done, what more you have to do, and how you are progressing. You are focusing on these things in order to reach the goal of a finished research paper. That is using your executive attention.
-
-# Backlinks
-## [Conditions for flow](<Conditions for flow.md>)
-- [types of attention](<types of attention.md>)
-

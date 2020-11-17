@@ -9,6 +9,9 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>)
 
+## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+- The ideal is we don't need motivation in the first place, but rather nurture our will-power to overcome these habit-formed will and transform them into our desired habit pattern  instead. [willpower](<willpower.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I felt kind of tired when I still dream so much and can't wake up. I'm not asserting my will power to get up and be myself, but let myself drowning on the release of samskaras. I will try to wake up and support the process of releasing inner samskaras. [willpower](<willpower.md>)
 
@@ -42,7 +45,7 @@ What if there is no good reason? What if there is nothing to count on except me?
 - When I read [Surat Shabd Yoga](<Surat Shabd Yoga.md>), I realized that it could be very helpful to practice directly to keep the energy be high instead of letting it run to the bottom and direct it back to the top. It would require me to practice [willpower](<willpower.md>)
 
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
-- Reduce the number of decision so let [flow](<flow.md>) got trigger and reduce the need for using [willpower](<willpower.md>)
+- Reduce the number of decision so let [flow state](<flow state.md>) got trigger and reduce the need for using [willpower](<willpower.md>)
 
 ## [morning rituals](<morning rituals.md>)
 - practices [willpower](<willpower.md>)

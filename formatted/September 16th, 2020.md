@@ -35,7 +35,7 @@
     - This means that everything is always [influence](<influence.md>) to each other in every moment. And it is always a [two-way interaction](<two-way interaction.md>). And things will better or worse depend on two main components:
         - One is the characteristic of [the source of influence](<the source of influence.md>).
         - Second is the ability to resist or embrace the influence by the [receiver](<receiver.md>).
--  I feel that I want to let everyone start slowly forward instead of dumping them into a "big gap of understanding" in the beginning. My [training method](<training method.md>) will break things down into different levels of practice because some [practices](<practices.md>) are useful and [effective](<effective.md>) but too [high floor](<high floor.md>) to begin with.
+-  I feel that I want to let everyone start slowly forward instead of dumping them into a "big gap of understanding" in the beginning. My [training method](<training method.md>) will break things down into different levels of practice because some [practices](<practices.md>) are useful and [efficient](<efficient.md>) but too [high floor](<high floor.md>) to begin with.
     -  Low floor to start with so students can start to grasp the concept and build up their personal knowledge and [wisdom of the world](<wisdom of the world.md>).
     - Through practices, they will start to condense their thoughts and competencies which will make reduce [the gap of competencies](<the gap of competencies.md>).
     - When they are seem to be able to grasp the first level of concept and understanding, introducing them slowly to another higher concept.

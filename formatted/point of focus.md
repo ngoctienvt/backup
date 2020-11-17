@@ -48,7 +48,7 @@
 ## [Workflow MOC](<Workflow MOC.md>)
 - [point of focus](<point of focus.md>)
 
-- What is the [point of focus](<point of focus.md>)
+- Clear [point of focus](<point of focus.md>)
 
 ## [point of view](<point of view.md>)
 - point of view is the level or the direction of [point of focus](<point of focus.md>)

@@ -31,7 +31,7 @@
     - 
     - I'm kind of people who value mainly on focusing on the thinking instead of physical or immediate work. Though I still can do them in emergency moment, most of the time I will work to develop the long-term answer instead.
 - It feels so much good that I unconsciously follow what I think is good instead of building on [truth compass](<truth compass.md>). The fact that I still follow my mind and give too much power for it makes me work ineffective.
-- logseq is just where I put my inner work to store it out. It's not where the work actually happens. It supports me, but the true work is the [integration](<integration.md>) work that happens inside of me. This is also the most effective work. [effective](<effective.md>)
+- logseq is just where I put my inner work to store it out. It's not where the work actually happens. It supports me, but the true work is the [integration](<integration.md>) work that happens inside of me. This is also the most effective work. [efficient](<efficient.md>)
 - I'm not at a stage that ready for producing complement products yet. I'm still on a stage that experimenting and integrating inside of me yet. I need to do this inner work for a period first, then I will become more ready and natural to create results.[inner work](<inner work.md>) [experiment](<experiment.md>)
     - It's better to work with a testing and complementing mindset so that there is less pressure on me.
     - A shift from let samskaras run life to take back driver's seat

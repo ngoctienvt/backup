@@ -5,7 +5,7 @@
     - [joy of development](<joy of development.md>)
         - For example, [deeper understanding](<deeper understanding.md>)
             - instead of writing what we are taught without processing, write it in our own word or own understanding can give us feedback to how much we understand
-- [built-in feedback loops](<built-in feedback loops.md>)
+- [built-in feedback loop](<built-in feedback loop.md>)
     - The feedback are built in the process itself instead of an external things
 
 # Backlinks

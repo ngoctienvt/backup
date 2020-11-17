@@ -31,7 +31,7 @@
             - focus on true progression instead of the feeling of doing something meaningful, like instead of focusing on bolding and highlighting/ focus on self-commentary instead.
                 - [[getting in touch with reality]] to [[work at the root]]
         - right reflection
-            - looping with [[built-in feedback loops]]
+            - looping with [[built-in feedback loop]]
         - right tools
             - [[support system]] to utilize external tools, so internal tools focus energy on what's important 
                 - creating an [[Evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]
