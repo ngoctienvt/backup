@@ -13,7 +13,8 @@
 - [[Training MOC]]
 - [[Spiritual MOC]]
 - [[People]]
-- 
+- [[Resources]]
 - Smaller MOC working on
     - [[Support system MOC]]
+    - [[Areas]]
     - 

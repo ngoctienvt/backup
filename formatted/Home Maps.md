@@ -13,7 +13,8 @@
 - [Training MOC](<Training MOC.md>)
 - [Spiritual MOC](<Spiritual MOC.md>)
 - [People](<People.md>)
-- 
+- [Resources](<Resources.md>)
 - Smaller MOC working on
     - [Support system MOC](<Support system MOC.md>)
+    - [Areas](<Areas.md>)
     - 

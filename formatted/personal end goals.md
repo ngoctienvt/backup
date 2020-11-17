@@ -19,11 +19,8 @@
 
 - It seems like my process to achieve my [personal end goals](<personal end goals.md>)
 
-## [daily workplace](<daily workplace.md>)
-- [personal end goals](<personal end goals.md>)
-
-## [personal workflow](<personal workflow.md>)
-- Clarify [personal end goals](<personal end goals.md>)
-
+## [Workflow MOC](<Workflow MOC.md>)
 - The idea is generating better-self everyday, everytime and every moments. As long as I can do this, I will be sure to always have a better life. [personal end goals](<personal end goals.md>)
+
+-  [personal end goals](<personal end goals.md>)
 

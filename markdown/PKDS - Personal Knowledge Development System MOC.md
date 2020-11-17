@@ -29,6 +29,7 @@
                     - What is the way I organize my personal knowledge system?
                         - [[Map of Contents]]
                         - [[clean up fleeting notes]]
+                - [[Personal Knowledge Development workflow]]
             - procedure for execution
             - support system for optimize the system
                 - Roam Research

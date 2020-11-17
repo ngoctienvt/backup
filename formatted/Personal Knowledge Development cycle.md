@@ -3,14 +3,10 @@
         - Collecting stage - area of interest
             - Smart note-taking external knowledge (books, articles, courses, podcasts...) - objects inside area of interest
                 - Interesting concepts, ideas, point of view
-                - Summary
-                - Key take-aways
+                - Personal ummary, key take-aways
             - Journaling internal knowledge - objects inside area of interest
                 - Thoughts
-                - Self-realization
-                - Self-reflection
-                - New insights
-                - New awareness
+                - New insights or awareness from self-realization or reflection
         - Shaping stage
             - Creating new notes
             - Connecting to existing notes
@@ -45,7 +41,7 @@
 - I wonder how I will handle my tag when I start to develop MOC and centralized notes. [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
 
 ## [November 17th, 2020](<November 17th, 2020.md>)
-This is helpful for me to learn and develop my personal knowledge, but then I will need to write up fully by myself later. I will think about a way to still maintain certain context while digest them fully at the same time. [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
+This is helpful for me to learn and develop my personal knowledge, but then I will need to write up fully by myself later. I will think about a way to still maintain certain context while digesting them fully at the same time. [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
 
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)

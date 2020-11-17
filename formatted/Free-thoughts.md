@@ -8,6 +8,6 @@
 - [deeper understanding](<deeper understanding.md>)
     - **[Free-thoughts](<Free-thoughts.md>):**
 
-## [personal workflow](<personal workflow.md>)
+## [Workflow MOC](<Workflow MOC.md>)
 - [Free-thoughts](<Free-thoughts.md>)
 

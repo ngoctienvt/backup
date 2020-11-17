@@ -1,8 +1,0 @@
-- Some of the topic of my goals are
-    - self-freedom
-    - serving the reality
-        - knowledge and wisdom development
-        - mastery of certain tools to achieve certain intention
-        - supporting the true self development
-    - routine/ habit or work flow
-- [personal end goals](<personal end goals.md>)

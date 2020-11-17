@@ -3,14 +3,10 @@
         - Collecting stage - area of interest
             - Smart note-taking external knowledge (books, articles, courses, podcasts...) - objects inside area of interest
                 - Interesting concepts, ideas, point of view
-                - Summary
-                - Key take-aways
+                - Personal ummary, key take-aways
             - Journaling internal knowledge - objects inside area of interest
                 - Thoughts
-                - Self-realization
-                - Self-reflection
-                - New insights
-                - New awareness
+                - New insights or awareness from self-realization or reflection
         - Shaping stage
             - Creating new notes
             - Connecting to existing notes

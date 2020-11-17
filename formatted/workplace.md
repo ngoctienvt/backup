@@ -8,6 +8,3 @@
 
 - [workplace](<workplace.md>)
 
-## [personal workflow](<personal workflow.md>)
-- Other is have a [workplace](<workplace.md>)
-

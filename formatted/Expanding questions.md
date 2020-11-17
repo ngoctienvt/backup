@@ -40,11 +40,9 @@
 - **[New awareness](<New awareness.md>):**
     - **[Expanding questions](<Expanding questions.md>):**
 
-## [compressed process](<compressed process.md>)
-- resolving [Expanding questions](<Expanding questions.md>)
-
-## [personal workflow](<personal workflow.md>)
+## [Workflow MOC](<Workflow MOC.md>)
 - What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
 
-- Other is have a [workplace](<workplace.md>) for what I want to work with like [Expanding questions](<Expanding questions.md>)
+## [compressed process](<compressed process.md>)
+- resolving [Expanding questions](<Expanding questions.md>)
 

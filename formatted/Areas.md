@@ -8,3 +8,8 @@
     - [training](<training.md>)
     - [coaching](<coaching.md>)
 - [life knowledges](<life knowledges.md>)
+
+# Backlinks
+## [Home Maps](<Home Maps.md>)
+- [Areas](<Areas.md>)
+

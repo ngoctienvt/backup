@@ -74,7 +74,21 @@
         - What's situation when I was in my 'flow state'?
         - What's circumstances and mindsets led to that?
         - How can I create the optimal conditions to let me in that state?
-    - 
+- 3 laws of productivity
+    - Parkinson's law
+        - Work expands to fill the time that we allocate to it
+            - Having too much time to do something is a recipe for procrastination
+        - Think about 10 years plan and ask "How can you achieve it within 6 months?"
+        - Application
+            - Giving ourselves artificial deadline - [constraint](<constraint.md>)
+                - But our mind knows it is an artificial deadline, so you can make it become a real deadline, like giving money to someone and lost it if you can't complete tasks.
+        - Reflection
+            - What are long-term tasks I want to do?
+                - Developing personal knowledge development system
+                - Developing training program for the above system
+                - 
+            - What would I do if only had half as long to do them?
+            - What if I have only next 24 hours?
 
 # Backlinks
 ## [Resources](<Resources.md>)

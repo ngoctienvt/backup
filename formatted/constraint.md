@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+- Giving ourselves artificial deadline - [constraint](<constraint.md>)
+
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - [convergence focus](<convergence focus.md>) will about I have a thing with [clear intention](<clear intention.md>), [constraint](<constraint.md>)
 
