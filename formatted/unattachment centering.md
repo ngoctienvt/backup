@@ -59,6 +59,9 @@
 ## [November 17th, 2020](<November 17th, 2020.md>)
 This is a big opportunity for me to learn to handle the societies, my need for convenience, and learn to nurture my ability for [unattachment centering](<unattachment centering.md>),
 
+## [November 18th, 2020](<November 18th, 2020.md>)
+- There is a nightmare that I lost few of my teeth. The fear, anxiety, worry is so strong that I just want to escape that situation. But I practiced remain [unattachment centering](<unattachment centering.md>)
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - Meditation is mainly to practice [unattachment centering](<unattachment centering.md>)
 
