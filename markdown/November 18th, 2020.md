@@ -10,4 +10,7 @@
 - There are still feeling [[worry]] about the future, about what will happen, what could happen that I'm not able to resolve yet. Anyway, it's a good day on earth, I will take rest and have a good sleep tonight. 
 - I noticed that I start to develop the habit to consume quality information that related to my main works like coaching or spiritual. [[habit]]
 - At night, it's good for me to develop a [[keystone habit]] that consume quality content instead of forcing myself to sleep or drowning in the social media.
+- [[wise quotes]] __The Stoic Sage, or wise man, needs nothing but uses everything well; the fool believes himself to “need” countless things, but he uses them all badly.__
+- Feelings of agency — “having both important goals and believing that one can initiate and sustain action toward goal attainment” [[intentional direction]]
+- see desired outcomes as attainable [and] continue to exert efforts at attaining those outcomes, even when doing so is difficult. [[wise thinking]]
 - 

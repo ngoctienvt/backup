@@ -45225,9 +45225,33 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605716725779,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605716725779,
-        "string": "",
+        "edit-time": 1605716974920,
+        "string": "[[wise quotes]] __The Stoic Sage, or wise man, needs nothing but uses everything well; the fool believes himself to \u201cneed\u201d countless things, but he uses them all badly.__",
         "uid": "vv6Zh0pC2"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605716975717,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605717264105,
+        "string": "Feelings of agency \u2014 \u201chaving both important goals and believing that one can initiate and sustain action toward goal attainment\u201d [[intentional direction]]",
+        "uid": "pt3TNWadk"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605717264172,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605717308143,
+        "string": "see desired outcomes as attainable [and] continue to exert efforts at attaining those outcomes, even when doing so is difficult. [[wise thinking]]",
+        "uid": "BfoaT_iC_"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605717308141,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605717308141,
+        "string": "",
+        "uid": "Dwqihz51k"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -45396,5 +45420,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605716325318,
     "title": "Evokes awareness"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605716974084,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605716974086,
+    "title": "wise quotes"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605717308145,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605717308145,
+    "title": "wise thinking"
   }
 ]
