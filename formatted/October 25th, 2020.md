@@ -1,5 +1,5 @@
 - 
-- I felt much better and realize that all I need to focus on is on myself, not on the objects of consciousness. [point of focus](<point of focus.md>) It's all about what I do inside of me. If I don't separate objects of consciousness and treat everything as one, then there is no need to making choices.
+- 
 - [journaling training](<journaling training.md>) There will be several types of journaling and way to categorize them
     - One is categorize by functions
         - [samskaras journal](<samskaras journal.md>)

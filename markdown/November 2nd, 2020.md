@@ -1,7 +1,6 @@
 - I felt that I'm extremely hard to want people to live the higher truth, but I'm lacking the [[helpful manner]] to establish connection and understanding first. 
     - It's like I know what's important for the child, but it's not suitable to give them advice when they are drowning.
 - Today I will continue to focus on learn Effortless Output with Roam.
-- I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [[point of focus]] [[seeking clarity before resolving]]
 - I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [[top-down approach]][[coaching goals]] [[the relationship between end goals and methods]]
     - Choose the [[end goal]] wisely
         - For instance, make becoming a good [[spiritual practitioner]] at end goals. [[unattachment centering]]
@@ -27,7 +26,7 @@ I'm on the process to learn to lean myself away from my inner stuff and my inner
 - I also learn to create my own [[personal knowledge development]] system in a way that it fully makes sense to me.
 - 
 - 
-- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [[personal workflow]] [[output mechanism]] [[living from the place of surrender]] [[progressive development approach]] [[From idea to production]]
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [[output mechanism]] [[living from the place of surrender]] [[progressive development approach]] [[From idea to production]]
     - https://twitter.com/Roamfu/status/1293505256962183170
     - https://www.roambrain.com/roam-and-your-idea-to-reality-production-stack/
 - 

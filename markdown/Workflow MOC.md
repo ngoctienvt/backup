@@ -1,9 +1,10 @@
-- [[personal workflow]]
 - [[workplace]]
-- [[focus on what matters]]
 - [[natural progression]]
 - [[readiness]]
-- [[point of focus]]
+- # Processed
+    - [[focus on what matters]]
+    - [[point of focus]]
+    - [[personal workflow]]
 - ### The end goal of an ideal workflow 
     - An engine process 
         - to grow myself into a great human being

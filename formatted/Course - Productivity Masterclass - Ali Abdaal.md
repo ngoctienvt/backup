@@ -26,131 +26,152 @@
                 - For the pilot, I struggle to set the long destination, and break down to small milestones that ensure to keep me on the right direction.
                 - For the plane, I'm not comfortable to work on the long period of time, and sometimes I'm just kind of working in a circle or let things emerge appear by themselves, but not actually fully active working on this.
                 - For the engineer, I'm just starting to build my system, before that, I just keep myself at least on the not breakdown level and too much stress.
-- ### ["I don't have time" myth](<"I don't have time" myth.md>)
-    - Time is what we want most, but what we use worst - William Penn [efficient](<efficient.md>)
-        - We always choose to do something, and not do something. 
-            - It's not we don't have time, it's not our priority
-            - It's not the case limited by time, it's a case that limited by the choices that we make with our time.
-    - From "I don't have time" to "I'm choosing not to make the time".  
-        - Train our brain not to say "Sorry I don't have time" but "I have other priority things to do..."
-        - Tips
-            - Write down exactly what you are doing with your time - tracking it to get in touch with the reality
-    - Reflective question
-        - What is the reason for me using the phrase I don't have time?
-            - I don't feel meaning on that - small talk, listening other people problem without seeing their intention to resolve it
-            - I feel tired and I want to rest
-            - I'm not interested on that
-        - Optional action - tracking your time on 1 week
-- ### [motivation myth](<motivation myth.md>)
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F2G_MQglYWD.png?alt=media&token=ad06b972-c4e4-43b8-86fa-6b3bb9778572)
-    - We think we had to have the feeling of doing something to do something. [false belief](<false belief.md>)
-        - Relying on our feelings to work is a receipt for disaster, because it's not reliable. [solid foundation](<solid foundation.md>)
-            - It's about the true self choose to do something, not about give up our free-will to our heart.  [freewill](<freewill.md>)
-    - The outcome is usually long time on the future, we don't have an immeditate feedback. [getting in touch with reality](<getting in touch with reality.md>) continuously
-        - Make the action [samskaras-based solution](<samskaras-based solution.md>)
-            - more pleasurable 
-                - (game, friendly competition like boardgame, process goal, environment. music...)
-            - consequences of inaction more painful. 
-                - It's kind of trigger the pain samskaras.
-                - Deadline, pre-paid money, beeminder, 
-        - Make the outcome [inner clarity](<inner clarity.md>)
-            - short-term [built-in feedback loop](<built-in feedback loop.md>)
-                - example of feedback loops, game, sports,...
-            - making the outcome more salient, more clear [inner clarity](<inner clarity.md>)
-    - The ideal is we don't need motivation in the first place, but rather nurture our will-power to overcome these habit-formed will and transform them into our desired habit pattern  instead. [willpower](<willpower.md>)
-        - You don't need the motivation to go to work or to go to school to do exam.
-    - Reflective thinking
-        - The most important thing I learn is I don't have to give my right to my feelings and my thoughts, I need to learn to become the one who direct my life, so that they become my servant instead.
-        - [samskaras-based solution](<samskaras-based solution.md>) is helpful for short-term, but for long-term, it's better to let go of the inner blockages and build up the [conscious will](<conscious will.md>) instead.
-        - It's very important to build ourselves based on a [solid foundation](<solid foundation.md>) which usually based on truth, reality or the natural flow of inner energy, instead of our feelings and our thoughts. 
-- [multi-tasking myth](<multi-tasking myth.md>)
-    - Do work at the same time create the feeling of productive, but not actually. [getting in touch with reality](<getting in touch with reality.md>)
-    - [flow state](<flow state.md>) is an optimal consciousness state that we can completely focused on one thing.
-        - put ourselves on [stretch zone](<stretch zone.md>) so that we can focused on it 
-        - absence of distractions
-            - internal
-            - external
-    - Reflective questions
-        - What's situation when I was in my 'flow state'?
-        - What's circumstances and mindsets led to that?
-        - How can I create the optimal conditions to let me in that state?
+- Three productivity myth
+    - ### ["I don't have time" myth](<"I don't have time" myth.md>)
+        - Time is what we want most, but what we use worst - William Penn [efficient](<efficient.md>)
+            - We always choose to do something, and not do something. 
+                - It's not we don't have time, it's not our priority
+                - It's not the case limited by time, it's a case that limited by the choices that we make with our time.
+        - From "I don't have time" to "I'm choosing not to make the time".  
+            - Train our brain not to say "Sorry I don't have time" but "I have other priority things to do..."
+            - Tips
+                - Write down exactly what you are doing with your time - tracking it to get in touch with the reality
+        - Reflective question
+            - What is the reason for me using the phrase I don't have time?
+                - I don't feel meaning on that - small talk, listening other people problem without seeing their intention to resolve it
+                - I feel tired and I want to rest
+                - I'm not interested on that
+            - Optional action - tracking your time on 1 week
+    - ### [motivation myth](<motivation myth.md>)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F2G_MQglYWD.png?alt=media&token=ad06b972-c4e4-43b8-86fa-6b3bb9778572)
+        - We think we had to have the feeling of doing something to do something. [false belief](<false belief.md>)
+            - Relying on our feelings to work is a receipt for disaster, because it's not reliable. [solid foundation](<solid foundation.md>)
+                - It's about the true self choose to do something, not about give up our free-will to our heart.  [freewill](<freewill.md>)
+        - The outcome is usually long time on the future, we don't have an immeditate feedback. [getting in touch with reality](<getting in touch with reality.md>) continuously
+            - Make the action [samskaras-based solution](<samskaras-based solution.md>)
+                - more pleasurable 
+                    - (game, friendly competition like boardgame, process goal, environment. music...)
+                - consequences of inaction more painful. 
+                    - It's kind of trigger the pain samskaras.
+                    - Deadline, pre-paid money, beeminder, 
+            - Make the outcome [inner clarity](<inner clarity.md>)
+                - short-term [built-in feedback loop](<built-in feedback loop.md>)
+                    - example of feedback loops, game, sports,...
+                - making the outcome more salient, more clear [inner clarity](<inner clarity.md>)
+        - The ideal is we don't need motivation in the first place, but rather nurture our will-power to overcome these habit-formed will and transform them into our desired habit pattern  instead. [willpower](<willpower.md>)
+            - You don't need the motivation to go to work or to go to school to do exam.
+        - Reflective thinking
+            - The most important thing I learn is I don't have to give my right to my feelings and my thoughts, I need to learn to become the one who direct my life, so that they become my servant instead.
+            - [samskaras-based solution](<samskaras-based solution.md>) is helpful for short-term, but for long-term, it's better to let go of the inner blockages and build up the [conscious will](<conscious will.md>) instead.
+            - It's very important to build ourselves based on a [solid foundation](<solid foundation.md>) which usually based on truth, reality or the natural flow of inner energy, instead of our feelings and our thoughts. 
+    - [multi-tasking myth](<multi-tasking myth.md>)
+        - Do work at the same time create the feeling of productive, but not actually. [getting in touch with reality](<getting in touch with reality.md>)
+        - [flow state](<flow state.md>) is an optimal consciousness state that we can completely focused on one thing.
+            - put ourselves on [stretch zone](<stretch zone.md>) so that we can focused on it 
+            - absence of distractions
+                - internal
+                - external
+        - Reflective questions
+            - What's situation when I was in my 'flow state'?
+            - What's circumstances and mindsets led to that?
+            - How can I create the optimal conditions to let me in that state?
 - 3 laws of productivity
-    - Parkinson's law
+    - [Parkinson's law](<Parkinson's law.md>) [point of focus](<point of focus.md>)
         - Work expands to fill the time that we allocate to it
             - Having too much time to do something is a recipe for procrastination
-        - Think about 10 years plan and ask "How can you achieve it within 6 months?"
         - Application
+            - Think about 10 years plan and ask "How can you achieve it within 6 months?" 
             - Giving ourselves artificial deadline - [constraint](<constraint.md>)
-                - But our mind knows it is an artificial deadline, so you can make it become a real deadline, like giving money to someone and lost it if you can't complete tasks.
+                - But our mind knows it is an artificial deadline, so you can make it become a real deadline, like giving money to someone and lost it if you can't complete tasks. [samskaras-based solution](<samskaras-based solution.md>)
         - Reflection
             - What are long-term tasks I want to do?
                 - Developing personal knowledge development system
                 - Developing training program for the above system
-                - 
+                - Developing a personal blog
             - What would I do if only had half as long to do them?
+                - Focus on shaping it form and test the process from stage one to end stage [form-shaping](<form-shaping.md>)
             - What if I have only next 24 hours?
-    - Pareto principle 
-        - 80% of the result comes from 20% of the effort.
-        - 80% of the output comes from 20% of the input...
-        - significant diminishing returns
-        - What is your end goal here? And what is 20% that I need to do to achieve it?
-        - Continual process of 80/20 and whatever is left. 
-            - Filling the picture is more important than filling the detail.
+    - [Pareto principle](<Pareto principle.md>) 
+        - Pareto principle is [focus on what matters](<focus on what matters.md>)
+            - 80% of the result comes from 20% of the effort.
+            - 80% of the output comes from 20% of the input...
+            - Because what is not matters have significant diminishing returns
+        - Application
+            - What is your end goal here? And what is 20% that I need to do to achieve it? [end goal](<end goal.md>)
+            - Building continual process of 80/20 and whatever is left.  [form-shaping](<form-shaping.md>)
+                - Filling the picture is more important than filling the detail.
         - Reflection
-            - What 20% of my work is driving 80% of my meaningful output?
+            - What is 20% of my work is driving 80% of my meaningful output?
                 - Meditation
                 - Thinking
+                - Writing
             - What's taking up 80% of my time but not actually contributing much to my outcomes?
+                - Sleeping
+                - Reading  without note-taking
                 - Organizing
                 - Youtube/ Facebook/ passive listening...
-    - Newton's first law of motion
+    - [Newton's first law of motion](<Newton's first law of motion.md>)
         - An object is at rest or travelling at a constant velocity unless it's acted on by an external, imbalanced force.
-            - If something is still, stay still. If we stay still, it is require external force.
-            - If something is moving, it will keep moving forward. 
-        - It's harder to start something than to continue doing something.
+            - If something is still, stay still. If we stay still, it is require external force.  [willpower](<willpower.md>)
+            - If something is moving, it will keep moving forward.  [snowball effect](<snowball effect.md>)
+                - It's harder to start something than to continue doing something.
         - Tips
             - 2-minute rule - if something takes less than 2 minutes, do it now rather than todo list
-            - 5-minute rule - if we struggle to start with any task,  just do 5 minute of it
-            - do mindless work, setting up things, reduce friction
-            - Keystone habit- if we do one habit, it will lead to other thing
-                - For example, if I have habit to stay sitting on my chair instead of my bed
+            - 5-minute rule - if we struggle to start with any task,  just do 5 minute of it [snowball effect](<snowball effect.md>)
+            - do mindless work, setting up things, reduce friction [reducing friction](<reducing friction.md>)
+            - [keystone habit](<keystone habit.md>)- if we do one habit, it will lead to other thing related to it. [narrow direction](<narrow direction.md>)
+                - It's like if we going on one path, we will continue to do what happens on that path.
+                - For example, if I have habit to stay sitting on my chair instead of my bed, I will tend to other high-value tasks rather than low-value tasks like sleeping.
 - The 3 powers of productivity
-    - The power of habit or consistency
+    - [the power of habit](<the power of habit.md>) or consistency
         - [habit](<habit.md>) are atomic
-        - [compound interests](<compound interests.md>)
-            - The inability to understand exponential function
-        - Skip the need for willpower to close the gap of thoughts and actions
-        - [samskaras-based solution](<samskaras-based solution.md>) Social contract - public commitment
-        - habit is about identity-change, internal-change, and reinforce the new identity
-            - breaking limiting beliefs, thoughts
-            - breaking the stories that our mind tell to ourselves
+        - Why?
+            - skip the need for willpower to close the gap of thoughts and actions
+            - [compound interests](<compound interests.md>)
+                - The inability to understand exponential function
+        - Application
+            - [samskaras-based solution](<samskaras-based solution.md>) Social contract - public commitment
+            - habit is about identity-change, internal-change, and reinforce the new identity
+                - breaking limiting beliefs, thoughts
+                - breaking the stories that our mind tell to ourselves
         - Reflection
             - What 3 things would boost my productivity if it become my habit?
                 - Sitting on my chair
-                - Writing regularly
+                - [snowball meditation](<snowball meditation.md>) which is remain to overcome the urge to stop the meditation
             - How I could start to build these habits?
-    - The power of productive downtime
-        - daily highlight - what is my highlight for the day?  what is one thing I want to get done today? 
-        - todo list - morning dump
-        - admin task
+                - Morning meditation on my chair
+                - Try to sit there more
+    - [the power of productive downtime](<the power of productive downtime.md>)
+        - daily focus
+            - What is one thing I want to get done today? 
+            - todo list - morning dump
+            - admin task [reducing friction](<reducing friction.md>)
         - Reflection
-            - What are some chunks of the day in which I find myself wasting time  in ways I'd rather not?
-            - What usefull small things could I do with that time instead?
+            - What are some chunks of the day in which I find myself wasting time in ways I'd rather not?  
+                - Free writing instead of sleeping
+            - What useful small things could I do with that time instead?
     - The power of productive procrastination
-        - doing something that's inherently useful for bottom-up knowledge
+        - doing something that's inherently useful for bottom-up knowledge like 
+            - writing, meditation, watching useful youtube videos, reading high value articles...
         - Reflection
-            - friction and intentional direction is very important  to build up a life that's progressive moving forward.
-- The fun factor
-    - What's the point of life?
+            - reducing friction and [intentional direction](<intentional direction.md>) is very important to build up a life that's progressive moving forward.
+- [the fun factor](<the fun factor.md>)
+    - What's the point of life? [meaning of life](<meaning of life.md>)
         - Enjoyment
         - Evolution
         - Contribution
-    - If we decide what we like and what we won't like, we actually limit and actively make our journey on earth is tough.
-    - Making the process or the journey on earth more fun on each moment, not someday/maybe. [enjoy the process](<enjoy the process.md>)
-    - "have to" versus "get to" - neutralize the negative
-        - I get to do this 
-    - designing enjoyable environment to help digest the experience easier
-    - learning to expand our ability to enjoy the variety of moments 
+    - Application
+        - "have to" versus "get to" - neutralize the negative [neutralize](<neutralize.md>)
+            - I get to do this 
+        - designing inspiring [workplace](<workplace.md>) environment to support true self  working and digesting the experience
+        - Making the process or the journey on earth more fun on each moment, not someday/maybe. [enjoy the process](<enjoy the process.md>)
+            - learning to expand our ability to enjoy the variety of moments  
+            - If we decide what we like and what we won't like, we actually limit and actively make our journey on earth is tough. 
+- ## Personal reflection
+    - This is a truly good course that give me many insights and provoke thoughtful awareness for me.
+    - 80/20 principle and [form-shaping](<form-shaping.md>) are two things that  I want to develop myself to use them properly.
+    - [intentional direction](<intentional direction.md>) and [keystone habit](<keystone habit.md>) is also very helpful to help me [snowball](<snowball.md>) by living my life instead of drowing inside
+    - [the power of productive downtime](<the power of productive downtime.md>) is also making me thinking about finding quality input for collecting data stage.
 
 # Backlinks
 ## [Resources](<Resources.md>)

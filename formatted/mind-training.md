@@ -25,7 +25,7 @@
 
 - [mind-training](<mind-training.md>)
 
-- roam is such a useful tool for dumping thoughts and condensing and then dumping thoughts again in a new higher level of concept with less [friction](<friction.md>). I still not clear how the process will work perfectly refined with nearly no [friction](<friction.md>), just like the brain can fluidly upgrade itself. [mind evolution process](<mind evolution process.md>) [mind-training](<mind-training.md>)
+- roam is such a useful tool for dumping thoughts and condensing and then dumping thoughts again in a new higher level of concept with less [reducing friction](<reducing friction.md>). I still not clear how the process will work perfectly refined with nearly no [reducing friction](<reducing friction.md>), just like the brain can fluidly upgrade itself. [mind evolution process](<mind evolution process.md>) [mind-training](<mind-training.md>)
 
 - My main [intention](<intention.md>) for [mind-training](<mind-training.md>)
 

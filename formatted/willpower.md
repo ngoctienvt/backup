@@ -12,6 +12,8 @@
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - The ideal is we don't need motivation in the first place, but rather nurture our will-power to overcome these habit-formed will and transform them into our desired habit pattern  instead. [willpower](<willpower.md>)
 
+- If something is still, stay still. If we stay still, it is require external force.  [willpower](<willpower.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I felt kind of tired when I still dream so much and can't wake up. I'm not asserting my will power to get up and be myself, but let myself drowning on the release of samskaras. I will try to wake up and support the process of releasing inner samskaras. [willpower](<willpower.md>)
 

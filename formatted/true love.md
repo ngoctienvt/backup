@@ -14,9 +14,6 @@
 - 
 
 # Backlinks
-## [November 15th, 2020](<November 15th, 2020.md>)
-- [humility](<humility.md>), [true love](<true love.md>).
-
 ## [October 10th, 2020](<October 10th, 2020.md>)
 It's not fully impersonal and for other, it's still have a personal part. [true love](<true love.md>)
 
@@ -54,6 +51,9 @@ It's not fully impersonal and for other, it's still have a personal part. [true 
 
 ## [interests](<interests.md>)
 - relationship - [true love](<true love.md>)
+
+## [point of focus](<point of focus.md>)
+- [humility](<humility.md>), [true love](<true love.md>).
 
 ## [sexual desire](<sexual desire.md>)
 - [true love](<true love.md>)

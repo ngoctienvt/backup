@@ -4,4 +4,7 @@
     - Editing video 8
     - Learning Productivity
     - Building my workflow
-- 
+- It's a rest day for me since I noticed that my [[physical body]] is hot, not work as intended, it's my responsibility for taking proper rest for it through meditation.
+- I also start to able to maintain myself to do high-quality activities like learning and note-taking, processing what I learned, I'm starting to have a right intentional direction that will serve a productive life. [[meaningful life]]
+- I'm quite good on the unifying stage, and it seems like a little bit ready to come to the next step, the step of writing and nurturing [[Evergreen notes]]. I will try to [[form-shaping]] the PKDS first, then I will optimize it later.
+- There are still feeling [[worry]] about the future, about what will happen, what could happen that I'm not able to resolve yet. Anyway, it's a good day on earth, I will take rest and have a good sleep tonight. 

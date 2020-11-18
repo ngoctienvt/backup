@@ -4,8 +4,6 @@
     - handling fear, sexual desire, releasing attachments
     - handling habit-formed will to check facebook [[staying in
 the moment]]
-    - condensing [point of focus](<point of focus.md>) [[knowledge development
-process]]
     - editing video 6
 - [personal responsibilities](<personal responsibilities.md>)
     - I could handle my [sexual desire](<sexual desire.md>) by metaphor my body just

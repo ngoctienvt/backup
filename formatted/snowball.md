@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+- [intentional direction](<intentional direction.md>) and [keystone habit](<keystone habit.md>) is also very helpful to help me [snowball](<snowball.md>)
+
 ## [November 5th, 2020](<November 5th, 2020.md>)
 - Tdoay I feel that's I'm becoming clearer everyday, and some of the most biggest puzzles are starting to appear and organizing. My life is getting to build a snowball engine that will be roll out soon. [snowball](<snowball.md>)
 

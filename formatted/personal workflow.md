@@ -18,12 +18,8 @@
     - Instructions
     - Sub-workflow
     - Logical loop
-    - 
 
 # Backlinks
-## [November 2nd, 2020](<November 2nd, 2020.md>)
-- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [personal workflow](<personal workflow.md>)
-
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [personal workflow](<personal workflow.md>)
 

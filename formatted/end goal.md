@@ -17,6 +17,9 @@
 ## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
 - To search a cluster of things that I want to look for with no need to keep them in a hierarchy organization. Be able to search or group what I want is the most important reason for why I want to have a hierarchy organization. [end goal](<end goal.md>)
 
+## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+- What is your end goal here? And what is 20% that I need to do to achieve it? [end goal](<end goal.md>)
+
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [end goal](<end goal.md>)
 
@@ -27,9 +30,6 @@
 
 ## [November 5th, 2020](<November 5th, 2020.md>)
 - The [end goal](<end goal.md>)
-
-## [October 11th, 2020](<October 11th, 2020.md>)
-- In order to avoid losing on the method, the tools, the attachments, focus on [end goal](<end goal.md>)
 
 ## [October 1st, 2020](<October 1st, 2020.md>)
 - I noticed that I have a big desire to support other people to become better and that makes me want to share I know, what I find out to support them. But sometimes I focus too much on the process of sharing and forget the [end goal](<end goal.md>)
@@ -56,11 +56,7 @@
 - [trust](<trust.md>) and [connection](<connection.md>) are essential to create [optimal conditions](<optimal conditions.md>) for the emergence of [end goal](<end goal.md>)
 
 ## [focus on what matters](<focus on what matters.md>)
-- [what matters](<what matters.md>) or [end goal](<end goal.md>)
-
-- [focus on what matters](<focus on what matters.md>) are holding focus onto [end goal](<end goal.md>)
-
-- [focus on what matters](<focus on what matters.md>) are holding focus onto [end goal](<end goal.md>) and aware that [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goal](<end goal.md>)
+- [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goal](<end goal.md>)
 
 ## [personal end goals](<personal end goals.md>)
 - Current [end goal](<end goal.md>)

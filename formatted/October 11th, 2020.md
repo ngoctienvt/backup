@@ -41,10 +41,7 @@ So what I want to have is the ability to focus myself to the fact that [living f
     - The hole lie on the initial intention and the cause of that intention
     - https://truyencv.com/cuu-tinh-ba-the-quyet/chuong-3946/
 - The laptop makes me realize that I am trying to get the best instead of getting enough so that the tools will become a supporter rather than a big pressure for me. [the middle way](<the middle way.md>)
-- In order to avoid losing on the method, the tools, the attachments, focus on [end goal](<end goal.md>) [focus on what matters](<focus on what matters.md>)
-    - the impersonal wants
-    - the fun aspects
-    - the meaning aspects
+- I
 - [Spirit Island](<Spirit Island.md>) [Bring of Dreams and Nightmares](<Bring of Dreams and Nightmares.md>)
     - The main victory condition is create fears to reduce the conditions to win the game, or win by using all fear cards only. 
     - Characteristics of the spirit

@@ -16,12 +16,6 @@
 - ## An example that I want to use to learn to creating this process are [journaling training](<journaling training.md>)
 
 # Backlinks
-## [October 20th, 2020](<October 20th, 2020.md>)
-- As I tested [knowledge development process](<knowledge development process.md>)
-
 ## [October 21st, 2020](<October 21st, 2020.md>)
-- [knowledge development process](<knowledge development process.md>)
-
-## [point of focus](<point of focus.md>)
 - [knowledge development process](<knowledge development process.md>)
 

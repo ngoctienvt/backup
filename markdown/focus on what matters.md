@@ -1,3 +1,15 @@
-- [[what matters]] or [[end goal]] are the intention that I make clear in the beginning or intentional adjusting in the process, not the tools or the method I have and grow an [[attachment]] with them.
-- [[focus on what matters]] are holding focus onto [[end goal]] and aware that [[tools]] or [[method]] are just a means to make the process of achieving [[end goal]] become easier and more effective.
-- 
+- Characteristic of what matters
+    - 80/20 principle
+    - ensure moving on the right track
+        - [[built-in feedback loop]]
+- What matters are
+    - end goal instead of means goal or by-product like money, samskaras sastified
+        - [[tools]] or [[method]] are just a means to make the process of achieving [[end goal]] become easier and more effective.
+    - high-quality activities
+        - understanding instead of collecting, 
+        - creating value instead of feeling meaningful, 
+        - moving forward instead of just preparing and watching.
+    - meaningful goal
+        - the impersonal wants
+        - the fun aspects
+        - the meaning aspects

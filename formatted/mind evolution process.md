@@ -20,7 +20,7 @@
 - bởi vì mình thấy là việc này giúp mình lan tỏa được giá trị [creating value](<creating value.md>) hiệu quả hơn, giúp mình có áp lực để nâng cao năng lực [sharpen the saw](<sharpen the saw.md>) của mình, giúp mình có sự tập trung để cô đọng [mind evolution process](<mind evolution process.md>)
 
 ## [September 15th, 2020](<September 15th, 2020.md>)
-- roam is such a useful tool for dumping thoughts and condensing and then dumping thoughts again in a new higher level of concept with less [friction](<friction.md>). I still not clear how the process will work perfectly refined with nearly no [friction](<friction.md>), just like the brain can fluidly upgrade itself. [mind evolution process](<mind evolution process.md>)
+- roam is such a useful tool for dumping thoughts and condensing and then dumping thoughts again in a new higher level of concept with less [reducing friction](<reducing friction.md>). I still not clear how the process will work perfectly refined with nearly no [reducing friction](<reducing friction.md>), just like the brain can fluidly upgrade itself. [mind evolution process](<mind evolution process.md>)
 
 - To condensing thoughts through [mind evolution process](<mind evolution process.md>),
 

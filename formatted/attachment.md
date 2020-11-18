@@ -25,6 +25,3 @@ I also noticed I still have too much [attachment](<attachment.md>)
 ## [TODO](<TODO.md>)
 - "[attachment](<attachment.md>)"
 
-## [focus on what matters](<focus on what matters.md>)
-- [what matters](<what matters.md>) or [end goal](<end goal.md>) are the intention that I make clear in the beginning or intentional adjusting in the process, not the tools or the method I have and grow an [attachment](<attachment.md>)
-

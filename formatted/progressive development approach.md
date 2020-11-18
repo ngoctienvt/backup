@@ -76,7 +76,7 @@
 - To reflect and complete [progressive development approach](<progressive development approach.md>)
 
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
-- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [personal workflow](<personal workflow.md>) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive development approach](<progressive development approach.md>)
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive development approach](<progressive development approach.md>)
 
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [progressive development approach](<progressive development approach.md>)

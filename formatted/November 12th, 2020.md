@@ -2,7 +2,6 @@
 - Breaking things down to make complicated things become simple things [simplify](<simplify.md>)
 - [stage of knowledge development](<stage of knowledge development.md>) ideas, research, experiment, generalize, best practices, optimize or standardize
 - [system thinking](<system thinking.md>) I felt that I started to see the big connection between details like the connection between HTML and CSS, process and procedure, principles and execution...
-- [purpose](<purpose.md>) is a high level [point of focus](<point of focus.md>) to have a [zoom-out point of view](<zoom-out point of view.md>) so that’s I can understand and work on things in a broader level. [system thinking](<system thinking.md>) would require me to have way to see things from top down like concepts, purposes, how, step by step, execution...
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [end goal](<end goal.md>) [process](<process.md>). 
 - the difference between mean goal and [end goal](<end goal.md>) are so. Mena goal will always have ‘so’, while end goal usually direct link to your happiness, most of the time end goal are feeling.
 - [Wild end goals that can lead you to true freedom and happiness](<Wild end goals that can lead you to true freedom and happiness.md>) Able to enjoy experiences that come to me. Able to handle any thoughts and emotions that reemerge inside of me. 

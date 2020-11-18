@@ -17,7 +17,7 @@
         - Detailing what I'm needing to do next for each smaller point
         - Letting go what I don't need to focus now, until reflection later on.
 - I felt that when I'm just working slowly like this, the pattern, the framework is starting to emerge by itself, and my job is only need to pickup it later, instead of focusing too much on it early. [pattern recognition](<pattern recognition.md>)
-- I noticed that I have an uncomfortable feeling when I hear people just want to talk. I have a [judgment](<judgment.md>) about them that it will not gonna work, or I have an attachment with my coaching as a better way to support other people. My [point of focus](<point of focus.md>) has been focus on my tools and what I like to do, instead of support other people.
+- I noticed that I have an uncomfortable feeling when I hear people just want to talk. I have a [judgment](<judgment.md>) about them that it will not gonna work, or I have an attachment with my coaching as a better way to support other people. My [[point of focus has been focus on my tools and what I like to do, instead of support other people.
     - The way I'm talking is more about myself rather than that person. I'm trying to at least have benefits for myself and protect these benefits first. I don't want to do, to spend my effort without any sure compensation back. [need for reciprocal](<need for reciprocal.md>)
 - I noticed that before I try to bring the output to other people, I need to work on myself perfectly first, as I'm the one who I could support first and will be the person who tests my own idea and intention. 
 

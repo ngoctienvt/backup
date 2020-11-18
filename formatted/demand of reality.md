@@ -10,9 +10,9 @@
 
 - There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)
 
-## [October 29th, 2020](<October 29th, 2020.md>)
-How to know what the reality truly need? It's about examining our behaviors, way of living, about seeing how ourselves truly live, instead of based on the world that our mind created. [demand of reality](<demand of reality.md>)
-
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - First, cleaning all of the inner [samskaras](<samskaras.md>). Then I will not have any personal thoughts, personal needs but replacing them with the fuel of inner energy, the evolution of soul, increasing capacity to handle things. It means that raising my soul equal to the [demand of reality](<demand of reality.md>).
+
+## [point of focus](<point of focus.md>)
+- How to know what the reality truly need? It's about examining our behaviors, way of living, about seeing how ourselves truly live, instead of based on the world that our mind created. [demand of reality](<demand of reality.md>)
 

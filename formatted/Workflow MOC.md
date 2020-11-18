@@ -1,9 +1,10 @@
-- [personal workflow](<personal workflow.md>)
 - [workplace](<workplace.md>)
-- [focus on what matters](<focus on what matters.md>)
 - [natural progression](<natural progression.md>)
 - [readiness](<readiness.md>)
-- [point of focus](<point of focus.md>)
+- # Processed
+    - [focus on what matters](<focus on what matters.md>)
+    - [point of focus](<point of focus.md>)
+    - [personal workflow](<personal workflow.md>)
 - ### The end goal of an ideal workflow 
     - An engine process 
         - to grow myself into a great human being

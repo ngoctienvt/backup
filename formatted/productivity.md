@@ -18,7 +18,7 @@
 
 - I started to think that I want to become much more **fluency in [English](<English.md>)** and become a global citizen, by that way, I can reach and create much more value for more people and not limit by Vietnamese people only. [creating value](<creating value.md>). And using English also helps me to use roam much more effectively since I can use unlink references as well when I need later. It will help me to become more productive by **synchronize things** **into one instead of split them**. [productivity](<productivity.md>)
 
-- [friction](<friction.md>) is a big part of [productivity](<productivity.md>),
+- [reducing friction](<reducing friction.md>) is a big part of [productivity](<productivity.md>),
 
 - My thought about the process of productive life is not completed yet. Currently, I knew that soul evolvement is the highest development level that I can work on. And the soul evolves from the stored samskaras on the heart and the mind. By cleaning these things, I made my inner house much cleaner and I can see things much clearer. [soul evolution](<soul evolution.md>) [productivity](<productivity.md>)
 

@@ -49,8 +49,6 @@
 
 - I noticed that my [unattachment centering](<unattachment centering.md>)
 
-- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>)
-
 - I can really feel that I'm becoming more and more clarity, more freedom, and much more cleaner inside. Even though sometimes I will lose myself, I still can easily get my center back. [unattachment centering](<unattachment centering.md>)
 
 ## [November 16th, 2020](<November 16th, 2020.md>)
@@ -133,6 +131,9 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 
 ## [personal end goals](<personal end goals.md>)
 - Developing a way of living to nurture [unattachment centering](<unattachment centering.md>)
+
+## [point of focus](<point of focus.md>)
+- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>)
 
 ## [polestar of my life](<polestar of my life.md>)
 - [unattachment centering](<unattachment centering.md>)
