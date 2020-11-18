@@ -128,4 +128,26 @@
             - What 3 things would boost my productivity if it become my habit?
                 - Sitting on my chair
                 - Writing regularly
-                - 
+            - How I could start to build these habits?
+    - The power of productive downtime
+        - daily highlight - what is my highlight for the day?  what is one thing I want to get done today? 
+        - todo list - morning dump
+        - admin task
+        - Reflection
+            - What are some chunks of the day in which I find myself wasting time  in ways I'd rather not?
+            - What usefull small things could I do with that time instead?
+    - The power of productive procrastination
+        - doing something that's inherently useful for bottom-up knowledge
+        - Reflection
+            - friction and intentional direction is very important  to build up a life that's progressive moving forward.
+- The fun factor
+    - What's the point of life?
+        - Enjoyment
+        - Evolution
+        - Contribution
+    - If we decide what we like and what we won't like, we actually limit and actively make our journey on earth is tough.
+    - Making the process or the journey on earth more fun on each moment, not someday/maybe. [[enjoy the process]]
+    - "have to" versus "get to" - neutralize the negative
+        - I get to do this 
+    - designing enjoyable environment to help digest the experience easier
+    - learning to expand our ability to enjoy the variety of moments 

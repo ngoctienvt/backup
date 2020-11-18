@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
+- Making the process or the journey on earth more fun on each moment, not someday/maybe. [enjoy the process](<enjoy the process.md>)
+
 ## [Hades game](<Hades game.md>)
 - To learn to enjoy the process and release the attachment for trying to be effective and rush through things. [enjoy the process](<enjoy the process.md>)
 
