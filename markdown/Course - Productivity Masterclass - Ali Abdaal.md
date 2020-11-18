@@ -89,3 +89,43 @@
                 - 
             - What would I do if only had half as long to do them?
             - What if I have only next 24 hours?
+    - Pareto principle 
+        - 80% of the result comes from 20% of the effort.
+        - 80% of the output comes from 20% of the input...
+        - significant diminishing returns
+        - What is your end goal here? And what is 20% that I need to do to achieve it?
+        - Continual process of 80/20 and whatever is left. 
+            - Filling the picture is more important than filling the detail.
+        - Reflection
+            - What 20% of my work is driving 80% of my meaningful output?
+                - Meditation
+                - Thinking
+            - What's taking up 80% of my time but not actually contributing much to my outcomes?
+                - Organizing
+                - Youtube/ Facebook/ passive listening...
+    - Newton's first law of motion
+        - An object is at rest or travelling at a constant velocity unless it's acted on by an external, imbalanced force.
+            - If something is still, stay still. If we stay still, it is require external force.
+            - If something is moving, it will keep moving forward. 
+        - It's harder to start something than to continue doing something.
+        - Tips
+            - 2-minute rule - if something takes less than 2 minutes, do it now rather than todo list
+            - 5-minute rule - if we struggle to start with any task,  just do 5 minute of it
+            - do mindless work, setting up things, reduce friction
+            - Keystone habit- if we do one habit, it will lead to other thing
+                - For example, if I have habit to stay sitting on my chair instead of my bed
+- The 3 powers of productivity
+    - The power of habit or consistency
+        - [[habit]] are atomic
+        - [[compound interests]]
+            - The inability to understand exponential function
+        - Skip the need for willpower to close the gap of thoughts and actions
+        - [[samskaras-based solution]] Social contract - public commitment
+        - habit is about identity-change, internal-change, and reinforce the new identity
+            - breaking limiting beliefs, thoughts
+            - breaking the stories that our mind tell to ourselves
+        - Reflection
+            - What 3 things would boost my productivity if it become my habit?
+                - Sitting on my chair
+                - Writing regularly
+                - 
