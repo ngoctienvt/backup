@@ -1,2 +1,67 @@
 - Link: https://carlyanderson.com/members-only/the-upgraded-target-approach-ia
+- ## 2 key concepts
+    - ### The concept of "partnering" with your client
+        - shoulder-to-shoulder, not hierarchical relationship
+        - "partnering" is the concept for three core competencies
+            - [[Establishes and Maintains Agreements]]
+            - [[Cultivates trust and safety]]
+            - [[Facilitates Client Growth]]
+        - Two types of partnering
+            - "process" partnering with client for
+                - overall coaching agreement
+                - each coaching session
+                    - Where are you now?
+                    - Where do you want to be?
+                    - How do you want to close the gap?
+            - partnering as a coaching mindset of "keep the spotlight on the client"
+                - help clients draw out their self-knowledge, instead of bringing our knowledge
+                - invites them to share their experience or generate their own ideas
+                - partners them to transform their learning and insight into action
+    - ### Disctinctions between "who" versus "what" coaching
+        - start to recognize clients as a human being
+        - Bigger Who: Coaching client on their
+            - Vision
+            - Life Purpose
+            - Ideal/Future Self
+        - Little Who: Coaching the "everyday moment by moment self" of the client
+            - Notices emotions, energy shifts, non-verbal cues...
+            - Integrates to uunderstand fully what is being communicated
+            - explore their way of thinking, values, needs, wants, and beliefs patterns of behaviors, thinking or emotions
+        - Bigger What: Coaching "client ideal situation"
+        - Little What: Coaching the "everday moment by moment situation" of the client
+    - Example of who versus what focus
+        - Scenario: your client says they have too much to do and are overwhelemed with projects and tasks.
+        - A “What” focus is on (thing - problems)
+            - better organization methods, 
+            - external focus on others to learn from, 
+            - and/or how to approach from a logical or systematic perspective.
+        - A “Who” focus is on (relationship with things)
+            - the client **relationship** to overwhelm,
+            - which is an internal experience and self-given description of how a person feels about how much they have to do. 
+            - What’s the cause of their overwhelm?
+- The 8 core competencies can be divided into 3 categories:
+    - 1. Target Competencies (5)
+        - [[Demonstrates Ethical Practice]]
+            - "Ethics is knowing the difference between what you have a right to do, and what is right to do." ~ Potter Stewart
+            - Definition: Understands and consistently applies coaching ethics and standards of coaching
+            - Abides by the ICF Code of Ethics and upholds the Core Values
+            - Demonstrates personal integrity, honesty, and confidentiality in all interactions (clients, sponsors, relevant stakeholders)
+            - Is sensitive to clients’ identity, environment, values, experiences, and beliefs
+            - Maintains the distinctions between coaching, consulting, psychotherapy and other support professions…and refers clients to other support professionals, as appropriate
+        - [[Embodies a Coaching Mindset]]
+            - “The more you know yourself, the more patience you have for what you see in others." ~ Eric Erikson
+            - Definition: Develops and maintains a mindset that is open, curious, flexible and client-centered
+            - Acknowledges that clients are responsible for their own choices
+            - Engages in ongoing learning and development as a coach, including ongoing reflective practice
+            - Remains aware of and open to the influence of context and culture on self and others
+            - Develops and maintains the ability to regulate one’s emotions, including mentally and emotionally preparing for sessions
+            - Seeks help from outside sources when necessary
+        - [[Maintains Presence]]
+        - [[Listens Actively]]
+        - [[Evokes awareness]]
+    - 2. Structural Competency (1)
+        - [[Establishes and Maintains Agreements]]
+    - 3. Output Competencies (2)
+        - [[Cultivates trust and safety]]
+        - [[Facilitates Client Growth]]
 - 
