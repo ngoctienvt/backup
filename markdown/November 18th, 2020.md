@@ -1,2 +1,7 @@
 - There is a nightmare that I lost few of my teeth. The fear, anxiety, worry is so strong that I just want to escape that situation. But I practiced remain [[unattachment centering]] this morning to accept even if that's situation happen. Actually it's just accept the movie that my mind created based on the stored samskaras, so first, it's not what happened yet, and even if it's happened, I have no other choice to accept and deal with it. So resistance is unneccessary, embrace is.
-- The ability to embrace the dark side ios 
+- The ability to embrace the [[dark side]] is very important for me. It's half of reality that makes me become stronger, mature, develop true strength, true courage. While the [[light side]] is about developing the compassionate, love, trust,... [[unattachment centering]]
+- Today focus:
+    - Editing video 8
+    - Learning Productivity
+    - Building my workflow
+- 

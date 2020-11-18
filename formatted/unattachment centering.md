@@ -62,6 +62,8 @@ This is a big opportunity for me to learn to handle the societies, my need for c
 ## [November 18th, 2020](<November 18th, 2020.md>)
 - There is a nightmare that I lost few of my teeth. The fear, anxiety, worry is so strong that I just want to escape that situation. But I practiced remain [unattachment centering](<unattachment centering.md>)
 
+- The ability to embrace the [dark side](<dark side.md>) is very important for me. It's half of reality that makes me become stronger, mature, develop true strength, true courage. While the [light side](<light side.md>) is about developing the compassionate, love, trust,... [unattachment centering](<unattachment centering.md>)
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - Meditation is mainly to practice [unattachment centering](<unattachment centering.md>)
 

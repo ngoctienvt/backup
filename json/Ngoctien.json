@@ -43839,9 +43839,51 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605665831559,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605665888144,
-        "string": "The ability to embrace the dark side is very important for me. [[unattachment centering]]",
+        "edit-time": 1605665992792,
+        "string": "The ability to embrace the [[dark side]] is very important for me. It's half of reality that makes me become stronger, mature, develop true strength, true courage. While the [[light side]] is about developing the compassionate, love, trust,... [[unattachment centering]]",
         "uid": "cG2NJCYM8"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605666034840,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605666040765,
+            "string": "Editing video 8",
+            "uid": "j370qocMQ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605666040761,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605666046987,
+            "string": "Learning Productivity",
+            "uid": "hLVza5w6X"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605666046984,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605666057536,
+            "string": "Building my workflow",
+            "uid": "JfhwwFWZZ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605666025023,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605666034843,
+        "string": "Today focus:",
+        "uid": "Ez3iYF2h8"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605666057534,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605666057534,
+        "string": "",
+        "uid": "Gp2G73jwf"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -43849,5 +43891,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605660076855,
     "title": "November 18th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605665901591,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605665901592,
+    "title": "dark side"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605665968134,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605665968135,
+    "title": "light side"
   }
 ]
