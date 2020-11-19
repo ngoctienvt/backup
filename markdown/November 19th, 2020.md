@@ -4,5 +4,9 @@
 Abstract is something that's not easy to visualize and think about, while concrete thinking is much easier to relate to.
 - [[Articles - Concrete vs abstract thinking]]
 - [[Evergreen notes - The invisible limitation]]
-    - 
+    - While I'm doing as a life coach, it's common to see that people are limit their own thinking by what they can think of, instead of just think about what they're truly want.
+    - If they want to go to America, they will say that they want to have a promotion instead. Because the promotion will help them to have money to buy tickets, so that it will POSSIBLE for them to go to America.
+    - This way of thinking is focus on the solution that already have in their head, and the [[means goal]] to help them moving forward that solution.
+    - However, it's an unhelpful approach, because they limit the solution that they can have in the beginning, they also limit that they need to complete these mean goals so that they can possible to achieve what they want.
+    - It's not that it's wrong, it's just that's it's ineffective, and more often, it will make you merry-go-around instead of directly ensure you to achieve your end goal.
 - 
