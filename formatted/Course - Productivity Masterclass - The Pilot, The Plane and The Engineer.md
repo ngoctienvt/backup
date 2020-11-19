@@ -1,0 +1,32 @@
+- Link: https://www.skillshare.com/classes/Productivity-Masterclass-The-Pilot-The-Plane-and-The-Engineer/1036212713?via=user-profile
+- ### The pilot
+    - Brain are for having ideas, not for storing ideas
+    - Setting the intention for the day
+    - The short term
+    - The medium term
+    - The longterm
+    - Horizon of focus - Getting things done
+        - groundwork - calendars and actions
+            - Schedulings and calendars
+                - scheduling life's important events / social events...
+                - time blocking help to focus instead of allow ourselves to be distracted
+                - schedule is flexible, but have the default schedule is important to navigate
+        - projects - more than one step
+            - figure out what TV to buy
+            - building Workflow system
+            - ...
+        - areas of focus and responsibility
+            - house
+            - coaching
+            - relationship
+            - spiritual...
+        - goals and general objectives
+            - goals -> different projects -> different actions
+        - 3-5 year vision
+        - principles and purpose
+- The power of to-do lists
+
+# Backlinks
+## [November 19th, 2020](<November 19th, 2020.md>)
+- [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
+

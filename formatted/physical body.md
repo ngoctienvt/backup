@@ -1,3 +1,6 @@
+- physical health
+- durability
+- strength
 
 # Backlinks
 ## [November 11th, 2020](<November 11th, 2020.md>)

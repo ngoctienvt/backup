@@ -1,0 +1,3 @@
+- physical health
+- durability
+- strength

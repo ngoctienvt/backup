@@ -1,1 +1,2 @@
-- Depend on my 
+- [[coaching reflection]] I still that I'm not able to coach as a level that I want. I will dedicate a period of my time to reflect back the whole coaching competency of myself and develop a plan to raise it to become a true PCC or MCC coach, to meet the level that I want to coach other people.
+- [[Course - Productivity Masterclass - The Pilot, The Plane and The Engineer]]

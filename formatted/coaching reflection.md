@@ -6,6 +6,9 @@
 - integrating between [bottom-up approach](<bottom-up approach.md>) and strecth clients to [closing the gap](<closing the gap.md>)
 
 # Backlinks
+## [November 19th, 2020](<November 19th, 2020.md>)
+- [coaching reflection](<coaching reflection.md>)
+
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - [coaching reflection](<coaching reflection.md>)
 
