@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 19th, 2020](<November 19th, 2020.md>)
+- It's resonate to me that level of thinking is heavily affected by the level of abstraction. [level of thinking](<level of thinking.md>)
+
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - So what coach bring to the session is not their own mind, but their own source so they can always work on a higher [level of thinking](<level of thinking.md>)
 

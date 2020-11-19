@@ -42,6 +42,27 @@
             - background processing
         - areas of focus and list of projects
     - goals
+        - "Life before death, strength before weakness, journey before destination". [wise quotes](<wise quotes.md>)
+        - 3 different types of goal
+            - objective-oriented goal
+            - progress goal - what matter to me and is it progressive?
+            - system goal
+        - goal within our control
+        - goal is good for setting direction, but then forget about it and focus on progress and system
+    - vision and purpose
+        - at some point, we will want to see a wider vision and purpose
+        - have responsibilities for something that greater on ourselves
+        - [Odyssey plan](<Odyssey plan.md>)
+            - In 5 years' time, what would my life look like if I continued down on the exact same path?
+            - In 5 years' time, what would my life look life if I took a completely different path?
+            - In 5 years' time, what would my life look life if money was no object and societal expectations didn't matter at all?
+        - some important area 
+            - personal evolution
+            - personal contribution
+            - personal enjoyment
+            - the relationship between me with my feelings, thoughts, body, and the world?
+- The plane 
+- 
 
 # Backlinks
 ## [November 19th, 2020](<November 19th, 2020.md>)
