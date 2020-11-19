@@ -25,4 +25,5 @@ Abstract is something that's not easy to visualize and think about, while concre
         - to surrender myself more to the reality instead of resist and avoid to embrace responsibilities
         - to re-connect with Mỹ Linh
         - to shift myself to become a much more compress, clarity, lean stage of being
-        - 
+- [my quotes](<my quotes.md>) The ability to identify what’s true instead of what’s seem to be true is the difference between a wise people and a maybe wise people.
+- 

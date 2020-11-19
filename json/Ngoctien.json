@@ -45467,14 +45467,6 @@
                 "edit-time": 1605803163929,
                 "string": "to shift myself to become a much more compress, clarity, lean stage of being",
                 "uid": "tdjtBHtit"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605803163926,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605803163926,
-                "string": "",
-                "uid": "KB6cINVqF"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -45491,6 +45483,22 @@
         "edit-time": 1605802146235,
         "string": "[[daily reflection]] Today I felt that there are few important things that emerging.",
         "uid": "S7CEPAKw2"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605803163926,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605804029049,
+        "string": "[[my quotes]] The ability to identify what\u2019s true instead of what\u2019s seem to be true is the difference between a wise people and a maybe wise people.",
+        "uid": "KB6cINVqF"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605804029095,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605804029095,
+        "string": "",
+        "uid": "E2SXSonMA"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -46568,5 +46576,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605802146242,
     "title": "daily reflection"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605805206348,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605805206353,
+    "title": "November 20th, 2020"
   }
 ]
