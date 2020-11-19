@@ -32,6 +32,9 @@
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [bottom-up approach](<bottom-up approach.md>).
 
+## [November 19th, 2020](<November 19th, 2020.md>)
+- Third is I'm more and more see the power of [bottom-up approach](<bottom-up approach.md>),
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - The [bottom-up approach](<bottom-up approach.md>)
 

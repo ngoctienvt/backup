@@ -9,4 +9,20 @@ Abstract is something that's not easy to visualize and think about, while concre
     - This way of thinking is focus on the solution that already have in their head, and the [[means goal]] to help them moving forward that solution.
     - However, it's an unhelpful approach, because they limit the solution that they can have in the beginning, they also limit that they need to complete these mean goals so that they can possible to achieve what they want.
     - It's not that it's wrong, it's just that's it's ineffective, and more often, it will make you merry-go-around instead of directly ensure you to achieve your end goal.
-- 
+- [[daily reflection]] Today I felt that there are few important things that emerging.
+    - One is I start to write [[Evergreen notes]], and I'm not sure how I will handle them yet, but I will focus on them next for my PKDS projects
+    - Second is I'm starting to learn to organize my life productively by learning about the system of [[Ali Abdaal]] and integrating them with my [[Workflow MOC]]
+    - Third is I'm more and more see the power of [[bottom-up approach]], because they help me to build things naturally and always on the right track. Because the focus point is me, and what's here instead of other people and their ways.
+    - Fourth is coaching is an important [[area of focus]] that I'm not building yet, and I will spend my time for it soon.
+    - This year has been a year of overwhelming for me. Even now I'm looking back, I still can't imagine how much I change from this year and how much things has happened on my life. Many events from 
+        - starting my small company, 
+        - have conflicts with my parents and break up with Thục Linh, 
+        - learning to embrace and let go my fear, need, anger, 
+        - developing my personal knowledge development system
+        - have a coach training, spiritual teaching
+        - choose to follow the international direction, to embrace a bigger world directly by becoming a blogger
+        - and next will be learning about instructional design, and see the big picture of trainer, ID, and expert
+        - to surrender myself more to the reality instead of resist and avoid to embrace responsibilities
+        - to re-connect with Mỹ Linh
+        - to shift myself to become a much more compress, clarity, lean stage of being
+        - 

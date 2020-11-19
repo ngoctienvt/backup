@@ -1,65 +1,82 @@
 - Link: https://www.skillshare.com/classes/Productivity-Masterclass-The-Pilot-The-Plane-and-The-Engineer/1036212713?via=user-profile
-- ### The pilot
-    - Brain are for having ideas, not for storing ideas
-    - Setting the intention for the day
-    - The short term
-    - The medium term
-    - The longterm
-    - Horizon of focus - Getting things done
-        - groundwork - calendars and actions
-            - Schedulings and calendars
+- Tags: #Courses #productivity #learning
+- ### [[the pilot]]
+    - Brain are for having ideas, not for storing ideas [[efficient]]
+    - The pilot is about setting the intention for my life
+        - The short term
+        - The medium term
+        - The longterm
+    - [[horizon of focus]] - Getting things done
+        - groundwork - calendars and tasks
+            - [[scheduling]] and calendars
                 - scheduling life's important events / social events...
                 - time blocking help to focus instead of allow ourselves to be distracted
                 - schedule is flexible, but have the default schedule is important to navigate
-            - The power of to-do lists
+            - The power of to-do lists [[todo list]]
                 - Manage our actions, projects, calendars
-                - might-do list instead of to-do list
+                - might-do list instead of to-do list [[might-do list]]
                     - option to get done from that list
                     - to-do list like putting a weight on ourselves
                     - life always get in the way
                 - to-do list is the list for doing today
-                - only the morning I think as pilot, the rest is plane
-                - daily highlight for the days X
-                - eat a frog - the most unpleasant task 
-                - 1 big task - 3 medium tasks- 5 small tasks
+                - only the morning I think as pilot, the rest is plane 
+                - Application
+                    - daily highlight for the days X
+                    - eat a frog - the most unpleasant task 
+                    - 1 big task - 3 medium tasks- 5 small tasks
+            - **Personal reflection**
+                - [[scheduling]] by using [[time blocking]] help me 
+                    - to stay focus on the short term instead of being distracted
+                    - release the worry about the direction, because it's based on my medium and long term intention.
+                - the point is not to follow what I plan, but having the default schedule helping for navigating in normal circumstances
+                    - by setting up the default intention for each week and each day, it will help me to get out of the tendency to drow in my thougths and my feelings. 
+                    - it's still flexible for me to not follow it exactly, because default means it's for normal circumstances, and it maybe changes according to my own clarity about the moment.
+                - [[might-do list]] is a way to see what I could do that will bring value to me, not about putting weight on myself to must complete it.
+                - scheduling is maybe about a week, while to-do list is for this particular day
         - projects - more than one step
-            - figure out what TV to buy
-            - building Workflow system
-            - ...
+            - the more specific we make our tasks, the more likely we are to get them done
+            - every single project needs to have an viable next action
+            - project lists use the concept of the slow burn - [[progressive approach]]
+                - [[background processing]]
+            - **Personal reflection**
+                - Projects will be a bigger picture for me to see what's the stage I'm on different things that I want to complete. 
+                - Viable next action is important for me to [[reducing friction]] that I need to think what's the task that I need to move forward
+                - doing multiple projects through progressive approach or slow burn is much more enjoyable rather than forcing myself to complete at once, because they are different kind of tasks [[batching methodology]]
         - areas of focus and responsibility
-            - house
-            - coaching
-            - relationship
-            - spiritual...
+            - areas of focus contain list of projects and it holds the big picture of my life
         - goals and general objectives
             - goals -> different projects -> different actions
+            - "Life before death, strength before weakness, journey before destination". [[wise quotes]]
+            - 3 different types of goal
+                - objective-oriented goal
+                - progress goal - what matter to me and is it progressive?
+                - system goal
+            - **Personal reflection**
+                - I also tend to focus more on progress and system goal, because as long as I'm doing the right thing, it will make sure me to have an enjoyable and meaningful life, instead of focusing on the goal and building up unnecessary stress. 
+                - Goal is serve as a direction rather than a pressure and need to within our control instead of chasing means goal 
         - 3-5 year vision
+            - at some point, we will want to see a wider vision and purpose
+            - have responsibilities for something that greater on ourselves
+            - [[Odyssey plan]]
+                - In 5 years' time, what would my life look like if I continued down on the exact same path?
+                - In 5 years' time, what would my life look life if I took a completely different path?
+                - In 5 years' time, what would my life look life if money was no object and societal expectations didn't matter at all?
         - principles and purpose
-    - projects and areas of focus
-        - the more specific we make our tasks, the more likely we are to get them done
-        - every single project needs to have an viable next action
-        - project lists use the concept of the slow burn - [[progressive approach]]
-            - background processing
-        - areas of focus and list of projects
-    - goals
-        - "Life before death, strength before weakness, journey before destination". [[wise quotes]]
-        - 3 different types of goal
-            - objective-oriented goal
-            - progress goal - what matter to me and is it progressive?
-            - system goal
-        - goal within our control
-        - goal is good for setting direction, but then forget about it and focus on progress and system
-    - vision and purpose
-        - at some point, we will want to see a wider vision and purpose
-        - have responsibilities for something that greater on ourselves
-        - [[Odyssey plan]]
-            - In 5 years' time, what would my life look like if I continued down on the exact same path?
-            - In 5 years' time, what would my life look life if I took a completely different path?
-            - In 5 years' time, what would my life look life if money was no object and societal expectations didn't matter at all?
-        - some important area 
-            - personal evolution
-            - personal contribution
-            - personal enjoyment
-            - the relationship between me with my feelings, thoughts, body, and the world?
-- The plane 
-- 
+            - some important area 
+                - personal evolution
+                - personal contribution
+                - personal enjoyment
+                - the relationship between me with my feelings, thoughts, body, and the world?
+    - **Overall reflection for the pilot part**
+        - It's helpful to see the [[horizon of focus]] and having a [[helicopter view]] for my life
+        - The [[helicopter view]] has different zoom-out and zoom-in point of view
+            - Vision and purpose -> goals -> projects -> calendars and tasks
+                - The point of view is bottom-up from 
+                    - what happening in my life now and what I want to do 
+                    - to list of projects that I'm interested on
+                    - to list of process and system goal that support me to complete these projects
+                    - to see the vision and the purpose of my life that I will create based on the direction that I'm going
+            - It's will be important for me to build a [[navigating system]] that holds these different levels of point of view so that I could always make sure 
+                - I'm navigating my life [[on the right track]] 
+                - and they are all sync up and align with each other. [[alignment]]
+- [[the plane]] 

@@ -1,5 +1,5 @@
 
 # Backlinks
-## [point of focus](<point of focus.md>)
+## [horizon of focus](<horizon of focus.md>)
 - [single intention](<single intention.md>)
 

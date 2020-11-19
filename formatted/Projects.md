@@ -12,5 +12,5 @@
 - [Projects](<Projects.md>)
 
 ## [Roam Research keyword rules](<Roam Research keyword rules.md>)
-- capitalize [Schedule](<Schedule.md>) [Projects](<Projects.md>)
+- capitalize [scheduling](<scheduling.md>) [Projects](<Projects.md>)
 

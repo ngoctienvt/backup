@@ -77,6 +77,6 @@
 
 - {{[TODO](<TODO.md>)}
 
-## [point of focus](<point of focus.md>)
+## [horizon of focus](<horizon of focus.md>)
 - {{[TODO](<TODO.md>)}
 

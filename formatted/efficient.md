@@ -6,6 +6,9 @@
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - Time is what we want most, but what we use worst - William Penn [efficient](<efficient.md>)
 
+## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
+- Brain are for having ideas, not for storing ideas [efficient](<efficient.md>)
+
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - logseq is just where I put my inner work to store it out. It's not where the work actually happens. It supports me, but the true work is the [integration](<integration.md>) work that happens inside of me. This is also the most effective work. [efficient](<efficient.md>)
 

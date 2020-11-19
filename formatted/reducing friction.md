@@ -5,6 +5,9 @@
 
 - admin task [reducing friction](<reducing friction.md>)
 
+## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
+- Viable next action is important for me to [reducing friction](<reducing friction.md>)
+
 ## [September 15th, 2020](<September 15th, 2020.md>)
 - [reducing friction](<reducing friction.md>)
 

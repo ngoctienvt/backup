@@ -54,7 +54,7 @@
 - [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)
 
 ## [Roam Research keyword rules](<Roam Research keyword rules.md>)
-- capitalize [Schedule](<Schedule.md>) [Projects](<Projects.md>) [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)
+- capitalize [scheduling](<scheduling.md>) [Projects](<Projects.md>) [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)

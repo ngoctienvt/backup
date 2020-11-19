@@ -1,7 +1,7 @@
 - Characteristic of point of focus
     - [[single intention]]
     - endgoal-oriented  instead of tool-oriented
-        - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [[point of focus]] [[seeking clarity before resolving]]
+        - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [[horizon of focus]] [[seeking clarity before resolving]]
     - external independent
     - process and progress oriented
     - harmony between me, inner energy, and the reality [[bridging]]
@@ -11,11 +11,11 @@
             - [[the impersonal world]] is the reality that truly happens and can't be wrong.
             - [[the makeup world]] is the world that made by our mind based on our samskaras, and it has nothing to do with [[the impersonal world]]
     - focus on true self instead of objects of consciousness
-    - [[purpose]] is a high level [[point of focus]] to have a [[zoom-out point of view]] so that’s I can understand and work on things in a broader level. [[system thinking]] would require me to have way to see things from top down like concepts, purposes, how, step by step, execution...
+    - [[purpose]] is a high level [[horizon of focus]] to have a [[zoom-out point of view]] so that’s I can understand and work on things in a broader level. [[system thinking]] would require me to have way to see things from top down like concepts, purposes, how, step by step, execution...
 - Snowball point of focus
     - [[process-oriented]] focus on the intention and action, not the result
 - Personal point of focus
     - the bridge between shakti, consciousness, and the world by cleaning the blockages
         - [[natural progression]]
-    - [[humility]], [[true love]]. [[inner clarity]] and [[unattachment centering]] are three quality that is my [[point of focus]] currently.  
+    - [[humility]], [[true love]]. [[inner clarity]] and [[unattachment centering]] are three quality that is my [[horizon of focus]] currently.  
     - {{[[TODO]]}} Learning to have a clarity mind and a clear point of focus will be one of my important task for next week [[inner clarity]]

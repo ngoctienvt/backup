@@ -126,14 +126,14 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [helpful manner](<helpful manner.md>)
 - [unattachment centering](<unattachment centering.md>)
 
+## [horizon of focus](<horizon of focus.md>)
+- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>)
+
 ## [interests](<interests.md>)
 - relationship - [true love](<true love.md>) [deep connection](<deep connection.md>) [unattachment](<unattachment.md>) [unattachment centering](<unattachment centering.md>)
 
 ## [personal end goals](<personal end goals.md>)
 - Developing a way of living to nurture [unattachment centering](<unattachment centering.md>)
-
-## [point of focus](<point of focus.md>)
-- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>)
 
 ## [polestar of my life](<polestar of my life.md>)
 - [unattachment centering](<unattachment centering.md>)

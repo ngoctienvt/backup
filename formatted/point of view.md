@@ -1,4 +1,4 @@
-- point of view is the level or the direction of [point of focus](<point of focus.md>) that I'm looking on something.
+- point of view is the level or the direction of [horizon of focus](<horizon of focus.md>) that I'm looking on something.
 - [zoom-out point of view](<zoom-out point of view.md>)
     - It's a view that see the big picture, a helicopter point of view, a high level of seeing the truth
     - Most of the time, it's a disidentification stage of the witness conscious.
