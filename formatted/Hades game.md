@@ -1,6 +1,6 @@
 - Hades is a [dungeon crawler](<dungeon crawler.md>) game  in which you defy the god of the dead as you hack and slash your way out of the Underworld of Greek myth. 
 - My intention for playing this game is
-    - To reflect and complete [progressive development approach](<progressive development approach.md>) as [a way to effective mastery](<a way to effective mastery.md>) in a smaller picture.
+    - To reflect and complete [progressive approach](<progressive approach.md>) as [a way to effective mastery](<a way to effective mastery.md>) in a smaller picture.
     - To learn to enjoy the process and release the attachment for trying to be effective and rush through things. [enjoy the process](<enjoy the process.md>)
 - In this game, I will have multiple pre-choices from
     - weapons 

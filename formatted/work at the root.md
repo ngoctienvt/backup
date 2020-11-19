@@ -8,6 +8,6 @@
 
 - [self-fulfilled](<self-fulfilled.md>) is learn to release the blockages, the urges that want to solve the inner problem with short-term external solutions and able to fulfill myself with all that personal need. The keyword is to [learn](<learn.md>) how to [work at the root](<work at the root.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [getting in touch with reality](<getting in touch with reality.md>) to [work at the root](<work at the root.md>)
 

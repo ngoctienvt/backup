@@ -28,6 +28,6 @@
 ## [mind-training](<mind-training.md>)
 - [creative training](<creative training.md>) creating [optimal conditions](<optimal conditions.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [bottom-up approach](<bottom-up approach.md>) to create [optimal conditions](<optimal conditions.md>)
 

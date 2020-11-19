@@ -19,6 +19,6 @@
 ## [flow state](<flow state.md>)
 - balance between [focus mode](<focus mode.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [focus mode](<focus mode.md>)
 

@@ -12,5 +12,5 @@
 - The highest things that the soul need to do is [handle](<handle.md>) and [merging](<merging.md>)
 
 ## [life](<life.md>)
-- This [progressive development approach](<progressive development approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>)
+- This [progressive approach](<progressive approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>)
 

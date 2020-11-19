@@ -21,7 +21,7 @@
         - "Breakdown the levels"
             - approach that include the requirement end goal
                 - What is the approach to develop my personal knowledge?
-                    - [progressive development approach](<progressive development approach.md>)
+                    - [progressive approach](<progressive approach.md>)
                         - [top-down approach](<top-down approach.md>)
                         - [bottom-up approach](<bottom-up approach.md>) [processed](<processed.md>)
             - method or process of my personal knowledge management system

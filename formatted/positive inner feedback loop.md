@@ -15,6 +15,6 @@
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - When the trees are gathered enough, we will start developing a need to condense them naturally, because we will feel that they are clustering and need to resolve when the materials are ready. [clustering](<clustering.md>) [positive inner feedback loop](<positive inner feedback loop.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [positive inner feedback loop](<positive inner feedback loop.md>)
 

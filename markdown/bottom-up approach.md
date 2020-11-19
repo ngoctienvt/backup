@@ -1,6 +1,6 @@
-- ### Related: [[progressive development approach]]
+- ### Related: [[progressive approach]]
 - ### Definition:
-    - [[bottom-up approach]] is an approach that a part of [[progressive development approach]]
+    - [[bottom-up approach]] is an approach that a part of [[progressive approach]]
         - for solving big problems
         - learning any thing
         - or achieving any end goals

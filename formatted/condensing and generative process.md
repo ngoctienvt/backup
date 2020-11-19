@@ -15,6 +15,6 @@
 ## [interests](<interests.md>)
 - wisdom - [condensing and generative process](<condensing and generative process.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - Reflection after each learning to condense knowledges and experiences. [condensing and generative process](<condensing and generative process.md>)
 

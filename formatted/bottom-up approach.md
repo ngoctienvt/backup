@@ -1,6 +1,6 @@
-- ### Related: [progressive development approach](<progressive development approach.md>)
+- ### Related: [progressive approach](<progressive approach.md>)
 - ### Definition:
-    - [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive development approach](<progressive development approach.md>)
+    - [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
         - for solving big problems
         - learning any thing
         - or achieving any end goals
@@ -70,12 +70,12 @@
 
 - [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>).
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive development approach](<progressive development approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>) and [bottom-up approach](<bottom-up approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>) and [bottom-up approach](<bottom-up approach.md>)
 
 ## [network note-taking](<network note-taking.md>)
-- My usage of network note-taking will be based on [progressive development approach](<progressive development approach.md>) with the main approach is [bottom-up approach](<bottom-up approach.md>).
+- My usage of network note-taking will be based on [progressive approach](<progressive approach.md>) with the main approach is [bottom-up approach](<bottom-up approach.md>).
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 -  [bottom-up approach](<bottom-up approach.md>)
 
 - [bottom-up approach](<bottom-up approach.md>)

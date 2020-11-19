@@ -65,6 +65,6 @@
 ## [network note-taking](<network note-taking.md>)
 - While maintaining a flexible way to handle these [atomic concept](<atomic concept.md>) as well as [Evergreen notes](<Evergreen notes.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [Evergreen notes](<Evergreen notes.md>)
 

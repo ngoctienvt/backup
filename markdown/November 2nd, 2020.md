@@ -26,7 +26,7 @@ I'm on the process to learn to lean myself away from my inner stuff and my inner
 - I also learn to create my own [[personal knowledge development]] system in a way that it fully makes sense to me.
 - 
 - 
-- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [[output mechanism]] [[living from the place of surrender]] [[progressive development approach]] [[From idea to production]]
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [[output mechanism]] [[living from the place of surrender]] [[progressive approach]] [[From idea to production]]
     - https://twitter.com/Roamfu/status/1293505256962183170
     - https://www.roambrain.com/roam-and-your-idea-to-reality-production-stack/
 - 

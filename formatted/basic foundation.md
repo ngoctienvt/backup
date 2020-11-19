@@ -9,7 +9,7 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - [basic foundation](<basic foundation.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - building [basic foundation](<basic foundation.md>)
 
 - The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>)

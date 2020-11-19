@@ -23,6 +23,6 @@
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - I noticed that I could always temporary stop or find a work around while I got stuck, I always have a choice, and the highest choice most of the time is [being mode](<being mode.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>) = [being mode](<being mode.md>)
 

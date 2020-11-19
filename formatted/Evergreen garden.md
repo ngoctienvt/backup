@@ -21,6 +21,6 @@
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - For example, [Evergreen garden](<Evergreen garden.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - creating an [Evergreen garden](<Evergreen garden.md>)
 

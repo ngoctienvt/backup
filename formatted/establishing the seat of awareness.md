@@ -27,7 +27,7 @@ It's like creating a gap between my perception based on samskaras and the truth,
 
 - Practices the [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
 ## [sexual desire](<sexual desire.md>)

@@ -1,8 +1,8 @@
 - [[polestar of my life]] The core direction of living a surrender life
-    - living an [[impactful life]] that happens as natural results of practicing [[progressive development approach]] in a daily manner
+    - living an [[impactful life]] that happens as natural results of practicing [[progressive approach]] in a daily manner
 - ### Core principles
     - a continuously refining [[polestar of my life]]
-    - [[progressive development approach]] for a natural progression
+    - [[progressive approach]] for a natural progression
         - focus on natural [[cleaning and integrating process]] and [[accumulate thought process]] to acquire [[readiness]] for the unpredictable unfolding of life
         - moving through life with learning attitude and trust the process
 - ### Components of living a surrender life

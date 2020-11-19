@@ -49,7 +49,7 @@
     - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
     - Sometimes __top-down__ creates meaning: Index » MOC » Note
     - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index
-- The [[starting point]] of everything is established a solidify [[basic foundation]] so that I can come back at any time. The role of a basic foundation is to establish a [[top-down approach]], a broad viewpoint that includes things I want to work on. It would help to set me a [[truth compass]] to come back when I feel lost or to expand myself based on the experience that I gained. [[life flow]] [[progressive development approach]]
+- The [[starting point]] of everything is established a solidify [[basic foundation]] so that I can come back at any time. The role of a basic foundation is to establish a [[top-down approach]], a broad viewpoint that includes things I want to work on. It would help to set me a [[truth compass]] to come back when I feel lost or to expand myself based on the experience that I gained. [[life flow]] [[progressive approach]]
     - The reason to have a [[starting point]] is to realize that things have different levels or different progress to work on. [[top-down approach]] The starting point is established by 
         - learning and getting used to what's possible, 
         - what's the floor and what's the possible ceiling?
@@ -63,7 +63,7 @@
         - Reflection after each learning to condense knowledges and experiences. [[condensing and generative process]]
     - The third step is going beyond.
         - Come back to the foundation and start to [[bottom-up approach things.
-- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [[progressive development approach]]
+- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [[progressive approach]]
     - The [[top of the ceiling]] is about all 4 broad elements of the world, the nature of each of them, and the relationship of them.
     - The [[bottom of the floor]] is about the actual experience of each moment and the interaction of each moment with the 4 elements.
     - The middle is the human life that happens in the world based on the tools that the conscious have: emotions, mind, body.

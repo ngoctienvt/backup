@@ -15,6 +15,6 @@ This helps us to see life in a much broader picture so that what we need to reso
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - The ability to recognize [emergence](<emergence.md>) is good, but the ability to [design for emergence](<design for emergence.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [design for emergence](<design for emergence.md>)
 

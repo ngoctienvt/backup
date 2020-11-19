@@ -49,7 +49,7 @@
     - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
     - Sometimes __top-down__ creates meaning: Index » MOC » Note
     - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive development approach](<progressive development approach.md>)
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
     - The reason to have a [starting point](<starting point.md>) is to realize that things have different levels or different progress to work on. [top-down approach](<top-down approach.md>) The starting point is established by 
         - learning and getting used to what's possible, 
         - what's the floor and what's the possible ceiling?
@@ -63,58 +63,61 @@
         - Reflection after each learning to condense knowledges and experiences. [condensing and generative process](<condensing and generative process.md>)
     - The third step is going beyond.
         - Come back to the foundation and start to [[bottom-up approach things.
-- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive development approach](<progressive development approach.md>)
+- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive approach](<progressive approach.md>)
     - The [top of the ceiling](<top of the ceiling.md>) is about all 4 broad elements of the world, the nature of each of them, and the relationship of them.
     - The [bottom of the floor](<bottom of the floor.md>) is about the actual experience of each moment and the interaction of each moment with the 4 elements.
     - The middle is the human life that happens in the world based on the tools that the conscious have: emotions, mind, body.
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
-- Complementing [complement](<complement.md>) [progressive development approach](<progressive development approach.md>)
+- Complementing [complement](<complement.md>) [progressive approach](<progressive approach.md>)
+
+## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
+- project lists use the concept of the slow burn - [progressive approach](<progressive approach.md>)
 
 ## [Hades game](<Hades game.md>)
-- To reflect and complete [progressive development approach](<progressive development approach.md>)
+- To reflect and complete [progressive approach](<progressive approach.md>)
 
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
-- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive development approach](<progressive development approach.md>)
+- ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive approach](<progressive approach.md>)
 
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [progressive development approach](<progressive development approach.md>)
+- [progressive approach](<progressive approach.md>)
 
 ## [TODO](<TODO.md>)
-- [progressive development approach](<progressive development approach.md>)
+- [progressive approach](<progressive approach.md>)
 
 ## [bottom-up approach](<bottom-up approach.md>)
-- ### Related: [progressive development approach](<progressive development approach.md>)
+- ### Related: [progressive approach](<progressive approach.md>)
 
-- [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive development approach](<progressive development approach.md>)
+- [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
 
 ## [intention](<intention.md>)
-- [progressive development approach](<progressive development approach.md>)
+- [progressive approach](<progressive approach.md>)
 
 ## [journaling training](<journaling training.md>)
-- [progressive development approach](<progressive development approach.md>)
+- [progressive approach](<progressive approach.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive development approach](<progressive development approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>)
 
-- This [progressive development approach](<progressive development approach.md>)
+- This [progressive approach](<progressive approach.md>)
 
-- This [progressive development approach](<progressive development approach.md>)
+- This [progressive approach](<progressive approach.md>)
 
 ## [living from the place of surrender](<living from the place of surrender.md>)
-- living an [impactful life](<impactful life.md>) that happens as natural results of practicing [progressive development approach](<progressive development approach.md>)
+- living an [impactful life](<impactful life.md>) that happens as natural results of practicing [progressive approach](<progressive approach.md>)
 
-- [progressive development approach](<progressive development approach.md>)
+- [progressive approach](<progressive approach.md>)
 
 ## [network note-taking](<network note-taking.md>)
-- My usage of network note-taking will be based on [progressive development approach](<progressive development approach.md>)
+- My usage of network note-taking will be based on [progressive approach](<progressive approach.md>)
 
-## [progressive development approach](<progressive development approach.md>)
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
 
-- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive development approach](<progressive development approach.md>)
+- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive approach](<progressive approach.md>)
 
 ## [true happiness](<true happiness.md>)
-- seeking and living the truth on a [progressive development approach](<progressive development approach.md>)
+- seeking and living the truth on a [progressive approach](<progressive approach.md>)
 

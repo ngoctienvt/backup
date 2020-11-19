@@ -67,9 +67,9 @@ I noticed that when I'm approaching things to train others, I like to work from 
 
 - [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive development approach](<progressive development approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [top-down approach](<top-down approach.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 -  [top-down approach](<top-down approach.md>)
 
 - The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>),

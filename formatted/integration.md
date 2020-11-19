@@ -63,6 +63,6 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [natural progression](<natural progression.md>)
 - [integration](<integration.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [integration](<integration.md>)
 

@@ -17,6 +17,6 @@
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - [built-in feedback loop](<built-in feedback loop.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - looping with [built-in feedback loop](<built-in feedback loop.md>)
 

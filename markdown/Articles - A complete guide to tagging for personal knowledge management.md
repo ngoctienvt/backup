@@ -13,7 +13,7 @@
         - Searching relies on declarative memory – remembering and entering the precise contents of a file – which is a higher-level brain function that consumes a lot of energy.
         - Searching relies on declarative memory – remembering and entering the precise contents of a file – which is a higher-level brain function that consumes a lot of energy. [[declarative memory]]
         - Manual navigation, on the other hand, relies on procedural memory. This kind of memory uses “older” parts of the brain that developed to navigate spatial environments, and thus comes to us more naturally. [[procedural memory]]
-    - Complementing [[complement]] [[progressive development approach]]
+    - Complementing [[complement]] [[progressive approach]]
         - But the **weakness of hierarchical systems** is that **knowledge remains siloed** from other ideas that could spark interesting connections.
         - **Adding a network** to our file systems can help us **preserve the benefits of hierarchy**, while infusing it with **cross-connections and associations.** Thinking of tags as “tunnels” through our knowledge connection allows us to make use of our rich understanding of humans’ relationship to physical space.
             - Tunnels have a beginning and an end, a top and a bottom. We are comfortable navigating tunnels.

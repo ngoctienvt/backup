@@ -21,6 +21,6 @@
 ## [intention](<intention.md>)
 - have a attitude to [enjoy the process](<enjoy the process.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - focused on [enjoy the process](<enjoy the process.md>)
 

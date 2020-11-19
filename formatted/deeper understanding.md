@@ -33,7 +33,7 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - For example, [deeper understanding](<deeper understanding.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>)
 
 ## [soul evolution](<soul evolution.md>)

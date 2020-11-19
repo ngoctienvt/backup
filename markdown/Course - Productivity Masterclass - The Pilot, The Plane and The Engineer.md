@@ -11,6 +11,17 @@
                 - scheduling life's important events / social events...
                 - time blocking help to focus instead of allow ourselves to be distracted
                 - schedule is flexible, but have the default schedule is important to navigate
+            - The power of to-do lists
+                - Manage our actions, projects, calendars
+                - might-do list instead of to-do list
+                    - option to get done from that list
+                    - to-do list like putting a weight on ourselves
+                    - life always get in the way
+                - to-do list is the list for doing today
+                - only the morning I think as pilot, the rest is plane
+                - daily highlight for the days X
+                - eat a frog - the most unpleasant task 
+                - 1 big task - 3 medium tasks- 5 small tasks
         - projects - more than one step
             - figure out what TV to buy
             - building Workflow system
@@ -24,4 +35,10 @@
             - goals -> different projects -> different actions
         - 3-5 year vision
         - principles and purpose
-- The power of to-do lists
+    - projects and areas of focus
+        - the more specific we make our tasks, the more likely we are to get them done
+        - every single project needs to have an viable next action
+        - project lists use the concept of the slow burn - [[progressive approach]]
+            - background processing
+        - areas of focus and list of projects
+    - goals

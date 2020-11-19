@@ -41,7 +41,7 @@ If we want to protect ourselves, focus on the hole or what's lacking on argument
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - based on the [truth compass](<truth compass.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>)
 
 ## [spiritual growth](<spiritual growth.md>)

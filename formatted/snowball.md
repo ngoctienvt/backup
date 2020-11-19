@@ -17,7 +17,7 @@
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - [self-generated motivation](<self-generated motivation.md>) for [snowball](<snowball.md>)
 
-## [progressive development approach](<progressive development approach.md>)
+## [progressive approach](<progressive approach.md>)
 - [setting up for success](<setting up for success.md>) to create [snowball](<snowball.md>)
 
 ## [snowball effect](<snowball effect.md>)
