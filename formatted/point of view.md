@@ -7,6 +7,9 @@
     - Most of the time, it's a identification stage of the witness conscious.
 
 # Backlinks
+## [November 20th, 2020](<November 20th, 2020.md>)
+- I started to have a vertical structure about [level of thinking](<level of thinking.md>) related to [horizon of focus](<horizon of focus.md>), review, and zoom-in or zoom-out [point of view](<point of view.md>)
+
 ## [November 5th, 2020](<November 5th, 2020.md>)
 - It's very important to have [point of view](<point of view.md>)
 

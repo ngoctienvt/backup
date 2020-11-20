@@ -35,6 +35,9 @@
 ## [November 19th, 2020](<November 19th, 2020.md>)
 - Third is I'm more and more see the power of [bottom-up approach](<bottom-up approach.md>),
 
+## [November 20th, 2020](<November 20th, 2020.md>)
+- [bottom-up approach](<bottom-up approach.md>)
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - The [bottom-up approach](<bottom-up approach.md>)
 

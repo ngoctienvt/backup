@@ -174,3 +174,23 @@
             - drinking more water
             - Pick Up Limes youtube channel
         - exercies
+    - daily review - the log book
+    - **weekly review - the operating system**
+        - tighten system up and make sure they are not become chaos [[solidify]]
+        - clarity
+        - Reflect 
+        - Organize
+            - get clear
+                - one touch to inbox zero
+                    - actionability
+                - empty our head
+                    - projects, ideas, tasks...
+            - email
+            - calendar
+            - desktop/downloads
+            - notes
+            - tasks/ projects/ 
+    - monthly review - the system check
+        - goals/ vision and purpose
+- the fun factor
+    - the stories that our mind say

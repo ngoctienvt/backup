@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 20th, 2020](<November 20th, 2020.md>)
+- And the level of my review will be based on these level of focus [reflection](<reflection.md>)
+
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - [deep coaching](<deep coaching.md>) In deep coaching, it's important to notice the intersection that makes clients going out instead of work on themselves. It's the part that they can't handle inside so they use outside to serve as a solution. [reflection](<reflection.md>)
 

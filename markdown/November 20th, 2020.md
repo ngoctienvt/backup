@@ -3,3 +3,22 @@
     - Learning productivity class
     - Completing edit course 8
     - Developing Workflow and PKDS
+- I started to have a vertical structure about [[level of thinking]] related to [[horizon of focus]], review, and zoom-in or zoom-out [[point of view]]
+    - [[horizon of focus]]
+        - Tasks and actions are what I will focus to complete on daily basis, and these things help me to progress on my projects
+        - projects are a big picture of tasks and actions that I will need to work on
+        - While projects will be about make sure me to move forward certain unfolding direction and develop myself over the course - it will be leverage my process or system goal
+        - and while I keep doing good on improving my process or system goal, my vision and purpose in life start to clearer to see how my life is unfolding. 
+
+It's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [[Life Polestar]] that will help me align my goal/projects/tasks and actions in a way that serve my life purpose when I aware of it. [[alignment]]  
+    - And the level of my review will be based on these level of focus [[reflection]] [[horizon of reflection]]
+        -  a daily review will be more about what I did today, and what I noticed about myself, or what's emerging - noticing what's emerging
+        - while a weekly review is about project levels. It's about collecting what I want to do, to learn - capturing what's emerging to work on
+        - and a monthly review is about working to improve my process or system so that I will live much more effective, reducing friction, cleaning big stuff - learning to be efficient
+        - a mid year review is about seeing the direction that I'm moving on and work on top-down bottom to make sure that everything's [[on the right track]]
+    - and I saw that there is something emerge about [[horizon of mastery]]
+        - to mastery something, it's also start with a kind of outline picture - shaping
+        - then there will be important components that I need to master - core components
+        - then there could be improve and optimize it over time - creation/ flexibility
+        - My [[training method]] would be about focus on the first two stages - it's more concrete and less abstract
+    - [[bottom-up approach]] will help us to aware and notice what the 

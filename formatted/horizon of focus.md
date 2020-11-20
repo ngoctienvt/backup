@@ -32,6 +32,11 @@
 
 - It's helpful to see the [horizon of focus](<horizon of focus.md>)
 
+## [November 20th, 2020](<November 20th, 2020.md>)
+- I started to have a vertical structure about [level of thinking](<level of thinking.md>) related to [horizon of focus](<horizon of focus.md>),
+
+- [horizon of focus](<horizon of focus.md>)
+
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - When bathing, I noticed that how I look at and name things is different depends on the view [horizon of focus](<horizon of focus.md>)
 
