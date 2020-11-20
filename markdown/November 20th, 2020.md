@@ -1,0 +1,5 @@
+- I dreamt that I joined a class on TGM. I don't feel natural and feel that I have many judgements, resistances, and sense of superiority because I may know the truth, and they are not. I know what is right and they don't. [[humility]]
+- Today focus:
+    - Learning productivity class
+    - Completing edit course 8
+    - Developing Workflow and PKDS
