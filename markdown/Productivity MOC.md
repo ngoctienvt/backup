@@ -1,14 +1,24 @@
 - Resources
 - 
 - Outline
-- [[the pilot]]
-    - [[living from the place of surrender]]
+- [[The Pilot MOC]]
     - [[horizon of focus]]
-- [[the plane]]
+    - [[focus on what matters]]
+- [[The Plane MOC]]
     - [[Workflow MOC]]
-- [[the engineer]]
+- [[The Engineer MOC]]
     - [[Working Zone MOC]]
     - [[Support system MOC]]
-    - [[PKDS - Personal Knowledge Development System MOC]]
-- Workplace
-    - 
+        - ### Tools
+            - [[workplace]]
+                - inbox
+                - main work
+                - expanding questions 
+                - storing and cleaning
+            - Roam Research for personal knowledge development
+            - Notion for writing and team collaboration
+            - Automation
+        - [[PKDS - Personal Knowledge Development System MOC]]
+        - [[workplace]] - environment
+    - [[energy management]]
+- 

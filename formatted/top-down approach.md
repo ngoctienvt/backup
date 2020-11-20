@@ -12,6 +12,9 @@
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
 - The [training method](<training method.md>) of Michael Singer is teaching students from a [top-down approach](<top-down approach.md>)
 
+## [November 20th, 2020](<November 20th, 2020.md>)
+- [bottom-up approach](<bottom-up approach.md>) will help us to aware and notice what's the direction that universe wants us to do, while [top-down approach](<top-down approach.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [top-down approach](<top-down approach.md>)[
 

@@ -35,6 +35,9 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 
 - I also felt that I developed a desire for toughing with myself and with the person who want to follow or work with me as well. I still felt that this desire still have the part that personal which is about my ideas about how others should  be, but it also have an impersonal part which is together we [serving the demand of reality](<serving the demand of reality.md>)
 
+## [The Pilot MOC](<The Pilot MOC.md>)
+- contribution [serving the demand of reality](<serving the demand of reality.md>)
+
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - [serving the demand of reality](<serving the demand of reality.md>)
 

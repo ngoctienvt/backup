@@ -43,6 +43,9 @@
 ## [Productivity MOC](<Productivity MOC.md>)
 - [horizon of focus](<horizon of focus.md>)
 
+## [The Pilot MOC](<The Pilot MOC.md>)
+- top-down direction [horizon of focus](<horizon of focus.md>)
+
 ## [Workflow MOC](<Workflow MOC.md>)
 - [horizon of focus](<horizon of focus.md>)
 

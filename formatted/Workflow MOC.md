@@ -1,4 +1,3 @@
-- [workplace](<workplace.md>)
 - [natural progression](<natural progression.md>)
 - [readiness](<readiness.md>)
 - # Processed
@@ -36,15 +35,6 @@
     - resistance with physical body, 
     - dream, sleep and relax tendency
     - unclear intention
-- ### Tools - support system
-    - [workplace](<workplace.md>)
-        - inbox
-        - main work
-        - expanding questions 
-        - storing and cleaning
-    - Roam Research for personal knowledge development
-    - Notion for writing and team collaboration
-    - Automation
 - ### Workflow activities
     - ### General workflow
         - Reflection
@@ -91,4 +81,7 @@
 
 ## [Productivity MOC](<Productivity MOC.md>)
 - [Workflow MOC](<Workflow MOC.md>)
+
+## [The Pilot MOC](<The Pilot MOC.md>)
+- Developing [Workflow MOC](<Workflow MOC.md>)
 

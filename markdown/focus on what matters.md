@@ -3,13 +3,15 @@
     - ensure moving on the right track
         - [[built-in feedback loop]]
 - What matters are
-    - end goal instead of means goal or by-product like money, samskaras sastified
-        - [[tools]] or [[method]] are just a means to make the process of achieving [[end goal]] become easier and more effective.
-    - high-quality activities
+    - direction 
+        - end goal instead of means goal or by-product like money, samskaras sastified
+            - [[tools]] or [[method]] are just a means to make the process of achieving [[end goal]] become easier and more effective.
+        - meaningful goal
+            - the impersonal wants
+            - the fun aspects
+            - the meaning aspects
+    - efficient - high-quality activities
         - understanding instead of collecting, 
         - creating value instead of feeling meaningful, 
         - moving forward instead of just preparing and watching.
-    - meaningful goal
-        - the impersonal wants
-        - the fun aspects
-        - the meaning aspects
+    - enjoy, having fun

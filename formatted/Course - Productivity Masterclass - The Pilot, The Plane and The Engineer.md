@@ -1,6 +1,6 @@
 - Link: https://www.skillshare.com/classes/Productivity-Masterclass-The-Pilot-The-Plane-and-The-Engineer/1036212713?via=user-profile
 - Tags: [Courses](<Courses.md>) [productivity](<productivity.md>) [learning](<learning.md>)
-- ### [the pilot](<the pilot.md>)
+- ### [The Pilot MOC](<The Pilot MOC.md>)
     - Brain are for having ideas, not for storing ideas [efficient](<efficient.md>)
     - The pilot is about setting the intention for my life
         - The short term
@@ -79,7 +79,7 @@
             - It's will be important for me to build a [navigating system](<navigating system.md>) that holds these different levels of point of view so that I could always make sure 
                 - I'm navigating my life [on the right track](<on the right track.md>) 
                 - and they are all sync up and align with each other. [alignment](<alignment.md>)
-- ### [the plane](<the plane.md>) 
+- ### [The Plane MOC](<The Plane MOC.md>) 
     - 3 functions
         - take off safely
             - hacking [motivation](<motivation.md>) - hacking brain to just get started
@@ -125,7 +125,7 @@
                 - see deadline as real
             - the reioff principle
                 - sometimes write the day off for relax and release fully
-- [the engineer](<the engineer.md>)
+- [The Engineer MOC](<The Engineer MOC.md>)
     - speed
     - fuel-efficient
         - less mental bandwith
