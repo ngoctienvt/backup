@@ -144,8 +144,14 @@
                 - a system to offload our brain
                 - write down open loop
             - Clarify
-                - a clear defined next step / viable next actions
-                - 
+                - a clear defined next step / viable next action
+                - action words
             - Organize
+                - Projects / areas
+                - Tagging
             - Reflect
+                - 
             - Engage
+                - Actually do the thing
+    - Digital productivity
+        - 
