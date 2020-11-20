@@ -6,8 +6,7 @@
 - [Projects](<Projects.md>)
 - ### Priority MOC
 - [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [Working Zone MOC](<Working Zone MOC.md>)
-- [Workflow MOC](<Workflow MOC.md>)
+- [Productivity MOC](<Productivity MOC.md>)
 - ### Low priority MOC
 - [Coaching MOC](<Coaching MOC.md>)
 - [Training MOC](<Training MOC.md>)
@@ -15,6 +14,5 @@
 - [People](<People.md>)
 - [Resources](<Resources.md>)
 - Smaller MOC working on
-    - [Support system MOC](<Support system MOC.md>)
-    - [Areas](<Areas.md>)
+    - [Area of Focus](<Area of Focus.md>)
     - 

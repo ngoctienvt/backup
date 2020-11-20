@@ -19238,8 +19238,8 @@
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1601994712873,
-    "title": "Areas"
+    "edit-time": 1605864520221,
+    "title": "Area of Focus"
   },
   {
     "children": [
@@ -38026,19 +38026,11 @@
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604891949143,
+        "create-time": 1605864378982,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604892505045,
-        "string": "[[Working Zone MOC]]",
-        "uid": "U398pPbfU"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1604892758262,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604900907427,
-        "string": "[[Workflow MOC]]",
-        "uid": "PQ_NojI8W"
+        "edit-time": 1605864385340,
+        "string": "[[Productivity MOC]]",
+        "uid": "VVWY9wGH_"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -38093,18 +38085,10 @@
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1604892991799,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604893000929,
-            "string": "[[Support system MOC]]",
-            "uid": "_LOIw8pWo"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605614293091,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605623883359,
-            "string": "[[Areas]]",
+            "edit-time": 1605864520221,
+            "string": "[[Area of Focus]]",
             "uid": "r2lHpP6hy"
           },
           {
@@ -46859,9 +46843,67 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605860516990,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605860516990,
-                "string": "",
+                "edit-time": 1605864669238,
+                "string": "https://digitalproductivity.coach/",
                 "uid": "e0Mo7_00p"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605864692715,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605864721274,
+                    "string": "comfortable work with documents, emails, information...",
+                    "uid": "sDIuMiI8b"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605864721271,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605864896807,
+                    "string": "typing",
+                    "uid": "AjYlifjmg"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605864896789,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605864900425,
+                    "string": "keyboard shortcut",
+                    "uid": "6VVWVb9Rd"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605864900418,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605864911325,
+                    "string": "task management for capture [[open loop]]",
+                    "uid": "AoSWMcBU3"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605864911318,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605864942666,
+                    "string": "calendars",
+                    "uid": "OVHfPPdSX"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605864942651,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605864976237,
+                    "string": "note-taking - Roam Research",
+                    "uid": "YnRHrl0jw"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605864669231,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605864692721,
+                "string": "[[digital fluency]]",
+                "uid": "62EdRoUAN"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -46870,6 +46912,110 @@
             "edit-time": 1605860516993,
             "string": "Digital productivity",
             "uid": "5_m6Y6XdB"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605865171460,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605865175416,
+                    "string": "don't take phone on bed",
+                    "uid": "3g0I1cxOG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605865175411,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605865211425,
+                    "string": "kindle/ ipad/ books for reading",
+                    "uid": "qd7V-RuZD"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605865211419,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605865218071,
+                    "string": "blackout curtains",
+                    "uid": "h9-5hjDmw"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605865318180,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605865319130,
+                        "string": "Flux",
+                        "uid": "rJsNWid3_"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605865319123,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605865321768,
+                        "string": "yellow light",
+                        "uid": "cVG8rrxcp"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605865218067,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605865260520,
+                    "string": "avoid blue light exposure",
+                    "uid": "pOAaafeNk"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605865093296,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605865171467,
+                "string": "sleep",
+                "uid": "-pZI5_bn0"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605865391491,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605865413427,
+                    "string": "drinking more water",
+                    "uid": "XuvKtkXuB"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605865413419,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605865461292,
+                    "string": "Pick Up Limes youtube channel",
+                    "uid": "bdDJ01Y1G"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605865321762,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605865391503,
+                "string": "nutrition",
+                "uid": "c1jof40hp"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605865461283,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605865473049,
+                "string": "exercies",
+                "uid": "j6gX4_pXT"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605865078831,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605865482825,
+            "string": "health and wellbeing [[energy management]]",
+            "uid": "NrMwcdgO9"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -47307,5 +47453,148 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605859393838,
     "title": "the engineer"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605864552127,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605864562330,
+        "string": "Resources",
+        "uid": "vksTVVNZD"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605864562327,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605864562327,
+        "string": "",
+        "uid": "R8K8HM-26"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605864550118,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605864554869,
+        "string": "Outline",
+        "uid": "1XhvLzwZx"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605864460569,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605864466516,
+            "string": "[[living from the place of surrender]]",
+            "uid": "SFiz4Ley4"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605864468241,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605864471628,
+            "string": "[[horizon of focus]]",
+            "uid": "-UEoNffr0"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605864426049,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605864429440,
+        "string": "[[the pilot]]",
+        "uid": "bt8bATQ6k"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604892758262,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605864392079,
+            "string": "[[Workflow MOC]]",
+            "uid": "PQ_NojI8W"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605864429438,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605864432378,
+        "string": "[[the plane]]",
+        "uid": "gN-nlPEkd"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604891949143,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605864392079,
+            "string": "[[Working Zone MOC]]",
+            "uid": "U398pPbfU"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1604892991799,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605864405964,
+            "string": "[[Support system MOC]]",
+            "uid": "_LOIw8pWo"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605864478280,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605864483841,
+            "string": "[[PKDS - Personal Knowledge Development System MOC]]",
+            "uid": "ZCg0c_ov2"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605864437198,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605864441038,
+        "string": "[[the engineer]]",
+        "uid": "6CFcMVZoY"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605864545534,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605864545534,
+            "string": "",
+            "uid": "QadsFV3G1"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605864540031,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605864545537,
+        "string": "Workplace",
+        "uid": "_pDJME4Lw"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605864385341,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605864385343,
+    "title": "Productivity MOC"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605864692723,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605864692726,
+    "title": "digital fluency"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605864911326,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605864911328,
+    "title": "open loop"
   }
 ]

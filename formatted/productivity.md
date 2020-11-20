@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Areas](<Areas.md>)
+## [Area of Focus](<Area of Focus.md>)
 - [productivity](<productivity.md>)
 
 ## [October 10th, 2020](<October 10th, 2020.md>)

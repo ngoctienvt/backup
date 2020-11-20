@@ -4,7 +4,7 @@
 - [truth compass](<truth compass.md>)
 
 # Backlinks
-## [Areas](<Areas.md>)
+## [Area of Focus](<Area of Focus.md>)
 - [spiritual growth](<spiritual growth.md>)
 
 ## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)

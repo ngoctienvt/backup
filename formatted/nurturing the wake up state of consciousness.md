@@ -20,7 +20,7 @@
     - Using our consciousness intentionally instead of scattering to multi tasks
 
 # Backlinks
-## [Areas](<Areas.md>)
+## [Area of Focus](<Area of Focus.md>)
 - [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)

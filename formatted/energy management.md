@@ -14,6 +14,8 @@
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
 - [energy management](<energy management.md>)
 
+- health and wellbeing [energy management](<energy management.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I have a bit [worry](<worry.md>) about my physical energy today. Because I will have one teaching, and one learning workshop. But I think it will be fine, as long as I'm conscious and managing my energy properly. [energy management](<energy management.md>)
 

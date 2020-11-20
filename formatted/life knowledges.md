@@ -1,6 +1,6 @@
 - [audio](<audio.md>)
 
 # Backlinks
-## [Areas](<Areas.md>)
+## [Area of Focus](<Area of Focus.md>)
 - [life knowledges](<life knowledges.md>)
 

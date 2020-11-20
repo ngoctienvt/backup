@@ -1,7 +1,7 @@
 - [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>): this training is focused mainly on the soul level and operate from that on level.
 
 # Backlinks
-## [Areas](<Areas.md>)
+## [Area of Focus](<Area of Focus.md>)
 - [training](<training.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)

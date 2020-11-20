@@ -35,6 +35,9 @@
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - When bathing, I noticed that how I look at and name things is different depends on the view [horizon of focus](<horizon of focus.md>)
 
+## [Productivity MOC](<Productivity MOC.md>)
+- [horizon of focus](<horizon of focus.md>)
+
 ## [Workflow MOC](<Workflow MOC.md>)
 - [horizon of focus](<horizon of focus.md>)
 

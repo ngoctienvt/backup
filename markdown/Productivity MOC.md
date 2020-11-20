@@ -1,0 +1,14 @@
+- Resources
+- 
+- Outline
+- [[the pilot]]
+    - [[living from the place of surrender]]
+    - [[horizon of focus]]
+- [[the plane]]
+    - [[Workflow MOC]]
+- [[the engineer]]
+    - [[Working Zone MOC]]
+    - [[Support system MOC]]
+    - [[PKDS - Personal Knowledge Development System MOC]]
+- Workplace
+    - 

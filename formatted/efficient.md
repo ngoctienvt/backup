@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Areas](<Areas.md>)
+## [Area of Focus](<Area of Focus.md>)
 - [efficient](<efficient.md>)
 
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)

@@ -154,4 +154,23 @@
             - Engage
                 - Actually do the thing
     - Digital productivity
-        - 
+        - https://digitalproductivity.coach/
+        - [[digital fluency]]
+            - comfortable work with documents, emails, information...
+            - typing
+            - keyboard shortcut
+            - task management for capture [[open loop]]
+            - calendars
+            - note-taking - Roam Research
+    - health and wellbeing [[energy management]]
+        - sleep
+            - don't take phone on bed
+            - kindle/ ipad/ books for reading
+            - blackout curtains
+            - avoid blue light exposure
+                - Flux
+                - yellow light
+        - nutrition
+            - drinking more water
+            - Pick Up Limes youtube channel
+        - exercies

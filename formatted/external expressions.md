@@ -6,7 +6,7 @@
     - [concise](<concise.md>)
 
 # Backlinks
-## [Areas](<Areas.md>)
+## [Area of Focus](<Area of Focus.md>)
 - [external expressions](<external expressions.md>)
 
 ## [October 12th, 2020](<October 12th, 2020.md>)

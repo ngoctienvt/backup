@@ -6,8 +6,7 @@
 - [[Projects]]
 - ### Priority MOC
 - [[PKDS - Personal Knowledge Development System MOC]]
-- [[Working Zone MOC]]
-- [[Workflow MOC]]
+- [[Productivity MOC]]
 - ### Low priority MOC
 - [[Coaching MOC]]
 - [[Training MOC]]
@@ -15,6 +14,5 @@
 - [[People]]
 - [[Resources]]
 - Smaller MOC working on
-    - [[Support system MOC]]
-    - [[Areas]]
+    - [[Area of Focus]]
     - 

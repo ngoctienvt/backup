@@ -11,5 +11,5 @@
 
 # Backlinks
 ## [Home Maps](<Home Maps.md>)
-- [Areas](<Areas.md>)
+- [Area of Focus](<Area of Focus.md>)
 
