@@ -1,0 +1,24 @@
+- ![Moments of inspiration are wonderful, but it is the system I build into my  life that determines my actions. - Faith Reflections](https://image.slidesharecdn.com/gtd-100222135518-phpapp01/95/from-clutter-to-clear-a-guide-to-getting-things-done-part-i-37-728.jpg?cb=1266847017)
+- ![Getting Things Done! The Stress Free Way! - Business Growth Solutions for  Service-Based Entrepreneurs - Stephanie LH Calahan](https://www.stephaniecalahan.com/wp-content/uploads/2014/01/your-areas-of-focus-gtd_horizons.jpg)
+- ![Getting Things Done](https://image.slidesharecdn.com/gettingthingsdone-091027153602-phpapp02/95/getting-things-done-25-728.jpg?cb=1256657778)
+- Characteristic of horizon of focus
+    - [[single intention]]
+    - endgoal-oriented  instead of tool-oriented
+        - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [[horizons of focus]] [[seeking clarity before resolving]]
+    - external independent
+    - process and progress oriented
+    - harmony between me, inner energy, and the reality [[bridging]]
+- High level point of focus
+    - [[soul-guidance]]  or reality-guidance instead of [[ego-guidance]]
+        - How to know what the reality truly need? It's about examining our behaviors, way of living, about seeing how ourselves truly live, instead of based on the world that our mind created. [[demand of reality]] [[bridging]] [[soul-guidance]]
+            - [[the impersonal world]] is the reality that truly happens and can't be wrong.
+            - [[the makeup world]] is the world that made by our mind based on our samskaras, and it has nothing to do with [[the impersonal world]]
+    - focus on true self instead of objects of consciousness
+    - [[purpose]] is a high level [[horizons of focus]] to have a [[zoom-out point of view]] so that’s I can understand and work on things in a broader level. [[system thinking]] would require me to have way to see things from top down like concepts, purposes, how, step by step, execution...
+- Snowball point of focus
+    - [[process-oriented]] focus on the intention and action, not the result
+- Personal point of focus
+    - the bridge between shakti, consciousness, and the world by cleaning the blockages
+        - [[natural progression]]
+    - [[humility]], [[true love]]. [[inner clarity]] and [[unattachment centering]] are three quality that is my [[horizons of focus]] currently.  
+    - {{[[TODO]]}} Learning to have a clarity mind and a clear point of focus will be one of my important task for next week [[inner clarity]]

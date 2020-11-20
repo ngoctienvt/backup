@@ -1,6 +1,6 @@
-- top-down direction [[horizon of focus]]
+- top-down direction [[horizons of focus]]
     - life purpose and principle - [[living from the place of surrender]] 
-        - letting go all of inner stuff and enjoy life as it is
+        - letting go all of inner stuff and enjoy life as it is 
             - evolution [[soul evolution]]
             - contribution [[serving the demand of reality]]
     - vision 
@@ -10,7 +10,7 @@
             - personal knowledge development trainer
         - sharing and inspiring
             - international blogger
-        - partnering
+        - development partnering
             - life coach
     - process goal and system goal
         - [[progressive approach]]

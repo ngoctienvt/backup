@@ -20,7 +20,7 @@
     - [Tag usage](<Tag usage.md>)
         - Tagging notes across different notebooks allows us to **perceive cross-disciplinary themes and patterns** that defy simple categorization. [inter-related](<inter-related.md>)
             - Tagging all the notes we want to review for a project could make our choices easier, by **creating a boundary** around the information we’ll consider before taking action. [top-down approach](<top-down approach.md>)
-            - And tagging notes according to which stage of a project they are best suited for can improve our thinking by allowing us to focus on only the most relevant information for the given moment. [horizon of focus](<horizon of focus.md>)
+            - And tagging notes according to which stage of a project they are best suited for can improve our thinking by allowing us to focus on only the most relevant information for the given moment. [horizons of focus](<horizons of focus.md>)
             - With the simple act of assigning labels to things, we invite the brain’s pattern recognition ability to identify their similarities and thereby predict what other items would fit the label too. [relevant progressing](<relevant progressing.md>)
             - We shape the environment, and then the environment shapes our mind.
     - [Information mapping](<Information mapping.md>) – tagging for the knowledge lifecycle

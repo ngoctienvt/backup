@@ -2,7 +2,7 @@
 - 
 - Outline
 - [The Pilot MOC](<The Pilot MOC.md>)
-    - [horizon of focus](<horizon of focus.md>)
+    - [horizons of focus](<horizons of focus.md>)
     - [focus on what matters](<focus on what matters.md>)
 - [The Plane MOC](<The Plane MOC.md>)
     - [Workflow MOC](<Workflow MOC.md>)
@@ -21,7 +21,6 @@
         - [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
         - [workplace](<workplace.md>) - environment
     - [energy management](<energy management.md>)
-- 
 
 # Backlinks
 ## [Home Maps](<Home Maps.md>)

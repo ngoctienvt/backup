@@ -2,7 +2,7 @@
 - [[readiness]]
 - # Processed
     - [[focus on what matters]]
-    - [[horizon of focus]]
+    - [[horizons of focus]]
     - [[personal workflow]]
 - ### The end goal of an ideal workflow 
     - An engine process 
@@ -18,7 +18,7 @@
         - Focus on what matters
             - The idea is generating better-self everyday, everytime and every moments. As long as I can do this, I will be sure to always have a better life. [[personal end goals]]
         - Task-breakdown 
-        - Clear [[horizon of focus]]
+        - Clear [[horizons of focus]]
             - unattachment centering 
                 - so that I can come to the workplace, and my workplace here is my life 24/7.
             - action and process-oriented instead of topic-oriented

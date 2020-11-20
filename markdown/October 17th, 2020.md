@@ -71,7 +71,7 @@ inside.
 meet my [[inner demand of reality]]. I don't want to let any external things
 responsible for my inner container. I still feel grateful, enjoy, honor, but
 not put the responsibility on them. [[personal responsibilities]]
-- When bathing, I noticed that how I look at and name things is different depends on the view [[horizon of focus]] [[rules for naming]] [[generating languages]]
+- When bathing, I noticed that how I look at and name things is different depends on the view [[horizons of focus]] [[rules for naming]] [[generating languages]]
     - results - be clean inside
     - process or actions - integration
     - meaning - evolution

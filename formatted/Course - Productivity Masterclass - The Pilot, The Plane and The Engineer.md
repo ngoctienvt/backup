@@ -6,7 +6,7 @@
         - The short term
         - The medium term
         - The longterm
-    - [horizon of focus](<horizon of focus.md>) - Getting things done
+    - [horizons of focus](<horizons of focus.md>) - Getting things done
         - groundwork - calendars and tasks
             - [scheduling](<scheduling.md>) and calendars
                 - scheduling life's important events / social events...
@@ -68,7 +68,7 @@
                 - personal enjoyment
                 - the relationship between me with my feelings, thoughts, body, and the world?
     - **Overall reflection for the pilot part**
-        - It's helpful to see the [horizon of focus](<horizon of focus.md>) and having a [helicopter view](<helicopter view.md>) for my life
+        - It's helpful to see the [horizons of focus](<horizons of focus.md>) and having a [helicopter view](<helicopter view.md>) for my life
         - The [helicopter view](<helicopter view.md>) has different zoom-out and zoom-in point of view
             - Vision and purpose -> goals -> projects -> calendars and tasks
                 - The point of view is bottom-up from 
@@ -154,7 +154,7 @@
             - Engage
                 - Actually do the thing
     - Digital productivity
-        - https://digitalproductivity.coach/
+        - https://digitalproductivity.coach/coach
         - [digital fluency](<digital fluency.md>)
             - comfortable work with documents, emails, information...
             - typing

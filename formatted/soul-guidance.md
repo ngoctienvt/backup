@@ -10,7 +10,7 @@ The truth compass or [soul-guidance](<soul-guidance.md>)
 
 - The [soul-guidance](<soul-guidance.md>)
 
-## [horizon of focus](<horizon of focus.md>)
+## [horizons of focus](<horizons of focus.md>)
 - [soul-guidance](<soul-guidance.md>)
 
 - How to know what the reality truly need? It's about examining our behaviors, way of living, about seeing how ourselves truly live, instead of based on the world that our mind created. [demand of reality](<demand of reality.md>) [bridging](<bridging.md>) [soul-guidance](<soul-guidance.md>)

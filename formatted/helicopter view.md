@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
-- It's helpful to see the [horizon of focus](<horizon of focus.md>) and having a [helicopter view](<helicopter view.md>)
+- It's helpful to see the [horizons of focus](<horizons of focus.md>) and having a [helicopter view](<helicopter view.md>)
 
 - The [helicopter view](<helicopter view.md>)
 

@@ -98,7 +98,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 - [being coaching](<being coaching.md>) in a [bottom-up approach](<bottom-up approach.md>) way to support other people with their [natural progression](<natural progression.md>)
 
-## [horizon of focus](<horizon of focus.md>)
+## [horizons of focus](<horizons of focus.md>)
 - [natural progression](<natural progression.md>)
 
 ## [interests](<interests.md>)

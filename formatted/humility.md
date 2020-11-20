@@ -15,6 +15,6 @@ I also realize that at I'm on my journey, I'm bringing people who trust this pat
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
 - [humility](<humility.md>)
 
-## [horizon of focus](<horizon of focus.md>)
+## [horizons of focus](<horizons of focus.md>)
 - [humility](<humility.md>),
 

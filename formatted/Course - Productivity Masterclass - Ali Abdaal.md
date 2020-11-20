@@ -76,7 +76,7 @@
             - What's circumstances and mindsets led to that?
             - How can I create the optimal conditions to let me in that state?
 - 3 laws of productivity
-    - [Parkinson's law](<Parkinson's law.md>) [horizon of focus](<horizon of focus.md>)
+    - [Parkinson's law](<Parkinson's law.md>) [horizons of focus](<horizons of focus.md>)
         - Work expands to fill the time that we allocate to it
             - Having too much time to do something is a recipe for procrastination
         - Application

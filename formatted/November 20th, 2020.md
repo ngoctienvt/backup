@@ -3,15 +3,15 @@
     - Learning productivity class
     - Completing edit course 8
     - Developing Workflow and PKDS
-- I started to have a vertical structure about [level of thinking](<level of thinking.md>) related to [horizon of focus](<horizon of focus.md>), review, and zoom-in or zoom-out [point of view](<point of view.md>)
-    - [horizon of focus](<horizon of focus.md>)
+- I started to have a vertical structure about [level of thinking](<level of thinking.md>) related to [horizons of focus](<horizons of focus.md>), review, and zoom-in or zoom-out [point of view](<point of view.md>)
+    - [horizons of focus](<horizons of focus.md>)
         - Tasks and actions are what I will focus to complete on daily basis, and these things help me to progress on my projects
         - projects are a big picture of tasks and actions that I will need to work on
         - While projects will be about make sure me to move forward certain unfolding direction and develop myself over the course - it will be leverage my process or system goal
         - and while I keep doing good on improving my process or system goal, my vision and purpose in life start to clearer to see how my life is unfolding. 
 
 It's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [Life Polestar](<Life Polestar.md>) that will help me align my goal/projects/tasks and actions in a way that serve my life purpose when I aware of it. [alignment](<alignment.md>)  
-    - And the level of my review will be based on these level of focus [reflection](<reflection.md>) [horizon of reflection](<horizon of reflection.md>)
+    - And the level of my review will be based on these level of focus [reflection](<reflection.md>) [horizons of reflection](<horizons of reflection.md>)
         -  a daily review will be more about what I did today, and what I noticed about myself, or what's emerging - noticing what's emerging
         - while a weekly review is about project levels. It's about collecting what I want to do, to learn - capturing what's emerging to work on
         - and a monthly review is about working to improve my process or system so that I will live much more effective, reducing friction, cleaning big stuff - learning to be efficient

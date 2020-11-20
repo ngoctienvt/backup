@@ -126,7 +126,7 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [helpful manner](<helpful manner.md>)
 - [unattachment centering](<unattachment centering.md>)
 
-## [horizon of focus](<horizon of focus.md>)
+## [horizons of focus](<horizons of focus.md>)
 - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>)
 
 ## [interests](<interests.md>)

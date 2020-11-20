@@ -2,7 +2,7 @@
 - 
 - Outline
 - [[The Pilot MOC]]
-    - [[horizon of focus]]
+    - [[horizons of focus]]
     - [[focus on what matters]]
 - [[The Plane MOC]]
     - [[Workflow MOC]]
@@ -21,4 +21,3 @@
         - [[PKDS - Personal Knowledge Development System MOC]]
         - [[workplace]] - environment
     - [[energy management]]
-- 
