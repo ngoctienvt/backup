@@ -80,6 +80,42 @@
                 - I'm navigating my life [on the right track](<on the right track.md>) 
                 - and they are all sync up and align with each other. [alignment](<alignment.md>)
 - ### [the plane](<the plane.md>) 
+    - 3 functions
+        - take off safely
+        - stay the course and not get distracted
+        - land safely
+    - hacking [motivation](<motivation.md>) - hacking brain to just get started
+        - action -> success -> motivation -> action
+        - struggle to do long-term benefit but short-term pain
+        - If we can just take off, we let the [Newton's first law of motion](<Newton's first law of motion.md>) do it in our favor
+    - overcoming inertia
+        - 2-minute rule
+        - 5-minute rule
+        - environment design
+    - achieving [flow state](<flow state.md>) - stay on the course
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkvS1vSpGIU.png?alt=media&token=a2b6a751-713c-4d27-9de3-d5a7fd15948b)
+        - flow are where our current abilities meet the challenges
+        - 1. Manage external distractions.
+        - 2. Manage internal disctractions - not storing thoughts on mind
+            - journaling practices
+            - to-do list
+        - 3. Work on one task at a time
+            - not switch context or type of work
+        - 4. Mental cues
+            - environment
+        - 5. Choose challenging but not imposible tasks
+        - 6. Work at our biological peak time
+        - 7. Listen to the right of music
+    - Distraction management
+        - clear why - pilot
+        - mastering our urge for being distracted
+        - increase the friction to not be distracted by it [samskaras-based solution](<samskaras-based solution.md>)
+        - digital distraction  - [habit-formed will](<habit-formed will.md>)
+            - re-arrange phone apps
+            - turn off notifications
+            - grayscale mode
+            - turn wifi-off
+            - self-control extension
 
 # Backlinks
 ## [November 19th, 2020](<November 19th, 2020.md>)

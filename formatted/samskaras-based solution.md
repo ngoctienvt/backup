@@ -9,3 +9,6 @@
 
 - [samskaras-based solution](<samskaras-based solution.md>)
 
+## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
+- increase the friction to not be distracted by it [samskaras-based solution](<samskaras-based solution.md>)
+

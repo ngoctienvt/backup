@@ -22,6 +22,9 @@
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - [flow state](<flow state.md>)
 
+## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
+- achieving [flow state](<flow state.md>)
+
 ## [Workflow MOC](<Workflow MOC.md>)
 - [flow state](<flow state.md>)
 
