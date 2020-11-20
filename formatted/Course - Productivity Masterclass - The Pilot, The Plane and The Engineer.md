@@ -79,7 +79,7 @@
             - It's will be important for me to build a [navigating system](<navigating system.md>) that holds these different levels of point of view so that I could always make sure 
                 - I'm navigating my life [on the right track](<on the right track.md>) 
                 - and they are all sync up and align with each other. [alignment](<alignment.md>)
-- [the plane](<the plane.md>) 
+- ### [the plane](<the plane.md>) 
 
 # Backlinks
 ## [November 19th, 2020](<November 19th, 2020.md>)
