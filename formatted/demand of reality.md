@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 21st, 2020](<November 21st, 2020.md>)
+- Second is the force of reality. [demand of reality](<demand of reality.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - I also felt that when I started to clean things, I'm becoming more and more energy inside that naturally moves me. I reduced the fear that I won't make anything meaningful for this life, because the fact that I learn things and improve my soul everyday is the best that I could do to be able to handle bigger [demand of reality](<demand of reality.md>)
 

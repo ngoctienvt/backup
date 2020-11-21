@@ -48231,10 +48231,144 @@
     "title": "horizon of mastery"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605927902301,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605927962940,
+            "string": "This week I start to clear my picture about productivity and my workflow, it's started to form the shape, but I need to take care important points and detail it.",
+            "uid": "jaNDeeVJX"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928045761,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928051487,
+                "string": "From abstract to concrete",
+                "uid": "lkXtylRKM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928051482,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928082197,
+                "string": "From bottom-up emerging to top-down alignment",
+                "uid": "bswYfCFRk"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928082193,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928131388,
+                "string": "From discovery to focus",
+                "uid": "hWuHb0oNB"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928135745,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928154755,
+                "string": "From complex to simplify but effective",
+                "uid": "vLCF9pcpZ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928154752,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928179556,
+                "string": "From general to detail",
+                "uid": "5xqNgIaat"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928179553,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928189364,
+                "string": "From concept to example",
+                "uid": "zejinPqzk"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605927962999,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605928045764,
+            "string": "The most important thing I leant this week is the [[horizon concept]]. It helped me to understand the different level of thinking and point of view clearer.",
+            "uid": "ibJVDWBsV"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928370256,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928416016,
+                "string": "One is the force that I created by planning for my future-self. ",
+                "uid": "i3OvrgdlG"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928393905,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928411446,
+                "string": "Second is the force of reality. [[demand of reality]]",
+                "uid": "a5GSHPUKg"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605928434560,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605928461599,
+                "string": "And I will use these two forces to guide my life, instead of my inner voice and my unreliable feelings.",
+                "uid": "oc3LC87LI"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605928189361,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605928370258,
+            "string": "I also noticed that I will easy to fall into my lower-self, and it would be very helpful if I start to schedule my life properly, so it serves as an external force to guide my focus and help me to get out of my lower-self. So there will be 2 kinds of [[external force]].",
+            "uid": "wFU5B7yFi"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605928317986,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605928317986,
+            "string": "",
+            "uid": "jqRGphbmf"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605927893587,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605927902307,
+        "string": "[[weekly reflection]]",
+        "uid": "_2G7DL6dd"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1605919321230,
+    "create-time": 1605926730324,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605919321231,
+    "edit-time": 1605926730325,
     "title": "November 21st, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605928023886,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605928023888,
+    "title": "horizon concept"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605928368651,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605928368652,
+    "title": "external force"
   }
 ]

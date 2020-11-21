@@ -1,0 +1,14 @@
+- [weekly reflection](<weekly reflection.md>)
+    - This week I start to clear my picture about productivity and my workflow, it's started to form the shape, but I need to take care important points and detail it.
+    - The most important thing I leant this week is the [horizon concept](<horizon concept.md>). It helped me to understand the different level of thinking and point of view clearer.
+        - From abstract to concrete
+        - From bottom-up emerging to top-down alignment
+        - From discovery to focus
+        - From complex to simplify but effective
+        - From general to detail
+        - From concept to example
+    - I also noticed that I will easy to fall into my lower-self, and it would be very helpful if I start to schedule my life properly, so it serves as an external force to guide my focus and help me to get out of my lower-self. So there will be 2 kinds of [external force](<external force.md>).
+        - One is the force that I created by planning for my future-self. 
+        - Second is the force of reality. [demand of reality](<demand of reality.md>)
+        - And I will use these two forces to guide my life, instead of my inner voice and my unreliable feelings.
+    - 
