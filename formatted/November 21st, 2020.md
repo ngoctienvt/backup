@@ -35,7 +35,7 @@
     - The highest level is the purpose and the vision of the concept
         - How PKDS will serve us
         - The meaning of having a PKDS 
-- Purpose/Vision -> Process goal/ System goal -> Principle/ Approach -> Relationship-formiing -> Information bottom-up
+    - Purpose/Vision -> Process goal/ System goal -> Principle/ Approach -> Relationship-formiing -> Information bottom-up
 - [horizons of notes](<horizons of notes.md>)
     - Collecting scattering thoughts
     - Concept, idea forming and structuring
@@ -43,4 +43,5 @@
     - Evergreen notes 
     - Articles/ Courses
 - {{query: {and: [Projects MOC](<Projects MOC.md>) [Active](<Active.md>) {not: [Templates](<Templates.md>)}}}}
-- Mature people act because they have something to act, immature people act because they to act something [my quotes](<my quotes.md>) Based on Plato quotes
+- Mature people act because they have something to act, immature people act because they to act something [my quotes](<my quotes.md>) based on Plato quotes
+- 
