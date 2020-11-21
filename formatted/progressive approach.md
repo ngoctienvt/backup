@@ -78,6 +78,9 @@
 ## [Hades game](<Hades game.md>)
 - To reflect and complete [progressive approach](<progressive approach.md>)
 
+## [November 21st, 2020](<November 21st, 2020.md>)
+- I noticed that most people don't have a systematic way for [big picture thinking](<big picture thinking.md>). It's just so natural to me that I'm taking it for granted. I will focus more on this, as it will be an important component for my [progressive approach](<progressive approach.md>).
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive approach](<progressive approach.md>)
 

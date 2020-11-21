@@ -19,4 +19,5 @@
         - Developing productivity system
         - Working on horizon concept for level up my way of thinking
         - Working on [[energy management]]
+- I noticed that most people don't have a systematic way for [[big picture thinking]]. It's just so natural to me that I'm taking it for granted. I will focus more on this, as it will be an important component for my [[progressive approach]]. It's about seeing the forest, not the trees.
 - 

@@ -48414,9 +48414,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605929153537,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605929153537,
-        "string": "",
+        "edit-time": 1605938711987,
+        "string": "I noticed that most people don't have a systematic way for [[big picture thinking]]. It's just so natural to me that I'm taking it for granted. I will focus more on this, as it will be an important component for my [[progressive approach]]. It's about seeing the forest, not the trees.",
         "uid": "NHNBjOK7R"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605938449251,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605938449251,
+        "string": "",
+        "uid": "4ZkjKZbyF"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -48438,5 +48446,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605928368652,
     "title": "external force"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605938440278,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605938440297,
+    "title": "big picture thinking"
   }
 ]
