@@ -10,5 +10,13 @@
     - I also noticed that I will easy to fall into my lower-self, and it would be very helpful if I start to schedule my life properly, so it serves as an external force to guide my focus and help me to get out of my lower-self. So there will be 2 kinds of [external force](<external force.md>).
         - One is the force that I created by planning for my future-self. 
         - Second is the force of reality. [demand of reality](<demand of reality.md>)
-        - And I will use these two forces to guide my life, instead of my inner voice and my unreliable feelings.
-    - 
+        - And I will use these two forces to guide my life and surrender myself to it, instead of my inner voice and my unreliable feelings.
+    - I also start to melt down some of my fear with the society and government system, handling and merging the dark side of reality, the immature government and human being. We are all on our own process to mature and evolve to higher.
+    - My [physical body](<physical body.md>) and [energy management](<energy management.md>) is a untouch part of myself. And this is the things that affect my life most now.
+        - I will start to shape and process some of my thoughts around this next week.
+    - [ ] My focus for next week:
+        - Continue to work on PKDS
+        - Developing productivity system
+        - Working on horizon concept for level up my way of thinking
+        - Working on [energy management](<energy management.md>)
+- 

@@ -19,6 +19,11 @@
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I have a bit [worry](<worry.md>) about my physical energy today. Because I will have one teaching, and one learning workshop. But I think it will be fine, as long as I'm conscious and managing my energy properly. [energy management](<energy management.md>)
 
+## [November 21st, 2020](<November 21st, 2020.md>)
+- My [physical body](<physical body.md>) and [energy management](<energy management.md>)
+
+- Working on [energy management](<energy management.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - coach has the fulfilled inner energy so that it will raise clients up instead of bringing them down [energy management](<energy management.md>)
 
