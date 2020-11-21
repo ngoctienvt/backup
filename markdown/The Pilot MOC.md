@@ -1,26 +1,25 @@
-- top-down direction [[horizons of focus]]
-    - life purpose and principle - [[living from the place of surrender]] 
-        - letting go all of inner stuff and enjoy life as it is 
-            - evolution [[soul evolution]]
-            - contribution [[serving the demand of reality]]
-    - vision 
-        - teaching
-            - spiritual teacher
-            - coach trainer
-            - personal knowledge development trainer
-        - sharing and inspiring
-            - international blogger
-        - development partnering
-            - life coach
-    - process goal and system goal
+- ## personal horizons of focus [[horizons of focus]]
+- ### life purpose and principle - [[living from the place of surrender]] 
+    - purpose - letting go all of inner stuff and enjoy life as it is [[enjoy the process]]
+        - evolution [[soul evolution]]
+        - contribution [[serving the demand of reality]]
+    - principle 
         - [[progressive approach]]
-        - routine habit 
-        - productivity process
-        - personal knowledge development system
-    - project lists
-        - Developing a PKDS training program
-            - Developing [[PKDS - Personal Knowledge Development System MOC]]
-        - Developing productivity system
-            - Developing [[Workflow MOC]]
-    - tasks and actions
-        - 
+        - [[helpful manner]]
+        - [[impersonal responsibilities]]
+- ### vision 
+    - teaching
+        - spiritual teacher
+        - coach trainer
+        - personal knowledge development trainer
+    - writing
+        - inspiring international blogger
+    - partnering
+        - life coach
+- ### process goal and system goal
+    - routine habit 
+        - daily meditation
+        - weekly review and planning
+    - productivity process
+    - personal knowledge development system
+- ### [[Projects MOC]] - tasks and actions

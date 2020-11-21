@@ -82,7 +82,7 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 - [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
-- life purpose and principle - [living from the place of surrender](<living from the place of surrender.md>)
+- ### life purpose and principle - [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)

@@ -6,7 +6,7 @@
         - plurals for countable verb [[emotions]] 
         - no the, a, an
     - specific objectives or projects:
-        - capitalize [[scheduling]] [[Projects]] [[P: How I use Roam Research to evolve my mind]]
+        - capitalize [[scheduling]] [[Projects MOC]] [[P: How I use Roam Research to evolve my mind]]
 - [[Keywords generating and highlighting rules]]:
     - highlight verb for accumulate information-related to support condensing process later
     - condense the block ideas with a noun for general topics to condense thoughts

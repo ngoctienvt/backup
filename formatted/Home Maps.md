@@ -3,7 +3,7 @@
     - Be the blessing of the world
 - # Home Maps
 - [Life Polestar](<Life Polestar.md>)
-- [Projects](<Projects.md>)
+- [Projects MOC](<Projects MOC.md>)
 - ### Priority MOC
 - [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [Productivity MOC](<Productivity MOC.md>)

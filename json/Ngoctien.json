@@ -4463,10 +4463,116 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884898851,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605884919973,
+                "string": "Developing [[PKDS - Personal Knowledge Development System MOC]]",
+                "uid": "q8R0kdWP7"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605964930246,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605964937009,
+                "string": "Learning [[instructional design]]",
+                "uid": "HO072Lupn"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605964818136,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605965698027,
+            "string": "building a PKDS training program",
+            "uid": "2n06DWpRt"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884874393,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605884926064,
+                "string": "Developing [[Workflow MOC]]",
+                "uid": "D4zkGe_hu"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605884882179,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605965704166,
+            "string": "building a productivity system",
+            "uid": "uGXzQoEMO"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964843564,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605964873639,
+                    "string": "{{[[TODO]]}} Learning The target approach",
+                    "uid": "lRrEs5feW"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964873636,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605964893583,
+                    "string": "{{[[TODO]]}} Reading The heart of laser focus coaching",
+                    "uid": "KVXOYtpTG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964893580,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605964903959,
+                    "string": "{{[[TODO]]}} Reading A shift in being",
+                    "uid": "HzFFdD1NT"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964903956,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605964920603,
+                    "string": "{{[[TODO]]}} Reading Coach the person, not the problem",
+                    "uid": "nso2WUi5Z"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605964839908,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605964843568,
+                "string": "Coaching knowledge",
+                "uid": "OOzpTLE9k"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605964795902,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605965054011,
+            "string": "consuming",
+            "uid": "1bTzz29b8"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1601995325238,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605966710072,
+        "string": "[[Active]]",
+        "uid": "6DmBbRDcu"
+      },
+      {
+        "children": [
+          {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1601994742980,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1601994748155,
+            "edit-time": 1605965621076,
             "string": "[[mind-training]]",
             "uid": "Tl7DgP0uR"
           },
@@ -4474,7 +4580,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1601994753394,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1601994766446,
+            "edit-time": 1605965621076,
             "string": "[[coach training]]",
             "uid": "sVjNOhMuH"
           },
@@ -4482,7 +4588,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1601470965417,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1602031771121,
+            "edit-time": 1605965621076,
             "string": "[[journaling training]]",
             "uid": "LvUCtB8Sf"
           },
@@ -4490,7 +4596,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1602813226627,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1602813237545,
+            "edit-time": 1605965621076,
             "string": "[[A: Suffering]]",
             "uid": "gXADTedDk"
           },
@@ -4498,17 +4604,17 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605614317688,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605614321316,
+            "edit-time": 1605965621076,
             "string": "[[A: Learning to handle our heart]]",
             "uid": "9AGIA9leg"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1601995325238,
+        "create-time": 1605965610874,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1601995330361,
-        "string": "Ongoing",
-        "uid": "6DmBbRDcu"
+        "edit-time": 1605965615573,
+        "string": "Inactive",
+        "uid": "qz3KG6IgX"
       },
       {
         "children": [
@@ -4516,7 +4622,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1601470967964,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1601470980254,
+            "edit-time": 1605965627359,
             "string": "[[P: How I use Roam Research to evolve my mind]]",
             "uid": "FoTLwtqW-"
           }
@@ -4524,14 +4630,22 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600172313583,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1601470967969,
+        "edit-time": 1605965627359,
         "string": "Completed",
         "uid": "YIBTFMMAb"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605966632457,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605966898324,
+        "string": "",
+        "uid": "X5e4IqkR8"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1600172038421,
-    "title": "Projects"
+    "edit-time": 1605965499197,
+    "title": "Projects MOC"
   },
   {
     "children": [
@@ -11440,8 +11554,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1600609164500,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605799617908,
-                "string": "capitalize [[scheduling]] [[Projects]] [[P: How I use Roam Research to evolve my mind]]",
+                "edit-time": 1605965499197,
+                "string": "capitalize [[scheduling]] [[Projects MOC]] [[P: How I use Roam Research to evolve my mind]]",
                 "uid": "0KKd1GKqk"
               }
             ],
@@ -33068,6 +33182,14 @@
   {
     "children": [
       {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605967105369,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605967105369,
+        "string": "{{query: {and: [[Projects MOC]] [[Active]] {not: [[Templates]]}}}}",
+        "uid": "3lLnhOlXW"
+      },
+      {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
@@ -38066,8 +38188,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605614298952,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605614303067,
-        "string": "[[Projects]]",
+        "edit-time": 1605965499197,
+        "string": "[[Projects MOC]]",
         "uid": "phgb6kT4I"
       },
       {
@@ -40768,16 +40890,16 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716379461,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716385317,
-                    "string": "\"Ethics is knowing the difference between what you have a right to do, and what is right to do.\" ~ Potter Stewart",
+                    "edit-time": 1605967852280,
+                    "string": "__\"Ethics is knowing the difference between what you have a right to do, and what is right to do.\" ~ Potter Stewart__",
                     "uid": "fMwir5bAj"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716407496,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716409691,
-                    "string": "Definition: Understands and consistently applies coaching ethics and standards of coaching",
+                    "edit-time": 1605967863440,
+                    "string": "**Definition: Understands and consistently applies coaching ethics and standards of coaching**",
                     "uid": "7pF8gqfqf"
                   },
                   {
@@ -40789,27 +40911,37 @@
                     "uid": "j_fOFfGDH"
                   },
                   {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605967794986,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605967807122,
+                        "string": "making clients feeling safe",
+                        "uid": "eu_yiwPXr"
+                      }
+                    ],
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716411498,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716418029,
-                    "string": "Demonstrates personal integrity, honesty, and confidentiality in all interactions (clients, sponsors, relevant stakeholders)",
+                    "edit-time": 1605967794995,
+                    "string": "Demonstrates **personal integrity, honesty, and confidentiality** in all interactions (clients, sponsors, relevant stakeholders) ",
                     "uid": "QMDEm93B1"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716411498,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716423529,
-                    "string": "Is sensitive to clients\u2019 identity, environment, values, experiences, and beliefs",
+                    "edit-time": 1605967832487,
+                    "string": "Is **sensitive to clients\u2019 identity, **environment, values, experiences, and beliefs",
                     "uid": "M1kw8jqz2"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716411498,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716435292,
-                    "string": "Maintains the distinctions between coaching, consulting, psychotherapy and other support professions\u2026and refers clients to other support professionals, as appropriate",
+                    "edit-time": 1605967843010,
+                    "string": "Maintains the **distinctions between coaching, consulting, psychotherapy** and other support professions\u2026and refers clients to other support professionals, as appropriate",
                     "uid": "Wn1dtv57E"
                   }
                 ],
@@ -40823,59 +40955,69 @@
               {
                 "children": [
                   {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1605967906555,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1605967940708,
+                        "string": "We learn to start to be okay with ourselves, we are become easier to understand and empathy with other people.",
+                        "uid": "xBWFIuc5l"
+                      }
+                    ],
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716448361,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716451434,
-                    "string": "\u201cThe more you know yourself, the more patience you have for what you see in others.\" ~ Eric Erikson",
+                    "edit-time": 1605967898071,
+                    "string": "__\u201cThe more you know yourself, the more patience you have for what you see in others.\" ~ Eric Erikson__",
                     "uid": "pnekra3O9"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716457557,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716463374,
-                    "string": "Definition: Develops and maintains a mindset that is open, curious, flexible and client-centered",
+                    "edit-time": 1605967945912,
+                    "string": "**Definition: Develops and maintains a mindset that is open, curious, flexible and client-centered**",
                     "uid": "YBoAAnYEh"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716476028,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716481926,
-                    "string": "Acknowledges that clients are responsible for their own choices",
+                    "edit-time": 1605967953669,
+                    "string": "Acknowledges that** clients are responsible for their own choices**",
                     "uid": "5PJDpSr2-"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716490932,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716490932,
-                    "string": "Engages in ongoing learning and development as a coach, including ongoing reflective practice",
+                    "edit-time": 1605967990097,
+                    "string": "**Engages in ongoing learning and development as a coach,** including ongoing reflective practice",
                     "uid": "3_9rUYUlA"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716476028,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716493557,
-                    "string": "Remains aware of and open to the influence of context and culture on self and others",
+                    "edit-time": 1605968032983,
+                    "string": "Remains **aware of** and open to the **influence of context and culture on self and others**",
                     "uid": "yNtFKtZUv"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716502908,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716502908,
-                    "string": "Develops and maintains the ability to regulate one\u2019s emotions, including mentally and emotionally preparing for sessions",
+                    "edit-time": 1605968053421,
+                    "string": "Develops and maintains the **ability to regulate one\u2019s emotions,** including mentally and emotionally preparing for sessions",
                     "uid": "Z04gb6nSE"
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1605716476028,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605716502911,
-                    "string": "Seeks help from outside sources when necessary",
+                    "edit-time": 1605968059943,
+                    "string": "**Seeks help from outside sources** when necessary",
                     "uid": "rDm2wzJY9"
                   }
                 ],
@@ -40887,6 +41029,72 @@
                 "uid": "IEluci0gQ"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968136261,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968141173,
+                    "string": "\u201cYour presence will always mean more than any presents ever could.\" ~ LovableQuotes.com",
+                    "uid": "orGLIdCxr"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968149723,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968160669,
+                    "string": "Definition: Is fully conscious and present with the client, employing a style that is open, flexible, grounded and confident",
+                    "uid": "GosVZg884"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968171043,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968175519,
+                    "string": "Remains focused, observant, empathetic and responsive to the client; demonstrates curiosity",
+                    "uid": "LSQUxGMSp"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968171043,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968185860,
+                    "string": "Manages one\u2019s emotions to stay present with the client",
+                    "uid": "YTEV-jf7C"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968171043,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968187484,
+                    "string": "Demonstrates confidence in working with strong client",
+                    "uid": "IALcrqprz"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968171043,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968171049,
+                    "string": "emotions during the coaching process",
+                    "uid": "IrDt9H51C"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968171043,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968188746,
+                    "string": "Is comfortable working in a space of not knowing",
+                    "uid": "O_nLVlByp"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968171043,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968190084,
+                    "string": "Creates or allows space for silence, pause or reflection",
+                    "uid": "dWk25gS5X"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605716304845,
                 "edit-email": "ngoctienvt@gmail.com",
@@ -40895,6 +41103,16 @@
                 "uid": "Qi8TZAiOQ"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605968200514,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1605968206213,
+                    "string": "\u201cBeing heard is so close to being loved that for the average person, they are almost indistinguishable.\" ~ David Augsberger",
+                    "uid": "tBoKTHIDb"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605716311596,
                 "edit-email": "ngoctienvt@gmail.com",
@@ -47355,236 +47573,227 @@
   {
     "children": [
       {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605884351814,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605965106025,
+        "heading": 2,
+        "string": "personal horizons of focus [[horizons of focus]]",
+        "uid": "UnczX9s8Q"
+      },
+      {
         "children": [
           {
             "children": [
               {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884496008,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884528992,
-                    "string": "evolution [[soul evolution]]",
-                    "uid": "9ScCD9i5l"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884504650,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884512929,
-                    "string": "contribution [[serving the demand of reality]]",
-                    "uid": "tr4aHq6X7"
-                  }
-                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884401972,
+                "create-time": 1605884496008,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605886205832,
-                "string": "letting go all of inner stuff and enjoy life as it is ",
-                "uid": "qKtzhUnpR"
+                "edit-time": 1605884528992,
+                "string": "evolution [[soul evolution]]",
+                "uid": "9ScCD9i5l"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884504650,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605884512929,
+                "string": "contribution [[serving the demand of reality]]",
+                "uid": "tr4aHq6X7"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605864460569,
+            "create-time": 1605884401972,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605884433274,
-            "string": "life purpose and principle - [[living from the place of surrender]] ",
-            "uid": "SFiz4Ley4"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884555418,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884591168,
-                    "string": "spiritual teacher",
-                    "uid": "dMMy4QdbG"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884619770,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884620501,
-                    "string": "coach trainer",
-                    "uid": "YgWjSXFhQ"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884620498,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884628497,
-                    "string": "personal knowledge development trainer",
-                    "uid": "e7qe37D72"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884613100,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884644451,
-                "string": "teaching",
-                "uid": "X95gw_ihn"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884547203,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884555127,
-                    "string": "international blogger",
-                    "uid": "4e8yHNV_D"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884647653,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884658519,
-                "string": "sharing and inspiring",
-                "uid": "uh6sVMpAP"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884605452,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884605452,
-                    "string": "life coach",
-                    "uid": "2ksaDBZTi"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884677659,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605886176867,
-                "string": "development partnering",
-                "uid": "qMQQMGFMM"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605884530291,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605884545636,
-            "string": "vision ",
-            "uid": "FD5dY0hWV"
+            "edit-time": 1605965138154,
+            "string": "purpose - letting go all of inner stuff and enjoy life as it is [[enjoy the process]]",
+            "uid": "qKtzhUnpR"
           },
           {
             "children": [
               {
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884734420,
+                "create-time": 1605965006387,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884778220,
+                "edit-time": 1605965007693,
                 "string": "[[progressive approach]]",
-                "uid": "-f0digRRa"
+                "uid": "EXXv5Hl6l"
               },
               {
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884750569,
+                "create-time": 1605965025258,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884805622,
-                "string": "routine habit ",
-                "uid": "3wSR5xT3n"
+                "edit-time": 1605965030941,
+                "string": "[[helpful manner]]",
+                "uid": "lPGrwQdHY"
               },
               {
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884811722,
+                "create-time": 1605965111627,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884822310,
-                "string": "productivity process",
-                "uid": "emMLtpx3s"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884829933,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884836198,
-                "string": "personal knowledge development system",
-                "uid": "BCeNHeUc3"
+                "edit-time": 1605965118664,
+                "string": "[[impersonal responsibilities]]",
+                "uid": "ljwhMBCyQ"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605884694053,
+            "create-time": 1605965007686,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605886274686,
-            "string": "process goal and system goal",
-            "uid": "bvD0XF_dT"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884898851,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884919973,
-                    "string": "Developing [[PKDS - Personal Knowledge Development System MOC]]",
-                    "uid": "q8R0kdWP7"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884843787,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884874396,
-                "string": "Developing a PKDS training program",
-                "uid": "BoUo8HJoK"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605884874393,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605884926064,
-                    "string": "Developing [[Workflow MOC]]",
-                    "uid": "D4zkGe_hu"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884882179,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884889711,
-                "string": "Developing productivity system",
-                "uid": "uGXzQoEMO"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605884836195,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605884842671,
-            "string": "project lists",
-            "uid": "vyNJbzFuY"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884969891,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884969891,
-                "string": "",
-                "uid": "u2t4kVt8s"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605884891435,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605884969013,
-            "string": "tasks and actions",
-            "uid": "vBWF5-Oqd"
+            "edit-time": 1605965011767,
+            "string": "principle ",
+            "uid": "9IkvsB97F"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1605884351814,
+        "create-time": 1605864460569,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605888507468,
-        "string": "top-down direction [[horizons of focus]]",
-        "uid": "UnczX9s8Q"
+        "edit-time": 1605884433274,
+        "heading": 3,
+        "string": "life purpose and principle - [[living from the place of surrender]] ",
+        "uid": "SFiz4Ley4"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884555418,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605884591168,
+                "string": "spiritual teacher",
+                "uid": "dMMy4QdbG"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884619770,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605884620501,
+                "string": "coach trainer",
+                "uid": "YgWjSXFhQ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884620498,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605884628497,
+                "string": "personal knowledge development trainer",
+                "uid": "e7qe37D72"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605884613100,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605884644451,
+            "string": "teaching",
+            "uid": "X95gw_ihn"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884547203,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605964773125,
+                "string": "inspiring international blogger",
+                "uid": "4e8yHNV_D"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605884647653,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605964768563,
+            "string": "writing",
+            "uid": "uh6sVMpAP"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884605452,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605884605452,
+                "string": "life coach",
+                "uid": "2ksaDBZTi"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605884677659,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605964777852,
+            "string": "partnering",
+            "uid": "qMQQMGFMM"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605884530291,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605884545636,
+        "heading": 3,
+        "string": "vision ",
+        "uid": "FD5dY0hWV"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605964953139,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605964958920,
+                "string": "daily meditation",
+                "uid": "Vrv6jfvhc"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605964963112,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1605964975102,
+                "string": "weekly review and planning",
+                "uid": "Jhh8ePFzv"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605884750569,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605884805622,
+            "string": "routine habit ",
+            "uid": "3wSR5xT3n"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605884811722,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605884822310,
+            "string": "productivity process",
+            "uid": "emMLtpx3s"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1605884829933,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1605884836198,
+            "string": "personal knowledge development system",
+            "uid": "BCeNHeUc3"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605884694053,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605886274686,
+        "heading": 3,
+        "string": "process goal and system goal",
+        "uid": "bvD0XF_dT"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605884836195,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605965499197,
+        "heading": 3,
+        "string": "[[Projects MOC]] - tasks and actions",
+        "uid": "vyNJbzFuY"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -48520,6 +48729,22 @@
         "edit-time": 1605948141181,
         "string": "[[horizons of notes]]",
         "uid": "LODOF50l-"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605965168881,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605967157830,
+        "string": "{{query: {and: [[Projects MOC]] [[Active]] {not: [[Templates]]}}}}",
+        "uid": "IE_tE2PA1"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1605966916549,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1605966916549,
+        "string": "",
+        "uid": "HYB43W7e_"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -48569,5 +48794,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1605954017645,
     "title": "November 30th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1605966704218,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1605966704219,
+    "title": "Active"
   }
 ]

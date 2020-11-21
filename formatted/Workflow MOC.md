@@ -82,6 +82,6 @@
 ## [Productivity MOC](<Productivity MOC.md>)
 - [Workflow MOC](<Workflow MOC.md>)
 
-## [The Pilot MOC](<The Pilot MOC.md>)
+## [Projects MOC](<Projects MOC.md>)
 - Developing [Workflow MOC](<Workflow MOC.md>)
 

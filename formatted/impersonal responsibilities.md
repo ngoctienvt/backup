@@ -24,3 +24,6 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 ## [September 28th, 2020](<September 28th, 2020.md>)
 - It's the same for the situation that Huyền is not preparing things and make me feel secure that my needs are taking care of properly. I put my responsibility for Huyền and feel uncomfortable when they do not really care about it. [impersonal responsibilities](<impersonal responsibilities.md>)
 
+## [The Pilot MOC](<The Pilot MOC.md>)
+- [impersonal responsibilities](<impersonal responsibilities.md>)
+

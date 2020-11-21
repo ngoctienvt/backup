@@ -18,6 +18,9 @@
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - To enjoy the process and to learn as a way to improve the enjoyment is a bigger picture. [enjoy the process](<enjoy the process.md>)
 
+## [The Pilot MOC](<The Pilot MOC.md>)
+- purpose - letting go all of inner stuff and enjoy life as it is [enjoy the process](<enjoy the process.md>)
+
 ## [intention](<intention.md>)
 - have a attitude to [enjoy the process](<enjoy the process.md>)
 

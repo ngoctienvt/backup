@@ -17,7 +17,7 @@
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - The [externalization](<externalization.md>) of writing helps us to keep our work outside, and comeback whenever we want so our mind no need to keep them in mind like RAM. [mind-training](<mind-training.md>)
 
-## [Projects](<Projects.md>)
+## [Projects MOC](<Projects MOC.md>)
 - [mind-training](<mind-training.md>)
 
 ## [September 15th, 2020](<September 15th, 2020.md>)

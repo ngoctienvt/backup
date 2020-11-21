@@ -48,7 +48,7 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - [x] work on what I want to share on the [journaling training](<journaling training.md>)
 
-## [Projects](<Projects.md>)
+## [Projects MOC](<Projects MOC.md>)
 - [journaling training](<journaling training.md>)
 
 ## [knowledge development process](<knowledge development process.md>)

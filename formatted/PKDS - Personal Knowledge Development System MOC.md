@@ -52,6 +52,6 @@
 ## [Productivity MOC](<Productivity MOC.md>)
 - [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
-## [The Pilot MOC](<The Pilot MOC.md>)
+## [Projects MOC](<Projects MOC.md>)
 - Developing [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 

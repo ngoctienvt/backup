@@ -42,22 +42,33 @@
 - The 8 core competencies can be divided into 3 categories:
     - 1. Target Competencies (5)
         - [[Demonstrates Ethical Practice]]
-            - "Ethics is knowing the difference between what you have a right to do, and what is right to do." ~ Potter Stewart
-            - Definition: Understands and consistently applies coaching ethics and standards of coaching
+            - __"Ethics is knowing the difference between what you have a right to do, and what is right to do." ~ Potter Stewart__
+            - **Definition: Understands and consistently applies coaching ethics and standards of coaching**
             - Abides by the ICF Code of Ethics and upholds the Core Values
-            - Demonstrates personal integrity, honesty, and confidentiality in all interactions (clients, sponsors, relevant stakeholders)
-            - Is sensitive to clients’ identity, environment, values, experiences, and beliefs
-            - Maintains the distinctions between coaching, consulting, psychotherapy and other support professions…and refers clients to other support professionals, as appropriate
+            - Demonstrates **personal integrity, honesty, and confidentiality** in all interactions (clients, sponsors, relevant stakeholders) 
+                - making clients feeling safe
+            - Is **sensitive to clients’ identity, **environment, values, experiences, and beliefs
+            - Maintains the **distinctions between coaching, consulting, psychotherapy** and other support professions…and refers clients to other support professionals, as appropriate
         - [[Embodies a Coaching Mindset]]
-            - “The more you know yourself, the more patience you have for what you see in others." ~ Eric Erikson
-            - Definition: Develops and maintains a mindset that is open, curious, flexible and client-centered
-            - Acknowledges that clients are responsible for their own choices
-            - Engages in ongoing learning and development as a coach, including ongoing reflective practice
-            - Remains aware of and open to the influence of context and culture on self and others
-            - Develops and maintains the ability to regulate one’s emotions, including mentally and emotionally preparing for sessions
-            - Seeks help from outside sources when necessary
+            - __“The more you know yourself, the more patience you have for what you see in others." ~ Eric Erikson__
+                - We learn to start to be okay with ourselves, we are become easier to understand and empathy with other people.
+            - **Definition: Develops and maintains a mindset that is open, curious, flexible and client-centered**
+            - Acknowledges that** clients are responsible for their own choices**
+            - **Engages in ongoing learning and development as a coach,** including ongoing reflective practice
+            - Remains **aware of** and open to the **influence of context and culture on self and others**
+            - Develops and maintains the **ability to regulate one’s emotions,** including mentally and emotionally preparing for sessions
+            - **Seeks help from outside sources** when necessary
         - [[Maintains Presence]]
+            - “Your presence will always mean more than any presents ever could." ~ LovableQuotes.com
+            - Definition: Is fully conscious and present with the client, employing a style that is open, flexible, grounded and confident
+            - Remains focused, observant, empathetic and responsive to the client; demonstrates curiosity
+            - Manages one’s emotions to stay present with the client
+            - Demonstrates confidence in working with strong client
+            - emotions during the coaching process
+            - Is comfortable working in a space of not knowing
+            - Creates or allows space for silence, pause or reflection
         - [[Listens Actively]]
+            - “Being heard is so close to being loved that for the average person, they are almost indistinguishable." ~ David Augsberger
         - [[Evokes awareness]]
     - 2. Structural Competency (1)
         - [[Establishes and Maintains Agreements]]

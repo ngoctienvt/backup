@@ -42,3 +42,5 @@
     - MOC for further developing and connectingt
     - Evergreen notes 
     - Articles/ Courses
+- {{query: {and: [[Projects MOC]] [[Active]] {not: [[Templates]]}}}}
+- 

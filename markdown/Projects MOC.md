@@ -1,0 +1,21 @@
+- [[Active]]
+    - building a PKDS training program
+        - Developing [[PKDS - Personal Knowledge Development System MOC]]
+        - Learning [[instructional design]]
+    - building a productivity system
+        - Developing [[Workflow MOC]]
+    - consuming
+        - Coaching knowledge
+            - {{[[TODO]]}} Learning The target approach
+            - {{[[TODO]]}} Reading The heart of laser focus coaching
+            - {{[[TODO]]}} Reading A shift in being
+            - {{[[TODO]]}} Reading Coach the person, not the problem
+- Inactive
+    - [[mind-training]]
+    - [[coach training]]
+    - [[journaling training]]
+    - [[A: Suffering]]
+    - [[A: Learning to handle our heart]]
+- Completed
+    - [[P: How I use Roam Research to evolve my mind]]
+- 

@@ -63,6 +63,15 @@
 ## [October 7th, 2020](<October 7th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 
+## [Projects MOC](<Projects MOC.md>)
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 

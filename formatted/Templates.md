@@ -1,3 +1,4 @@
+- {{query: {and: [Projects MOC](<Projects MOC.md>) [Active](<Active.md>) {not: [Templates](<Templates.md>)}}}}
 - Books
     - **[Author](<Author.md>):**
     - **[URL](<URL.md>):**
@@ -44,3 +45,11 @@
     - characteristics
     - procedure
     - process
+
+# Backlinks
+## [November 21st, 2020](<November 21st, 2020.md>)
+- {{query: {and: [Projects MOC](<Projects MOC.md>) [Active](<Active.md>) {not: [Templates](<Templates.md>)}
+
+## [Templates](<Templates.md>)
+- {{query: {and: [Projects MOC](<Projects MOC.md>) [Active](<Active.md>) {not: [Templates](<Templates.md>)}
+

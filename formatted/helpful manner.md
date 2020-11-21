@@ -60,6 +60,9 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [TODO](<TODO.md>)
 - [helpful manner](<helpful manner.md>)
 
+## [The Pilot MOC](<The Pilot MOC.md>)
+- [helpful manner](<helpful manner.md>)
+
 ## [inner work](<inner work.md>)
 - [Bhakti yoga](<Bhakti yoga.md>) for me is actually learn to do everything in a [helpful manner](<helpful manner.md>)
 
