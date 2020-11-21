@@ -43,4 +43,4 @@
     - Evergreen notes 
     - Articles/ Courses
 - {{query: {and: [Projects MOC](<Projects MOC.md>) [Active](<Active.md>) {not: [Templates](<Templates.md>)}}}}
-- 
+- Mature people act because they have something to act, immature people act because they to act something [my quotes](<my quotes.md>) Based on Plato quotes

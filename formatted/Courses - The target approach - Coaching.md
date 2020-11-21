@@ -59,17 +59,58 @@
             - Develops and maintains the **ability to regulate one’s emotions,** including mentally and emotionally preparing for sessions
             - **Seeks help from outside sources** when necessary
         - [Maintains Presence](<Maintains Presence.md>)
-            - “Your presence will always mean more than any presents ever could." ~ LovableQuotes.com
-            - Definition: Is fully conscious and present with the client, employing a style that is open, flexible, grounded and confident
-            - Remains focused, observant, empathetic and responsive to the client; demonstrates curiosity
-            - Manages one’s emotions to stay present with the client
-            - Demonstrates confidence in working with strong client
-            - emotions during the coaching process
-            - Is comfortable working in a space of not knowing
-            - Creates or allows space for silence, pause or reflection
-        - [Listens Actively](<Listens Actively.md>)
-            - “Being heard is so close to being loved that for the average person, they are almost indistinguishable." ~ David Augsberger
+            - __“Your presence will always mean more than any presents ever could." ~ LovableQuotes.com__
+            - **Definition: Is fully conscious and present with the client, employing a style that is open, flexible, grounded and confident**
+            - Remains **focused, observant, empathetic and responsive** to the client; **demonstrates curiosity**
+                - truly demonstrate, not act as if curios
+            - **Manages one’s emotions** to stay present with the client
+            - Demonstrates **confidence in working with strong client emotions** during the coaching process 
+                - able to handle full range of a human heart
+            - Is **comfortable working in a space of not knowing** [empty mind](<empty mind.md>)
+            - Creates or allows **space for silence, pause or reflection** [hold the space](<hold the space.md>)
+                - let them process and signal when they are ready again
+        - [Listens Actively](<Listens Actively.md>) - listen holisticly
+            - __“Being heard is so close to being loved that for the average person, they are almost indistinguishable." ~ David Augsberger__ [inner love](<inner love.md>) [spiritual heart](<spiritual heart.md>)
+                - It's because when people are heard, their heart opens and not close so that their inner shakti can flow, and that's why they feel loved.
+            - **Definition: Focuses on what the client is and is not saying **
+                - **to fully understand what is being communicated **
+                - in the context of the client systems and to support client self-expression.
+            - Considers the **client context including identity,** environment, experiences, values, and beliefs to enhance understanding of what the client is communicating
+            - **Reflects or summarizes** what the client communicated to **ensure clarity and understanding**
+                - keep clients in the moment
+                - focus on the right track
+                - zoom-out point of view
+            - Recognizes and **inquires when there is more to what the client is communicating**
+                - What they mean by "something"?
+                - Ask questions instead of command 
+                    - "What would you want to say more about that?" instead of "Tell me more about that"
+            - Notices, acknowledges and **explores the client’s emotions, energy shifts, non-verbal cues or other behaviors**
+            - **Integrates the client’s words, tone of voice and body language** to determine the full meaning of what is being communicated
+                - write down keywords and their languages
+            - Notices **trends in the client’s behaviors and emotions across sessions** to discern themes and patterns
+                - First session more about learning about the clients
+                - Second session is about notices their patterns
         - [Evokes awareness](<Evokes awareness.md>)
+            - __“Wise [people] speak because they have something to say; fools speak because they have to say something." ~ Plato__ [wise quotes](<wise quotes.md>)
+            - **Definition: Facilitates client insight and learning by **
+                - **using tools and techniques such as **
+                    - powerful questioning, 
+                    - silence, 
+                    - metaphor or analogy.
+            - **Considers client experience** when deciding what might be most useful
+                - How do they deal with challenges or opportunities?
+                - What is the last time they managed to do it?
+            - **Adjusts coaching approach** in response to the client’s needs
+            - **Invites client to share more about their in-the-moment experience**
+            - **Helps the client identify factors that influence current and future patterns** of behavior, thinking or emotion 
+            - **Notices what is working for the client** to enhance client progress [succes factors](<succes factors.md>)
+            - [crafting customized coaching questions](<crafting customized coaching questions.md>)
+                - **Ask questions about the client,** such as their **way of thinking, values, needs, wants and beliefs** [coaching the who](<coaching the who.md>)
+                - **Asks questions** that help the client **explore beyond current thinking** 
+                    - What's the emotion you have informing your action toward that person?
+            - **Shares observations, insights and feelings, without attachment,** that have the potential to create new learning for the client [unattachment observations](<unattachment observations.md>)
+            - **Supports the client in reframing perspectives**
+            - **Invites the client to generate ideas** about how they can move forward and what they are willing or able to do
     - 2. Structural Competency (1)
         - [Establishes and Maintains Agreements](<Establishes and Maintains Agreements.md>)
     - 3. Output Competencies (2)
