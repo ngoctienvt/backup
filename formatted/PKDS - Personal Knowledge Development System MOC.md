@@ -15,8 +15,8 @@
 - Components
     - underlying principle / approach
         - [progressive approach](<progressive approach.md>)
-            - [top-down approach](<top-down approach.md>)
-            - [bottom-up approach](<bottom-up approach.md>) [processed](<processed.md>)
+            - [Top-down Approach MOC](<Top-down Approach MOC.md>)
+            - [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
     - [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
         - [Map of Contents](<Map of Contents.md>)
         - [clean up fleeting notes](<clean up fleeting notes.md>)

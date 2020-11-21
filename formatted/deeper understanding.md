@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- Developing [deeper understanding](<deeper understanding.md>)
+
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - I felt so much fun when teaching and also [deeper understanding](<deeper understanding.md>)
 
@@ -20,9 +23,6 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 
 ## [Templates](<Templates.md>)
 - [deeper understanding](<deeper understanding.md>)
-
-## [bottom-up approach](<bottom-up approach.md>)
-- Developing [deeper understanding](<deeper understanding.md>)
 
 ## [compressed process](<compressed process.md>)
 - The main meaning of [compressed process](<compressed process.md>) is to help you achieve [deeper understanding](<deeper understanding.md>)

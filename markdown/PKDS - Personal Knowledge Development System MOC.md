@@ -15,8 +15,8 @@
 - Components
     - underlying principle / approach
         - [[progressive approach]]
-            - [[top-down approach]]
-            - [[bottom-up approach]] #processed
+            - [[Top-down Approach MOC]]
+            - [[Bottom-up Approach MOC]]
     - [[Personal Knowledge Development cycle]]
         - [[Map of Contents]]
         - [[clean up fleeting notes]]

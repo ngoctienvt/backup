@@ -8,9 +8,9 @@
     - structured and deep understanding
     - learing to enjoy the process instead of skip through to the goals
 - ## Core methods
-    -  [[bottom-up approach]] for merging with the experiences
+    -  [[Bottom-up Approach MOC]] for merging with the experiences
         - [[integration]]
-    -  [[top-down approach]] for focusing myself to certain direction
+    -  [[Top-down Approach MOC]] for focusing myself to certain direction
         - [[Evergreen notes]]
 - ## Core principles
     - living life as a [[circular process]]
@@ -19,7 +19,7 @@
         - see life as continuous process instead of separation stages only [[continuous process]]
     - build up the emerge structure and solidify them over time 
         - [[design for emergence]]
-            - [[bottom-up approach]] to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
+            - [[Bottom-up Approach MOC]] to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
         - building [[basic foundation]]
         - flexibility with [[contextual mastery]] and different direction of development (convergence/divergence)
     - ensure the focus on what's truly effective
@@ -49,17 +49,17 @@
     - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
     - Sometimes __top-down__ creates meaning: Index » MOC » Note
     - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index
-- The [[starting point]] of everything is established a solidify [[basic foundation]] so that I can come back at any time. The role of a basic foundation is to establish a [[top-down approach]], a broad viewpoint that includes things I want to work on. It would help to set me a [[truth compass]] to come back when I feel lost or to expand myself based on the experience that I gained. [[life flow]] [[progressive approach]]
-    - The reason to have a [[starting point]] is to realize that things have different levels or different progress to work on. [[top-down approach]] The starting point is established by 
+- The [[starting point]] of everything is established a solidify [[basic foundation]] so that I can come back at any time. The role of a basic foundation is to establish a [[Top-down Approach MOC]], a broad viewpoint that includes things I want to work on. It would help to set me a [[truth compass]] to come back when I feel lost or to expand myself based on the experience that I gained. [[life flow]] [[progressive approach]]
+    - The reason to have a [[starting point]] is to realize that things have different levels or different progress to work on. [[Top-down Approach MOC]] The starting point is established by 
         - learning and getting used to what's possible, 
         - what's the floor and what's the possible ceiling?
         - what's the meaning of this?
-    - After establishing a starting point, the next thing is about the [[mastery]] process. The process of mastery is what's I actually do in the [[top-down approach]] that I defined. 
+    - After establishing a starting point, the next thing is about the [[mastery]] process. The process of mastery is what's I actually do in the [[Top-down Approach MOC]] that I defined. 
         - It's about listing the things that I want to master. The things to master will have different levels as well. 
             - One is to understand the components.
             - Second is to have a synthesis or a goal to use things together. [[synthesis]]
         - Choose and go deep to acquire a [[deeper understanding]] in each thing [[bottom-up approach
-        - Synthesis things by a [[top-down approach]] that have goals, challenges, application oriented as a result.
+        - Synthesis things by a [[Top-down Approach MOC]] that have goals, challenges, application oriented as a result.
         - Reflection after each learning to condense knowledges and experiences. [[condensing and generative process]]
     - The third step is going beyond.
         - Come back to the foundation and start to [[bottom-up approach things.

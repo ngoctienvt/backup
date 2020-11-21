@@ -17,6 +17,9 @@
 ## [Area of Focus](<Area of Focus.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)
 
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- Learning to [living from the place of surrender](<living from the place of surrender.md>)
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - For [living from the place of surrender](<living from the place of surrender.md>),
 
@@ -80,9 +83,6 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
 - life purpose and principle - [living from the place of surrender](<living from the place of surrender.md>)
-
-## [bottom-up approach](<bottom-up approach.md>)
-- Learning to [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [impersonal responsibilities](<impersonal responsibilities.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)

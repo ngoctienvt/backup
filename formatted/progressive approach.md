@@ -8,9 +8,9 @@
     - structured and deep understanding
     - learing to enjoy the process instead of skip through to the goals
 - ## Core methods
-    -  [bottom-up approach](<bottom-up approach.md>) for merging with the experiences
+    -  [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) for merging with the experiences
         - [integration](<integration.md>)
-    -  [top-down approach](<top-down approach.md>) for focusing myself to certain direction
+    -  [Top-down Approach MOC](<Top-down Approach MOC.md>) for focusing myself to certain direction
         - [Evergreen notes](<Evergreen notes.md>)
 - ## Core principles
     - living life as a [circular process](<circular process.md>)
@@ -19,7 +19,7 @@
         - see life as continuous process instead of separation stages only [continuous process](<continuous process.md>)
     - build up the emerge structure and solidify them over time 
         - [design for emergence](<design for emergence.md>)
-            - [bottom-up approach](<bottom-up approach.md>) to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
+            - [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
         - building [basic foundation](<basic foundation.md>)
         - flexibility with [contextual mastery](<contextual mastery.md>) and different direction of development (convergence/divergence)
     - ensure the focus on what's truly effective
@@ -49,17 +49,17 @@
     - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
     - Sometimes __top-down__ creates meaning: Index » MOC » Note
     - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
-    - The reason to have a [starting point](<starting point.md>) is to realize that things have different levels or different progress to work on. [top-down approach](<top-down approach.md>) The starting point is established by 
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [Top-down Approach MOC](<Top-down Approach MOC.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
+    - The reason to have a [starting point](<starting point.md>) is to realize that things have different levels or different progress to work on. [Top-down Approach MOC](<Top-down Approach MOC.md>) The starting point is established by 
         - learning and getting used to what's possible, 
         - what's the floor and what's the possible ceiling?
         - what's the meaning of this?
-    - After establishing a starting point, the next thing is about the [mastery](<mastery.md>) process. The process of mastery is what's I actually do in the [top-down approach](<top-down approach.md>) that I defined. 
+    - After establishing a starting point, the next thing is about the [mastery](<mastery.md>) process. The process of mastery is what's I actually do in the [Top-down Approach MOC](<Top-down Approach MOC.md>) that I defined. 
         - It's about listing the things that I want to master. The things to master will have different levels as well. 
             - One is to understand the components.
             - Second is to have a synthesis or a goal to use things together. [synthesis](<synthesis.md>)
         - Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>) in each thing [[bottom-up approach
-        - Synthesis things by a [top-down approach](<top-down approach.md>) that have goals, challenges, application oriented as a result.
+        - Synthesis things by a [Top-down Approach MOC](<Top-down Approach MOC.md>) that have goals, challenges, application oriented as a result.
         - Reflection after each learning to condense knowledges and experiences. [condensing and generative process](<condensing and generative process.md>)
     - The third step is going beyond.
         - Come back to the foundation and start to [[bottom-up approach things.
@@ -71,6 +71,11 @@
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
 - Complementing [complement](<complement.md>) [progressive approach](<progressive approach.md>)
+
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- ### Related: [progressive approach](<progressive approach.md>)
+
+- [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
 
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
 - project lists use the concept of the slow burn - [progressive approach](<progressive approach.md>)
@@ -93,11 +98,6 @@
 ## [The Pilot MOC](<The Pilot MOC.md>)
 - [progressive approach](<progressive approach.md>)
 
-## [bottom-up approach](<bottom-up approach.md>)
-- ### Related: [progressive approach](<progressive approach.md>)
-
-- [bottom-up approach](<bottom-up approach.md>) is an approach that a part of [progressive approach](<progressive approach.md>)
-
 ## [intention](<intention.md>)
 - [progressive approach](<progressive approach.md>)
 
@@ -105,7 +105,7 @@
 - [progressive approach](<progressive approach.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [top-down approach](<top-down approach.md>) and close the gap by [bottom-up approach](<bottom-up approach.md>). This [progressive approach](<progressive approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [Top-down Approach MOC](<Top-down Approach MOC.md>) and close the gap by [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>). This [progressive approach](<progressive approach.md>)
 
 - This [progressive approach](<progressive approach.md>)
 
@@ -120,7 +120,7 @@
 - My usage of network note-taking will be based on [progressive approach](<progressive approach.md>)
 
 ## [progressive approach](<progressive approach.md>)
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [top-down approach](<top-down approach.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [Top-down Approach MOC](<Top-down Approach MOC.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [progressive approach](<progressive approach.md>)
 
 - I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. [progressive approach](<progressive approach.md>)
 

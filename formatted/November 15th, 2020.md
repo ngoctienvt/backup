@@ -1,4 +1,4 @@
-- I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [bottom-up approach](<bottom-up approach.md>). [unattachment centering](<unattachment centering.md>)
+- I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>). [unattachment centering](<unattachment centering.md>)
 - 
 - 
 - [weekly reflection](<weekly reflection.md>) 

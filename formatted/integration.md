@@ -1,6 +1,9 @@
 - 
 
 # Backlinks
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- work on [integration](<integration.md>)
+
 ## [Life Polestar](<Life Polestar.md>)
 - [integration](<integration.md>)
 
@@ -53,9 +56,6 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 
 ## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
 - Able to embrace every single experience that the unfolding life giving to me [integration](<integration.md>)
-
-## [bottom-up approach](<bottom-up approach.md>)
-- work on [integration](<integration.md>)
 
 ## [current working](<current working.md>)
 - [ ] Build my [personal workflow](<personal workflow.md>) with the support of [journaling](<journaling.md>), [integration](<integration.md>),

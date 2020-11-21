@@ -45,7 +45,7 @@
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [unattachment centering](<unattachment centering.md>)
 
 ## [November 15th, 2020](<November 15th, 2020.md>)
-- I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [bottom-up approach](<bottom-up approach.md>). [unattachment centering](<unattachment centering.md>)
+- I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>). [unattachment centering](<unattachment centering.md>)
 
 - I noticed that my [unattachment centering](<unattachment centering.md>)
 

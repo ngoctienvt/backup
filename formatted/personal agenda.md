@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- [being coaching](<being coaching.md>) in a [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) way to support other people with their [natural progression](<natural progression.md>) and free of [personal agenda](<personal agenda.md>)
+
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - It felt so good to feel moving forward and become better each day. Let go any thoughts, attachments, accept life as it is so that I could enjoy the life itself without any [personal standards](<personal standards.md>) or [personal agenda](<personal agenda.md>).
 
@@ -19,9 +22,6 @@
 - I still have a conflict between accepting as it is versus want them to be better. The [personal agenda](<personal agenda.md>)
 
 - I still have a conflict between accepting as it is versus want them to be better. The [personal agenda](<personal agenda.md>) for wanting people to be better makes me can't accepting as it is FIRST. I want to set myself to a state that can accept everything as it is without any [personal needs](<personal needs.md>) and [personal agenda](<personal agenda.md>)
-
-## [bottom-up approach](<bottom-up approach.md>)
-- [being coaching](<being coaching.md>) in a [bottom-up approach](<bottom-up approach.md>) way to support other people with their [natural progression](<natural progression.md>) and free of [personal agenda](<personal agenda.md>)
 
 ## [coaching reflection](<coaching reflection.md>)
 - letting go [personal agenda](<personal agenda.md>)

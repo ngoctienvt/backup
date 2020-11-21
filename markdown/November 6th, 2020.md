@@ -1,6 +1,6 @@
 - 
 - Now today I will work on what will be my process to achieve my [[personal end goals]] by closing the gap progressively and not feel stuck.
-    - The [[bottom-up approach]] is about how I could create [[optimal conditions]] and [[design for emergence]] of wisdom. 
+    - The [[Bottom-up Approach MOC]] is about how I could create [[optimal conditions]] and [[design for emergence]] of wisdom. 
     - 
 - It seems like my process to achieve my [[personal end goals]] are
     - Identify - What is my end goal

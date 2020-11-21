@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- ### [real life application](<real life application.md>)
+
 ## [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)
 - [real life application](<real life application.md>)
 
@@ -8,9 +11,6 @@
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - The condensing process is now little bit more [intentional](<intentional.md>) or [goal-driven](<goal-driven.md>), but not too much as [compressed process](<compressed process.md>). This is kind of a [pressure makes diamond](<pressure makes diamond.md>) process. Before actually using for a [real life application](<real life application.md>).
-
-## [bottom-up approach](<bottom-up approach.md>)
-- ### [real life application](<real life application.md>)
 
 ## [information block](<information block.md>)
 - [real life application](<real life application.md>)

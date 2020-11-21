@@ -13,6 +13,9 @@
     - taking [personal responsibilities](<personal responsibilities.md>) for inner disturbances
 
 # Backlinks
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>)
+
 ## [List of samskaras](<List of samskaras.md>)
 will actually use. [abundance appreciation](<abundance appreciation.md>)
 
@@ -58,9 +61,6 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 - [abundance appreciation](<abundance appreciation.md>)
 
 - The characteristics of [abundance appreciation](<abundance appreciation.md>)
-
-## [bottom-up approach](<bottom-up approach.md>)
-- developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>)
 
 ## [polestar of my life](<polestar of my life.md>)
 - [abundance appreciation](<abundance appreciation.md>)

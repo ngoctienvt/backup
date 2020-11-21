@@ -8,6 +8,9 @@
 - [List of samskaras](<List of samskaras.md>)
 
 # Backlinks
+## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+- to let go [samskaras](<samskaras.md>)
+
 ## [List of samskaras](<List of samskaras.md>)
 - [samskaras](<samskaras.md>)
 
@@ -87,9 +90,6 @@ I will be presence myself to interact with them as a whole, not to use them to i
 
 ## [TODO](<TODO.md>)
 - "[samskaras](<samskaras.md>)
-
-## [bottom-up approach](<bottom-up approach.md>)
-- to let go [samskaras](<samskaras.md>)
 
 ## [inner work](<inner work.md>)
 - inner work is the job of the soul to release the [samskaras](<samskaras.md>)

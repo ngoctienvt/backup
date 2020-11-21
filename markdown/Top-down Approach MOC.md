@@ -1,15 +1,10 @@
-- The role of [[top-down approach]] is
-    - aligns, clarify and optimize the things that emerge from [[bottom-up approach]]
-    - 
-- Benefits:
-    - helps to understand thing in a deeper level and honor the moment.
-    - clarify direction
-    - space for nurture and develop things 
-- Components
-    - Identify [[personal end goals]]
-    - Seeing big picture or the direction [[big picture thinking]]
-    - [[soft-boundary]] - not meant for defining what's right or what's wrong, but for 
-        - act with confident, clarity and reduce [[inner conflict]]
+- The role of [[Top-down Approach MOC]] is 
+    - gaining clarity about direction and big picture that emerge from [[Bottom-up Approach MOC]]
+        - [[personal end goals]] 
+        - Seeing big picture or the direction [[big picture thinking]]
+    - align things to serve the end goal or purpose effectively [[on the right track]]
+    - creating space for exploring, experiment and learning without the fear of being wrong
+        - [[soft-boundary]]
         - [[Map of Contents]] [[bottom-line]]
         - The boundary need to be clear about what is okay to be keep open and what is not.
             - What is okay?
@@ -21,4 +16,5 @@
             - What is not okay?
                 - Too many direct connections
                 - Try to link to different context - should be focus on 1 thing only
+- Components
     - [[external knowledge]] for effective learning
