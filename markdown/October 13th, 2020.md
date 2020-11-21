@@ -15,7 +15,7 @@ If we are able to [[establishing the seat of awareness]] inside, we will have no
 - [[establishing the seat of awareness]] is not simply as able to come back to that seat when I disconnect with external things, but it's about how to operate from that seat and connect with external world. [[living from the place of surrender]]
 - 
     - Ideally, I want to have work to focus on and make the learning experience feel so naturally without the divergence of inner state, but convergence instead. [[convergence focus]] versus [[divergence distraction]]
-    - [[convergence focus]] will about I have a thing with [[clear intention]], [[constraint]] and [[top-down approach]] to focus on in a certain period of times with assurance feeling about [[divergence distraction]] that pull me out.
+    - [[convergence focus]] will about I have a thing with [[clear intention]], [[constraint]] and [[top-down approach to focus on in a certain period of times with assurance feeling about [[divergence distraction]] that pull me out.
     - [[divergence distraction]] is also important to work on but the work between [[focus mode]] and [[diffuse mode]], I want to merge them fluidly to each other, so I don't have to make [[conscious choice]] about them.
     - I want to merge my way of living to a flow of water that can harmony with [[flow of life]] instead of always busy making [[conscious choice]]. [[natural progression]] 
 

@@ -1,6 +1,6 @@
 
 # Backlinks
-## [October 27th, 2020](<October 27th, 2020.md>)
+## [top-down approach](<top-down approach.md>)
 - [direct-related connections](<direct-related connections.md>)
 
 - [direct-related connections](<direct-related connections.md>) are the connection that directly relate to its [atomic concept](<atomic concept.md>). The [direct-related connections](<direct-related connections.md>)

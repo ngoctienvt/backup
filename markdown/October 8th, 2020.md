@@ -9,7 +9,7 @@ I also noticed I still have too much [[attachment]] for materials things. This m
         - 
 - After this reflection about [[sexual desire]], I understand much more deeply that there is nothing wrong, everything is an experience and a soul on evolving process. There is no wrong feelings, wrong experiences and wrong existences. [[truth compass]]. 
 
-[[There is nothing wrong, only the lack of wisdom]]. We are so lost that we live the rules by default without the ability to know why there's a need for rules from the beginnings. [[rules]] and [[top-down approach]] are not meant for defining what's right or what's wrong. It's about for helping us realize that is the things we need to work on to evolve our souls.
+[[There is nothing wrong, only the lack of wisdom]]. We are so lost that we live the rules by default without the ability to know why there's a need for rules from the beginnings. 
 - The learning for this is a big step for me to [[true love]], a love that unconditional, fill with impersonal love, respect and [[soul connection]]. [[sharing experiences]] and [[unconditional acceptance]] are the things that true for true love.
 -  I also have a great detachment with my body and my inner energy. I start to release much more my attachment for them [[spiritual growth]]
 - [[basic foundation]] is here like basic, but they are actually core principle to master. And when we can master the basic, the complex is only the combination of basic things. [[mastery]]

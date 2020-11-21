@@ -1,7 +1,7 @@
 - 
 - Now today I will work on what will be my process to achieve my [personal end goals](<personal end goals.md>) by closing the gap progressively and not feel stuck.
     - The [bottom-up approach](<bottom-up approach.md>) is about how I could create [optimal conditions](<optimal conditions.md>) and [design for emergence](<design for emergence.md>) of wisdom. 
-    - While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>), then break it down to become the things that I just need to clarify and to work on by the support of [bottom-up approach](<bottom-up approach.md>).
+    - 
 - It seems like my process to achieve my [personal end goals](<personal end goals.md>) are
     - Identify - What is my end goal
     - Reason - Why I want to achieve this goal

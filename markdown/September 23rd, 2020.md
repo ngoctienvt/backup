@@ -7,7 +7,7 @@
     - The second one is to realize that we can’t study something below what we want to study. What’s inside can’t study what’s outside, but can only experience it. We can’t use things that exist in time and space to study what exists independently with time and space.
         - This one is in the process of experience itself, it improved its ability to handle external things, and will start to learn to be a part of a whole in the right way.
 - I realized that I still have a lot of [[inner conflict]] that makes me [[hesitate]] and not fully [[confident]] to act. These [[inner conflict]] usually because of the [[fear]] of not sure about the results of my action. For example, if I congratz someone, I still feel that if I'm helping or harming that person. [[results]] [[conscious choice]]. [[fear of unknown]]
-    - The reason of these [[inner conflict]] mainly because I'm mainly heavily operating from [[top-down approach]] with no clear boundary or limitation.
+    - 
 
 - 
 - I want to have some activities to [[pay it forward]] and some activities for the soul that have enough [[desire]] to learn to awake.

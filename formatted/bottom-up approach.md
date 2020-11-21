@@ -41,8 +41,6 @@
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - The [bottom-up approach](<bottom-up approach.md>)
 
-- While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>), then break it down to become the things that I just need to clarify and to work on by the support of [bottom-up approach](<bottom-up approach.md>).
-
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [bottom-up approach](<bottom-up approach.md>)
 
@@ -87,5 +85,5 @@
 - [bottom-up approach](<bottom-up approach.md>)
 
 ## [top-down approach](<top-down approach.md>)
-- [top-down approach](<top-down approach.md>) helps to create a direction to utilizes the information that gathered from [bottom-up approach](<bottom-up approach.md>)
+- aligns, clarify and optimize the things that emerge from [bottom-up approach](<bottom-up approach.md>)
 

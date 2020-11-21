@@ -1,4 +1,24 @@
-- [[top-down approach]] is an approach that focuses more on working with detail level and understanding the specific situation or context, the moment, the difference.
-- [[top-down approach]] helps to understand thing in a deeper level and honor the moment.
-- [[top-down approach]] helps to create a direction to utilizes the information that gathered from [[bottom-up approach]] to a specific usage.
-- [[top-down approach]] is just simply create a space for me to work things on, not to start from there downward, but actually create a destination for me to build-up to there overtime.
+- The role of [[top-down approach]] is
+    - aligns, clarify and optimize the things that emerge from [[bottom-up approach]]
+    - 
+- Benefits:
+    - helps to understand thing in a deeper level and honor the moment.
+    - clarify direction
+    - space for nurture and develop things 
+- Components
+    - Identify [[personal end goals]]
+    - Seeing big picture or the direction [[big picture thinking]]
+    - [[soft-boundary]] - not meant for defining what's right or what's wrong, but for 
+        - act with confident, clarity and reduce [[inner conflict]]
+        - [[Map of Contents]] [[bottom-line]]
+        - The boundary need to be clear about what is okay to be keep open and what is not.
+            - What is okay?
+                - add-on information - are information that will be accumulated and condensed and restructred if it started to excess number 5.
+                - [[direct-related connections]] are the connection that directly relate to its [[atomic concept]]. The [[direct-related connections]] can also become the [[atomic concept]] of other smaller connections
+                    - The highest atomic thing would be me. [[trueself]] Anything else is just my relationship with them.
+                - Limited direct connection - temporary maximum 5.
+                    - When there are more than 5 connections, it's a good time to condense these things and organize them in a hierarchy way. So that's making sure there is only 5 [[direct-related connections]] for the [[atomic concept]].
+            - What is not okay?
+                - Too many direct connections
+                - Try to link to different context - should be focus on 1 thing only
+    - [[external knowledge]] for effective learning

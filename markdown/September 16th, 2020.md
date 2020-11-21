@@ -19,7 +19,7 @@
     -  wisdom.
         - It makes the students less independent thinking and may rely on the trainer or the teacher.
         - It makes the student less creative and may develop the fear of being wrong, instead of [[grower mindset]].
-    - While practices or activities is kind of [[top-down approach]] due to the accumulation of experience or self-learning that students gather for themselves in the process. This approach limitation is the students will not feel that they are able to do or learn much in the beginning.
+    - While practices or activities is kind of [[top-down approach due to the accumulation of experience or self-learning that students gather for themselves in the process. This approach limitation is the students will not feel that they are able to do or learn much in the beginning.
         - However, in the long-run, this approach will get [[accumulated interest]] and pay off later. 
         - It also makes the students develop independent thinking and less rely on the trainer.
         - It makes the students expand themselves fearlessly and develop [[grower mindset]], which is excellent.

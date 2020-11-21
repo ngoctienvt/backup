@@ -6,18 +6,7 @@
         - For this to be complete, I need to be clear about the [organic self-generated structure](<organic self-generated structure.md>) of Roam Research so that I could be free to do anything without the fear of [inconvenient](<inconvenient.md>) to fix things.
         - I would like to develop a established [trust the process](<trust the process.md>) attitude, and everything is on their process of better, and even learn to have an [abundance appreciation](<abundance appreciation.md>) for activities that I feel uncomfortable and waste of time. 
         - Some keywords need to be clear
-            - [top-down approach](<top-down approach.md>)
-                - My work about this is there need to be a boundary for each [atomic concept](<atomic concept.md>) so that I would know what's appropriate and what's not appropriate to add to a node. So that I can somehow format the way I see them and not feel disorganized inside my head.
-                - The boundary need to be clear about what is okay to be keep open and what is not.
-                    - What is okay?
-                        - add-on information - are information that will be accumulated and condensed and restructred if it started to excess number 5.
-                        - [direct-related connections](<direct-related connections.md>) are the connection that directly relate to its [atomic concept](<atomic concept.md>). The [direct-related connections](<direct-related connections.md>) can also become the [atomic concept](<atomic concept.md>) of other smaller connections
-                            - The highest atomic thing would be me. [trueself](<trueself.md>) Anything else is just my relationship with them.
-                        - Limited direct connection - temporary maximum 5.
-                            - When there are more than 5 connections, it's a good time to condense these things and organize them in a hierarchy way. So that's making sure there is only 5 [direct-related connections](<direct-related connections.md>) for the [atomic concept](<atomic concept.md>).
-                    - What is not okay?
-                        - Too many direct connections
-                        - Try to link to different context - should be focus on 1 thing only
+            - 
             - [organic self-generated structure](<organic self-generated structure.md>) [support system](<support system.md>)
                 - The first most important thing for me is realizing that I'm not depending on the structure. I'm putting everything on myself, and if I'm loss anything, I still have myself. [independent competency](<independent competency.md>)
 

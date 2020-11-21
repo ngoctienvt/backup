@@ -15,12 +15,13 @@
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - Now today I will work on what will be my process to achieve my [personal end goals](<personal end goals.md>)
 
-- While [top-down approach](<top-down approach.md>) will start mainly with my [personal end goals](<personal end goals.md>),
-
 - It seems like my process to achieve my [personal end goals](<personal end goals.md>)
 
 ## [Workflow MOC](<Workflow MOC.md>)
 - The idea is generating better-self everyday, everytime and every moments. As long as I can do this, I will be sure to always have a better life. [personal end goals](<personal end goals.md>)
 
 -  [personal end goals](<personal end goals.md>)
+
+## [top-down approach](<top-down approach.md>)
+- Identify [personal end goals](<personal end goals.md>)
 

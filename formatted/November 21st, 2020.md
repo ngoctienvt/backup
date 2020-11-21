@@ -20,4 +20,25 @@
         - Working on horizon concept for level up my way of thinking
         - Working on [energy management](<energy management.md>)
 - I noticed that most people don't have a systematic way for [big picture thinking](<big picture thinking.md>). It's just so natural to me that I'm taking it for granted. I will focus more on this, as it will be an important component for my [progressive approach](<progressive approach.md>). It's about seeing the forest, not the trees.
-- 
+    - To see the big picture, it's about seeing
+        - the relationship between things
+        - the hierarchy of things
+- [horizons of concept](<horizons of concept.md>) Personal Knowledge Development System as example
+    - The bottom level is the scattering of information
+        - it's about noticing the need for collecting, shaping, forming, unifying, creating...
+    - The higher level is the relationship between of information formed into stages and phases
+        - Structuring, grouping, and noticing the meaning of the relationship - PKDS process
+    - The next level is the underlying principle or approach
+        - The principle and approach to execute the PKDS process effectively
+    - Then it's about the process or the system to use the concept
+        - Workflow to execute, review, nurture the PKDS process 
+    - The highest level is the purpose and the vision of the concept
+        - How PKDS will serve us
+        - The meaning of having a PKDS 
+- Purpose/Vision -> Process goal/ System goal -> Principle/ Approach -> Relationship-formiing -> Information bottom-up
+- [horizons of notes](<horizons of notes.md>)
+    - Collecting scattering thoughts
+    - Concept, idea forming and structuring
+    - MOC for further developing and connectingt
+    - Evergreen notes 
+    - Articles/ Courses

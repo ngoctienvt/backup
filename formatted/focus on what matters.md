@@ -20,9 +20,6 @@
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - Pareto principle is [focus on what matters](<focus on what matters.md>)
 
-## [November 20th, 2020](<November 20th, 2020.md>)
-- [bottom-up approach](<bottom-up approach.md>) will help us to aware and notice what's the direction that universe wants us to do, while [top-down approach](<top-down approach.md>) will help us to align our life to that direction and serve it in an efficient way. The important is not about efficiency, it's about the willingness to embrace life, step on the direction and then moving on that direction efficiently. [focus on what matters](<focus on what matters.md>)
-
 ## [Productivity MOC](<Productivity MOC.md>)
 - [focus on what matters](<focus on what matters.md>)
 

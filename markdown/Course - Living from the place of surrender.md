@@ -47,7 +47,7 @@
             - Is the [[moment]] in front of me is the only moment in the universe?
             - Where does the moment in front of me coming from?
             - What makes me not okay with the moment that are giving to me?
-            - The [[training method]] of Michael Singer is teaching students from a [[top-down approach]] that starts with what's the truth, proving it and linking it slowly to the understanding of students. It creates conflict and separation in the mind of the students between the perception and the absolute truth. 
+            - The [[training method]] of Michael Singer is teaching students from a [[top-down approach that starts with what's the truth, proving it and linking it slowly to the understanding of students. It creates conflict and separation in the mind of the students between the perception and the absolute truth. 
             - Due to this, students can start to learn to let go of the untruth, so they can realize what's left. The truth is always there, it didn't need you to agree that it's true or create your perception about it. It just needs us to open and aware its existence. [[absolute truth]] [[perception]] [[existence]]
     - ### Summary
         - In Session One, you became aware that you are in there. It should be easy to see this, but typically **we focus on what is happening in there**—**instead of the fact that we are actually in there.** You are not your thoughts, your emotions, or the reflection you see in the mirror—you are the one who is looking.

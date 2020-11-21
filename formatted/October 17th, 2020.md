@@ -79,13 +79,12 @@ not put the responsibility on them. [personal responsibilities](<personal respon
 - It seems like for buying necessary things. Half of the price that I feel comfortable to pay is a good way to make choice. [the middle way](<the middle way.md>)
 - There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual mastery](<contextual mastery.md>)
     - [self-learning](<self-learning.md>) come to context with a [[bottom-up approach attitude.
-    - [external knowledge](<external knowledge.md>) help to optimize the situation from a [top-down approach](<top-down approach.md>)
+    - [external knowledge](<external knowledge.md>) help to optimize the situation from a [[top-down approach
 - [From separation to union life](<From separation to union life.md>) [integration](<integration.md>) [natural progression](<natural progression.md>)
     - The societies split life into many different aspects
         - Work, life, social, entertainment, spiritual...
         - Physics, Math, Biology,...
         - father, son, colleague, friend, trainer, coach...
-    - It's helpful to split things down so we can perform ourselves on that role and learn to master these roles separately. However, it's also unconsciously create hard [top-down approach](<top-down approach.md>) and split our trueself to many different aspects.
     - There is only one life, there is no hard-boundary in life. The splitting is the result of human mind and our job is not to believe that how it works. The truth is life are one.
     - All of the words that based on [separation](<separation.md>) mindset is work-life balance, coach, trainer, father, mother, son, boyfriend, girl friend, roles,...
 - 
