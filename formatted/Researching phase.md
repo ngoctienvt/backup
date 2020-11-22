@@ -1,8 +1,8 @@
 
 # Backlinks
 ## [November 22nd, 2020](<November 22nd, 2020.md>)
-- [Creating phase](<Creating phase.md>)
+- [Researching phase](<Researching phase.md>)
 
 ## [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
-- [Creating phase](<Creating phase.md>)
+- [Researching phase](<Researching phase.md>)
 

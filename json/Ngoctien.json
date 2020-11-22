@@ -33830,9 +33830,17 @@
           }
         ],
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605948406843,
+        "edit-time": 1606013902845,
         "string": "{{[[roam/js]]}}",
         "uid": "IOlqz3CKL"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014413629,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014807281,
+        "string": "",
+        "uid": "K7A5uOlMN"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -39818,8 +39826,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605231269969,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605251887520,
-            "string": "[[Assembling phase]] - bottom-up knowledge - ",
+            "edit-time": 1606012754616,
+            "string": "[[Researching phase]] - bottom-up knowledge - ",
             "uid": "s6WMceej9"
           },
           {
@@ -39965,28 +39973,72 @@
           {
             "children": [
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606012965258,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606013003839,
+                    "string": "Outlining",
+                    "uid": "b2heusktD"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606013003834,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606013008372,
+                    "string": "Drafting",
+                    "uid": "mBnp-hVMd"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606013008369,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606013082635,
+                    "string": "Editing",
+                    "uid": "D16Z_wMz8"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606013018401,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606013089184,
+                    "string": "Revising/ Proofreading",
+                    "uid": "YmnFfuAgA"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606013090464,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606013097536,
+                    "string": "Publishing",
+                    "uid": "2EzggXnUy"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605230772244,
+                "create-time": 1606012961477,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605232381523,
-                "string": "Writing articles",
-                "uid": "IfhQW1mmu"
+                "edit-time": 1606012965261,
+                "string": "Writing process",
+                "uid": "jRCvKW1z-"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606013122009,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606013122009,
+                    "string": "",
+                    "uid": "w7cjEe2Tx"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605230779365,
+                "create-time": 1606013108889,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605232381522,
-                "string": "Creating training courses",
-                "uid": "feR1oOeIJ"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605230791021,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605232381523,
-                "string": "...",
-                "uid": "n76Mrzgzp"
+                "edit-time": 1606013122014,
+                "string": "Developing a training program process",
+                "uid": "9RWDJ8GiC"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -42653,8 +42705,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1605231276394,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605231524793,
-    "title": "Assembling phase"
+    "edit-time": 1606012754616,
+    "title": "Researching phase"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -49199,10 +49251,241 @@
     "title": "unattachment observations"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606012434617,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606012437157,
+                    "string": "Consuming",
+                    "uid": "NKqp2EUzh"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606012437153,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606012453018,
+                    "string": "Processing",
+                    "uid": "t5g9Gr-k2"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606012453012,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606012458225,
+                    "string": "Unifying",
+                    "uid": "9m6Q1qKBj"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606012458222,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606012487056,
+                    "string": "Thinking...",
+                    "uid": "Lzdx5lU96"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606012414498,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606012434623,
+                "string": "Types of tasks",
+                "uid": "shFyFRjB2"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606012282819,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606012475541,
+            "string": "My [[Workflow MOC]] will let me know what type of task that I want to work on",
+            "uid": "E0oz_wzKM"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606012534761,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606012754616,
+                        "string": "[[Researching phase]]",
+                        "uid": "faJ8bQNWJ"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606012642328,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606012647309,
+                        "string": "[[Developing phase]]",
+                        "uid": "gwzYN36Ec"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606012647306,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606012653310,
+                        "string": "[[Creating phase]]",
+                        "uid": "l1UKRk2EA"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606012517740,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606013173357,
+                    "string": "[[project management]] Area of focus or projects will have different stages to work on",
+                    "uid": "rF1fO4UjG"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606012333241,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606012354548,
+                "string": "Weekly planning I will plan about projects and schedule activities",
+                "uid": "WL_Q9wNRe"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606012354545,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606013988130,
+                "string": "Daily planning I will plan about the specific tasks that I want to focus on that day",
+                "uid": "ny4_6Nz3z"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606012303409,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606012333244,
+            "string": "Task & project management will store list of tasks and projects that I want to focus on.",
+            "uid": "SutUSuTlT"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606012222351,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606012399308,
+        "string": "I noticed that my workflow, task & project management, and weekly/daily planning will be tightly related to each other. [[The Pilot MOC]]",
+        "uid": "i1Fz_5rFO"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606014950390,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606014952961,
+            "string": "var existing = document.getElementById(\"query-builder\");if (!existing) {  var extension = document.createElement(\"script\");  extension.src = \"https://roamjs.com/query-builder.js\";  extension.id = \"query-builder\";  extension.async = false;  extension.type = \"text/javascript\";  document.getElementsByTagName(\"head\")[0].appendChild(extension);}",
+            "uid": "v6LuhWDRp"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014924016,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014947300,
+        "string": "{{[[roam/js]]}}",
+        "uid": "FwHA301Qj"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014848789,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014848789,
+        "string": "",
+        "uid": "k1Rq4Mcu0"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014664706,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014664706,
+        "string": "",
+        "uid": "WcL-Hzxyz"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014643645,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014643645,
+        "string": "",
+        "uid": "AhWnRqiJM"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014635533,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014635533,
+        "string": "",
+        "uid": "mDPEwcQBL"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014621684,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014621684,
+        "string": "",
+        "uid": "AvnxVZDt9"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014612628,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014612628,
+        "string": "",
+        "uid": "u_di9sk44"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014498778,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014572886,
+        "string": " ",
+        "uid": "I3QuBHJ4N"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014490365,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014490365,
+        "string": "",
+        "uid": "AalCCwpaM"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014459360,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014459360,
+        "string": "",
+        "uid": "nxQtuyMQ3"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606014447979,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606014447979,
+        "string": "",
+        "uid": "Mw3X759gm"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606005880713,
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606005880714,
     "title": "November 22nd, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606012525679,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606012525680,
+    "title": "project management"
   }
 ]

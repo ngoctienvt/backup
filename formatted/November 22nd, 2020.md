@@ -1,5 +1,5 @@
-- I noticed that my workflow, task & project management, and weekly/daily planning will be tightly related to each other. [[The Pilot MOC]]
-    - My [[Workflow MOC]] will let me know what type of task that I want to work on
+- I noticed that my workflow, task & project management, and weekly/daily planning will be tightly related to each other. [The Pilot MOC](<The Pilot MOC.md>)
+    - My [Workflow MOC](<Workflow MOC.md>) will let me know what type of task that I want to work on
         - Types of tasks
             - Consuming
             - Processing
@@ -7,12 +7,12 @@
             - Thinking...
     - Task & project management will store list of tasks and projects that I want to focus on.
         - Weekly planning I will plan about projects and schedule activities
-            - [[project management]] Area of focus or projects will have different stages to work on
-                - [[Researching phase]]
-                - [[Developing phase]]
-                - [[Creating phase]]
+            - [project management](<project management.md>) Area of focus or projects will have different stages to work on
+                - [Researching phase](<Researching phase.md>)
+                - [Developing phase](<Developing phase.md>)
+                - [Creating phase](<Creating phase.md>)
         - Daily planning I will plan about the specific tasks that I want to focus on that day
-- {{[[roam/js]]}}
+- {{[roam/js](<roam/js.md>)}}
     - var existing = document.getElementById("query-builder");if (!existing) {  var extension = document.createElement("script");  extension.src = "https://roamjs.com/query-builder.js";  extension.id = "query-builder";  extension.async = false;  extension.type = "text/javascript";  document.getElementsByTagName("head")[0].appendChild(extension);}
 - 
 - 

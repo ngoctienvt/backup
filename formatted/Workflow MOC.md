@@ -79,6 +79,9 @@
 ## [November 19th, 2020](<November 19th, 2020.md>)
 - Second is I'm starting to learn to organize my life productively by learning about the system of [Ali Abdaal](<Ali Abdaal.md>) and integrating them with my [Workflow MOC](<Workflow MOC.md>)
 
+## [November 22nd, 2020](<November 22nd, 2020.md>)
+- My [Workflow MOC](<Workflow MOC.md>)
+
 ## [Productivity MOC](<Productivity MOC.md>)
 - [Workflow MOC](<Workflow MOC.md>)
 

@@ -28,6 +28,9 @@
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
 - ### [The Pilot MOC](<The Pilot MOC.md>)
 
+## [November 22nd, 2020](<November 22nd, 2020.md>)
+- I noticed that my workflow, task & project management, and weekly/daily planning will be tightly related to each other. [The Pilot MOC](<The Pilot MOC.md>)
+
 ## [Productivity MOC](<Productivity MOC.md>)
 - [The Pilot MOC](<The Pilot MOC.md>)
 
