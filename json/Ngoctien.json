@@ -33835,11 +33835,39 @@
         "uid": "IOlqz3CKL"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606015123761,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606015390888,
+                "string": "```javascript\nvar existing = document.getElementById(\"query-builder\");\nif (!existing) {\n  var extension = document.createElement(\"script\");\n  extension.src = \"https://roamjs.com/query-builder.js\";\n  extension.id = \"query-builder\";\n  extension.async = false;\n  extension.type = \"text/javascript\";\n  document.getElementsByTagName(\"head\")[0].appendChild(extension);\n}```",
+                "uid": "y03q2JSEr"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606015123761,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606015123779,
+            "string": "{{[[roam/js]]}}",
+            "uid": "aNvupx7n5"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606015442568,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606015442563,
+            "string": "",
+            "uid": "S1l-Y8vL4"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606014413629,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606014807281,
-        "string": "",
+        "edit-time": 1606015442574,
+        "string": "Query Builder",
         "uid": "K7A5uOlMN"
       }
     ],
@@ -49377,36 +49405,26 @@
         "uid": "i1Fz_5rFO"
       },
       {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606014950390,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606014952961,
-            "string": "var existing = document.getElementById(\"query-builder\");if (!existing) {  var extension = document.createElement(\"script\");  extension.src = \"https://roamjs.com/query-builder.js\";  extension.id = \"query-builder\";  extension.async = false;  extension.type = \"text/javascript\";  document.getElementsByTagName(\"head\")[0].appendChild(extension);}",
-            "uid": "v6LuhWDRp"
-          }
-        ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606014924016,
+        "create-time": 1606015141953,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606014947300,
-        "string": "{{[[roam/js]]}}",
-        "uid": "FwHA301Qj"
+        "edit-time": 1606015541876,
+        "string": "",
+        "uid": "M5PPKigC1"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606014848789,
+        "create-time": 1606015138096,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606014848789,
+        "edit-time": 1606015138096,
         "string": "",
-        "uid": "k1Rq4Mcu0"
+        "uid": "G2EbRcarm"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606014664706,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606014664706,
+        "edit-time": 1606015511656,
         "string": "",
         "uid": "WcL-Hzxyz"
       },
