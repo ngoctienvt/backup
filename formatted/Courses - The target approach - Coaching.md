@@ -1,5 +1,6 @@
 - Link: https://carlyanderson.com/members-only/the-upgraded-target-approach-ia
-- ## 2 key concepts
+- Tags: #[Coaching MOC](<Coaching MOC.md>)
+- ### 2 key concepts
     - ### The concept of "partnering" with your client
         - shoulder-to-shoulder, not hierarchical relationship
         - "partnering" is the concept for three core competencies
@@ -39,7 +40,7 @@
             - the client **relationship** to overwhelm,
             - which is an internal experience and self-given description of how a person feels about how much they have to do. 
             - What’s the cause of their overwhelm?
-- The 8 core competencies can be divided into 3 categories:
+- ### The 8 core competencies can be divided into 3 categories:
     - 1. Target Competencies (5)
         - [Demonstrates Ethical Practice](<Demonstrates Ethical Practice.md>)
             - __"Ethics is knowing the difference between what you have a right to do, and what is right to do." ~ Potter Stewart__
@@ -113,10 +114,64 @@
             - **Invites the client to generate ideas** about how they can move forward and what they are willing or able to do
     - 2. Structural Competency (1)
         - [Establishes and Maintains Agreements](<Establishes and Maintains Agreements.md>)
+            - __“If you don’t know where you are going, you’ll probably end up somewhere else." ~ Yogi Berra__
+            - **Definition: **
+                - Partners with the client and relevant stakeholders to create clear agreements about the coaching relationship, process, plans and goals.
+                - Establishes agreements for the overall coaching engagement as well as those for each coaching session.
+            - Process partnering
+                - https://carlyanderson.com/what-is-process-partnering
+                - For overall coaching engagement
+                    - 3.1 – **Explains what coaching is and is not** and describes the process to the client and relevant stakeholders
+                    - 3.2 –** Reaches agreement about what is and is not appropriate in the relationship,** what is and is not being offered, and the responsibilities of the client and relevant stakeholders
+                    - 3.3 – Reaches agreement about the guidelines and specific parameters of the coaching relationship such as logistics, fees, scheduling, duration, termination, confidentiality and inclusion of others
+                    - 3.4 – Partners with the client and relevant stakeholders to establish an overall coaching plan and goals
+                    - 3.5 – Partners with the client to determine coach-client compatibility
+                    - 3.8 – Partners with the client to define or reconfirm measures of success for what the client wants to accomplish in the coaching engagement, or individual session
+                    - 3.11 – Partners with the client to end the coaching relationship in a way that honors the experience
+                - • For each coaching session
+                    - Think about connection and follow their agendas
+                    - Metaphor: 
+                        - explore cloud on the sky
+                        - or explore shadow, something in the middle
+                        - or the flower on the ground
+                    - 3.6 – Partners with the client to identify or reconfirm what they want to accomplish in the session
+                    - 3.7 – Partners with the client to define **what the client believes they need to address or resolve to achieve what they want to accomplish in the session**
+                        - What's in the way?
+                        - How do you want to be in the relation to that?
+                    - 3.8 – Partners with the client to** define or reconfirm measures of success** for what the client wants to accomplish in the coaching engagement or individual session
+                        - How do you feel now?
+                        - How do you want to feel about that? 
+                        - What do you noticing now comparing to the start of the session?
+                    - 3.9 – Partners with the client to **manage the time and focus of the session**
+                    - 3.10 – **Continues coaching in the direction of the client’s desired outcome** unless the client indicates otherwise
     - 3. Output Competencies (2)
         - [Cultivates trust and safety](<Cultivates trust and safety.md>)
+            - __“Trust is the glue of life. It’s the foundational principle that holds all relationships." ~ Stephen Covey__
+            - **Definition:** 
+                - Partners with the client to create a safe, supportive environment that allows the client to share freely. 
+                - Maintains a relationship of mutual respect and trust.
+            - **Seeks to understand the client within their context** such as their identity, environment, experiences, values, beliefs.
+            - **Demonstrates respect for the client’s identity,** perceptions, style and language and adapts one’s coaching to the client.
+                - Use their languages, honor their experiences
+            - **Acknowledges and respects client** unique talents, insights and work in the coaching process.
+            - **Shows support, empathy and concern for the client.**
+            - Acknowledges and **supports the client’s expression **of feelings, perceptions, concerns, beliefs, suggestions.
+            - **Demonstrates openness and transparency** as a way to display vulnerability and build trust with the client.
         - [Facilitates Client Growth](<Facilitates Client Growth.md>)
-- 
+            - __“Insight is not a light bulb that goes off inside our head. It is a flickering candle that can easily be snuffed out. ~ Malcolm Gladwell__
+                - Help them to solidify their insights
+            - **Definition: **
+                - **Partners with the client to transform learning and insight into action. **
+                    - Asking about learning
+                - **Promotes client autonomy in the coaching process.**
+                    - Let them learn to self-navigate
+            - Partners with the client to summarize learning and insight within or between sessions
+            - Works with the client to integrate new awareness, insight or learning into their worldview and behaviours
+            - Celebrates the client’s progress and successes
+            - Partners with the client to design goals, actions and accountability measures that integrate and expand new learning
+            - Acknowledges and supports client autonomy in the design of goals, actions and methods of accountability
+            - Supports the client in identifying potential results or learning from identified action steps
+            - Invites the client to consider how to move forward, including resources, support and potential barriers
 
 # Backlinks
 ## [Resources](<Resources.md>)

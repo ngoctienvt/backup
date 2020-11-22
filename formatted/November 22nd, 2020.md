@@ -22,4 +22,5 @@
     - nurture desire and willingness to free yourself and live a surrender life 
 - I felt that I'm starting to release more and more my attachments due to the awareness that everything has its own level of development. I can't let my own samskaras to put my standards and expectations to other people. They are what I need to let go, not what I need to reinforce on. [samskaras](<samskaras.md>)
 -  I noticed that's when offer [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) to buy for me a book, there is a need inside of me that doesn't want to waste and use it effectively, while I also want to somehow have it influence her in a good way somehow indirectly. It's my big lesson to let go my [need for efficient](<need for efficient.md>) first, then it's simply a way for me to support her indirectly.
+-  I learned that it's better to do all the [admin tasks](<admin tasks.md>) first, so that I can just focus on the important things, instead of multi-tasking, because I need to not just simply hear the information, but also let it fully go in and digest the information and the experiences.
 -  
