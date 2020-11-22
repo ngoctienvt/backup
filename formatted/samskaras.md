@@ -25,6 +25,9 @@
 ## [November 17th, 2020](<November 17th, 2020.md>)
 - Today when hearing about next week I have to come back to Vung Tau to examine my health for national service. I feel really uncomfortable inside my heart, fear, anxiety, worry, resistance,... and this is truly a big [samskaras](<samskaras.md>)
 
+## [November 22nd, 2020](<November 22nd, 2020.md>)
+- I felt that I'm starting to release more and more my attachments due to the awareness that everything has its own level of development. I can't let my own samskaras to put my standards and expectations to other people. They are what I need to let go, not what I need to reinforce on. [samskaras](<samskaras.md>)
+
 ## [November 7th, 2020](<November 7th, 2020.md>)
 - I noticed that I still feel there are some [samskaras](<samskaras.md>)
 

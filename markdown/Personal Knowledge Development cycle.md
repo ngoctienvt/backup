@@ -1,5 +1,5 @@
 -  Personal Knowledge Development cycle
-    - [[Researching phase]] - bottom-up knowledge - 
+    - [[Learning phase]] - bottom-up knowledge - 
         - Collecting stage - area of interest
             - Smart note-taking external knowledge (books, articles, courses, podcasts...) - objects inside area of interest
                 - Interesting concepts, ideas, point of view

@@ -4,22 +4,22 @@
             - Consuming
             - Processing
             - Unifying
+            - Releasing...
             - Thinking...
     - Task & project management will store list of tasks and projects that I want to focus on.
         - Weekly planning I will plan about projects and schedule activities
             - [[project management]] Area of focus or projects will have different stages to work on
-                - [[Researching phase]]
+                - [[Learning phase]]
                 - [[Developing phase]]
                 - [[Creating phase]]
         - Daily planning I will plan about the specific tasks that I want to focus on that day
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- [[horizons of spiritual growth]]
+    - no-self - universal consiousness
+    - serving and raising the unfolding reality
+    - handle high-hanging fruits
+    - handle low-hanging fruits (weather, past experiences, limiting beliefs...)
+    - nurture presence or centering on the seat of awareness
+    - nurture desire and willingness to free yourself and live a surrender life 
+- I felt that I'm starting to release more and more my attachments due to the awareness that everything has its own level of development. I can't let my own samskaras to put my standards and expectations to other people. They are what I need to let go, not what I need to reinforce on. [[samskaras]]
+-  I noticed that's when offer [[@Nguyễn Mỹ Linh]] to buy for me a book, there is a need inside of me that doesn't want to waste and use it effectively, while I also want to somehow have it influence her in a good way somehow indirectly. It's my big lesson to let go my [[need for efficient]] first, then it's simply a way for me to support her indirectly.
 -  
-- 
-- 
-- 
