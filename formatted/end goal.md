@@ -14,11 +14,11 @@
     - digging deep to reveal what's important or hidden concern
 
 # Backlinks
-## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
-- To search a cluster of things that I want to look for with no need to keep them in a hierarchy organization. Be able to search or group what I want is the most important reason for why I want to have a hierarchy organization. [end goal](<end goal.md>)
-
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - What is your end goal here? And what is 20% that I need to do to achieve it? [end goal](<end goal.md>)
+
+## [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
+- To search a cluster of things that I want to look for with no need to keep them in a hierarchy organization. Be able to search or group what I want is the most important reason for why I want to have a hierarchy organization. [end goal](<end goal.md>)
 
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [end goal](<end goal.md>)

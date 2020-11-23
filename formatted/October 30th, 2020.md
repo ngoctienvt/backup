@@ -4,7 +4,7 @@ I also noticed that my coaching is heavily a learning process, instead of proble
 - Today focus
     - Finishing edit video 7
     - Coaching reflection deeply in next few days
-    - Planning to learn [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+    - Planning to learn [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 - I also noticed that I'm on a stage breaking my mind limit, so that it could not make me trust to the information that it drew from my past experiences. [limiting thoughts](<limiting thoughts.md>). I'm so naïve to trust it based on its statically insignificant data. [wisdom](<wisdom.md>)
 
 If I want to know something, I need to be the one who really check it and [getting in touch with reality](<getting in touch with reality.md>), not listen to the [limiting thoughts](<limiting thoughts.md>) of my mind. [current working](<current working.md>)

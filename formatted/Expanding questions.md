@@ -16,7 +16,7 @@
     - 
 
 # Backlinks
-## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+## [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 - I will work on to have my own synthesis and condensing process first. It will need to solve few big [Expanding questions](<Expanding questions.md>)
 
 ## [Expanding questions](<Expanding questions.md>)

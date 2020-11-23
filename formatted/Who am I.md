@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - [Who am I](<Who am I.md>)
 
 ## [November 1st, 2020](<November 1st, 2020.md>)

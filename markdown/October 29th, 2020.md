@@ -9,7 +9,7 @@ I will be presence myself to interact with them as a whole, not to use them to i
         - [[true freedom]] and [[true happiness]] are what everyone want, every goal if I look deeply, it only based on two things [[end goal]]
         - One is the inner samskaras so that we could satisfy its need
             - Two is the inner shakti that feed you with tremendous happiness, joy, peace, and you want to express it outside to raise the external moments up.
-- I will focus on learning [[Course - Effortless Output with Roam]] next week, so that I could learn to use Roam more effectively, and get input to build my [[journaling training]] as well.
+- I will focus on learning [[Courses - Effortless Output with Roam]] next week, so that I could learn to use Roam more effectively, and get input to build my [[journaling training]] as well.
 - How can I see like as a [[continuous process]] is still what I'm not really clear. I still have the tendency to breakdown life, and not able to fully integrate my way of looking it yet.
 - [Kindle Highlights Formatter](https://kindle-formatter.vercel.app/)
 - [[Articles - Start a blog]]

@@ -171,17 +171,20 @@
 
 # Backlinks
 ## [October 17th, 2020](<October 17th, 2020.md>)
-- Untitled_2 [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+- Untitled_2 [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
+
+## [Projects MOC](<Projects MOC.md>)
+- [ ] Taking note [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 
 ## [Resources](<Resources.md>)
-- [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+- [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 
 ## [Roam Research keyword rules](<Roam Research keyword rules.md>)
-- gerund for practices [letting go](<letting go.md>) [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+- gerund for practices [letting go](<letting go.md>) [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
-- Using [Roam Research](<Roam Research.md>) is like another way to [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+- Using [Roam Research](<Roam Research.md>) is like another way to [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 
 ## [training](<training.md>)
-- [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>):
+- [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>):
 

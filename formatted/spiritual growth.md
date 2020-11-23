@@ -7,7 +7,7 @@
 ## [Area of Focus](<Area of Focus.md>)
 - [spiritual growth](<spiritual growth.md>)
 
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - [Who am I](<Who am I.md>) [spiritual growth](<spiritual growth.md>)
 
 - [the outside world](<the outside world.md>) [spiritual growth](<spiritual growth.md>)

@@ -72,6 +72,18 @@
 
 - {{[TODO](<TODO.md>)}
 
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
+
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - {{[TODO](<TODO.md>)}
 

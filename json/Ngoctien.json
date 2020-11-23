@@ -4167,8 +4167,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600273288099,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1602599431701,
-        "string": "Using [[Roam Research]] is like another way to [[Course - Living from the place of surrender]] because Roam Research also start with small things, follow with the flow and let things become itself. Our job is not to try, to force things happen but to let things happen. [[emerge]]",
+        "edit-time": 1606101683541,
+        "string": "Using [[Roam Research]] is like another way to [[Courses - Living from the place of surrender]] because Roam Research also start with small things, follow with the flow and let things become itself. Our job is not to try, to force things happen but to let things happen. [[emerge]]",
         "uid": "owvcj5FFR"
       },
       {
@@ -4463,8 +4463,172 @@
       {
         "children": [
           {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101646899,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606101768759,
+            "string": "{{[[TODO]]}} Taking note [[Courses - Living from the place of surrender]]",
+            "uid": "ve6L3Ba5n"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101768756,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606101974089,
+            "string": "{{[[TODO]]}} Developing Goal, Task and Project management system in Roam Research",
+            "uid": "1pZRKoRcw"
+          },
+          {
             "children": [
               {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102167395,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606102172504,
+                "string": "Process and system developing",
+                "uid": "JIhz0xEJS"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102176164,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102177796,
+                    "string": "Coaching",
+                    "uid": "mhGmCAROG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102177792,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102178580,
+                    "string": "ID",
+                    "uid": "IPpnDipsD"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102178577,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102189230,
+                    "string": "Spiritual",
+                    "uid": "izSzzGEfN"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102131688,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606102134379,
+                "string": "Learning",
+                "uid": "ZRR_r3wj9"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102190921,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102193721,
+                    "string": "Blog",
+                    "uid": "blr22IhCE"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102193914,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102196020,
+                    "string": "Articles",
+                    "uid": "J0alLUPrL"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102196016,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102202417,
+                    "string": "Training courses",
+                    "uid": "_pUaY127U"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102134372,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606102135598,
+                "string": "Creating",
+                "uid": "ZQQ5sV2Kj"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102202696,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102205314,
+                    "string": "Teaching",
+                    "uid": "0jQ5yMvXj"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102205905,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606102209280,
+                    "string": "Coaching",
+                    "uid": "W1aIhYisQ"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102135590,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606102140980,
+                "string": "Doing",
+                "uid": "n5ME_TNsB"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101813875,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606102001821,
+            "string": "{{[[TODO]]}} Planning for next few months",
+            "uid": "QO2K1EeFA"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101921641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606101935089,
+            "string": "{{[[TODO]]}} Review for the last 3 months",
+            "uid": "8sL2UBBQu"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101935076,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606102064938,
+            "string": "{{[[TODO]]}} Building daily workflow and weekly review",
+            "uid": "qPUh9_xtk"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606101642139,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606101645587,
+        "string": "Task inbox",
+        "uid": "2ItNDkYiE"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606101841018,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606101881252,
+                    "string": "{{[[TODO]]}} Developing [[Creating phase]]",
+                    "uid": "npY4XXWZA"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605884898851,
                 "edit-email": "ngoctienvt@gmail.com",
@@ -4596,7 +4760,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1602813226627,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605965621076,
+            "edit-time": 1606101752669,
             "string": "[[A: Suffering]]",
             "uid": "gXADTedDk"
           },
@@ -4653,8 +4817,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1600172316900,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1602599431701,
-        "string": "[[Course - Living from the place of surrender]]: this training is focused mainly on the soul level and operate from that on level.",
+        "edit-time": 1606101683540,
+        "string": "[[Courses - Living from the place of surrender]]: this training is focused mainly on the soul level and operate from that on level.",
         "uid": "SKnKfdM6Z"
       }
     ],
@@ -6162,8 +6326,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1600172334690,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1602599431701,
-    "title": "Course - Living from the place of surrender"
+    "edit-time": 1606101683540,
+    "title": "Courses - Living from the place of surrender"
   },
   {
     "children": [
@@ -11512,8 +11676,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1600588150653,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1602599431701,
-                "string": "gerund for practices [[letting go]] [[Course - Living from the place of surrender]]",
+                "edit-time": 1606101683541,
+                "string": "gerund for practices [[letting go]] [[Courses - Living from the place of surrender]]",
                 "uid": "N79LVbSk3"
               },
               {
@@ -19675,8 +19839,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1601994809782,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603686919773,
-            "string": "[[Course - Living from the place of surrender]]",
+            "edit-time": 1606101683541,
+            "string": "[[Courses - Living from the place of surrender]]",
             "uid": "uUKmYJUtS"
           },
           {
@@ -23912,8 +24076,8 @@
       },
       {
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604892923362,
-        "string": "Untitled_2 [[Course - Living from the place of surrender]]",
+        "edit-time": 1606101683541,
+        "string": "Untitled_2 [[Courses - Living from the place of surrender]]",
         "uid": "sExbFf54G"
       },
       {
@@ -30007,8 +30171,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603935138233,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603935387309,
-        "string": "I will focus on learning [[Course - Effortless Output with Roam]] next week, so that I could learn to use Roam more effectively, and get input to build my [[journaling training]] as well.",
+        "edit-time": 1606101695928,
+        "string": "I will focus on learning [[Courses - Effortless Output with Roam]] next week, so that I could learn to use Roam more effectively, and get input to build my [[journaling training]] as well.",
         "uid": "sOCFHMxww"
       },
       {
@@ -30626,8 +30790,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604238125104,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604238389907,
-        "string": "At least today I still have some time for meditation, I finish the first part of the [[Course - Effortless Output with Roam]] and choose my Capstone. I learned things in a way that emerge and condense at the same time. First, merging. Second, writing down what I learned.",
+        "edit-time": 1606101695928,
+        "string": "At least today I still have some time for meditation, I finish the first part of the [[Courses - Effortless Output with Roam]] and choose my Capstone. I learned things in a way that emerge and condense at the same time. First, merging. Second, writing down what I learned.",
         "uid": "Ng1Hrj1ej"
       },
       {
@@ -30798,8 +30962,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604027516596,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604027532239,
-            "string": "Planning to learn [[Course - Effortless Output with Roam]]",
+            "edit-time": 1606101695928,
+            "string": "Planning to learn [[Courses - Effortless Output with Roam]]",
             "uid": "ZmFli41Mf"
           }
         ],
@@ -32261,8 +32425,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1603935364635,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603935364636,
-    "title": "Course - Effortless Output with Roam"
+    "edit-time": 1606101695928,
+    "title": "Courses - Effortless Output with Roam"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -32928,8 +33092,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604308176381,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1604308254085,
-        "string": "It sounds like [[Course - Effortless Output with Roam]] is very good to utilize external resources, while I will need to learn how to include my own insight and my own daily #inbox, as well as way to organize these tags to consolidate to a different kind of understanding based on my keywords.",
+        "edit-time": 1606101695928,
+        "string": "It sounds like [[Courses - Effortless Output with Roam]] is very good to utilize external resources, while I will need to learn how to include my own insight and my own daily #inbox, as well as way to organize these tags to consolidate to a different kind of understanding based on my keywords.",
         "uid": "uu5hDC6X3"
       },
       {

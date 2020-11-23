@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - The [training method](<training method.md>)
 
 ## [November 14th, 2020](<November 14th, 2020.md>)

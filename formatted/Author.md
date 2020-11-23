@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+## [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 - Attribute  
                 - **[Author](<Author.md>):**
 

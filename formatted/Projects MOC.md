@@ -1,6 +1,25 @@
+- Task inbox
+    - [ ] Taking note [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
+    - [ ] Developing Goal, Task and Project management system in Roam Research
+    - [ ] Planning for next few months
+        - Process and system developing
+        - Learning
+            - Coaching
+            - ID
+            - Spiritual
+        - Creating
+            - Blog
+            - Articles
+            - Training courses
+        - Doing
+            - Teaching
+            - Coaching
+    - [ ] Review for the last 3 months
+    - [ ] Building daily workflow and weekly review
 - [Active](<Active.md>)
     - building a PKDS training program
         - Developing [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+            - [ ] Developing [Creating phase](<Creating phase.md>)
         - Learning [instructional design](<instructional design.md>)
     - building a productivity system
         - Developing [Workflow MOC](<Workflow MOC.md>)

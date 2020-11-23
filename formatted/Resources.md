@@ -16,7 +16,7 @@
 - Podcast
     - [Podcast - It's your mind. Regain your kingdom](<Podcast - It's your mind. Regain your kingdom.md>)
 - Courses
-    - [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+    - [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
     - [Courses - The target approach - Coaching](<Courses - The target approach - Coaching.md>)
     - [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - Entertaiment

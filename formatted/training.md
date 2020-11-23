@@ -1,4 +1,4 @@
-- [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>): this training is focused mainly on the soul level and operate from that on level.
+- [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>): this training is focused mainly on the soul level and operate from that on level.
 
 # Backlinks
 ## [Area of Focus](<Area of Focus.md>)

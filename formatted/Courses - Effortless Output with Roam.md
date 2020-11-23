@@ -396,14 +396,14 @@ span.rm-page-ref {
 
 # Backlinks
 ## [November 1st, 2020](<November 1st, 2020.md>)
-- At least today I still have some time for meditation, I finish the first part of the [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- At least today I still have some time for meditation, I finish the first part of the [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
-- It sounds like [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- It sounds like [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 
 ## [October 29th, 2020](<October 29th, 2020.md>)
-- I will focus on learning [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- I will focus on learning [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 
 ## [October 30th, 2020](<October 30th, 2020.md>)
-- Planning to learn [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+- Planning to learn [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 

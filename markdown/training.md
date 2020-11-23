@@ -1,1 +1,1 @@
-- [[Course - Living from the place of surrender]]: this training is focused mainly on the soul level and operate from that on level.
+- [[Courses - Living from the place of surrender]]: this training is focused mainly on the soul level and operate from that on level.

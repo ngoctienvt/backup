@@ -12,7 +12,7 @@
 - [Tag usage](<Tag usage.md>) for [contextual linking](<contextual linking.md>)
 
 # Backlinks
-## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+## [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 - [contextual usages](<contextual usages.md>)
 
 ## [Expanding questions](<Expanding questions.md>)

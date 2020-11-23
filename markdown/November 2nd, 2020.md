@@ -9,7 +9,7 @@
             - They are the [[by-product]] when you become a [[greater being]]. And as long as I focus myself to this end goals. I will eventually become better and will never be lost or wrong again, only better over time.
         - Instead of making become a good lover as a end goals
             - Because we will easy to use devil methods to reach the wrong things.
-- It sounds like [[Course - Effortless Output with Roam]] is very good to utilize external resources, while I will need to learn how to include my own insight and my own daily #inbox, as well as way to organize these tags to consolidate to a different kind of understanding based on my keywords.
+- It sounds like [[Courses - Effortless Output with Roam]] is very good to utilize external resources, while I will need to learn how to include my own insight and my own daily #inbox, as well as way to organize these tags to consolidate to a different kind of understanding based on my keywords.
 - I can feel so clearly that I'm starting more and more walking on my own personal path.
 - [[reading workflow]] 
     - First, capturing the salient parts of what you read using highlights. 

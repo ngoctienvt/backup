@@ -24,7 +24,7 @@
     - 
 
 # Backlinks
-## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+## [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 - [journaling training](<journaling training.md>)
 
 ## [November 1st, 2020](<November 1st, 2020.md>)
@@ -37,7 +37,7 @@
 - [coaching reflection](<coaching reflection.md>) Today coaching, I noticed that I still have a long journey to truly coach from the place of surrender. I still feel that I'm trying too much and not listen deep enough. I will focus fully on this after I complete my [journaling training](<journaling training.md>).
 
 ## [October 29th, 2020](<October 29th, 2020.md>)
-- I will focus on learning [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>) next week, so that I could learn to use Roam more effectively, and get input to build my [journaling training](<journaling training.md>)
+- I will focus on learning [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>) next week, so that I could learn to use Roam more effectively, and get input to build my [journaling training](<journaling training.md>)
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - [journaling training](<journaling training.md>)

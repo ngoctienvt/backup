@@ -38,7 +38,7 @@
 -  
 
 # Backlinks
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - So if I want to focus back on myself: [unattachment centering](<unattachment centering.md>)
 
 ## [November 10th, 2020](<November 10th, 2020.md>)

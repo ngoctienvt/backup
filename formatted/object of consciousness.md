@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>)
 
 ## [October 11th, 2020](<October 11th, 2020.md>)

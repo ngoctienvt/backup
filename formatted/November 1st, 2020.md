@@ -14,7 +14,7 @@
 - Today I still a lot of tired and not able to come back to my trueself much. I noticed that I am not able to fully myself and do my own thing when there is someone or something near by that makes me feel responsible for it. [unattachment centering](<unattachment centering.md>).
 
 I noticed that I have a [need for control](<need for control.md>) what makes me feel worry because it could hit me in the wrong way. And by that, I could not withdraw my attention to it, and let it be itself and interact with it in an unattachment way. 
-- At least today I still have some time for meditation, I finish the first part of the [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>) and choose my Capstone. I learned things in a way that emerge and condense at the same time. First, merging. Second, writing down what I learned.
+- At least today I still have some time for meditation, I finish the first part of the [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>) and choose my Capstone. I learned things in a way that emerge and condense at the same time. First, merging. Second, writing down what I learned.
 - I have a wonder about how I want to support other people and who I want to support for. I noticed that the group of people that I want to focus now is very small, because the condition is tough. It's the person who truly who want to live a higher life, a deeper life and a direct way for happiness. [serving the demand of reality](<serving the demand of reality.md>) [target clients](<target clients.md>)
 - [training method](<training method.md>) I noticed that my way of training method would be a process like this
     - understanding
@@ -32,7 +32,7 @@ I noticed that I have a [need for control](<need for control.md>) what makes me 
 - 
 
 # Backlinks
-## [Course - Effortless Output with Roam](<Course - Effortless Output with Roam.md>)
+## [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 - {{alias: [November 1st, 2020](<November 1st, 2020.md>)
 
 ## [October 27th, 2020](<October 27th, 2020.md>)

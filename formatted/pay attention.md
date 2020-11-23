@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - I am the [witness conscious](<witness conscious.md>). I have the ability to project my consciousness and my attention to other objects. However, I am easy to lose myself and [pay attention](<pay attention.md>)
 
 - I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>)

@@ -6,13 +6,13 @@
 ## [Activities for an surrender life](<Activities for an surrender life.md>)
 - Centering on the seat of awareness [willpower](<willpower.md>)
 
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
-- I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>)
-
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - The ideal is we don't need motivation in the first place, but rather nurture our will-power to overcome these habit-formed will and transform them into our desired habit pattern  instead. [willpower](<willpower.md>)
 
 - If something is still, stay still. If we stay still, it is require external force.  [willpower](<willpower.md>)
+
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
+- I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>)
 
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I felt kind of tired when I still dream so much and can't wake up. I'm not asserting my will power to get up and be myself, but let myself drowning on the release of samskaras. I will try to wake up and support the process of releasing inner samskaras. [willpower](<willpower.md>)

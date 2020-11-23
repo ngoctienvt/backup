@@ -6,7 +6,7 @@
 ## [4 categories of reality](<4 categories of reality.md>)
 - [the outside world](<the outside world.md>)
 
-## [Course - Living from the place of surrender](<Course - Living from the place of surrender.md>)
+## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - [the outside world](<the outside world.md>)
 
 ## [September 25th, 2020](<September 25th, 2020.md>)

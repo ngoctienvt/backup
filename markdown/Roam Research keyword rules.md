@@ -1,7 +1,7 @@
 - [[Naming-rules]]:
     - ideas, concepts, categorizes:
         - noun [[surrender]] [[true love]] [[witness consciousness]]
-        - gerund for practices [[letting go]] [[Course - Living from the place of surrender]]
+        - gerund for practices [[letting go]] [[Courses - Living from the place of surrender]]
         - adjective for feelings [[funny]]
         - plurals for countable verb [[emotions]] 
         - no the, a, an
