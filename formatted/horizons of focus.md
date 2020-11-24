@@ -46,7 +46,7 @@
 - [horizons of focus](<horizons of focus.md>)
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
-- ## personal horizons of focus [horizons of focus](<horizons of focus.md>)
+- ### personal horizons of focus [horizons of focus](<horizons of focus.md>)
 
 ## [Workflow MOC](<Workflow MOC.md>)
 - [horizons of focus](<horizons of focus.md>)

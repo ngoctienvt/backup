@@ -1,0 +1,47 @@
+- Tasks- actionable  with identifiable outcome
+- projects - phases or stages with many tasks / milestones
+- [[Tag usage]]
+    - __which steps need to be performed for the project to be finished?__
+    - __look at tasks dependencies__ - which tasks priority compare to other tasks
+    - **Common Project Verbs**
+        - Write/ Create
+            - Outline
+            - Draft
+            - Edit
+            - Review / Finalize
+            - Publish
+        - Clarify
+            - Think
+            - Meditate
+        - Organize
+            - Clean
+            - Re-organize
+        - Consume
+            - Watch
+            - Read
+            - Listen
+            - Take note
+        - Resolve/ Handle/ Fix
+            - Meditate
+            - Test/ Check
+        - Optimize
+        - Learn / Research
+            - Collect/ Gather
+            - Take note
+            - Process/ Tag
+            - Summarize
+    - **Master Projects**
+        - Build/ Develop
+            - Lean/ Research
+            - Break down - division into parts of categories, separation into simpler substancesm, decoposition
+                - Breaking down into **phases** – eg. software development;
+                - Breaking down into **categories** – eg. planning a conference (catering, photographer, speakers, etc.);
+                - Breaking down into **parts** – eg. cleaning your house room by room.
+            - Clarify
+            - Unify / Integrate
+            - Optimize
+    - **Workflow Verbs**
+        - Consume
+        - Clarify
+        - Work
+        - Review

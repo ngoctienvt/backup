@@ -17,11 +17,17 @@
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
 - [Tag usage](<Tag usage.md>)
 
+## [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
+- [Tag usage](<Tag usage.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - [contextual usages](<contextual usages.md>) [Tag usage](<Tag usage.md>)
 
 ## [November 17th, 2020](<November 17th, 2020.md>)
 - I still not sure how I will use my tag properly, it's making me kind of confused about the structure to build my [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>) clean and optimal. [Tag usage](<Tag usage.md>)
+
+## [November 24th, 2020](<November 24th, 2020.md>)
+- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>) [Tag usage](<Tag usage.md>)
 
 ## [contextual usages](<contextual usages.md>)
 - [Tag usage](<Tag usage.md>)
