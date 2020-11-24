@@ -46,3 +46,5 @@ And I also want to great an impact for our world by expressing my wisdom that co
             - Salmon and snow peas for victory lunch?
         - **HISTORY**
 - I start to able to develop myself to think more clearly by differentiating the difference between tasks and projects. Each thing will require a way of looking that suitable for it, so that's it becomes clear.  [[Horizons of Focus Management MOC]]
+- I noticed that I still feel uncomfortable when hearing other people judge, put their own expectation as truth, ignore or suppress other people feelings, or manipulate other people behaviours, even unconsciously. [[samskaras]]
+- 

@@ -10,7 +10,8 @@
             - Edit
             - Review / Finalize
             - Publish
-        - Clarify
+        - Clarify (end goals, ideal outcomes, tasks,...)
+            - Identify
             - Think
             - Meditate
         - Organize
@@ -41,6 +42,7 @@
             - Unify / Integrate
             - Optimize
     - **Workflow Verbs**
+        - Capture
         - Consume
         - Clarify
         - Work

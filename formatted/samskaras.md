@@ -28,6 +28,9 @@
 ## [November 22nd, 2020](<November 22nd, 2020.md>)
 - I felt that I'm starting to release more and more my attachments due to the awareness that everything has its own level of development. I can't let my own samskaras to put my standards and expectations to other people. They are what I need to let go, not what I need to reinforce on. [samskaras](<samskaras.md>)
 
+## [November 24th, 2020](<November 24th, 2020.md>)
+- I noticed that I still feel uncomfortable when hearing other people judge, put their own expectation as truth, ignore or suppress other people feelings, or manipulate other people behaviours, even unconsciously. [samskaras](<samskaras.md>)
+
 ## [November 7th, 2020](<November 7th, 2020.md>)
 - I noticed that I still feel there are some [samskaras](<samskaras.md>)
 
