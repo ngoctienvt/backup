@@ -32,9 +32,6 @@ However, most of the time because of our judgment, that's why when I coach for o
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - My [coaching](<coaching.md>)
 
-## [TODO](<TODO.md>)
-- [coaching](<coaching.md>)
-
 ## [being coaching](<being coaching.md>)
 - [coaching](<coaching.md>)
 

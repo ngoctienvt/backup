@@ -39,6 +39,3 @@
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - The ability to recognize [emergence](<emergence.md>) is good, but the ability to [design for emergence](<design for emergence.md>) or [condition for emergence](<condition for emergence.md>) is super important and impactful. [mind-training](<mind-training.md>)
 
-## [TODO](<TODO.md>)
-- [mind-training](<mind-training.md>)
-

@@ -1,16 +1,16 @@
-- It's been two long days for me to not release my inner thoughts. I noticed that I'm not able to love my parents unconditionally, there are many samskaras that I still haven't able to resolve yet. [[unconditional relationship]]
-- This morning, I have such an inspiration to learn more deeply from great beings or thinkers like [[Michael Singer]] or [[Yuval Noah Harari]]. [[great beings]]
+- It's been two long days for me to not release my inner thoughts. I noticed that I'm not able to love my parents unconditionally, there are many samskaras that I still haven't able to resolve yet. [unconditional relationship](<unconditional relationship.md>)
+- This morning, I have such an inspiration to learn more deeply from great beings or thinkers like [Michael Singer](<Michael Singer.md>) or [Yuval Noah Harari](<Yuval Noah Harari.md>). [great beings](<great beings.md>)
 
 And I also want to great an impact for our world by expressing my wisdom that coming from my own true self, my own experiences and my own learnings. Depending on the level that I want to write, there will be different things that I need to self-experience and learn from.
-    - Michael Singer taught me to see the truth from a super high level of perspectives, from a person who has gone through the pinnacle of spiritual path. [[level of thinking]]
-    - [[Yuval Noah Harari]] has been a great thinker that gone through deep research and think critically. By learning from these great thinkers, this is a much easier approach for people who still not identify or aware of themselves as [[consciousness]].
-- I noticed that my ability to [[centering on the seat of awareness]] is still weak and not solidify yet. I'm still easy to be disturbed by small things that happen around me.
-- There are few things that determine how deep I live this life are [[E: How deep I live my life?]] [[The Pilot MOC]]
+    - Michael Singer taught me to see the truth from a super high level of perspectives, from a person who has gone through the pinnacle of spiritual path. [level of thinking](<level of thinking.md>)
+    - [Yuval Noah Harari](<Yuval Noah Harari.md>) has been a great thinker that gone through deep research and think critically. By learning from these great thinkers, this is a much easier approach for people who still not identify or aware of themselves as [consciousness](<consciousness.md>).
+- I noticed that my ability to [centering on the seat of awareness](<centering on the seat of awareness.md>) is still weak and not solidify yet. I'm still easy to be disturbed by small things that happen around me.
+- There are few things that determine how deep I live this life are [E: How deep I live my life?](<E: How deep I live my life?.md>) [The Pilot MOC](<The Pilot MOC.md>)
     - One is about cleaning the inner blockages and explore my true self
-    - Second is about how deep I learn about the world - from my own experiences, intellectual mind, and learn from other [[great beings]].
+    - Second is about how deep I learn about the world - from my own experiences, intellectual mind, and learn from other [great beings](<great beings.md>).
     - I think that I would focus to solidify the lower-stage that I has been through, especially the current stage.
         - And learn to support and raise myself to reach the next stage.
-- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [[Horizons of Focus Management MOC]]
+- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
     - **Common Next Action Verbs**
         - Call
         - Buy

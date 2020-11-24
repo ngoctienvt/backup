@@ -14,5 +14,3 @@
 ## [horizons of focus](<horizons of focus.md>)
 - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>)
 
-- [ ] Learning to have a clarity mind and a clear point of focus will be one of my important task for next week [inner clarity](<inner clarity.md>)
-

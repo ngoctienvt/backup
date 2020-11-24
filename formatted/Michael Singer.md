@@ -3,6 +3,9 @@
 ## [4 categories of reality](<4 categories of reality.md>)
 - [Michael Singer](<Michael Singer.md>)
 
+## [November 24th, 2020](<November 24th, 2020.md>)
+- This morning, I have such an inspiration to learn more deeply from great beings or thinkers like [Michael Singer](<Michael Singer.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - I saw that I want to learn the way of establish myself into seat of awareness like [Thích Nhất Hạnh](<Thích Nhất Hạnh.md>), [Minh Niệm](<Minh Niệm.md>), [Michael Singer](<Michael Singer.md>)
 
@@ -14,4 +17,7 @@ I also realize that at I'm on my journey, I'm bringing people who trust this pat
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - One of the reason that I learnt from [Michael Singer](<Michael Singer.md>)
+
+## [great beings](<great beings.md>)
+- [Michael Singer](<Michael Singer.md>)
 

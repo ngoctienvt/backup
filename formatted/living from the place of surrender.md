@@ -65,8 +65,6 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 - I realized that in order to [living from the place of surrender](<living from the place of surrender.md>),
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- [ ] merging the [living from the place of surrender](<living from the place of surrender.md>)
-
 [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 9th, 2020](<October 9th, 2020.md>)

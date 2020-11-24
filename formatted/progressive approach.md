@@ -92,9 +92,6 @@
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [progressive approach](<progressive approach.md>)
 
-## [TODO](<TODO.md>)
-- [progressive approach](<progressive approach.md>)
-
 ## [The Pilot MOC](<The Pilot MOC.md>)
 - [progressive approach](<progressive approach.md>)
 

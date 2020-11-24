@@ -18,7 +18,6 @@
 - [[intention]] some of the topics that I want to spend my energy next is:
     - 
     - "{{[[DONE]]}} How to use [[Roam Research]] to evolve my mind effectively"
-    - {{[[TODO]]}} Summarizing [[spiritual knowledge]] from Michael Singer teaching
     - {{[[DONE]]}} Releasing the samskaras about the need for attention and recognition, [[fear]] and nurture [[self-fulfilled]]
     - {{[[DONE]]}} Start to work on [[generated language]]
     - {{[[DONE]]}} Start to work on [[intention]]

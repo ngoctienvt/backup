@@ -28,9 +28,7 @@ The only thing that will never change and will never lose is me - my witness con
         - coaching the person
         - coaching the being
 - What we all need is inside, so it's not what we need is wrong, it's about the way that we use to achieve it is wrong. [[method]] 
-- {{[[TODO]]}} Coaching [[@Nguyễn Thúy Hằng]] [[October 29th, 2020]]
 - {{[[DONE]]}} Coaching [[Phạm Nguyệt]] [[October 28th, 2020]]
-- {{[[TODO]]}} Coaching [[@Nguyễn Mỹ Linh]] buổi 1 [[November 1st, 2020]]
 - {{[[DONE]]}} Coaching [[@Nguyễn Bảo Ngân]] [[October 30th, 2020]]
 - I felt so [[disturbed]] today about I have to responsible for other people about their stuff, especially what happens on repeat. I noticed that at that time, my reaction to the world is not based on I'm being myself, but I'm being my [[samskaras]]
 - The most important [[coaching skills]] is [[deep listening]]. It focuses us to understand the clients [[as a whole]] instead of let our mind making assumptions and fill in the blank for us. 

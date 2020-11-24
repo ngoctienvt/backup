@@ -1,4 +1,3 @@
-- {{query: {and: [[Projects MOC]] [[Active]] {not: [[Templates]]}}}}
 - Books
     - Author::
     - URL::

@@ -91,9 +91,6 @@ I will be presence myself to interact with them as a whole, not to use them to i
 ## [September 28th, 2020](<September 28th, 2020.md>)
 - I felt so much [anger](<anger.md>) inside myself because I feel that others want to control me. [emotions](<emotions.md>) [samskaras](<samskaras.md>)
 
-## [TODO](<TODO.md>)
-- "[samskaras](<samskaras.md>)
-
 ## [inner work](<inner work.md>)
 - inner work is the job of the soul to release the [samskaras](<samskaras.md>)
 

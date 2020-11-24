@@ -14,7 +14,6 @@
 - Today todo: 
     - [x] Editing video 2 continue 
     - "{[x] }} Chemistry session với chị Hằng "
-    - [ ] Working on [mind evolution process](<mind evolution process.md>) with new ingredients [thought-generative process](<thought-generative process.md>) as mentioned below
 - [training](<training.md>)
     -  wisdom.
         - It makes the students less independent thinking and may rely on the trainer or the teacher.

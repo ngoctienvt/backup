@@ -21,7 +21,7 @@
             - benefits 
             - characteristics
             - procedure
-- [ ] working on workflow process again
+- 
 - 
 - [types of blog](<types of blog.md>)
     - digital garden

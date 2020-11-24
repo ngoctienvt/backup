@@ -25,8 +25,6 @@
 - To condensing thoughts through [mind evolution process](<mind evolution process.md>),
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
-- [ ] Working on [mind evolution process](<mind evolution process.md>)
-
 - This speeds up the [mind evolution process](<mind evolution process.md>)I
 
 ## [mind evolution process](<mind evolution process.md>)

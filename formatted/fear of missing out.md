@@ -6,9 +6,6 @@
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - Not every experience I have that I want to store as information blocks, I will need to think a bit about this, so that I can use my time effectively and not have the [fear of missing out](<fear of missing out.md>).
 
-## [clean up fleeting notes](<clean up fleeting notes.md>)
-- [ ] There is a [fear of missing out](<fear of missing out.md>)
-
 ## [fear](<fear.md>)
 - [fear of missing out](<fear of missing out.md>)
 

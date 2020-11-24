@@ -12,9 +12,6 @@
 
 - When the [anger](<anger.md>)
 
-## [TODO](<TODO.md>)
-- "[anger](<anger.md>)"
-
 ## [emotions](<emotions.md>)
 - [anger](<anger.md>)
 

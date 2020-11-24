@@ -8,9 +8,6 @@
 
 - [divergence distraction](<divergence distraction.md>) is also important to work on but the work between [focus mode](<focus mode.md>)
 
-## [October 14th, 2020](<October 14th, 2020.md>)
-- [ ] Working merging between [focus mode](<focus mode.md>)
-
 ## [October 23rd, 2020](<October 23rd, 2020.md>)
 - ### [being mode](<being mode.md>) is far more effective than [focus mode](<focus mode.md>)
 

@@ -1,0 +1,3 @@
+- [[Michael Singer]]
+- [[Yuval Noah Harari]]
+- [[Don Miguel Ruiz]]

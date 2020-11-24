@@ -10,9 +10,6 @@
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - Another thing is writing as the way I am developing, it also helps us to orient our mind into truth and learn to let go unattachment easier, because when we aware and understand why we attach, we can have another option. [journaling](<journaling.md>)
 
-## [current working](<current working.md>)
-- [ ] Build my [personal workflow](<personal workflow.md>) with the support of [journaling](<journaling.md>),
-
 ## [inner work](<inner work.md>)
 - [journaling](<journaling.md>)
 

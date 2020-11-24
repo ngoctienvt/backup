@@ -5,3 +5,6 @@
 
 - Let other people feel that's they are important. Let them feel seen, feel heard, and feel understood. [coaching](<coaching.md>) [unconditional relationship](<unconditional relationship.md>)
 
+## [November 24th, 2020](<November 24th, 2020.md>)
+- It's been two long days for me to not release my inner thoughts. I noticed that I'm not able to love my parents unconditionally, there are many samskaras that I still haven't able to resolve yet. [unconditional relationship](<unconditional relationship.md>)
+

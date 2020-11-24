@@ -23,9 +23,6 @@
 
 - I noticed that I still had certain resistance and not fully accept the [sexual desire](<sexual desire.md>)
 
-## [TODO](<TODO.md>)
-- "[sexual desire](<sexual desire.md>)"
-
 ## [sexual desire](<sexual desire.md>)
 - [sexual desire](<sexual desire.md>)
 

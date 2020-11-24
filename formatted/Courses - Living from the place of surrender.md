@@ -173,9 +173,6 @@
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - Untitled_2 [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 
-## [Projects MOC](<Projects MOC.md>)
-- [ ] Taking note [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-
 ## [Resources](<Resources.md>)
 - [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 
@@ -184,6 +181,9 @@
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - Using [Roam Research](<Roam Research.md>) is like another way to [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
+
+## [TODO](<TODO.md>)
+- [ ] Taking note [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 
 ## [training](<training.md>)
 - [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>):

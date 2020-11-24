@@ -16,6 +16,3 @@
 ## [Resources](<Resources.md>)
 - [Book - How to take smart notes](<Book - How to take smart notes.md>)
 
-## [TODO](<TODO.md>)
-- [Book - How to take smart notes](<Book - How to take smart notes.md>)
-

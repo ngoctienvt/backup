@@ -57,9 +57,6 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [September 28th, 2020](<September 28th, 2020.md>)
 - I felt much better after feedback for Hằng about her attitude and the way she expressed her feelings. I felt much more about how to deliver a [feedback](<feedback.md>) in a [helpful manner](<helpful manner.md>).
 
-## [TODO](<TODO.md>)
-- [helpful manner](<helpful manner.md>)
-
 ## [The Pilot MOC](<The Pilot MOC.md>)
 - [helpful manner](<helpful manner.md>)
 

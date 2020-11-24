@@ -1,5 +1,5 @@
 - I felt that my practice for [unattachment centering](<unattachment centering.md>) is starting to become better and better overtime. Sometimes I accumulate too much stress or samskaras that make the waves of thoughts is hard to handle, but I just keep come back and let go, I'm increasing my ability to being center no matter what the waves are. Because as long as I'm doing nothing, the mind will eventually return to the stillness by itself.
-- [ ] Becoming an [international blogger](<international blogger.md>)
+- 
     - I'm not so sure what drives me to this, but I can feel that I still have the inspiration to share my work and my knowledge to support other people.
     - In the past, I can't maintain a process of high-quality output, so that it feels not natural to me and then I quit after a period of trying times.
     - However, now is the time I'm starting to build the flow to create truly personal high-quality output consistently, so I think I could do it.

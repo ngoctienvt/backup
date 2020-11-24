@@ -1,22 +1,20 @@
-- Working on cleaning and integrating samskaras 
-    - "[[samskaras]] to consciously work on the near-future:"
-        - "[[inconvenient of life flow]]"
-        - "[[anger]]"
-        - "[[sexual desire]]"
-        - "[[attachment]]"
-        - "[[fear]]"
-- Projects I am working on
-    - [[mind-training]]
-        - [[progressive approach]]
-            - {{[[TODO]]}} working with the ideas How to choose the context that I want my fleeting notes appear? and Do I need to clean the fleeting notes?
-                - [[contextual linking]] The context that I want to mention when I'm writing are
-                    - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [[Bottom-up Approach MOC]] to expand it
-                    - the topics that includes the smaller topics, so that when I'm accumulated the information enough, I could see the pattern of them to use [[Top-down Approach MOC]] to breakdown things
-                - [[clean up fleeting notes]]
-- Areas I am working on
-    - [[energy management]]
-    - [[coaching]]
-    - [[helpful manner]]
-- Resources I am learning from
-    - [[Book - How to take smart notes]]
-    - [[Book - Journey to the Center of the Earth]]
+- Task inbox
+    - {{[[TODO]]}} Taking note [[Courses - Living from the place of surrender]]
+    - {{[[TODO]]}} Developing Goal, Task and Project management system in Roam Research
+    - {{[[TODO]]}} Planning for next few months
+        - Process and system developing
+        - Learning
+            - Coaching
+            - ID
+            - Spiritual
+        - Creating
+            - Blog
+            - Articles
+            - Training courses
+        - Doing
+            - Teaching
+            - Coaching
+    - {{[[TODO]]}} Review for the last 3 months
+    - {{[[TODO]]}} Building daily workflow and weekly review
+    - {{[[TODO]]}} Merging daily workflow with GTD and PKDS
+    - {{[[TODO]]}} Organizing evergreen notes (tags, names, places...)

@@ -29,9 +29,6 @@
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
 - My [personal workflow](<personal workflow.md>)
 
-## [current working](<current working.md>)
-- [ ] Build my [personal workflow](<personal workflow.md>)
-
 ## [intention](<intention.md>)
 - have a natural [life flow](<life flow.md>) and [personal workflow](<personal workflow.md>)
 

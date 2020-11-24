@@ -6,6 +6,3 @@
 ## [Resources](<Resources.md>)
 - [Book - Journey to the Center of the Earth](<Book - Journey to the Center of the Earth.md>)
 
-## [TODO](<TODO.md>)
-- [Book - Journey to the Center of the Earth](<Book - Journey to the Center of the Earth.md>)
-

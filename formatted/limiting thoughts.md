@@ -11,9 +11,6 @@ If I want to know something, I need to be the one who really check it and [getti
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - What got you here, won't get you there. [limiting thoughts](<limiting thoughts.md>)
 
-## [current working](<current working.md>)
-- develop a wisdom to stop listening to [limiting thoughts](<limiting thoughts.md>)
-
 ## [human mind](<human mind.md>)
 - The problem with this is we got input from the world, but we do not freely have the right to process it in our natural way. We are rated by how much we learn and remember, or how much we meet the expectation of other people. [limiting thoughts](<limiting thoughts.md>)
 

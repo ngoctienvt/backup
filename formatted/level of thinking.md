@@ -9,6 +9,9 @@
 ## [November 20th, 2020](<November 20th, 2020.md>)
 - I started to have a vertical structure about [level of thinking](<level of thinking.md>)
 
+## [November 24th, 2020](<November 24th, 2020.md>)
+- Michael Singer taught me to see the truth from a super high level of perspectives, from a person who has gone through the pinnacle of spiritual path. [level of thinking](<level of thinking.md>)
+
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - So what coach bring to the session is not their own mind, but their own source so they can always work on a higher [level of thinking](<level of thinking.md>)
 

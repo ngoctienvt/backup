@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 24th, 2020](<November 24th, 2020.md>)
+- [Yuval Noah Harari](<Yuval Noah Harari.md>) has been a great thinker that gone through deep research and think critically. By learning from these great thinkers, this is a much easier approach for people who still not identify or aware of themselves as [consciousness](<consciousness.md>).
+
 ## [September 15th, 2020](<September 15th, 2020.md>)
 - Học cách establish on the seat of [consciousness](<consciousness.md>)
 

@@ -8,7 +8,6 @@ This is really a big [life lessons](<life lessons.md>) for me about releasing al
 - This week focus:
     - [x] [energy management](<energy management.md>)
     - [x] condensing knowledge about deep coaching
-    - [ ] templates or thinking process 
 - 
 - [coaching reflection](<coaching reflection.md>) I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
 - [Expanding questions](<Expanding questions.md>) How to organize information in Roam Research?

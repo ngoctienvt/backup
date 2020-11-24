@@ -22,8 +22,6 @@
 ## [November 21st, 2020](<November 21st, 2020.md>)
 - My [physical body](<physical body.md>) and [energy management](<energy management.md>)
 
-- Working on [energy management](<energy management.md>)
-
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - coach has the fulfilled inner energy so that it will raise clients up instead of bringing them down [energy management](<energy management.md>)
 
@@ -51,9 +49,6 @@ It could be [physical energy](<physical energy.md>) but I feel tired even when I
 
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - I felt kind of exhaust energy, and my body felt numb and my mind started to worry about future tasks. The mind has a good intention to care about my body, it's just that I want to take care of myself in a good [energy management](<energy management.md>)
-
-## [TODO](<TODO.md>)
-- [energy management](<energy management.md>)
 
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
 - [energy management](<energy management.md>)

@@ -51,9 +51,6 @@
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 
-## [TODO](<TODO.md>)
-- the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-
 ## [Top-down Approach MOC](<Top-down Approach MOC.md>)
 - gaining clarity about direction and big picture that emerge from [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 

@@ -28,9 +28,6 @@
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [Top-down Approach MOC](<Top-down Approach MOC.md>)
 
-## [TODO](<TODO.md>)
-- the topics that includes the smaller topics, so that when I'm accumulated the information enough, I could see the pattern of them to use [Top-down Approach MOC](<Top-down Approach MOC.md>)
-
 ## [Top-down Approach MOC](<Top-down Approach MOC.md>)
 - The role of [Top-down Approach MOC](<Top-down Approach MOC.md>)
 

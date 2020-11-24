@@ -8,7 +8,6 @@ This is really a big [[life lessons]] for me about releasing all the dependent t
 - This week focus:
     - {{[[DONE]]}} [[energy management]]
     - {{[[DONE]]}} condensing knowledge about deep coaching
-    - {{[[TODO]]}} templates or thinking process 
 - 
 - [[coaching reflection]] I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
 - [[Expanding questions]] How to organize information in Roam Research?

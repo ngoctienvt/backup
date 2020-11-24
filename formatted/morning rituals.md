@@ -19,8 +19,6 @@
 
 # Backlinks
 ## [October 17th, 2020](<October 17th, 2020.md>)
-- [ ] refining [morning rituals](<morning rituals.md>)
-
 - [morning rituals](<morning rituals.md>)
 
 ## [October 25th, 2020](<October 25th, 2020.md>)

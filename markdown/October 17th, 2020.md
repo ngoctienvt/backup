@@ -24,15 +24,8 @@ will be more [[concise]] instead of explaining or talking too much.
 - I realize that when what I like to attach with a comeback to
 me, I start to try to grab and cling to it as best as possible. Instead of just
 let things be and raise it up naturally without any attachments. [[living from the place of surrender]] [[unattachment]]
-- {{[[TODO]]}} Coaching
-[[@Nguyễn Thúy Hằng]] [[Oct 29th, 2020]]
-- {{[[TODO]]}} Coaching [[@Nguyễn Mỹ Linh]] [[Nov 1st, 2020]]
-- {{[[TODO]]}} Coaching [[@Lý Kim Ngân]] [[Oct 26th, 2020]]
 - Planning for next next week:
     - 
-    - {{[[TODO]]}}  refining [[morning rituals]]
-    - {{[[TODO]]}}  editing video 6
-    - {{[[TODO]]}}  resolving some of relationship attachments
 - [[spiritual practices]] The hard part of spirituality is not
 about the practices or time, but about the choice of handle or resist, of
 release or cling.

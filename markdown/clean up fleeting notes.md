@@ -5,5 +5,4 @@
 - What's the real concern that I worry here?
     - I worry if I lost the value of my writing notes. [[values]]
     - I worry if my Roam Research becomes cluster and I need to reread too many notes, even the one that got used instead of just working on the new things that I haven't resolved. [[clustering]]
-    - {{[[TODO]]}} There is a [[fear of missing out]] and wasting resources here. I need to work on this. 
     - 

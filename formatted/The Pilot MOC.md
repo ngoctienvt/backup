@@ -31,6 +31,9 @@
 ## [November 22nd, 2020](<November 22nd, 2020.md>)
 - I noticed that my workflow, task & project management, and weekly/daily planning will be tightly related to each other. [The Pilot MOC](<The Pilot MOC.md>)
 
+## [November 24th, 2020](<November 24th, 2020.md>)
+- There are few things that determine how deep I live this life are [E: How deep I live my life?](<E: How deep I live my life?.md>) [The Pilot MOC](<The Pilot MOC.md>)
+
 ## [Productivity MOC](<Productivity MOC.md>)
 - [The Pilot MOC](<The Pilot MOC.md>)
 

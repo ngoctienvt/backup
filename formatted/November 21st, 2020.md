@@ -14,11 +14,6 @@
     - I also start to melt down some of my fear with the society and government system, handling and merging the dark side of reality, the immature government and human being. We are all on our own process to mature and evolve to higher.
     - My [physical body](<physical body.md>) and [energy management](<energy management.md>) is a untouch part of myself. And this is the things that affect my life most now.
         - I will start to shape and process some of my thoughts around this next week.
-    - [ ] My focus for next week:
-        - Continue to work on PKDS
-        - Developing productivity system
-        - Working on horizon concept for level up my way of thinking
-        - Working on [energy management](<energy management.md>)
 - I noticed that most people don't have a systematic way for [big picture thinking](<big picture thinking.md>). It's just so natural to me that I'm taking it for granted. I will focus more on this, as it will be an important component for my [progressive approach](<progressive approach.md>). It's about seeing the forest, not the trees.
     - To see the big picture, it's about seeing
         - the relationship between things
@@ -42,6 +37,5 @@
     - MOC for further developing and connectingt
     - Evergreen notes 
     - Articles/ Courses
-- {{query: {and: [Projects MOC](<Projects MOC.md>) [Active](<Active.md>) {not: [Templates](<Templates.md>)}}}}
 - Mature people act because they have something to act, immature people act because they to act something [my quotes](<my quotes.md>) based on Plato quotes
 - 

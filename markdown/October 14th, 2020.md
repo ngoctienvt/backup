@@ -2,7 +2,6 @@
 - [[conscious choice]] is really not necessary. It's necessary now because I have many [[samskaras]] that diverge myself in different directions. If they do not exist and integrate as a whole, there will be only 1 direction to go, and at that time, there will be no need to make [[conscious choice]].
 
 But now I still need to make [[conscious choice]] to keep myself working on [[integration]] as well as direct myself to the path that will exist when everything is merged. [[the only path]]
-- {{[[TODO]]}} Working merging between [[focus mode]] and [[diffuse mode]] through an example.
 - Watching Dota 2 make me realize that a great [[teamwork]] is about everyone can manifest their full potentials first, after that the synergy and interaction with each other will follow up naturally.
 
 Because if they have to hinder their potential to match their teammates, they are limiting themselves as well as limit the ability to grow of their teammates. [[meeting the demand of reality]]
@@ -17,7 +16,6 @@ The third level is to complement what is missing.
     - In [[being mode]], I will able to connect my inner energy to get in touch with reality, instead of being block by inner [[samskaras]] [[integration]]. [[getting in touch with reality]]
     - The hard part is this kind of connection is not stable at the moment, and in the early stage of [[being mode]], I will work on how to establish this connection in a stable way. [[diffuse mode]] is very important here, because this is when I clean the blockages with relaxation and [[integration]].
     - When the connection is stable enough and there is very little blockages, I also know very clearly what I focus on, this is when [[being mode]] will be natural to express the inner energy to [[serving the demand of reality]].
-    - {{[[TODO]]}} My early important task now is to clear the blockages and establish a stable connection between the inner energy, the seat of awareness and the reality.
 - I noticed that I only like to support people through their journey fully, instead of being a place for them to temporarily feel better, but not actually recognize and handle it. [[sustainable development]] [[short-term solutions]]
 - the need for [[convenient]] and the tendency to proctect myself through talking is really two main things that hinder me to connect with other people.
 - [[refining and delivering process]] 

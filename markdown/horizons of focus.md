@@ -21,4 +21,3 @@
     - the bridge between shakti, consciousness, and the world by cleaning the blockages
         - [[natural progression]]
     - [[humility]], [[true love]]. [[inner clarity]] and [[unattachment centering]] are three quality that is my [[horizons of focus]] currently.  
-    - {{[[TODO]]}} Learning to have a clarity mind and a clear point of focus will be one of my important task for next week [[inner clarity]]

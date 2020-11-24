@@ -51,9 +51,6 @@
 ## [September 30th, 2020](<September 30th, 2020.md>)
 - There are only 2 things that we [fear](<fear.md>):
 
-## [TODO](<TODO.md>)
-- "[fear](<fear.md>)"
-
 ## [emotions](<emotions.md>)
 - [fear](<fear.md>)
 

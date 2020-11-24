@@ -5,7 +5,6 @@
 - My today focus would be about:
     - [x] preparing a little bit sharing about [freedom](<freedom.md>) and [wisdom](<wisdom.md>) on Saturday [sharing about true happiness](<sharing about true happiness.md>) [true happiness](<true happiness.md>)
     - [x] continuing reading [Book - How to take smart notes](<Book - How to take smart notes.md>)
-    - [ ] merging the [living from the place of surrender](<living from the place of surrender.md>) with the concept of [natural progression](<natural progression.md>)
 - I fall asleep after this [morning rituals](<morning rituals.md>), I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [energy management](<energy management.md>) and nurture my consciousness [willpower](<willpower.md>) to remain the ability to conscious more. This would be more about [spiritual energy](<spiritual energy.md>) and a part of [physical energy](<physical energy.md>). [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
 - I still have an attachment for my Ode to Heroes account that I don't want it to be below what it could be and react with other people behaviors to bring it below my standard. [personal standards](<personal standards.md>) versus [impersonal standards](<impersonal standards.md>)
 

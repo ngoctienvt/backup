@@ -21,7 +21,6 @@
     - the bridge between shakti, consciousness, and the world by cleaning the blockages
         - [natural progression](<natural progression.md>)
     - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>) are three quality that is my [horizons of focus](<horizons of focus.md>) currently.  
-    - [ ] Learning to have a clarity mind and a clear point of focus will be one of my important task for next week [inner clarity](<inner clarity.md>)
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)

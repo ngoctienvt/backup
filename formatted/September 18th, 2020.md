@@ -18,7 +18,6 @@
 - [intention](<intention.md>) some of the topics that I want to spend my energy next is:
     - 
     - "[x] How to use [Roam Research](<Roam Research.md>) to evolve my mind effectively"
-    - [ ] Summarizing [spiritual knowledge](<spiritual knowledge.md>) from Michael Singer teaching
     - [x] Releasing the samskaras about the need for attention and recognition, [fear](<fear.md>) and nurture [self-fulfilled](<self-fulfilled.md>)
     - [x] Start to work on [generated language](<generated language.md>)
     - [x] Start to work on [intention](<intention.md>)

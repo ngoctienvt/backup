@@ -57,9 +57,6 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 - On Saturday, I want to share about freedom and wisdom, because this is really two things that makes me have a true happiness and a way of living. [true happiness](<true happiness.md>) [natural progression](<natural progression.md>)
 
-## [October 7th, 2020](<October 7th, 2020.md>)
-- [ ] merging the [living from the place of surrender](<living from the place of surrender.md>) with the concept of [natural progression](<natural progression.md>)
-
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - Today I still learn that [focus](<focus.md>) can't happen if we force it to happen. When we start to merge the experiences, things will start to be clear and be condense, so that's the focus happens in a [natural progression](<natural progression.md>)
 
