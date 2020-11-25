@@ -13,35 +13,33 @@
         - master coach
         - spiritual practitioners
     - ### process goal and system goal
-        - The pilot
+        - Focus Management System
             - Horizons of Focus
-            - Focus Management System 
-                - Life Management
-                    - Ensuring that I am living on the right track to my [[Life Polestar]]
-                - Projects / Tasks management
-                    - Manage active projects and tasks
-                    - Ensure projects and daily activities that direct me on the right track - areas of focus
-        - The plane - daily execution
-            - Daily Workflow - daily activities
-                - habit tasks
-                    - morning and evening meditation - spiritual practices
-                    - morning journal and planning
-                    - evening review 
-                    - weekly yoga and strolling - energy management
-                - general level
-                    - capturing
-                    - consuming
-                    - processing
-                    - clarifying
-                - projects and tasks level
-                    - Planning
-                    - Resolving/ Executing
-        - The engineer
-            - System management
-                - Maintaince the overall system to avoid entropy
-                - Upgrading the system incremental or exponential if possible
+            - Projects / Tasks management
+                - Manage active projects and tasks
+                - Ensure projects and daily activities that direct me on the right track - areas of focus
+            - Life Management
+                - Ensuring that I am living on the right track to my [[Life Polestar]]
+        - Daily Workflow - daily activities
+            - habit tasks
+                - morning and evening meditation - spiritual practices
+                - morning journal and planning
+                - evening review 
+                - weekly yoga and strolling - energy management
+            - general level
+                - capturing
+                - consuming
+                - processing
+                - clarifying
+                - down time
+            - projects and project tasks level
+                - Planning
+                - Resolving/ Executing
+        - System management - weekly/ monthly/ yearly review
+            - Maintaince the overall system to avoid entropy
+            - Upgrading the system incremental or exponential if possible
     - ### [[Projects MOC]] - tasks and actions
-- [[guiding principles]]
+- ### [[Life's Guiding Principles MOC]]
     - [[the middle way]]
     - [[progressive approach]]
     - [[helpful manner]]

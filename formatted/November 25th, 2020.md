@@ -14,7 +14,7 @@
         - Training
         - Meeting someone
         - Going somewhere...
-    - I will need some [guiding principles](<guiding principles.md>) to keep me on the right track
+    - I will need some [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>) to keep me on the right track
         - Handling [habit-formed will](<habit-formed will.md>)
         - Flexibility with uncertainty
         - Managing entropy
