@@ -1,0 +1,3 @@
+- https://www.youtube.com/watch?v=xQuYV0dZzVk&t=26s&ab_channel=KeepProductive
+- Raw notes
+    - How to measure what we care about, instead of care about what we measure

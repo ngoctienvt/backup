@@ -51262,6 +51262,52 @@
         "edit-time": 1606312996107,
         "string": "I noticed that my tools will be different but they will be invole when I'm clearing my overall [[Productivity MOC]] system first. [[tools]] [[Support System MOC]]",
         "uid": "lRSAOmNkh"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606315369394,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606315379878,
+        "string": "[[my quotes]] Judgments come from personal expectations, while constructive feedbacks may emerge from unconditional appreciation.",
+        "uid": "3KQiSsHsC"
+      },
+      {
+        "children": [
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606315791651,
+            "string": "**The Focusing Question:**__ What is The One Thing I can do such that by doing it, everything else will be easier or unnecessary?\u00a0__ ",
+            "uid": "CNbPdMDhh"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606315790514,
+            "string": "**The Easing Question__:__**__ If this were really easy, how would it look like?\u00a0__",
+            "uid": "OcEfCUWKF"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606315795316,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606315803266,
+        "string": "[[The Engineer MOC]]",
+        "uid": "ngMXhg64c"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606315882215,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606315890553,
+        "string": "[[@Milena Nguyen]] https://milenanguyen.com/",
+        "uid": "CXpWu1TQ4"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606317060470,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606317072891,
+        "string": "[[Youtube - Re-Framing Productivity with Chris Dancy]]",
+        "uid": "Q_ngCOTZV"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -51361,5 +51407,47 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606312088668,
     "title": "overcoming inertia"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606315889523,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606315889523,
+    "title": "@Milena Nguyen"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606317072887,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606317235638,
+        "string": "https://www.youtube.com/watch?v=xQuYV0dZzVk&t=26s&ab_channel=KeepProductive",
+        "uid": "H6amUgjbD"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606317210870,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606317235638,
+            "string": "How to measure what we care about, instead of care about what we measure",
+            "uid": "DFlFv95Co"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606317239222,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606317242529,
+        "string": "Raw notes",
+        "uid": "cpjP0CpfM"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606317072892,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606317072893,
+    "title": "Youtube - Re-Framing Productivity with Chris Dancy"
   }
 ]

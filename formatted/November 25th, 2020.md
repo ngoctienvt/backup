@@ -31,3 +31,9 @@
         - Not clear yet
             - There is a grey area here that's I'm not clear yet. It's about [Evergreen notes](<Evergreen notes.md>), I'm not really sure how to organize it and actually about how it will develop and mature yet.
             - For tasks and projects management, I think I will test to use Roam now, because Roam is where my main workplace, and I don't want to switch out of it too much.
+- [my quotes](<my quotes.md>) Judgments come from personal expectations, while constructive feedbacks may emerge from unconditional appreciation.
+- [The Engineer MOC](<The Engineer MOC.md>)
+    - **The Focusing Question:**__ What is The One Thing I can do such that by doing it, everything else will be easier or unnecessary? __ 
+    - **The Easing Question__:__**__ If this were really easy, how would it look like? __
+- [@Milena Nguyen](<@Milena Nguyen.md>) https://milenanguyen.com/
+- [Youtube - Re-Framing Productivity with Chris Dancy](<Youtube - Re-Framing Productivity with Chris Dancy.md>)

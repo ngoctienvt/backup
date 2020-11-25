@@ -16,6 +16,9 @@ If we decide everything will make us happy, anything makes us not happy will be 
 ## [November 21st, 2020](<November 21st, 2020.md>)
 - Mature people act because they have something to act, immature people act because they to act something [my quotes](<my quotes.md>)
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- [my quotes](<my quotes.md>)
+
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - [my quotes](<my quotes.md>)
 
