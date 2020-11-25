@@ -50,10 +50,10 @@
 
 # Backlinks
 ## [November 24th, 2020](<November 24th, 2020.md>)
-- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
+- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [Focus Management System MOC](<Focus Management System MOC.md>)
 
-- I start to able to develop myself to think more clearly by differentiating the difference between tasks and projects. Each thing will require a way of looking that suitable for it, so that's it becomes clear.  [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
+- I start to able to develop myself to think more clearly by differentiating the difference between tasks and projects. Each thing will require a way of looking that suitable for it, so that's it becomes clear.  [Focus Management System MOC](<Focus Management System MOC.md>)
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
-- ### [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
+- ### [Focus Management System MOC](<Focus Management System MOC.md>)
 

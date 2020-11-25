@@ -10,7 +10,7 @@ And I also want to great an impact for our world by expressing my wisdom that co
     - Second is about how deep I learn about the world - from my own experiences, intellectual mind, and learn from other [great beings](<great beings.md>).
     - I think that I would focus to solidify the lower-stage that I has been through, especially the current stage.
         - And learn to support and raise myself to reach the next stage.
-- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>) [Tag usage](<Tag usage.md>)
+- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [Focus Management System MOC](<Focus Management System MOC.md>) [Tag usage](<Tag usage.md>)
     - For projects, I created a rich-text layout in the Notes field that allows me to document as much or as little about the project as I want.
     - **SUCCESSFUL OUTCOME**
         - What will have happened when you can mark this completed?
@@ -45,6 +45,6 @@ And I also want to great an impact for our world by expressing my wisdom that co
         - **COMMENTS / IDEAS**
             - Salmon and snow peas for victory lunch?
         - **HISTORY**
-- I start to able to develop myself to think more clearly by differentiating the difference between tasks and projects. Each thing will require a way of looking that suitable for it, so that's it becomes clear.  [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
+- I start to able to develop myself to think more clearly by differentiating the difference between tasks and projects. Each thing will require a way of looking that suitable for it, so that's it becomes clear.  [Focus Management System MOC](<Focus Management System MOC.md>)
 - I noticed that I still feel uncomfortable when hearing other people judge, put their own expectation as truth, ignore or suppress other people feelings, or manipulate other people behaviours, even unconsciously. [samskaras](<samskaras.md>)
 - 

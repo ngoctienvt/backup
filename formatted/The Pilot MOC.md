@@ -1,4 +1,4 @@
-- ### [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
+- ### [Focus Management System MOC](<Focus Management System MOC.md>)
 - ### personal horizons of focus
     - ### life purpose and principle - [living from the place of surrender](<living from the place of surrender.md>) 
         - purpose - enjoy the time on earth
