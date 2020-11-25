@@ -1,29 +1,51 @@
 - ### [Focus Management System MOC](<Focus Management System MOC.md>)
-- ### personal horizons of focus
-    - ### life purpose and principle - [living from the place of surrender](<living from the place of surrender.md>) 
-        - purpose - enjoy the time on earth
+- ### Horizons of Focus
+    - ### Life Pupose - [living from the place of surrender](<living from the place of surrender.md>) 
+        - purpose - enjoy every moment of the time on earth
             - evolution [soul evolution](<soul evolution.md>)
             - contribution [serving the demand of reality](<serving the demand of reality.md>)
-        - [guiding principles](<guiding principles.md>)
-            - [progressive approach](<progressive approach.md>)
-            - [helpful manner](<helpful manner.md>)
-            - [impersonal responsibilities](<impersonal responsibilities.md>)
-    - ### vision 
-        - teaching
+    - ### Areas of Focus
+        - student-centered trainer
             - spiritual teacher
             - coach trainer
             - personal knowledge development trainer
-        - writing
-            - inspiring international blogger
-        - partnering
-            - life coach
+        - international blogger
+        - master coach
+        - spiritual practitioners
     - ### process goal and system goal
-        - consistent writing and creating
-        - productive workflow
-        - constant personal and professional development
-        - managing energy efficiently
+        - The pilot
+            - Horizons of Focus
+            - Focus Management System 
+                - Life Management
+                    - Ensuring that I am living on the right track to my [Life Polestar](<Life Polestar.md>)
+                - Projects / Tasks management
+                    - Manage active projects and tasks
+                    - Ensure projects and daily activities that direct me on the right track - areas of focus
+        - The plane - daily execution
+            - Daily Workflow - daily activities
+                - habit tasks
+                    - morning and evening meditation - spiritual practices
+                    - morning journal and planning
+                    - evening review 
+                    - weekly yoga and strolling - energy management
+                - general level
+                    - capturing
+                    - consuming
+                    - processing
+                    - clarifying
+                - projects and tasks level
+                    - Planning
+                    - Resolving/ Executing
+        - The engineer
+            - System management
+                - Maintaince the overall system to avoid entropy
+                - Upgrading the system incremental or exponential if possible
     - ### [Projects MOC](<Projects MOC.md>) - tasks and actions
-        - [types of tasks](<types of tasks.md>)
+- [guiding principles](<guiding principles.md>)
+    - [the middle way](<the middle way.md>)
+    - [progressive approach](<progressive approach.md>)
+    - [helpful manner](<helpful manner.md>)
+    - [impersonal responsibilities](<impersonal responsibilities.md>)
 
 # Backlinks
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)

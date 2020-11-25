@@ -1,26 +1,48 @@
 - ### [[Focus Management System MOC]]
-- ### personal horizons of focus
-    - ### life purpose and principle - [[living from the place of surrender]] 
-        - purpose - enjoy the time on earth
+- ### Horizons of Focus
+    - ### Life Pupose - [[living from the place of surrender]] 
+        - purpose - enjoy every moment of the time on earth
             - evolution [[soul evolution]]
             - contribution [[serving the demand of reality]]
-        - [[guiding principles]]
-            - [[progressive approach]]
-            - [[helpful manner]]
-            - [[impersonal responsibilities]]
-    - ### vision 
-        - teaching
+    - ### Areas of Focus
+        - student-centered trainer
             - spiritual teacher
             - coach trainer
             - personal knowledge development trainer
-        - writing
-            - inspiring international blogger
-        - partnering
-            - life coach
+        - international blogger
+        - master coach
+        - spiritual practitioners
     - ### process goal and system goal
-        - consistent writing and creating
-        - productive workflow
-        - constant personal and professional development
-        - managing energy efficiently
+        - The pilot
+            - Horizons of Focus
+            - Focus Management System 
+                - Life Management
+                    - Ensuring that I am living on the right track to my [[Life Polestar]]
+                - Projects / Tasks management
+                    - Manage active projects and tasks
+                    - Ensure projects and daily activities that direct me on the right track - areas of focus
+        - The plane - daily execution
+            - Daily Workflow - daily activities
+                - habit tasks
+                    - morning and evening meditation - spiritual practices
+                    - morning journal and planning
+                    - evening review 
+                    - weekly yoga and strolling - energy management
+                - general level
+                    - capturing
+                    - consuming
+                    - processing
+                    - clarifying
+                - projects and tasks level
+                    - Planning
+                    - Resolving/ Executing
+        - The engineer
+            - System management
+                - Maintaince the overall system to avoid entropy
+                - Upgrading the system incremental or exponential if possible
     - ### [[Projects MOC]] - tasks and actions
-        - [[types of tasks]]
+- [[guiding principles]]
+    - [[the middle way]]
+    - [[progressive approach]]
+    - [[helpful manner]]
+    - [[impersonal responsibilities]]
