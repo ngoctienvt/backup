@@ -1,10 +1,10 @@
 - ### [[Horizons of Focus Management MOC]]
-- ### personal horizons of focus [[horizons of focus]]
+- ### personal horizons of focus
     - ### life purpose and principle - [[living from the place of surrender]] 
-        - purpose - letting go all of inner stuff and enjoy life as it is [[enjoy the process]]
+        - purpose - enjoy the time on earth
             - evolution [[soul evolution]]
             - contribution [[serving the demand of reality]]
-        - principle 
+        - [[guiding principles]]
             - [[progressive approach]]
             - [[helpful manner]]
             - [[impersonal responsibilities]]
@@ -18,9 +18,9 @@
         - partnering
             - life coach
     - ### process goal and system goal
-        - routine habit 
-            - daily meditation
-            - weekly review and planning
-        - productivity process
-        - personal knowledge development system
+        - consistent writing and creating
+        - productive workflow
+        - constant personal and professional development
+        - managing energy efficiently
     - ### [[Projects MOC]] - tasks and actions
+        - [[types of tasks]]

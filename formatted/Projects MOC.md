@@ -19,7 +19,6 @@
     - [A: Learning to handle our heart](<A: Learning to handle our heart.md>)
 - Completed
     - [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)
-- 
 
 # Backlinks
 ## [Home Maps](<Home Maps.md>)

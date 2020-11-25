@@ -4611,14 +4611,6 @@
         "edit-time": 1605965627359,
         "string": "Completed",
         "uid": "YIBTFMMAb"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1605966632457,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605966898324,
-        "string": "",
-        "uid": "X5e4IqkR8"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -48227,8 +48219,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605884401972,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605965138154,
-                "string": "purpose - letting go all of inner stuff and enjoy life as it is [[enjoy the process]]",
+                "edit-time": 1606272507539,
+                "string": "purpose - enjoy the time on earth",
                 "uid": "qKtzhUnpR"
               },
               {
@@ -48261,8 +48253,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605965007686,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605965011767,
-                "string": "principle ",
+                "edit-time": 1606272474639,
+                "string": "[[guiding principles]]",
                 "uid": "9IkvsB97F"
               }
             ],
@@ -48358,46 +48350,36 @@
           {
             "children": [
               {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605964953139,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605964958920,
-                    "string": "daily meditation",
-                    "uid": "Vrv6jfvhc"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1605964963112,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1605964975102,
-                    "string": "weekly review and planning",
-                    "uid": "Jhh8ePFzv"
-                  }
-                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884750569,
+                "create-time": 1606272514290,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884805622,
-                "string": "routine habit ",
-                "uid": "3wSR5xT3n"
+                "edit-time": 1606272612435,
+                "string": "consistent writing and creating",
+                "uid": "YvikLKHhV"
               },
               {
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884811722,
+                "create-time": 1606272612429,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884822310,
-                "string": "productivity process",
-                "uid": "emMLtpx3s"
+                "edit-time": 1606272632418,
+                "string": "productive workflow",
+                "uid": "5EnnL91el"
               },
               {
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884829933,
+                "create-time": 1606272632467,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884836198,
-                "string": "personal knowledge development system",
-                "uid": "BCeNHeUc3"
+                "edit-time": 1606272729343,
+                "string": "constant personal and professional development",
+                "uid": "SNqiy8CHS"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272669622,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272681451,
+                "string": "managing energy efficiently",
+                "uid": "4T-5gYGFS"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -48409,6 +48391,16 @@
             "uid": "bvD0XF_dT"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272439557,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272464638,
+                "string": "[[types of tasks]]",
+                "uid": "F7gmTnfGI"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605884836195,
             "edit-email": "ngoctienvt@gmail.com",
@@ -48421,9 +48413,9 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605884351814,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605965106025,
+        "edit-time": 1606272534334,
         "heading": 3,
-        "string": "personal horizons of focus [[horizons of focus]]",
+        "string": "personal horizons of focus",
         "uid": "UnczX9s8Q"
       }
     ],
@@ -50538,10 +50530,257 @@
     "title": "Horizons of Focus Management MOC"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606271754844,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606272188804,
+                    "string": "for spiritual practices",
+                    "uid": "xIJXcego6"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272188794,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272188794,
+                "string": "Morning and evening meditation ",
+                "uid": "MsM5XIvnq"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606272197533,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606272213168,
+                    "string": "for constant newness",
+                    "uid": "z7vuFc5j3"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606271764979,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272197536,
+                "string": "Consuming certain books or materials",
+                "uid": "3Yqvm8oQP"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606272130619,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606272233481,
+                    "string": "for clarify thoughts and intention",
+                    "uid": "yrNhhDDfa"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272191288,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272191288,
+                "string": "Morning journal ",
+                "uid": "ikqCvx43X"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606271838631,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606272194074,
+                    "string": "for zoom-out perspective and optimization",
+                    "uid": "2s315Gdpq"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272194072,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272194072,
+                "string": "Daily review and weekly review ",
+                "uid": "ofrG1thnE"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606271718627,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606272250072,
+            "string": "There will be [[habit tasks]] which I will do specific task every single day like",
+            "uid": "ndQlnU4q4"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606271811925,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606272272319,
+            "string": "There will be [[project tasks]] that based on my active projects. These tasks will need a specific system to handle and organize them, so that I can just simply work on and not much friction.",
+            "uid": "IQBj4sKaG"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606271931635,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606271933240,
+                "string": "Coaching",
+                "uid": "sjNU29azc"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606271933237,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606271934505,
+                "string": "Training",
+                "uid": "6Ibf-NGWM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606271934502,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606271947873,
+                "string": "Meeting someone",
+                "uid": "Jjq4I-zbY"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606271947869,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606271979066,
+                "string": "Going somewhere...",
+                "uid": "qd51d5qLG"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606271861909,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606272281146,
+            "string": "There will be some [[schedule tasks]] that are",
+            "uid": "mKKsffH9v"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272041884,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272062376,
+                "string": "Handling [[habit-formed will]]",
+                "uid": "Wkc5Y3WyF"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272062372,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272091829,
+                "string": "Flexibility with uncertainty",
+                "uid": "lTDbxKMbl"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272091826,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272101355,
+                "string": "Managing entropy",
+                "uid": "L6eNx_YCf"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606272101351,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606272101351,
+                "string": "",
+                "uid": "bAJXhMQ_M"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606271979061,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606272041888,
+            "string": "I will need some [[guiding principles]] to keep me on the right track",
+            "uid": "iIHospEM6"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606271624526,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606272259791,
+        "string": "I start to come back to my practices and my main work. Somehow there will be different types of tasks that I will do each day [[types of tasks]]",
+        "uid": "f1czxywRI"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1606265031173,
+    "create-time": 1606271623346,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606265031173,
+    "edit-time": 1606271623346,
     "title": "November 25th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606272041889,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606272041895,
+    "title": "guiding principles"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606272250073,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606272250074,
+    "title": "habit tasks"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606272446394,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606272449626,
+        "string": "[[habit tasks]]",
+        "uid": "dKuCWWD45"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606272449623,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606272453498,
+        "string": "[[project tasks]]",
+        "uid": "Khz73LNl7"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606272453495,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606272457432,
+        "string": "[[schedule tasks]]",
+        "uid": "cQUmoneU1"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606272254411,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606272254411,
+    "title": "types of tasks"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606272272320,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606272272321,
+    "title": "project tasks"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606272281148,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606272281148,
+    "title": "schedule tasks"
   }
 ]

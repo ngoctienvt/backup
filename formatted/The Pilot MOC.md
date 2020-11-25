@@ -1,10 +1,10 @@
 - ### [Horizons of Focus Management MOC](<Horizons of Focus Management MOC.md>)
-- ### personal horizons of focus [horizons of focus](<horizons of focus.md>)
+- ### personal horizons of focus
     - ### life purpose and principle - [living from the place of surrender](<living from the place of surrender.md>) 
-        - purpose - letting go all of inner stuff and enjoy life as it is [enjoy the process](<enjoy the process.md>)
+        - purpose - enjoy the time on earth
             - evolution [soul evolution](<soul evolution.md>)
             - contribution [serving the demand of reality](<serving the demand of reality.md>)
-        - principle 
+        - [guiding principles](<guiding principles.md>)
             - [progressive approach](<progressive approach.md>)
             - [helpful manner](<helpful manner.md>)
             - [impersonal responsibilities](<impersonal responsibilities.md>)
@@ -18,12 +18,12 @@
         - partnering
             - life coach
     - ### process goal and system goal
-        - routine habit 
-            - daily meditation
-            - weekly review and planning
-        - productivity process
-        - personal knowledge development system
+        - consistent writing and creating
+        - productive workflow
+        - constant personal and professional development
+        - managing energy efficiently
     - ### [Projects MOC](<Projects MOC.md>) - tasks and actions
+        - [types of tasks](<types of tasks.md>)
 
 # Backlinks
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)

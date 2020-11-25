@@ -1,0 +1,3 @@
+- [[habit tasks]]
+- [[project tasks]]
+- [[schedule tasks]]

@@ -1,0 +1,21 @@
+- I start to come back to my practices and my main work. Somehow there will be different types of tasks that I will do each day [[types of tasks]]
+    - There will be [[habit tasks]] which I will do specific task every single day like
+        - Morning and evening meditation 
+            - for spiritual practices
+        - Consuming certain books or materials
+            - for constant newness
+        - Morning journal 
+            - for clarify thoughts and intention
+        - Daily review and weekly review 
+            - for zoom-out perspective and optimization
+    - There will be [[project tasks]] that based on my active projects. These tasks will need a specific system to handle and organize them, so that I can just simply work on and not much friction.
+    - There will be some [[schedule tasks]] that are
+        - Coaching
+        - Training
+        - Meeting someone
+        - Going somewhere...
+    - I will need some [[guiding principles]] to keep me on the right track
+        - Handling [[habit-formed will]]
+        - Flexibility with uncertainty
+        - Managing entropy
+        - 
