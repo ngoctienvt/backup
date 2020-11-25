@@ -51303,11 +51303,11 @@
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606317060470,
+        "create-time": 1606318685421,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606317072891,
-        "string": "[[Youtube - Re-Framing Productivity with Chris Dancy]]",
-        "uid": "Q_ngCOTZV"
+        "edit-time": 1606318685421,
+        "string": "",
+        "uid": "H_2cVLniy"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -51414,40 +51414,5 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606315889523,
     "title": "@Milena Nguyen"
-  },
-  {
-    "children": [
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606317072887,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606317235638,
-        "string": "https://www.youtube.com/watch?v=xQuYV0dZzVk&t=26s&ab_channel=KeepProductive",
-        "uid": "H6amUgjbD"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606317210870,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606317235638,
-            "string": "How to measure what we care about, instead of care about what we measure",
-            "uid": "DFlFv95Co"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606317239222,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606317242529,
-        "string": "Raw notes",
-        "uid": "cpjP0CpfM"
-      }
-    ],
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1606317072892,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606317072893,
-    "title": "Youtube - Re-Framing Productivity with Chris Dancy"
   }
 ]

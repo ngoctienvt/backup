@@ -36,4 +36,4 @@
     - **The Focusing Question:**__ What is The One Thing I can do such that by doing it, everything else will be easier or unnecessary? __ 
     - **The Easing Question__:__**__ If this were really easy, how would it look like? __
 - [[@Milena Nguyen]] https://milenanguyen.com/
-- [[Youtube - Re-Framing Productivity with Chris Dancy]]
+- 
