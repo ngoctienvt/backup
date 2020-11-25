@@ -1,8 +1,8 @@
 
 # Backlinks
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
-- [course correcting](<course correcting.md>)
+- [scheduling](<scheduling.md>) by using [time-blocking](<time-blocking.md>)
 
 ## [The Plane MOC](<The Plane MOC.md>)
-- [course correcting](<course correcting.md>)
+- [time-blocking](<time-blocking.md>)
 

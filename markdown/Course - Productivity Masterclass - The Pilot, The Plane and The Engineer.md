@@ -25,7 +25,7 @@
                     - eat a frog - the most unpleasant task 
                     - 1 big task - 3 medium tasks- 5 small tasks
             - **Personal reflection**
-                - [[scheduling]] by using [[time blocking]] help me 
+                - [[scheduling]] by using [[time-blocking]] help me 
                     - to stay focus on the short term instead of being distracted
                     - release the worry about the direction, because it's based on my medium and long term intention.
                 - the point is not to follow what I plan, but having the default schedule helping for navigating in normal circumstances
@@ -86,7 +86,7 @@
                 - action -> success -> motivation -> action
                 - struggle to do long-term benefit but short-term pain
                 - If we can just take off, we let the [[Newton's first law of motion]] do it in our favor
-            - overcoming inertia
+            - [[overcoming inertia]]
                 - 2-minute rule
                 - 5-minute rule
                 - environment design

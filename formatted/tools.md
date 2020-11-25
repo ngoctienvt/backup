@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 25th, 2020](<November 25th, 2020.md>)
+- I noticed that my tools will be different but they will be invole when I'm clearing my overall [Productivity MOC](<Productivity MOC.md>) system first. [tools](<tools.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - I need to see things [as a whole](<as a whole.md>) instead of separation and understand the process behind everything more deeply so I can use the [means](<means.md>) in an effective way, instead of lost in the [tools](<tools.md>).
 

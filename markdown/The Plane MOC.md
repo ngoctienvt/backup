@@ -1,0 +1,23 @@
+- ### [[Daily Workflow MOC]]
+- ### Underlying principles
+    - [[Newton's first law of motion]]
+- ### 3 main stages
+    - take off safely
+        - Starting
+            - [[overcoming inertia]]
+                - Only work for 5 minutes
+                - Preparing [[admin tasks]] before main work
+            - [[time-blocking]]
+                - Weekly Planning and Daily Planning
+    - stay the course and handle blockages/ distractions
+        - maintain and snowball the course
+            - [[flow state]]
+            - maintain clarity
+            - [[snowball effect]]
+        - handle blockages/ distractions
+            - overcome stuck
+            - [[distraction management]] 
+                - handle accumulated stress
+            - [[course correcting]]
+    - land safely
+        - review, relax, release, relearn

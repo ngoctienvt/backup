@@ -1,21 +1,26 @@
-- [[Active]]
-    - building a PKDS training program
-        - Developing [[PKDS - Personal Knowledge Development System MOC]]
-            - {{[[TODO]]}} Developing [[Creating phase]]
-        - Learning [[instructional design]]
-    - building a productivity system
-        - Developing [[Workflow MOC]]
-    - consuming
-        - Coaching knowledge
-            - {{[[TODO]]}} Learning The target approach
-            - {{[[TODO]]}} Reading The heart of laser focus coaching
-            - {{[[TODO]]}} Reading A shift in being
-            - {{[[TODO]]}} Reading Coach the person, not the problem
-- Inactive
+- ### Completed
+    - [[P: How I use Roam Research to evolve my mind]]
+- ### Inactive
     - [[mind-training]]
     - [[coach training]]
     - [[journaling training]]
     - [[A: Suffering]]
     - [[A: Learning to handle our heart]]
-- Completed
-    - [[P: How I use Roam Research to evolve my mind]]
+- ### [[Active]]
+    - building a PKDS training program
+        - Developing [[PKDS - Personal Knowledge Development System MOC]]
+            - {{[[TODO]]}} Developing [[Creating phase]]
+        - Learning [[instructional design]]
+    - building a productivity system
+        - {{[[TODO]]}} Developing [[Workflow MOC]]
+        - {{[[TODO]]}} Work on [[The Plane MOC]]
+        - {{[[TODO]]}} Work on [[The Engineer MOC]]
+    - consuming coaching knowledge
+        - {{[[TODO]]}} Learning The target approach
+        - {{[[TODO]]}} Reading The heart of laser focus coaching
+        - {{[[TODO]]}} Reading A shift in being
+        - {{[[TODO]]}} Reading Coach the person, not the problem
+- ### Focus of the week
+    - "{{[[TODO]]}} Work on [[The Plane MOC]]"
+    - "{{[[TODO]]}} Developing [[Workflow MOC]]"
+    - "{{[[TODO]]}} Developing [[Creating phase]]"

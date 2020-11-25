@@ -56,6 +56,9 @@
 ## [November 19th, 2020](<November 19th, 2020.md>)
 - One is I start to write [Evergreen notes](<Evergreen notes.md>),
 
+## [November 25th, 2020](<November 25th, 2020.md>)
+- There is a grey area here that's I'm not clear yet. It's about [Evergreen notes](<Evergreen notes.md>),
+
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [Evergreen notes](<Evergreen notes.md>)
 

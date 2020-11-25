@@ -12,7 +12,7 @@
         - international blogger
         - master coach
         - spiritual practitioners
-    - ### process goal and system goal
+    - ### Process and System
         - Focus Management System
             - Horizons of Focus
             - Projects / Tasks management
@@ -20,7 +20,7 @@
                 - Ensure projects and daily activities that direct me on the right track - areas of focus
             - Life Management
                 - Ensuring that I am living on the right track to my [Life Polestar](<Life Polestar.md>)
-        - Daily Workflow - daily activities
+        - [Daily Workflow MOC](<Daily Workflow MOC.md>) - daily activities
             - habit tasks
                 - morning and evening meditation - spiritual practices
                 - morning journal and planning

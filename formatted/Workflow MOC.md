@@ -86,5 +86,7 @@
 - [Workflow MOC](<Workflow MOC.md>)
 
 ## [Projects MOC](<Projects MOC.md>)
-- Developing [Workflow MOC](<Workflow MOC.md>)
+- [ ] Developing [Workflow MOC](<Workflow MOC.md>)
+
+- "[ ] Developing [Workflow MOC](<Workflow MOC.md>)"
 
