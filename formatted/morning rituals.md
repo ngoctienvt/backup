@@ -37,3 +37,6 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - This [morning rituals](<morning rituals.md>)
 
+## [The Pilot MOC](<The Pilot MOC.md>)
+- [morning rituals](<morning rituals.md>)
+

@@ -48434,78 +48434,134 @@
                   {
                     "children": [
                       {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606378225805,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606378228514,
+                            "string": "admin tasks",
+                            "uid": "Ps1rHx_DB"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606298608957,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606378268989,
+                                "string": "meditation",
+                                "uid": "cwBaXhoJn"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606378260830,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606378263094,
+                                "string": "breakfast",
+                                "uid": "5R--WhM17"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606298699820,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606378204076,
+                                "string": "journal and planning",
+                                "uid": "J-lmS1Lcs"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606378133903,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606378274803,
+                            "string": "[[morning rituals]] 7h - 9h",
+                            "uid": "em3KSZEiZ"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606377797325,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606377810963,
+                            "string": "processing new knowledge",
+                            "uid": "LDGC5OPWx"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606378217538,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606378217538,
+                                "string": "meditation",
+                                "uid": "LT1Q0Bj3u"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606378190525,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606378217540,
+                                "string": "review ",
+                                "uid": "mwW6DlL5E"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606377778199,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606377797328,
+                                "string": "consuming new knowledge",
+                                "uid": "7ltoMDiOX"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606378147261,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606378473691,
+                            "string": "[[evening rituals]] 21h-23h",
+                            "uid": "8zvrqJgYW"
+                          }
+                        ],
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606298608957,
+                        "create-time": 1606377936630,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606298637608,
-                        "string": "morning and evening meditation - spiritual practices",
-                        "uid": "cwBaXhoJn"
+                        "edit-time": 1606377938225,
+                        "string": "daily",
+                        "uid": "q8l0orqRr"
                       },
                       {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606298749120,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606377953126,
+                            "string": "yoga and strolling - energy management",
+                            "uid": "M-4fTtGbz"
+                          }
+                        ],
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606298699820,
+                        "create-time": 1606377948069,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606298717691,
-                        "string": "morning journal and planning",
-                        "uid": "J-lmS1Lcs"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606298705324,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606299463023,
-                        "string": "evening review ",
-                        "uid": "gwIPINV7e"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606298749120,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606299461681,
-                        "string": "weekly yoga and strolling - energy management",
-                        "uid": "M-4fTtGbz"
+                        "edit-time": 1606377949733,
+                        "string": "weekly",
+                        "uid": "MAec2ZFYZ"
                       }
                     ],
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1606298601235,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606298606091,
-                    "string": "habit tasks",
+                    "edit-time": 1606377906679,
+                    "string": "repeat tasks",
                     "uid": "BvblAZPDr"
                   },
                   {
                     "children": [
                       {
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606297124791,
+                        "create-time": 1606377855084,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606297127850,
-                        "string": "capturing",
-                        "uid": "X5f-zFs_I"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606297127847,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606297131234,
-                        "string": "consuming",
-                        "uid": "4YzpbE6fY"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606297131231,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606297138662,
-                        "string": "processing",
-                        "uid": "MC83PUWSc"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606297138846,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606297152254,
-                        "string": "clarifying",
-                        "uid": "eF9E-QfPc"
+                        "edit-time": 1606377859974,
+                        "string": "capturing ",
+                        "uid": "XbK5BcDmJ"
                       },
                       {
                         "create-email": "ngoctienvt@gmail.com",
@@ -48519,8 +48575,8 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1606297121728,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606360772091,
-                    "string": "general tasks",
+                    "edit-time": 1606377910801,
+                    "string": "habit tasks",
                     "uid": "rN58jX3QA"
                   },
                   {
@@ -48587,9 +48643,9 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605884694053,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606367806167,
+            "edit-time": 1606377755546,
             "heading": 3,
-            "string": "Process and System - glued",
+            "string": "Process and System ",
             "uid": "bvD0XF_dT"
           },
           {
@@ -51506,8 +51562,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606358289304,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606360039595,
-        "string": "{{[[query]]: {and: [[TODO]] [[Today Focus]]}}}",
+        "edit-time": 1606377678933,
+        "string": "#min-all {{[[query]]: {and: [[TODO]] [[Today Focus]]}}}",
         "uid": "pEGRdmDKw"
       },
       {
@@ -51590,5 +51646,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606358587230,
     "title": "Today Focus"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606377660139,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606377660140,
+    "title": "min-all"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606378158694,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606378158695,
+    "title": "evening rituals"
   }
 ]

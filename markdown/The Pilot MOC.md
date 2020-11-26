@@ -11,7 +11,7 @@
         - international blogger
         - master coach
         - spiritual practitioners
-    - ### Process and System - glued
+    - ### Process and System 
         - [[Focus Management System MOC]]
             - Horizons of Focus
             - Projects / Tasks management
@@ -20,16 +20,22 @@
             - Life Management
                 - Ensuring that I am living on the right track to my [[Life Polestar]]
         - [[Daily Workflow MOC]] - daily activities
+            - repeat tasks
+                - daily
+                    - admin tasks
+                    - [[morning rituals]] 7h - 9h
+                        - meditation
+                        - breakfast
+                        - journal and planning
+                    - processing new knowledge
+                    - [[evening rituals]] 21h-23h
+                        - meditation
+                        - review 
+                        - consuming new knowledge
+                - weekly
+                    - yoga and strolling - energy management
             - habit tasks
-                - morning and evening meditation - spiritual practices
-                - morning journal and planning
-                - evening review 
-                - weekly yoga and strolling - energy management
-            - general tasks
-                - capturing
-                - consuming
-                - processing
-                - clarifying
+                - capturing 
                 - down time
             - projects and project tasks level
                 - Planning

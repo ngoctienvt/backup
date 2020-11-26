@@ -1,4 +1,4 @@
-- {{[[query]]: {and: [[TODO]] [[Today Focus]]}}}
+- #min-all {{[[query]]: {and: [[TODO]] [[Today Focus]]}}}
 - I have a fear and feeling uncomfortable with toilet. It haunts me and makes me feel hard to relax with.
 - I'm thinking about how to manage the ideas that I want to write (where to store/ keep track/ link it with my MOC?) [[Creating phase]]
 - I'm not really sure how to hanld the Productivity System yet
