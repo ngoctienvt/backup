@@ -1,4 +1,8 @@
 - {{[query](<query.md>): {and: [TODO](<TODO.md>) [Today Focus](<Today Focus.md>)}}}
 - I have a fear and feeling uncomfortable with toilet. It haunts me and makes me feel hard to relax with.
 - I'm thinking about how to manage the ideas that I want to write (where to store/ keep track/ link it with my MOC?) [Creating phase](<Creating phase.md>)
-- 
+- I'm not really sure how to hanld the Productivity System yet
+    - The pilot section for me is about storing my life's direction and manage my life intention as well as what I will need to complete and execute
+        - And the guiding principle to make sure that I'm on the right track
+    - The plane is all about how to execute and complete the order effectively
+    - The engineer section is about ensuring I can achieve my life direction in an efficient way, and also about checking and upgrade the system. It will not hold the guiding principle about the whole system. 

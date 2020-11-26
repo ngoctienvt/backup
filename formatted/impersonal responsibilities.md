@@ -9,6 +9,9 @@
 - 
 
 # Backlinks
+## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
+- [impersonal responsibilities](<impersonal responsibilities.md>)
+
 ## [October 5th, 2020](<October 5th, 2020.md>)
 What if there is no good reason? What if there is nothing to count on except me? Am I give up or am I taking all responsibilities for my own life? Am I do the best at I can or am I count on external things? [independent](<independent.md>) [willpower](<willpower.md>) [spiritual growth](<spiritual growth.md>) [impersonal responsibilities](<impersonal responsibilities.md>)
 
@@ -23,7 +26,4 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 
 ## [September 28th, 2020](<September 28th, 2020.md>)
 - It's the same for the situation that Huyền is not preparing things and make me feel secure that my needs are taking care of properly. I put my responsibility for Huyền and feel uncomfortable when they do not really care about it. [impersonal responsibilities](<impersonal responsibilities.md>)
-
-## [The Pilot MOC](<The Pilot MOC.md>)
-- [impersonal responsibilities](<impersonal responsibilities.md>)
 

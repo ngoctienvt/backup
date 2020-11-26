@@ -1,12 +1,12 @@
 - Resources
 - 
 - Outline
-- [[The Pilot MOC]]
+- [[The Pilot MOC]] - Ensure doing the right things
     - [[horizons of focus]]
     - [[focus on what matters]]
-- [[The Plane MOC]]
+- [[The Plane MOC]] - Doing
     - [[Workflow MOC]]
-- [[The Engineer MOC]]
+- [[The Engineer MOC]] - Ensure doing the things right
     - [[Working Zone MOC]]
     - [[Support System MOC]]
         - ### Tools

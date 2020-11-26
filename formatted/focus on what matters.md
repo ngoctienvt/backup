@@ -20,7 +20,10 @@
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - Pareto principle is [focus on what matters](<focus on what matters.md>)
 
-## [Productivity MOC](<Productivity MOC.md>)
+## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
+- [focus on what matters](<focus on what matters.md>)
+
+## [Productivity System MOC](<Productivity System MOC.md>)
 - [focus on what matters](<focus on what matters.md>)
 
 ## [Workflow MOC](<Workflow MOC.md>)

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
+- [the middle way](<the middle way.md>)
+
 ## [November 16th, 2020](<November 16th, 2020.md>)
 - [the middle way](<the middle way.md>)
 
@@ -17,7 +20,4 @@
 
 ## [October 26th, 2020](<October 26th, 2020.md>)
 - I have the urge to buy a webcam for my PC because of the [need for convenient](<need for convenient.md>). But I don't want to follow that urge. I will buy if I use this more often. [the middle way](<the middle way.md>)
-
-## [The Pilot MOC](<The Pilot MOC.md>)
-- [the middle way](<the middle way.md>)
 

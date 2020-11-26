@@ -1,12 +1,12 @@
 - Resources
 - 
 - Outline
-- [The Pilot MOC](<The Pilot MOC.md>)
+- [The Pilot MOC](<The Pilot MOC.md>) - Ensure doing the right things
     - [horizons of focus](<horizons of focus.md>)
     - [focus on what matters](<focus on what matters.md>)
-- [The Plane MOC](<The Plane MOC.md>)
+- [The Plane MOC](<The Plane MOC.md>) - Doing
     - [Workflow MOC](<Workflow MOC.md>)
-- [The Engineer MOC](<The Engineer MOC.md>)
+- [The Engineer MOC](<The Engineer MOC.md>) - Ensure doing the things right
     - [Working Zone MOC](<Working Zone MOC.md>)
     - [Support System MOC](<Support System MOC.md>)
         - ### Tools
@@ -25,8 +25,8 @@
 
 # Backlinks
 ## [Home Maps](<Home Maps.md>)
-- [Productivity MOC](<Productivity MOC.md>)
+- [Productivity System MOC](<Productivity System MOC.md>)
 
 ## [November 25th, 2020](<November 25th, 2020.md>)
-- I noticed that my tools will be different but they will be invole when I'm clearing my overall [Productivity MOC](<Productivity MOC.md>)
+- I noticed that my tools will be different but they will be invole when I'm clearing my overall [Productivity System MOC](<Productivity System MOC.md>)
 

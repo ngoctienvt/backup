@@ -38029,8 +38029,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605864378982,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605864385340,
-        "string": "[[Productivity MOC]]",
+        "edit-time": 1606361032474,
+        "string": "[[Productivity System MOC]]",
         "uid": "VVWY9wGH_"
       },
       {
@@ -48258,15 +48258,6 @@
   {
     "children": [
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606227459063,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606295297119,
-        "heading": 3,
-        "string": "[[Focus Management System MOC]]",
-        "uid": "k1CdFlfS5"
-      },
-      {
         "children": [
           {
             "children": [
@@ -48434,8 +48425,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1606297382615,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606299714845,
-                "string": "Focus Management System",
+                "edit-time": 1606362248597,
+                "string": "[[Focus Management System MOC]]",
                 "uid": "ID-M0YBYV"
               },
               {
@@ -48528,8 +48519,8 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1606297121728,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606297757759,
-                    "string": "general level",
+                    "edit-time": 1606360772091,
+                    "string": "general tasks",
                     "uid": "rN58jX3QA"
                   },
                   {
@@ -48596,9 +48587,9 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605884694053,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606311755862,
+            "edit-time": 1606367806167,
             "heading": 3,
-            "string": "Process and System",
+            "string": "Process and System - glued",
             "uid": "bvD0XF_dT"
           },
           {
@@ -48620,40 +48611,15 @@
         "uid": "UnczX9s8Q"
       },
       {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606299334052,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606299340931,
-            "string": "[[the middle way]]",
-            "uid": "9RE1UNcfb"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605965006387,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606299330349,
-            "string": "[[progressive approach]]",
-            "uid": "EXXv5Hl6l"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605965025258,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606299330349,
-            "string": "[[helpful manner]]",
-            "uid": "lPGrwQdHY"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605965111627,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606299330349,
-            "string": "[[impersonal responsibilities]]",
-            "uid": "ljwhMBCyQ"
-          }
-        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606227459063,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606295297119,
+        "heading": 3,
+        "string": "[[Focus Management System MOC]]",
+        "uid": "k1CdFlfS5"
+      },
+      {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605965007686,
         "edit-email": "ngoctienvt@gmail.com",
@@ -49241,8 +49207,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605864426049,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605884348353,
-        "string": "[[The Pilot MOC]]",
+        "edit-time": 1606362054724,
+        "string": "[[The Pilot MOC]] - Ensure doing the right things",
         "uid": "bt8bATQ6k"
       },
       {
@@ -49259,8 +49225,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605864429438,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605885089986,
-        "string": "[[The Plane MOC]]",
+        "edit-time": 1606367851991,
+        "string": "[[The Plane MOC]] - Doing",
         "uid": "gN-nlPEkd"
       },
       {
@@ -49396,16 +49362,16 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605864437198,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605885098450,
-        "string": "[[The Engineer MOC]]",
+        "edit-time": 1606362058175,
+        "string": "[[The Engineer MOC]] - Ensure doing the things right",
         "uid": "6CFcMVZoY"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1605864385341,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1605864385343,
-    "title": "Productivity MOC"
+    "edit-time": 1606361032474,
+    "title": "Productivity System MOC"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -51288,8 +51254,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606311713446,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606312996107,
-        "string": "I noticed that my tools will be different but they will be invole when I'm clearing my overall [[Productivity MOC]] system first. [[tools]] [[Support System MOC]]",
+        "edit-time": 1606361032474,
+        "string": "I noticed that my tools will be different but they will be invole when I'm clearing my overall [[Productivity System MOC]] system first. [[tools]] [[Support System MOC]]",
         "uid": "lRSAOmNkh"
       },
       {
@@ -51351,9 +51317,99 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606299569637,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606299569637,
-        "string": "",
+        "edit-time": 1606362112892,
+        "string": "Resources",
         "uid": "eu0J2axi3"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606360897738,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606360903253,
+                "string": "[[focus on what matters]]",
+                "uid": "PPEW1dCrD"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606362124152,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606362177370,
+            "string": "80/20",
+            "uid": "NH89Y-RQC"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605965006387,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606299330349,
+                "string": "[[progressive approach]]",
+                "uid": "EXXv5Hl6l"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606299334052,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606299340931,
+                "string": "[[the middle way]]",
+                "uid": "9RE1UNcfb"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606362180953,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606362192662,
+            "string": "Stress-free",
+            "uid": "miuUQ0rE6"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605965025258,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606299330349,
+                "string": "[[helpful manner]]",
+                "uid": "lPGrwQdHY"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606362198409,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606362208112,
+            "string": "Effective",
+            "uid": "CoSJDV_1l"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605965111627,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606299330349,
+                "string": "[[impersonal responsibilities]]",
+                "uid": "ljwhMBCyQ"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606362211504,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606362220075,
+            "string": "Selflessness",
+            "uid": "qzpawz3qe"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606362112888,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606362124155,
+        "string": "Outline",
+        "uid": "EzU7j-Mp3"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -51471,11 +51527,47 @@
         "uid": "H6zGZoLZw"
       },
       {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606361338529,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606361350952,
+                "string": "And the guiding principle to make sure that I'm on the right track",
+                "uid": "FlMuajcO7"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606361037553,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606361079922,
+            "string": "The pilot section for me is about storing my life's direction and manage my life intention as well as what I will need to complete and execute",
+            "uid": "kucTBSOr2"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606361079919,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606361105062,
+            "string": "The plane is all about how to execute and complete the order effectively",
+            "uid": "I_cU3Aj9i"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606361105054,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606361469402,
+            "string": "The engineer section is about ensuring I can achieve my life direction in an efficient way, and also about checking and upgrade the system. It will not hold the guiding principle about the whole system. ",
+            "uid": "h2b5FfRLZ"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606358566497,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606358566497,
-        "string": "",
+        "edit-time": 1606361037556,
+        "string": "I'm not really sure how to hanld the Productivity System yet",
         "uid": "TzwGLz0my"
       }
     ],

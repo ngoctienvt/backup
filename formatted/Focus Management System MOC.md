@@ -55,5 +55,7 @@
 - I start to able to develop myself to think more clearly by differentiating the difference between tasks and projects. Each thing will require a way of looking that suitable for it, so that's it becomes clear.  [Focus Management System MOC](<Focus Management System MOC.md>)
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
+- [Focus Management System MOC](<Focus Management System MOC.md>)
+
 - ### [Focus Management System MOC](<Focus Management System MOC.md>)
 

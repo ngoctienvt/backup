@@ -19,7 +19,7 @@
         - Flexibility with uncertainty
         - Managing entropy
 - Today I learned that learn to dance in [[the middle way]] is happening on everything. It's not just about balance, it's about a central point from that I navigate my life from zoom-in or zoom-out effectively, and because I'm working on the middle, so there is no true bottom line or top ceiling.
-- I noticed that my tools will be different but they will be invole when I'm clearing my overall [[Productivity MOC]] system first. [[tools]] [[Support System MOC]]
+- I noticed that my tools will be different but they will be invole when I'm clearing my overall [[Productivity System MOC]] system first. [[tools]] [[Support System MOC]]
     - For instance, Roam Research would be mainly for me to work on main knowledge development tasks such as
         - Roam Research
             - Collecting high-quality input, 

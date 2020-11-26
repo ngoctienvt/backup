@@ -1,1 +1,11 @@
-- 
+- Resources
+- Outline
+    - 80/20
+        - [[focus on what matters]]
+    - Stress-free
+        - [[progressive approach]]
+        - [[the middle way]]
+    - Effective
+        - [[helpful manner]]
+    - Selflessness
+        - [[impersonal responsibilities]]

@@ -6,7 +6,7 @@
 - [[Projects MOC]]
 - ### Priority MOC
 - [[PKDS - Personal Knowledge Development System MOC]]
-- [[Productivity MOC]]
+- [[Productivity System MOC]]
 - ### Low priority MOC
 - [[Coaching MOC]]
 - [[Training MOC]]

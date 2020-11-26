@@ -1,4 +1,3 @@
-- ### [[Focus Management System MOC]]
 - ### Horizons of Focus
     - ### Life Pupose - [[living from the place of surrender]] 
         - purpose - enjoy every moment of the time on earth
@@ -12,8 +11,8 @@
         - international blogger
         - master coach
         - spiritual practitioners
-    - ### Process and System
-        - Focus Management System
+    - ### Process and System - glued
+        - [[Focus Management System MOC]]
             - Horizons of Focus
             - Projects / Tasks management
                 - Manage active projects and tasks
@@ -26,7 +25,7 @@
                 - morning journal and planning
                 - evening review 
                 - weekly yoga and strolling - energy management
-            - general level
+            - general tasks
                 - capturing
                 - consuming
                 - processing
@@ -39,8 +38,5 @@
             - Maintaince the overall system to avoid entropy
             - Upgrading the system incremental or exponential if possible
     - ### [[Projects MOC]] - tasks and actions
+- ### [[Focus Management System MOC]]
 - ### [[Life's Guiding Principles MOC]]
-    - [[the middle way]]
-    - [[progressive approach]]
-    - [[helpful manner]]
-    - [[impersonal responsibilities]]

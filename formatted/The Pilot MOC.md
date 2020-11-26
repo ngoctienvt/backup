@@ -1,4 +1,3 @@
-- ### [Focus Management System MOC](<Focus Management System MOC.md>)
 - ### Horizons of Focus
     - ### Life Pupose - [living from the place of surrender](<living from the place of surrender.md>) 
         - purpose - enjoy every moment of the time on earth
@@ -12,8 +11,8 @@
         - international blogger
         - master coach
         - spiritual practitioners
-    - ### Process and System
-        - Focus Management System
+    - ### Process and System - glued
+        - [Focus Management System MOC](<Focus Management System MOC.md>)
             - Horizons of Focus
             - Projects / Tasks management
                 - Manage active projects and tasks
@@ -26,7 +25,7 @@
                 - morning journal and planning
                 - evening review 
                 - weekly yoga and strolling - energy management
-            - general level
+            - general tasks
                 - capturing
                 - consuming
                 - processing
@@ -39,11 +38,8 @@
             - Maintaince the overall system to avoid entropy
             - Upgrading the system incremental or exponential if possible
     - ### [Projects MOC](<Projects MOC.md>) - tasks and actions
+- ### [Focus Management System MOC](<Focus Management System MOC.md>)
 - ### [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
-    - [the middle way](<the middle way.md>)
-    - [progressive approach](<progressive approach.md>)
-    - [helpful manner](<helpful manner.md>)
-    - [impersonal responsibilities](<impersonal responsibilities.md>)
 
 # Backlinks
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
@@ -55,6 +51,6 @@
 ## [November 24th, 2020](<November 24th, 2020.md>)
 - There are few things that determine how deep I live this life are [E: How deep I live my life?](<E: How deep I live my life?.md>) [The Pilot MOC](<The Pilot MOC.md>)
 
-## [Productivity MOC](<Productivity MOC.md>)
+## [Productivity System MOC](<Productivity System MOC.md>)
 - [The Pilot MOC](<The Pilot MOC.md>)
 
