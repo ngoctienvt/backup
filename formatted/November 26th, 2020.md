@@ -6,3 +6,14 @@
         - And the guiding principle to make sure that I'm on the right track
     - The plane is all about how to execute and complete the order effectively
     - The engineer section is about ensuring I can achieve my life direction in an efficient way, and also about checking and upgrade the system. It will not hold the guiding principle about the whole system. 
+- [admin tasks](<admin tasks.md>) are the big topic to explore about [reducing friction](<reducing friction.md>) and create fluid for the main work.
+    - Some examples of admin tasks
+        - set-up
+        - preparing materials
+        - preparing next actions
+        - planning
+        - process/ worklfow
+        - end goal - measure of success
+        - list of small tasks/steps
+        - clarity of thinking
+    - 

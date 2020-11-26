@@ -10,6 +10,9 @@
 
 - [reducing friction](<reducing friction.md>)
 
+## [November 26th, 2020](<November 26th, 2020.md>)
+- [admin tasks](<admin tasks.md>) are the big topic to explore about [reducing friction](<reducing friction.md>)
+
 ## [September 15th, 2020](<September 15th, 2020.md>)
 - [reducing friction](<reducing friction.md>)
 

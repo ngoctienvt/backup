@@ -38836,6 +38836,16 @@
     "title": "Working Zone MOC"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606392437460,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606392437460,
+        "string": "",
+        "uid": "n8ucUdODo"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604893000931,
     "edit-email": "ngoctienvt@gmail.com",
@@ -48733,6 +48743,14 @@
             "edit-time": 1606311884689,
             "string": "[[snowball effect]]",
             "uid": "stDby_yDy"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606391814090,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606391816338,
+            "string": "clarity",
+            "uid": "C8HYo_mS8"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -48803,8 +48821,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606311898381,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606380744595,
-            "string": "overcoming the gravity of the mind",
+            "edit-time": 1606391807207,
+            "string": "start the work - overcoming the gravity of the mind",
             "uid": "IU75JaEnh"
           },
           {
@@ -48822,6 +48840,14 @@
                             "edit-time": 1606380891209,
                             "string": "journal thoughts/ ideas/ problems...",
                             "uid": "wBSIBKTr2"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606391833186,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606391835449,
+                            "string": "meditation",
+                            "uid": "FyGPme-sL"
                           }
                         ],
                         "create-email": "ngoctienvt@gmail.com",
@@ -48921,9 +48947,9 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606311890598,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606312520373,
+        "edit-time": 1606392257304,
         "heading": 3,
-        "string": "3 main stages",
+        "string": "How to execute productively",
         "uid": "id7SyMtT5"
       }
     ],
@@ -51607,6 +51633,98 @@
         "edit-time": 1606361037556,
         "string": "I'm not really sure how to hanld the Productivity System yet",
         "uid": "TzwGLz0my"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391681450,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391684035,
+                "string": "set-up",
+                "uid": "paDg5QUE0"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391684032,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391696995,
+                "string": "preparing materials",
+                "uid": "aMMH-cRTN"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391696992,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391700900,
+                "string": "preparing next actions",
+                "uid": "CL-a6A6p0"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391700897,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391720581,
+                "string": "planning",
+                "uid": "mHENVZyI4"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391720577,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391745107,
+                "string": "process/ worklfow",
+                "uid": "PUICA_-o1"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391746289,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391756389,
+                "string": "end goal - measure of success",
+                "uid": "Orqzh1s8w"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391756386,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391769777,
+                "string": "list of small tasks/steps",
+                "uid": "23KxBCieJ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606391769905,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606391777643,
+                "string": "clarity of thinking",
+                "uid": "Nan2ELxOp"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606391664737,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606391681453,
+            "string": "Some examples of admin tasks",
+            "uid": "6g7WL3mHD"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606391777641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606391777641,
+            "string": "",
+            "uid": "En3tM7klO"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606391580472,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606391656010,
+        "string": "[[admin tasks]] are the big topic to explore about [[reducing friction]] and create fluid for the main work.",
+        "uid": "7LQXlsGbJ"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

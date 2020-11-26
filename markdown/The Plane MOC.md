@@ -2,8 +2,9 @@
 - ### Underlying principles
     - [[Newton's first law of motion]]
     - [[snowball effect]]
-- ### 3 main stages
-    - overcoming the gravity of the mind
+    - clarity
+- ### How to execute productively
+    - start the work - overcoming the gravity of the mind
         - clarity on end goals and how to do for the work?
         - [[time-blocking]]
             - Weekly Planning and Daily Planning
@@ -15,6 +16,7 @@
             - handle blockages/ distractions
                 - overcome stuck
                     - journal thoughts/ ideas/ problems...
+                    - meditation
                 - [[distraction management]] 
                     - internal distractions
                         - accumulated stress
