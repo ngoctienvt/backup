@@ -14,6 +14,9 @@
 ## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>)
 
+## [Morning Rituals MOC](<Morning Rituals MOC.md>)
+- practices [willpower](<willpower.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I felt kind of tired when I still dream so much and can't wake up. I'm not asserting my will power to get up and be myself, but let myself drowning on the release of samskaras. I will try to wake up and support the process of releasing inner samskaras. [willpower](<willpower.md>)
 
@@ -24,7 +27,7 @@
 What if there is no good reason? What if there is nothing to count on except me? Am I give up or am I taking all responsibilities for my own life? Am I do the best at I can or am I count on external things? [independent](<independent.md>) [willpower](<willpower.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- I fall asleep after this [morning rituals](<morning rituals.md>), I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [energy management](<energy management.md>) and nurture my consciousness [willpower](<willpower.md>)
+- I fall asleep after this [Morning Rituals MOC](<Morning Rituals MOC.md>), I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [energy management](<energy management.md>) and nurture my consciousness [willpower](<willpower.md>)
 
 ## [October 9th, 2020](<October 9th, 2020.md>)
 - The things I feel fear are learning rules and maintain [willpower](<willpower.md>),
@@ -47,10 +50,7 @@ What if there is no good reason? What if there is nothing to count on except me?
 - When I read [Surat Shabd Yoga](<Surat Shabd Yoga.md>), I realized that it could be very helpful to practice directly to keep the energy be high instead of letting it run to the bottom and direct it back to the top. It would require me to practice [willpower](<willpower.md>)
 
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
-- Reduce the number of decision so let [flow state](<flow state.md>) got trigger and reduce the need for using [willpower](<willpower.md>)
-
-## [morning rituals](<morning rituals.md>)
-- practices [willpower](<willpower.md>)
+- Reduce the number of decision so let [Flow State MOC](<Flow State MOC.md>) got trigger and reduce the need for using [willpower](<willpower.md>)
 
 ## [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
 - One is [willpower](<willpower.md>).

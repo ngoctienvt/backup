@@ -36,7 +36,7 @@
 - I tend to stop working when my spine feel tired, I want to rest and will comeback to work again later after around 30'. [energy management](<energy management.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- I fall asleep after this [morning rituals](<morning rituals.md>), I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [energy management](<energy management.md>)
+- I fall asleep after this [Morning Rituals MOC](<Morning Rituals MOC.md>), I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [energy management](<energy management.md>)
 
 ## [October 9th, 2020](<October 9th, 2020.md>)
 It could be [physical energy](<physical energy.md>) but I feel tired even when I fall asleep, so something is more than that and would be about the way I recharge my energy [recharge](<recharge.md>) [energy management](<energy management.md>).

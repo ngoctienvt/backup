@@ -91,7 +91,7 @@
                 - 5-minute rule
                 - environment design
         - stay the course and not get distracted
-            - achieving [flow state](<flow state.md>) - stay on the course
+            - achieving [Flow State MOC](<Flow State MOC.md>) - stay on the course
                 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkvS1vSpGIU.png?alt=media&token=a2b6a751-713c-4d27-9de3-d5a7fd15948b)
                 - flow are where our current abilities meet the challenges
                 - 1. Manage external distractions.

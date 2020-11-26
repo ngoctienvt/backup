@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Morning Rituals MOC](<Morning Rituals MOC.md>)
+- Establishing the seat of awareness and containing the inner energy - meditation [establishing the seat of awareness](<establishing the seat of awareness.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - I saw that I want to learn the way of establish myself into seat of awareness like [Thích Nhất Hạnh](<Thích Nhất Hạnh.md>), [Minh Niệm](<Minh Niệm.md>), [Michael Singer](<Michael Singer.md>) and measure its success by express it to external world. [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
@@ -18,9 +21,6 @@ It's like creating a gap between my perception based on samskaras and the truth,
 
 ## [external expressions](<external expressions.md>)
 - [establishing the seat of awareness](<establishing the seat of awareness.md>)
-
-## [morning rituals](<morning rituals.md>)
-- Establishing the seat of awareness and containing the inner energy - meditation [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
 ## [natural progression](<natural progression.md>)
 - [establishing the seat of awareness](<establishing the seat of awareness.md>)

@@ -23,7 +23,7 @@
                 - so that I can come to the workplace, and my workplace here is my life 24/7.
             - action and process-oriented instead of topic-oriented
     - Plane - execution
-        - [flow state](<flow state.md>)
+        - [Flow State MOC](<Flow State MOC.md>)
             - It needs to be a flow that let me trust the process and as long as I keep doing the process, I will automatically generate good life or good output as a by-product.
     - Engineering - efficient
         - Remain unattachment centering

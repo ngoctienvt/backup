@@ -54,7 +54,7 @@ let things be and raise it up naturally without any attachments. [living from th
 Ideally, I want to shift my tendency from protecting myself to relax and enjoy the learning experience, then I can be clear and neutral enough to [getting in touch with reality](<getting in touch with reality.md>) and generate [higher choices](<higher choices.md>), then learn to act according to that choices. [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
-- So now I actually need to build my intention here. The reason I want to have a [morning rituals](<morning rituals.md>) is to start moving my desire which is [living from the place of surrender](<living from the place of surrender.md>).
+- So now I actually need to build my intention here. The reason I want to have a [Morning Rituals MOC](<Morning Rituals MOC.md>) is to start moving my desire which is [living from the place of surrender](<living from the place of surrender.md>).
 
 - In this afternoon meditation, I could feel that my desire for [living from the place of surrender](<living from the place of surrender.md>)
 

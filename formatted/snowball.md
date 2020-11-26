@@ -10,7 +10,7 @@
 - Today I felt that I'm beginning to move more forward slowly, but it starts to roll and will become a [snowball](<snowball.md>)
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
-- [morning rituals](<morning rituals.md>) I felt that I want to have an activity that is a dynamic of force which start moving and [snowball](<snowball.md>)
+- [Morning Rituals MOC](<Morning Rituals MOC.md>) I felt that I want to have an activity that is a dynamic of force which start moving and [snowball](<snowball.md>)
 
 - It's a starting point of the [snowball](<snowball.md>)
 

@@ -15,5 +15,5 @@
             - fuel-efficient
             - maintaining the system as a whole
 - The pillars for a good workflow
-    - Reduce the number of decision so let [[flow state]] got trigger and reduce the need for using [[willpower]] [[using willpower effectively]]
+    - Reduce the number of decision so let [[Flow State MOC]] got trigger and reduce the need for using [[willpower]] [[using willpower effectively]]
     - 

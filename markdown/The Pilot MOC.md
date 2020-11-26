@@ -21,23 +21,20 @@
                 - Ensuring that I am living on the right track to my [[Life Polestar]]
         - [[Daily Workflow MOC]] - daily activities
             - repeat tasks
-                - daily
-                    - admin tasks
-                    - [[morning rituals]] 7h - 9h
-                        - meditation
-                        - breakfast
-                        - journal and planning
-                    - processing new knowledge
-                    - [[evening rituals]] 21h-23h
-                        - meditation
-                        - review 
-                        - consuming new knowledge
-                - weekly
-                    - yoga and strolling - energy management
+                - yoga and strolling - energy management
+                - [[Morning Rituals MOC]] 7h - 9h
+                    - Meditation
+                    - Morning journal & planning
+                    - Prepare Admin Tasks for project work
+                    - Processing Knowledge - week plan
+                - [[evening rituals]] 21h-23h
+                    - Meditation
+                    - Daily Review
+                    - Consuming Knowledge - week plan
             - habit tasks
-                - capturing 
-                - down time
-            - projects and project tasks level
+                - capturing
+                - productive down time
+            - projects and project tasks [[Projects MOC]] - Project Work
                 - Planning
                 - Resolving/ Executing
         - System management - weekly/ monthly/ yearly review

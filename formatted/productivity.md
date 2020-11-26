@@ -3,6 +3,9 @@
 ## [Area of Focus](<Area of Focus.md>)
 - [productivity](<productivity.md>)
 
+## [Morning Rituals MOC](<Morning Rituals MOC.md>)
+- I want to live an [impactful life](<impactful life.md>) that have high [productivity](<productivity.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - [productivity](<productivity.md>)
 
@@ -26,7 +29,4 @@
 - Support long-term and accumulated interest development [sustainable development](<sustainable development.md>) [productivity](<productivity.md>)
 
 - Low floor, high ceiling. Easy to start, but paid off well. [productivity](<productivity.md>)
-
-## [morning rituals](<morning rituals.md>)
-- I want to live an [impactful life](<impactful life.md>) that have high [productivity](<productivity.md>)
 

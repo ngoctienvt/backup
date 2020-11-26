@@ -24,7 +24,7 @@
 - [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- I fall asleep after this [morning rituals](<morning rituals.md>), I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [energy management](<energy management.md>) and nurture my consciousness [willpower](<willpower.md>) to remain the ability to conscious more. This would be more about [spiritual energy](<spiritual energy.md>) and a part of [physical energy](<physical energy.md>). [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
+- I fall asleep after this [Morning Rituals MOC](<Morning Rituals MOC.md>), I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [energy management](<energy management.md>) and nurture my consciousness [willpower](<willpower.md>) to remain the ability to conscious more. This would be more about [spiritual energy](<spiritual energy.md>) and a part of [physical energy](<physical energy.md>). [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
 
 - This afternoon I start to practice [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
 

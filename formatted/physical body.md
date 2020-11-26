@@ -3,6 +3,9 @@
 - strength
 
 # Backlinks
+## [Morning Rituals MOC](<Morning Rituals MOC.md>)
+- feel cold, tired and pain at morning [physical body](<physical body.md>)
+
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - My [physical body](<physical body.md>)
 
@@ -50,7 +53,4 @@ I will also wear long-hand clothes at night so that I can protect my arm. [physi
 
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - My [physical body](<physical body.md>)
-
-## [morning rituals](<morning rituals.md>)
-- feel cold, tired and pain at morning [physical body](<physical body.md>)
 

@@ -1,24 +1,25 @@
 - ### [Daily Workflow MOC](<Daily Workflow MOC.md>)
 - ### Underlying principles
     - [Newton's first law of motion](<Newton's first law of motion.md>)
+    - [snowball effect](<snowball effect.md>)
 - ### 3 main stages
-    - take off safely
-        - Starting
-            - [overcoming inertia](<overcoming inertia.md>)
-                - Only work for 5 minutes
-                - Preparing [admin tasks](<admin tasks.md>) before main work
-            - [time-blocking](<time-blocking.md>)
-                - Weekly Planning and Daily Planning
+    - overcoming the gravity of the mind
+        - clarity on end goals and how to do for the work?
+        - [time-blocking](<time-blocking.md>)
+            - Weekly Planning and Daily Planning
+        - [overcoming inertia](<overcoming inertia.md>) 
+            - Only work for 5 minutes
+            - Preparing [admin tasks](<admin tasks.md>) for the main work
     - stay the course and handle blockages/ distractions
-        - maintain and snowball the course
-            - [flow state](<flow state.md>)
-            - maintain clarity
-            - [snowball effect](<snowball effect.md>)
-        - handle blockages/ distractions
-            - overcome stuck
-            - [distraction management](<distraction management.md>) 
-                - handle accumulated stress
-            - [course correcting](<course correcting.md>)
+        - maintain the focus with [Flow State MOC](<Flow State MOC.md>)
+            - handle blockages/ distractions
+                - overcome stuck
+                    - journal thoughts/ ideas/ problems...
+                - [distraction management](<distraction management.md>) 
+                    - internal distractions
+                        - accumulated stress
+                    - external distractions
+        - [course correcting](<course correcting.md>) 
     - land safely
         - review, relax, release, relearn
 

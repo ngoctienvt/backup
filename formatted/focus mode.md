@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Flow State MOC](<Flow State MOC.md>)
+- balance between [focus mode](<focus mode.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - There are a time for bottom-up [diffuse mode](<diffuse mode.md>) and time for top-down [focus mode](<focus mode.md>)
 
@@ -12,9 +15,6 @@
 - ### [being mode](<being mode.md>) is far more effective than [focus mode](<focus mode.md>)
 
 - ### [focus mode](<focus mode.md>)
-
-## [flow state](<flow state.md>)
-- balance between [focus mode](<focus mode.md>)
 
 ## [progressive approach](<progressive approach.md>)
 - [focus mode](<focus mode.md>)

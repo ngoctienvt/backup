@@ -7,14 +7,14 @@ This need to let each idea in an atomic level so that it could contain smaller t
     - Sequence - what order to learn them
     - Stakes - make learning high priority at gut level
 - I felt pretty cold on the morning and would like to know how I could my body in warm. One is conscious awareness, second is external supports from clothes,... [[physical body]]
-- [[morning rituals]] I felt that I want to have an activity that is a dynamic of force which start moving and [[snowball]] me. I will start this with 6 A.M tomorrow. My only concern is I also worry about the sleep. If I slept late, it would be hard for me to wake up at 6 A.M because the inner stress pull me down too strong and it requires a strong will-power to break down this habit-formed will.
+- [[Morning Rituals MOC]] I felt that I want to have an activity that is a dynamic of force which start moving and [[snowball]] me. I will start this with 6 A.M tomorrow. My only concern is I also worry about the sleep. If I slept late, it would be hard for me to wake up at 6 A.M because the inner stress pull me down too strong and it requires a strong will-power to break down this habit-formed will.
     - There are 2 ways that I need to handle with this
     - I need to ensure that I stop all activities and able to sleep at around 11 PM. [[bedtime rituals]]
         - For this, I want to make sure that I complete everything and stop at 10:40, and could read about around 20 minute, then just fall asleep.
         - I need to overcome my addiction for gaming, youtube, and facebook. So I want to meditation and 10 PM, and reading book at 10:20 PM, and writing at 10:40.
         - Roughly these times so I can have a good bedtime rituals to end my day.
     - I need to practice to build up will-power to break free old habit-formed will and the first few days is not easy but I could do if my intention is strong enough.
-        - So now I actually need to build my intention here. The reason I want to have a [[morning rituals]] is to start moving my desire which is [[living from the place of surrender]].
+        - So now I actually need to build my intention here. The reason I want to have a [[Morning Rituals MOC]] is to start moving my desire which is [[living from the place of surrender]].
         - It's a starting point of the [[snowball]] for me to roll things out. As long as I kept getting this starting point, I can move further along the line.
     - It feel much better now, though in the beginning it's totally ok to somehow miss the details, but the 2 most important points are 11PM and 6AM will need to be ensure.
 - Today focus:

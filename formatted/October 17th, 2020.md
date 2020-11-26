@@ -34,7 +34,7 @@ to the exhaustion of [physical energy](<physical energy.md>).
 - [being mode](<being mode.md>) is the mode that emphasizes on centering on
 the seat of awareness and [relaxing](<relaxing.md>) to let go any resistance or
 attachments.
-- [morning rituals](<morning rituals.md>) It would be easier to meditation first,
+- [Morning Rituals MOC](<Morning Rituals MOC.md>) It would be easier to meditation first,
 then do personal activities later.
 - My thoughts about [natural progression](<natural progression.md>) now focus
 on how to integrate everything that is not yet handled, so I could fully

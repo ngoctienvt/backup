@@ -1,7 +1,7 @@
 - Last night on dream, I noticed that I have the [need for being right](<need for being right.md>) and [need for win](<need for win.md>). I felt fear and worry for being critic, being wrong and it controlled me. [personal needs](<personal needs.md>) I focused too much on winning and I don't like to be punishment. I'm closing myself for every possible and experiences of life. I felt much better when accepting these parts of myself now. 
 
 I also noticed I still have too much [attachment](<attachment.md>) for materials things. This makes me judge and felt uncomfortable with other people. Instead of [unattachment centering](<unattachment centering.md>) and resolving things on a [helpful manner](<helpful manner.md>), I let myself react with them.
-- This [morning rituals](<morning rituals.md>) I realized that I still wait to enjoy the music before I really wake up, and this moment is the moment that I'm easy to fall back to sleep again. 
+- This [Morning Rituals MOC](<Morning Rituals MOC.md>) I realized that I still wait to enjoy the music before I really wake up, and this moment is the moment that I'm easy to fall back to sleep again. 
 - Today my focus will be
     - [x] work on what I want to share on the [journaling training](<journaling training.md>)
     - [x] continue working with progressive approach

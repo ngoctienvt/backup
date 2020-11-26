@@ -15,5 +15,7 @@
 - capitalize [scheduling](<scheduling.md>) [Projects MOC](<Projects MOC.md>)
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
+- projects and project tasks [Projects MOC](<Projects MOC.md>)
+
 - ### [Projects MOC](<Projects MOC.md>)
 

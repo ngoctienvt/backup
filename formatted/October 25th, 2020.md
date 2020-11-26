@@ -16,7 +16,7 @@
 - There will maybe different way for me to display information [information formatting](<information formatting.md>) [personal knowledge development](<personal knowledge development.md>)
     - Normal writing is for free thoughts, and unprocessed data or information.
     - `Summary`
-- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [integration](<integration.md>) on the afternoon. [morning rituals](<morning rituals.md>)
+- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [integration](<integration.md>) on the afternoon. [Morning Rituals MOC](<Morning Rituals MOC.md>)
 - I noticed that I could always temporary stop or find a work around while I got stuck, I always have a choice, and the highest choice most of the time is [being mode](<being mode.md>) - the mode that enjoy doing nothing and only experiencing.
 - [compressed process](<compressed process.md>) [information-linking](<information-linking.md>)
     - I learned that I can always come back to add smaller context when possible to send [information block](<information block.md>) to their proper connection, even though I tag them too broad at first. Because I can check and tag them on [linked references](<linked references.md>).

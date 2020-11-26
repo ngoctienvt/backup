@@ -19,24 +19,24 @@
 
 # Backlinks
 ## [October 17th, 2020](<October 17th, 2020.md>)
-- [morning rituals](<morning rituals.md>)
+- [Morning Rituals MOC](<Morning Rituals MOC.md>)
 
 ## [October 25th, 2020](<October 25th, 2020.md>)
-- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [integration](<integration.md>) on the afternoon. [morning rituals](<morning rituals.md>)
+- I felt that my morning routines would need to take up too much willpower, but rather cleaning my clustering, doing mindless activities first. I will spend time for [integration](<integration.md>) on the afternoon. [Morning Rituals MOC](<Morning Rituals MOC.md>)
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
-- [morning rituals](<morning rituals.md>)
+- [Morning Rituals MOC](<Morning Rituals MOC.md>)
 
-- So now I actually need to build my intention here. The reason I want to have a [morning rituals](<morning rituals.md>)
+- So now I actually need to build my intention here. The reason I want to have a [Morning Rituals MOC](<Morning Rituals MOC.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- In this morning, I didn't hear the alarm so I woke up later, but I realized that I still think about what I need to do next. And my tendency is to drown back to the sea of thoughts and dreams. Instead of raising myself and disconnect with it to do my [morning rituals](<morning rituals.md>)
+- In this morning, I didn't hear the alarm so I woke up later, but I realized that I still think about what I need to do next. And my tendency is to drown back to the sea of thoughts and dreams. Instead of raising myself and disconnect with it to do my [Morning Rituals MOC](<Morning Rituals MOC.md>)
 
-- I fall asleep after this [morning rituals](<morning rituals.md>),
+- I fall asleep after this [Morning Rituals MOC](<Morning Rituals MOC.md>),
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
-- This [morning rituals](<morning rituals.md>)
+- This [Morning Rituals MOC](<Morning Rituals MOC.md>)
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
-- [morning rituals](<morning rituals.md>)
+- [Morning Rituals MOC](<Morning Rituals MOC.md>)
 

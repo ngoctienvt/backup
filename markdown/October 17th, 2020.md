@@ -34,7 +34,7 @@ to the exhaustion of [[physical energy]].
 - [[being mode]] is the mode that emphasizes on centering on
 the seat of awareness and [[relaxing]] to let go any resistance or
 attachments.
-- [[morning rituals]] It would be easier to meditation first,
+- [[Morning Rituals MOC]] It would be easier to meditation first,
 then do personal activities later.
 - My thoughts about [[natural progression]] now focus
 on how to integrate everything that is not yet handled, so I could fully

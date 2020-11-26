@@ -66,7 +66,7 @@
             - It's very important to build ourselves based on a [solid foundation](<solid foundation.md>) which usually based on truth, reality or the natural flow of inner energy, instead of our feelings and our thoughts. 
     - [multi-tasking myth](<multi-tasking myth.md>)
         - Do work at the same time create the feeling of productive, but not actually. [getting in touch with reality](<getting in touch with reality.md>)
-        - [flow state](<flow state.md>) is an optimal consciousness state that we can completely focused on one thing.
+        - [Flow State MOC](<Flow State MOC.md>) is an optimal consciousness state that we can completely focused on one thing.
             - put ourselves on [stretch zone](<stretch zone.md>) so that we can focused on it 
             - absence of distractions
                 - internal
