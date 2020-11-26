@@ -18,3 +18,24 @@
     - {{[[TODO]]}} Building daily workflow and weekly review
     - {{[[TODO]]}} Merging daily workflow with GTD and PKDS
     - {{[[TODO]]}} Organizing evergreen notes (tags, names, places...)
+- Projects
+    - ### [[Active]]
+        - building a PKDS training program
+            - Developing [[PKDS - Personal Knowledge Development System MOC]]
+                - {{[[TODO]]}} Developing [[Creating phase]]
+            - Learning [[instructional design]]
+        - building a productivity system
+            - {{[[TODO]]}} Developing [[Workflow MOC]]
+            - {{[[TODO]]}} Work on [[The Plane MOC]]
+            - {{[[TODO]]}} Work on [[The Engineer MOC]]
+        - consuming coaching knowledge
+            - {{[[TODO]]}} Learning The target approach
+            - {{[[TODO]]}} Reading The heart of laser focus coaching
+            - {{[[TODO]]}} Reading A shift in being
+            - {{[[TODO]]}} Reading Coach the person, not the problem
+    - ### Focus of the week
+        - "{{[[TODO]]}} Work on [[The Engineer MOC]]"
+        - "{{[[TODO]]}} Developing [[Creating phase]]"
+- ### [[Today Focus]]
+    - "{{[[TODO]]}} Work on [[The Plane MOC]]"
+    - "{{[[TODO]]}} Developing [[Workflow MOC]]"

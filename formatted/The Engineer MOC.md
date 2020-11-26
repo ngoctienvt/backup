@@ -11,6 +11,8 @@
 ## [Productivity MOC](<Productivity MOC.md>)
 - [The Engineer MOC](<The Engineer MOC.md>)
 
-## [Projects MOC](<Projects MOC.md>)
+## [TODO](<TODO.md>)
 - [ ] Work on [The Engineer MOC](<The Engineer MOC.md>)
+
+- "[ ] Work on [The Engineer MOC](<The Engineer MOC.md>)"
 

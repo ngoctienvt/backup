@@ -4355,6 +4355,193 @@
         "edit-time": 1606211750105,
         "string": "Task inbox",
         "uid": "jhQ_18_Fg"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606101841018,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606358438648,
+                        "string": "{{[[TODO]]}} Developing [[Creating phase]]",
+                        "uid": "npY4XXWZA"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605884898851,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "Developing [[PKDS - Personal Knowledge Development System MOC]]",
+                    "uid": "q8R0kdWP7"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964930246,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438649,
+                    "string": "Learning [[instructional design]]",
+                    "uid": "HO072Lupn"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605964818136,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606358438649,
+                "string": "building a PKDS training program",
+                "uid": "2n06DWpRt"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605884874393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "{{[[TODO]]}} Developing [[Workflow MOC]]",
+                    "uid": "D4zkGe_hu"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606312199702,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "{{[[TODO]]}} Work on [[The Plane MOC]]",
+                    "uid": "2yFvoQi8G"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606312453833,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "{{[[TODO]]}} Work on [[The Engineer MOC]]",
+                    "uid": "KZSI2e2fC"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605884882179,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606358438648,
+                "string": "building a productivity system",
+                "uid": "uGXzQoEMO"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964843564,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "{{[[TODO]]}} Learning The target approach",
+                    "uid": "lRrEs5feW"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964873636,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "{{[[TODO]]}} Reading The heart of laser focus coaching",
+                    "uid": "KVXOYtpTG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964893580,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "{{[[TODO]]}} Reading A shift in being",
+                    "uid": "HzFFdD1NT"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1605964903956,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606358438648,
+                    "string": "{{[[TODO]]}} Reading Coach the person, not the problem",
+                    "uid": "nso2WUi5Z"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1605964795902,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606358438648,
+                "string": "consuming coaching knowledge",
+                "uid": "1bTzz29b8"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101642139,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606358438649,
+            "heading": 3,
+            "string": "[[Active]]",
+            "uid": "2ItNDkYiE"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606358519971,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606358519971,
+                "string": "((KZSI2e2fC))",
+                "uid": "8tkVXLoqG"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606312365156,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606358438648,
+                "string": "((npY4XXWZA))",
+                "uid": "b2ZDEXKsQ"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606312276844,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606358438648,
+            "heading": 3,
+            "string": "Focus of the week",
+            "uid": "E69huto1Q"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606358425375,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606358431983,
+        "string": "Projects",
+        "uid": "TJqhZTrha"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606312330829,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606358438648,
+            "string": "((2yFvoQi8G))",
+            "uid": "yzucGBqOi"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606312429043,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606358438648,
+            "string": "((D4zkGe_hu))",
+            "uid": "UFQXUlRGh"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606358381626,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606358595408,
+        "heading": 3,
+        "string": "[[Today Focus]]",
+        "uid": "SBiXM7OEX"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -4497,164 +4684,6 @@
         "heading": 3,
         "string": "Inactive",
         "uid": "qz3KG6IgX"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606101841018,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606101881252,
-                    "string": "{{[[TODO]]}} Developing [[Creating phase]]",
-                    "uid": "npY4XXWZA"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884898851,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605884919973,
-                "string": "Developing [[PKDS - Personal Knowledge Development System MOC]]",
-                "uid": "q8R0kdWP7"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605964930246,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605964937009,
-                "string": "Learning [[instructional design]]",
-                "uid": "HO072Lupn"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605964818136,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605965698027,
-            "string": "building a PKDS training program",
-            "uid": "2n06DWpRt"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605884874393,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606312226268,
-                "string": "{{[[TODO]]}} Developing [[Workflow MOC]]",
-                "uid": "D4zkGe_hu"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606312199702,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606312480818,
-                "string": "{{[[TODO]]}} Work on [[The Plane MOC]]",
-                "uid": "2yFvoQi8G"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606312453833,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606312474253,
-                "string": "{{[[TODO]]}} Work on [[The Engineer MOC]]",
-                "uid": "KZSI2e2fC"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605884882179,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1605965704166,
-            "string": "building a productivity system",
-            "uid": "uGXzQoEMO"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605964843564,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605964873639,
-                "string": "{{[[TODO]]}} Learning The target approach",
-                "uid": "lRrEs5feW"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605964873636,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605964893583,
-                "string": "{{[[TODO]]}} Reading The heart of laser focus coaching",
-                "uid": "KVXOYtpTG"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605964893580,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605964903959,
-                "string": "{{[[TODO]]}} Reading A shift in being",
-                "uid": "HzFFdD1NT"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605964903956,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605964920603,
-                "string": "{{[[TODO]]}} Reading Coach the person, not the problem",
-                "uid": "nso2WUi5Z"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1605964795902,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606312251224,
-            "string": "consuming coaching knowledge",
-            "uid": "1bTzz29b8"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606101642139,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606211846403,
-        "heading": 3,
-        "string": "[[Active]]",
-        "uid": "2ItNDkYiE"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606312330829,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606312330829,
-            "string": "((2yFvoQi8G))",
-            "uid": "yzucGBqOi"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606312429043,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606312429043,
-            "string": "((D4zkGe_hu))",
-            "uid": "UFQXUlRGh"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606312365156,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606312365156,
-            "string": "((npY4XXWZA))",
-            "uid": "b2ZDEXKsQ"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606312276844,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606312281311,
-        "heading": 3,
-        "string": "Focus of the week",
-        "uid": "E69huto1Q"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -51416,10 +51445,58 @@
     "title": "@Milena Nguyen"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606358289304,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606360039595,
+        "string": "{{[[query]]: {and: [[TODO]] [[Today Focus]]}}}",
+        "uid": "pEGRdmDKw"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606358093137,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606358124548,
+        "string": "I have a fear and feeling uncomfortable with toilet. It haunts me and makes me feel hard to relax with.",
+        "uid": "cRrlH-KhI"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606358124544,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606360086353,
+        "string": "I'm thinking about how to manage the ideas that I want to write (where to store/ keep track/ link it with my MOC?) [[Creating phase]]",
+        "uid": "H6zGZoLZw"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606358566497,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606358566497,
+        "string": "",
+        "uid": "TzwGLz0my"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606351419401,
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606351419401,
     "title": "November 26th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606358587228,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606358587230,
+    "title": "query"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606358587228,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606358587230,
+    "title": "Today Focus"
   }
 ]
