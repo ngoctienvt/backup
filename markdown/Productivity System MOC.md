@@ -1,24 +1,12 @@
 - Resources
 - 
 - Outline
-- [[The Pilot MOC]] - Ensure doing the right things
-    - [[horizons of focus]]
-    - [[focus on what matters]]
-- [[The Plane MOC]] - Doing
-    - [[Workflow MOC]]
-- [[The Engineer MOC]] - Ensure doing the things right
-    - [[Working Zone MOC]]
-    - [[Support System MOC]]
-        - ### Tools
-            - [[workplace]]
-                - inbox
-                - main work
-                - expanding questions 
-                - storing and cleaning
-            - Roam Research for personal knowledge development
-            - Notion for writing and team collaboration
-            - Automation
-        - [[PKDS - Personal Knowledge Development System MOC]]
-        - [[workplace]] - environment
-        - [[Tag usage]]
-    - [[energy management]]
+    - ### Digital Fluency
+    - ### Work Management
+        - [[The Pilot MOC]] - Ensure doing the right things
+            - [[Loops Managing]]
+        - [[The Plane MOC]] - Doing
+            - [[Workflow MOC]]
+        - [[The Engineer MOC]] - Ensure doing the things right
+    - ### [[PKDS - Personal Knowledge Development System MOC]]
+- 

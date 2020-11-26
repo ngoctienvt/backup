@@ -16,4 +16,20 @@
         - end goal - measure of success
         - list of small tasks/steps
         - clarity of thinking
-    - 
+- For developing workflow, I think that's it starts to clear about the process [[Workflow MOC]] 
+    - Weekly review and planning what I need to focus on the next week
+        - I need to clear about when I finish what is close the loop for this week.
+    - Each morning I will take a look and plan what I will resolve this day
+        - The importance is I have a clear picture of what I need to resolve and how I will resolve them. [[The Plane MOC]] I need to know when I finish it and close the loop of that day.
+    - The flow will be
+    - Most important steps for the above flow are:
+        - weekly review and planning
+            - Cleaning the cluster and shaping what's emerge
+                - Writing tasks freely on inbox task
+                - Preparing what I need to consume and process for the next week
+                - Split into different projects and master projects
+            - Planning for next week
+                - Take projects or part of the projects that I want to complete this week to  [[Focus of the week]] section.
+        - daily planning
+            - When doing daily planning, I will clear the tasks that I completed and put more tasks from [[Focus of the week]] to [[Today Focus]].
+- Now I'm still not clear about clarity with the tasks and what I need to do, this will be main focus for tomorrow. It's about [[inner clarity]]

@@ -23,9 +23,6 @@
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [focus on what matters](<focus on what matters.md>)
 
-## [Productivity System MOC](<Productivity System MOC.md>)
-- [focus on what matters](<focus on what matters.md>)
-
 ## [Workflow MOC](<Workflow MOC.md>)
 - [focus on what matters](<focus on what matters.md>)
 

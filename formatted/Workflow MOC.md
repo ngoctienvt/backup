@@ -82,6 +82,9 @@
 ## [November 22nd, 2020](<November 22nd, 2020.md>)
 - My [Workflow MOC](<Workflow MOC.md>)
 
+## [November 26th, 2020](<November 26th, 2020.md>)
+- For developing workflow, I think that's it starts to clear about the process [Workflow MOC](<Workflow MOC.md>)
+
 ## [Productivity System MOC](<Productivity System MOC.md>)
 - [Workflow MOC](<Workflow MOC.md>)
 

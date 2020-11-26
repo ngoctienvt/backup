@@ -29,6 +29,9 @@
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
 - ### [The Plane MOC](<The Plane MOC.md>)
 
+## [November 26th, 2020](<November 26th, 2020.md>)
+- The importance is I have a clear picture of what I need to resolve and how I will resolve them. [The Plane MOC](<The Plane MOC.md>)
+
 ## [Productivity System MOC](<Productivity System MOC.md>)
 - [The Plane MOC](<The Plane MOC.md>)
 

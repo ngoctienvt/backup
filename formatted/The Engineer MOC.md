@@ -1,4 +1,20 @@
-- work-batching [batching methodology](<batching methodology.md>)
+- Work-strategies
+    - [batching methodology](<batching methodology.md>)
+- Environment
+    - [Working Zone MOC](<Working Zone MOC.md>)
+    - [workplace](<workplace.md>) - environment
+- External [Support System MOC](<Support System MOC.md>)
+    - ### Tools
+        - [workplace](<workplace.md>)
+            - inbox
+            - main work
+            - expanding questions 
+            - storing and cleaning
+        - Roam Research for personal knowledge development
+        - Notion for writing and team collaboration
+        - Automation
+    - [Tag usage](<Tag usage.md>)
+- [energy management](<energy management.md>)
 - 
 
 # Backlinks
