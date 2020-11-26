@@ -50,6 +50,7 @@
         - "[ ] Developing Goal, Task and Project management system in Roam Research"
         - "[ ] Merging daily workflow with GTD and PKDS"
         - "[ ] Building daily workflow and weekly review"
+    - [ ] Consuming [Books - Clarity - Clear mind, Better performance, Bigger results](<Books - Clarity - Clear mind, Better performance, Bigger results.md>)
 
 # Backlinks
 ## [November 26th, 2020](<November 26th, 2020.md>)
@@ -101,4 +102,6 @@
 - "{{[TODO](<TODO.md>)}
 
 - "{{[TODO](<TODO.md>)}
+
+- {{[TODO](<TODO.md>)}
 

@@ -50,3 +50,4 @@
         - "{{[[TODO]]}} Developing Goal, Task and Project management system in Roam Research"
         - "{{[[TODO]]}} Merging daily workflow with GTD and PKDS"
         - "{{[[TODO]]}} Building daily workflow and weekly review"
+    - {{[[TODO]]}} Consuming [[Books - Clarity - Clear mind, Better performance, Bigger results]]

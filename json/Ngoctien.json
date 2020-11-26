@@ -4639,6 +4639,14 @@
             "edit-time": 1606358438648,
             "string": "((D4zkGe_hu))",
             "uid": "UFQXUlRGh"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606397999189,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606398042760,
+            "string": "{{[[TODO]]}} Consuming [[Books - Clarity - Clear mind, Better performance, Bigger results]]",
+            "uid": "YCKTC8oxg"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -52065,5 +52073,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606396090839,
     "title": "Loops Managing"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606398042761,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606398042762,
+    "title": "Books - Clarity - Clear mind, Better performance, Bigger results"
   }
 ]
