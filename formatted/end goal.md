@@ -25,6 +25,9 @@
 
 - the difference between mean goal and [end goal](<end goal.md>)
 
+## [November 27th, 2020](<November 27th, 2020.md>)
+- Most of the times it will not easy to have a direct way to [end goal](<end goal.md>).
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - Choose the [end goal](<end goal.md>)
 

@@ -51723,14 +51723,6 @@
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606358289304,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606377678933,
-        "string": "#min-all {{[[query]]: {and: [[TODO]] [[Today Focus]]}}}",
-        "uid": "pEGRdmDKw"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606358093137,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1606358124548,
@@ -52082,10 +52074,61 @@
     "title": "Books - Clarity - Clear mind, Better performance, Bigger results"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606358289304,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606377678933,
+        "string": "#min-all {{[[query]]: {and: [[TODO]] [[Today Focus]]}}}",
+        "uid": "pEGRdmDKw"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606445343738,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606445451430,
+            "string": "One of my most challenge now is release all the needs to touch and sexual desires first. I don't want to let myself control or follow other person because of these needs. I could go higher than that, even though it will take a quite period of times. But as long as I'm try my best to do the right things, it will happen sooner.",
+            "uid": "vKAvQzk__"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606444362976,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606444836175,
+        "string": "[[true relationship]] is what I will focus on and it is not any person-oriented or type of relationship oriented. It's not about [[true love]] that we tend to see as the romantic relationship between two person. \n\n[[true relationship]] is about the relationship between people and people, without any sexual desires, personal needs, and expectations. It's the relationship that we are share our life, our challenges, our wisdom, and support each other on the time on earth. We have time to have fun with each other, merge between two hearts.",
+        "uid": "wJk_lAy_j"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606445258455,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606445332328,
+        "string": "Most of the times it will not easy to have a direct way to [[end goal]]. Usually there will be a early, mid, and late phase that requires different objectives so that it helps to close the gap between now and end goal.",
+        "uid": "uVlRpGsRV"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606445332324,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606445332324,
+        "string": "",
+        "uid": "G0NskLdFG"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606437958709,
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606437958709,
     "title": "November 27th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606444371560,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606444371564,
+    "title": "true relationship"
   }
 ]

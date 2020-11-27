@@ -14,6 +14,9 @@
 - 
 
 # Backlinks
+## [November 27th, 2020](<November 27th, 2020.md>)
+- [true relationship](<true relationship.md>) is what I will focus on and it is not any person-oriented or type of relationship oriented. It's not about [true love](<true love.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 It's not fully impersonal and for other, it's still have a personal part. [true love](<true love.md>)
 

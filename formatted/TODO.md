@@ -53,7 +53,7 @@
     - [ ] Consuming [Books - Clarity - Clear mind, Better performance, Bigger results](<Books - Clarity - Clear mind, Better performance, Bigger results.md>)
 
 # Backlinks
-## [November 26th, 2020](<November 26th, 2020.md>)
+## [November 27th, 2020](<November 27th, 2020.md>)
 - [min-all](<min-all.md>) {{[query](<query.md>): {and: [TODO](<TODO.md>)
 
 ## [TODO](<TODO.md>)

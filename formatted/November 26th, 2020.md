@@ -1,4 +1,3 @@
-- [min-all](<min-all.md>) {{[query](<query.md>): {and: [TODO](<TODO.md>) [Today Focus](<Today Focus.md>)}}}
 - I have a fear and feeling uncomfortable with toilet. It haunts me and makes me feel hard to relax with.
 - I'm thinking about how to manage the ideas that I want to write (where to store/ keep track/ link it with my MOC?) [Creating phase](<Creating phase.md>)
 - I'm not really sure how to hanld the Productivity System yet
