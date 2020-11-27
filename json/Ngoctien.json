@@ -53565,6 +53565,14 @@
         "uid": "q6iMxKO4r"
       },
       {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606479563970,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606479614317,
+        "string": "external concrete -> internal abstract -> internal concrete [[Creating phase]]",
+        "uid": "aCqvbKAMl"
+      },
+      {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
