@@ -1,6 +1,6 @@
-- Resources
+- # Resources
 - 
-- Outline
+- # Outline
     - ### Digital Fluency
     - ### Work Management
         - [The Pilot MOC](<The Pilot MOC.md>) - Ensure doing the right things
@@ -9,7 +9,6 @@
             - [Workflow MOC](<Workflow MOC.md>)
         - [The Engineer MOC](<The Engineer MOC.md>) - Ensure doing the things right
     - ### [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- 
 
 # Backlinks
 ## [Home Maps](<Home Maps.md>)

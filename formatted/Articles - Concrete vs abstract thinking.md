@@ -1,6 +1,36 @@
 - Link: http://www.projectlearnet.org/tutorials/concrete_vs_abstract_thinking.html#:~:text=Abstract%20thinking%20is%20a%20level,or%20concepts%20being%20thought%20about.&text=Thus%2C%20for%20example%2C%20a%20concrete,think%20about%20dogs%20in%20general.
 - Tags: [level of thinking](<level of thinking.md>), [TBR](<TBR.md>)
-- 
+- ### **WHAT ARE CONCRETE AND ABSTRACT THINKING?**
+- Abstract thinking is a level of thinking about things that is removed from the facts of the “here and now”, and from specific examples of the things or concepts being thought about. 
+    - Abstract thinkers are able to reflect on events and ideas, and on attributes and relationships separate from the objects that have those attributes or share those relationships. 
+    - For example, 
+        - a concrete thinker can think about this particular dog; a more abstract thinker can think about dogs in general. 
+        - A concrete thinker can think about this __dog on this rug__; a more abstract thinker can think about __spatial relations__, like “on”. 
+        - A concrete thinker can see that this ball is big; a more abstract thinker can think about size in general. 
+        - A concrete thinker can count three cookies; a more abstract thinker can think about __numbers__. 
+        - A concrete thinker can recognize that John likes Betty; a more abstract thinker can reflect on __emotions__, like affection.
+    - Another example of concrete thinking in young children is 
+        - a two or three-year-old who thinks that as long as he stays out of his bedroom, it will not be bed time. 
+        - In this case, the abstract concept of time (bedtime) is understood in terms of the more concrete concept of place (bedroom). 
+        - The __abstract idea of bedtime__ comes to mean the __concrete idea of being in my bedroom__.
+    - Another example that applies to two or three-year-olds is the following.
+        -  One of the favorite Dr. Seuss books is Green Eggs and Ham, which ends with the narrator changing his mind from 
+            - rejecting green eggs and ham under any circumstances to trying them and actually liking them. 
+            - At a __concrete__ level of understanding, the story is about __a stubborn person changing his mind.__ 
+            - At a more __abstract__ level of understanding, it is about __people, in general, being capable of modifying their thoughts and desires__ even when they are convinced that they cannot or do not want to do so. 
+        - This more abstract level of understanding can be appreciated by two and three-year-old children only if the __higher level of meaning__ comes out of a discussion of the book with a more mature adult. 
+        - At older ages and higher levels of thinking, this same process of more mature thinkers
+            -  facilitating __higher levels of abstraction__ in less mature thinkers characterizes the process of teaching abstract thinking. 
+            - For example, this is how great philosophers, like Socrates and Plato, taught their pupils how to think abstractly.
+    - An example of concrete versus abstract thinking in adolescence is the following. 
+        - A __concrete thinking__ adolescent can recognize that a good strategy in football is to __make maximal use of the team’s most talented players. __
+        - An __abstract thinking__ adolescent can recognize that this strategy in football is the same as __using one's cognitive strengths in studying for an exam. __
+        - In general, abstract thinkers are able to perceive analogies and relationships that others may not see and thereby understand higher levels of abstraction.
+- The term __abstraction__ also applies to uses of language. Abstract language is said to include terms that refer to entities other than physical objects and events, for example, “justice” and “freedom” as opposed to terms that refer to actual physical things, like “chair” and “car”. Abstract language also includes indirect uses of language, such as metaphors and figures of speech. For example, a concrete thinker would interpret “People who live in glass houses should not throw stones” to refer literally to breakable panes of glass. An abstract thinker, in contrast, would understand that the figure of speech means that people who have faults of their own should not criticize others. One should be careful, however, not to equate metaphor with abstract. Metaphors that were well understood before the injury (e.g., “Go take a hike”) may be just as concrete and easy to understand as their literal equivalents (“Please leave”). Sometimes metaphors come to be so commonly used and easy to understand that we forget that they are metaphors, like “He’s a barrel of laughs.”
+- The terms concrete and abstract are also used to suggest how __practical or impractical__ an idea might be. In this sense, concrete ideas are those that have relevance to action (e.g., a recipe is concrete because it states how to cook a dinner; a differential equation is abstract because it is not tied to action in this way). This connection to action offers teachers and parents a way to make abstract ideas more concrete (and therefore more understandable) by showing their relevance to action. For example, chemistry can be connected to cooking or medicine; mathematics can be connected to construction. These connections with practical activity help concrete thinkers understand and appreciate abstract concepts.
+- Abstraction is a __relative__ concept, related to the age of the child. For a two year old, “the day after tomorrow” is a highly abstract concept. For a college student, the day after tomorrow is relatively concrete, as opposed to highly abstract ideas like Heisenberg’s Indeterminancy Principle. And of course there are many degrees of abstraction between these two extremes. A major component of intellectual development is this process of gradually moving from extremely concrete thinking to increasingly abstract thinking in an ever increasing array of content areas.
+- To some extent, concrete and abstract are __domain specific__ For example, for a mathematician, concepts like exponent and equation are second nature and relatively concrete in their meaning. However, that same mathematician might find concepts like value as used in political economy to be quite abstract. The reverse might be true for a political economist. Familiarity with the content in a given domain or speciality area dictates to some extent what will be considered concrete (and therefore easy to understand) and what will be considered abstract (and therefore hard to understand).
+- The ability to think concretely and abstractly is also associated with the ability to transfer what is learned from one context to another. For example, a student who is a reasonably abstract thinker might learn the organization of an essay in English class and then transfer that learning to her writing in social studies class. In contrast, a concrete thinker might need to be specifically taught in both classes.
 
 # Backlinks
 ## [November 19th, 2020](<November 19th, 2020.md>)

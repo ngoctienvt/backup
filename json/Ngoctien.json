@@ -48135,12 +48135,251 @@
         "uid": "V0DaiR7Fu"
       },
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1605792337180,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605792337180,
-        "string": "",
-        "uid": "s6Zofy4jY"
+        "edit-time": 1606460947173,
+        "heading": 3,
+        "string": "**WHAT ARE CONCRETE AND ABSTRACT THINKING?**",
+        "uid": "w5G5jTtHP"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606460960978,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606460960978,
+            "string": "Abstract thinkers are able to reflect on events and ideas, and on attributes and relationships separate from the objects that have those attributes or share those relationships.\u00a0",
+            "uid": "etHGtBI0B"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606460982898,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606460982898,
+                "string": "a concrete thinker can think about this particular dog; a more abstract thinker can think about dogs in general.\u00a0",
+                "uid": "90BiPZ3-_"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606460987018,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606460987018,
+                "string": "A concrete thinker can think about this\u00a0__dog on this rug__; a more abstract thinker can think about\u00a0__spatial relations__, like \u201con\u201d.\u00a0",
+                "uid": "yv5uZiDiN"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606460991650,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606460991650,
+                "string": "A concrete thinker can see that this ball is big; a more abstract thinker can think about size in general. ",
+                "uid": "ND6k2LH-c"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606460994580,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606460994580,
+                "string": "A concrete thinker can count three cookies; a more abstract thinker can think about\u00a0__numbers__. ",
+                "uid": "xtKYhu9cm"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606460973321,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606460994583,
+                "string": "A concrete thinker can recognize that John likes Betty; a more abstract thinker can reflect on\u00a0__emotions__, like affection.",
+                "uid": "wDXjtvcXp"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606460971155,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606460971155,
+            "string": "For example, ",
+            "uid": "8CWdSaikP"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461025496,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461025496,
+                "string": "a two or three-year-old who thinks that as long as he stays out of his bedroom, it will not be bed time. ",
+                "uid": "DVf4mvMM9"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461042294,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461042294,
+                "string": "In this case, the abstract concept of time (bedtime) is understood in terms of the more concrete concept of place (bedroom). ",
+                "uid": "GzZgJdUZn"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461032610,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461109729,
+                "string": "The __abstract idea of bedtime__ comes to mean the __concrete idea of being in my bedroom__.",
+                "uid": "-qY89OCKr"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606461021386,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606461021386,
+            "string": "Another example of concrete thinking in young children is ",
+            "uid": "t0KbxxyXY"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606461146816,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606461146816,
+                    "string": "rejecting green eggs and ham under any circumstances to trying them and actually liking them. ",
+                    "uid": "u1W_9soZK"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606461163785,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606461187546,
+                    "string": "At a\u00a0__concrete__\u00a0level of understanding, the story is about __a stubborn person changing his mind.__ ",
+                    "uid": "l-gKxT7Ho"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606461170784,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606461201017,
+                    "string": "At a more\u00a0__abstract__\u00a0level of understanding, it is about __people, in general, being capable of modifying their thoughts and desires__ even when they are convinced that they cannot or do not want to do so. ",
+                    "uid": "zposq4NXA"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461137355,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461137355,
+                "string": " One of the favorite Dr. Seuss books is Green Eggs and Ham, which ends with the narrator changing his mind from ",
+                "uid": "vGeyFcG7s"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461253936,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461253936,
+                "string": "This more abstract level of understanding can be appreciated by two and three-year-old children only if the __higher level of meaning__ comes out of a discussion of the book with a more mature adult. ",
+                "uid": "KypZQktod"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606461281800,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606461297646,
+                    "string": " facilitating __higher levels of abstraction__ in less mature thinkers characterizes the process of teaching abstract thinking. ",
+                    "uid": "1TOENCiEs"
+                  },
+                  {
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606461281806,
+                    "string": "For example, this is how great philosophers, like Socrates and Plato, taught their pupils how to think abstractly.",
+                    "uid": "5QaNaWCNp"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461274593,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461274593,
+                "string": "At older ages and higher levels of thinking, this same process of more mature thinkers",
+                "uid": "xiwUCHxJY"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606461119857,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606461119857,
+            "string": "Another example that applies to two or three-year-olds is the following.",
+            "uid": "v5u2ezEBN"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461359466,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461404855,
+                "string": "A\u00a0__concrete thinking__\u00a0adolescent can recognize that a good strategy in football is to __make maximal use of the team\u2019s most talented players. __",
+                "uid": "jJ1yoTxF0"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606461363350,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461390848,
+                "string": "An\u00a0__abstract thinking__\u00a0adolescent can recognize that this strategy in football is the same as __using one's cognitive strengths in studying for an exam. __",
+                "uid": "9ba84fQdf"
+              },
+              {
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606461363365,
+                "string": "In general, abstract thinkers are able to perceive analogies and relationships that others may not see and thereby understand higher levels of abstraction.",
+                "uid": "qKK99lkQO"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606461353369,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606461353369,
+            "string": "An example of concrete versus abstract thinking in adolescence is the following. ",
+            "uid": "LfbXchZoV"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606460952901,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606460952901,
+        "string": "Abstract thinking is a level of thinking about things that is removed from the facts of the \u201chere and now\u201d, and from specific examples of the things or concepts being thought about.\u00a0",
+        "uid": "t99BzBmOe"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606460947173,
+        "string": "The term\u00a0__abstraction__\u00a0also applies to uses of language. Abstract language is said to include terms that refer to entities other than physical objects and events, for example, \u201cjustice\u201d and \u201cfreedom\u201d as opposed to terms that refer to actual physical things, like \u201cchair\u201d and \u201ccar\u201d. Abstract language also includes indirect uses of language, such as metaphors and figures of speech. For example, a concrete thinker would interpret \u201cPeople who live in glass houses should not throw stones\u201d to refer literally to breakable panes of glass. An abstract thinker, in contrast, would understand that the figure of speech means that people who have faults of their own should not criticize others. One should be careful, however, not to equate metaphor with abstract. Metaphors that were well understood before the injury (e.g., \u201cGo take a hike\u201d) may be just as concrete and easy to understand as their literal equivalents (\u201cPlease leave\u201d). Sometimes metaphors come to be so commonly used and easy to understand that we forget that they are metaphors, like \u201cHe\u2019s a barrel of laughs.\u201d",
+        "uid": "qCioVN2js"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606460947173,
+        "string": "The terms concrete and abstract are also used to suggest how\u00a0__practical or impractical__\u00a0an idea might be. In this sense, concrete ideas are those that have relevance to action (e.g., a recipe is concrete because it states how to cook a dinner; a differential equation is abstract because it is not tied to action in this way). This connection to action offers teachers and parents a way to make abstract ideas more concrete (and therefore more understandable) by showing their relevance to action. For example, chemistry can be connected to cooking or medicine; mathematics can be connected to construction. These connections with practical activity help concrete thinkers understand and appreciate abstract concepts.",
+        "uid": "bRyo_Rs0s"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606460947173,
+        "string": "Abstraction is a\u00a0__relative__\u00a0concept, related to the age of the child. For a two year old, \u201cthe day after tomorrow\u201d is a highly abstract concept. For a college student, the day after tomorrow is relatively concrete, as opposed to highly abstract ideas like Heisenberg\u2019s Indeterminancy Principle. And of course there are many degrees of abstraction between these two extremes. A major component of intellectual development is this process of gradually moving from extremely concrete thinking to increasingly abstract thinking in an ever increasing array of content areas.",
+        "uid": "YNhWBdws3"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606460947173,
+        "string": "To some extent, concrete and abstract are\u00a0__domain specific__\u00a0For example, for a mathematician, concepts like exponent and equation are second nature and relatively concrete in their meaning. However, that same mathematician might find concepts like value as used in political economy to be quite abstract. The reverse might be true for a political economist. Familiarity with the content in a given domain or speciality area dictates to some extent what will be considered concrete (and therefore easy to understand) and what will be considered abstract (and therefore hard to understand).",
+        "uid": "FG1GzhYLU"
+      },
+      {
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606460947173,
+        "string": "The ability to think concretely and abstractly is also associated with the ability to transfer what is learned from one context to another. For example, a student who is a reasonably abstract thinker might learn the organization of an essay in English class and then transfer that learning to her writing in social studies class. In contrast, a concrete thinker might need to be specifically taught in both classes.",
+        "uid": "s1C_wKcyC"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -49483,6 +49722,7 @@
         "create-time": 1605864552127,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1605864562330,
+        "heading": 1,
         "string": "Resources",
         "uid": "vksTVVNZD"
       },
@@ -49490,7 +49730,7 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605864562327,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1605864562327,
+        "edit-time": 1606460801388,
         "string": "",
         "uid": "R8K8HM-26"
       },
@@ -49574,16 +49814,9 @@
         "create-time": 1605864550118,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1606396305844,
+        "heading": 1,
         "string": "Outline",
         "uid": "1XhvLzwZx"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606396277857,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606396277857,
-        "string": "",
-        "uid": "hcm7FJEmM"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
