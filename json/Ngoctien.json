@@ -4637,7 +4637,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606397999189,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606398042760,
+            "edit-time": 1606486224887,
             "string": "{{[[TODO]]}} Consuming [[Books - Clarity - Clear mind, Better performance, Bigger results]]",
             "uid": "YCKTC8oxg"
           }
@@ -53451,13 +53451,6 @@
   },
   {
     "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1606377660139,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606377660140,
-    "title": "min-all"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606378158694,
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606378158695,
@@ -53490,7 +53483,7 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606358289304,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606377678933,
+        "edit-time": 1606486123182,
         "string": "#min-all {{[[query]]: {and: [[TODO]] [[Today Focus]]}}}",
         "uid": "pEGRdmDKw"
       },
@@ -53589,6 +53582,66 @@
         "edit-time": 1606471129161,
         "string": "[[magic-eye image]] [[inner clarity]] [[Listens Actively]]",
         "uid": "Gs2evPLgd"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606484909601,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606484934532,
+            "string": "concrete thinking will help me to stay in touch with the reality more than the abstract mind.",
+            "uid": "949uj5p9C"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606484826489,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606484909603,
+        "string": "My foggy mind is starting to clearer day by day. I'm becoming to more center, my natural level of thinking is abstract, and I'm developing the ability to center at the stillness and able to do concrete thinking as well.",
+        "uid": "2DI3MKelF"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606485864208,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606485885203,
+            "string": "3 words to summary my thoughts or ideas?",
+            "uid": "CW-V0MOAI"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606485885201,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606485963780,
+            "string": "creating connection between the unfamiliar and the familiar",
+            "uid": "kKvVf0tWE"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606485963777,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606485979359,
+            "string": "outlining",
+            "uid": "k_YmXaVHw"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606485980033,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606485993559,
+            "string": "how",
+            "uid": "TIQK-4R2y"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606485851053,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606485934928,
+        "string": "[[concrete thinking]] Way to make abstract ideas or thoughts to become more concrete and easier to teach",
+        "uid": "61PbPh8o_"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -53624,5 +53677,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606469739308,
     "title": "magic-eye image"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606485864146,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606485864149,
+    "title": "concrete thinking"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606486123185,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606486123188,
+    "title": "min-all"
   }
 ]

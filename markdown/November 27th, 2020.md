@@ -12,3 +12,10 @@
 - external concrete -> internal abstract -> internal concrete [[Creating phase]]
 - [[magic-eye image]] [[inner clarity]] [[Listens Actively]]
     - ![Magic Eye – Home of Magic Eye Inc.](https://www.magiceye.com/wp-content/uploads/2018/10/home_frequent_flyer.jpg)
+- My foggy mind is starting to clearer day by day. I'm becoming to more center, my natural level of thinking is abstract, and I'm developing the ability to center at the stillness and able to do concrete thinking as well.
+    - concrete thinking will help me to stay in touch with the reality more than the abstract mind.
+- [[concrete thinking]] Way to make abstract ideas or thoughts to become more concrete and easier to teach
+    - 3 words to summary my thoughts or ideas?
+    - creating connection between the unfamiliar and the familiar
+    - outlining
+    - how
