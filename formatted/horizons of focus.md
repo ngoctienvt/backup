@@ -54,6 +54,9 @@
 
 - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>) are three quality that is my [horizons of focus](<horizons of focus.md>)
 
+## [level of thinking](<level of thinking.md>)
+- [horizons of focus](<horizons of focus.md>)
+
 ## [point of view](<point of view.md>)
 - point of view is the level or the direction of [horizons of focus](<horizons of focus.md>)
 

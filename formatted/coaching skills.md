@@ -1,4 +1,4 @@
-- [deep listening](<deep listening.md>) is the core of coaching, and most of other skills will mostly develop based on what we hear.
+- [Listens Actively](<Listens Actively.md>) is the core of coaching, and most of other skills will mostly develop based on what we hear.
     - meaning [[meet people
 where they are]]
     - for deep listening happens, we need to build some [optimal conditions](<optimal conditions.md>) for it
@@ -12,7 +12,7 @@ where they are]]
 - 
 - [coaching presence](<coaching presence.md>)
     - [unattachment centering](<unattachment centering.md>)
-- [deep listening](<deep listening.md>)
+- [Listens Actively](<Listens Actively.md>)
     - [hold the space](<hold the space.md>)
     - [empathetic understanding](<empathetic understanding.md>)
 

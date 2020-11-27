@@ -4,8 +4,8 @@
     - So learning to enjoy the moment in front of me without the [personal needs](<personal needs.md>) to change it so that it will be make me feel good is the most important thing to develop my [coaching presence](<coaching presence.md>). 
 
 I will be presence myself to interact with them as a whole, not to use them to interact with my inner [samskaras](<samskaras.md>).
-        - The second coach skills I want to focus is [deep listening](<deep listening.md>). It's about make room for clients to express their inner environment and understand their inner situation, instead of listen to give solutions.
-        - Without [deep listening](<deep listening.md>) to understand the clients, how could I support them to navigate through their inner environments, to see them clearly and to empower them to handle their stuffs, so that they can achieve what they truly want. 
+        - The second coach skills I want to focus is [Listens Actively](<Listens Actively.md>). It's about make room for clients to express their inner environment and understand their inner situation, instead of listen to give solutions.
+        - Without [Listens Actively](<Listens Actively.md>) to understand the clients, how could I support them to navigate through their inner environments, to see them clearly and to empower them to handle their stuffs, so that they can achieve what they truly want. 
         - [true freedom](<true freedom.md>) and [true happiness](<true happiness.md>) are what everyone want, every goal if I look deeply, it only based on two things [end goal](<end goal.md>)
         - One is the inner samskaras so that we could satisfy its need
             - Two is the inner shakti that feed you with tremendous happiness, joy, peace, and you want to express it outside to raise the external moments up.

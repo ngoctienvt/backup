@@ -1,0 +1,14 @@
+- concrete and abstract thinking
+    - [[horizons of focus]]
+    - clarity mind versus cloudy mind
+- zoom-in and zoom-out point of view
+    - down to earth vs head in the clouds
+- improvement versus innovation
+    - incremental versus transformational
+    - transactional versus transformational
+- example
+    - example and concept
+    - coach the problem, the person, the being
+    - concrete task and abstract task
+    - [[Bloom's taxonomy]]
+    - concise versus verbose

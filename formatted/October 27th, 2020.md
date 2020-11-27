@@ -31,10 +31,10 @@ The only thing that will never change and will never lose is me - my witness con
 - [x] Coaching [Phạm Nguyệt](<Phạm Nguyệt.md>) [October 28th, 2020](<October 28th, 2020.md>)
 - [x] Coaching [@Nguyễn Bảo Ngân](<@Nguyễn Bảo Ngân.md>) [October 30th, 2020](<October 30th, 2020.md>)
 - I felt so [disturbed](<disturbed.md>) today about I have to responsible for other people about their stuff, especially what happens on repeat. I noticed that at that time, my reaction to the world is not based on I'm being myself, but I'm being my [samskaras](<samskaras.md>)
-- The most important [coaching skills](<coaching skills.md>) is [deep listening](<deep listening.md>). It focuses us to understand the clients [as a whole](<as a whole.md>) instead of let our mind making assumptions and fill in the blank for us. 
-    - And [deep listening](<deep listening.md>) need to help us to [[meet people
+- The most important [coaching skills](<coaching skills.md>) is [Listens Actively](<Listens Actively.md>). It focuses us to understand the clients [as a whole](<as a whole.md>) instead of let our mind making assumptions and fill in the blank for us. 
+    - And [Listens Actively](<Listens Actively.md>) need to help us to [[meet people
 where they are]] through the [coaching reflection](<coaching reflection.md>) skills. When reflection, we could check whether we and client are [on the same boat](<on the same boat.md>) or not.
-- My [coaching questions](<coaching questions.md>) also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [deep listening](<deep listening.md>).
+- My [coaching questions](<coaching questions.md>) also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [Listens Actively](<Listens Actively.md>).
 - I w.
 - [The relationship of approach, method, and technique](<The relationship of approach, method, and technique.md>)
     - [end goal](<end goal.md>)

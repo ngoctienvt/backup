@@ -85,7 +85,7 @@
                 - Partners with the client to close the session
 - Personal understanding about coaching competencies
     - [[presence]]
-    - [[active listening]]
+    - [[Listens Actively]]
     - [[direct communication]]
     - [[evoke awareness]]
     - [[trust and safety environment]]

@@ -85,7 +85,7 @@
                 - Partners with the client to close the session
 - Personal understanding about coaching competencies
     - [presence](<presence.md>)
-    - [active listening](<active listening.md>)
+    - [Listens Actively](<Listens Actively.md>)
     - [direct communication](<direct communication.md>)
     - [evoke awareness](<evoke awareness.md>)
     - [trust and safety environment](<trust and safety environment.md>)

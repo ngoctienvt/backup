@@ -9,6 +9,7 @@
         - [helpful manner](<helpful manner.md>)
     - Selflessness
         - [impersonal responsibilities](<impersonal responsibilities.md>)
+    - [level of thinking](<level of thinking.md>)
 
 # Backlinks
 ## [November 25th, 2020](<November 25th, 2020.md>)

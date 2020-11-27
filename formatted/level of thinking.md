@@ -1,7 +1,24 @@
+- concrete and abstract thinking
+    - [horizons of focus](<horizons of focus.md>)
+    - clarity mind versus cloudy mind
+- zoom-in and zoom-out point of view
+    - down to earth vs head in the clouds
+- improvement versus innovation
+    - incremental versus transformational
+    - transactional versus transformational
+- example
+    - example and concept
+    - coach the problem, the person, the being
+    - concrete task and abstract task
+    - [Bloom's taxonomy](<Bloom's taxonomy.md>)
+    - concise versus verbose
 
 # Backlinks
 ## [Articles - Concrete vs abstract thinking](<Articles - Concrete vs abstract thinking.md>)
 - Tags: [Articles](<Articles.md>), [level of thinking](<level of thinking.md>),
+
+## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
+- [level of thinking](<level of thinking.md>)
 
 ## [November 19th, 2020](<November 19th, 2020.md>)
 - It's resonate to me that level of thinking is heavily affected by the level of abstraction. [level of thinking](<level of thinking.md>)

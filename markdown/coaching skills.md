@@ -1,4 +1,4 @@
-- [[deep listening]] is the core of coaching, and most of other skills will mostly develop based on what we hear.
+- [[Listens Actively]] is the core of coaching, and most of other skills will mostly develop based on what we hear.
     - meaning [[meet people
 where they are]]
     - for deep listening happens, we need to build some [[optimal conditions]] for it
@@ -12,6 +12,6 @@ where they are]]
 - 
 - [[coaching presence]]
     - [[unattachment centering]]
-- [[deep listening]]
+- [[Listens Actively]]
     - [[hold the space]]
     - [[empathetic understanding]]

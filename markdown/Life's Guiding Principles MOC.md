@@ -9,3 +9,4 @@
         - [[helpful manner]]
     - Selflessness
         - [[impersonal responsibilities]]
+    - [[level of thinking]]

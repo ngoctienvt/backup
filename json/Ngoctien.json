@@ -1276,8 +1276,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1600095259061,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1600095509176,
-            "string": "[[active listening]]",
+            "edit-time": 1606471156536,
+            "string": "[[Listens Actively]]",
             "uid": "4galgXqb8"
           },
           {
@@ -1331,13 +1331,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1600095350286,
     "title": "presence"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1600095509179,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1600095509183,
-    "title": "active listening"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -8907,6 +8900,128 @@
     "title": "embrace"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606468893684,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606468904547,
+            "string": "[[horizons of focus]]",
+            "uid": "qNatEC7lX"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606469373289,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606469442000,
+            "string": "clarity mind versus cloudy mind",
+            "uid": "rjByHmfLu"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606468854197,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606468965625,
+        "string": "concrete and abstract thinking",
+        "uid": "sEvWqpP0J"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606468992765,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606469265808,
+            "string": "down to earth vs head in the clouds",
+            "uid": "_AkgepdQX"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606468871821,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606468880594,
+        "string": "zoom-in and zoom-out point of view",
+        "uid": "afPiQ8z9I"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606469164905,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606469233951,
+            "string": "incremental versus transformational",
+            "uid": "qyL2LfzI6"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606469172321,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606469179135,
+            "string": "transactional versus transformational",
+            "uid": "QGipe83sH"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606469237340,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606469242333,
+        "string": "improvement versus innovation",
+        "uid": "n3dSI9lOF"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606468880592,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606468892419,
+            "string": "example and concept",
+            "uid": "0QUFuZFlw"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606468888308,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606468929275,
+            "string": "coach the problem, the person, the being",
+            "uid": "PfR5F8JLX"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606468945413,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606468992768,
+            "string": "concrete task and abstract task",
+            "uid": "FXMHfkOqo"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606469331583,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606469349806,
+            "string": "[[Bloom's taxonomy]]",
+            "uid": "J6CAtQwzB"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606469413709,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606469417493,
+            "string": "concise versus verbose",
+            "uid": "sSx9mhAcH"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606469284614,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606469288392,
+        "string": "example",
+        "uid": "2hfTHn3rj"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1600307807026,
     "edit-email": "ngoctienvt@gmail.com",
@@ -20933,8 +21048,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603786387966,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603787110448,
-        "string": "[[deep listening]] is the core of coaching, and most of other skills will mostly develop based on what we hear.",
+        "edit-time": 1606471169582,
+        "string": "[[Listens Actively]] is the core of coaching, and most of other skills will mostly develop based on what we hear.",
         "uid": "hoLs8GOci"
       },
       {
@@ -20985,8 +21100,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603934425876,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603934430790,
-        "string": "[[deep listening]]",
+        "edit-time": 1606471169582,
+        "string": "[[Listens Actively]]",
         "uid": "d5OvA1Hed"
       }
     ],
@@ -28983,24 +29098,24 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603786323789,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603786519286,
-            "string": "And [[deep listening]] need to help us to [[meet people\nwhere they are]] through the [[coaching reflection]] skills. When reflection, we could check whether we and client are [[on the same boat]] or not.",
+            "edit-time": 1606471169582,
+            "string": "And [[Listens Actively]] need to help us to [[meet people\nwhere they are]] through the [[coaching reflection]] skills. When reflection, we could check whether we and client are [[on the same boat]] or not.",
             "uid": "Xb02bwC1N"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603780862360,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603786323792,
-        "string": "The most important [[coaching skills]] is [[deep listening]]. It focuses us to understand the clients [[as a whole]] instead of let our mind making assumptions and fill in the blank for us. ",
+        "edit-time": 1606471169582,
+        "string": "The most important [[coaching skills]] is [[Listens Actively]]. It focuses us to understand the clients [[as a whole]] instead of let our mind making assumptions and fill in the blank for us. ",
         "uid": "GRogdv9o7"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603786908959,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603787207378,
-        "string": "My [[coaching questions]] also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [[deep listening]].",
+        "edit-time": 1606471169582,
+        "string": "My [[coaching questions]] also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [[Listens Actively]].",
         "uid": "skUAZfQjn"
       },
       {
@@ -29972,16 +30087,16 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1603934227304,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603934493759,
-                "string": "The second coach skills I want to focus is [[deep listening]]. It's about make room for clients to express their inner environment and understand their inner situation, instead of listen to give solutions.",
+                "edit-time": 1606471169582,
+                "string": "The second coach skills I want to focus is [[Listens Actively]]. It's about make room for clients to express their inner environment and understand their inner situation, instead of listen to give solutions.",
                 "uid": "wfQtsRTLi"
               },
               {
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1603934773628,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603934773628,
-                "string": "Without [[deep listening]] to understand the clients, how could I support them to navigate through their inner environments, to see them clearly and to empower them to handle their stuffs, so that they can achieve what they truly want. ",
+                "edit-time": 1606471169582,
+                "string": "Without [[Listens Actively]] to understand the clients, how could I support them to navigate through their inner environments, to see them clearly and to empower them to handle their stuffs, so that they can achieve what they truly want. ",
                 "uid": "admzjtJ67"
               },
               {
@@ -30877,13 +30992,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1603770115021,
     "title": "October 30th, 2020"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603786248869,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603786248876,
-    "title": "deep listening"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -52916,6 +53024,14 @@
             "edit-time": 1606362220075,
             "string": "Selflessness",
             "uid": "qzpawz3qe"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606468845521,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606468852172,
+            "string": "[[level of thinking]]",
+            "uid": "LY_KlLyqL"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -53439,14 +53555,6 @@
             "edit-time": 1606463458028,
             "string": "[[instructional design]] need to consider how to support a person to move up and move down these level of thinking, so the goal of the course is completed.",
             "uid": "D7vTr8AGk"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606463459453,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606463459453,
-            "string": "",
-            "uid": "Gs2evPLgd"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -53455,6 +53563,24 @@
         "edit-time": 1606463370324,
         "string": "I learned so much from reading the [[Articles - Concrete vs abstract thinking]]. ",
         "uid": "q6iMxKO4r"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606469739301,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606469739860,
+            "string": "![Magic Eye \u2013 Home of Magic Eye Inc.](https://www.magiceye.com/wp-content/uploads/2018/10/home_frequent_flyer.jpg)",
+            "uid": "pURf0qIuE"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606463459453,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606471129161,
+        "string": "[[magic-eye image]] [[inner clarity]] [[Listens Actively]]",
+        "uid": "Gs2evPLgd"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -53476,5 +53602,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606462128409,
     "title": "expanded learning"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606469349808,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606469349810,
+    "title": "Bloom's taxonomy"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606469739306,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606469739308,
+    "title": "magic-eye image"
   }
 ]

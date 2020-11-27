@@ -31,10 +31,10 @@ The only thing that will never change and will never lose is me - my witness con
 - {{[[DONE]]}} Coaching [[Phạm Nguyệt]] [[October 28th, 2020]]
 - {{[[DONE]]}} Coaching [[@Nguyễn Bảo Ngân]] [[October 30th, 2020]]
 - I felt so [[disturbed]] today about I have to responsible for other people about their stuff, especially what happens on repeat. I noticed that at that time, my reaction to the world is not based on I'm being myself, but I'm being my [[samskaras]]
-- The most important [[coaching skills]] is [[deep listening]]. It focuses us to understand the clients [[as a whole]] instead of let our mind making assumptions and fill in the blank for us. 
-    - And [[deep listening]] need to help us to [[meet people
+- The most important [[coaching skills]] is [[Listens Actively]]. It focuses us to understand the clients [[as a whole]] instead of let our mind making assumptions and fill in the blank for us. 
+    - And [[Listens Actively]] need to help us to [[meet people
 where they are]] through the [[coaching reflection]] skills. When reflection, we could check whether we and client are [[on the same boat]] or not.
-- My [[coaching questions]] also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [[deep listening]].
+- My [[coaching questions]] also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [[Listens Actively]].
 - I w.
 - [[The relationship of approach, method, and technique]]
     - [[end goal]]
