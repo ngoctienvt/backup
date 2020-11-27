@@ -49,6 +49,9 @@
 ## [November 17th, 2020](<November 17th, 2020.md>)
 - I still not sure how I will use my tag properly, it's making me kind of confused about the structure to build my [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
+## [November 27th, 2020](<November 27th, 2020.md>)
+- It is exactly what a [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+
 ## [Productivity System MOC](<Productivity System MOC.md>)
 - ### [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 

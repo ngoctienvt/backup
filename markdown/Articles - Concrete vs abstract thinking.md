@@ -1,5 +1,5 @@
 - Link: http://www.projectlearnet.org/tutorials/concrete_vs_abstract_thinking.html#:~:text=Abstract%20thinking%20is%20a%20level,or%20concepts%20being%20thought%20about.&text=Thus%2C%20for%20example%2C%20a%20concrete,think%20about%20dogs%20in%20general.
-- Tags: [[level of thinking]], #TBR
+- Tags: #Articles, [[level of thinking]], #TBR #[[instructional design]]
 - ### **WHAT ARE CONCRETE AND ABSTRACT THINKING?**
 - Abstract thinking is a level of thinking about things that is removed from the facts of the “here and now”, and from specific examples of the things or concepts being thought about. 
     - Abstract thinkers are able to reflect on events and ideas, and on attributes and relationships separate from the objects that have those attributes or share those relationships. 
@@ -20,14 +20,139 @@
             - At a more __abstract__ level of understanding, it is about __people, in general, being capable of modifying their thoughts and desires__ even when they are convinced that they cannot or do not want to do so. 
         - This more abstract level of understanding can be appreciated by two and three-year-old children only if the __higher level of meaning__ comes out of a discussion of the book with a more mature adult. 
         - At older ages and higher levels of thinking, this same process of more mature thinkers
-            -  facilitating __higher levels of abstraction__ in less mature thinkers characterizes the process of teaching abstract thinking. 
+            -  __facilitating higher levels of abstraction__ in less mature thinkers characterizes the process of teaching abstract thinking. 
             - For example, this is how great philosophers, like Socrates and Plato, taught their pupils how to think abstractly.
     - An example of concrete versus abstract thinking in adolescence is the following. 
         - A __concrete thinking__ adolescent can recognize that a good strategy in football is to __make maximal use of the team’s most talented players. __
         - An __abstract thinking__ adolescent can recognize that this strategy in football is the same as __using one's cognitive strengths in studying for an exam. __
         - In general, abstract thinkers are able to perceive analogies and relationships that others may not see and thereby understand higher levels of abstraction.
-- The term __abstraction__ also applies to uses of language. Abstract language is said to include terms that refer to entities other than physical objects and events, for example, “justice” and “freedom” as opposed to terms that refer to actual physical things, like “chair” and “car”. Abstract language also includes indirect uses of language, such as metaphors and figures of speech. For example, a concrete thinker would interpret “People who live in glass houses should not throw stones” to refer literally to breakable panes of glass. An abstract thinker, in contrast, would understand that the figure of speech means that people who have faults of their own should not criticize others. One should be careful, however, not to equate metaphor with abstract. Metaphors that were well understood before the injury (e.g., “Go take a hike”) may be just as concrete and easy to understand as their literal equivalents (“Please leave”). Sometimes metaphors come to be so commonly used and easy to understand that we forget that they are metaphors, like “He’s a barrel of laughs.”
-- The terms concrete and abstract are also used to suggest how __practical or impractical__ an idea might be. In this sense, concrete ideas are those that have relevance to action (e.g., a recipe is concrete because it states how to cook a dinner; a differential equation is abstract because it is not tied to action in this way). This connection to action offers teachers and parents a way to make abstract ideas more concrete (and therefore more understandable) by showing their relevance to action. For example, chemistry can be connected to cooking or medicine; mathematics can be connected to construction. These connections with practical activity help concrete thinkers understand and appreciate abstract concepts.
-- Abstraction is a __relative__ concept, related to the age of the child. For a two year old, “the day after tomorrow” is a highly abstract concept. For a college student, the day after tomorrow is relatively concrete, as opposed to highly abstract ideas like Heisenberg’s Indeterminancy Principle. And of course there are many degrees of abstraction between these two extremes. A major component of intellectual development is this process of gradually moving from extremely concrete thinking to increasingly abstract thinking in an ever increasing array of content areas.
-- To some extent, concrete and abstract are __domain specific__ For example, for a mathematician, concepts like exponent and equation are second nature and relatively concrete in their meaning. However, that same mathematician might find concepts like value as used in political economy to be quite abstract. The reverse might be true for a political economist. Familiarity with the content in a given domain or speciality area dictates to some extent what will be considered concrete (and therefore easy to understand) and what will be considered abstract (and therefore hard to understand).
-- The ability to think concretely and abstractly is also associated with the ability to transfer what is learned from one context to another. For example, a student who is a reasonably abstract thinker might learn the organization of an essay in English class and then transfer that learning to her writing in social studies class. In contrast, a concrete thinker might need to be specifically taught in both classes.
+- The term __abstraction__ also applies to uses of language. 
+    - Abstract language is said to include terms that 
+        - refer to entities other than physical objects and events, 
+        - for example, “justice” and “freedom” 
+        - as opposed to terms that refer to actual physical things, like “chair” and “car”.
+    -  Abstract language also includes indirect uses of language, 
+        - such as metaphors and figures of speech. 
+        - For example, a concrete thinker would interpret “People who live in glass houses should not throw stones” to refer literally to breakable panes of glass. 
+        - An abstract thinker, in contrast, would understand that the figure of speech means that people who have faults of their own should not criticize others. 
+        - One should be careful, however, __not to equate metaphor with abstract.__
+            -  Metaphors that were well understood before the injury (e.g., “Go take a hike”) may be just as concrete and easy to understand as their literal equivalents (“Please leave”). 
+            - Sometimes metaphors come to be so commonly used and easy to understand that we forget that they are metaphors, like “He’s a barrel of laughs.”
+- The terms concrete and abstract are also used to suggest 
+    - how __practical or impractical__ an idea might be. 
+    - In this sense, concrete ideas are those that have relevance to action 
+        - (e.g., a recipe is concrete because it states how to cook a dinner; a differential equation is abstract because it is not tied to action in this way). 
+        - This connection to action offers teachers and parents a way 
+            - to__ make abstract ideas more concrete__ (and therefore more understandable) __by showing their relevance to action. __
+            - For example, 
+                - chemistry can be connected to cooking or medicine;
+                - mathematics can be connected to construction. 
+            - These connections with practical activity help concrete thinkers understand and appreciate abstract concepts.
+- Abstraction is a __relative__ concept, related to the age of the child. 
+    - For a two year old, “the day after tomorrow” is a highly abstract concept. 
+    - For a college student, the day after tomorrow is relatively concrete, as opposed to highly abstract ideas like Heisenberg’s Indeterminancy Principle. 
+    - And of course there are many degrees of abstraction between these two extremes. 
+    - A major component of intellectual development is 
+        - this process of gradually moving from
+            - extremely concrete thinking 
+            - to increasingly abstract thinking in an ever increasing array of content areas.
+- To some extent, concrete and abstract are __domain specific__.
+    -  For example, for a mathematician, concepts like exponent and equation are second nature and relatively concrete in their meaning. 
+    - However, that same mathematician might find concepts like value as used in political economy to be quite abstract.  The reverse might be true for a political economist. 
+    - __Familiarity with the content in a given domain or speciality area__ dictates to some extent what will be considered concrete (and therefore easy to understand) and what will be considered abstract (and therefore hard to understand).
+- The ability to think concretely and abstractly is also associated with [[expanded learning]]
+    - the ability to transfer what is learned from one context to another. 
+    - For example, a student who is a reasonably abstract thinker might learn 
+        - the organization of an essay in English class
+        - and then transfer that learning to her writing in social studies class. 
+    - In contrast, a concrete thinker might need to be specifically taught in both classes.
+- **WHAT ARE THE MAIN FEATURES OF TEACHING OR TRAINING THAT ARE IMPORTANT FOR STUDENTS WHO HAVE DIFFICULTY WITH ABSTRACT THINKING?**
+    - **Understanding the Problem**
+        - The concrete thinking associated with brain injury can easily be misidentified as mental retardation or a general problem with learning. 
+        - Students with abstract thinking problems might be reasonably effective learners and processors of information in select domains.
+    - Having identified the difficulty with abstract thinking, parents and educators should become familiar with the compensations they can implement and procedures to gradually improve the student’s ability to think abstractly.
+    - **Environmental Compensations and Strategies**
+        - **Competent and Sensitive Communication Partners:** 
+        - Knowing that a student is a concrete thinker, communication partners, including teachers and parents, should adjust their language accordingly. 
+        - They should either avoid the use of language that is 
+            - at too high a level of abstraction, 
+            - or link abstract language with its concrete equivalent. 
+            - For example, in encouraging a student to study hard, a parent might say, 
+                - “You’ve got to give it your best shot – study real hard.”
+                    - “Give it your best shot” is a metaphor that might be too abstract; 
+                    - “study real hard” is a literal or concrete equivalent.
+    - **Using Concrete Meanings to Support Comprehension of Abstract Concepts:** 
+        - When learning to add and subtract, first graders commonly rely on their fingers or other physical objects to represent the abstract numbers. 
+        - The children’s conceptual transition into the world of abstract numbers is supported 
+            - by the representation of those numbers in physical things 
+                - that can be seen, held, and moved. 
+        - Similarly, concrete thinking high school students might be able to understand an abstract social arrangement, like the caste system in India, 
+            - by comparing it to social cliques they are familiar with in their school. 
+            - Discussing similarities and differences between that 
+                - which is unfamiliar and distant (i.e., abstract) 
+                - and that which is familiar and close to home (i.e., concrete) 
+                - is a valuable way to help students grasp the abstract concept.
+    - **Facilitating the Development of Abstract Thinking**
+        - There are no known “exercises” in abstract thinking that have the effect of turning a concrete thinker into an abstract thinker __across domains of content. __
+        - Attempts to facilitate increasingly abstract thinking should be made within all relevant academic areas (e.g., math, literature, science, social studies), 
+            - without expecting that improvements in one area will yield improvements in another area. 
+        - If possible, similar language and analogies should be used (e.g., by parents and teachers) across areas so as 
+            - not to overwhelm students with too much information or too many comparisons. 
+            - Schools should not expect that exercises in abstract thinking in a therapy context 
+                - (e.g., a speech-language therapist using workbook exercises in abstract thinking) 
+                - will transfer to other academic or social domains.
+- How the great thinkers of the past successfully taught their students 
+    - how to think more deeply and abstractly, 
+    - and how parents of young children facilitate the development of their child’s thought processes. 
+        - Parents who think out loud with their children in ways suggested by the following list facilitate their child’s cognitive development. Teachers can play the same thinking-out-loud role with students. 
+        - In effect, adults are taking children on as “apprentices in thinking” as they think out loud with the children. 
+        - As adults think out loud with children, they should routinely 
+            - seek feedback from the student to ensure that the adult’s “out-loud thinking” is being understood and perhaps even triggering the student’s thought processes.
+        - __Think out loud with the student:__ 
+            - Great teachers of thinking, like Socrates, spend much of their time thinking through issues with their students, leading them gradually to higher levels of understanding and abstraction. 
+            - Similarly it is known that parents who think out loud in an organized and compelling way with their young children facilitate the child’s development of systematically higher levels of thinking, better organized thinking, and better problem solving. 
+            - In home and classroom discussions, this out-loud thinking about important topics can be organized around the following thought processes:
+                - searches for __explanations __(e.g., __why__ and __how__ questions)
+                - searches for __analogies __to make the subject matter more understandable (e.g., “Let’s think about what this might be like in your life; what are other examples of this?”)
+                - searches for __alternative__ __perspectives__ (e.g., “Are there other ways to think about this? How might other people think about this?”)
+                - ways to__ organize __the topic and make connections (e.g., “I think there are three separate issues here that we should consider in order”; “Let’s try to think about what this might be connected to”)
+                - ways to __evaluate__ (e.g., “How can we decide if this is a good thing or not?”)
+                - ways to __draw inferences__ (e.g., “If this is true, then what else must be true?”)
+        - __Think out loud with the student about issues that are interesting and important:__ 
+            - Issues that can be jointly thought about include topics from the student’s curriculum and school books as well as issues of personal importance. 
+            - These think-out-loud sessions can be lively and enjoyable dinner time conversations.
+        - __Highlight the thinking process:__ [[thinking process]]
+            - In connection with abstract thinking, discussions with adolescents should highlight the words __concrete and abstract__ 
+                - (e.g., “That is how the story might be interpreted in a concrete way.... But now let me give you a more abstract understanding.”). 
+            - Similarly, adults should __not only explore explanations, __ 
+                - but also explicitly __describe this explanatory thought process as a way to derive explanations;__ 
+                    - they should not only explore analogies, but also explicitly describe this analogical thought process as a way to see connections; 
+                    - they should not only make organized connections, but also explicitly describe this organizational thought process as a way to become more organized in thinking. 
+                - Talking about the thought processes and giving them a name 
+                    - facilitates an understanding of those thought processes, 
+                    - how to use them, 
+                    - and when to use them.
+        - Use __illuminating and motivating analogies__: 
+            - Just as finger counting makes abstract numbers and arithmetic operations more concrete for six-year-old children, 
+            - so also meaningful analogies make abstract material more concrete for older students. 
+            - For example, in explaining 
+                - the three branches of government to a concrete thinking high school student, 
+                - a teacher might say, 
+                    - “When your parents create rules for you, 
+                        - they are functioning like the legislative branch of government. 
+                        - When they enforce those rules, they are functioning like the executive branch. 
+                        - When they try to resolve conflicts between you and your sister, they are functioning like the judicial branch.” 
+                - This use of analogies __connects the unfamiliar with the familiar,__ thereby making the abstract and unfamiliar more concrete and understandable.
+        - __Use external supports as needed:__ 
+            - In logic, Venn diagrams (overlapping circles) are used to “concretely” represent logical relationships among propositions. 
+            - Similarly, a timeline flow chart might be used to represent relationships among events in time. 
+            - Models of the solar system are used to represent relationships among the sun, planets, and moons.
+            - When a product that needs assembly is opened, there is usually a sequence of pictures showing exactly how to put the object together. 
+            - Each of these two- or three-dimensional representations of the organization of that which is represented can be considered a “map” – a concrete representation of more abstract relationships. 
+                - __The map guides one through unfamiliar territory__ and if you don’t know the territory, you need a map!
+                - Other graphic organizers can be used to represent other relationships and organizational systems.
+        - __Gradually remove the supports:__ 
+            - Just as primary grade teachers try to gradually remove their students’ reliance on fingers and other objects as they do simple adding and subtracting problems, so also teachers at every level – and parents – should gradually remove the concrete supports that they use to facilitate the child’s more abstract thinking skills. 
+            - For example, a graphic organizer with boxes and connecting arrows, used to represent 
+                - narrative organization for elementary school students, 
+                - might be gradually transformed into a simple outline for middle schoolers.

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Articles - Concrete vs abstract thinking](<Articles - Concrete vs abstract thinking.md>)
+- Tags: [Articles](<Articles.md>), [level of thinking](<level of thinking.md>), [TBR](<TBR.md>) #[instructional design](<instructional design.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - [Workshop Design](<Workshop Design.md>) [instructional design](<instructional design.md>)
 
@@ -7,6 +10,9 @@
 
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - My last week has been a week with new inspirations and directions. I started to feel that I will develop myself to become a thinker and a blogger to serve the world by my wisdom. I also find out something called [instructional design](<instructional design.md>)
+
+## [November 27th, 2020](<November 27th, 2020.md>)
+- [instructional design](<instructional design.md>)
 
 ## [TODO](<TODO.md>)
 - Learning [instructional design](<instructional design.md>)

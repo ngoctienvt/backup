@@ -9,6 +9,9 @@
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - Today I learned that learn to dance in [the middle way](<the middle way.md>)
 
+## [November 27th, 2020](<November 27th, 2020.md>)
+- It is exactly what a [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>) built for. [the middle way](<the middle way.md>)
+
 ## [November 8th, 2020](<November 8th, 2020.md>)
 - And this is also somehow taught me [the middle way](<the middle way.md>)
 
