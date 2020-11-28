@@ -1,7 +1,7 @@
-- [[Tag usage]]
+- [Tag usage](<Tag usage.md>)
     - One is plan the tagging system
     - Second is plan how to tag
-- [[weekly reflection]]
+- [weekly reflection](<weekly reflection.md>)
     - Highlights
         - Clarify and connect my horizons of focus
         - Develop the concept about abstract and concrete. 
@@ -9,5 +9,5 @@
             - I need to develop the ability to be a concrete thinker as well.
         - Start to build my productivity system and workflow more clearly
         - Learn to release the sexual needs and the samskaras that I'm unable to handle which lead to the need to control other people.
-        - Redefining the meaning of [[true relationship]] and [[true love]]
+        - Redefining the meaning of [true relationship](<true relationship.md>) and [true love](<true love.md>)
         - 
