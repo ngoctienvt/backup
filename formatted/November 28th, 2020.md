@@ -17,21 +17,6 @@
         - Learn about clarity
         - Start to work on [Creating phase](<Creating phase.md>)
     - Focus for next week
-    - [Planning](<Planning.md>) for next few months
-        - Complete PKDS
-        - Complete and transition myself to a productive life
-        - Build solidify foundation for
-            - Thinker
-            - Coaching
-            - Spiritual
-            - Training
-            - Writing/ Blogging
-        - Creating
-            -  Build PKDS training course
-            - Build a personal blog
-            - Write blog posts consistently
-        - Teaching a PKDS class
-        - Playing Mage Knight boardgame
     - [Review](<Review.md>) for the last 3 months
         - I used Roam Research extensively, and I progressed so much by this
             - From nowhere to progress my thinking in a natural and progressive way
@@ -41,4 +26,16 @@
                 - a spiritual practitioner
                 - a productive person
                 - an international blogger
-            - I start to be able to do some big projects but able to store the work, so that I could upgrade them according with my growth by PKDS.
+            - I start to be able to do some big projects but able to store the work so that I could upgrade them along with my personal growth by PKDS. [flexibility](<flexibility.md>)
+    - [Success Factors](<Success Factors.md>)
+        - Work continuously on the direction that I feel right, even though it's not clear and foggy.
+            - Have the courage to go on the unknown
+        - Don't let myself be controlled by my samskaras 
+        - Don't let myself be limit by my thoughts, but rather try to break the limit instead
+        - Have the trust 
+            - to myself, 
+                - my unique path
+                - my uniqueness
+            - and the unfolding process of reality
+        - Have the ability to zoom-out and see big pictures easily
+        - 

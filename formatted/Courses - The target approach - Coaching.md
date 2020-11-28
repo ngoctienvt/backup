@@ -104,7 +104,7 @@
             - **Adjusts coaching approach** in response to the client’s needs
             - **Invites client to share more about their in-the-moment experience**
             - **Helps the client identify factors that influence current and future patterns** of behavior, thinking or emotion 
-            - **Notices what is working for the client** to enhance client progress [succes factors](<succes factors.md>)
+            - **Notices what is working for the client** to enhance client progress [Success Factors](<Success Factors.md>)
             - [crafting customized coaching questions](<crafting customized coaching questions.md>)
                 - **Ask questions about the client,** such as their **way of thinking, values, needs, wants and beliefs** [coaching the who](<coaching the who.md>)
                 - **Asks questions** that help the client **explore beyond current thinking** 
