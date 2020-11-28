@@ -28,20 +28,6 @@
             - Design PKDS training program
                 - Learning [instructional design](<instructional design.md>)
 - ## [Focus of the week](<Focus of the week.md>)
-    - [ ] Review for the last 3 months
-    - [ ] Planning for next few months
-        - Process and system developing
-        - Learning
-            - Coaching
-            - ID
-            - Spiritual
-        - Creating
-            - Blog
-            - Articles
-            - Training courses
-        - Doing
-            - Teaching
-            - Coaching
     - "[ ] Work on [The Engineer MOC](<The Engineer MOC.md>)"
     - "[ ] Developing [Creating phase](<Creating phase.md>)"
 - ## [Today Focus](<Today Focus.md>)
@@ -57,10 +43,6 @@
 - [min-all](<min-all.md>) {{[query](<query.md>): {and: [TODO](<TODO.md>)
 
 ## [TODO](<TODO.md>)
-- {{[TODO](<TODO.md>)}
-
-- {{[TODO](<TODO.md>)}
-
 - {{[TODO](<TODO.md>)}
 
 - {{[TODO](<TODO.md>)}

@@ -1,8 +1,12 @@
 - [[Tag usage]]
-    - One is plan the tagging system
+    - One is plan the tagging system 
+        - Type of tags
+        - Usages
     - Second is plan how to tag
-- [[weekly reflection]]
-    - Highlights
+        - Daily journal tag
+        - Reference tag
+- [[weekly reflection]] 
+    - Highlights this week
         - Clarify and connect my horizons of focus
         - Develop the concept about abstract and concrete. 
             - Realize that I'm an natural abstract thinker
@@ -10,4 +14,21 @@
         - Start to build my productivity system and workflow more clearly
         - Learn to release the sexual needs and the samskaras that I'm unable to handle which lead to the need to control other people.
         - Redefining the meaning of [[true relationship]] and [[true love]]
-        - 
+        - Learn about clarity
+        - Start to work on [[Creating phase]]
+    - Review for the last 3 months
+    - 
+    - Planning for next few months
+        - Process and system developing
+        - Learning
+            - Coaching
+            - ID
+            - Spiritual
+        - Creating
+            - Blog
+            - Articles
+            - Training courses
+        - Doing
+            - Teaching
+            - Coaching
+    - 

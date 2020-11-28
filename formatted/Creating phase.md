@@ -9,6 +9,9 @@
 ## [November 27th, 2020](<November 27th, 2020.md>)
 - external concrete -> internal abstract -> internal concrete [Creating phase](<Creating phase.md>)
 
+## [November 28th, 2020](<November 28th, 2020.md>)
+- Start to work on [Creating phase](<Creating phase.md>)
+
 ## [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
 - [Creating phase](<Creating phase.md>)
 

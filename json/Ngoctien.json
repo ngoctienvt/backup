@@ -4446,126 +4446,6 @@
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606101921641,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606211748054,
-            "string": "{{[[TODO]]}} Review for the last 3 months",
-            "uid": "8sL2UBBQu"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606102167395,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606211748054,
-                "string": "Process and system developing",
-                "uid": "JIhz0xEJS"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102176164,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "Coaching",
-                    "uid": "mhGmCAROG"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102177792,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "ID",
-                    "uid": "IPpnDipsD"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102178577,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "Spiritual",
-                    "uid": "izSzzGEfN"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606102131688,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606211748054,
-                "string": "Learning",
-                "uid": "ZRR_r3wj9"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102190921,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "Blog",
-                    "uid": "blr22IhCE"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102193914,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "Articles",
-                    "uid": "J0alLUPrL"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102196016,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "Training courses",
-                    "uid": "_pUaY127U"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606102134372,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606211748054,
-                "string": "Creating",
-                "uid": "ZQQ5sV2Kj"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102202696,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "Teaching",
-                    "uid": "0jQ5yMvXj"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606102205905,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606211748054,
-                    "string": "Coaching",
-                    "uid": "W1aIhYisQ"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606102135590,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606211748054,
-                "string": "Doing",
-                "uid": "n5ME_TNsB"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606101813875,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606211748054,
-            "string": "{{[[TODO]]}} Planning for next few months",
-            "uid": "QO2K1EeFA"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606358519971,
             "edit-email": "ngoctienvt@gmail.com",
             "edit-time": 1606358519971,
@@ -53697,14 +53577,50 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606530640126,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606530647488,
+                "string": "Type of tags",
+                "uid": "ex2JH78wz"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606530641301,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606530642746,
+                "string": "Usages",
+                "uid": "FFTA1q8WD"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606529547396,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606529556627,
-            "string": "One is plan the tagging system",
+            "edit-time": 1606530639765,
+            "string": "One is plan the tagging system ",
             "uid": "D9IVBAYcu"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606530659878,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606530677850,
+                "string": "Daily journal tag",
+                "uid": "-LlDk30Lh"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606530667677,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606530685098,
+                "string": "Reference tag",
+                "uid": "mpJMA5eZd"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606529556618,
             "edit-email": "ngoctienvt@gmail.com",
@@ -53786,24 +53702,168 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1606529525816,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606529540616,
-                "string": "",
+                "edit-time": 1606530708928,
+                "string": "Learn about clarity",
                 "uid": "y5MOAZG_n"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606530708924,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606530776335,
+                "string": "Start to work on [[Creating phase]]",
+                "uid": "IFaZYbZrS"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606529155375,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606529187258,
-            "string": "Highlights",
+            "edit-time": 1606530919300,
+            "string": "Highlights this week",
             "uid": "ISJBdcrCU"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101921641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606530888280,
+            "string": "Review for the last 3 months",
+            "uid": "8sL2UBBQu"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606530912310,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606530912310,
+            "string": "",
+            "uid": "OnPk4BME-"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102167395,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606211748054,
+                "string": "Process and system developing",
+                "uid": "JIhz0xEJS"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102176164,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "Coaching",
+                    "uid": "mhGmCAROG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102177792,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "ID",
+                    "uid": "IPpnDipsD"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102178577,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "Spiritual",
+                    "uid": "izSzzGEfN"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102131688,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606211748054,
+                "string": "Learning",
+                "uid": "ZRR_r3wj9"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102190921,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "Blog",
+                    "uid": "blr22IhCE"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102193914,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "Articles",
+                    "uid": "J0alLUPrL"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102196016,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "Training courses",
+                    "uid": "_pUaY127U"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102134372,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606211748054,
+                "string": "Creating",
+                "uid": "ZQQ5sV2Kj"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102202696,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "Teaching",
+                    "uid": "0jQ5yMvXj"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606102205905,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606211748054,
+                    "string": "Coaching",
+                    "uid": "W1aIhYisQ"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606102135590,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606211748054,
+                "string": "Doing",
+                "uid": "n5ME_TNsB"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606101813875,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606530892397,
+            "string": "Planning for next few months",
+            "uid": "QO2K1EeFA"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606530838005,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606530838005,
+            "string": "",
+            "uid": "oxwD2lXls"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606529135780,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606529153774,
-        "string": "[[weekly reflection]]",
+        "edit-time": 1606530908177,
+        "string": "[[weekly reflection]] ",
         "uid": "_EZw7SnDk"
       }
     ],
