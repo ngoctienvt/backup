@@ -1,5 +1,8 @@
 
 # Backlinks
+## [November 28th, 2020](<November 28th, 2020.md>)
+- I don't need to persuade other people to follow the spiritual path. I could just help them to know what's truth and what's possible, they will be the one who realize and choose what they truly one [inspiration](<inspiration.md>)
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - The reason why I like to write things on Facebook or chat with others is to put down the thoughts inside my head and to get recognition from other people and sometimes hope that it will inspire or make someone interested in my ideas. [recognition](<recognition.md>) [externalization](<externalization.md>) [inspiration](<inspiration.md>)
 

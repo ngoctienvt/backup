@@ -38,4 +38,10 @@
                 - my uniqueness
             - and the unfolding process of reality
         - Have the ability to zoom-out and see big pictures easily
-        - 
+- [master coach](<master coach.md>)
+    - Two most important characteristics of a master coach
+        - The level that they can listen
+        - The level of they know that what's possible
+- I don't need to persuade other people to follow the spiritual path. I could just help them to know what's truth and what's possible, they will be the one who realize and choose what they truly one [inspiration](<inspiration.md>)
+- I noticed that I'm going beyond today myself much more. I'm doing what I feel as a bother and I don't want to do, I allow myself to surrender to it and let it go, so that I can do what life requires me to do.[bothering](<bothering.md>)
+- 

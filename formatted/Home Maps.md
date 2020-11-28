@@ -3,16 +3,15 @@
     - Be the blessing of the world
 - # Home Maps
 - [Life Polestar](<Life Polestar.md>)
-- [Projects MOC](<Projects MOC.md>)
-- ### Priority MOC
-- [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [Productivity System MOC](<Productivity System MOC.md>)
-- ### Low priority MOC
-- [Coaching MOC](<Coaching MOC.md>)
-- [Training MOC](<Training MOC.md>)
-- [Spiritual MOC](<Spiritual MOC.md>)
-- [People](<People.md>)
-- [Resources](<Resources.md>)
-- Smaller MOC working on
-    - [Area of Focus](<Area of Focus.md>)
-    - 
+    - [Spiritual MOC](<Spiritual MOC.md>)
+- Life Dharma
+    - [Coaching MOC](<Coaching MOC.md>)
+    - [Training MOC](<Training MOC.md>)
+- ### System
+    - [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+    - [Productivity System MOC](<Productivity System MOC.md>)
+        - [Area of Focus](<Area of Focus.md>)
+        - [Projects MOC](<Projects MOC.md>)
+- ### Resources
+    - [People](<People.md>)
+    - [Resources](<Resources.md>)
