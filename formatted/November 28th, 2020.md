@@ -16,19 +16,29 @@
         - Redefining the meaning of [true relationship](<true relationship.md>) and [true love](<true love.md>)
         - Learn about clarity
         - Start to work on [Creating phase](<Creating phase.md>)
-    - Review for the last 3 months
-    - 
-    - Planning for next few months
-        - Process and system developing
-        - Learning
+    - Focus for next week
+    - [Planning](<Planning.md>) for next few months
+        - Complete PKDS
+        - Complete and transition myself to a productive life
+        - Build solidify foundation for
+            - Thinker
             - Coaching
-            - ID
             - Spiritual
+            - Training
+            - Writing/ Blogging
         - Creating
-            - Blog
-            - Articles
-            - Training courses
-        - Doing
-            - Teaching
-            - Coaching
-    - 
+            -  Build PKDS training course
+            - Build a personal blog
+            - Write blog posts consistently
+        - Teaching a PKDS class
+        - Playing Mage Knight boardgame
+    - [Review](<Review.md>) for the last 3 months
+        - I used Roam Research extensively, and I progressed so much by this
+            - From nowhere to progress my thinking in a natural and progressive way
+            - Forming some directions, some important works and concepts that shaping myself into
+                - an abstract thinker
+                - a trainer
+                - a spiritual practitioner
+                - a productive person
+                - an international blogger
+            - I start to be able to do some big projects but able to store the work, so that I could upgrade them according with my growth by PKDS.
