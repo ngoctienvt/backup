@@ -1,0 +1,3 @@
+- https://www.embodiedphilosophy.com/what-is-dharma/
+- In Hinduism, dharma is simultaneously the eternal order that rules the universe and the duty or law that governs one’s life. Fulfilling one’s dharma is more than simply one’s purpose in life – it is considered the very means by which one transcends suffering and the cycle of birth and death, or what is called __saṃsāra__.
+- 

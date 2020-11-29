@@ -7,6 +7,9 @@
         - develop the above stars to become civilization or bigger stars and start to form its true shapes.
 
 # Backlinks
+## [November 29th, 2020](<November 29th, 2020.md>)
+- The importance of [personal knowledge development](<personal knowledge development.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - I also learn to create my own [personal knowledge development](<personal knowledge development.md>)
 
