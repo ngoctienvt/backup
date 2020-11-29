@@ -54234,9 +54234,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606622127260,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606622127260,
-        "string": "",
+        "edit-time": 1606666025586,
+        "string": "[[coaching reflection]] Today I learned that it's easier to support people to work on concrete examples first, instead of work on abstract level or too general that makes them feel hard to process. It's very important to connect with clients deeply, especially their way of being - their learning styles, their way of thinking,.. [[client's way of being]]",
         "uid": "XHlMCWSUL"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606664892322,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606664892322,
+        "string": "",
+        "uid": "Kh3wsqeLv"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -54292,5 +54300,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606652683352,
     "title": "Dharma duties"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606666025588,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606666025597,
+    "title": "client's way of being"
   }
 ]
