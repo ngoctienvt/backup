@@ -5,6 +5,9 @@
 
 - [scheduling](<scheduling.md>)
 
+## [November 29th, 2020](<November 29th, 2020.md>)
+- I need to re-thinking about my concept of [scheduling](<scheduling.md>).
+
 ## [Roam Research keyword rules](<Roam Research keyword rules.md>)
 - capitalize [scheduling](<scheduling.md>)
 

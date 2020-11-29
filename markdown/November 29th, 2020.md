@@ -10,6 +10,6 @@ The purpose of life is now, at the moment, not at somewhere that I need to find.
 
 Thoughts are what I need to let go or transcend continuously, not what I need to trust and sustain it. It needs to serve me, not I need to serve it.
 - The importance of [[personal knowledge development]] is the creating your own connections instead of learn from someone else. The connection that you created by yourself will be sustained by you, and evolved by you.
-- 
+- I need to re-thinking about my concept of [[scheduling]]. It will not be the period of time that I wait other people and waste my time on that period of time. I could just should 
 - 
 - 
