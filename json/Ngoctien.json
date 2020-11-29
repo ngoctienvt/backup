@@ -54184,9 +54184,25 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606620745002,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606622126425,
-        "string": "I noticed that I get stuck because some of the small things has not process properly yet, and I'm trying to work on the big tasks at once, that's making me feel stress and hard to focus. ",
+        "edit-time": 1606652363422,
+        "string": "I noticed that I get stuck because some of the small things has not process properly yet, and I'm trying to work on the big tasks at once, that's making me feel stress and hard to focus. [[breakdown]]",
         "uid": "gtdTp0mqZ"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606652365377,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606652480310,
+        "string": "I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [[Top-down Approach MOC]] [[big picture thinking]] [[fill-in strategy]]",
+        "uid": "QFNf9Jg04"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606652435033,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606652535363,
+        "string": "My whole interest now is about how to bring the uniqueness inside of myself and other people to serve their",
+        "uid": "i8cPHkrWk"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -54210,5 +54226,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606610914473,
     "title": "November 29th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606652471902,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606652480310,
+    "title": "fill-in strategy"
   }
 ]

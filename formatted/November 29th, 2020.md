@@ -1,4 +1,6 @@
 - I feel that my mind is still unclear and distracting, I don't know what I need to focus on at the moment or what I need to resolve, and how to resolve it now. For example, I need to work on the plane MOC to clear about how I will execute the pilot, but I don't know clearly what I want here, what I need to resolve, and how to relate them to each other. I will need to have a meditation about this.
-- I noticed that I get stuck because some of the small things has not process properly yet, and I'm trying to work on the big tasks at once, that's making me feel stress and hard to focus. 
+- I noticed that I get stuck because some of the small things has not process properly yet, and I'm trying to work on the big tasks at once, that's making me feel stress and hard to focus. [breakdown](<breakdown.md>)
+- I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [Top-down Approach MOC](<Top-down Approach MOC.md>) [big picture thinking](<big picture thinking.md>) [fill-in strategy](<fill-in strategy.md>)
+- My whole interest now is about how to bring the uniqueness inside of myself and other people to serve their
 - 
 - 

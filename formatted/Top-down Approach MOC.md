@@ -25,6 +25,9 @@
 
 - Tagging all the notes we want to review for a project could make our choices easier, by **creating a boundary** around the information we’ll consider before taking action. [Top-down Approach MOC](<Top-down Approach MOC.md>)
 
+## [November 29th, 2020](<November 29th, 2020.md>)
+- I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [Top-down Approach MOC](<Top-down Approach MOC.md>)
+
 ## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 - [Top-down Approach MOC](<Top-down Approach MOC.md>)
 
