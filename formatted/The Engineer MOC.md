@@ -3,6 +3,7 @@
 - Environment
     - [Working Zone MOC](<Working Zone MOC.md>)
     - [workplace](<workplace.md>) - environment
+        - [Expanding questions](<Expanding questions.md>)
 - External [Support System MOC](<Support System MOC.md>)
     - ### Tools
         - [workplace](<workplace.md>)

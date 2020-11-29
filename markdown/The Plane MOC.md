@@ -3,24 +3,24 @@
     - [[Newton's first law of motion]]
     - [[snowball effect]]
     - clarity
-- ### How to execute productively
     - start the work - overcoming the gravity of the mind
-        - clarity on end goals and how to do for the work?
         - [[time-blocking]]
             - Weekly Planning and Daily Planning
         - [[overcoming inertia]] 
             - Only work for 5 minutes
-            - Preparing [[admin tasks]] for the main work
-    - stay the course and handle blockages/ distractions
-        - maintain the focus with [[Flow State MOC]]
-            - handle blockages/ distractions
-                - overcome stuck
-                    - journal thoughts/ ideas/ problems...
-                    - meditation
-                - [[distraction management]] 
-                    - internal distractions
-                        - accumulated stress
-                    - external distractions
+- ### How to execute productively
+    - Pre-flight
+        - Clarify goals and list of tasks
+            - Planning projects
+        - Handle [[admin tasks]] for the main work if needed
+            - Preparing materials/ set-up/ water...
+            - Process raw materials
+    - While-flight
+        - stay the course with [[Flow State MOC]]
+        - handle blockages
+            - overcome stuck
+                - journal thoughts/ ideas/ problems...
+                - meditation
         - [[course correcting]] 
-    - land safely
+    - Landing safely
         - review, relax, release, relearn

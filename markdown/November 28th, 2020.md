@@ -16,7 +16,6 @@
         - Redefining the meaning of [[true relationship]] and [[true love]]
         - Learn about clarity
         - Start to work on [[Creating phase]]
-    - Focus for next week
     - [[Review]] for the last 3 months
         - I used Roam Research extensively, and I progressed so much by this
             - From nowhere to progress my thinking in a natural and progressive way

@@ -1,19 +1,22 @@
+- Flow State will happen easier if
+    - There is a clear clarity for execution instead of stopping for thinking
+    - The tasks are challenged enough to maintain focus and engagement
+    - The absence of distraction (internal and external)
+    - The short-term built-in feedback loop for constant reflection
 - [[Conditions for flow]]
-    - convergence focus
-        - inner clarity
-            - knowing what to do next
-            - knowing how to do it
-            - one single type of task 
-                - removing unnecessary tasks. For ex, if dumping thoughts then no need to care about grammar, wordings. 
-        - stretch zone
-            - high perceived challenge and high perceived skills
-    - freedom from internal and external distractions
+    - [[inner clarity]]
+        - knowing what to do next
+        - knowing how to do it
+        - one single type of task 
+            - removing unnecessary tasks. For ex, if dumping thoughts then no need to care about grammar, wordings. 
+        - Breakdown so they can finish in 1 go
+        - Clarify outcomes and possible connections
+    - stretch zone
+        - high perceived challenge and high perceived skills
+    - [[distraction management]]
         - internal (thoughts, emotions, inner urges...)
         - external (phone, facebook, other people...)
-    - good structure
-        - balance between [[focus mode]] and [[diffuse mode]]
-            - proper relax and refocus
-            - stress-releasing
-                - no stress accumulation
-        - short-term built-in feedback loop
-            - clear and immediate feedback
+        - maintain clarity
+        - handle stress accumulation
+    - short-term built-in feedback loop
+        - clear and immediate

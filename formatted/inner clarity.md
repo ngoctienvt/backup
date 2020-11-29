@@ -8,6 +8,9 @@
 ## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - [inner clarity](<inner clarity.md>)
 
+## [Flow State MOC](<Flow State MOC.md>)
+- [inner clarity](<inner clarity.md>)
+
 ## [November 26th, 2020](<November 26th, 2020.md>)
 - Now I'm still not clear about clarity with the tasks and what I need to do, this will be main focus for tomorrow. It's about [inner clarity](<inner clarity.md>)
 

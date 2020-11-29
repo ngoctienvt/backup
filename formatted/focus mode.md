@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Flow State MOC](<Flow State MOC.md>)
-- balance between [focus mode](<focus mode.md>)
-
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - There are a time for bottom-up [diffuse mode](<diffuse mode.md>) and time for top-down [focus mode](<focus mode.md>)
 

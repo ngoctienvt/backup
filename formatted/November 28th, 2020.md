@@ -16,7 +16,6 @@
         - Redefining the meaning of [true relationship](<true relationship.md>) and [true love](<true love.md>)
         - Learn about clarity
         - Start to work on [Creating phase](<Creating phase.md>)
-    - Focus for next week
     - [Review](<Review.md>) for the last 3 months
         - I used Roam Research extensively, and I progressed so much by this
             - From nowhere to progress my thinking in a natural and progressive way

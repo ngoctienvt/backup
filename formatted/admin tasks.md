@@ -7,5 +7,5 @@
 - [admin tasks](<admin tasks.md>)
 
 ## [The Plane MOC](<The Plane MOC.md>)
-- Preparing [admin tasks](<admin tasks.md>)
+- Handle [admin tasks](<admin tasks.md>)
 
