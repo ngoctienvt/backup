@@ -52,6 +52,9 @@
 ## [November 27th, 2020](<November 27th, 2020.md>)
 - It is exactly what a [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 
+## [November 30th, 2020](<November 30th, 2020.md>)
+- [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+
 ## [Productivity System MOC](<Productivity System MOC.md>)
 - ### [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
 

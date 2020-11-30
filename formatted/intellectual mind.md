@@ -40,7 +40,7 @@ This really helps to pick up the task where we at without the need to keep in ou
 
 - We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>)
 
-- We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>) to expand the [wisdom](<wisdom.md>) of the world. We are so lost in [personal agenda](<personal agenda.md>) that we don't know the truth is everything we learned now is the wisdom that accumulated and built from bottom-up by the exploration of the [intellectual mind](<intellectual mind.md>)
+- We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>) to expand the [Wisdom](<Wisdom.md>) of the world. We are so lost in [personal agenda](<personal agenda.md>) that we don't know the truth is everything we learned now is the wisdom that accumulated and built from bottom-up by the exploration of the [intellectual mind](<intellectual mind.md>)
 
 ## [journaling training](<journaling training.md>)
 - We all have an [intellectual mind](<intellectual mind.md>)

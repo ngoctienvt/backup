@@ -5,7 +5,7 @@ I also noticed that my coaching is heavily a learning process, instead of proble
     - Finishing edit video 7
     - Coaching reflection deeply in next few days
     - Planning to learn [[Courses - Effortless Output with Roam]]
-- I also noticed that I'm on a stage breaking my mind limit, so that it could not make me trust to the information that it drew from my past experiences. [[limiting thoughts]]. I'm so naïve to trust it based on its statically insignificant data. [[wisdom]]
+- I also noticed that I'm on a stage breaking my mind limit, so that it could not make me trust to the information that it drew from my past experiences. [[limiting thoughts]]. I'm so naïve to trust it based on its statically insignificant data. [[Wisdom]]
 
 If I want to know something, I need to be the one who really check it and [[getting in touch with reality]], not listen to the [[limiting thoughts]] of my mind. [[current working]]
 - I also on a transition stage that replacing my old [[habit-formed will]] to a new direction that is more helpful and supportive for my [[spiritual growth]]. [[current working]]

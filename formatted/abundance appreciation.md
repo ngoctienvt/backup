@@ -32,7 +32,7 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 will actually use. [abundance appreciation](<abundance appreciation.md>)
 
 ## [October 25th, 2020](<October 25th, 2020.md>)
-- When using logseq with lots of bug that makes me feel [inconvenient](<inconvenient.md>) of workflow, it's really a good opportunity for me to learning to let go this [need for convenient](<need for convenient.md>) and learning to have an [abundance appreciation](<abundance appreciation.md>)
+- When using logseq with lots of bug that makes me feel [inconvenient](<inconvenient.md>) of workflow, it's really a good opportunity for me to learning to let go this [need for convenience](<need for convenience.md>) and learning to have an [abundance appreciation](<abundance appreciation.md>)
 
 ## [October 27th, 2020](<October 27th, 2020.md>)
 - I would like to develop a established [trust the process](<trust the process.md>) attitude, and everything is on their process of better, and even learn to have an [abundance appreciation](<abundance appreciation.md>)

@@ -9,7 +9,7 @@ There is also a [[need for recognition]] that I haven't resolved fully yet. This
     - emotions - the piano that can play any notes
     - inner thoughts - the radio 
     - If we want to run away from it to have freedom, that's freedom always temporary and never sustainable because you are just temporary distracting yourself from that. [[freedom]] [[distraction]]
-- [[wisdom]] is not simply the truth because there is different levels of truth that we can see. Wisdom here is the insights that you can draw from the [[situational context]] that you experiences to see the wholer picture. 
+- [[Wisdom]] is not simply the truth because there is different levels of truth that we can see. Wisdom here is the insights that you can draw from the [[situational context]] that you experiences to see the wholer picture. 
 
 To see the higher truth all the time and only keeps higher because you merge the experiences to each other. It's just actually become wholer and there will be no limit for that. The only limit is your ability to handle that level of truth. [[level of development]] 
 

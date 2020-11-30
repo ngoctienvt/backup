@@ -27,7 +27,7 @@
 - letting go [personal agenda](<personal agenda.md>)
 
 ## [human mind](<human mind.md>)
-- We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>) to expand the [wisdom](<wisdom.md>) of the world. We are so lost in [personal agenda](<personal agenda.md>)
+- We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>) to expand the [Wisdom](<Wisdom.md>) of the world. We are so lost in [personal agenda](<personal agenda.md>)
 
 - Our need to [feel good](<feel good.md>) inside makes us using our mind for [personal agenda](<personal agenda.md>)
 

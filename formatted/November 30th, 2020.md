@@ -2,4 +2,8 @@
 - Productivity is about making tools adapt to your needs, not making us adapt to what tools could do. [focus on what matters](<focus on what matters.md>)
 - When teaching, Michael Singer uses examples, analogies, or metaphors to help students learn directly. So it's not just examples, but it's actually an activity that we can try on, but this activity is happening through his talks by making us visualize that situation.
 - We can't just love the stillness of the ocean, and hate the times when ocean has storms. We need to love things as a whole. #[Evergreen notes](<Evergreen notes.md>)
--  
+- [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+    -  In the learning phase, the first step is collecting raw materials, then start to breakdown and process these materials to emerge the structure
+    - Then from the new emerge structure, I will reorganize the information and gain the insights in an hierarchy way
+    - The whole point is to gain the insights to deepen my understanding, and don't let my [need for convenience](<need for convenience.md>) to copy other people's accomplishments. Because it could work on short-term gaining, but hinder long-term development.
+- Ability to think deep + Ability to simplify = Wisdom [Wisdom](<Wisdom.md>)

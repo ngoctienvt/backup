@@ -3,7 +3,7 @@
     - Two is about school and become tough to deal with other people. I felt that I'm raising myself over all of the notion about how things should be, all of the moral ethics, and the structure that try to control us. [[spiritual growth]] [[soul evolution]] [[transcendence]]
 - In this morning, I didn't hear the alarm so I woke up later, but I realized that I still think about what I need to do next. And my tendency is to drown back to the sea of thoughts and dreams. Instead of raising myself and disconnect with it to do my [[Morning Rituals MOC]] [[transcendence]].
 - My today focus would be about:
-    - {{[[DONE]]}} preparing a little bit sharing about [[freedom]] and [[wisdom]] on Saturday [[sharing about true happiness]] [[true happiness]]
+    - {{[[DONE]]}} preparing a little bit sharing about [[freedom]] and [[Wisdom]] on Saturday [[sharing about true happiness]] [[true happiness]]
     - {{[[DONE]]}} continuing reading [[Book - How to take smart notes]]
 - I fall asleep after this [[Morning Rituals MOC]], I am not able to keep myself awake and get used to the wake up stage. I want to work on this more to keep my consciousness awake on a longer period of times. It would relate to [[energy management]] and nurture my consciousness [[willpower]] to remain the ability to conscious more. This would be more about [[spiritual energy]] and a part of [[physical energy]]. [[nurturing the wake up state of consciousness]]
 - I still have an attachment for my Ode to Heroes account that I don't want it to be below what it could be and react with other people behaviors to bring it below my standard. [[personal standards]] versus [[impersonal standards]]

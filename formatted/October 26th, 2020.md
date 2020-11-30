@@ -1,6 +1,6 @@
 - Last night I could felt that my heart started to truly open and also bring me to a higher place. That feeling is so good and I want to keep to feel it more. [inner flow of energy](<inner flow of energy.md>)
 - My [physical body](<physical body.md>) feel cold and I think it need to keep warm.
-- I have the urge to buy a webcam for my PC because of the [need for convenient](<need for convenient.md>). But I don't want to follow that urge. I will buy if I use this more often. [the middle way](<the middle way.md>)
+- I have the urge to buy a webcam for my PC because of the [need for convenience](<need for convenience.md>). But I don't want to follow that urge. I will buy if I use this more often. [the middle way](<the middle way.md>)
 - [inner flow of energy](<inner flow of energy.md>)
     - damn removal
         - ### {{[youtube](<youtube.md>): https://www.youtube.com/watch?v=yXI1P09Kkrw&ab_channel=WorldEconomicForum}}
@@ -34,7 +34,7 @@
 where they are]] 
 
 I felt that my coaching is not fully releasing myself and helping clients to shine their own way yet. I still feel I'm trying to do too much. 
-- I felt my uncomfortable feeling for my usual routine is disturbed [need for convenient](<need for convenient.md>). I do not totally surrender myself to the [flow of life](<flow of life.md>) yet.
+- I felt my uncomfortable feeling for my usual routine is disturbed [need for convenience](<need for convenience.md>). I do not totally surrender myself to the [flow of life](<flow of life.md>) yet.
 - [Articles - Your Life Isn’t Defined By Your Choices, It’s Defined By Your Reactions](<Articles - Your Life Isn’t Defined By Your Choices, It’s Defined By Your Reactions.md>)
 - [Articles - 7 Skills That Will Make You Emotionally Strong](<Articles - 7 Skills That Will Make You Emotionally Strong.md>)
 - 

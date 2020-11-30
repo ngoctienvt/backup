@@ -22,5 +22,5 @@
 - It seems like for buying necessary things. Half of the price that I feel comfortable to pay is a good way to make choice. [the middle way](<the middle way.md>)
 
 ## [October 26th, 2020](<October 26th, 2020.md>)
-- I have the urge to buy a webcam for my PC because of the [need for convenient](<need for convenient.md>). But I don't want to follow that urge. I will buy if I use this more often. [the middle way](<the middle way.md>)
+- I have the urge to buy a webcam for my PC because of the [need for convenience](<need for convenience.md>). But I don't want to follow that urge. I will buy if I use this more often. [the middle way](<the middle way.md>)
 
