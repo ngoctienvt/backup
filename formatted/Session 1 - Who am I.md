@@ -1,100 +1,101 @@
 - ## Introduction
     - The **first step in learning how to surrender** is to **understand who in there is doing the surrendering.** The world and our thoughts are **so distracting** that it is **difficult to attain clarity of self.** It turns out that the question “Who am I?” is very deep. In this session, we will explore who we are and what our relationship is to our thoughts, emotions, and the outside world. Things may not be as they seem. 
     - **Are you ready to take an objective look within?**
-- ## Lessons 
-    - ### What's important to learn about surrender is
-        - first is about learning who is surrendering?
-        - second is the willingness to open up and take this journey to explore true surrender
-    - ### Who is surrendering?
-        - The relationship between consciousness and the objects of consciousness
-            - subject and object relationship 
-                - We - the subject - the consciousness is the one who is looking
-                - The object of consciousness is the object that are looked by the consciousness.
-                - [thought-experiment](<thought-experiment.md>) Show the pictures of different people, and demonstrate that we are the one who are looking - not the picture that we see.
-            - Learning that we are the only subject, the rest are just the objects of consciousness
-                - Your body, your thoughts and your motions is just the object that you can see, but you are not them
-                    - [thought-experiment](<thought-experiment.md>) to prove that you are not your body
-                        - Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.
-                        - Your body also changes through times and ages, but the same you who are in there seeing it change.
-                        - Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.
-                            - We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness
-            - Learning that we don't look the objects outside, we look the objects inside
-                - how we see things by the bouncing of lights examples
-                - we are living in an illusion by looking at a TV screen inside our mind
-        - In order to growth spiritually, we need to learn to notice who we, who we are not and what we do
-            - The first step is to realize there is an object we pay attention to
-            - The second is to realize there is an act of attention is what falling on the object.
-            - Third, realizing that I am the one who is looking, not the one I am looking at.
-    - ### How to find the way back to ourselves?
-        - Ramana Maharshi taught his students about his entire spiritual path is question about our own existence [self-realization](<self-realization.md>)
-            - Who see when I see?
-            - Who hear when I hear?
-            - Who feel when I feel?
-            - Who is this that in here?
-        - We can't find ourselves outside
-            - We - the one who is looking is the one we need to pay attention to.
-            - The spiritual path is not about finding ourselves, it's about coming back to the seat of self.
-        - When we lost ourselves, we need to center back to the seat of awareness by asking 
-            - about ourselves " Who is aware?" 
-            - and then "What are we aware of?"
-    - ### Other [thought-experiment](<thought-experiment.md>) to actively experience who we are truly and challenge who we think we are
-        - intuitively feel and let the question touch us
-            - How old is the consciousness?
-            - What genders is the consciousness?
-        - gender-changing experiment to demonstrate that we can't have genders if we don't have body parts
-        - dream example - who is seeing the dream?
-    - ### What and how the course will teach us?
-        - First is teaching us about who we are and challenge us to let go of who we think we are?
-            - Are you willing to let go of who you thought you were?
-        - By learning about who we are, and the characteristics of the things we thought we are
-            - We will feeling much more center on who we are looking, not center on what we're looking at.
-            - Understanding about why we don't feel center on ourselves?
-            - Learn to identify with ourselves instead of the things that not ourselves
-                - "When the body die, will we still in there?"
-                    - This is the free-of-charge excitng experiment that we will find out the answer when that time comes.
-                    - Because it's either we are not there to know, or we will be there to know what happens.
-                    - The reason why we have problems with death is that we identify and project our sense of self to the things that not ourselves. And that's why we fear it will be taken away.
-    - ### After noticing about who we are, then discuss about what we feel when in there?
-        - Honest answer - sometimes is good, sometimes is not
-        - Teaching the truth that
-            -  it could always be nice in there  
-                - the nicest times we used to experience multiply with million, and always stay there and higher.
-                - It's a beautiful place to live, except for something making it not be. A not-well-management house. Just need to clean up.
-        - Therefore, the approach is not about how to make it great in there?
-            - It's about understanding  "What's making it's not nice in there?" 
-            - and then get rid of that reason, it will comeback to its natural state.
-        - There are only 3 things that we experience when we in there
-            - The outside world that's coming through body senses
-            - The thoughts that created by the mind
-            - The emotions that created by the heart
-    - ### The conspiracy theory
-        - Buddha taught that's "Life is suffering"
-            - Because there will be some moments that are not suffering
-            - But most of the times, we will be trick by the conspiracy theory of what we experience, because they are sync up with each other.
-                - the world's coming in
-                - the thought's stimulated
-                - and the emotions are following or even leading
-            - We don't know much about them or the sequences of them, but we are in there struggling and trying to be okay. And everything we do in our life is trying to be okay.
-    - ### In summary, the course will discuss great details about 
-        - the 3 things we experience and distract ourselves to ourselves, 
-        - but the most important thing is us,  
-            - What is our nature?
-            - What it feels like when sit back and be the awareness?
-            - Spiritual is about not getting distracted out of ourselves by 3 things that we can experiences
-                - The light of awareness instead of shine on the objects of consciousness, it's learning to shine on itself.
-                - The highest path is learning to gradually in the normal circumstances of life, 
-                    - let go of what distracting our consciousness
-                    - and eventually attain the seat of permanence - establish on the seat of self
-                    - and then live our life
-        - "The peace that pass all of understanding".
 - ## Self-summary
-    - The key points of session one
-        - Learning who we are and the relationship with what we think we are
-            - Simple techniques to realize who we are
-            - The challenge for comeback to who we are
-        - Realizing what we feel when we in there
+    - ### The key points of session one
+        - The condition for learning surrendering - the willingness to open and take the journey
+        - The first part is learning the most important thing of learning about surrendering is 
+            - Who is surrendering and what that person do?
+                - Learning who we are and the relationship with what we think we are
+                    - The relationship between consciousness and the objects of consciousness
+                        - subject and object relationship 
+                            - We - the subject - the consciousness is the one who is looking
+                            - The object of consciousness is the object that are looked by the consciousness.
+                            - [thought-experiment](<thought-experiment.md>) Show the pictures of different people, and demonstrate that we are the one who are looking - not the picture that we see.
+                        - Learning that we are the only subject, the rest are just the objects of consciousness
+                            - Your body, your thoughts and your motions is just the object that you can see, but you are not them
+                                - [thought-experiment](<thought-experiment.md>) to prove that you are not your body
+                                    - Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.
+                                    - Your body also changes through times and ages, but the same you who are in there seeing it change.
+                                    - Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.
+                                        - We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness
+                        - Learning that we don't look the objects outside, we look the objects inside
+                            - how we see things by the bouncing of lights examples
+                            - we are living in an illusion by looking at a TV screen inside our mind
+            - In order to growth spiritually, we need to learn to notice who we, who we are not and what we do
+                - The first step is to realize there is an object we pay attention to
+                - The second is to realize there is an act of attention is what falling on the object.
+                - Third, realizing that I am the one who is looking, not the one I am looking at.
+            - Some simple techniques to realize who we are
+                - ### How to find the way back to ourselves?
+                    - Ramana Maharshi taught his students about his entire spiritual path is question about our own existence [self-realization](<self-realization.md>)
+                        - Who see when I see?
+                        - Who hear when I hear?
+                        - Who feel when I feel?
+                        - Who is this that in here?
+                    - We can't find ourselves outside
+                        - We - the one who is looking is the one we need to pay attention to.
+                        - The spiritual path is not about finding ourselves, it's about coming back to the seat of self.
+                    - When we lost ourselves, we need to center back to the seat of awareness by asking 
+                        - about ourselves " Who is aware?" 
+                        - and then "What are we aware of?"
+                - ### Other [thought-experiment](<thought-experiment.md>) to actively experience who we are truly and challenge who we think we are
+                    - intuitively feel and let the question touch us
+                        - How old is the consciousness?
+                        - What genders is the consciousness?
+                    - gender-changing experiment to demonstrate that we can't have genders if we don't have body parts
+                    - dream example - who is seeing the dream?
+        - The second part is learning about 
+            - What's like to be in there?
+                - Honest answer - sometimes is good, sometimes is not
+            - Why it's not nice to be in there
+                - 3 things that affect our experience when we in there
+                    - The outside world that's coming through body senses
+                    - The thoughts that created by the mind
+                    - The emotions that created by the heart
+                - The challenge for comeback to who we are
+            - What's the truth? or What's possible?
+                - The truth is it could always be nice in there  
+                    - the nicest times we used to experience multiply with million, and always stay there and higher.
+                    - It's a beautiful place to live, except for something making it not be. A not-well-management house. Just need to clean up.
+            - What's the challenge?
+                - ### The distraction and the conspiracy theory
+                    - Buddha taught that's "Life is suffering"
+                        - Because there will be some moments that are not suffering
+                        - But most of the times, we will be trick by the conspiracy theory of what we experience, because they are sync up with each other.
+                            - the world's coming in
+                            - the thought's stimulated
+                            - and the emotions are following or even leading
+                        - We don't know much about them or the sequences of them, but we are in there struggling and trying to be okay. And everything we do in our life is trying to be okay.
+            - What's the solution?
+                - Realizing who we are to be the one who do the main work
+                    - What is our nature?
+                    - What it feels like when sit back and be the awareness?
+                - Understanding about what's truly happen and then reverse the process
+                    - If it's always be nice in there, then "What's making it's not nice in there?" ?
+                    - and then get rid of that reason, it will comeback to its natural state.
+                - Spiritual is about not getting distracted out of ourselves by 3 things that we can experiences
+                    - The light of awareness instead of shine on the objects of consciousness, it's learning to shine on itself.
+                    - The highest path is learning to gradually in the normal circumstances of life, 
+                        - let go of what distracting our consciousness
+                        - and eventually attain the seat of permanence - establish on the seat of self
+                        - and then live our life
         - Overall how we will learn throughout this course
-    - Other insights
+            - First, learning the truth about who we are and what's happening with us
+                - Are you willing to let go of who you thought you were?
+                - By learning about who we are, and the characteristics of the things we thought we are
+                    - We will feeling much more center on who we are looking, not center on what we're looking at.
+                    - Understanding about why we don't feel center on ourselves?
+                    - Learn to identify with ourselves instead of the things that not ourselves
+                        - "When the body die, will we still in there?"
+                            - This is the free-of-charge excitng experiment that we will find out the answer when that time comes.
+                            - Because it's either we are not there to know, or we will be there to know what happens.
+                            - The reason why we have problems with death is that we identify and project our sense of self to the things that not ourselves. And that's why we fear it will be taken away.
+            - Second, learning details about 3 things that affect us
+            - Third, learning about the predicament and the spiritual path
+            - Fourth, what our life will truly happens when we comeback to our healthy state, instead of sick state.
+                - "The peace that pass all of understanding".
+    - ### Other insights 
         - What is the teaching approach of Michael Singer? [training method](<training method.md>)
             - Instead of teach directly what is surrendering - which is difficult because we are so identified with who we are not
                 - He slowly guidances us through important awaken process so that it will create a natural separation between the perception and the truth.
