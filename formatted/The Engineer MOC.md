@@ -31,5 +31,5 @@
 ## [TODO](<TODO.md>)
 - [ ] Work on [The Engineer MOC](<The Engineer MOC.md>)
 
-- "[ ] Work on [The Engineer MOC](<The Engineer MOC.md>)"
+- [ ] Work on [The Engineer MOC](<The Engineer MOC.md>)
 

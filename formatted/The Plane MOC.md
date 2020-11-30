@@ -38,5 +38,5 @@
 ## [TODO](<TODO.md>)
 - [ ] Work on [The Plane MOC](<The Plane MOC.md>)
 
-- "[ ] Work on [The Plane MOC](<The Plane MOC.md>)"
+- [ ] Work on [The Plane MOC](<The Plane MOC.md>)
 

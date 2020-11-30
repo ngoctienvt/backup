@@ -18,5 +18,5 @@
 ## [TODO](<TODO.md>)
 - [ ] Developing [Creating phase](<Creating phase.md>)
 
-- "[ ] Developing [Creating phase](<Creating phase.md>)"
+- [ ] Developing [Creating phase](<Creating phase.md>)
 

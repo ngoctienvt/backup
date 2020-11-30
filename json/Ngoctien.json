@@ -4230,22 +4230,6 @@
             "children": [
               {
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606101646899,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606211748054,
-                "string": "{{[[TODO]]}} Taking note [[Courses - Living from the place of surrender]]",
-                "uid": "ve6L3Ba5n"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1605964843564,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606358438648,
-                "string": "{{[[TODO]]}} Learning The target approach",
-                "uid": "lRrEs5feW"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605964873636,
                 "edit-email": "ngoctienvt@gmail.com",
                 "edit-time": 1606358438648,
@@ -4275,22 +4259,14 @@
             "edit-time": 1606395140410,
             "string": "Input Consuming",
             "uid": "1bTzz29b8"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606394947664,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606395136202,
-            "string": "Input Processing",
-            "uid": "LhZQEpv3a"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606394921999,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606394931012,
+        "edit-time": 1606703192904,
         "heading": 2,
-        "string": "Repeat Tasks",
+        "string": "Process Tasks",
         "uid": "RwiwfpxtY"
       },
       {
@@ -4373,16 +4349,6 @@
                   {
                     "children": [
                       {
-                        "children": [
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606212087124,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606212225606,
-                            "string": "{{[[TODO]]}} Organizing evergreen notes (tags, names, places...)",
-                            "uid": "yecbOJsqv"
-                          }
-                        ],
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1606101841018,
                         "edit-email": "ngoctienvt@gmail.com",
@@ -4445,20 +4411,114 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606101646899,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606703011338,
+                "string": "{{[[TODO]]}} Note-taking [[Courses - Living from the place of surrender]]",
+                "uid": "ve6L3Ba5n"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606703084168,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606703118799,
+                        "string": "{{[[TODO]]}} Refining and clairifying each phase",
+                        "uid": "7_eAEySKF"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606312365156,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606703327800,
+                        "string": "{{[[TODO]]}} Developing [[Creating phase]]",
+                        "uid": "b2ZDEXKsQ"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606703072339,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606703154404,
+                    "string": "[[PKDS - Personal Knowledge Development System MOC]]",
+                    "uid": "NXoQJ78AW"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606397999189,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606703021096,
+                "string": "{{[[TODO]]}} Reading [[Books - Clarity - Clear mind, Better performance, Bigger results]]",
+                "uid": "YCKTC8oxg"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606358519971,
+            "create-time": 1606702931043,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606358519971,
-            "string": "((KZSI2e2fC))",
-            "uid": "8tkVXLoqG"
+            "edit-time": 1606703027766,
+            "string": "Input Consuming",
+            "uid": "TUFKf2pL4"
           },
           {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606358381626,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606703333660,
+                    "string": "{{[[TODO]]}} Work on [[The Plane MOC]]",
+                    "uid": "SBiXM7OEX"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606212087124,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606212225606,
+                            "string": "{{[[TODO]]}} Organizing evergreen notes (tags, names, places...)",
+                            "uid": "yecbOJsqv"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606358519971,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606703331017,
+                        "string": "{{[[TODO]]}} Work on [[The Engineer MOC]]",
+                        "uid": "8tkVXLoqG"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606312429043,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606703336039,
+                    "string": "{{[[TODO]]}} Developing [[Workflow MOC]]",
+                    "uid": "UFQXUlRGh"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606703142470,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606703145890,
+                "string": "Productivity",
+                "uid": "5Fi6ginWS"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606312365156,
+            "create-time": 1606702932961,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606358438648,
-            "string": "((npY4XXWZA))",
-            "uid": "b2ZDEXKsQ"
+            "edit-time": 1606702957763,
+            "string": "Working",
+            "uid": "YEPwtCUUj"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -4468,67 +4528,6 @@
         "heading": 2,
         "string": "[[Focus of the week]]",
         "uid": "E69huto1Q"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606312330829,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606358438648,
-            "string": "((2yFvoQi8G))",
-            "uid": "yzucGBqOi"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606395335156,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606395335156,
-                "string": "((1pZRKoRcw))",
-                "uid": "f3kV1OBEx"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606395335156,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606395335156,
-                "string": "((qPUh9_xtk))",
-                "uid": "xP_EBnPl9"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606395335156,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606395335156,
-                "string": "((iQPlTsBvZ))",
-                "uid": "ZyFbstAiw"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606312429043,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606358438648,
-            "string": "((D4zkGe_hu))",
-            "uid": "UFQXUlRGh"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606397999189,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606486224887,
-            "string": "{{[[TODO]]}} Consuming [[Books - Clarity - Clear mind, Better performance, Bigger results]]",
-            "uid": "YCKTC8oxg"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606358381626,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606358595408,
-        "heading": 2,
-        "string": "[[Today Focus]]",
-        "uid": "SBiXM7OEX"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -4771,15 +4770,335 @@
           {
             "children": [
               {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606704123033,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606704137468,
+                "string": "The first step to learn about surrendering is about who is surrendering?",
+                "uid": "_Wu5rtOLZ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606704207484,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606704241095,
+                "string": "Just need to open up and take the journey, we will know about true surrender.",
+                "uid": "lvSh_-F9p"
+              },
+              {
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1600584664491,
+                    "create-time": 1606704304216,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1602399729565,
-                    "string": "First, spiritual growth is realizing that there is an object that I am looking at. Second, there is an act of paying attention to it. Third, realizing that I am the one who is looking, not the one I am looking at. [[self-awareness]]",
-                    "uid": "23IwehHy-"
+                    "edit-time": 1606705204875,
+                    "string": "We - the subject - the consciousness is the one who is looking",
+                    "uid": "HAIc4L0aq"
                   },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606704321882,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606704838516,
+                    "string": "The object of consciousness is the object that are looked by the consciousness.",
+                    "uid": "GgTO7Y-7A"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606704838513,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606704990479,
+                    "string": "[[thought-experiment]] Show the pictures of different people, and demonstrate that we are the one who are looking - not the picture that we see.",
+                    "uid": "WXnb-dlp2"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606704241665,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606705319355,
+                "string": "Consciousness - subject and the objects of consciousness",
+                "uid": "vkqRRpftX"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606704496322,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606705572849,
+                            "string": "Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.",
+                            "uid": "0CXO7-YrY"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606705075842,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606705572849,
+                            "string": "Your body also changes through times and ages, but the same you who are in there seeing it change.",
+                            "uid": "RgqZCjItD"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606705046028,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606705572849,
+                                "string": "We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness",
+                                "uid": "y6utcYmXO"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606705106203,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606705572849,
+                            "string": "Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.",
+                            "uid": "ByrpAE70D"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606705067824,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606705572849,
+                        "string": "[[thought-experiment]] ",
+                        "uid": "w09msDwal"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606704499674,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705572849,
+                    "string": "Your body is just the object that you can see, but you are not your body",
+                    "uid": "gfwzViCa5"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606705292016,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606705572849,
+                "string": "Learning that we are the only subject, the rest are just the objects of consciousness",
+                "uid": "TQ1YOa2EU"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705580554,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705601927,
+                    "string": "The first step is to realize there is an object we pay attention to",
+                    "uid": "2rVeAC8mC"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705601922,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705635357,
+                    "string": "The second is to realize there is an act of attention is what falling on the object.",
+                    "uid": "-XfRus5xe"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705694875,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705696654,
+                    "string": "Third, realizing that I am the one who is looking, not the one I am looking at.",
+                    "uid": "CLxuR4slh"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606705416705,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606705580557,
+                "string": "In spiritual growth,",
+                "uid": "WVUwleNbx"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705676465,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705753280,
+                    "string": "how we see things by the bouncing of lights examples",
+                    "uid": "ftd_yXWHc"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705762626,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705794805,
+                    "string": "we are living in an illusion by looking at a TV screen inside our mind",
+                    "uid": "ybVbiNicS"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606705635354,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606705676469,
+                "string": "We don't look the objects outside, we look the objects inside",
+                "uid": "SJ1UU1_u_"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705854363,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705866693,
+                    "string": "Who see when I see?",
+                    "uid": "9ZTqXbpMg"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705866689,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705869844,
+                    "string": "Who hear when I hear?",
+                    "uid": "pxzURRVx5"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705869841,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705877917,
+                    "string": "Who feel when I feel?",
+                    "uid": "PYeU7qVxV"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705877913,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705886042,
+                    "string": "Who is this that in here?",
+                    "uid": "-XvsVSN1-"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606705794800,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606705901815,
+                "string": "Ramana Maharshi taught his students about his entire spiritual path is question about our own existence [[self-realization]]",
+                "uid": "veqXKxxUv"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705942809,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705962371,
+                    "string": "We - the one who is looking is the one we need to pay attention to.",
+                    "uid": "6GDZ9qhXu"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606705962369,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606705995032,
+                    "string": "The spiritual path is not about finding ourselves, it's about coming back to the seat of self.",
+                    "uid": "Z28P2ptL3"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606705932495,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606705942811,
+                "string": "We can't find ourselves outside",
+                "uid": "6cagBZhPs"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606706034762,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606706050446,
+                        "string": "How old is the consciousness?",
+                        "uid": "LMRBrN-gN"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606706050443,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606706060454,
+                        "string": "What genders is the consciousness?",
+                        "uid": "yIERhBaMq"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606706013283,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606706096827,
+                    "string": "intuitively feel and let the question touch us",
+                    "uid": "GqBA9junb"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606706060451,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606706152846,
+                    "string": "gender-changing experiment to demonstrate that we can't have genders if we don't have body parts",
+                    "uid": "HGRuhSAwp"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606706187121,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606706201981,
+                    "string": "dream example - who is seeing the dream?",
+                    "uid": "VVQVEQGpj"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606706096823,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606706096823,
+                "string": "Other [[thought-experiment]] is ",
+                "uid": "G81VTZ64B"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606706152842,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606706177860,
+                    "string": "Are you willing to let go of who you thought you were?",
+                    "uid": "7u6PZcJgA"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606706241512,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606706282541,
+                    "string": "Feeling much more center on who we are looking, not center on what we're looking at.",
+                    "uid": "AeSAcRobh"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606706289104,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606706289104,
+                    "string": "",
+                    "uid": "UwPzwAfkU"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606706229571,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606706234355,
+                "string": "The course is about",
+                "uid": "DwUMBsAG3"
+              },
+              {
+                "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1600584736695,
@@ -4900,8 +5219,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1600570279748,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1602399729565,
-                "string": "[[Who am I]] [[spiritual growth]]  In the first lecture, Michael Singer taught that who we really are? He proved that my body is not me through various examples. ",
+                "edit-time": 1606705711214,
+                "string": "",
                 "uid": "m3WCwZJbo"
               }
             ],
@@ -4912,6 +5231,14 @@
             "heading": 3,
             "string": "Lessons ",
             "uid": "etOw-67qu"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606705472371,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606705556241,
+            "string": "",
+            "uid": "pCgCgqUnH"
           },
           {
             "children": [
@@ -51340,18 +51667,26 @@
     "children": [
       {
         "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606703245514,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606703720782,
+        "string": "#min-all {{[[query]]: {and:[[Focus of the week]] [[TODO]]}}}",
+        "uid": "zMkSE-Ecx"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606670176704,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606670213255,
-        "string": "Productivity is about making tools adapt to your needs, not making us adapt to what tools could do.",
+        "edit-time": 1606703244162,
+        "string": "Productivity is about making tools adapt to your needs, not making us adapt to what tools could do. [[focus on what matters]]",
         "uid": "VEvlYFkX6"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606670213249,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606670213249,
-        "string": "",
+        "edit-time": 1606704773599,
+        "string": "When teaching, Michael Singer uses examples, analogies, or metaphors to help students learn directly. So it's not just examples, but it's actually an activity that we can try on, but this activity is happening through his talks by making us visualize that situation.",
         "uid": "gxzM1MvOa"
       }
     ],
@@ -54325,5 +54660,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606666025597,
     "title": "client's way of being"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606704844413,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606704844415,
+    "title": "thought-experiment"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606705901816,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606705901819,
+    "title": "self-realization"
   }
 ]

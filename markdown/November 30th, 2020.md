@@ -1,2 +1,3 @@
-- Productivity is about making tools adapt to your needs, not making us adapt to what tools could do.
-- 
+- #min-all {{[[query]]: {and:[[Focus of the week]] [[TODO]]}}}
+- Productivity is about making tools adapt to your needs, not making us adapt to what tools could do. [[focus on what matters]]
+- When teaching, Michael Singer uses examples, analogies, or metaphors to help students learn directly. So it's not just examples, but it's actually an activity that we can try on, but this activity is happening through his talks by making us visualize that situation.

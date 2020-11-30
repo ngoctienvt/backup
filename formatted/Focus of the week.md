@@ -5,6 +5,9 @@
 
 - When doing daily planning, I will clear the tasks that I completed and put more tasks from [Focus of the week](<Focus of the week.md>)
 
+## [November 30th, 2020](<November 30th, 2020.md>)
+- [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>)
+
 ## [TODO](<TODO.md>)
 - ## [Focus of the week](<Focus of the week.md>)
 

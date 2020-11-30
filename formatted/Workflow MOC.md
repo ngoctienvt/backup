@@ -91,5 +91,5 @@
 ## [TODO](<TODO.md>)
 - [ ] Developing [Workflow MOC](<Workflow MOC.md>)
 
-- "[ ] Developing [Workflow MOC](<Workflow MOC.md>)"
+- [ ] Developing [Workflow MOC](<Workflow MOC.md>)
 

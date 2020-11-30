@@ -8,8 +8,6 @@
 - [spiritual growth](<spiritual growth.md>)
 
 ## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-- [Who am I](<Who am I.md>) [spiritual growth](<spiritual growth.md>)
-
 - [the outside world](<the outside world.md>) [spiritual growth](<spiritual growth.md>)
 
 ## [October 21st, 2020](<October 21st, 2020.md>)

@@ -8,8 +8,45 @@
         - The **first step in learning how to surrender** is to **understand who in there is doing the surrendering.** The world and our thoughts are **so distracting** that it is **difficult to attain clarity of self.** It turns out that the question “Who am I?” is very deep. In this session, we will explore who we are and what our relationship is to our thoughts, emotions, and the outside world. Things may not be as they seem. 
         - **Are you ready to take an objective look within?**
     - ### Lessons 
-        - [[Who am I]] [[spiritual growth]]  In the first lecture, Michael Singer taught that who we really are? He proved that my body is not me through various examples. 
-            - First, spiritual growth is realizing that there is an object that I am looking at. Second, there is an act of paying attention to it. Third, realizing that I am the one who is looking, not the one I am looking at. [[self-awareness]]
+        - The first step to learn about surrendering is about who is surrendering?
+        - Just need to open up and take the journey, we will know about true surrender.
+        - Consciousness - subject and the objects of consciousness
+            - We - the subject - the consciousness is the one who is looking
+            - The object of consciousness is the object that are looked by the consciousness.
+            - [[thought-experiment]] Show the pictures of different people, and demonstrate that we are the one who are looking - not the picture that we see.
+        - Learning that we are the only subject, the rest are just the objects of consciousness
+            - Your body is just the object that you can see, but you are not your body
+                - [[thought-experiment]] 
+                    - Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.
+                    - Your body also changes through times and ages, but the same you who are in there seeing it change.
+                    - Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.
+                        - We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness
+        - In spiritual growth,
+            - The first step is to realize there is an object we pay attention to
+            - The second is to realize there is an act of attention is what falling on the object.
+            - Third, realizing that I am the one who is looking, not the one I am looking at.
+        - We don't look the objects outside, we look the objects inside
+            - how we see things by the bouncing of lights examples
+            - we are living in an illusion by looking at a TV screen inside our mind
+        - Ramana Maharshi taught his students about his entire spiritual path is question about our own existence [[self-realization]]
+            - Who see when I see?
+            - Who hear when I hear?
+            - Who feel when I feel?
+            - Who is this that in here?
+        - We can't find ourselves outside
+            - We - the one who is looking is the one we need to pay attention to.
+            - The spiritual path is not about finding ourselves, it's about coming back to the seat of self.
+        - Other [[thought-experiment]] is 
+            - intuitively feel and let the question touch us
+                - How old is the consciousness?
+                - What genders is the consciousness?
+            - gender-changing experiment to demonstrate that we can't have genders if we don't have body parts
+            - dream example - who is seeing the dream?
+        - The course is about
+            - Are you willing to let go of who you thought you were?
+            - Feeling much more center on who we are looking, not center on what we're looking at.
+            - 
+        - 
             - [[surrender]] is not about giving up the world, but let go of the part inside of me that are not living the truth. [[surrender]] is remember that I'm always the one who is looking and anything I can look is not myself, but the object that I'm looking at. [[wisdom]] [[letting go]]
             - I am the [[witness conscious]]. I have the ability to project my consciousness and my attention to other objects. However, I am easy to lose myself and [[pay attention]] too much into the objects that I'm very hard to pay attention to what I am doing, and to come back to pay attention to myself. 
             - I am also easy to [[identify]] myself with other objects and forget that I can't be hurt because I don't have a body. I can feel hurt, but this is just an experience that I feel temporarily when I connect with my body, but "I" can't be hurt, because I am not having body.
@@ -24,6 +61,7 @@
                 - I need to learn to [[resist the urge]] that make me [[pay attention]] to the [[object of consciousness]] to practice [[willpower]] to withdraw my attention to the [[seat of consciousness]]. 
             - The [[nature of being]] is beautiful, no form, no physical body, easy to distract, and identify with the object of consciousness. When the [[witness consciousness]] identified itself with the other things, it feels the nature of that thing instead of itself. 
             - When I comeback to become a "witness consciousness", I will realize that the [[nature of being]] is not what I used to identify with, and I will realize that my mind can have problems and the things that come to me can make me feel it as a problem, but I am is beautiful, enough, and powerful than ever thing that come to me. 
+    - 
     - ### Summary
         - In this session, Michael explained that the first step in learning how to surrender is to understand and know who you are. So, who are you? In other words, **do you realize that you are the being** who is in there, **aware of your thoughts, emotions, and the outside world**?
         - We learned **you are not what you look at,** but rather, you are **the one who is looking**. This is called your **seat of awareness**. You are always aware, **you are always conscious**—even in deep sleep, you are in there, aware.

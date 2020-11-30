@@ -3,14 +3,11 @@
         - Capturing and Storing
         - Planning to consume
         - Planning to process
-- ## Repeat Tasks
+- ## Process Tasks
     - Input Consuming
-        - {{[[TODO]]}} Taking note [[Courses - Living from the place of surrender]]
-        - {{[[TODO]]}} Learning The target approach
         - {{[[TODO]]}} Reading The heart of laser focus coaching
         - {{[[TODO]]}} Reading A shift in being
         - {{[[TODO]]}} Reading Coach the person, not the problem
-    - Input Processing
 - ## Projects [[Active]]
     - ### Small projects
         - Building [[Productivity System MOC]]
@@ -24,16 +21,18 @@
         - Building a PKDS training program
             - Developing [[PKDS - Personal Knowledge Development System MOC]]
                 - {{[[TODO]]}} Developing [[Creating phase]]
-                    - {{[[TODO]]}} Organizing evergreen notes (tags, names, places...)
             - Design PKDS training program
                 - Learning [[instructional design]]
 - ## [[Focus of the week]]
-    - "{{[[TODO]]}} Work on [[The Engineer MOC]]"
-    - "{{[[TODO]]}} Developing [[Creating phase]]"
-- ## [[Today Focus]]
-    - "{{[[TODO]]}} Work on [[The Plane MOC]]"
-    - "{{[[TODO]]}} Developing [[Workflow MOC]]"
-        - "{{[[TODO]]}} Developing Goal, Task and Project management system in Roam Research"
-        - "{{[[TODO]]}} Merging daily workflow with GTD and PKDS"
-        - "{{[[TODO]]}} Building daily workflow and weekly review"
-    - {{[[TODO]]}} Consuming [[Books - Clarity - Clear mind, Better performance, Bigger results]]
+    - Input Consuming
+        - {{[[TODO]]}} Note-taking [[Courses - Living from the place of surrender]]
+        - {{[[TODO]]}} Reading [[Books - Clarity - Clear mind, Better performance, Bigger results]]
+            - [[PKDS - Personal Knowledge Development System MOC]]
+                - {{[[TODO]]}} Refining and clairifying each phase
+                - {{[[TODO]]}} Developing [[Creating phase]]
+    - Working
+        - Productivity
+            - {{[[TODO]]}} Work on [[The Plane MOC]]
+            - {{[[TODO]]}} Developing [[Workflow MOC]]
+                - {{[[TODO]]}} Work on [[The Engineer MOC]]
+                    - {{[[TODO]]}} Organizing evergreen notes (tags, names, places...)
