@@ -16,3 +16,4 @@
             - write new insights
 - Ability to think deep + Ability to simplify = Wisdom [Wisdom](<Wisdom.md>)
 - [coaching reflection](<coaching reflection.md>) I felt so much disturbances inside of myself when coaching today.
+- 
