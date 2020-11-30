@@ -15,3 +15,4 @@
             -  clean language
             - write new insights
 - Ability to think deep + Ability to simplify = Wisdom [[Wisdom]]
+- [[coaching reflection]] I felt so much disturbances inside of myself when coaching today.
