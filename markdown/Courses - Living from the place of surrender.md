@@ -8,26 +8,30 @@
         - The **first step in learning how to surrender** is to **understand who in there is doing the surrendering.** The world and our thoughts are **so distracting** that it is **difficult to attain clarity of self.** It turns out that the question “Who am I?” is very deep. In this session, we will explore who we are and what our relationship is to our thoughts, emotions, and the outside world. Things may not be as they seem. 
         - **Are you ready to take an objective look within?**
     - ### Lessons 
-        - The first step to learn about surrendering is about who is surrendering?
-        - Just need to open up and take the journey, we will know about true surrender.
-        - Consciousness - subject and the objects of consciousness
-            - We - the subject - the consciousness is the one who is looking
-            - The object of consciousness is the object that are looked by the consciousness.
-            - [[thought-experiment]] Show the pictures of different people, and demonstrate that we are the one who are looking - not the picture that we see.
-        - Learning that we are the only subject, the rest are just the objects of consciousness
-            - Your body is just the object that you can see, but you are not your body
-                - [[thought-experiment]] 
-                    - Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.
-                    - Your body also changes through times and ages, but the same you who are in there seeing it change.
-                    - Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.
-                        - We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness
-        - In spiritual growth,
-            - The first step is to realize there is an object we pay attention to
-            - The second is to realize there is an act of attention is what falling on the object.
-            - Third, realizing that I am the one who is looking, not the one I am looking at.
-        - We don't look the objects outside, we look the objects inside
-            - how we see things by the bouncing of lights examples
-            - we are living in an illusion by looking at a TV screen inside our mind
+        - What's important to learn about surrender is
+            - first is about learning who is surrendering?
+            - second is the willingness to open up and take this journey to explore true surrender
+        - Who is surrendering?
+            - The relationship between consciousness and the objects of consciousness
+                - subject and object relationship 
+                    - We - the subject - the consciousness is the one who is looking
+                    - The object of consciousness is the object that are looked by the consciousness.
+                    - [[thought-experiment]] Show the pictures of different people, and demonstrate that we are the one who are looking - not the picture that we see.
+                - Learning that we are the only subject, the rest are just the objects of consciousness
+                    - Your body, your thoughts and your motions is just the object that you can see, but you are not them
+                        - [[thought-experiment]] to prove that you are not your body
+                            - Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.
+                            - Your body also changes through times and ages, but the same you who are in there seeing it change.
+                            - Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.
+                                - We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness
+                - Learning that we don't look the objects outside, we look the objects inside
+                    - how we see things by the bouncing of lights examples
+                    - we are living in an illusion by looking at a TV screen inside our mind
+            - In order to growth spiritually, we need to learn to notice who we, who we are not and what we do
+                - The first step is to realize there is an object we pay attention to
+                - The second is to realize there is an act of attention is what falling on the object.
+                - Third, realizing that I am the one who is looking, not the one I am looking at.
+        - How to come back 
         - Ramana Maharshi taught his students about his entire spiritual path is question about our own existence [[self-realization]]
             - Who see when I see?
             - Who hear when I hear?
