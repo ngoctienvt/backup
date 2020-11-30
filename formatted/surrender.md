@@ -4,11 +4,6 @@
 - [living the truth](<living the truth.md>) is living what can't deny by the mind. When we identify with the mind, the best job it could do is work on its own data and own interpretation. But because what the mind can know is limited by our own experience, so it's not completely trusted worthy.
 
 # Backlinks
-## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-- [surrender](<surrender.md>)
-
-- [surrender](<surrender.md>) is not about giving up the world, but let go of the part inside of me that are not living the truth. [surrender](<surrender.md>)
-
 ## [October 13th, 2020](<October 13th, 2020.md>)
 - [surrender](<surrender.md>)
 

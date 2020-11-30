@@ -11,9 +11,6 @@
 
 - If something is still, stay still. If we stay still, it is require external force.  [willpower](<willpower.md>)
 
-## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-- I need to learn to [resist the urge](<resist the urge.md>) that make me [pay attention](<pay attention.md>) to the [object of consciousness](<object of consciousness.md>) to practice [willpower](<willpower.md>)
-
 ## [Morning Rituals MOC](<Morning Rituals MOC.md>)
 - practices [willpower](<willpower.md>)
 

@@ -45,23 +45,42 @@
         - The course is about
             - Are you willing to let go of who you thought you were?
             - Feeling much more center on who we are looking, not center on what we're looking at.
-            - 
-        - 
-            - [[surrender]] is not about giving up the world, but let go of the part inside of me that are not living the truth. [[surrender]] is remember that I'm always the one who is looking and anything I can look is not myself, but the object that I'm looking at. [[wisdom]] [[letting go]]
-            - I am the [[witness conscious]]. I have the ability to project my consciousness and my attention to other objects. However, I am easy to lose myself and [[pay attention]] too much into the objects that I'm very hard to pay attention to what I am doing, and to come back to pay attention to myself. 
-            - I am also easy to [[identify]] myself with other objects and forget that I can't be hurt because I don't have a body. I can feel hurt, but this is just an experience that I feel temporarily when I connect with my body, but "I" can't be hurt, because I am not having body.
-            - I also don't look at things outside, I look at them inside, but my mind render it in a way that cover entire of my vision, so it makes me feel like I am looking at things outside, because there is no black edge around makes me realize that I am looking at it inside. [[mind rendering]]
-            - I'm inside and I experience 3 main things:
-                - The world outside that comes into my consciousness through my body senses.
-                - The thoughts created by the mind.
-                - The emotions that emerged from the heart.
-            - I also not used to disconnect external things, so I am easy to distract by them. And because I tend to distract by them, so it's hard for me to [[resist the urge]] to focus on them and focus on myself instead. Because they are much more [[interesting]] and easy to focus on instead of me. [[distraction]]
-            - So if I want to focus back on myself: [[unattachment centering]]
-                - I need to remove distraction so the less the distraction is, the easier I can focus on myself.
-                - I need to learn to [[resist the urge]] that make me [[pay attention]] to the [[object of consciousness]] to practice [[willpower]] to withdraw my attention to the [[seat of consciousness]]. 
-            - The [[nature of being]] is beautiful, no form, no physical body, easy to distract, and identify with the object of consciousness. When the [[witness consciousness]] identified itself with the other things, it feels the nature of that thing instead of itself. 
-            - When I comeback to become a "witness consciousness", I will realize that the [[nature of being]] is not what I used to identify with, and I will realize that my mind can have problems and the things that come to me can make me feel it as a problem, but I am is beautiful, enough, and powerful than ever thing that come to me. 
-    - 
+            - Discuss about why we don't feel center on ourselves?
+            - Learn to identify with ourselves instead of the things that not ourselves
+                - "When the body die, will we still in there?"
+                    - This is the free-of-charge excitng experiment that we will find out the answer when that time comes.
+                    - Because it's either we are not there to know, or we will be there to know what happens.
+                    - The reason why we have problems with death is that we identify and project our sense of self to the things that not ourselves. And that's why we fear it will be taken away.
+        - How do we feel when we in there?
+            - Honest answer - sometimes is good, sometimes is not
+            - The truth is it could always be nice in there, and even could be as the nicest times we used to experience multiply with million, and always stay there and higher.
+                - It's a beautiful place to live, except for something making it not be. A not-well-management house. Just need to clean up.
+            - Therefore, it's not about how to make it great in there?
+                - It's about understanding "Why it's not nice in there?" and if we find out why it's not nice, and get rid of that, it will comeback to its natural state.
+            - There are only 3 things that we experience when we in there
+                - The outside world that's coming through body senses
+                - The thoughts that created by the mind
+                - The emotions that created by the heart
+        - When we lost ourselves, we need to center back to the seat of awareness by asking about ourselves " Who is aware?" and then "What are we aware of?"
+        - Buddha taught that's "Life is suffering"
+            - Because there will be some moments that are not suffering
+            - But most of the times, we will be trick by the conspiracy theory of what we experience, because they are sync up with each other.
+                - the world's coming in
+                - the thought's stimulated
+                - and the emotions are following or even leading
+            - We don't know much about them or the sequences of them, but we are in there struggling and trying to be okay. And everything we do in our life is trying to be okay.
+        - In the course, we will discuss great details about 
+            - what we experience, 
+            - but the most important thing is us,  
+                - What is our nature?
+                - What it feels like when sit back and be the awareness?
+                - Spiritual is about not getting distracted out of ourselves by 3 things that we can experiences
+                    - The light of awareness instead of shine on the objects of consciousness, it's learning to shine on itself.
+                    - The highest path is learning to gradually in the normal circumstances of life, 
+                        - let go of what distracting our consciousness
+                        - and eventually attain the seat of permanence - establish on the seat of self
+                        - and then live our life
+            - "The peace that pass all of understanding".
     - ### Summary
         - In this session, Michael explained that the first step in learning how to surrender is to understand and know who you are. So, who are you? In other words, **do you realize that you are the being** who is in there, **aware of your thoughts, emotions, and the outside world**?
         - We learned **you are not what you look at,** but rather, you are **the one who is looking**. This is called your **seat of awareness**. You are always aware, **you are always conscious**—even in deep sleep, you are in there, aware.

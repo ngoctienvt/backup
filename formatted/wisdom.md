@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-- [surrender](<surrender.md>) is not about giving up the world, but let go of the part inside of me that are not living the truth. [surrender](<surrender.md>) is remember that I'm always the one who is looking and anything I can look is not myself, but the object that I'm looking at. [wisdom](<wisdom.md>)
-
 ## [November 23rd, 2020](<November 23rd, 2020.md>)
 - [wisdom](<wisdom.md>)
 
