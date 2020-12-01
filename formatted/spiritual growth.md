@@ -7,9 +7,6 @@
 ## [Area of Focus](<Area of Focus.md>)
 - [spiritual growth](<spiritual growth.md>)
 
-## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-- [the outside world](<the outside world.md>) [spiritual growth](<spiritual growth.md>)
-
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - I realized that [spiritual growth](<spiritual growth.md>)
 
@@ -103,6 +100,9 @@ What if there is no good reason? What if there is nothing to count on except me?
 
 ## [September 30th, 2020](<September 30th, 2020.md>)
 - I felt that last night I dreamt too much about death, guilt, fear, these expericences come from the movies, stories, novels that I read and I'm unable to digest it yet. [dream](<dream.md>) [spiritual growth](<spiritual growth.md>)
+
+## [Session 1 - Who am I](<Session 1 - Who am I.md>)
+- In order to growth spiritually, we need to learn to notice who we, who we are not and what we do [spiritual growth](<spiritual growth.md>)
 
 ## [journaling training](<journaling training.md>)
 - externalize and detachment with our thoughts, so that we can raise ourselves over it to raise our life [spiritual growth](<spiritual growth.md>)

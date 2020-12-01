@@ -3,30 +3,30 @@
     - **Are you ready to take an objective look within?**
 - ## Self-summary
     - ### The key points of session one
-        - The condition for learning surrendering - the willingness to open and take the journey
+        - The condition for learning surrendering - the willingness to open and take the journey [[condition for learning]]
         - The first part is learning the most important thing of learning about surrendering is 
-            - Who is surrendering and what that person do?
+            - Who is surrendering and what that person do? [[consciousness]] [[subject-object relationship]]
                 - Learning who we are and the relationship with what we think we are
-                    - The relationship between consciousness and the objects of consciousness
+                    - The relationship between consciousness and the objects of consciousness 
                         - subject and object relationship 
                             - We - the subject - the consciousness is the one who is looking
                             - The object of consciousness is the object that are looked by the consciousness.
                             - [[thought-experiment]] Show the pictures of different people, and demonstrate that we are the one who are looking - not the picture that we see.
-                        - Learning that we are the only subject, the rest are just the objects of consciousness
-                            - Your body, your thoughts and your motions is just the object that you can see, but you are not them
-                                - [[thought-experiment]] to prove that you are not your body
-                                    - Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.
-                                    - Your body also changes through times and ages, but the same you who are in there seeing it change.
-                                    - Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.
-                                        - We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness
-                        - Learning that we don't look the objects outside, we look the objects inside
-                            - how we see things by the bouncing of lights examples
-                            - we are living in an illusion by looking at a TV screen inside our mind
-            - In order to growth spiritually, we need to learn to notice who we, who we are not and what we do
+                - Learning that we are the only subject, the rest are just the objects of consciousness
+                    - Your body, your thoughts and your motions is just the object that you can see, but you are not them [[objects of consciousness]]
+                        - [[thought-experiment]] to prove that you are not your body
+                            - Surgeon experiment to demonstrate that we could be got rid of our body parts even without we notice, and it doesn't change us a bit.
+                            - Your body also changes through times and ages, but the same you who are in there seeing it change.
+                            - Government warehouse visiting experiment to demonstrate that we are limited by what we see, but what actually is uncountable - but we think what we see is all there is.
+                                - We are like the flashlight, but instead of shining by light, we shine object by awareness. - flashlight of awareness
+                - Learning that we don't look the objects outside, we look the objects inside [[inner experience]]
+                    - how we see things by the bouncing of lights examples
+                    - we are living in an illusion by looking at a TV screen inside our mind
+            - In order to growth spiritually, we need to learn to notice who we, who we are not and what we do [[spiritual growth]]
                 - The first step is to realize there is an object we pay attention to
                 - The second is to realize there is an act of attention is what falling on the object.
                 - Third, realizing that I am the one who is looking, not the one I am looking at.
-            - Some simple techniques to realize who we are
+            - Some simple techniques to realize who we are [[spiritual techniques]]
                 - ### How to find the way back to ourselves?
                     - Ramana Maharshi taught his students about his entire spiritual path is question about our own existence [[self-realization]]
                         - Who see when I see?
@@ -45,20 +45,19 @@
                         - What genders is the consciousness?
                     - gender-changing experiment to demonstrate that we can't have genders if we don't have body parts
                     - dream example - who is seeing the dream?
-        - The second part is learning about 
+        - The second part is learning about [[inner experience]]
             - What's like to be in there?
                 - Honest answer - sometimes is good, sometimes is not
             - Why it's not nice to be in there
-                - 3 things that affect our experience when we in there
+                - 3 things that distract and affect our experience when we in there [[objects of consciousness]]
                     - The outside world that's coming through body senses
                     - The thoughts that created by the mind
                     - The emotions that created by the heart
-                - The challenge for comeback to who we are
-            - What's the truth? or What's possible?
+            - What's the truth? or What's possible? [[spiritual truth]]
                 - The truth is it could always be nice in there  
                     - the nicest times we used to experience multiply with million, and always stay there and higher.
                     - It's a beautiful place to live, except for something making it not be. A not-well-management house. Just need to clean up.
-            - What's the challenge?
+            - What's the challenge? [[spiritual challenges]]
                 - ### The distraction and the conspiracy theory
                     - Buddha taught that's "Life is suffering"
                         - Because there will be some moments that are not suffering
@@ -67,7 +66,7 @@
                             - the thought's stimulated
                             - and the emotions are following or even leading
                         - We don't know much about them or the sequences of them, but we are in there struggling and trying to be okay. And everything we do in our life is trying to be okay.
-            - What's the solution?
+            - What's the solution? [[spiritual path]]
                 - Realizing who we are to be the one who do the main work
                     - What is our nature?
                     - What it feels like when sit back and be the awareness?
@@ -81,7 +80,7 @@
                         - and eventually attain the seat of permanence - establish on the seat of self
                         - and then live our life
         - Overall how we will learn throughout this course
-            - First, learning the truth about who we are and what's happening with us
+            - First, learning the truth about who we are and what's happening with us [[consciousness]]
                 - Are you willing to let go of who you thought you were?
                 - By learning about who we are, and the characteristics of the things we thought we are
                     - We will feeling much more center on who we are looking, not center on what we're looking at.
@@ -98,15 +97,31 @@
     - ### Other insights 
         - What is the teaching approach of Michael Singer? [[training method]]
             - Instead of teach directly what is surrendering - which is difficult because we are so identified with who we are not
-                - He slowly guidances us through important awaken process so that it will create a natural separation between the perception and the truth.
-                    - thought-experiment
-                    - shock-therapy
-                    - logical explaination
-                - Through this process, we will be able to become more detach and center more about who we are, so that's we could see the truth by ourselves.
+                - He slowly guides us through important awaken process, so that students can start to release their identification and see the truth.
+                - What he used to guide us
+                    - Logical approach and explaination
+                        - Identify who we are
+                        - What's happening to us?
+                        - What's the characteristics of us and 3 things that we experience?
+                        - What's the predicament that we have?
+                        - What's the challenge that prevent us to solve it?
+                        - What's the natural solution that emerge by understanding the process?
+                        - What life could be if we reach the end of the journey?
+                    - Thought-experiment
+                    - Sharing his own experiences and the truth that he saw
+                    - Reflecting questions
+            - Summary:
+                - His teaching approach are guiding us through key components that we need to understand the process
+                - By understanding the process, we will naturally 
+                    - see what is the natural process, 
+                    - and what went wrong, 
+                    - so that's we could start to develop the practices to guide us back to the natural process
+                - His teaching helps us to gain understanding first, then we will know what we need to do.
+                    - However, because it's a video-record course, so it's not interactive, I could help students learn more if I could integrate activities so that's they can learn and reflect themselves to the key learning points.
 - ## Summary
-    - In this session, Michael explained that the first step in learning how to surrender is to understand and know who you are. So, who are you? In other words, **do you realize that you are the being** who is in there, **aware of your thoughts, emotions, and the outside world**?
-    - We learned **you are not what you look at,** but rather, you are **the one who is looking**. This is called your **seat of awareness**. You are always aware, **you are always conscious**—even in deep sleep, you are in there, aware.
-    - **The problem** is **we don’t experience life from that place of awareness.** Throughout our lives, **we have been lost** in our outside world—the people, the places, the things, and the experiences—as well as in our thoughts and emotions, **all in an attempt to make ourselves be and feel OK.** When we **learn to center back** into the seat of awareness, **we will find ourselves, and we can begin the path of surrender.**
+    - In this session, Michael explained that the first step in learning how to surrender is to understand and know who you are. So, who are you? In other words, **do you realize that you are the being** who is in there, **aware of your thoughts, emotions, and the outside world**? [[subject-object relationship]]
+    - We learned **you are not what you look at,** but rather, you are **the one who is looking**. This is called your **seat of awareness**. You are always aware, **you are always conscious**—even in deep sleep, you are in there, aware. [[seat of awareness]]
+    - **The problem** is **we don’t experience life from that place of awareness.** Throughout our lives, **we have been lost** in our outside world—the people, the places, the things, and the experiences—as well as in our thoughts and emotions, **all in an attempt to make ourselves be and feel OK.** When we **learn to center back** into the seat of awareness, **we will find ourselves, and we can begin the path of surrender.** [[spiritual challenges]]
 - ## Reflecting questions
     - Were you able to relate to Michael when he spoke about hearing the voice talking inside his head as he sat on the couch with his friend? If so, describe what it’s like to just notice your mind is talking.
     - If you are aware that you are in there, what’s it like in there? For example, is it a nice place to be, or is it a messy place to be? What does it feel like on a day-to-day basis? Would you actually allow someone else to see what’s going on in there?

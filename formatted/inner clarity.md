@@ -5,9 +5,6 @@
 
 - making the outcome more salient, more clear [inner clarity](<inner clarity.md>)
 
-## [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-- [inner clarity](<inner clarity.md>)
-
 ## [Flow State MOC](<Flow State MOC.md>)
 - [inner clarity](<inner clarity.md>)
 
@@ -19,6 +16,9 @@
 
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - I don't have anything need to fear when I write what I saw from the meditation now, because there are all immature thoughts that will be clarify soon. [inner clarity](<inner clarity.md>)
+
+## [Session 2 - the outside world](<Session 2 - the outside world.md>)
+- [inner clarity](<inner clarity.md>)
 
 ## [horizons of focus](<horizons of focus.md>)
 - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>)

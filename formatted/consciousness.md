@@ -16,6 +16,11 @@
 
 - The nature of the [consciousness](<consciousness.md>)
 
+## [Session 1 - Who am I](<Session 1 - Who am I.md>)
+- Who is surrendering and what that person do? [consciousness](<consciousness.md>)
+
+- First, learning the truth about who we are and what's happening with us [consciousness](<consciousness.md>)
+
 ## [nurturing the wake up state of consciousness](<nurturing the wake up state of consciousness.md>)
 - [consciousness](<consciousness.md>)
 
