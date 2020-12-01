@@ -1,6 +1,6 @@
 
 # Backlinks
-## [Templates](<Templates.md>)
+## [💎Templates](<💎Templates.md>)
 - **[Free-thoughts](<Free-thoughts.md>):**
     - **[Summary](<Summary.md>):**
 

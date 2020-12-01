@@ -36,10 +36,6 @@
 ## [October 5th, 2020](<October 5th, 2020.md>)
 - [Expanding questions](<Expanding questions.md>)
 
-## [Templates](<Templates.md>)
-- **[New awareness](<New awareness.md>):**
-    - **[Expanding questions](<Expanding questions.md>):**
-
 ## [The Engineer MOC](<The Engineer MOC.md>)
 - [Expanding questions](<Expanding questions.md>)
 
@@ -48,4 +44,8 @@
 
 ## [🌲Workflow ](<🌲Workflow .md>)
 - What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
+
+## [💎Templates](<💎Templates.md>)
+- **[New awareness](<New awareness.md>):**
+    - **[Expanding questions](<Expanding questions.md>):**
 

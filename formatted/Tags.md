@@ -4,7 +4,7 @@
 - **[Status](<Status.md>):** [consuming](<consuming.md>)
 - **[Tags](<Tags.md>):**
 
-## [Templates](<Templates.md>)
+## [💎Templates](<💎Templates.md>)
 - **[Status](<Status.md>):**
     - **[Tags](<Tags.md>):**
 

@@ -4,7 +4,7 @@
 - **[Author](<Author.md>):** Michael A. Singer
 - **[URL](<URL.md>):**
 
-## [Templates](<Templates.md>)
+## [💎Templates](<💎Templates.md>)
 - **[Author](<Author.md>):**
     - **[URL](<URL.md>):**
 

@@ -1,0 +1,23 @@
+- https://raw.githubusercontent.com/omnidan/node-emoji/master/lib/emoji.json
+- 🏠: house - Home Maps
+    - 🧭compass - map of contents
+        - 🌲: evergreen_tree - processed notes - atomic notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+        - 🌲: evergreen_tree - processed notes - atomic notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+    - 🧭compass - map of contents
+        - 🌲: evergreen_tree - processed notes - atomic notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+        - 🌲: evergreen_tree - processed notes - atomic notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+            - 🌱: seedling - processing notes
+- 
+- 
+- 

@@ -16,7 +16,7 @@
             - [progressive approach](<progressive approach.md>)
                 - [Top-down Approach MOC](<Top-down Approach MOC.md>)
                 - [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-        - [Personal Knowledge Development cycle 🌲 ](<Personal Knowledge Development cycle 🌲 .md>)
+        - [🌱Personal Knowledge Development cycle  ](<🌱Personal Knowledge Development cycle  .md>)
             - [Map of Contents](<Map of Contents.md>)
             - [clean up fleeting notes](<clean up fleeting notes.md>)
         - [Personal Knowledge Development workflow](<Personal Knowledge Development workflow.md>)

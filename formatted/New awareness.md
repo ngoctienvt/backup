@@ -4,7 +4,7 @@
 - Step 4: Resurface [compressed understanding](<compressed understanding.md>)
 - **[New awareness](<New awareness.md>):**
 
-## [Templates](<Templates.md>)
+## [💎Templates](<💎Templates.md>)
 - **[New insights](<New insights.md>):**
     - **[New awareness](<New awareness.md>):**
 

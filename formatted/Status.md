@@ -4,7 +4,7 @@
 - **[URL](<URL.md>):**
 - **[Status](<Status.md>):**
 
-## [Templates](<Templates.md>)
+## [💎Templates](<💎Templates.md>)
 - **[URL](<URL.md>):**
     - **[Status](<Status.md>):**
 

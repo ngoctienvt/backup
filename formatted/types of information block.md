@@ -17,12 +17,12 @@
 ## [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)
 - An evergreen note will have content about different [types of information block](<types of information block.md>)
 
-## [Templates](<Templates.md>)
-- [types of information block](<types of information block.md>)
-
 ## [entirety of an atomic concept](<entirety of an atomic concept.md>)
 - Dividing information into different [types of information block](<types of information block.md>)
 
 ## [information block](<information block.md>)
+- [types of information block](<types of information block.md>)
+
+## [💎Templates](<💎Templates.md>)
 - [types of information block](<types of information block.md>)
 

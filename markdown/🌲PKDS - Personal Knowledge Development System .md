@@ -16,7 +16,7 @@
             - [[progressive approach]]
                 - [[Top-down Approach MOC]]
                 - [[Bottom-up Approach MOC]]
-        - [[Personal Knowledge Development cycle 🌲 ]]
+        - [[🌱Personal Knowledge Development cycle  ]]
             - [[Map of Contents]]
             - [[clean up fleeting notes]]
         - [[Personal Knowledge Development workflow]]

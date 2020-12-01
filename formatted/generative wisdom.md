@@ -3,9 +3,6 @@
 ## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 - Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>)
 
-## [Personal Knowledge Development cycle 🌲 ](<Personal Knowledge Development cycle 🌲 .md>)
-- [Creating phase](<Creating phase.md>) - [generative wisdom](<generative wisdom.md>)
-
 ## [human mind](<human mind.md>)
 - Connecting instead of categorizing. Categorizing is to help the mind able to [extract and gather information](<extract and gather information.md>) easier, but it's not the real power of the mind. The power of it is on the ability to generate new things from old things. [generative wisdom](<generative wisdom.md>)
 
@@ -17,4 +14,7 @@
 
 ## [nature of human mind](<nature of human mind.md>)
 - Connecting instead of categorizing. Categorizing is to help the mind able to [extract and gather information](<extract and gather information.md>) easier, but it's not the real power of the mind. The power of it is on the ability to generate new things from old things. [generative wisdom](<generative wisdom.md>)
+
+## [🌱Personal Knowledge Development cycle  ](<🌱Personal Knowledge Development cycle  .md>)
+- [Creating phase](<Creating phase.md>) - [generative wisdom](<generative wisdom.md>)
 

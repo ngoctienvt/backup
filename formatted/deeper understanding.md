@@ -21,9 +21,6 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 ## [September 15th, 2020](<September 15th, 2020.md>)
 - And the measure of success for understanding is how rich you understand and apply your understanding to real world [deeper understanding](<deeper understanding.md>)
 
-## [Templates](<Templates.md>)
-- [deeper understanding](<deeper understanding.md>)
-
 ## [compressed process](<compressed process.md>)
 - The main meaning of [compressed process](<compressed process.md>) is to help you achieve [deeper understanding](<deeper understanding.md>)
 
@@ -38,4 +35,7 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 
 ## [soul evolution](<soul evolution.md>)
 - Reflection for [deeper understanding](<deeper understanding.md>)
+
+## [💎Templates](<💎Templates.md>)
+- [deeper understanding](<deeper understanding.md>)
 
