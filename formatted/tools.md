@@ -20,6 +20,6 @@
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - The development of students depends on their own [intention](<intention.md>) and goals, and these things are not fixed but changed continuously. It means that they will not get stuck with the [tools](<tools.md>)
 
-## [focus on what matters](<focus on what matters.md>)
+## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [tools](<tools.md>)
 

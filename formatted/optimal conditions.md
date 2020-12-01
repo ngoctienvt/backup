@@ -2,7 +2,7 @@
 
 # Backlinks
 ## [November 6th, 2020](<November 6th, 2020.md>)
-- The [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) is about how I could create [optimal conditions](<optimal conditions.md>)
+- The [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) is about how I could create [optimal conditions](<optimal conditions.md>)
 
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - is not making choices but rather creating [optimal conditions](<optimal conditions.md>)
@@ -28,6 +28,8 @@
 ## [mind-training](<mind-training.md>)
 - [creative training](<creative training.md>) creating [optimal conditions](<optimal conditions.md>)
 
-## [progressive approach](<progressive approach.md>)
-- [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) to create [optimal conditions](<optimal conditions.md>)
+## [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
+- Design [optimal conditions](<optimal conditions.md>)
+
+- to create [optimal conditions](<optimal conditions.md>)
 

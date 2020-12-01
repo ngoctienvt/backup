@@ -1,4 +1,4 @@
-- My usage of network note-taking will be based on [[progressive approach]] with the main approach is [[Bottom-up Approach MOC]].
+- My usage of network note-taking will be based on [[🌱Progressive Development Approach]] with the main approach is [[🌲Bottom-up Approach]].
 - My [[contextual usages]] for [[network note-taking]] are
     - easy to search related-information, topics 
     - save and load my state of work

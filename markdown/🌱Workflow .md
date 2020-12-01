@@ -1,7 +1,7 @@
 - [[natural progression]]
 - [[readiness]]
 - # Processed
-    - [[focus on what matters]]
+    - [[🌱focus on what matters]]
     - [[horizons of focus]]
     - [[personal workflow]]
 - ### The end goal of an ideal workflow 

@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-- Developing [deeper understanding](<deeper understanding.md>)
-
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - I felt so much fun when teaching and also [deeper understanding](<deeper understanding.md>)
 
@@ -30,11 +27,14 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - For example, [deeper understanding](<deeper understanding.md>)
 
-## [progressive approach](<progressive approach.md>)
-- Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>)
-
 ## [soul evolution](<soul evolution.md>)
 - Reflection for [deeper understanding](<deeper understanding.md>)
+
+## [starting point](<starting point.md>)
+- Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>)
+
+## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+- Developing [deeper understanding](<deeper understanding.md>)
 
 ## [💎Templates](<💎Templates.md>)
 - [deeper understanding](<deeper understanding.md>)

@@ -47,6 +47,6 @@
 ## [personal workflow](<personal workflow.md>)
 - One of new [way of thinking](<way of thinking.md>) I feel that I will need to develop now is [think in a filter way](<think in a filter way.md>) instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [contextual usages](<contextual usages.md>).
 
-## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
 - [contextual usages](<contextual usages.md>)
 

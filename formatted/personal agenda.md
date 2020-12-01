@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-- [being coaching](<being coaching.md>) in a [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) way to support other people with their [natural progression](<natural progression.md>) and free of [personal agenda](<personal agenda.md>)
-
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
 - It felt so good to feel moving forward and become better each day. Let go any thoughts, attachments, accept life as it is so that I could enjoy the life itself without any [personal standards](<personal standards.md>) or [personal agenda](<personal agenda.md>).
 
@@ -30,4 +27,7 @@
 - We also start to adapt to what we learnt and we believed that they are right, instead of utilizing our [intellectual mind](<intellectual mind.md>) to expand the [Wisdom](<Wisdom.md>) of the world. We are so lost in [personal agenda](<personal agenda.md>)
 
 - Our need to [feel good](<feel good.md>) inside makes us using our mind for [personal agenda](<personal agenda.md>)
+
+## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+- [being coaching](<being coaching.md>) in a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) way to support other people with their [natural progression](<natural progression.md>) and free of [personal agenda](<personal agenda.md>)
 

@@ -8,7 +8,7 @@
         - [Coaching MOC](<Coaching MOC.md>)
         - [Training MOC](<Training MOC.md>)
     - ### System
-        - [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+        - [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
         - [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
             - [Area of Focus](<Area of Focus.md>)
             - [Projects MOC](<Projects MOC.md>)

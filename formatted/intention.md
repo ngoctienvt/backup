@@ -1,6 +1,6 @@
 - [intention](<intention.md>) is the direction that I want to align myself to.
     - have a clear intention to aim my will that direction
-    - [progressive approach](<progressive approach.md>) to move forward in an [efficient](<efficient.md>) way every day
+    - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) to move forward in an [efficient](<efficient.md>) way every day
     - have a natural [life flow](<life flow.md>) and [personal workflow](<personal workflow.md>)
     - have a [work ethic](<work ethic.md>) and [discipline](<discipline.md>) to hold myself above the lower-self that pull me down and to keep me 
     - have a attitude to [enjoy the process](<enjoy the process.md>) and [enjoy the learning experience](<enjoy the learning experience.md>)
@@ -77,7 +77,7 @@ I would like to shift this [hidden intention](<hidden intention.md>) to another 
 ## [life](<life.md>)
 - [intention](<intention.md>)
 
-- [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>),
+- [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>),
 
 - [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>)
 

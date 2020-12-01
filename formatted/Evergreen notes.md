@@ -44,7 +44,10 @@
     - Knowledge - pattern recognition and self-understanding
         - New insights, new awareness, self-reflection, pop-up understanding
         - High-quality information blocks / evergreen notes/ MOCs
-    - 
+- In your Dynamic Note Mass, what does that look like?
+    - Sometimes __bottoms-up__ creates meaning: Note » MOC » Index
+    - Sometimes __top-down__ creates meaning: Index » MOC » Note
+    - Sometimes __middle-out__ creates meaning: MOC » Note, and MOC » Index
 
 # Backlinks
 ## [December 1st, 2020](<December 1st, 2020.md>)
@@ -74,10 +77,10 @@
 ## [network note-taking](<network note-taking.md>)
 - While maintaining a flexible way to handle these [atomic concept](<atomic concept.md>) as well as [Evergreen notes](<Evergreen notes.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
 - [Evergreen notes](<Evergreen notes.md>)
 
-## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+## [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 - [Evergreen notes](<Evergreen notes.md>)
 
 ## [🏠Home Maps](<🏠Home Maps.md>)

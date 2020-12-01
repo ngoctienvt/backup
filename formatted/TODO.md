@@ -11,7 +11,7 @@
 - ## Projects [Active](<Active.md>)
     - ### Small projects
         - Building [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
-            - [ ] Developing [🌲Workflow ](<🌲Workflow .md>)
+            - [ ] Developing [🌱Workflow ](<🌱Workflow .md>)
                 - [ ] Developing Goal, Task and Project management system in Roam Research
                 - [ ] Merging daily workflow with GTD and PKDS
                 - [ ] Building daily workflow and weekly review
@@ -19,7 +19,7 @@
             - [ ] Work on [The Engineer MOC](<The Engineer MOC.md>)
     - ### Master projects
         - Building a PKDS training program
-            - Developing [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+            - Developing [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
                 - [ ] Developing [Creating phase](<Creating phase.md>)
             - Design PKDS training program
                 - Learning [instructional design](<instructional design.md>)
@@ -27,13 +27,13 @@
     - Input Consuming
         - [ ] Note-taking [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
         - [ ] Reading [Books - Clarity - Clear mind, Better performance, Bigger results](<Books - Clarity - Clear mind, Better performance, Bigger results.md>)
-            - [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+            - [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
                 - [ ] Refining and clairifying each phase
                 - [ ] Developing [Creating phase](<Creating phase.md>)
     - Working
         - Productivity
             - [ ] Work on [🌱The Plane ](<🌱The Plane .md>)
-            - [ ] Developing [🌲Workflow ](<🌲Workflow .md>)
+            - [ ] Developing [🌱Workflow ](<🌱Workflow .md>)
                 - [ ] Work on [The Engineer MOC](<The Engineer MOC.md>)
                     - [ ] Organizing evergreen notes (tags, names, places...)
 

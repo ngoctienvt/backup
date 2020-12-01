@@ -13,6 +13,6 @@
 
 - ### [focus mode](<focus mode.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [focus mode](<focus mode.md>)
 

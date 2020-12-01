@@ -1,0 +1,4 @@
+- I also start to realize the bottom of the floor and the top of the ceiling, so that I could put the clear boundaries or definitions for them, then I can start to work the middle in detail. 
+    - The [[top of the ceiling]] is about all 4 broad elements of the world, the nature of each of them, and the relationship of them.
+    - The [[bottom of the floor]] is about the actual experience of each moment and the interaction of each moment with the 4 elements.
+    - The middle is the human life that happens in the world based on the tools that the conscious have: emotions, mind, body.

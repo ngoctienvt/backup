@@ -1,5 +1,5 @@
 - I noticed that my workflow, task & project management, and weekly/daily planning will be tightly related to each other. [The Pilot MOC](<The Pilot MOC.md>)
-    - My [🌲Workflow ](<🌲Workflow .md>) will let me know what type of task that I want to work on
+    - My [🌱Workflow ](<🌱Workflow .md>) will let me know what type of task that I want to work on
         - Types of tasks
             - Consuming
             - Processing

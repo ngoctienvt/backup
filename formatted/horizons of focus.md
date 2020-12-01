@@ -55,7 +55,7 @@
 ## [point of view](<point of view.md>)
 - point of view is the level or the direction of [horizons of focus](<horizons of focus.md>)
 
-## [🌲Workflow ](<🌲Workflow .md>)
+## [🌱Workflow ](<🌱Workflow .md>)
 - [horizons of focus](<horizons of focus.md>)
 
 - Clear [horizons of focus](<horizons of focus.md>)

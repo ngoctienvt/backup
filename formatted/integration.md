@@ -1,9 +1,6 @@
 - 
 
 # Backlinks
-## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-- work on [integration](<integration.md>)
-
 ## [Life Polestar](<Life Polestar.md>)
 - [integration](<integration.md>)
 
@@ -60,6 +57,6 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [natural progression](<natural progression.md>)
 - [integration](<integration.md>)
 
-## [progressive approach](<progressive approach.md>)
-- [integration](<integration.md>)
+## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+- work on [integration](<integration.md>)
 

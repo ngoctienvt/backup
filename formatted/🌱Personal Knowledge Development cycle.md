@@ -5,11 +5,11 @@
 
 # Backlinks
 ## [November 15th, 2020](<November 15th, 2020.md>)
-- I wonder how I will handle my tag when I start to develop MOC and centralized notes. [🌱Personal Knowledge Development cycle  ](<🌱Personal Knowledge Development cycle  .md>)
+- I wonder how I will handle my tag when I start to develop MOC and centralized notes. [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 
 ## [November 17th, 2020](<November 17th, 2020.md>)
-This is helpful for me to learn and develop my personal knowledge, but then I will need to write up fully by myself later. I will think about a way to still maintain certain context while digesting them fully at the same time. [🌱Personal Knowledge Development cycle  ](<🌱Personal Knowledge Development cycle  .md>)
+This is helpful for me to learn and develop my personal knowledge, but then I will need to write up fully by myself later. I will think about a way to still maintain certain context while digesting them fully at the same time. [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 
-## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
-- [🌱Personal Knowledge Development cycle  ](<🌱Personal Knowledge Development cycle  .md>)
+## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+- [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 

@@ -37,6 +37,6 @@
 ## [🌱The Plane ](<🌱The Plane .md>)
 - stay the course with [Flow State MOC](<Flow State MOC.md>)
 
-## [🌲Workflow ](<🌲Workflow .md>)
+## [🌱Workflow ](<🌱Workflow .md>)
 - [Flow State MOC](<Flow State MOC.md>)
 

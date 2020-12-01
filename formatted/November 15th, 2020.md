@@ -1,4 +1,4 @@
-- I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>). [unattachment centering](<unattachment centering.md>)
+- I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>). [unattachment centering](<unattachment centering.md>)
 - 
 - 
 - [weekly reflection](<weekly reflection.md>) 
@@ -7,7 +7,7 @@
     - 
     - I can really feel that I'm becoming more and more clarity, more freedom, and much more cleaner inside. Even though sometimes I will lose myself, I still can easily get my center back. [unattachment centering](<unattachment centering.md>)
     - My feeling about time now is much slower, because I go through much more transformation in a short period of time, and it happens continuously, everything around me and inside me also change significantly without me even truly realizing how it has been changed. [time awareness](<time awareness.md>)
-- I wonder how I will handle my tag when I start to develop MOC and centralized notes. [🌱Personal Knowledge Development cycle  ](<🌱Personal Knowledge Development cycle  .md>)
+- I wonder how I will handle my tag when I start to develop MOC and centralized notes. [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 - [Who lights the stars](<Who lights the stars.md>)
     - Who lights the stars last night?
 Who shines the sun. x2 

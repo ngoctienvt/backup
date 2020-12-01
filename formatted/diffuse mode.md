@@ -11,6 +11,6 @@
 ## [October 14th, 2020](<October 14th, 2020.md>)
 - The hard part is this kind of connection is not stable at the moment, and in the early stage of [being mode](<being mode.md>), I will work on how to establish this connection in a stable way. [diffuse mode](<diffuse mode.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [focus mode](<focus mode.md>) + [diffuse mode](<diffuse mode.md>)
 

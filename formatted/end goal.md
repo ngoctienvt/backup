@@ -58,9 +58,9 @@
 
 - [trust](<trust.md>) and [connection](<connection.md>) are essential to create [optimal conditions](<optimal conditions.md>) for the emergence of [end goal](<end goal.md>)
 
-## [focus on what matters](<focus on what matters.md>)
-- [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goal](<end goal.md>)
-
 ## [personal end goals](<personal end goals.md>)
 - Current [end goal](<end goal.md>)
+
+## [🌱focus on what matters](<🌱focus on what matters.md>)
+- [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goal](<end goal.md>)
 

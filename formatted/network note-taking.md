@@ -1,4 +1,4 @@
-- My usage of network note-taking will be based on [progressive approach](<progressive approach.md>) with the main approach is [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>).
+- My usage of network note-taking will be based on [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) with the main approach is [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>).
 - My [contextual usages](<contextual usages.md>) for [network note-taking](<network note-taking.md>) are
     - easy to search related-information, topics 
     - save and load my state of work

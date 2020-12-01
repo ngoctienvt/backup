@@ -17,9 +17,9 @@
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - [self-generated motivation](<self-generated motivation.md>) for [snowball](<snowball.md>)
 
-## [progressive approach](<progressive approach.md>)
-- [setting up for success](<setting up for success.md>) to create [snowball](<snowball.md>)
-
 ## [snowball effect](<snowball effect.md>)
 - To start a [snowball](<snowball.md>)
+
+## [🌱focus on what matters](<🌱focus on what matters.md>)
+- [setting up for success](<setting up for success.md>) to create [snowball](<snowball.md>)
 

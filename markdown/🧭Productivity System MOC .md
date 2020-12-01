@@ -6,6 +6,6 @@
         - [[The Pilot MOC]] - Ensure doing the right things
             - [[Loops Managing]]
         - [[🌱The Plane ]] - Doing
-            - [[🌲Workflow ]]
+            - [[🌱Workflow ]]
         - [[The Engineer MOC]] - Ensure doing the things right
-    - ### [[🌲PKDS - Personal Knowledge Development System ]]
+    - ### [[🌱PKDS - Personal Knowledge Development System ]]

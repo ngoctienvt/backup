@@ -1,6 +1,6 @@
-- ### Related: [[progressive approach]]
+- ### Related: [[🌱Progressive Development Approach]]
 - ### Definition:
-    - [[Bottom-up Approach MOC]] is an approach that a part of [[progressive approach]]
+    - [[🌲Bottom-up Approach]] is an approach that a part of [[🌱Progressive Development Approach]]
         - for solving big problems
         - learning any thing
         - or achieving any end goals
@@ -21,6 +21,6 @@
         - to let go [[samskaras]]
         - to stay in touch with the [[current moments]]
         - developing [[openness]] and [[abundance appreciation]] gradually
-    - Developing [[deeper understanding]] or [[generative wisdom]] through a [[Bottom-up Approach MOC]]
-    - [[being coaching]] in a [[Bottom-up Approach MOC]] way to support other people with their [[natural progression]] and free of [[personal agenda]]
+    - Developing [[deeper understanding]] or [[generative wisdom]] through a [[🌲Bottom-up Approach]]
+    - [[being coaching]] in a [[🌲Bottom-up Approach]] way to support other people with their [[natural progression]] and free of [[personal agenda]]
     - [[training]] in a way that bottom-up students learning, understanding, and executing instead of simply giving personal knowledge.

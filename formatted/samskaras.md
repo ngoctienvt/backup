@@ -8,9 +8,6 @@
 - [List of samskaras](<List of samskaras.md>)
 
 # Backlinks
-## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-- to let go [samskaras](<samskaras.md>)
-
 ## [List of samskaras](<List of samskaras.md>)
 - [samskaras](<samskaras.md>)
 
@@ -109,4 +106,7 @@ I will be presence myself to interact with them as a whole, not to use them to i
 
 ## [spritual heart](<spritual heart.md>)
 - [samskaras](<samskaras.md>)
+
+## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+- to let go [samskaras](<samskaras.md>)
 

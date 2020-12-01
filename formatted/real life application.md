@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-- ### [real life application](<real life application.md>)
-
 ## [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>)
 - [real life application](<real life application.md>)
 
@@ -14,4 +11,7 @@
 
 ## [information block](<information block.md>)
 - [real life application](<real life application.md>)
+
+## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+- ### [real life application](<real life application.md>)
 

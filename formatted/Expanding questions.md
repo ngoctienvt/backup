@@ -42,7 +42,7 @@
 ## [compressed process](<compressed process.md>)
 - resolving [Expanding questions](<Expanding questions.md>)
 
-## [🌲Workflow ](<🌲Workflow .md>)
+## [🌱Workflow ](<🌱Workflow .md>)
 - What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
 
 ## [💎Templates](<💎Templates.md>)

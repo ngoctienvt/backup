@@ -1,9 +1,9 @@
 - Resources
 - Outline
     - 80/20
-        - [[focus on what matters]]
+        - [[🌱focus on what matters]]
     - Stress-free
-        - [[progressive approach]]
+        - [[🌱Progressive Development Approach]]
         - [[the middle way]]
     - Effective
         - [[helpful manner]]

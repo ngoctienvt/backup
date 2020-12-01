@@ -12,11 +12,10 @@
             - As a support system to develop myself so I can serve the reality better
     - Main components
         - Underlying principle / approach
-            - Once you can see the shape, then you can think about its character.
-            - [[progressive approach]]
-                - [[Top-down Approach MOC]]
-                - [[Bottom-up Approach MOC]]
-        - [[🌱Personal Knowledge Development cycle  ]]
+            - [[🌱Progressive Development Approach]]
+                - [[🌲Top-down Approach]]
+                - [[🌲Bottom-up Approach]]
+        - [[🌱Personal Knowledge Development cycle]]
             - [[Map of Contents]]
             - [[clean up fleeting notes]]
         - [[Personal Knowledge Development workflow]]

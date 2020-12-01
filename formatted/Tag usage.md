@@ -21,10 +21,10 @@
 - [contextual usages](<contextual usages.md>) [Tag usage](<Tag usage.md>)
 
 ## [November 17th, 2020](<November 17th, 2020.md>)
-- I still not sure how I will use my tag properly, it's making me kind of confused about the structure to build my [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>) clean and optimal. [Tag usage](<Tag usage.md>)
+- I still not sure how I will use my tag properly, it's making me kind of confused about the structure to build my [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>) clean and optimal. [Tag usage](<Tag usage.md>)
 
 ## [November 24th, 2020](<November 24th, 2020.md>)
-- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [🌲Focus Management System](<🌲Focus Management System.md>) [Tag usage](<Tag usage.md>)
+- "What is the desired outcome?" and "What is the Next Action." This is two great questions to start my thinking about how to name projects and task [🌱Focus Management System](<🌱Focus Management System.md>) [Tag usage](<Tag usage.md>)
 
 ## [November 28th, 2020](<November 28th, 2020.md>)
 - [Tag usage](<Tag usage.md>)
@@ -35,6 +35,6 @@
 ## [contextual usages](<contextual usages.md>)
 - [Tag usage](<Tag usage.md>)
 
-## [🌲Focus Management System](<🌲Focus Management System.md>)
+## [🌱Focus Management System](<🌱Focus Management System.md>)
 - [Tag usage](<Tag usage.md>)
 

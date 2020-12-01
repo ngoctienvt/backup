@@ -7,5 +7,5 @@
 - [accumulated interest](<accumulated interest.md>)
 
 ## [being coaching](<being coaching.md>)
-- [coaching](<coaching.md>) is also a [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) that have [accumulated interest](<accumulated interest.md>)
+- [coaching](<coaching.md>) is also a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) that have [accumulated interest](<accumulated interest.md>)
 

@@ -1,0 +1,33 @@
+- Characteristic of what matters
+    - 80/20 principle
+    - ensure moving on the right track
+        - [[built-in feedback loop]]
+- What matters are
+    - direction 
+        - end goal instead of means goal or by-product like money, samskaras sastified
+            - [[tools]] or [[method]] are just a means to make the process of achieving [[end goal]] become easier and more effective.
+        - meaningful goal
+            - the impersonal wants
+            - the fun aspects
+            - the meaning aspects
+    - efficient - high-quality activities
+        - understanding instead of collecting, 
+        - creating value instead of feeling meaningful, 
+        - moving forward instead of just preparing and watching.
+    - enjoy, having fun
+- right person
+    - [[establishing the seat of awareness]]
+- right focus
+    - breakdown process for easier digesting and productive batching
+    - [[focus mode]] + [[diffuse mode]] = [[being mode]]
+    - focus on true progression instead of the feeling of doing something meaningful, like instead of focusing on bolding and highlighting/ focus on self-commentary instead.
+        - [[getting in touch with reality]] to [[work at the root]]
+- right reflection
+    - looping with [[built-in feedback loop]]
+- right tools
+    - [[support system]] to utilize external tools, so internal tools focus energy on what's important 
+        - creating an [[Evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]
+        - [[coaching]]
+- momentum
+    - [[setting up for success]] to create [[snowball]]
+        - [[positive inner feedback loop]]

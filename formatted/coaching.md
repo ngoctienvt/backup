@@ -43,6 +43,6 @@ However, most of the time because of our judgment, that's why when I coach for o
 
 - [natural progression](<natural progression.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>) and the state of that soul, whether it is open enough to learn in the [coaching](<coaching.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [coaching](<coaching.md>)
 

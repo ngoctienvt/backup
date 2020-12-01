@@ -27,12 +27,12 @@ It's like creating a gap between my perception based on samskaras and the truth,
 
 - Practices the [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
-## [progressive approach](<progressive approach.md>)
-- [establishing the seat of awareness](<establishing the seat of awareness.md>)
-
 ## [sexual desire](<sexual desire.md>)
 - In order to learn to handle the sexual desire, it's important to remember that we are the one who has the right to navigate the tool which is the body. So it's about learning how to [establishing the seat of awareness](<establishing the seat of awareness.md>)
 
 ## [true love](<true love.md>)
 - how to [establishing the seat of awareness](<establishing the seat of awareness.md>),
+
+## [🌱focus on what matters](<🌱focus on what matters.md>)
+- [establishing the seat of awareness](<establishing the seat of awareness.md>)
 

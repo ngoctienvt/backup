@@ -14,7 +14,7 @@
     - I also start to melt down some of my fear with the society and government system, handling and merging the dark side of reality, the immature government and human being. We are all on our own process to mature and evolve to higher.
     - My [[physical body]] and [[energy management]] is a untouch part of myself. And this is the things that affect my life most now.
         - I will start to shape and process some of my thoughts around this next week.
-- I noticed that most people don't have a systematic way for [[big picture thinking]]. It's just so natural to me that I'm taking it for granted. I will focus more on this, as it will be an important component for my [[progressive approach]]. It's about seeing the forest, not the trees.
+- I noticed that most people don't have a systematic way for [[big picture thinking]]. It's just so natural to me that I'm taking it for granted. I will focus more on this, as it will be an important component for my [[🌱Progressive Development Approach]]. It's about seeing the forest, not the trees.
     - To see the big picture, it's about seeing
         - the relationship between things
         - the hierarchy of things

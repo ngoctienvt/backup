@@ -92,7 +92,7 @@
                 - Focus on shaping it form and test the process from stage one to end stage [[form-shaping]]
             - What if I have only next 24 hours?
     - [[Pareto principle]] 
-        - Pareto principle is [[focus on what matters]]
+        - Pareto principle is [[🌱focus on what matters]]
             - 80% of the result comes from 20% of the effort.
             - 80% of the output comes from 20% of the input...
             - Because what is not matters have significant diminishing returns

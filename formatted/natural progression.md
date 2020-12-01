@@ -20,11 +20,6 @@ us. [union experiences](<union experiences.md>)
 [support system](<support system.md>) that harmony with the [flow of life](<flow of life.md>)
 
 # Backlinks
-## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-- [natural progression](<natural progression.md>)
-
-- [being coaching](<being coaching.md>) in a [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) way to support other people with their [natural progression](<natural progression.md>)
-
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - [natural progression](<natural progression.md>)
 
@@ -102,7 +97,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 - [natural progression](<natural progression.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [Top-down Approach MOC](<Top-down Approach MOC.md>) and close the gap by [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [Top-down Approach MOC](<Top-down Approach MOC.md>) and [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Approach](<🌲Top-down Approach.md>) and close the gap by [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down Approach](<🌲Top-down Approach.md>) and [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>)
 
 - [natural progression](<natural progression.md>)
 
@@ -116,12 +111,17 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [personal workflow](<personal workflow.md>)
 - The workflow will develop base on my [natural progression](<natural progression.md>)
 
-## [progressive approach](<progressive approach.md>)
-- [natural progression](<natural progression.md>)
-
 ## [true happiness](<true happiness.md>)
 - true happiness is a [natural progression](<natural progression.md>)
 
-## [🌲Workflow ](<🌲Workflow .md>)
+## [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 - [natural progression](<natural progression.md>)
+
+## [🌱Workflow ](<🌱Workflow .md>)
+- [natural progression](<natural progression.md>)
+
+## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+- [natural progression](<natural progression.md>)
+
+- [being coaching](<being coaching.md>) in a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) way to support other people with their [natural progression](<natural progression.md>)
 

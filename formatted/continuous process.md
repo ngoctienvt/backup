@@ -6,6 +6,6 @@
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - How can I see like as a [continuous process](<continuous process.md>)
 
-## [progressive approach](<progressive approach.md>)
-- see life as continuous process instead of separation stages only [continuous process](<continuous process.md>)
+## [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
+- [circular process](<circular process.md>) and [continuous process](<continuous process.md>)
 

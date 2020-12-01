@@ -34,6 +34,6 @@ Ideally, I want to shift my tendency from protecting myself to relax and enjoy t
 
 - After the learning process is a [serving](<serving.md>) attitude that based on [getting in touch with reality](<getting in touch with reality.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [getting in touch with reality](<getting in touch with reality.md>)
 

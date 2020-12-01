@@ -1,7 +1,7 @@
 - [natural progression](<natural progression.md>)
 - [readiness](<readiness.md>)
 - # Processed
-    - [focus on what matters](<focus on what matters.md>)
+    - [🌱focus on what matters](<🌱focus on what matters.md>)
     - [horizons of focus](<horizons of focus.md>)
     - [personal workflow](<personal workflow.md>)
 - ### The end goal of an ideal workflow 
@@ -74,22 +74,22 @@
 
 # Backlinks
 ## [November 17th, 2020](<November 17th, 2020.md>)
-- I felt that my [🌲Workflow ](<🌲Workflow .md>)
+- I felt that my [🌱Workflow ](<🌱Workflow .md>)
 
 ## [November 19th, 2020](<November 19th, 2020.md>)
-- Second is I'm starting to learn to organize my life productively by learning about the system of [Ali Abdaal](<Ali Abdaal.md>) and integrating them with my [🌲Workflow ](<🌲Workflow .md>)
+- Second is I'm starting to learn to organize my life productively by learning about the system of [Ali Abdaal](<Ali Abdaal.md>) and integrating them with my [🌱Workflow ](<🌱Workflow .md>)
 
 ## [November 22nd, 2020](<November 22nd, 2020.md>)
-- My [🌲Workflow ](<🌲Workflow .md>)
+- My [🌱Workflow ](<🌱Workflow .md>)
 
 ## [November 26th, 2020](<November 26th, 2020.md>)
-- For developing workflow, I think that's it starts to clear about the process [🌲Workflow ](<🌲Workflow .md>)
+- For developing workflow, I think that's it starts to clear about the process [🌱Workflow ](<🌱Workflow .md>)
 
 ## [TODO](<TODO.md>)
-- [ ] Developing [🌲Workflow ](<🌲Workflow .md>)
+- [ ] Developing [🌱Workflow ](<🌱Workflow .md>)
 
-- [ ] Developing [🌲Workflow ](<🌲Workflow .md>)
+- [ ] Developing [🌱Workflow ](<🌱Workflow .md>)
 
 ## [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
-- [🌲Workflow ](<🌲Workflow .md>)
+- [🌱Workflow ](<🌱Workflow .md>)
 

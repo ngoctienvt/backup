@@ -12,7 +12,7 @@
         - master coach
         - spiritual practitioners
     - ### Process and System 
-        - [[🌲Focus Management System]]
+        - [[🌱Focus Management System]]
             - Horizons of Focus
             - Projects / Tasks management
                 - Manage active projects and tasks
@@ -41,5 +41,5 @@
             - Maintaince the overall system to avoid entropy
             - Upgrading the system incremental or exponential if possible
     - ### [[Projects MOC]] - tasks and actions
-- ### [[🌲Focus Management System]]
+- ### [[🌱Focus Management System]]
 - ### [[Life's Guiding Principles MOC]]

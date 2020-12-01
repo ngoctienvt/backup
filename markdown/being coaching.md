@@ -1,2 +1,2 @@
-- [[Bottom-up Approach MOC]]
-    - [[coaching]] is also a [[Bottom-up Approach MOC]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]
+- [[🌲Bottom-up Approach]]
+    - [[coaching]] is also a [[🌲Bottom-up Approach]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]

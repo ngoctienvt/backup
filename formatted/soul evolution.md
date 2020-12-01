@@ -94,9 +94,9 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 - fully taking [personal responsibilities](<personal responsibilities.md>) for my [soul evolution](<soul evolution.md>)
 
 ## [life](<life.md>)
-- [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>)
+- [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>)
 
 - [soul evolution](<soul evolution.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [Top-down Approach MOC](<Top-down Approach MOC.md>) and close the gap by [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Approach](<🌲Top-down Approach.md>) and close the gap by [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>)
 

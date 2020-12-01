@@ -1,8 +1,8 @@
 - [polestar of my life](<polestar of my life.md>) The core direction of living a surrender life
-    - living an [impactful life](<impactful life.md>) that happens as natural results of practicing [progressive approach](<progressive approach.md>) in a daily manner
+    - living an [impactful life](<impactful life.md>) that happens as natural results of practicing [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) in a daily manner
 - ### Core principles
     - a continuously refining [polestar of my life](<polestar of my life.md>)
-    - [progressive approach](<progressive approach.md>) for a natural progression
+    - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) for a natural progression
         - focus on natural [cleaning and integrating process](<cleaning and integrating process.md>) and [accumulate thought process](<accumulate thought process.md>) to acquire [readiness](<readiness.md>) for the unpredictable unfolding of life
         - moving through life with learning attitude and trust the process
 - ### Components of living a surrender life
@@ -16,9 +16,6 @@
 # Backlinks
 ## [Area of Focus](<Area of Focus.md>)
 - [living from the place of surrender](<living from the place of surrender.md>)
-
-## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-- Learning to [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - For [living from the place of surrender](<living from the place of surrender.md>),
@@ -87,4 +84,7 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 
 ## [polestar of my life](<polestar of my life.md>)
 - The structure will be the bridging between my trueself and [the impersonal world](<the impersonal world.md>) - [soul-guidance](<soul-guidance.md>) [living from the place of surrender](<living from the place of surrender.md>)
+
+## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+- Learning to [living from the place of surrender](<living from the place of surrender.md>)
 

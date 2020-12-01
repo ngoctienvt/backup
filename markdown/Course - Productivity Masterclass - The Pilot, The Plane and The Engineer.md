@@ -36,7 +36,7 @@
         - projects - more than one step
             - the more specific we make our tasks, the more likely we are to get them done
             - every single project needs to have an viable next action
-            - project lists use the concept of the slow burn - [[progressive approach]]
+            - project lists use the concept of the slow burn - [[🌱Progressive Development Approach]]
                 - [[background processing]]
             - **Personal reflection**
                 - Projects will be a bigger picture for me to see what's the stage I'm on different things that I want to complete. 

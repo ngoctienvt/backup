@@ -1,6 +1,6 @@
 - letting go [[personal agenda]] that related to [[@Nguyễn Mỹ Linh]]
-- developing or centering my coaching on [[Bottom-up Approach MOC]] instead of top-down approach.
-    - making [[Bottom-up Approach MOC]] the central of my coaching skills
-        - [[Top-down Approach MOC]] is a supplement for help me to on the right track.
+- developing or centering my coaching on [[🌲Bottom-up Approach]] instead of top-down approach.
+    - making [[🌲Bottom-up Approach]] the central of my coaching skills
+        - [[🌲Top-down Approach]] is a supplement for help me to on the right track.
 - learning to use [[powerful questions]] to support clients stretch themselves to close the gap with their end goals [[closing the gap]]
-- integrating between [[Bottom-up Approach MOC]] and strecth clients to [[closing the gap]]
+- integrating between [[🌲Bottom-up Approach]] and strecth clients to [[closing the gap]]

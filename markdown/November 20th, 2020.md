@@ -21,6 +21,6 @@ It's still unpredictable, but the road is much more clearer about who I am becom
         - then there will be important components that I need to master - core components
         - then there could be improve and optimize it over time - creation/ flexibility
         - My [[training method]] would be about focus on the first two stages - it's more concrete and less abstract
-    - [[Bottom-up Approach MOC]] will help us to aware and notice what's the direction that universe wants us to do, while [[top-down approach will help us to align our life to that direction and serve it in an efficient way. The important is not about efficiency, it's about the willingness to embrace life, step on the direction and then moving on that direction efficiently. [[focus on what matters]]
+    - [[🌲Bottom-up Approach]] will help us to aware and notice what's the direction that universe wants us to do, while [[top-down approach will help us to align our life to that direction and serve it in an efficient way. The important is not about efficiency, it's about the willingness to embrace life, step on the direction and then moving on that direction efficiently. [[🌱focus on what matters]]
 - These few days has been a productive day for me. I managed to complete 2 courses, start to emerge my own productivity system to navigate my life fearlessly. I feel so thankful and grateful for everything that I have today. Namaste.
 - 

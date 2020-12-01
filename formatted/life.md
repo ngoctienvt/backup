@@ -1,15 +1,15 @@
-- [Top-down Approach MOC](<Top-down Approach MOC.md>) is the way of approach life by getting to the absolute truth or high truth and then working to evolve soul enough to be able to live that truth or to fully understand and live that truth. However, it's easy to get trap in the [intellectual gratification](<intellectual gratification.md>).
+- [🌲Top-down Approach](<🌲Top-down Approach.md>) is the way of approach life by getting to the absolute truth or high truth and then working to evolve soul enough to be able to live that truth or to fully understand and live that truth. However, it's easy to get trap in the [intellectual gratification](<intellectual gratification.md>).
     - research
     - training
     - [absolute truth of life](<absolute truth of life.md>) 
     - [intention](<intention.md>) - [living the truth](<living the truth.md>)
     - Jhana yoga
-- [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>), the soul will easily get distracted and live in a sleep state or accept the lower life.
+- [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>), the soul will easily get distracted and live in a sleep state or accept the lower life.
     - meditation
     - [coaching](<coaching.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [Top-down Approach MOC](<Top-down Approach MOC.md>) and close the gap by [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>). This [progressive approach](<progressive approach.md>) of [soul evolution](<soul evolution.md>) includes both [Top-down Approach MOC](<Top-down Approach MOC.md>) and [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>) as possible.
-    - This [progressive approach](<progressive approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>) process to evolve the soul.
-    - This [progressive approach](<progressive approach.md>) also have 3 important point:
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Approach](<🌲Top-down Approach.md>) and close the gap by [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down Approach](<🌲Top-down Approach.md>) and [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) that complement each other to help the soul evolve and live the truth as [natural progression](<natural progression.md>) as possible.
+    - This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>) process to evolve the soul.
+    - This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) also have 3 important point:
         - Intention
         - Available or accumulate
         - Now

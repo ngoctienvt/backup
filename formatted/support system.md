@@ -18,6 +18,6 @@ If we identified with our thoughts and believed this is normal, there is no thin
 ## [natural progression](<natural progression.md>)
 [support system](<support system.md>)
 
-## [progressive approach](<progressive approach.md>)
+## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [support system](<support system.md>)
 

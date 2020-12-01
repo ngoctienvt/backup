@@ -1,5 +1,5 @@
-- The role of [[Top-down Approach MOC]] is 
-    - gaining clarity about direction and big picture that emerge from [[Bottom-up Approach MOC]]
+- The role of [[🌲Top-down Approach]] is 
+    - gaining clarity about direction and big picture that emerge from [[🌲Bottom-up Approach]]
         - [[personal end goals]] 
         - Seeing big picture or the direction [[big picture thinking]]
     - align things to serve the end goal or purpose effectively [[on the right track]]
