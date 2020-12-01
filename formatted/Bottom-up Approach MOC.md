@@ -48,9 +48,6 @@
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - The [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 
-## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
-
 ## [Top-down Approach MOC](<Top-down Approach MOC.md>)
 - gaining clarity about direction and big picture that emerge from [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 
@@ -82,5 +79,8 @@
 ## [progressive approach](<progressive approach.md>)
 -  [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 
+- [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
+
+## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
 - [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 

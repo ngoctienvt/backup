@@ -92,9 +92,6 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - [x] Working with [natural progression](<natural progression.md>)
 
-## [Workflow MOC](<Workflow MOC.md>)
-- [natural progression](<natural progression.md>)
-
 ## [horizons of focus](<horizons of focus.md>)
 - [natural progression](<natural progression.md>)
 
@@ -124,4 +121,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 ## [true happiness](<true happiness.md>)
 - true happiness is a [natural progression](<natural progression.md>)
+
+## [🌲Workflow ](<🌲Workflow .md>)
+- [natural progression](<natural progression.md>)
 

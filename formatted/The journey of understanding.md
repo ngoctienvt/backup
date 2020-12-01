@@ -25,9 +25,9 @@
 ## [November 8th, 2020](<November 8th, 2020.md>)
 - The [The journey of understanding](<The journey of understanding.md>)
 
-## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+## [high-value information blocks](<high-value information blocks.md>)
 - [The journey of understanding](<The journey of understanding.md>)
 
-## [high-value information blocks](<high-value information blocks.md>)
+## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
 - [The journey of understanding](<The journey of understanding.md>)
 

@@ -1,0 +1,21 @@
+- My highest intention for living life
+    - True freedom to be the witness conscious
+    - Be the blessing of the world
+- ## Development - Atomic notes
+    - [[Life Polestar]]
+        - [[Spiritual MOC]]
+    - Life Dharma
+        - [[Coaching MOC]]
+        - [[Training MOC]]
+    - ### System
+        - [[🌲PKDS - Personal Knowledge Development System ]]
+        - [[🧭Productivity System MOC ]]
+            - [[Area of Focus]]
+            - [[Projects MOC]]
+- ### Creation - Evergreen notes
+    - [[Evergreen notes]]
+    - Blog Articles
+    - Training course
+- ### Resources for Learning and Referencing
+    - [[People]]
+    - [[Resources]]

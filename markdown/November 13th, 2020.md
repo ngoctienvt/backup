@@ -19,7 +19,7 @@ https://webflow.com/blog/how-to-create-a-membership-website
     - Today has been an effective day, I clarified my work a lot, and seem like there will be new things for me to learn a new workshop tomorrow, I'm exciting about it. I also feel that the snowball is rolling. I want to share my joy with [[@Nguyễn Mỹ Linh]] anh I also want to hear how's she doing, any if I can do something to help her with.
     - It's a little bit overwhelming though, because there are many things that accumulated and many new things that I want to learn. But I can truly feel that I'm doing better. I'm living. I'm alive. Not as the way before, but truly alive.
 - [[Clarifying]]
-    - [[PKDS - Personal Knowledge Development System MOC]]
+    - [[🌲PKDS - Personal Knowledge Development System ]]
         - evergreen notes, atomic concepts,
             - this one I'm not really clear yet. This is my clarifying stage, and now I need to clarify what I need to clarify. After collecting and shaping a bunch of notes, I will start to emerge the higher-order concepts that I could spend time to spend my time thinking on. 
             - Then I will start to see the components that it's holding like

@@ -5,7 +5,7 @@
     - ### Work Management
         - [[The Pilot MOC]] - Ensure doing the right things
             - [[Loops Managing]]
-        - [[The Plane MOC]] - Doing
-            - [[Workflow MOC]]
+        - [[🌱The Plane ]] - Doing
+            - [[🌲Workflow ]]
         - [[The Engineer MOC]] - Ensure doing the things right
-    - ### [[PKDS - Personal Knowledge Development System MOC]]
+    - ### [[🌲PKDS - Personal Knowledge Development System ]]

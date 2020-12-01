@@ -8,9 +8,6 @@
     - [A: Learning to handle our heart](<A: Learning to handle our heart.md>)
 
 # Backlinks
-## [Home Maps](<Home Maps.md>)
-- [Projects MOC](<Projects MOC.md>)
-
 ## [Roam Research keyword rules](<Roam Research keyword rules.md>)
 - capitalize [scheduling](<scheduling.md>) [Projects MOC](<Projects MOC.md>)
 
@@ -18,4 +15,7 @@
 - projects and project tasks [Projects MOC](<Projects MOC.md>)
 
 - ### [Projects MOC](<Projects MOC.md>)
+
+## [🏠Home Maps](<🏠Home Maps.md>)
+- [Projects MOC](<Projects MOC.md>)
 

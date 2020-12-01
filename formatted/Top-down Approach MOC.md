@@ -28,9 +28,6 @@
 ## [November 29th, 2020](<November 29th, 2020.md>)
 - I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [Top-down Approach MOC](<Top-down Approach MOC.md>)
 
-## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [Top-down Approach MOC](<Top-down Approach MOC.md>)
-
 ## [Top-down Approach MOC](<Top-down Approach MOC.md>)
 - The role of [Top-down Approach MOC](<Top-down Approach MOC.md>)
 
@@ -57,4 +54,7 @@
 - After establishing a starting point, the next thing is about the [mastery](<mastery.md>) process. The process of mastery is what's I actually do in the [Top-down Approach MOC](<Top-down Approach MOC.md>)
 
 - Synthesis things by a [Top-down Approach MOC](<Top-down Approach MOC.md>)
+
+## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+- [Top-down Approach MOC](<Top-down Approach MOC.md>)
 

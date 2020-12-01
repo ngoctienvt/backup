@@ -6,10 +6,7 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkA2aftsAO4.png?alt=media&token=5cb97501-2f85-4df2-b770-564661cd7d9e)
 
 # Backlinks
-## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [Evergreen garden](<Evergreen garden.md>)
-
-## [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
+## [Personal Knowledge Development cycle 🌲 ](<Personal Knowledge Development cycle 🌲 .md>)
 - [Developing phase](<Developing phase.md>) - unifying knowledge - [Evergreen garden](<Evergreen garden.md>)
 
 ## [journaling training](<journaling training.md>)
@@ -23,4 +20,7 @@
 
 ## [progressive approach](<progressive approach.md>)
 - creating an [Evergreen garden](<Evergreen garden.md>)
+
+## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+- [Evergreen garden](<Evergreen garden.md>)
 

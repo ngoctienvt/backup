@@ -1,0 +1,10 @@
+- https://raw.githubusercontent.com/omnidan/node-emoji/master/lib/emoji.json
+- 🌱: seedling
+- 🌲: evergreen_tree
+- 🏠: house
+- 🏙️: cityscape
+- 📆: calendar
+- 📚: books
+- 📝: memo
+- 💎: gem
+- 

@@ -1,0 +1,15 @@
+- Mapping stage
+    - Creating map of contents
+- Clarifying stage - defining relationship between objects inside area of interest
+    - Breaking down components
+        - MOCs
+        - Evergreen notes
+        - Concepts/ Ideas
+    - Structuring level of thinking
+- Nurturing stage
+    - Detailing the contents
+    - Creating quality information blocks or evergreen notes
+- [[Re-organizing stage]]
+    - Navigating
+    - Cleaning what processed
+    - Structuring

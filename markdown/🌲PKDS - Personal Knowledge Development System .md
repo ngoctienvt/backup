@@ -1,0 +1,30 @@
+- # Processing raw data
+    - [[The journey of understanding]]
+    - [[idea emergence]]
+    - [[Evergreen garden]]
+        - [[Evergreen notes]]
+    - [[contextual usages]]
+- # Evergreen notes
+    - Purpose - personal knowledge development in a sustainable and natural way [[current working]]
+        - Meaning - why I want to have a system to develop my personal knowledge?
+            - Effective learning
+            - Reinforce my philosophy of life
+            - As a support system to develop myself so I can serve the reality better
+    - Main components
+        - Underlying principle / approach
+            - Once you can see the shape, then you can think about its character.
+            - [[progressive approach]]
+                - [[Top-down Approach MOC]]
+                - [[Bottom-up Approach MOC]]
+        - [[Personal Knowledge Development cycle 🌲 ]]
+            - [[Map of Contents]]
+            - [[clean up fleeting notes]]
+        - [[Personal Knowledge Development workflow]]
+    - Support system for optimize the system
+        - Roam Research
+        - Quality External Sources
+        - [[PKDS - Personal Knowledge Development System terminology]]
+    - Blockages
+        - personal blockages like old habit-formed will
+        - learning curve 
+        - unclear and feeling stuck

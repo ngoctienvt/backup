@@ -15,11 +15,11 @@
         - end goal - measure of success
         - list of small tasks/steps
         - clarity of thinking
-- For developing workflow, I think that's it starts to clear about the process [[Workflow MOC]] 
+- For developing workflow, I think that's it starts to clear about the process [[🌲Workflow ]] 
     - Weekly review and planning what I need to focus on the next week
         - I need to clear about when I finish what is close the loop for this week.
     - Each morning I will take a look and plan what I will resolve this day
-        - The importance is I have a clear picture of what I need to resolve and how I will resolve them. [[The Plane MOC]] I need to know when I finish it and close the loop of that day.
+        - The importance is I have a clear picture of what I need to resolve and how I will resolve them. [[🌱The Plane ]] I need to know when I finish it and close the loop of that day.
     - The flow will be
     - Most important steps for the above flow are:
         - weekly review and planning

@@ -92,9 +92,6 @@
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - ![Hình ảnh](https://pbs.twimg.com/media/EbqbNmqWoAEuC30?format=png&name=900x900) [output mechanism](<output mechanism.md>) [living from the place of surrender](<living from the place of surrender.md>) [progressive approach](<progressive approach.md>)
 
-## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [progressive approach](<progressive approach.md>)
-
 ## [intention](<intention.md>)
 - [progressive approach](<progressive approach.md>)
 
@@ -123,4 +120,7 @@
 
 ## [true happiness](<true happiness.md>)
 - seeking and living the truth on a [progressive approach](<progressive approach.md>)
+
+## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+- [progressive approach](<progressive approach.md>)
 

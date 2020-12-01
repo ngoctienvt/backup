@@ -1,5 +1,4 @@
-- 
-- css
+- Custom Data Tags CSS
     - ```css
 /* Custom data tags */
 span.rm-page-ref[data-tag="Tweets"] {
@@ -97,4 +96,3 @@ span.rm-page-ref[data-tag="Inbox"] {
     line-height: 2em;
     font-weight: 500;
 }```
-    - 

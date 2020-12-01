@@ -43,9 +43,9 @@
 ## [The Engineer MOC](<The Engineer MOC.md>)
 - [Expanding questions](<Expanding questions.md>)
 
-## [Workflow MOC](<Workflow MOC.md>)
-- What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
-
 ## [compressed process](<compressed process.md>)
 - resolving [Expanding questions](<Expanding questions.md>)
+
+## [🌲Workflow ](<🌲Workflow .md>)
+- What's left is what I still need to grow next, or haven't fully clear yet? - [Expanding questions](<Expanding questions.md>)
 

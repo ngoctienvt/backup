@@ -15,4 +15,3 @@
 - For how to manage [[Creating phase]], I'm not totally clear about my creation process, I feel that I need to clarify about my way of networked thinking, instead of thinking in hierarchy or outline first. This is very important concept to support me to keep things centralized but flexible at the same time.
     - The output is where I consolidate different [[atomic notes]] to serve a certain specific purpose.
     - The [[atomic notes]] is where I hold my thinking around certain concepts that not overlap too much with others, but live independently.
-- 

@@ -7,7 +7,7 @@
 - I felt that all of my goals now is truly independent and freedom. I will learn to fully count on myself, my witness consciousness and will not put my expectation, my happiness, my peace into other people responsibility. [[current working]]
 
 If I count on others, it's because that's the part I'm working on and need to have the support of other people for the time being. It's my responsibility, and they are helping me. 
-- When developing my [[PKDS - Personal Knowledge Development System MOC]], I noticed that [[breakdown]]
+- When developing my [[🌲PKDS - Personal Knowledge Development System ]], I noticed that [[breakdown]]
     - approach is the way that I want to achieve my end goal
     - method is the vehicle that will help me to achieve my end goal
     - procedure is the actual implementation that how I use my vehicle in action to reach my end goal
@@ -16,7 +16,7 @@ If I count on others, it's because that's the part I'm working on and need to ha
         - One is the true end goal that I want to reach
             - In this case, the true end goal is my personal knowledge develop in a sustainable and natural over time
         - Second is the development of the way I want to reach my end goal
-            - One is the vehicle which is [[PKDS - Personal Knowledge Development System MOC]]
+            - One is the vehicle which is [[🌲PKDS - Personal Knowledge Development System ]]
             - Second is the way I will actually use this vehicle in my daily basis - which related to my own action whether to use it properly or not.
     - Identify will be about identify the direct goal that related to that MOC
     - Reason is the reason to achieve this goal
@@ -25,7 +25,7 @@ If I count on others, it's because that's the part I'm working on and need to ha
     - Execution in reality is about integrating it to my daily life
     - Support system is what possible for further research and optimize the process later
     - Review and optimize is the time that I put to improve the whole MOCs.
-- The metaphor for my [[PKDS - Personal Knowledge Development System MOC]] process are collecting food ingredients, proccessing raw ingredients, emerging the course, developing the menus and how to cook them, become a master chef that has knowledge and able to deliver good food.
+- The metaphor for my [[🌲PKDS - Personal Knowledge Development System ]] process are collecting food ingredients, proccessing raw ingredients, emerging the course, developing the menus and how to cook them, become a master chef that has knowledge and able to deliver good food.
 - Today I feel much clearer about my journey ahead, it's about continuing my spiritual journey, while developing myself to become a great human being as well through continuous learning and ouput creating.
 - My [[physical body]] feel cold, hurt though, I should get extra relax on these days first. I'm also learning to relax my inner stuff without the need to clarify them first. Just digest them slowly through relax and release, as long as I keep myself focus on relax and release process, everything will get out eventually.
 - There is a metaphor that makes me feel much easier about my point of view of the world. [[cleaning the inner blockages]]. It is seeing most of us are still babies and even myself, and we are all on learning to become mature souls like Buddha, Christ or spiritual master like Yogananda, Michael Singer. [[metaphor about our true self]] 

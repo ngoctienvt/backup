@@ -42,11 +42,6 @@
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - When bathing, I noticed that how I look at and name things is different depends on the view [horizons of focus](<horizons of focus.md>)
 
-## [Workflow MOC](<Workflow MOC.md>)
-- [horizons of focus](<horizons of focus.md>)
-
-- Clear [horizons of focus](<horizons of focus.md>)
-
 ## [horizons of focus](<horizons of focus.md>)
 - I noticed that I still have the tendency to look for solutions before truly knowing what I want to do. [horizons of focus](<horizons of focus.md>)
 
@@ -59,4 +54,9 @@
 
 ## [point of view](<point of view.md>)
 - point of view is the level or the direction of [horizons of focus](<horizons of focus.md>)
+
+## [🌲Workflow ](<🌲Workflow .md>)
+- [horizons of focus](<horizons of focus.md>)
+
+- Clear [horizons of focus](<horizons of focus.md>)
 

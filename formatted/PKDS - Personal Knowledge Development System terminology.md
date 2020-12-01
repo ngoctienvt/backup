@@ -10,9 +10,9 @@
                 - definition
 
 # Backlinks
-## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
+## [terminology](<terminology.md>)
 - [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)
 
-## [terminology](<terminology.md>)
+## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
 - [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)
 

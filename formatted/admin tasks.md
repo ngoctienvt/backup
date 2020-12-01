@@ -6,6 +6,6 @@
 ## [November 26th, 2020](<November 26th, 2020.md>)
 - [admin tasks](<admin tasks.md>)
 
-## [The Plane MOC](<The Plane MOC.md>)
+## [🌱The Plane ](<🌱The Plane .md>)
 - Handle [admin tasks](<admin tasks.md>)
 

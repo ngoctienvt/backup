@@ -10,16 +10,16 @@
         - {{[[TODO]]}} Reading Coach the person, not the problem
 - ## Projects [[Active]]
     - ### Small projects
-        - Building [[Productivity System MOC]]
-            - {{[[TODO]]}} Developing [[Workflow MOC]]
+        - Building [[🧭Productivity System MOC ]]
+            - {{[[TODO]]}} Developing [[🌲Workflow ]]
                 - {{[[TODO]]}} Developing Goal, Task and Project management system in Roam Research
                 - {{[[TODO]]}} Merging daily workflow with GTD and PKDS
                 - {{[[TODO]]}} Building daily workflow and weekly review
-            - {{[[TODO]]}} Work on [[The Plane MOC]]
+            - {{[[TODO]]}} Work on [[🌱The Plane ]]
             - {{[[TODO]]}} Work on [[The Engineer MOC]]
     - ### Master projects
         - Building a PKDS training program
-            - Developing [[PKDS - Personal Knowledge Development System MOC]]
+            - Developing [[🌲PKDS - Personal Knowledge Development System ]]
                 - {{[[TODO]]}} Developing [[Creating phase]]
             - Design PKDS training program
                 - Learning [[instructional design]]
@@ -27,12 +27,12 @@
     - Input Consuming
         - {{[[TODO]]}} Note-taking [[Courses - Living from the place of surrender]]
         - {{[[TODO]]}} Reading [[Books - Clarity - Clear mind, Better performance, Bigger results]]
-            - [[PKDS - Personal Knowledge Development System MOC]]
+            - [[🌲PKDS - Personal Knowledge Development System ]]
                 - {{[[TODO]]}} Refining and clairifying each phase
                 - {{[[TODO]]}} Developing [[Creating phase]]
     - Working
         - Productivity
-            - {{[[TODO]]}} Work on [[The Plane MOC]]
-            - {{[[TODO]]}} Developing [[Workflow MOC]]
+            - {{[[TODO]]}} Work on [[🌱The Plane ]]
+            - {{[[TODO]]}} Developing [[🌲Workflow ]]
                 - {{[[TODO]]}} Work on [[The Engineer MOC]]
                     - {{[[TODO]]}} Organizing evergreen notes (tags, names, places...)

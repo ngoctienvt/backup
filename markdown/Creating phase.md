@@ -1,0 +1,7 @@
+- Writing process
+    - Outlining
+    - Drafting
+    - Editing
+    - Revising/ Proofreading
+    - Publishing
+- Developing a training program process

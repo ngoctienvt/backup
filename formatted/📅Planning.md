@@ -1,4 +1,4 @@
-- [[Planning]] for next few months
+- [📅Planning](<📅Planning.md>) for next few months
     - Complete PKDS
     - Complete and transition myself to a productive life
     - Build solidify foundation for
@@ -13,3 +13,8 @@
         - Write blog posts consistently
     - Teaching a PKDS class
     - Playing Mage Knight boardgame
+
+# Backlinks
+## [📅Planning](<📅Planning.md>)
+- [📅Planning](<📅Planning.md>)
+

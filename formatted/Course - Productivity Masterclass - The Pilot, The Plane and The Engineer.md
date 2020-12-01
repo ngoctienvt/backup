@@ -79,7 +79,7 @@
             - It's will be important for me to build a [navigating system](<navigating system.md>) that holds these different levels of point of view so that I could always make sure 
                 - I'm navigating my life [on the right track](<on the right track.md>) 
                 - and they are all sync up and align with each other. [alignment](<alignment.md>)
-- ### [The Plane MOC](<The Plane MOC.md>) 
+- ### [🌱The Plane ](<🌱The Plane .md>) 
     - 3 functions
         - take off safely
             - hacking [motivation](<motivation.md>) - hacking brain to just get started

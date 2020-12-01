@@ -12,7 +12,7 @@
         - master coach
         - spiritual practitioners
     - ### Process and System 
-        - [Focus Management System MOC](<Focus Management System MOC.md>)
+        - [🌲Focus Management System](<🌲Focus Management System.md>)
             - Horizons of Focus
             - Projects / Tasks management
                 - Manage active projects and tasks
@@ -41,7 +41,7 @@
             - Maintaince the overall system to avoid entropy
             - Upgrading the system incremental or exponential if possible
     - ### [Projects MOC](<Projects MOC.md>) - tasks and actions
-- ### [Focus Management System MOC](<Focus Management System MOC.md>)
+- ### [🌲Focus Management System](<🌲Focus Management System.md>)
 - ### [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 
 # Backlinks
@@ -54,6 +54,6 @@
 ## [November 24th, 2020](<November 24th, 2020.md>)
 - There are few things that determine how deep I live this life are [E: How deep I live my life?](<E: How deep I live my life?.md>) [The Pilot MOC](<The Pilot MOC.md>)
 
-## [Productivity System MOC](<Productivity System MOC.md>)
+## [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
 - [The Pilot MOC](<The Pilot MOC.md>)
 

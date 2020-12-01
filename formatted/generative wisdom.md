@@ -3,7 +3,7 @@
 ## [Bottom-up Approach MOC](<Bottom-up Approach MOC.md>)
 - Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>)
 
-## [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
+## [Personal Knowledge Development cycle 🌲 ](<Personal Knowledge Development cycle 🌲 .md>)
 - [Creating phase](<Creating phase.md>) - [generative wisdom](<generative wisdom.md>)
 
 ## [human mind](<human mind.md>)

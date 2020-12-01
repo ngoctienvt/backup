@@ -41,12 +41,12 @@
 ## [October 28th, 2020](<October 28th, 2020.md>)
 - [contextual usages](<contextual usages.md>)
 
-## [PKDS - Personal Knowledge Development System MOC](<PKDS - Personal Knowledge Development System MOC.md>)
-- [contextual usages](<contextual usages.md>)
-
 ## [network note-taking](<network note-taking.md>)
 - My [contextual usages](<contextual usages.md>)
 
 ## [personal workflow](<personal workflow.md>)
 - One of new [way of thinking](<way of thinking.md>) I feel that I will need to develop now is [think in a filter way](<think in a filter way.md>) instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [contextual usages](<contextual usages.md>).
+
+## [🌲PKDS - Personal Knowledge Development System ](<🌲PKDS - Personal Knowledge Development System .md>)
+- [contextual usages](<contextual usages.md>)
 

@@ -1,3 +1,10 @@
+- Writing process
+    - Outlining
+    - Drafting
+    - Editing
+    - Revising/ Proofreading
+    - Publishing
+- Developing a training program process
 
 # Backlinks
 ## [December 1st, 2020](<December 1st, 2020.md>)
@@ -15,7 +22,7 @@
 ## [November 28th, 2020](<November 28th, 2020.md>)
 - Start to work on [Creating phase](<Creating phase.md>)
 
-## [Personal Knowledge Development cycle](<Personal Knowledge Development cycle.md>)
+## [Personal Knowledge Development cycle 🌲 ](<Personal Knowledge Development cycle 🌲 .md>)
 - [Creating phase](<Creating phase.md>)
 
 ## [TODO](<TODO.md>)
