@@ -32,6 +32,6 @@
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - [Articles - My Information Operating System Part 3: Synthesizing](<Articles - My Information Operating System Part 3: Synthesizing.md>) [Resources](<Resources.md>)
 
-## [🏠Home Maps](<🏠Home Maps.md>)
+## [🏡Home Maps](<🏡Home Maps.md>)
 - [Resources](<Resources.md>)
 

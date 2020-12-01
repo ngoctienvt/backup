@@ -10,5 +10,5 @@
 - [readiness](<readiness.md>)
 
 ## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
-- [natural progression](<natural progression.md>) based on preparing [readiness](<readiness.md>)
+- [🌱Natural Progression](<🌱Natural Progression.md>) based on preparing [readiness](<readiness.md>)
 

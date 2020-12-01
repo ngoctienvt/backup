@@ -17,6 +17,6 @@
 ## [TODO](<TODO.md>)
 - Building [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
 
-## [🏠Home Maps](<🏠Home Maps.md>)
+## [🏡Home Maps](<🏡Home Maps.md>)
 - [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
 

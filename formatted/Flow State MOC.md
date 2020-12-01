@@ -32,7 +32,7 @@
 - Reduce the number of decision so let [Flow State MOC](<Flow State MOC.md>)
 
 ## [interests](<interests.md>)
-- [natural progression](<natural progression.md>)  - non-resistance, [Flow State MOC](<Flow State MOC.md>),
+- [🌱Natural Progression](<🌱Natural Progression.md>)  - non-resistance, [Flow State MOC](<Flow State MOC.md>),
 
 ## [🌱The Plane ](<🌱The Plane .md>)
 - stay the course with [Flow State MOC](<Flow State MOC.md>)

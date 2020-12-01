@@ -6,7 +6,7 @@ It could be [[physical energy]] but I feel tired even when I fall asleep, so som
 And in other to gain [[contextual mastery]], learning the knowledge is not enough, practicing alone is not enough, it's about deep reflection to [[deeper understanding]] and [[union experiences]] that related to that situation so that we could embrace the skills fully on ourselves.
 
 And to achieve this level of mastery, experiences and [[feedback loop and deep reflection]] are the most important part. 
-- [[natural progression]] it's about learning how to understand how things happen [[wisdom of the world]] and adapt with them so that's we could achieve our goals in a most natural way, and in the process, it's not we don't need to put effort, we put effort on how to clean the inner personal parts so that we could merge with the [[flow of life]]. [[living from the place of surrender]]
+- [[🌱Natural Progression]] it's about learning how to understand how things happen [[wisdom of the world]] and adapt with them so that's we could achieve our goals in a most natural way, and in the process, it's not we don't need to put effort, we put effort on how to clean the inner personal parts so that we could merge with the [[flow of life]]. [[living from the place of surrender]]
 - [[physical energy]] My current yoga practices to improve my physical body are
     - Sun salutation - 5 to 10 rounds - overall
     - Giống hít đất - 60 times - hand

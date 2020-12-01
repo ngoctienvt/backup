@@ -1,4 +1,4 @@
-- [natural progression](<natural progression.md>)
+- [🌱Natural Progression](<🌱Natural Progression.md>)
 - [readiness](<readiness.md>)
 - # Processed
     - [🌱focus on what matters](<🌱focus on what matters.md>)

@@ -5,9 +5,6 @@
 
 - {{[DONE](<DONE.md>)}
 
-## [Nguyệt](<Nguyệt.md>)
-- {{[DONE](<DONE.md>)}
-
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - {{[DONE](<DONE.md>)}
 
@@ -34,6 +31,9 @@
 ## [October 8th, 2020](<October 8th, 2020.md>)
 - {{[DONE](<DONE.md>)}
 
+- {{[DONE](<DONE.md>)}
+
+## [Phạm Nguyệt](<Phạm Nguyệt.md>)
 - {{[DONE](<DONE.md>)}
 
 ## [September 15th, 2020](<September 15th, 2020.md>)

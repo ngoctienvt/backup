@@ -14,6 +14,6 @@ It's still unpredictable, but the road is much more clearer about who I am becom
 ## [The Pilot MOC](<The Pilot MOC.md>)
 - Ensuring that I am living on the right track to my [Life Polestar](<Life Polestar.md>)
 
-## [🏠Home Maps](<🏠Home Maps.md>)
+## [🏡Home Maps](<🏡Home Maps.md>)
 - [Life Polestar](<Life Polestar.md>)
 

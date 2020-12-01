@@ -5,7 +5,7 @@
     - align things to serve the end goal or purpose effectively [on the right track](<on the right track.md>)
     - creating space for exploring, experiment and learning without the fear of being wrong
         - [soft-boundary](<soft-boundary.md>)
-        - [Map of Contents](<Map of Contents.md>) [bottom-line](<bottom-line.md>)
+        - [🧭Map of Contents](<🧭Map of Contents.md>) [bottom-line](<bottom-line.md>)
         - The boundary need to be clear about what is okay to be keep open and what is not.
             - What is okay?
                 - add-on information - are information that will be accumulated and condensed and restructred if it started to excess number 5.

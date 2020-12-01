@@ -15,11 +15,10 @@
 ## [positive inner feedback loop](<positive inner feedback loop.md>)
 - For example, [Evergreen garden](<Evergreen garden.md>)
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
-- [Evergreen garden](<Evergreen garden.md>)
-
 ## [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 - [Developing phase](<Developing phase.md>) - unifying knowledge - [Evergreen garden](<Evergreen garden.md>)
+
+- [Evergreen garden](<Evergreen garden.md>)
 
 ## [🌱focus on what matters](<🌱focus on what matters.md>)
 - creating an [Evergreen garden](<Evergreen garden.md>)

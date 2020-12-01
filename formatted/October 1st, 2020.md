@@ -6,6 +6,6 @@
 - I still feel a little mess to focus to working on [condensing and generative process](<condensing and generative process.md>). I need to be able to create a flow to condense things in a natural way. Now still a little bit too forcing and the mind still scatter in the process as it's not sure what it needs to do.
 
 # Backlinks
-## [Nguyệt](<Nguyệt.md>)
+## [Phạm Nguyệt](<Phạm Nguyệt.md>)
 - [x] Coaching chị Nguyệt buổi 3 [October 1st, 2020](<October 1st, 2020.md>)
 

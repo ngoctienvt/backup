@@ -68,21 +68,21 @@
 ## [November 30th, 2020](<November 30th, 2020.md>)
 - We can't just love the stillness of the ocean, and hate the times when ocean has storms. We need to love things as a whole. #[Evergreen notes](<Evergreen notes.md>)
 
-## [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)
-- [Evergreen notes](<Evergreen notes.md>)
-
 ## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
 - Tags: #[Evergreen notes](<Evergreen notes.md>)
+
+## [idea emergence](<idea emergence.md>)
+- #[Evergreen notes](<Evergreen notes.md>)
 
 ## [network note-taking](<network note-taking.md>)
 - While maintaining a flexible way to handle these [atomic concept](<atomic concept.md>) as well as [Evergreen notes](<Evergreen notes.md>)
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+## [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 - [Evergreen notes](<Evergreen notes.md>)
 
 ## [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 - [Evergreen notes](<Evergreen notes.md>)
 
-## [🏠Home Maps](<🏠Home Maps.md>)
+## [🏡Home Maps](<🏡Home Maps.md>)
 - [Evergreen notes](<Evergreen notes.md>)
 

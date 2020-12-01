@@ -7,10 +7,10 @@
 - [[🌲Bottom-up Approach]] is the way of approach life from the current starting point and working from that level to move up the [[soul evolution]] process in a natural way. However, if there is no [[intention]], the soul will easily get distracted and live in a sleep state or accept the lower life.
     - meditation
     - [[coaching]]
-- [[soul evolution]] will need to work on both level to have a [[intention]] to aim to from [[🌲Top-down Approach]] and close the gap by [[🌲Bottom-up Approach]]. This [[🌱Progressive Development Approach]] of [[soul evolution]] includes both [[🌲Top-down Approach]] and [[🌲Bottom-up Approach]] that complement each other to help the soul evolve and live the truth as [[natural progression]] as possible.
+- [[soul evolution]] will need to work on both level to have a [[intention]] to aim to from [[🌲Top-down Approach]] and close the gap by [[🌲Bottom-up Approach]]. This [[🌱Progressive Development Approach]] of [[soul evolution]] includes both [[🌲Top-down Approach]] and [[🌲Bottom-up Approach]] that complement each other to help the soul evolve and live the truth as [[🌱Natural Progression]] as possible.
     - This [[🌱Progressive Development Approach]] actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [[merging]] process to evolve the soul.
     - This [[🌱Progressive Development Approach]] also have 3 important point:
         - Intention
         - Available or accumulate
         - Now
-- [[natural progression]] means that it depends on the [[soul uniqueness]] and the state of that soul, whether it is open enough to learn in the [[coaching]] way or requires shocking experience from [[reality]], or need the [[truth-oriented]] knowledge to process next.
+- [[🌱Natural Progression]] means that it depends on the [[soul uniqueness]] and the state of that soul, whether it is open enough to learn in the [[coaching]] way or requires shocking experience from [[reality]], or need the [[truth-oriented]] knowledge to process next.

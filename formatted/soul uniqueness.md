@@ -7,5 +7,5 @@
 - When I can contain things, I will have my way of interacting with the world instead of following the action of other masters. They will not be the one who defines my behavior, but I will instead. [soul uniqueness](<soul uniqueness.md>)
 
 ## [life](<life.md>)
-- [natural progression](<natural progression.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>)
+- [🌱Natural Progression](<🌱Natural Progression.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>)
 

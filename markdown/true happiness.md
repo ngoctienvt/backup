@@ -1,6 +1,6 @@
 - For me, what makes a true happiness are 
     - [[true freedom]] - the inner freedom that we got free from the inner urge and the inner thoughts
     - seeking and living the truth on a [[🌱Progressive Development Approach]] [[Wisdom]] - let go of the untruth and have the courage to direct ourselves to live the truth, as it's the only sustainable way
-- true happiness is a [[natural progression]] process, not a [[forceful]] process. And it's the inner state that could achieve without any external things.
+- true happiness is a [[🌱Natural Progression]] process, not a [[forceful]] process. And it's the inner state that could achieve without any external things.
 - 
 - 

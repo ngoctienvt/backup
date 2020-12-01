@@ -11,7 +11,7 @@
 - ### Characteristics of bottom-up approach:
     - work on [integration](<integration.md>) what haven't resolved
     - emphasizes on now to learn in a progressive way
-    - [natural progression](<natural progression.md>) based on preparing [readiness](<readiness.md>) for next stage
+    - [🌱Natural Progression](<🌱Natural Progression.md>) based on preparing [readiness](<readiness.md>) for next stage
 - ### Procedure of bottom-up approach:????
     - Identify what need to be integrate with
     - Working on to integrate it with myself
@@ -22,7 +22,7 @@
         - to stay in touch with the [current moments](<current moments.md>)
         - developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>) gradually
     - Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>) through a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
-    - [being coaching](<being coaching.md>) in a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) way to support other people with their [natural progression](<natural progression.md>) and free of [personal agenda](<personal agenda.md>)
+    - [being coaching](<being coaching.md>) in a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) way to support other people with their [🌱Natural Progression](<🌱Natural Progression.md>) and free of [personal agenda](<personal agenda.md>)
     - [training](<training.md>) in a way that bottom-up students learning, understanding, and executing instead of simply giving personal knowledge.
 
 # Backlinks

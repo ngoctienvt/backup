@@ -16,6 +16,6 @@
 
 - ### [Projects MOC](<Projects MOC.md>)
 
-## [🏠Home Maps](<🏠Home Maps.md>)
+## [🏡Home Maps](<🏡Home Maps.md>)
 - [Projects MOC](<Projects MOC.md>)
 

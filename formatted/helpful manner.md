@@ -33,7 +33,7 @@ compassion and caring for other people in an [helpful manner](<helpful manner.md
 - Today spiritual course, I want to support people to reflect what we learned so far, what they learned about themselves, how it started to change the way they see the world, the responsibilities they have, their unconscious behaviors in a [helpful manner](<helpful manner.md>).
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
-- The important keywords here are [impersonal responsibilities](<impersonal responsibilities.md>) and [natural progression](<natural progression.md>). That's it. As I master these two things, I could carry myself to handle anything that life bring to me in the most [helpful manner](<helpful manner.md>).
+- The important keywords here are [impersonal responsibilities](<impersonal responsibilities.md>) and [🌱Natural Progression](<🌱Natural Progression.md>). That's it. As I master these two things, I could carry myself to handle anything that life bring to me in the most [helpful manner](<helpful manner.md>).
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
 I want to develop the combination between a [tough love](<tough love.md>) and [compassion](<compassion.md>) in a way that they merge with each other so I can coach with a tough love but let my compassion inspire the way. [helpful manner](<helpful manner.md>)

@@ -1,10 +1,8 @@
-- Map of contents are the navigating system that organize my central nodes
-    - Centralized notes are the notes that highly develop with many evergreen notes 
-        - [[Evergreen notes]] are notes that are written and organized to evolve, contribute, and accumulate over time.
-            - My type of evergreen notes are
-                - Concepts/ideas/process note
-                - Explaining notes
-                - Blog notes/ Articles notes
-                - Argument notes
-            - An evergreen note will have content about different [[types of information block]]
-                - definition
+- [[🏡Home Maps]] stored all of the general [[🧭Maps of contents]] that act as a navigator 
+    - [[🧭Maps of contents]] are the navigating system that stored all of [[🎯Centralized Notes]]
+    - [[🎯Centralized Notes]] are broad and complicated concepts that highly develop with many [[🌲Evergreen Notes]]
+        - [[🌲Evergreen Notes]] are notes that are written and organized to evolve, contribute, and accumulate over time.
+            - [[⚡Concept Notes]]
+            - [[✍Idea-drafts Notes]]
+- [[🌱Seedling Notes]] are notes that in the processing stages and has not mature enough yet.
+- Blog notes/ Articles notes are [[📝Output Notes]] will be stored and write on other platform like Notion instead

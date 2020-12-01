@@ -54,7 +54,7 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
 - Able to embrace every single experience that the unfolding life giving to me [integration](<integration.md>)
 
-## [natural progression](<natural progression.md>)
+## [🌱Natural Progression](<🌱Natural Progression.md>)
 - [integration](<integration.md>)
 
 ## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)

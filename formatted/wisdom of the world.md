@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [October 9th, 2020](<October 9th, 2020.md>)
-- [natural progression](<natural progression.md>) it's about learning how to understand how things happen [wisdom of the world](<wisdom of the world.md>)
+- [🌱Natural Progression](<🌱Natural Progression.md>) it's about learning how to understand how things happen [wisdom of the world](<wisdom of the world.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 -  Low floor to start with so students can start to grasp the concept and build up their personal knowledge and [wisdom of the world](<wisdom of the world.md>).

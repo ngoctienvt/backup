@@ -11,7 +11,7 @@
     - preparing all the needed materials for creation [serving the demand of reality](<serving the demand of reality.md>)
 - ### What's the difference of this journaling method?
     - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
-    - [natural progression](<natural progression.md>)
+    - [🌱Natural Progression](<🌱Natural Progression.md>)
 - ### Journaling in practice
     - [accumulate scattering thoughts process](<accumulate scattering thoughts process.md>)
     - [compressed process](<compressed process.md>)

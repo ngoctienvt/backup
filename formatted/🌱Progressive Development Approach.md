@@ -5,7 +5,7 @@
     - [sustainable development](<sustainable development.md>)
         - bring out [individual uniqueness](<individual uniqueness.md>) naturally
 - ### [Guiding Principles](<Guiding Principles.md>)
-    - [natural progression](<natural progression.md>)
+    - [🌱Natural Progression](<🌱Natural Progression.md>)
         - enjoy the process and let the result emerge
         - [circular process](<circular process.md>) and [continuous process](<continuous process.md>) that focused on
             - process and end goal 

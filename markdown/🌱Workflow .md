@@ -1,4 +1,4 @@
-- [[natural progression]]
+- [[🌱Natural Progression]]
 - [[readiness]]
 - # Processed
     - [[🌱focus on what matters]]

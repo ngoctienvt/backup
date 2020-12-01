@@ -24,14 +24,14 @@
 
 # Backlinks
 ## [November 7th, 2020](<November 7th, 2020.md>)
-- [Map of Contents](<Map of Contents.md>)
+- [🧭Map of Contents](<🧭Map of Contents.md>)
 
 ## [November 9th, 2020](<November 9th, 2020.md>)
-- Each [Map of Contents](<Map of Contents.md>)
+- Each [🧭Map of Contents](<🧭Map of Contents.md>)
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
-- [Map of Contents](<Map of Contents.md>)
+## [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
+- [🧭Map of Contents](<🧭Map of Contents.md>)
 
 ## [🌲Top-down Approach](<🌲Top-down Approach.md>)
-- [Map of Contents](<Map of Contents.md>)
+- [🧭Map of Contents](<🧭Map of Contents.md>)
 

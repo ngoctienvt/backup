@@ -76,13 +76,13 @@ OK - [Binz](<Binz.md>) [funny](<funny.md>)
     - To [support](<support.md>) other people, first, I will need to not make them more [suffering](<suffering.md>) by my [reaction](<reaction.md>). 
     - Then I can be calm, be clear and be non-negative. 
     - Then if I can support, I need to fill in myself with [inner flow of energy](<inner flow of energy.md>) and positive [inner state](<inner state.md>) first. After that, I could be the person capable of supporting them.
-- [September 17th, 2020](<September 17th, 2020.md>) Coaching chị [Nguyệt](<Nguyệt.md>) buổi 2 lúc 8h30
+- [September 17th, 2020](<September 17th, 2020.md>) Coaching chị [Phạm Nguyệt](<Phạm Nguyệt.md>) buổi 2 lúc 8h30
 - [being state](<being state.md>) is a state that I can focus entirely on [cleaning and integrating process](<cleaning and integrating process.md>) through relaxation and possibly focus in the right direction [high intention](<high intention.md>) at the same time. It is the state that the combination of relaxing and focusing simultaneously.
 - To use roam effectively, I feel that I need to let go the need to perfect, the fear to messy and cluster things, because they simply just flow and I just need to focus on what's important, what's higher thought I can condense and let behind the outdated thought, 'cause they will automatically left behind or will resurface to become ingredients for new level of thought. [fear](<fear.md>)
 - [Text Blaze](<Text Blaze.md>) is a good chrome extension to have a [text expander](<text expander.md>). This is useful for [repeated task](<repeated task.md>), it likes a [template](<template.md>) for digital conversation.
 -  roam is different with other things make me interested in the past. roam makes me want to use it more and more because it actually helps me to produce real [results](<results.md>), instead of just add bonus and make things better. It’s solving my big hindrance to the things that I want to do is to not waste and feel accumulation of what I did. 
     - [accumulation](<accumulation.md>) is the big thing here. I don’t like to do things that didn’t have accumulated impact and larger over time.
-    - The other thing is it’s [natural progression](<natural progression.md>) to me, because I like to use mind to think, and want to use it effectively. And I’m actually good at it. Instead of doing things that have good accumulate but feel not right for me and require too much effort, roam helped me to utilize what I’m really good at.
+    - The other thing is it’s [🌱Natural Progression](<🌱Natural Progression.md>) to me, because I like to use mind to think, and want to use it effectively. And I’m actually good at it. Instead of doing things that have good accumulate but feel not right for me and require too much effort, roam helped me to utilize what I’m really good at.
 - There are different level of [understanding](<understanding.md>). 
     - The deepest level I know is soul understanding which means the process of merging external vibrations and the soul itself.
     - The lower level is mind understanding, which means I can understand the concept, but haven’t able to merge it into a part of my self. It’s still like the weapon that hold in my hand, instead of become a part of my body.
@@ -94,7 +94,7 @@ OK - [Binz](<Binz.md>) [funny](<funny.md>)
     - the coach is only the person who guided them into that deepening process instead of working at the mind level.
     - [x] I need to spend more time in this topic to condense my real wisdom about it.
     -  I felt that it’s still a concept for me and not become a part of me for now. In the [soul understanding](<soul understanding.md>) level, things become a part of me but it’s not the end. When it becomes a part of me, it’s my job to develop it continuously or it will still decay over time.
-- My main [intention](<intention.md>) for [mind-training](<mind-training.md>) program is to help people improve their thinking in a [natural progression](<natural progression.md>) way.
+- My main [intention](<intention.md>) for [mind-training](<mind-training.md>) program is to help people improve their thinking in a [🌱Natural Progression](<🌱Natural Progression.md>) way.
     - It means that it’s kind of of a structure to help people how to [[bottom-up approach their PC and have their own upgrade or evolve. 
     - I’m mainly helping them to understand the concept of how to bottom-up and they will be able to do it over time. It requires no starting point, no pre-knowledge, no limitation.
     -  Just start at where they are and start to build things up. No need to even think about how to reconstruct it but makes it can easily reconstruct itself.

@@ -18,11 +18,11 @@
 ## [September 25th, 2020](<September 25th, 2020.md>)
 - In today's letting go, I started to really develop a desire to come back to my true self and think at that level, instead of the human level. I want to work from the soul level down to the human being level. The reason is if I operate on a human being level, I'm very easy to lose myself in the thinking level that derives from [identification](<identification.md>)
 
-## [natural progression](<natural progression.md>)
+## [surrender](<surrender.md>)
+- We are not willing to surrender because of our ignorance and the fact that we lost in the [identification](<identification.md>)
+
+## [🌱Natural Progression](<🌱Natural Progression.md>)
 and lost ourselves on the process [identification](<identification.md>)
 
 out of the [identification](<identification.md>)
-
-## [surrender](<surrender.md>)
-- We are not willing to surrender because of our ignorance and the fact that we lost in the [identification](<identification.md>)
 

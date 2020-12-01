@@ -21,7 +21,7 @@ own [samskaras](<samskaras.md>) or my own [inner urge](<inner urge.md>). [reacti
         - for collecting raw materials, I feel that it's very important to keep it in a way that I can easily come back to what I haven't resolved yet. My current method is using Resources to keep track of things. But I have the worry when it will become clustering when there are more things. [clustering](<clustering.md>)
         - raw materials would not a perfect name to mention the collection of unresolved input from reading, experience, failing,... [raw data](<raw data.md>) is a better name to relate with.
     - Other is what if there is some knowledge that case-sensitive and I need to do them in a hard-boundary situation instead of merging them to my whole life. [personal knowledge development](<personal knowledge development.md>)
-        - I want to able to integrate them and also split them at the same time in a natural way. [natural progression](<natural progression.md>)
+        - I want to able to integrate them and also split them at the same time in a natural way. [🌱Natural Progression](<🌱Natural Progression.md>)
         - 2 components: situational interaction and general interaction
             - general is about my daily life
         - while case-sensitive is about some situation that I need to operate in a specific way to complete a certain case-sensitive intention like coaching, training,...

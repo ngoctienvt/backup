@@ -9,7 +9,7 @@
         - Writing/ Creating
         - Sharing
         - Letting go
-    - The workflow will develop base on my [[natural progression]] of development and what I'm truly want, then I will develop new way of thinking, learning new things so that it will support the above desire.
+    - The workflow will develop base on my [[🌱Natural Progression]] of development and what I'm truly want, then I will develop new way of thinking, learning new things so that it will support the above desire.
         - One of new [[way of thinking]] I feel that I will need to develop now is [[think in a filter way]] instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [[contextual usages]].
 - What is the components that need to be clarify?
     - Tasks

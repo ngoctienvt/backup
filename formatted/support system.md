@@ -15,7 +15,7 @@ If we identified with our thoughts and believed this is normal, there is no thin
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [life flow](<life flow.md>) To have an effective and meaningful life, we need to not just live right with the [flow of life](<flow of life.md>) but learn how to utilize it as well. And one thing important is to have a system that we can trust to support our mind out of the task of remembering and gathering information. [support system](<support system.md>)
 
-## [natural progression](<natural progression.md>)
+## [🌱Natural Progression](<🌱Natural Progression.md>)
 [support system](<support system.md>)
 
 ## [🌱focus on what matters](<🌱focus on what matters.md>)

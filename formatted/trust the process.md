@@ -27,5 +27,5 @@
 - [trust the process](<trust the process.md>)
 
 ## [interests](<interests.md>)
-- [natural progression](<natural progression.md>)  - non-resistance, [Flow State MOC](<Flow State MOC.md>), merging, cleaning, [trust the process](<trust the process.md>)
+- [🌱Natural Progression](<🌱Natural Progression.md>)  - non-resistance, [Flow State MOC](<Flow State MOC.md>), merging, cleaning, [trust the process](<trust the process.md>)
 

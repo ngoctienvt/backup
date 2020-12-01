@@ -34,7 +34,7 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 Due to that energy, I can start to express them outside in an impersonal way to [serving the demand of reality](<serving the demand of reality.md>) to [living from the place of surrender](<living from the place of surrender.md>).
 
 [serving the demand of reality](<serving the demand of reality.md>) requires me to interact with the physical in many ways. It could be about writing, sharing, talking, doing, impacting, influencing, thinking,... All of the activities that the soul involves with the [impersonal reality](<impersonal reality.md>).
-        - The important keywords here are [impersonal responsibilities](<impersonal responsibilities.md>) and [natural progression](<natural progression.md>). That's it. As I master these two things, I could carry myself to handle anything that life bring to me in the most [helpful manner](<helpful manner.md>).
+        - The important keywords here are [impersonal responsibilities](<impersonal responsibilities.md>) and [🌱Natural Progression](<🌱Natural Progression.md>). That's it. As I master these two things, I could carry myself to handle anything that life bring to me in the most [helpful manner](<helpful manner.md>).
 - I also felt that I developed a desire for toughing with myself and with the person who want to follow or work with me as well. I still felt that this desire still have the part that personal which is about my ideas about how others should  be, but it also have an impersonal part which is together we [serving the demand of reality](<serving the demand of reality.md>) by our [impersonal responsibilities](<impersonal responsibilities.md>). 
 
 Because if I'm not have a [tough love](<tough love.md>) and [high standards](<high standards.md>), I will feel hard to develop a [surrender teams](<surrender teams.md>) that could shoulder to each other, I still feel that I'm like carrying and teaching them instead of shoulder to shoulder for each other. [teammates](<teammates.md>)
@@ -73,7 +73,7 @@ The way to do this is break things down and focus on 1 things at a time. For ins
 This really helps to pick up the task where we at without the need to keep in our mind is a really way to use our [intellectual mind](<intellectual mind.md>) in a effective way.
 - 
 - [funny](<funny.md>) [music](<music.md>) {{[youtube](<youtube.md>): https://www.youtube.com/watch?v=7jQipab-Ddc&ab_channel=Wowy}}
-- On Saturday, I want to share about freedom and wisdom, because this is really two things that makes me have a true happiness and a way of living. [true happiness](<true happiness.md>) [natural progression](<natural progression.md>)
+- On Saturday, I want to share about freedom and wisdom, because this is really two things that makes me have a true happiness and a way of living. [true happiness](<true happiness.md>) [🌱Natural Progression](<🌱Natural Progression.md>)
 - For the [truth compass](<truth compass.md>), I think that my main way to make decision on life is not about truth. Actually truth is what I can see and know what are really happening, but my decision is different. 
 
 It will be about what I feel right at the moment depending on my inner state at that time, so it will not fixed on truth, but rather fluid on situation but still based on the truth that I saw. [decision-making](<decision-making.md>) 

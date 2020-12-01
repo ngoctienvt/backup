@@ -12,12 +12,12 @@
 - I felt my uncomfortable feeling for my usual routine is disturbed [need for convenience](<need for convenience.md>). I do not totally surrender myself to the [flow of life](<flow of life.md>)
 
 ## [October 9th, 2020](<October 9th, 2020.md>)
-- [natural progression](<natural progression.md>) it's about learning how to understand how things happen [wisdom of the world](<wisdom of the world.md>) and adapt with them so that's we could achieve our goals in a most natural way, and in the process, it's not we don't need to put effort, we put effort on how to clean the inner personal parts so that we could merge with the [flow of life](<flow of life.md>).
+- [🌱Natural Progression](<🌱Natural Progression.md>) it's about learning how to understand how things happen [wisdom of the world](<wisdom of the world.md>) and adapt with them so that's we could achieve our goals in a most natural way, and in the process, it's not we don't need to put effort, we put effort on how to clean the inner personal parts so that we could merge with the [flow of life](<flow of life.md>).
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
 - [life flow](<life flow.md>) To have an effective and meaningful life, we need to not just live right with the [flow of life](<flow of life.md>)
 
-## [natural progression](<natural progression.md>)
+## [🌱Natural Progression](<🌱Natural Progression.md>)
 operates ourselves in a way that harmony with the [flow of life](<flow of life.md>).
 
 - The lack of understanding about the oneness [flow of life](<flow of life.md>)

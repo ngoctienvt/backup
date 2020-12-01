@@ -84,6 +84,6 @@ Only the person or the soul can know what's best for them and what's the [higher
 ## [helpful manner](<helpful manner.md>)
 - helpful manner is a manner that focuses on raising the moments or the person in front of me in an [efficient](<efficient.md>) way instead of using them to satisfy my [personal needs](<personal needs.md>)
 
-## [natural progression](<natural progression.md>)
+## [🌱Natural Progression](<🌱Natural Progression.md>)
 - Surrender our [personal needs](<personal needs.md>)
 

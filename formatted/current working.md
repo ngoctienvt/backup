@@ -14,6 +14,3 @@ If I want to know something, I need to be the one who really check it and [getti
 
 - I also on a transition stage that replacing my old [habit-formed will](<habit-formed will.md>) to a new direction that is more helpful and supportive for my [spiritual growth](<spiritual growth.md>). [current working](<current working.md>)
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
-- Purpose - personal knowledge development in a sustainable and natural way [current working](<current working.md>)
-

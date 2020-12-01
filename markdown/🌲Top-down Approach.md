@@ -5,7 +5,7 @@
     - align things to serve the end goal or purpose effectively [[on the right track]]
     - creating space for exploring, experiment and learning without the fear of being wrong
         - [[soft-boundary]]
-        - [[Map of Contents]] [[bottom-line]]
+        - [[🧭Map of Contents]] [[bottom-line]]
         - The boundary need to be clear about what is okay to be keep open and what is not.
             - What is okay?
                 - add-on information - are information that will be accumulated and condensed and restructred if it started to excess number 5.

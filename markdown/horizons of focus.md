@@ -19,5 +19,5 @@
     - [[process-oriented]] focus on the intention and action, not the result
 - Personal point of focus
     - the bridge between shakti, consciousness, and the world by cleaning the blockages
-        - [[natural progression]]
+        - [[🌱Natural Progression]]
     - [[humility]], [[true love]]. [[inner clarity]] and [[unattachment centering]] are three quality that is my [[horizons of focus]] currently.  

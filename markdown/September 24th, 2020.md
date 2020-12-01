@@ -10,7 +10,7 @@
 
 I will support her on two main levels as a soul and as a lover.
 - Things have different levels and depend on what levels, I want to develop and maintain an open [[intellectual mind]] to see things clearly without distorting by my [[personal mind]] and by my [[freewill]]. [[openness]]
-- For me, practicing [[honoring]] and [[abundance appreciation]] is not try but rather to come back to the truth. This is a [[natural progression]] and an obvious way for living life when I'm able to [[clear the fog]].
+- For me, practicing [[honoring]] and [[abundance appreciation]] is not try but rather to come back to the truth. This is a [[🌱Natural Progression]] and an obvious way for living life when I'm able to [[clear the fog]].
 - I felt that I started to release more and more the love samskaras, the angry samskaras, and some fear samskaras.
 - When I read [[Surat Shabd Yoga]], I realized that it could be very helpful to practice directly to keep the energy be high instead of letting it run to the bottom and direct it back to the top. It would require me to practice [[willpower]] to hold my focus on the third eye. [[direct]] Of course, I still need to relax in the process so that it could happen naturally. 
 -  I thought about playing some Switch games, it seems like my [[inner urge]] start to find other things to satisfy it. I want to establish my [[intention]] first.

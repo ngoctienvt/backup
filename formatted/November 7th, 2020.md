@@ -12,7 +12,7 @@ It's not we shape the environment, and the environment shapes us. It's about we 
 We exist inter-related but independent at the same time.
 - I feel so thankful when I found out [Nick Milo](<Nick Milo.md>). He helped me to realize my attachments and whether Roam or Obsidian, I will stop to care about the tools yet. I will identify what I truly want, how would be my process to work on it, then I will be considered the tool later. The tools are just [support system](<support system.md>) that I will look for after I already have inner clarity, not the attachment by the samskaras that give me short-term pleasure.
 - [Articles - The Potential Side Effects of Progressive Summarization](<Articles - The Potential Side Effects of Progressive Summarization.md>)
-- [Map of Contents](<Map of Contents.md>)
+- [🧭Map of Contents](<🧭Map of Contents.md>)
 - [idea emergence](<idea emergence.md>)
     - https://twitter.com/NickMilo/status/1317190776284086272
     - Level 1 

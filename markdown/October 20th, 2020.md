@@ -6,7 +6,7 @@
 - I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [[unattachment centering]]
 - There is a realization that in order to define what's right and what's not, the main point is who decides. And if I could always let my true self decide then I'm always on good shape, and also can be sure that I'm on the right track. [[soul-guidance]] [[truth compass]]
     - The [[ego-guidance]] will base its ideas from separation, reaction, samskaras, the inner-disturbance, the past, results-oriented.
-    - The [[soul-guidance]] will base on the [[integration]], [[generating languages]], [[being mode]], natural flow-oriented - [[natural progression]].
+    - The [[soul-guidance]] will base on the [[integration]], [[generating languages]], [[being mode]], natural flow-oriented - [[🌱Natural Progression]].
 - We are so misunderstood about the definition of what is normal, we are live in the unhealthy state of being, behaviors, choices but we believe they are normal. [[true normal]] need to be seen or else we will have no reason to cure ourselves.
     - In order to truly know what is normal, we need to know what is it and what is the method to find out what's normal?
 - 

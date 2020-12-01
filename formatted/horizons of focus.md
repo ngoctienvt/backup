@@ -19,7 +19,7 @@
     - [process-oriented](<process-oriented.md>) focus on the intention and action, not the result
 - Personal point of focus
     - the bridge between shakti, consciousness, and the world by cleaning the blockages
-        - [natural progression](<natural progression.md>)
+        - [🌱Natural Progression](<🌱Natural Progression.md>)
     - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>) are three quality that is my [horizons of focus](<horizons of focus.md>) currently.  
 
 # Backlinks

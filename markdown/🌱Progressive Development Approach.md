@@ -5,7 +5,7 @@
     - [[sustainable development]]
         - bring out [[individual uniqueness]] naturally
 - ### [[Guiding Principles]]
-    - [[natural progression]]
+    - [[🌱Natural Progression]]
         - enjoy the process and let the result emerge
         - [[circular process]] and [[continuous process]] that focused on
             - process and end goal 

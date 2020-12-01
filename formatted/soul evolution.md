@@ -55,7 +55,7 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 - Two is about school and become tough to deal with other people. I felt that I'm raising myself over all of the notion about how things should be, all of the moral ethics, and the structure that try to control us. [spiritual growth](<spiritual growth.md>) [soul evolution](<soul evolution.md>)
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
-- Today I still learn that [focus](<focus.md>) can't happen if we force it to happen. When we start to merge the experiences, things will start to be clear and be condense, so that's the focus happens in a [natural progression](<natural progression.md>) way. [soul evolution](<soul evolution.md>)
+- Today I still learn that [focus](<focus.md>) can't happen if we force it to happen. When we start to merge the experiences, things will start to be clear and be condense, so that's the focus happens in a [🌱Natural Progression](<🌱Natural Progression.md>) way. [soul evolution](<soul evolution.md>)
 
 ## [September 15th, 2020](<September 15th, 2020.md>)
 - My thought about the process of productive life is not completed yet. Currently, I knew that soul evolvement is the highest development level that I can work on. And the soul evolves from the stored samskaras on the heart and the mind. By cleaning these things, I made my inner house much cleaner and I can see things much clearer. [soul evolution](<soul evolution.md>)

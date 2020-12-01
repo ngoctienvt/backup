@@ -15,3 +15,12 @@
 - For how to manage [Creating phase](<Creating phase.md>), I'm not totally clear about my creation process, I feel that I need to clarify about my way of networked thinking, instead of thinking in hierarchy or outline first. This is very important concept to support me to keep things centralized but flexible at the same time.
     - The output is where I consolidate different [atomic notes](<atomic notes.md>) to serve a certain specific purpose.
     - The [atomic notes](<atomic notes.md>) is where I hold my thinking around certain concepts that not overlap too much with others, but live independently.
+- Tomorrow I will have a [coaching review session](<coaching review session.md>) with chị [Phạm Nguyệt](<Phạm Nguyệt.md>). The purpose of the review session is look back and consolidate 
+    - What we gain so far? What are levels of satisfaction?
+    - What are key learnings?
+        - About goals or how things unfold
+    - What are success factors?
+    - Expanded learning from these key success factors and key learnings
+    - Any feedback for me to support better
+    - How we will process next after this coaching package?
+- I felt much freer and more comfortable when I'm act on general rule which link to a reality instead of specific subjects or case-sensitive. It makes me to act based on truth rather than my fear or my need that got triggered by a people or a circumstance.
