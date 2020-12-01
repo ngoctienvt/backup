@@ -1,4 +1,4 @@
-- I felt that some big samskaras that come up and I truly lost with them. At least the good thing is I still remember some big things to relax and release, so that I could come back to my [[seat of consciousness]].
+- I felt that some big samskaras that come up and I truly lost with them. At least the good thing is I still remember some big things to relax and release, so that I could come back to my [[seat of awareness]].
 - Yesterday learning and teaching about the [[Session 7 - Learning to let go]] that really help me to understand deeper about the spiritual path.
     - Meditation is mainly to practice [[unattachment centering]] so that I could present and do my work, instead of letting my samskaras and my [[habit-formed will]] control me.
     - [[lower-hanging fruit]] is the samskaras that after we let go, there is nothing left to deal with.

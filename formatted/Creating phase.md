@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 1st, 2020](<December 1st, 2020.md>)
+- For how to manage [Creating phase](<Creating phase.md>),
+
 ## [November 22nd, 2020](<November 22nd, 2020.md>)
 - [Creating phase](<Creating phase.md>)
 

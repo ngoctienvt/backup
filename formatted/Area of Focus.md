@@ -10,6 +10,9 @@
 - [life knowledges](<life knowledges.md>)
 
 # Backlinks
+## [December 1st, 2020](<December 1st, 2020.md>)
+- I noticed that I want to become [financial independent](<financial independent.md>) by transcending my [attachment with money](<attachment with money.md>) and the dependent thoughts that rely on other people or external things, instead of nurture my own growth. #[Area of Focus](<Area of Focus.md>)
+
 ## [Home Maps](<Home Maps.md>)
 - [Area of Focus](<Area of Focus.md>)
 

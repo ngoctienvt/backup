@@ -1,5 +1,5 @@
 - [[sexual desire]] is the experience that the self experiences through the physical body.
-- [[sexual desire]] is strong to pull the self out of the [[seat of consciousness]] to the lower part of the body. 
+- [[sexual desire]] is strong to pull the self out of the [[seat of awareness]] to the lower part of the body. 
 - In order to learn to handle the sexual desire, it's important to remember that we are the one who has the right to navigate the tool which is the body. So it's about learning how to [[establishing the seat of awareness]] in a grounded way to handle the strong stimulus and pull of the sexual desire.
 - [[true love]] is not about the lack of sex, it's about the soul has fully manage the sexual desire to make the sex experience for both souls are become the wonderful merging moments.
 - 

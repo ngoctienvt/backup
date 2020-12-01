@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 1st, 2020](<December 1st, 2020.md>)
+- I noticed that I want to become [financial independent](<financial independent.md>) by transcending my [attachment with money](<attachment with money.md>)
+
 ## [List of samskaras](<List of samskaras.md>)
 - I have a bit [attachment with money](<attachment with money.md>)
 

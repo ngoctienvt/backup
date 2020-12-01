@@ -6,3 +6,13 @@
     - provoke insights and stretches
     - handling blockages
     - managing progress and accountability
+- I noticed that I want to become [[financial independent]] by transcending my [[attachment with money]] and the dependent thoughts that rely on other people or external things, instead of nurture my own growth. #[[Area of Focus]]
+    - [[financial independent]] is not about how much money I can make, but it's about
+        - my state of being that unattachment with money and can see it simply as a tool to navigate through life
+        - my focus on personal growth, so that I could outgrowth the challenges and the duties that are given to me [[outgrowth]]
+            - I will narrow my focus to few things so that I could resolve these accumulated samskaras and my life lessons first.
+        - nurturing my independent consciousness instead of spending time to listen my mind [[seat of awareness]]
+- For how to manage [[Creating phase]], I'm not totally clear about my creation process, I feel that I need to clarify about my way of networked thinking, instead of thinking in hierarchy or outline first. This is very important concept to support me to keep things centralized but flexible at the same time.
+    - The output is where I consolidate different [[atomic notes]] to serve a certain specific purpose.
+    - The [[atomic notes]] is where I hold my thinking around certain concepts that not overlap too much with others, but live independently.
+- 
