@@ -1,1 +1,8 @@
 - [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>) [TODO](<TODO.md>)}}}
+- A life coach is someone who master the art of #[Evergreen notes](<Evergreen notes.md>) #[Life Coach](<Life Coach.md>)
+    - identifying true end goals
+    - managing the process of closing the gap
+    - creating space for creative and awareness
+    - provoke insights and stretches
+    - handling blockages
+    - managing progress and accountability

@@ -41,9 +41,17 @@
     - The relationship between us and the moment in front of us are 
         - we are given a unique show that took 13.8 billion years to create
         - you think you have the reason to complain about it, but it's the trick of the mind
-    - What makes me not okay with the moment that are giving to me?
-    - The [training method](<training method.md>) of Michael Singer is teaching students from a [[top-down approach that starts with what's the truth, proving it and linking it slowly to the understanding of students. It creates conflict and separation in the mind of the students between the perception and the absolute truth. 
-    - Due to this, students can start to learn to let go of the untruth, so they can realize what's left. The truth is always there, it didn't need you to agree that it's true or create your perception about it. It just needs us to open and aware its existence. [absolute truth](<absolute truth.md>) [perception](<perception.md>) [existence](<existence.md>)
+        - Science support to take away the right to make the moment in front of us personal.
+            - The universe is keep moving from time-space
+            - Our consciousness is just a flashlight that happens to shine into the moment at that time.
+        - The moment is not just happen in front of us, it's also asking us to participate with the dance that taking place.
+            - It's not about we like or not like it
+    - Jhana yoga is the yoga of wisdom
+        - Put inside our head something that's others than like and dislike
+        - Use our mind for truth
+        - Use our mind for contemplate higher things than personal things
+    - Our job is transcending the personal aspect, because it's not personal.
+        - Honor and respect the moments in front of us
 - ### Summary
     - In Session One, you became aware that you are in there. It should be easy to see this, but typically **we focus on what is happening in there**—**instead of the fact that we are actually in there.** You are not your thoughts, your emotions, or the reflection you see in the mirror—you are the one who is looking.
     - **But what exactly is it that you are experiencing in there?**

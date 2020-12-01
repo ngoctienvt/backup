@@ -34,6 +34,3 @@
 ## [Session 1 - Who am I](<Session 1 - Who am I.md>)
 - What is the teaching approach of Michael Singer? [training method](<training method.md>)
 
-## [Session 2 - the outside world](<Session 2 - the outside world.md>)
-- The [training method](<training method.md>)
-
