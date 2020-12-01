@@ -51001,8 +51001,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606703245514,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606703720782,
-        "string": "#min-all {{[[query]]: {and:[[Focus of the week]] [[TODO]]}}}",
+        "edit-time": 1606788628320,
+        "string": "",
         "uid": "zMkSE-Ecx"
       },
       {
@@ -55213,10 +55213,20 @@
     "title": "need for convenience"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606788629550,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606788631073,
+        "string": "#min-all {{[[query]]: {and:[[Focus of the week]] [[TODO]]}}}",
+        "uid": "zhmfybCtP"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1606756028345,
+    "create-time": 1606788609838,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606756028348,
+    "edit-time": 1606788609838,
     "title": "December 1st, 2020"
   }
 ]

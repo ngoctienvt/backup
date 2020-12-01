@@ -1,0 +1,1 @@
+- [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>) [TODO](<TODO.md>)}}}

@@ -38,11 +38,11 @@
                     - [ ] Organizing evergreen notes (tags, names, places...)
 
 # Backlinks
+## [December 1st, 2020](<December 1st, 2020.md>)
+- [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>) [TODO](<TODO.md>)}
+
 ## [November 27th, 2020](<November 27th, 2020.md>)
 - [min-all](<min-all.md>) {{[query](<query.md>): {and: [TODO](<TODO.md>)
-
-## [November 30th, 2020](<November 30th, 2020.md>)
-- [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>) [TODO](<TODO.md>)}
 
 ## [TODO](<TODO.md>)
 - {{[TODO](<TODO.md>)}
