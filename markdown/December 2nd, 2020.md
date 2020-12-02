@@ -12,3 +12,5 @@
     - conscious will or habit-formed will (conscious choice or unconscious choice)
     - the level of clarity
     - the state of being 
+- Today I feel a little bit stressful when interacting with many new people, there are many things that I'm not feel comfortable with them yet. 
+- 

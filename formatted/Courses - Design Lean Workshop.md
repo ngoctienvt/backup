@@ -5,10 +5,23 @@
         - Careful - Clear frame -> Back
     - Thiết kế chương trình
         - Khảo sát nhu cầu học viên -> xây dựng mục tiêu đào tạo
+            - mục tiêu
+            - nguyên tắc 
         - Thiết kế khung chương trình (modules, outcomes)
-            - Student-centric
+            - Tìm hiểu nhiệm vụ và mục tiêu
+            - Lựa chọn và sắp xếp nội dung
         - Thiết kế nội dung chi tiết
             - Phong cách người thiết kế
             - Xu hướng học tập của học viên
-        - Linh hoạt điều chỉnh dựa trên trình độ, tiến độ học tập
-        - 
+        - Linh hoạt điều chỉnh dựa trên trình độ, tiến độ học tập / Cố định mục tiêu
+            - Hoạt động - Giảng giải cho người mới, Chia sẻ cho người kinh nghiệm
+        - Thu hoạch/ đánh giá
+            - Chương trình
+            - Người học
+    - Instructional Designer
+        - chuyên môn về thiết kế chương trình
+    - SME - Subject-matter expert 
+        - có kiến thức về mảng đang muốn dạy
+    - Trainer - Facilitator
+    - Guiding principle for 
+        - Student-centric
