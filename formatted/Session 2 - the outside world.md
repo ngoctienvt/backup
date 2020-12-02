@@ -6,11 +6,11 @@
         - where did it come from, 
         - and what is your actual relationship to it?
 - ### Lessons
-    - Surrender is about let go of falsehood to comeback to the absolute truth. 
+    - Surrender is about let go of falsehood to comeback to the absolute truth. [What is surrender?](<What is surrender?.md>)
         - It's not about the self seeking self, it's about the self letting go of what's not true.
         - Surrender is releasing the ignorance
-    - Shock-statement:
-        - Do you know that the moment in front of you have nothing to do with you? 
+    - Shock-statement [the impersonal world](<the impersonal world.md>)
+        - Do you know that the moment in front of you have nothing to do with you?
             - It belongs to itself. You don't make it come, or make it go.
             - The moment is impersonal.
         - Proving
@@ -19,38 +19,38 @@
                 - Every moments out there has nothing to do with you, why the moment in front you have something to do with you?
                     - This moment is the same as any moment in the creation
                     - It's not the moments are the twin, but your relationship with the moments are the same.
-    - In order to live the truth, we need to learn to honor the truth that "I haven't been living the truth. I have been living the ignorance."
+    - In order to live the truth, we need to learn to honor the truth that "I haven't been living the truth. I have been living the ignorance." [living the truth](<living the truth.md>)
         - Ignorance is ignoring something.
-        - We have been personalize something that's not personal.
-    - Question "Where does the moment in front of me coming from?"
-        - Big Bang
-        - 4 fundamental forces
-            - Electromagnetic force
-            - Gravity
-            - Weak nuclear force
-                - the force that causes decay slowly
-            - Strong nuclear force
-                - the force that strong enough to offset the repulsion of electromagnetic force to hold the nuclear to each other
-        - The moment in front of us are holy and special things that created by 4 fundamental forces and took 13.8 billion years to get here
-            - Life and the moment in front of us came from the stars
-        - Science helped us to know where life comes from, but we still don't know where consciousness (us) comes from and what's happening before the Big Bang.
-            - To know about us, it's not about studying the outside, it's about exploring inside.
-        - Stars, forces, molecules are elements of how creation taking place. Just like the paint brush of painter.
-    - Does the creation process have anything to do with you?
-        - By understanding the creation process, we can start to let go a part inside of us that have been not living the truth.
-    - The relationship between us and the moment in front of us are 
+            - We have been personalize something that's not personal.
+            - To have more honor about the moment in front of us, the other approach is question "Where does the moment in front of me coming from?" [Where does the impersonal world come from?](<Where does the impersonal world come from?.md>)
+                - Big Bang
+                - 4 fundamental forces
+                    - Electromagnetic force
+                    - Gravity
+                    - Weak nuclear force
+                        - the force that causes decay slowly
+                    - Strong nuclear force
+                        - the force that strong enough to offset the repulsion of electromagnetic force to hold the nuclear to each other
+                - The moment in front of us are holy and special things that created by 4 fundamental forces and took 13.8 billion years to get here
+                    - Life and the moment in front of us came from the stars
+                - Stars, forces, molecules are elements of how creation taking place. Just like the paint brush of painter.
+            - Science helped us to know where life comes from, but we still don't know where consciousness (us) comes from and what's happening before the Big Bang. [the inner exploration](<the inner exploration.md>)
+                - To know about us, it's not about studying the outside, it's about exploring inside.
+            - Does the creation process have anything to do with us?
+                - By understanding the creation process, we can start to let go a part inside of us that have been not living the truth.
+    - [What should be the relationship between us and the moment?](<What should be the relationship between us and the moment?.md>)
         - we are given a unique show that took 13.8 billion years to create
         - you think you have the reason to complain about it, but it's the trick of the mind
         - Science support to take away the right to make the moment in front of us personal.
             - The universe is keep moving from time-space
             - Our consciousness is just a flashlight that happens to shine into the moment at that time.
-        - The moment is not just happen in front of us, it's also asking us to participate with the dance that taking place.
+        - The moment is not just happen in front of us, it's also asking us to participate with the dance that taking place. [the dance of the universe](<the dance of the universe.md>)
             - It's not about we like or not like it
-    - Jhana yoga is the yoga of wisdom
+    - [Jhana yoga](<Jhana yoga.md>) is the yoga of wisdom
         - Put inside our head something that's others than like and dislike
         - Use our mind for truth
         - Use our mind for contemplate higher things than personal things
-    - Our job is transcending the personal aspect, because it's not personal.
+    - Our job is transcending the personal aspect, because it's not personal. [demand of reality](<demand of reality.md>)
         - Honor and respect the moments in front of us
 - ### Summary
     - In Session One, you became aware that you are in there. It should be easy to see this, but typically **we focus on what is happening in there**—**instead of the fact that we are actually in there.** You are not your thoughts, your emotions, or the reflection you see in the mirror—you are the one who is looking.

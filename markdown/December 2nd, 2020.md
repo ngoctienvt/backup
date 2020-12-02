@@ -1,7 +1,7 @@
 - #min-all {{[[query]]: {and:[[Focus of the week]]}}}
 - I noticed that's without a capstone or a end goal that's measurable, I find hard to focus, because the focus is broad and not concrete enough. I could have an abstract thinking or idea, but concrete 
 - Partnering with clients according their pace is an important concept in coaching. [[Coaching partnering]]
-- I'm on the stage that's I'm sharpening my end goal and my focus so that it will drive me move forward and keep me [[on the right track]]. 
+- I'm on the stage that's I'm sharpening my end goal and my focus so that it will drive me move forward and keep me [[on the right track]]. The theme of this stage is Being myself + Clean the clustering + Concrete thinking 
     - I will let go all of my sexual needs, so that's I will not serve my body by external things and will not let it the reason to come to relationship with other people. [[true relationship]]
     - I will clear my intention about my work (coaching, training, writing), so that at the end, I will not let my lower-self drive me off track, but I will be able to maintain my focus and my true growth instead. 
     - I will learn to work on concrete level so that's it's easy for me and other people to learn slowly instead of putting redundant pressure. [[concrete thinking]]

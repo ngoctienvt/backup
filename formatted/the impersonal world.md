@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Session 2 - the outside world](<Session 2 - the outside world.md>)
+- Shock-statement [the impersonal world](<the impersonal world.md>)
+
 ## [horizons of focus](<horizons of focus.md>)
 - [the impersonal world](<the impersonal world.md>)
 

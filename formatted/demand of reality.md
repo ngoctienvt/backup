@@ -16,6 +16,9 @@
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - First, cleaning all of the inner [samskaras](<samskaras.md>). Then I will not have any personal thoughts, personal needs but replacing them with the fuel of inner energy, the evolution of soul, increasing capacity to handle things. It means that raising my soul equal to the [demand of reality](<demand of reality.md>).
 
+## [Session 2 - the outside world](<Session 2 - the outside world.md>)
+- Our job is transcending the personal aspect, because it's not personal. [demand of reality](<demand of reality.md>)
+
 ## [horizons of focus](<horizons of focus.md>)
 - How to know what the reality truly need? It's about examining our behaviors, way of living, about seeing how ourselves truly live, instead of based on the world that our mind created. [demand of reality](<demand of reality.md>)
 
