@@ -108,5 +108,5 @@ I will be presence myself to interact with them as a whole, not to use them to i
 - [samskaras](<samskaras.md>)
 
 ## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-- to let go [samskaras](<samskaras.md>)
+- let go [samskaras](<samskaras.md>)
 

@@ -17,11 +17,11 @@
 - [training](<training.md>)
     -  wisdom.
         - It makes the students less independent thinking and may rely on the trainer or the teacher.
-        - It makes the student less creative and may develop the fear of being wrong, instead of [grower mindset](<grower mindset.md>).
+        - It makes the student less creative and may develop the fear of being wrong, instead of [growth mindset](<growth mindset.md>).
     - While practices or activities is kind of [[top-down approach due to the accumulation of experience or self-learning that students gather for themselves in the process. This approach limitation is the students will not feel that they are able to do or learn much in the beginning.
         - However, in the long-run, this approach will get [accumulated interest](<accumulated interest.md>) and pay off later. 
         - It also makes the students develop independent thinking and less rely on the trainer.
-        - It makes the students expand themselves fearlessly and develop [grower mindset](<grower mindset.md>), which is excellent.
+        - It makes the students expand themselves fearlessly and develop [growth mindset](<growth mindset.md>), which is excellent.
     - Ideally, I want to have a [training method](<training method.md>) that can:
         - Support long-term and accumulated interest development [sustainable development](<sustainable development.md>) [productivity](<productivity.md>)
         - Low floor, high ceiling. Easy to start, but paid off well. [productivity](<productivity.md>)

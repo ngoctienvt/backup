@@ -8,4 +8,7 @@
     - I will not buy or accumulate more unnecessary stuff because of my lower-self, but rather letting go of those needs instead. [[minimalist lifestyle]]
         - This lifestyle is about using effectively what already has and not accumulate redundant stuff, but only keep what's neccessary.
 - {{[[TODO]]}} I want to clean my goal cluster, so that they become [[end goal]] only.
-- 
+- #[[🌲Evergreen Notes]] The difference between intention and the reaction is based on
+    - conscious will or habit-formed will (conscious choice or unconscious choice)
+    - the level of clarity
+    - the state of being 

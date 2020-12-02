@@ -7,19 +7,18 @@
     - in a natural way
 - ### Benefits of bottom-up approach:
     - Releasing the goal-oriented pressure and developing trust the process
-    - Releasing the [need for perfect](<need for perfect.md>) and developing [grower mindset](<grower mindset.md>)
+    - Releasing the [need for perfect](<need for perfect.md>) and developing [growth mindset](<growth mindset.md>)
 - ### Characteristics of bottom-up approach:
     - work on [integration](<integration.md>) what haven't resolved
-    - emphasizes on now to learn in a progressive way
+    - emphasizes on now 
     - [🌱Natural Progression](<🌱Natural Progression.md>) based on preparing [readiness](<readiness.md>) for next stage
 - ### Procedure of bottom-up approach:????
     - Identify what need to be integrate with
     - Working on to integrate it with myself
     - Accumulating new ingredients for development
 - ### [real life application](<real life application.md>)
-    - Learning to [living from the place of surrender](<living from the place of surrender.md>) by using bottom-up approach
-        - to let go [samskaras](<samskaras.md>)
-        - to stay in touch with the [current moments](<current moments.md>)
+    - [living from the place of surrender](<living from the place of surrender.md>)
+        - let go [samskaras](<samskaras.md>)
         - developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>) gradually
     - Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>) through a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
     - [being coaching](<being coaching.md>) in a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) way to support other people with their [🌱Natural Progression](<🌱Natural Progression.md>) and free of [personal agenda](<personal agenda.md>)

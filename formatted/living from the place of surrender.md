@@ -86,5 +86,5 @@ Due to that energy, I can start to express them outside in an impersonal way to 
 - The structure will be the bridging between my trueself and [the impersonal world](<the impersonal world.md>) - [soul-guidance](<soul-guidance.md>) [living from the place of surrender](<living from the place of surrender.md>)
 
 ## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-- Learning to [living from the place of surrender](<living from the place of surrender.md>)
+- [living from the place of surrender](<living from the place of surrender.md>)
 
