@@ -3,3 +3,12 @@
     - Làm quen công cụ
     - Jamboard
         - Careful - Clear frame -> Back
+    - Thiết kế chương trình
+        - Khảo sát nhu cầu học viên -> xây dựng mục tiêu đào tạo
+        - Thiết kế khung chương trình (modules, outcomes)
+            - Student-centric
+        - Thiết kế nội dung chi tiết
+            - Phong cách người thiết kế
+            - Xu hướng học tập của học viên
+        - Linh hoạt điều chỉnh dựa trên trình độ, tiến độ học tập
+        - 
