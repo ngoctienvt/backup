@@ -28,7 +28,7 @@
                 - Preparing what I need to consume and process for the next week
                 - Split into different projects and master projects
             - Planning for next week
-                - Take projects or part of the projects that I want to complete this week to  [Focus of the week](<Focus of the week.md>) section.
+                - 
         - daily planning
-            - When doing daily planning, I will clear the tasks that I completed and put more tasks from [Focus of the week](<Focus of the week.md>) to [Today Focus](<Today Focus.md>).
+            - 
 - Now I'm still not clear about clarity with the tasks and what I need to do, this will be main focus for tomorrow. It's about [inner clarity](<inner clarity.md>)

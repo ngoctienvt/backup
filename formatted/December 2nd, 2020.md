@@ -1,3 +1,3 @@
-- #min-all {{[[query]]: {and:[[Focus of the week]]}}}
+- [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>)}}}
 - I noticed that's without a capstone or a end goal that's measurable, I find hard to focus, because the focus is broad and not concrete enough. I could have an abstract thinking or idea, but concrete 
 - 

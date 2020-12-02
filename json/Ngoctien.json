@@ -4421,38 +4421,10 @@
                 "uid": "ve6L3Ba5n"
               },
               {
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606703084168,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606821380917,
-                        "string": "{{[[TODO]]}} Refining and clairifying each phase",
-                        "uid": "7_eAEySKF"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606312365156,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606821380917,
-                        "string": "{{[[TODO]]}} Developing [[Creating phase]]",
-                        "uid": "b2ZDEXKsQ"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606703072339,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606821585671,
-                    "string": "[[\ud83c\udf31PKDS - Personal Knowledge Development System ]]",
-                    "uid": "NXoQJ78AW"
-                  }
-                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1606397999189,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606821380917,
+                "edit-time": 1606874025998,
                 "string": "{{[[TODO]]}} Reading [[Books - Clarity - Clear mind, Better performance, Bigger results]]",
                 "uid": "YCKTC8oxg"
               }
@@ -4466,6 +4438,32 @@
           },
           {
             "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606703084168,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606873373075,
+                    "string": "{{[[TODO]]}} Refining and clarifying each phase",
+                    "uid": "7_eAEySKF"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606312365156,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606821380917,
+                    "string": "{{[[TODO]]}} Developing [[Creating phase]]",
+                    "uid": "b2ZDEXKsQ"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606703072339,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606821585671,
+                "string": "[[\ud83c\udf31PKDS - Personal Knowledge Development System ]]",
+                "uid": "NXoQJ78AW"
+              },
               {
                 "children": [
                   {
@@ -37619,7 +37617,7 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1604977480867,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606811276734,
+        "edit-time": 1606873928592,
         "heading": 3,
         "string": "Resources for Learning and Referencing",
         "uid": "pvabHO6Qm"
@@ -52739,8 +52737,8 @@
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1606395802017,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606395981448,
-                        "string": "Take projects or part of the projects that I want to complete this week to  [[Focus of the week]] section.",
+                        "edit-time": 1606873256248,
+                        "string": "",
                         "uid": "hfpwTIixm"
                       }
                     ],
@@ -52765,8 +52763,8 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1606395852784,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606395886883,
-                    "string": "When doing daily planning, I will clear the tasks that I completed and put more tasks from [[Focus of the week]] to [[Today Focus]].",
+                    "edit-time": 1606873267193,
+                    "string": "",
                     "uid": "xXRhVqLNX"
                   }
                 ],
@@ -54989,14 +54987,6 @@
   {
     "children": [
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606788629550,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606821380917,
-        "string": "#min-all {{[[query]]: {and:[[Focus of the week]] [[TODO]]}}}",
-        "uid": "zhmfybCtP"
-      },
-      {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
@@ -55048,11 +55038,11 @@
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606794775984,
+        "create-time": 1606788629550,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606794842139,
+        "edit-time": 1606873096384,
         "string": "A life coach is someone who master the art of #[[Evergreen notes]] #[[Life Coach]]",
-        "uid": "amOr8_2Q2"
+        "uid": "zhmfybCtP"
       },
       {
         "children": [
@@ -56256,10 +56246,36 @@
     "title": "coaching review session"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606873096652,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606873210741,
+        "string": "#min-all {{[[query]]: {and:[[Focus of the week]]}}}",
+        "uid": "rR3P1Twnw"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606873317164,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606873483796,
+        "string": "I noticed that's without a capstone or a end goal that's measurable, I find hard to focus, because the focus is broad and not concrete enough. I could have an abstract thinking or idea, but concrete ",
+        "uid": "81jvupmE0"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606873449683,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606873449683,
+        "string": "",
+        "uid": "VsJ6VqmND"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1606870094197,
+    "create-time": 1606866305727,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606870094197,
+    "edit-time": 1606866305751,
     "title": "December 2nd, 2020"
   }
 ]

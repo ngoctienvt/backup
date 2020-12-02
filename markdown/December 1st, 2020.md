@@ -1,4 +1,3 @@
-- #min-all {{[[query]]: {and:[[Focus of the week]] [[TODO]]}}}
 - A life coach is someone who master the art of #[[Evergreen notes]] #[[Life Coach]]
     - identifying true end goals
     - managing the process of closing the gap

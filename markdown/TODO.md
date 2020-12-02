@@ -27,10 +27,10 @@
     - Input Consuming
         - {{[[TODO]]}} Note-taking [[Courses - Living from the place of surrender]]
         - {{[[TODO]]}} Reading [[Books - Clarity - Clear mind, Better performance, Bigger results]]
-            - [[🌱PKDS - Personal Knowledge Development System ]]
-                - {{[[TODO]]}} Refining and clairifying each phase
-                - {{[[TODO]]}} Developing [[Creating phase]]
     - Working
+        - [[🌱PKDS - Personal Knowledge Development System ]]
+            - {{[[TODO]]}} Refining and clarifying each phase
+            - {{[[TODO]]}} Developing [[Creating phase]]
         - Productivity
             - {{[[TODO]]}} Work on [[🌱The Plane ]]
             - {{[[TODO]]}} Developing [[🌱Workflow ]]

@@ -27,10 +27,10 @@
     - Input Consuming
         - [ ] Note-taking [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
         - [ ] Reading [Books - Clarity - Clear mind, Better performance, Bigger results](<Books - Clarity - Clear mind, Better performance, Bigger results.md>)
-            - [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
-                - [ ] Refining and clairifying each phase
-                - [ ] Developing [Creating phase](<Creating phase.md>)
     - Working
+        - [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+            - [ ] Refining and clarifying each phase
+            - [ ] Developing [Creating phase](<Creating phase.md>)
         - Productivity
             - [ ] Work on [🌱The Plane ](<🌱The Plane .md>)
             - [ ] Developing [🌱Workflow ](<🌱Workflow .md>)
@@ -38,9 +38,6 @@
                     - [ ] Organizing evergreen notes (tags, names, places...)
 
 # Backlinks
-## [December 1st, 2020](<December 1st, 2020.md>)
-- [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>) [TODO](<TODO.md>)}
-
 ## [November 27th, 2020](<November 27th, 2020.md>)
 - [min-all](<min-all.md>) {{[query](<query.md>): {and: [TODO](<TODO.md>)
 
