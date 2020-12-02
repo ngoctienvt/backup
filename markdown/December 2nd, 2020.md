@@ -7,4 +7,5 @@
     - I will learn to work on concrete level so that's it's easy for me and other people to learn slowly instead of putting redundant pressure. [[concrete thinking]]
     - I will not buy or accumulate more unnecessary stuff because of my lower-self, but rather letting go of those needs instead. [[minimalist lifestyle]]
         - This lifestyle is about using effectively what already has and not accumulate redundant stuff, but only keep what's neccessary.
-- Tonight is the starting point 
+- {{[[TODO]]}} I want to clean my goal cluster, so that they become [[end goal]] only.
+- 
