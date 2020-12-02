@@ -57,6 +57,6 @@ But now I still need to make [conscious choice](<conscious choice.md>) to keep m
 ## [🌱Natural Progression](<🌱Natural Progression.md>)
 - [integration](<integration.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - work on [integration](<integration.md>)
 

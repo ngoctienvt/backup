@@ -15,6 +15,6 @@
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - I felt so good this tonight, just feel so relax and ease inside of me. Because I really can feel that my path is truly [on the right track](<on the right track.md>).
 
-## [🌲Top-down Approach](<🌲Top-down Approach.md>)
+## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 - align things to serve the end goal or purpose effectively [on the right track](<on the right track.md>)
 

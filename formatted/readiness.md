@@ -9,6 +9,6 @@
 ## [🌱Workflow ](<🌱Workflow .md>)
 - [readiness](<readiness.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - [🌱Natural Progression](<🌱Natural Progression.md>) based on preparing [readiness](<readiness.md>)
 

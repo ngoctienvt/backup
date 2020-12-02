@@ -3,8 +3,8 @@
     - Purpose - personal knowledge development in a sustainable and natural way
     - Main components
         - [[🌱Progressive Development Approach]]
-            - [[🌲Top-down Approach]]
-            - [[🌲Bottom-up Approach]]
+            - [[🌲Top-down End-goal]]
+            - [[🌲Bottom-up Emergence]]
         - [[🌱Personal Knowledge Development cycle]]
             - [[The journey of understanding]]
             - [[idea emergence]]

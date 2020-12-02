@@ -15,6 +15,6 @@
 ## [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 - [Creating phase](<Creating phase.md>) - [generative wisdom](<generative wisdom.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - Developing [deeper understanding](<deeper understanding.md>) or [generative wisdom](<generative wisdom.md>)
 

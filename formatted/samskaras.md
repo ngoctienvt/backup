@@ -107,6 +107,6 @@ I will be presence myself to interact with them as a whole, not to use them to i
 ## [spritual heart](<spritual heart.md>)
 - [samskaras](<samskaras.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - to let go [samskaras](<samskaras.md>)
 

@@ -33,7 +33,7 @@ And in other to gain [contextual mastery](<contextual mastery.md>), learning the
 ## [starting point](<starting point.md>)
 - Choose and go deep to acquire a [deeper understanding](<deeper understanding.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - Developing [deeper understanding](<deeper understanding.md>)
 
 ## [💎Templates](<💎Templates.md>)

@@ -12,7 +12,7 @@ Abstract is something that's not easy to visualize and think about, while concre
 - [[daily reflection]] Today I felt that there are few important things that emerging.
     - One is I start to write [[Evergreen notes]], and I'm not sure how I will handle them yet, but I will focus on them next for my PKDS projects
     - Second is I'm starting to learn to organize my life productively by learning about the system of [[Ali Abdaal]] and integrating them with my [[🌱Workflow ]]
-    - Third is I'm more and more see the power of [[🌲Bottom-up Approach]], because they help me to build things naturally and always on the right track. Because the focus point is me, and what's here instead of other people and their ways.
+    - Third is I'm more and more see the power of [[🌲Bottom-up Emergence]], because they help me to build things naturally and always on the right track. Because the focus point is me, and what's here instead of other people and their ways.
     - Fourth is coaching is an important [[area of focus]] that I'm not building yet, and I will spend my time for it soon.
     - This year has been a year of overwhelming for me. Even now I'm looking back, I still can't imagine how much I change from this year and how much things has happened on my life. Many events from 
         - starting my small company, 

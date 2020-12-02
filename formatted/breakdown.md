@@ -13,7 +13,7 @@
 - try to link the ideas in a specific way instead of broad categories. Or if there is a broad category, then work top-down to [breakdown](<breakdown.md>)
 
 ## [contextual linking](<contextual linking.md>)
-- the topics that includes the smaller topics, so that when I'm accumulated the information enough, I could see the pattern of them to use [🌲Top-down Approach](<🌲Top-down Approach.md>) to breakdown things [breakdown](<breakdown.md>)
+- the topics that includes the smaller topics, so that when I'm accumulated the information enough, I could see the pattern of them to use [🌲Top-down End-goal](<🌲Top-down End-goal.md>) to breakdown things [breakdown](<breakdown.md>)
 
 ## [journaling training](<journaling training.md>)
 - Breakdown the big concepts onto smaller concepts [breakdown](<breakdown.md>)

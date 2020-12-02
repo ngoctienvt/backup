@@ -9,20 +9,20 @@
         - enjoy the process and let the result emerge
         - [[circular process]] and [[continuous process]] that focused on
             - process and end goal 
-                - [[🌲Top-down Approach]]
+                - [[🌲Top-down End-goal]]
             - integration instead of separation
     - Design [[optimal conditions]] for emergence
         - [[design for emergence]]
-            - [[🌲Bottom-up Approach]] 
+            - [[🌲Bottom-up Emergence]] 
         - building grounded [[basic foundation]]
             - [[starting point]]
         - flexibility with [[contextual mastery]] and different direction of development (convergence/divergence)
     - [[🌱focus on what matters]]
 - ### Core methods
     - Once you can see the shape, then you can think about its character.
-    -  [[🌲Bottom-up Approach]] for merging with the experiences
+    -  [[🌲Bottom-up Emergence]] for merging with the experiences
         - to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
-    -  [[🌲Top-down Approach]] for focusing myself to certain direction
+    -  [[🌲Top-down End-goal]] for focusing myself to certain direction
         - [[Evergreen notes]]
 - Usages
     - way of living

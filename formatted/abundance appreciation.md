@@ -62,6 +62,6 @@ will actually use. [abundance appreciation](<abundance appreciation.md>)
 ## [polestar of my life](<polestar of my life.md>)
 - [abundance appreciation](<abundance appreciation.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - developing [openness](<openness.md>) and [abundance appreciation](<abundance appreciation.md>)
 

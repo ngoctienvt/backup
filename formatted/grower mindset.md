@@ -5,6 +5,6 @@
 
 - It makes the students expand themselves fearlessly and develop [grower mindset](<grower mindset.md>),
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - Releasing the [need for perfect](<need for perfect.md>) and developing [grower mindset](<grower mindset.md>)
 

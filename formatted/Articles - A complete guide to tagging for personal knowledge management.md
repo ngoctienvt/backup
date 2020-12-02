@@ -7,8 +7,8 @@
     - Networks are inherently “bottom-up,” in that the structure emerges organically from small interactions without direction from a central authority. [network](<network.md>)
         - Networks are good in small-scale, quickly changing situations in unpredictable environments. [flexible environments](<flexible environments.md>)
     - Self-organization overcomes formal organizing’s rigidity. Formal organization keeps at bay self-organization’s tendency to self-destruct. [self-organization](<self-organization.md>)
-    - Francis Bacon’s scientific method, first introduced in the 17th century, was a bottom-up, networked approach to building scientific understanding. [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) [network approach](<network approach.md>)
-    - In the 18th century, the encyclopedia movement promoted most famously by Denis Diderot moved in the opposite direction. [🌲Top-down Approach](<🌲Top-down Approach.md>)
+    - Francis Bacon’s scientific method, first introduced in the 17th century, was a bottom-up, networked approach to building scientific understanding. [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) [network approach](<network approach.md>)
+    - In the 18th century, the encyclopedia movement promoted most famously by Denis Diderot moved in the opposite direction. [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
     - Memory searching
         - Searching relies on declarative memory – remembering and entering the precise contents of a file – which is a higher-level brain function that consumes a lot of energy.
         - Searching relies on declarative memory – remembering and entering the precise contents of a file – which is a higher-level brain function that consumes a lot of energy. [declarative memory](<declarative memory.md>)
@@ -19,7 +19,7 @@
             - Tunnels have a beginning and an end, a top and a bottom. We are comfortable navigating tunnels.
     - [Tag usage](<Tag usage.md>)
         - Tagging notes across different notebooks allows us to **perceive cross-disciplinary themes and patterns** that defy simple categorization. [inter-related](<inter-related.md>)
-            - Tagging all the notes we want to review for a project could make our choices easier, by **creating a boundary** around the information we’ll consider before taking action. [🌲Top-down Approach](<🌲Top-down Approach.md>)
+            - Tagging all the notes we want to review for a project could make our choices easier, by **creating a boundary** around the information we’ll consider before taking action. [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
             - And tagging notes according to which stage of a project they are best suited for can improve our thinking by allowing us to focus on only the most relevant information for the given moment. [horizons of focus](<horizons of focus.md>)
             - With the simple act of assigning labels to things, we invite the brain’s pattern recognition ability to identify their similarities and thereby predict what other items would fit the label too. [relevant progressing](<relevant progressing.md>)
             - We shape the environment, and then the environment shapes our mind.

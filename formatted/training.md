@@ -10,6 +10,6 @@
 ## [interests](<interests.md>)
 - sharing and support other people - [coaching](<coaching.md>) [training](<training.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - [training](<training.md>)
 

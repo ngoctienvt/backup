@@ -6,6 +6,6 @@
 ## [September 24th, 2020](<September 24th, 2020.md>)
 - Things have different levels and depend on what levels, I want to develop and maintain an open [intellectual mind](<intellectual mind.md>) to see things clearly without distorting by my [personal mind](<personal mind.md>) and by my [freewill](<freewill.md>). [openness](<openness.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - developing [openness](<openness.md>)
 

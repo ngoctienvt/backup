@@ -22,6 +22,6 @@
 
 -  [personal end goals](<personal end goals.md>)
 
-## [🌲Top-down Approach](<🌲Top-down Approach.md>)
+## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 - [personal end goals](<personal end goals.md>)
 

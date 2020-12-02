@@ -28,6 +28,6 @@
 
 - Our need to [feel good](<feel good.md>) inside makes us using our mind for [personal agenda](<personal agenda.md>)
 
-## [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>)
-- [being coaching](<being coaching.md>) in a [🌲Bottom-up Approach](<🌲Bottom-up Approach.md>) way to support other people with their [🌱Natural Progression](<🌱Natural Progression.md>) and free of [personal agenda](<personal agenda.md>)
+## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+- [being coaching](<being coaching.md>) in a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) way to support other people with their [🌱Natural Progression](<🌱Natural Progression.md>) and free of [personal agenda](<personal agenda.md>)
 

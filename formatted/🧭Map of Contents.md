@@ -32,6 +32,6 @@
 ## [🌱Personal Knowledge Development cycle](<🌱Personal Knowledge Development cycle.md>)
 - [🧭Map of Contents](<🧭Map of Contents.md>)
 
-## [🌲Top-down Approach](<🌲Top-down Approach.md>)
+## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 - [🧭Map of Contents](<🧭Map of Contents.md>)
 

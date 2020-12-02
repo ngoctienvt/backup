@@ -17,7 +17,7 @@
 ## [network note-taking](<network note-taking.md>)
 - While maintaining a flexible way to handle these [atomic concept](<atomic concept.md>)
 
-## [🌲Top-down Approach](<🌲Top-down Approach.md>)
+## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 - [direct-related connections](<direct-related connections.md>) are the connection that directly relate to its [atomic concept](<atomic concept.md>).
 
 - [direct-related connections](<direct-related connections.md>) are the connection that directly relate to its [atomic concept](<atomic concept.md>). The [direct-related connections](<direct-related connections.md>) can also become the [atomic concept](<atomic concept.md>)

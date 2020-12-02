@@ -5,6 +5,6 @@
 
 - [mental squeeze point](<mental squeeze point.md>) is a really powerful concept for putting [hard-boundary](<hard-boundary.md>) to ease and make us focus on what’s important, while it is act as an indicator when we need to start to break the boundary and expand it to something else. [soft-boundary](<soft-boundary.md>)
 
-## [🌲Top-down Approach](<🌲Top-down Approach.md>)
+## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 - [soft-boundary](<soft-boundary.md>)
 
