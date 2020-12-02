@@ -6,6 +6,9 @@
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
 - I'm navigating my life [on the right track](<on the right track.md>)
 
+## [December 2nd, 2020](<December 2nd, 2020.md>)
+- I'm on the stage that's I'm sharpening my end goal and my focus so that it will drive me move forward and keep me [on the right track](<on the right track.md>).
+
 ## [November 20th, 2020](<November 20th, 2020.md>)
 - a mid year review is about seeing the direction that I'm moving on and work on top-down bottom to make sure that everything's [on the right track](<on the right track.md>)
 
