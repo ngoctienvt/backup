@@ -127,4 +127,7 @@
                 - This is call "hidden agenda" of that activity
             - Design a workshop should have some backup activities if there is enough time.
 - Session 2 - Identify goal of a workshop
-- 
+    -  - Mô tả nhân vật điển hình của chương trình
+    -  - Phân tích nhu cầu của người tham gia
+    -  - Đặt thứ tự ưu tiên cho các nhu cầu thu thập được
+    -  - Xác định mục tiêu lớn của chương trình

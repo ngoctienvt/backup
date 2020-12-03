@@ -57143,20 +57143,46 @@
         "uid": "rIeVz7PuY"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606992659523,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606992659523,
+            "string": " - M\u00f4 t\u1ea3 nh\u00e2n v\u1eadt \u0111i\u1ec3n h\u00ecnh c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh",
+            "uid": "Z1nSuv7ZJ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606992663667,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606992663667,
+            "string": " - Ph\u00e2n t\u00edch nhu c\u1ea7u c\u1ee7a ng\u01b0\u1eddi tham gia",
+            "uid": "4uBRiev8F"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606992667917,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606992667917,
+            "string": " - \u0110\u1eb7t th\u1ee9 t\u1ef1 \u01b0u ti\u00ean cho c\u00e1c nhu c\u1ea7u thu th\u1eadp \u0111\u01b0\u1ee3c",
+            "uid": "mBtTzoUFP"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606980011615,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606992667920,
+            "string": " - X\u00e1c \u0111\u1ecbnh m\u1ee5c ti\u00eau l\u1edbn c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh",
+            "uid": "i7Y3ctkL1"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606979548355,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1606979592914,
         "string": "Session 2 - Identify goal of a workshop",
         "uid": "RCdeYY2k6"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606980011615,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606980011615,
-        "string": "",
-        "uid": "i7Y3ctkL1"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -57492,11 +57518,107 @@
         "uid": "cKZiRkPn9"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606991742902,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606991762321,
+            "string": "physical",
+            "uid": "n3kUe5j9I"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606991762318,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606991770256,
+            "string": "intellectual",
+            "uid": "yBScQBG8x"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606991826934,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606991830864,
+                "string": "what we let go of",
+                "uid": "Nndl5yb9A"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606991770253,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606991772135,
+            "string": "emotional",
+            "uid": "RVcR9s-NX"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606991783981,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606991791296,
+                "string": "life's direction",
+                "uid": "UWxeaZvJX"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606991791294,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606991792655,
+                "string": "purpose",
+                "uid": "w-EaemGHO"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606991792652,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606991795789,
+                "string": "meaning",
+                "uid": "XpezMewCX"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606991807893,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606991825406,
+                    "string": "conscious will / habit-formed will",
+                    "uid": "fjjGgvLzW"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606991799149,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606991807895,
+                "string": "focus and distraction",
+                "uid": "qNdwk2MVE"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606991837039,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606991841132,
+                "string": "level of center",
+                "uid": "hm6GBgWiy"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606991772132,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606991783984,
+            "string": "spiritual - consciousness",
+            "uid": "oHhlvLMzr"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606985538653,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606985538653,
-        "string": "",
+        "edit-time": 1606991742906,
+        "string": "Instead of measure how we live our life by result or external things, there are four internal things that we could measure of",
         "uid": "pWIuy-amc"
       }
     ],
