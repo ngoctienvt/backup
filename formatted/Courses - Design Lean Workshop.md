@@ -83,7 +83,7 @@
                     - Survey the level of students
                     - Bring out a standard process
                 - Everyone will group what discussed to become 5 steps and introduce steps if neccessary.
-                - Grouping a gain to discuss more details on each step
+                - Grouping again to discuss more details on each step
                     - Note:
                         - For big group, a limit number of step is helpful to focus 
                         - For small group, number of step could be flexible for creativity

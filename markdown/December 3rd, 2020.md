@@ -7,7 +7,7 @@
     - This release me to the tiny stuff that I keep inside myself and nurture my courage and openness to the universe.
     - My personal self is so small comparing to what's possible in this universe.
 - I'm releasing more and more fear and anxiety inside of me now. I'm learning to embrace the world, the other people and learning to drop myself into the unlimited ocean of universe. 
-- Instead of measure how we live our life by result or external things, there are four internal things that we could measure of
+- Instead of measure how we live our life by result or external things, there are four internal things that we could measure of [[measure what's matter]]
     - physical
     - intellectual
     - emotional
@@ -19,3 +19,4 @@
         - focus and distraction
             - conscious will / habit-formed will
         - level of center
+- 

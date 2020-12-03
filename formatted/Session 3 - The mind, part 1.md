@@ -58,15 +58,32 @@
                         - The ocean become greater because of the rivers flow into.
                         - The soul are learning and growing. Everything comes in make us greater, richer, and wholer.
                     - If we are willing to let the experience come in and teach us, there is nothing wrong.
-                    - However, we are given free-will, so we have the ability to resist.
+                    - However, we are given free-will, so we have the ability to resist and keep patterns inside.
                         - When we focus on something instead of scatter our consciousness even, we assert a force that outside of the 4 fundamental forces - the power of will
                         - This is the birth of resistance to hold things a distance from us, instead of let them 'all the way in'. This is an act of will, not a thought.
                             - We can use will to resist, or cling to the thought patterns that the mind render.
                             - And this keeps these patterns finish it journey to come in and feed us fully.
                             - We keep what is not generating from the sources anymore.
-                        - 
-                        - 
-                    - 
+                        - These acts of will are original sin. 
+                            - Self-knowledge is good, but not in a way to hold on and make these patterns personal.
+                                - But in a way that's we let it all the way in, and learn from it.
+                    -  We can't be who we are because there are things draw our consciousness.
+                        - The first thing draw our consciousness is not a bad thing, it's the rendering of outside world comes in to teach us. Like a person who just sit there and watch movies.
+                        - But then, we start to decide
+                            - hold on to one pattern
+                            - and resist another
+                            - and they both stay inside
+                        - This will become problems later, because other similar thing will stimulate these trap patterns. 
+                            - We can't simply experience the rope as it is any more, if we keep the pattern of the snake that we can't handle inside, and freak us out.
+                            - If we like the butterfly and keep its pattern, then when the world come in, we are not looking the world any more, we're looking for the butterfly.
+                        - It used to be what was there just came in and feed us, but now it's not.
+                            - We now have the preferences for what should came in and what should not.
+                            - Our TV now are mess because it can't simply render new image, but keeps rendering old images as well.
+                        - The act of will is not innocence, because we unconsciously build a personal mind based on what we like and what we don't like.
+                        - These thought patterns, impressions or samskaras will start to control our life. They develop our self-concept.
+                        - It should be that we need to learn to not use will this way. We need to learn to be comfortable with what comes in, not resist or cling and think that these are normal.
+                        - Then we think that god is someone who will give us what we life, and don't give us what we don't like - 'god of the mind'.
+                        -  
 - ### Summary
     - In this session, we will learn 
         - what the mind is, 
