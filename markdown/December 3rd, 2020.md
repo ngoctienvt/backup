@@ -1,0 +1,6 @@
+- Last night dream, I had so much fear and limit myself under the rules of society. I noticed that's I also had a tendency to try to gain benefits for myself, instead of thinking in a way that's not for my personal self, but for reality. [[samskaras]]
+- My today focus will be about 
+    - concrete thinking
+    - letting go
+    - take note the 3rd video
+    - 
