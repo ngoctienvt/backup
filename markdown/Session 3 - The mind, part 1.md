@@ -38,7 +38,35 @@
             - like a computer without any software and OS, 
             - but has great potential.
             - This is a starting point.
-        - 
+        - The world exist independent with the mind, and create the body for us.
+            - The world come in by sending the reflection of the light to the mind.
+            - One of function of the mind is a flat-screen TV
+                - The mind formulate a form that matches what came in through the senses.
+                    - This is great because experiences are food for the soul.
+                    - We experience what we are meant to be experience. 
+                        - For example, a beautiful sunset blows our mind - which means there is nothing inside our mind, except all of our consciousness focus and merge with the experience.
+                            - If we think about it, we miss it, because we create something different than it.
+                            - It is spiritual experience, because we - the soul are not scattering but fully focus on the experience that life are giving us.
+                        - This is what called 'union' - the experience and the experiencer becomes one.
+                            - There is nothing else distract our consciousness except what's happening.
+                            - It's like rivers flow into and merge with the ocean. 
+                            - This is how it feels when Adam and Eva live on the garden.
+                - What is the fall from the garden?
+                    - When the experiences come in, they are feel different. Because they are difference.
+                        - Everything has its nature.
+                    - Consciousness can expand because of the knowledge from the experience come into it.
+                        - The ocean become greater because of the rivers flow into.
+                        - The soul are learning and growing. Everything comes in make us greater, richer, and wholer.
+                    - If we are willing to let the experience come in and teach us, there is nothing wrong.
+                    - However, we are given free-will, so we have the ability to resist.
+                        - When we focus on something instead of scatter our consciousness even, we assert a force that outside of the 4 fundamental forces - the power of will
+                        - This is the birth of resistance to hold things a distance from us, instead of let them 'all the way in'. This is an act of will, not a thought.
+                            - We can use will to resist, or cling to the thought patterns that the mind render.
+                            - And this keeps these patterns finish it journey to come in and feed us fully.
+                            - We keep what is not generating from the sources anymore.
+                        - 
+                        - 
+                    - 
 - ### Summary
     - In this session, we will learn 
         - what the mind is, 
