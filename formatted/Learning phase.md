@@ -1,14 +1,17 @@
 - Collecting stage - collect and structure hierachy of notes
-    - Smart note-taking external knowledge (books, articles, courses, podcasts...) - objects inside area of interest
-        - Interesting concepts, ideas, point of view
-        - Personal ummary, key take-aways
-    - Journaling internal knowledge - objects inside area of interest
-        - Thoughts
-        - New insights or awareness from self-realization or reflection
+    - Journal and take note
+        - External knowledge (books, articles, courses, podcasts...) - objects inside area of interest
+            - Interesting concepts, ideas, point of view
+            - Personal ummary, key take-aways
+        - Internal knowledge
+            - Thoughts
+            - New insights or awareness from self-realization or reflection
 - Shaping stage 
-    - Creating new notes
-    - Connecting to existing notes
+    - Grouping scattered notes
     - Forming higher-order key concepts, key ideas
+        - Creating new notes
+    - Densifying existing concepts
+        - Connecting to existing notes
 - Processing stage
     - Processing nurturing notes
     - Preparing processed notes for next phase

@@ -1,0 +1,44 @@
+- ### Introduction
+    - So far in the course, we have stressed the fact that you are in there experiencing what passes before you. **We discovered that the moment unfolding in front of you took 13.8 billion years to get here, and it is not personal.** You did not create the moment—it was given to you and you alone.** Each moment is a unique gift.**
+    - Now we will begin to **explore another thing you are aware of:** **the mind.** As we’ve learned, you are not the mind; you are simply aware of the mind. The **human mind is truly amazing**—it is brilliant and creative, and yet **at the same time, it can be the source of great personal suffering and pain.** **To be free of this pain, we must understand the mind.** 
+- ### Lessons
+    - The moment in front of us is impersonal and exist independent of us.
+    - It's just that life is easy because we are be there, and a part of universe unfold in front of us, and we simply aware and experience the moment.
+        - However, it does not seem like impersonal?
+        - Why it's so hard to just experience the unfolding moment?
+            - Why there is so much resistant?
+            - Where there are so much intensity and confusing inside?
+            - Why sometimes the world coming in - which is just a bunch of atoms makes me feel not good? But sometimes make me feel really good? And sometimes both?
+        - When the moment comes in, it caused trouble. 
+            - And because when the world comes in, it created the disturbances, we think the solution is NOT HAVE THE WORLD COME IN THAT WAY. 
+            - Or when the world come in feel good, we think the solution is TO MAKE THE WORLD COME IN THAT WAY.
+            - We end up a war with the moment in front of us
+                - "I need it to be this way. I don't want it to be that way."
+    - Build mind
+        - The reason we feel disturbances when the moment come in is because it stimulates our mind
+            - If things come in and our mind said "I like that...", we feel good.
+            - If things come in and our mind said "I don't like that...", we feel bad.
+            - But the person sit next to us don't feel like that. Their mind say one thing, our mind say another.
+        - Bill-gates example to demonstrate how our entire internal stage change because of one word
+        - Instead of asking "What is going on?", we only ask "How do we fix this?"
+        - Why am I not simply there and enjoy the moment in front of us? Why this is not my default state?
+            - Because it depends on what our mind say.
+            - "Which color do you like?". You don't decide that, your mind decides "Let me think about it."
+        - We - the consciousness - have the right to experience 
+- ### Summary
+    - In this session, we will learn 
+        - what the mind is, 
+        - where it came from, 
+        - and why it creates the thoughts it does.
+    - In this session, we began to explore the mind. We learned that the p**ure mind is a field of energy that creates thoughts** that you, the consciousness, are aware of. **The mind also receives and renders the world that comes in through the senses. **It** allows you to experience the outside world** and **to learn and grow from that experience. **
+    - The **problem is that the mind creates an alternate reality out of thoughts.** It is **built of the impressions you stored from past experiences** you **either liked and tried to keep**** or could not handle and pushed away.** These stored impressions create what Michael calls **the personal mind.**
+    - Based on your stored impressions, **you created a specific directive** as to **how the world in front of you needs to unfold** in order for you to feel good. **This alternate, mental reality prevents you from experiencing true reality,** and it ultimately causes you extreme suffering throughout your life. 
+    - Caught in this fabricated world of thoughts, **you are no longer able to see the truth of life** **because your past personal experiences are prejudicing your mind. **Your past likes and dislikes are distorting your perception of the present moment unfolding before you. This further contributes to the building of the personal mind.
+    - **Does it have to be this way?**** Ideally, the moment comes in, and you learn from it—both comfortable and uncomfortable. **You let the moment pass through you. **Letting moments pass through you is the act of surrender.**
+    - **Surrender is the highest path because** it says, **“I want to experience who I truly am, not who I think I am.”** The **whole of spiritual growth** is **getting comfortable with all moments—the good and the bad.** When you are able to do this, you will begin to become free.
+- ### Reflection questions
+    - In this session, we explored how the personal mind is built. After watching this session, are you able to distinguish the difference between personal thoughts and impersonal thoughts? Describe what you understand to be the difference.
+    - How does the world in front of you need to unfold in order for you to feel good? Can you see that you have modeled it all within your mind? Can you see that this limits what will make you happy to the things you have decided you want? What would it be like to expand your comfort zone to include more of life?
+    - In this session, we talked about “mind-blowing experiences.” We have mind-blowing experiences when we are able to center our consciousness on the experience we are having in front of us. Are you able to describe a recent experience where your mind was blown?
+    - While hiking, the experience of spotting a coiled rattlesnake with a flickering rattle on your path is very different from the experience of a monarch butterfly landing on your arm during the same hike. As we learned in this session, every single thing that comes in is supporting your evolution, even a rattlesnake. Looking back, is there an experience in your own life that at the time upset you, but now on reflection, supporting you in becoming a better version of yourself today?
+    - What are two experiences that you’ve had in your life that you feel left an impression on you, and now run your life? For example, you were bitten by a dog at the park when you were eight years old, and since then have avoided dogs your entire life. Or, you grew up in a beautiful town with redwoods and rivers, and now only dream of returning and settling down in a similar place like the beautiful town in which you once lived.
