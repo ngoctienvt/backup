@@ -1,31 +1,35 @@
-- Note
-    - Buổi 1 - Giới thiệu, làm quen & khảo sát nhu cầu.
-    - While you wait activity
-    - Làm quen công cụ
-    - Jamboard
-        - Careful - Clear frame -> Back
-    - Thiết kế chương trình
-        - Khảo sát nhu cầu học viên -> xây dựng mục tiêu đào tạo
-            - mục tiêu
-            - nguyên tắc 
-        - Thiết kế khung chương trình (modules, outcomes)
-            - Tìm hiểu nhiệm vụ và mục tiêu
-            - Lựa chọn và sắp xếp nội dung
-        - Thiết kế nội dung chi tiết
-            - Phong cách người thiết kế
-            - Xu hướng học tập của học viên
+- Session 1 - Introducing and getting started
+    - Main contents
+        - 5 steps to design a workshop
+            - Analyse
+                - Khảo sát nhu cầu học viên -> xây dựng mục tiêu đào tạo
+                    - mục tiêu
+                    - nguyên tắc 
+            - Design
+                - Thiết kế khung chương trình (modules, outcomes)
+                    - Tìm hiểu nhiệm vụ và mục tiêu
+                    - Lựa chọn và sắp xếp nội dung
+            - Development
+                - Thiết kế nội dung chi tiết
+                    - Phong cách người thiết kế
+                    - Xu hướng học tập của học viên
+            - Implement
+            - Evaluate
+                - 
+                - Thu hoạch/ đánh giá
+                    - Chương trình
+                    - Người học
+    - 3 roles for creating and delivering a training effectively
+        - Instructional Designer
+            - expert about design a workshop
+        - SME - Subject-matter expert 
+            - knowledge-expert
+        - Trainer - Facilitator
+            - teaching-expert
+    - Guiding principle
+        - Student-centric
         - Linh hoạt điều chỉnh dựa trên trình độ, tiến độ học tập / Cố định mục tiêu
             - Hoạt động - Giảng giải cho người mới, Chia sẻ cho người kinh nghiệm
-        - Thu hoạch/ đánh giá
-            - Chương trình
-            - Người học
-    - Instructional Designer
-        - chuyên môn về thiết kế chương trình
-    - SME - Subject-matter expert 
-        - có kiến thức về mảng đang muốn dạy
-    - Trainer - Facilitator
-    - Guiding principle for 
-        - Student-centric
     - Summary
         - [https://jamboard.google.com/d/1-NQBTIqDEH3xMO8PlyGWMVf0IgCYRf4eHDbZuAt7Bhs/edit?usp=sharing](https://jamboard.google.com/d/1-NQBTIqDEH3xMO8PlyGWMVf0IgCYRf4eHDbZuAt7Bhs/edit?usp=sharing&fbclid=IwAR11-sjuVTb61fvvVkEAFRpQaTNUIS6CaDvgJ4GXJTBwjX-aIJ7lq7Feh0E)
         - [https://www.youtube.com/watch?v=_HFeJlfwhT0&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=1&ab_channel=ConnectionCoach](https://www.youtube.com/watch?v=_HFeJlfwhT0&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=1&ab_channel=ConnectionCoach&fbclid=IwAR3fuz7NAell4qoD_MEBY-3s__fy0dVHWpXFAFRjjIUK7ilP-g5rVGnkFMA)
@@ -33,60 +37,94 @@
             - get used to know each other
             - get used to tools - Jamboard and Zoom
             - doing activities to have a big picture about design workshop and survey student needs
-        - 1- Trước khi bắt đầu, tụi mình mời mọi người tham gia một hoạt động chia sẻ bản thân đơn giản, bằng cách trả lời các câu hỏi về bản thân mình trong hộp chat của Zoom. Hoạt động dạng này có tên gọi là "While You Wait".
-        - Các câu hỏi đơn giản như: Bộ phim bạn xem đi xem lại nhiều lần mà không chán là gì? Công việc part-time bạn không thích nhất là gì?...
-        - Đây là một cách giúp mọi người không bị chán khi chờ đợi, và một phần giúp mọi người bắt đầu tập trung vào một nhiệm vụ nào đó để tâm trí không bị phân tán.
-        - Đặc điểm của hoạt động While You Wait là
-        - - Đủ đơn giản để chỉ cần đọc hướng dẫn là làm được ngay
-        - - Khi thực hiện online thì thực hiện ngay trên màn hình của công cụ video call
-        - - Không mất nhiều thời gian để hoàn thành, đôi khi chỉ cần vài giây để hoàn thành một nhiệm vụ
-        - - Toàn bộ mọi kết quả đều được mọi người nhìn thấy trên cùng một nền tảng (ví dụ: màn hình, hộp chat...)
-        - Lưu ý là hoạt động không nên quá lộn xộn hoặc tương tác quá nhiều, sẽ dễ dàng khiến năng lượng bị kích lên quá cao và dễ bị phân tán tư tưởng. Hoạt động nên giúp mọi người bắt đầu tập trung, thay vì kích hoạt quá nhiều cảm xúc.
-        - 2- Hoạt động mở đầu để làm quen với Jamboard - Viết ký tự tên của mình theo nhóm và sắp xếp thành các từ liên quan tới chủ đề của chương trình
-        - Trong hoạt động này, tụi mình yêu cầu mọi người tạo một sticky note trong Jamboard có các ký tự của tên mình và đặt vào nhóm của mình (nhóm 1 hoặc nhóm 2).
-        - Đây được gọi là một hoạt động nhằm đưa sự chú ý (gain attention) của mọi người vào chương trình. Đây có thể coi là một dạng phá băng (Ice-Breaking) đơn giản.
-        - Hoạt động này thực hiện nhằm giúp mọi người bắt đầu tương tác với nhau và với công cụ, nên tụi mình chờ cho đến khi toàn bộ mọi người đều đã ghi tên lên bản đồ rồi mới tiếp tục. Nếu ai chưa có tên thì cần hỏi thăm ngay, xem bạn ấy có sử dụng Jamboard được không.
-        - Với các chương trình sử dụng công cụ mới như vậy, việc từ từ làm quen với công cụ là một điều cần thiết. Người điều phối không nên sử dụng một hoạt động quá phức tạp từ đầu, mà hãy cho mọi người từng bước một sử dụng các chức năng khác nhau của công cụ qua từng hoạt động.
-        - Việc yêu cầu mọi người sắp xếp các chữ cái có nhiều mục đích
-        - - Làm quen với việc tạo sticky notes
-        - - Làm quen với việc tương tác cùng nhau trên một trang Jamboard
-        - - Bắt đầu để tâm tới chương trình và các từ khóa của chương trình
-        - 3- Hoạt động giới thiệu bản thân - Chia sẻ về bản thân và tìm hiểu về 2 người hướng dẫn
-        - Hoạt động này giúp mọi người bắt đầu làm quen với nhau và cũng giúp tụi mình giới thiệu bản thân mình luôn.
-        - Đây là một cách thú vị để giới thiệu về người điều phối mà không cần phải trực tiếp giới thiệu. Kể cả những người chưa biết gì về người điều phối cũng có thể "Google" hoặc lên Facebook để xem thông tin và chia sẻ về ấn tượng đầu tiên. Việc người điều phối tự chia sẻ thông tin về bản thân cũng được coi là thuyết giảng 1 chiều, và cũng có thể tạo ra sự nhàm chán. Vì vậy, tụi mình đã biến việc giới thiệu người hướng dẫn này thành một hoạt động do người học thực hiện.
-        - Mọi người sẽ để ý thấy rằng trong toàn bộ buổi học đầu tiên này, mọi người được chia nhóm thảo luận rất nhiều lần với những bạn ngẫu nhiên. Mục đích của việc này là để mọi người có cơ hội được trò chuyện với càng nhiều bạn học càng tốt. Vì vậy, hoạt động đầu tiên để giới thiệu bản thân chưa cần phải cho tất cả mọi người cùng làm quen với nhau. Toàn bộ buổi học số 1 sẽ đảm bảo được điều đó.
-        - 4- Điểm chung của việc thiết kế chương trình và thiết kế một căn nhà là gì?
-        - Mọi người được chia nhóm với những bạn học mới và thảo luận về câu hỏi trên.
-        - Thay vì yêu cầu mọi người chia sẻ thoải mái những điểm chung (chỉ đơn giản là liệt kê), tụi mình đã yêu cầu mọi người thảo luận và tổng hợp lại 3 điểm chung rõ ràng nhất. Việc tổng hợp này sẽ yêu cầu mọi người tư duy ở cấp độ cao hơn (hiểu và so sánh, và có một phần phân tích, đánh giá). Mọi người có thể để ý thấy trong buổi học này, tụi mình luôn giới hạn số lượng của kết quả thảo luận, ví dụ: 3 điều, 5 bước... Việc giới hạn này sẽ giúp quá trình thảo luận không bị lan man, và giúp đẩy mức độ tư duy của người tham gia lên cao hơn.
-        - Lý do tụi mình đưa ra câu hỏi liên tưởng, so sánh này là để mọi người bắt đầu suy nghĩ về việc thiết kế chương trình. Nếu đưa ra nhiệm vụ thảo luận về các bước thiết kế chương trình ngay lập tức (đây là một nhiệm vụ cần phân tích nhiều), thì mọi người nên được dẫn nhập từ từ ở một cấp độ tư duy thấp hơn (là cấp độ so sánh, hiểu) bằng câu hỏi liên tưởng này.
-        - Chuỗi hoạt động nên dẫn dắt quá trình tư duy, trải nghiệm của người học từng bước, để người học tăng dần mức độ tư duy.
-        - 5- Hoạt động "5 bước" để thiết kế một chương trình
-        - Mọi người được chia thành 4 nhóm, mỗi nhóm thảo luận và tổng hợp lại 5 bước mà nhóm dùng để thiết kế một chương trình.
-        - Hoạt động này có tên là "Steps", trong đó người hướng dẫn yêu cầu người tham gia liệt kê số bước cụ thể để hoàn thành một nhiệm vụ nào đó, theo trải nghiệm của người tham gia.
-        - Đối với những phần nội dung mang tính quy trình từng bước, hoạt động này rất phù hợp để khảo sát xem mọi người đang tiến hành quy trình đó thế nào. Một phần là khảo sát kiến thức có sẵn của người học, một phần là cùng người học đưa ra quy trình chuẩn. Thường thì quá trình tổng hợp các bước trùng nhau giữa các nhóm đều cho ra một quy trình khá giống với quy trình chuẩn.
-        - Sau khi các nhóm đã có kết quả là 5 bước, toàn bộ các bước đó được chuyển sang một trang mới, và mọi người cùng tương tác để gộp các bước giống nhau lại thành một, kết quả là thành 5 bước để thiết kế chương trình.
-        - Sau đó mọi người lại được chia thành 5 nhóm và thảo luận kỹ hơn để liệt kê các bước nhỏ hơn của 5 bước này.
-        - Một lưu ý về số lượng bước được yêu cầu: với nhóm lớn thì số lượng bước có thể được định sẵn (ví dụ như 4, 5 hoặc 6 bước) để quá trình thảo luận trong nhóm được tập trung. Còn với nhóm nhỏ, số lượng bước có thể được linh hoạt trong một khoảng nào đó để cho nhóm được tự do sáng tạo.
-        - Các bước nói trên hoàn toàn có thể được thuyết giảng 1 chiều từ phía người dạy, rất nhanh chóng, tuy nhiên sẽ không có tương tác, nên người học sẽ khó hiểu và khó nhớ hơn. Nhờ việc người học tương tác với nhau và tự tạo ra nội dung như vậy, người học sẽ nhớ rõ hơn các bước trong quy trình. Cách thực hiện này được gọi là "người học tự tạo ra nội dung" (generative) thay vì "nội dung được cung cấp sẵn" (supplantive).
-        - 6- Hoạt động viết ra các câu hỏi mà bản thân còn thắc mắc, muốn đào sâu về các bước thiết kế workshop
-        - Đây là một hoạt động giúp mọi người định hướng quá trình học của mình trong 10 buổi còn lại, là một dạng "khảo sát nhu cầu" và "đánh giá" ngay khi chương trình vừa bắt đầu. Nhờ các câu hỏi này, bản thân người thực hiện cũng sẽ có thể điều chỉnh chương trình cho phù hợp, và người tham gia cũng sẽ tập trung vào những khía cạnh chi tiết hơn cho các buổi học sau.
-        - Lại một lần nữa, số lượng câu hỏi được giới hạn là 5 câu. Sau đó, các câu hỏi được sắp xếp vào các bước để thiết kế chương trình, đây là một quá trình tư duy ở cấp độ đánh giá.
-        - Mọi người sẽ thấy là các hoạt động trong một buổi học nên được xâu chuỗi, và một cách xâu chuỗi là: kết quả của hoạt động trước chính là thông tin đầu vào hoặc cơ sở cho hoạt động sau.
-        - 7- Hoạt động "các nguyên tắc cần có của một workshop"
-        - Là một cách tương tác khác, bước đầu tiên là liệt kê và bước thứ hai là chọn lựa. Hoạt động dạng này có thể được sử dụng cho rất nhiều mục đích khác nhau. Ví dụ: lựa chọn các chủ đề mà workshop cần tập trung vào, lựa chọn các cách hay nhất để ứng dụng bài học của workshop, lựa chọn những bài tập mà người tham gia muốn thực hiện... Toàn bộ các phần nào của workshop cần có sự liệt kê và chọn lựa đều có thể được thực hiện theo cách này.
-        - Trong hoạt động này, câu hỏi 1 là "Là người thực hiện chương trình, bạn thường có những nguyên tắc nào cho chương trình của mình?" Đây là câu hỏi giúp mọi người đội mũ của "người thực hiện".
-        - Còn sau đó là câu hỏi 2 "Là người tham gia chương trình này, bạn muốn chương trình đảm bảo các nguyên tắc nào?" Đây là câu hỏi giúp mọi người đội mũ của "người tham gia".
-        - Một lần nữa, người thực hiện (là tụi mình) hoàn toàn có thể thuyết giảng, hoặc cho mọi người chia sẻ tự do. Cách thực hiện như trên sẽ giúp mọi người có cái nhìn 2 chiều từ phía người thiết kế và từ phía người học, và tìm ra các điểm chung để có thể sử dụng trong chương trình này. Một hoạt động sẽ hiệu quả hơn nếu nó giúp người tham gia nhìn nhận vấn đề từ nhiều chiều.
-        - 8- Giới thiệu chương trình
-        - Thường thì phần giới thiệu chương trình hay được đặt ở đầu buổi học. Tuy nhiên, điều này không cần thiết. Phần giới thiệu này nên được để ở lúc người học đã hiểu thêm một chút về nội dung của chương trình, đã được thảo luận, chia sẻ nhu cầu của mình. Vì vậy, tụi mình để phần giới thiệu ở cuối buổi.
-        - Tụi mình chỉ dùng 5 tới 10 phút để giới thiệu chương trình. Trong chương trình trực tiếp (offline), phần giới thiệu có thể kéo dài, nhưng khi làm online, người tham gia sẽ rất dễ buồn ngủ, chán, nếu phải nghe quá nhiều. Vì vậy, một chương trình online nên ít phần thuyết giảng, và nhiều phần tương tác hơn. Cũng vì vậy mà một chương trình online có thể sẽ dài hơn chương trình offline tương ứng, vì tương tác nhiều cũng có nghĩa nội dung sẽ được truyền đạt chậm hơn.
-        - 9- Hoạt động "hoàn thành câu"
-        - Để tổng kết buổi học, mọi người cần hoàn thành 2 câu sau và gửi vào group chat
-        - Hôm nay tôi cảm thấy...
-        - Trong chương trình này, tôi sẽ tập trung vào... để...
-        - Hoạt động hoàn thành câu này dù đơn giản những rất hiệu quả trong bất cứ phần nào của chương trình (đầu, giữa, cuối) để giúp người tham gia tập trung vào những điều đáng nhớ, đáng tập trung nhất.
-        - Những lưu ý sau buổi học
-        - - Một workshop online sẽ cần tương tác nhiều hơn workshop trực tiếp vì người học rất dễ bị phân tâm khi học online
-        - - Quá trình khảo sát nhu cầu người tham gia không nên chỉ diễn ra trước chương trình, mà nó nên được "đính kèm" vào các hoạt động trong chương trình luôn. Đây được coi là một "mục tiêu ngầm" (hidden agenda) của các hoạt động đó.
-        - - Thiết kế của một buổi workshop nên có một vài hoạt động được coi là "dự trù", nếu đủ thời gian thì thực hiện, còn nếu bị cháy giáo án thì có thể bỏ qua.
-        - Mọi người có câu hỏi gì thì cứ nhắn tin cho tụi mình nhé. Hẹn gặp mọi người vào Buổi 2 với chủ đề "Xác định mục tiêu của workshop". Tụi mình sẽ gửi thông tin để chuẩn bị cho Buổi 2 sớm nhé.
+        - How sesion flow
+            - While You Wait Activities
+                - Simple question
+                    - What movie you watch again and again?
+                    - What's your least favorite part-time job?...
+                - Purpose
+                    - Have something to focus on
+                    - Start to create connection between people
+                - Characteristic
+                    - Simple to do
+                    - When do online, do on video call or chat box
+                    - Not time-consuming, few second for a task
+                    - Visible for everyone at once
+                - Note
+                    - Avoiding push energy to high level and create unnecessary distractions
+                    - It's purpose is to help focus, not to stimulate emotions 
+            - Getting used to Hamboard activities
+                - Write down name letters and organize them into words related to workshop
+                - Purpose
+                    - Gain-attention activity to help ice-breaking
+                    - Interact to each other 
+                    - Ensure everyone can use tools
+                    - Help students learn to use different features of tools through activities
+                        - For example
+                            - Getting used to create sticky notes
+                            - Getting used to interact with each other on a Jamboard page
+                            - Getting used to workshop and keywords
+            - Introduce yourself and get to know facilitators activities
+                - This is an indirect activities to introduce facilitators. It reduces one-way interaction
+                - Grouping to different people to have a narrow and deeper interaction to each other
+            - What is the similarities between design a workshop and design a house?
+                - Grouping
+                - Request to gather to only 3 visible similarities
+                    - It requires students to think in higher level (understand, compare, a bit of analytic and evaluate)
+                - Metaphor question is to help guide students start to think about design a workshop - guided thinking
+                    - If students are required to discuss steps to design a workshop, the gap of thinking will be too big.
+                    - Start with level understand and compare first.
+                - These activities are [guided thinking](<guided thinking.md>) activities to help students level up their thinking slowly
+            - 5 steps to design a workshop activity
+                - Group people to 4 groups, discuss and summarize 5 steps to design a workshop
+                - Steps activities
+                    - Request students to list specific number of steps to complete certain tasks based on students' own experience.
+                - For content that have process and steps, this activity help to survey how everyone is doing.
+                - Purpose
+                    - Survey the level of students
+                    - Bring out a standard process
+                - Everyone will group what discussed to become 5 steps and introduce steps if neccessary.
+                - Grouping a gain to discuss more details on each step
+                    - Note:
+                        - For big group, a limit number of step is helpful to focus 
+                        - For small group, number of step could be flexible for creativity
+                - These steps can be teach one-way very fast, but there will lack of interaction, and students will feel hard to understand and remember.
+                    - By interacting and creating their own content, they will remember better.
+                    - This is called "generative-instructional strategy" instead of "supplantive-instructional strategy".
+            - Write down questions to dig deep activity
+                - An activity to help students guide their learning process
+                    - It's a need survey and evaluate right from the beginning.
+                    - From these questions, facilitators can adjust program properly, and help students prime their mind to focus.
+                - Number of questions are 5 and group into steps of design a wokshop
+                    - This is a analytic thinking level
+                - The way to link activities are 
+                    - results of above activities are input or foundation the next activities.
+            - What principles needed for a workshop activity
+                - Listing and choosing activities
+                    - First is listing,
+                        - As a facilitator, you have what principle for your program?
+                        - This is to wear a facilitator hat.
+                    -  Second is choosing.
+                        - As a participants, you want program ensure which principle?
+                        - This is to wear the participant hat.
+                - It could be use for different purposes
+                    - Select topics to focus
+                    - Select helpful way to apply knowledge
+                    - Select types of homework that students want to do
+            - Introduce workshop activity
+                - It's not necessary to introduce the program at the beginning.
+                - It should be introduce when participants have some knowledge about the program.
+                - In offline, it could take longer to introduce program. In online; it needs to be shorter to maintain focus with more interactions.
+                    - This leads to online could be longer than offline, because content could be delivered slower.
+            - Completing sentences acitivities
+                - Completing 2 sentences in group chat
+                    - Today I feel...
+                    - In this program, I will focus on... to...
+                - Purpose
+                    - It helps participants to focus into what's matter and valuable
+        - Overall note
+            - A online workshop will require more interactions than offline workshop, because participants will be distract easier.
+            - The process to survey needs will not only occur before, but inside the activities of workshop
+                - This is call "hidden agenda" of that activity
+            - Design a workshop should have some backup activities if there is enough time.
+- Session 2 - Identify goal of a workshop

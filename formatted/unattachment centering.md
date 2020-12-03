@@ -38,6 +38,9 @@
 -  
 
 # Backlinks
+## [December 3rd, 2020](<December 3rd, 2020.md>)
+- It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [Who am I](<Who am I.md>) [unattachment centering](<unattachment centering.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [unattachment centering](<unattachment centering.md>)
 

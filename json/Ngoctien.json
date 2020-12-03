@@ -56030,46 +56030,192 @@
       {
         "children": [
           {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606966117147,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606966162140,
-            "string": "Bu\u1ed5i 1 - Gi\u1edbi thi\u1ec7u, l\u00e0m quen & kh\u1ea3o s\u00e1t nhu c\u1ea7u.",
-            "uid": "LorVetdSh"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606910118973,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606911652319,
-            "string": "While you wait activity",
-            "uid": "NPY-p74Um"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606911802473,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606911806539,
-            "string": "L\u00e0m quen c\u00f4ng c\u1ee5",
-            "uid": "Gyh0VS5ui"
-          },
-          {
             "children": [
               {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606919266382,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606919271723,
+                            "string": "m\u1ee5c ti\u00eau",
+                            "uid": "0ZJ68jbqR"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606919271719,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606919285651,
+                            "string": "nguy\u00ean t\u1eafc ",
+                            "uid": "bSij38Zcp"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606913946039,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606914019932,
+                        "string": "Kh\u1ea3o s\u00e1t nhu c\u1ea7u h\u1ecdc vi\u00ean -> x\u00e2y d\u1ef1ng m\u1ee5c ti\u00eau \u0111\u00e0o t\u1ea1o",
+                        "uid": "MY1b-fZLX"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979673418,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979700632,
+                    "string": "Analyse",
+                    "uid": "Ok6KQYJiQ"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606916604994,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606916609110,
+                            "string": "T\u00ecm hi\u1ec3u nhi\u1ec7m v\u1ee5 v\u00e0 m\u1ee5c ti\u00eau",
+                            "uid": "hI8ldMvfM"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606916621845,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606916626421,
+                            "string": "L\u1ef1a ch\u1ecdn v\u00e0 s\u1eafp x\u1ebfp n\u1ed9i dung",
+                            "uid": "sVzkLyN--"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606914019928,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606914034323,
+                        "string": "Thi\u1ebft k\u1ebf khung ch\u01b0\u01a1ng tr\u00ecnh (modules, outcomes)",
+                        "uid": "sAwoic5ie"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979700628,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979702145,
+                    "string": "Design",
+                    "uid": "8TByvP_UU"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606914057658,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606914068419,
+                            "string": "Phong c\u00e1ch ng\u01b0\u1eddi thi\u1ebft k\u1ebf",
+                            "uid": "b52Zz0fTV"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606914068414,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606914082906,
+                            "string": "Xu h\u01b0\u1edbng h\u1ecdc t\u1eadp c\u1ee7a h\u1ecdc vi\u00ean",
+                            "uid": "nl4nAkkPc"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606914043448,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606914057663,
+                        "string": "Thi\u1ebft k\u1ebf n\u1ed9i dung chi ti\u1ebft",
+                        "uid": "OGnirIfAr"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979702140,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979711173,
+                    "string": "Development",
+                    "uid": "lNqwT4RKz"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979711169,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979712639,
+                    "string": "Implement",
+                    "uid": "KPUuQmqP9"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979908938,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979910980,
+                        "string": "P",
+                        "uid": "A1KzOQINR"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979913277,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979913277,
+                        "string": "",
+                        "uid": "qdwXgnndw"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606916552338,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606916563084,
+                            "string": "Ch\u01b0\u01a1ng tr\u00ecnh",
+                            "uid": "ttXjXGbN5"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606916563080,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606916564679,
+                            "string": "Ng\u01b0\u1eddi h\u1ecdc",
+                            "uid": "ROJ5cr1f4"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606914143568,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606916552345,
+                        "string": "Thu ho\u1ea1ch/ \u0111\u00e1nh gi\u00e1",
+                        "uid": "qWv55cUAJ"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979712636,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979714549,
+                    "string": "Evaluate",
+                    "uid": "oN-Z3W0Bf"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606911667304,
+                "create-time": 1606979664627,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606911678746,
-                "string": "Careful - Clear frame -> Back",
-                "uid": "AG4gyH9bi"
+                "edit-time": 1606979673420,
+                "string": "5 steps to design a workshop",
+                "uid": "zrB_4N3eb"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606911652314,
+            "create-time": 1606979662149,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606911667311,
-            "string": "Jamboard",
-            "uid": "-5GSChFSi"
+            "edit-time": 1606979664630,
+            "string": "Main contents",
+            "uid": "iSNyIvtiZ"
           },
           {
             "children": [
@@ -56077,79 +56223,73 @@
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606919266382,
+                    "create-time": 1606918710334,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606919271723,
-                    "string": "m\u1ee5c ti\u00eau",
-                    "uid": "0ZJ68jbqR"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606919271719,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606919285651,
-                    "string": "nguy\u00ean t\u1eafc ",
-                    "uid": "bSij38Zcp"
+                    "edit-time": 1606979867280,
+                    "string": "expert about design a workshop",
+                    "uid": "wRXlmnSWa"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606913946039,
+                "create-time": 1606918704468,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606914019932,
-                "string": "Kh\u1ea3o s\u00e1t nhu c\u1ea7u h\u1ecdc vi\u00ean -> x\u00e2y d\u1ef1ng m\u1ee5c ti\u00eau \u0111\u00e0o t\u1ea1o",
-                "uid": "MY1b-fZLX"
+                "edit-time": 1606918710337,
+                "string": "Instructional Designer",
+                "uid": "Pz0gzvM0t"
               },
               {
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606916604994,
+                    "create-time": 1606918734167,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606916609110,
-                    "string": "T\u00ecm hi\u1ec3u nhi\u1ec7m v\u1ee5 v\u00e0 m\u1ee5c ti\u00eau",
-                    "uid": "hI8ldMvfM"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606916621845,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606916626421,
-                    "string": "L\u1ef1a ch\u1ecdn v\u00e0 s\u1eafp x\u1ebfp n\u1ed9i dung",
-                    "uid": "sVzkLyN--"
+                    "edit-time": 1606979888362,
+                    "string": "knowledge-expert",
+                    "uid": "6BVHbmV5U"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606914019928,
+                "create-time": 1606918718856,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606914034323,
-                "string": "Thi\u1ebft k\u1ebf khung ch\u01b0\u01a1ng tr\u00ecnh (modules, outcomes)",
-                "uid": "sAwoic5ie"
+                "edit-time": 1606918733209,
+                "string": "SME - Subject-matter expert ",
+                "uid": "OsuWEbHY4"
               },
               {
                 "children": [
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606914057658,
+                    "create-time": 1606979890775,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606914068419,
-                    "string": "Phong c\u00e1ch ng\u01b0\u1eddi thi\u1ebft k\u1ebf",
-                    "uid": "b52Zz0fTV"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606914068414,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606914082906,
-                    "string": "Xu h\u01b0\u1edbng h\u1ecdc t\u1eadp c\u1ee7a h\u1ecdc vi\u00ean",
-                    "uid": "nl4nAkkPc"
+                    "edit-time": 1606979894921,
+                    "string": "teaching-expert",
+                    "uid": "qZ1K6uzrI"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606914043448,
+                "create-time": 1606918749938,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606914057663,
-                "string": "Thi\u1ebft k\u1ebf n\u1ed9i dung chi ti\u1ebft",
-                "uid": "OGnirIfAr"
+                "edit-time": 1606918756709,
+                "string": "Trainer - Facilitator",
+                "uid": "oBV8JHcpi"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606979751299,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606979855922,
+            "string": "3 roles for creating and delivering a training effectively",
+            "uid": "O2PLUEAVp"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606914034320,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606914043456,
+                "string": "Student-centric",
+                "uid": "NsUz2q13e"
               },
               {
                 "children": [
@@ -56168,101 +56308,13 @@
                 "edit-time": 1606917220106,
                 "string": "Linh ho\u1ea1t \u0111i\u1ec1u ch\u1ec9nh d\u1ef1a tr\u00ean tr\u00ecnh \u0111\u1ed9, ti\u1ebfn \u0111\u1ed9 h\u1ecdc t\u1eadp / C\u1ed1 \u0111\u1ecbnh m\u1ee5c ti\u00eau",
                 "uid": "fV50f3qs_"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606916552338,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606916563084,
-                    "string": "Ch\u01b0\u01a1ng tr\u00ecnh",
-                    "uid": "ttXjXGbN5"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606916563080,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606916564679,
-                    "string": "Ng\u01b0\u1eddi h\u1ecdc",
-                    "uid": "ROJ5cr1f4"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606914143568,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606916552345,
-                "string": "Thu ho\u1ea1ch/ \u0111\u00e1nh gi\u00e1",
-                "uid": "qWv55cUAJ"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606914134584,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606914140246,
-            "string": "Thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh",
-            "uid": "0W245ffl_"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606918710334,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606918718860,
-                "string": "chuy\u00ean m\u00f4n v\u1ec1 thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh",
-                "uid": "wRXlmnSWa"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606918704468,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606918710337,
-            "string": "Instructional Designer",
-            "uid": "Pz0gzvM0t"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606918734167,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606918749942,
-                "string": "c\u00f3 ki\u1ebfn th\u1ee9c v\u1ec1 m\u1ea3ng \u0111ang mu\u1ed1n d\u1ea1y",
-                "uid": "6BVHbmV5U"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606918718856,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606918733209,
-            "string": "SME - Subject-matter expert ",
-            "uid": "OsuWEbHY4"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606918749938,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606918756709,
-            "string": "Trainer - Facilitator",
-            "uid": "oBV8JHcpi"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606914034320,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606914043456,
-                "string": "Student-centric",
-                "uid": "NsUz2q13e"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606918756704,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606918873077,
-            "string": "Guiding principle for ",
+            "edit-time": 1606979898531,
+            "string": "Guiding principle",
             "uid": "gsubTcxoe"
           },
           {
@@ -56312,346 +56364,784 @@
                 "uid": "4xSmSbXDb"
               },
               {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977018627,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977028525,
+                            "string": "What movie you watch again and again?",
+                            "uid": "4_dS7Mx-X"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977028522,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977040116,
+                            "string": "What's your least favorite part-time job?...",
+                            "uid": "sWWf6DC4b"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977012819,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977018630,
+                        "string": "Simple question",
+                        "uid": "0lJ4b-GFQ"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977047067,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977062814,
+                            "string": "Have something to focus on",
+                            "uid": "PIr47T3YN"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977062810,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977073820,
+                            "string": "Start to create connection between people",
+                            "uid": "1hK3ccIY2"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977043779,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977047070,
+                        "string": "Purpose",
+                        "uid": "X3ErAHYar"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977079625,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977086175,
+                            "string": "Simple to do",
+                            "uid": "tBFR4nNhw"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977086171,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977105103,
+                            "string": "When do online, do on video call or chat box",
+                            "uid": "xPYI7w8Nc"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977105346,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977131558,
+                            "string": "Not time-consuming, few second for a task",
+                            "uid": "JSQG8RqrJ"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977131555,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977141979,
+                            "string": "Visible for everyone at once",
+                            "uid": "xTCkuuh_x"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977073814,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977079633,
+                        "string": "Characteristic",
+                        "uid": "Eqv2T8M-Q"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977199199,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977199199,
+                            "string": "Avoiding push energy to high level and create unnecessary distractions",
+                            "uid": "JFXc8vsrv"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977147337,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977214446,
+                            "string": "It's purpose is to help focus, not to stimulate emotions ",
+                            "uid": "BKl8BPdd6"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977141977,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977147342,
+                        "string": "Note",
+                        "uid": "KCAd1wzft"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606976993209,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606977012827,
+                    "string": "While You Wait Activities",
+                    "uid": "WX12odSaJ"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977237731,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977285406,
+                        "string": "Write down name letters and organize them into words related to workshop",
+                        "uid": "kzlgVhmw2"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977292531,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977315021,
+                            "string": "Gain-attention activity to help ice-breaking",
+                            "uid": "gzqAYNYLf"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977374483,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977374483,
+                            "string": "Interact to each other ",
+                            "uid": "ZkV5PYOCP"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977323939,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977384004,
+                            "string": "Ensure everyone can use tools",
+                            "uid": "QnqmBh8S2"
+                          },
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1606977443537,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1606977449277,
+                                    "string": "Getting used to create sticky notes",
+                                    "uid": "0nR2714Bk"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1606977449273,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1606977464404,
+                                    "string": "Getting used to interact with each other on a Jamboard page",
+                                    "uid": "b6AZYuQFV"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1606977464402,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1606977495772,
+                                    "string": "Getting used to workshop and keywords",
+                                    "uid": "5ABJt9a0b"
+                                  }
+                                ],
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606977440779,
+                                "string": "For example",
+                                "uid": "vNL4e1FQZ"
+                              }
+                            ],
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977430395,
+                            "string": "Help students learn to use different features of tools through activities",
+                            "uid": "TdwMld9h3"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977317378,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977323942,
+                        "string": "Purpose",
+                        "uid": "YtK9L1gw1"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606977221971,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606977237740,
+                    "string": "Getting used to Hamboard activities",
+                    "uid": "unNozis5Z"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977534642,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977660762,
+                        "string": "This is an indirect activities to introduce facilitators. It reduces one-way interaction",
+                        "uid": "o071kbmYo"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977682881,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977716735,
+                        "string": "Grouping to different people to have a narrow and deeper interaction to each other",
+                        "uid": "tdLApo1ym"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606977523604,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606977598439,
+                    "string": "Introduce yourself and get to know facilitators activities",
+                    "uid": "4aGE5G2H3"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977766607,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977819236,
+                        "string": "Grouping",
+                        "uid": "kW96e8I0k"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977850116,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606977879142,
+                            "string": "It requires students to think in higher level (understand, compare, a bit of analytic and evaluate)",
+                            "uid": "B4XCeFKSP"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977819234,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977848752,
+                        "string": "Request to gather to only 3 visible similarities",
+                        "uid": "9Kxw43D32"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606977928339,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978010667,
+                            "string": "If students are required to discuss steps to design a workshop, the gap of thinking will be too big.",
+                            "uid": "a6fBQLBxD"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978016402,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978028251,
+                            "string": "Start with level understand and compare first.",
+                            "uid": "NiYqcAmFL"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606977907882,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606977971115,
+                        "string": "Metaphor question is to help guide students start to think about design a workshop - guided thinking",
+                        "uid": "q2HBQS3kx"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978031362,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978105827,
+                        "string": "These activities are [[guided thinking]] activities to help students level up their thinking slowly",
+                        "uid": "9wCMGhR2e"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606977731577,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606977763502,
+                    "string": "What is the similarities between design a workshop and design a house?",
+                    "uid": "J2gxUL7dM"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978133663,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978172883,
+                        "string": "Group people to 4 groups, discuss and summarize 5 steps to design a workshop",
+                        "uid": "y1HIpdbfW"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978176130,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978209984,
+                            "string": "Request students to list specific number of steps to complete certain tasks based on students' own experience.",
+                            "uid": "25w3_pM7r"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978163002,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978176133,
+                        "string": "Steps activities",
+                        "uid": "Tak2Pe_ln"
+                      },
+                      {
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978282231,
+                        "string": "For content that have process and steps, this activity help to survey how everyone is doing.",
+                        "uid": "5qcd-u05m"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978288226,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978298341,
+                            "string": "Survey the level of students",
+                            "uid": "472hTyuXU"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978298338,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978313881,
+                            "string": "Bring out a standard process",
+                            "uid": "ebPgeFjo_"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978286498,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978288228,
+                        "string": "Purpose",
+                        "uid": "_v4ekH_OC"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978326815,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978368275,
+                        "string": "Everyone will group what discussed to become 5 steps and introduce steps if neccessary.",
+                        "uid": "81nahx5SJ"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606978400894,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606978441656,
+                                "string": "For big group, a limit number of step is helpful to focus ",
+                                "uid": "wpAU7I-g_"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606978441648,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606978463553,
+                                "string": "For small group, number of step could be flexible for creativity",
+                                "uid": "xUJqvf-wN"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978396383,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978400900,
+                            "string": "Note:",
+                            "uid": "hLHapRgCK"
+                          }
+                        ],
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978392581,
+                        "string": "Grouping a gain to discuss more details on each step",
+                        "uid": "A1F-VekxY"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978512047,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978531135,
+                            "string": "By interacting and creating their own content, they will remember better.",
+                            "uid": "keQvuPlcC"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978531126,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978646996,
+                            "string": "This is called \"generative-instructional strategy\" instead of \"supplantive-instructional strategy\".",
+                            "uid": "Ou7BwdLwW"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978477773,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978509954,
+                        "string": "These steps can be teach one-way very fast, but there will lack of interaction, and students will feel hard to understand and remember.",
+                        "uid": "uIrSR7MPK"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606978113507,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606978683630,
+                    "string": "5 steps to design a workshop activity",
+                    "uid": "yMNiRvfQF"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978721868,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978746196,
+                            "string": "It's a need survey and evaluate right from the beginning.",
+                            "uid": "7oOTsolwD"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978746190,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978777909,
+                            "string": "From these questions, facilitators can adjust program properly, and help students prime their mind to focus.",
+                            "uid": "k4Y4AMsH2"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978701318,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978721874,
+                        "string": "An activity to help students guide their learning process",
+                        "uid": "2B_tU26Q3"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978817590,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978841059,
+                            "string": "This is a analytic thinking level",
+                            "uid": "V802vh6Jf"
+                          }
+                        ],
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978817595,
+                        "string": "Number of questions are 5 and group into steps of design a wokshop",
+                        "uid": "giCLrcreU"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978879883,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606978904114,
+                            "string": "results of above activities are input or foundation the next activities.",
+                            "uid": "cuEXx74hm"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978841054,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978878604,
+                        "string": "The way to link activities are ",
+                        "uid": "c1wjtbyr4"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606978668453,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606978698418,
+                    "string": "Write down questions to dig deep activity",
+                    "uid": "LEOUgkQ5B"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606979076730,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606979102194,
+                                "string": "As a facilitator, you have what principle for your program?",
+                                "uid": "SIh9aRtKH"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606979104771,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606979116592,
+                                "string": "This is to wear a facilitator hat.",
+                                "uid": "ugiJW415b"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606979070568,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979070568,
+                            "string": "First is listing,",
+                            "uid": "rhW3VT_tf"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606979121242,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606979156750,
+                                "string": "As a participants, you want program ensure which principle?",
+                                "uid": "225_Y6z0z"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1606979156747,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1606979165879,
+                                "string": "This is to wear the participant hat.",
+                                "uid": "SCeK7Gfu4"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978948141,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979119795,
+                            "string": " Second is choosing.",
+                            "uid": "98WQdQLd9"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979123342,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979129551,
+                        "string": "Listing and choosing activities",
+                        "uid": "dXmwfYeBy"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606978978865,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979001820,
+                            "string": "Select topics to focus",
+                            "uid": "cwyFZjjgy"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606979001818,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979017459,
+                            "string": "Select helpful way to apply knowledge",
+                            "uid": "yzej-awr7"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606979017456,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979039637,
+                            "string": "Select types of homework that students want to do",
+                            "uid": "rCIQEDm0r"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606978967651,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606978994925,
+                        "string": "It could be use for different purposes",
+                        "uid": "nGOraEIca"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606978917674,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606978948146,
+                    "string": "What principles needed for a workshop activity",
+                    "uid": "wbzbAlcqg"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979194526,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979213966,
+                        "string": "It's not necessary to introduce the program at the beginning.",
+                        "uid": "pSpFkKUFI"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979213964,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979230563,
+                        "string": "It should be introduce when participants have some knowledge about the program.",
+                        "uid": "5AAKO4a2V"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606979294107,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979322811,
+                            "string": "This leads to online could be longer than offline, because content could be delivered slower.",
+                            "uid": "oGJxf0zCy"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979237628,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979289604,
+                        "string": "In offline, it could take longer to introduce program. In online; it needs to be shorter to maintain focus with more interactions.",
+                        "uid": "vD52GGsQi"
+                      }
+                    ],
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979194529,
+                    "string": "Introduce workshop activity",
+                    "uid": "jcx0jpnH5"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606979337341,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979343245,
+                            "string": "Today I feel...",
+                            "uid": "66vYEUfI4"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606979343242,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979354166,
+                            "string": "In this program, I will focus on... to...",
+                            "uid": "kEAIV55OP"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979356948,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979373286,
+                        "string": "Completing 2 sentences in group chat",
+                        "uid": "wG8nfNKY2"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1606979384578,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1606979595484,
+                            "string": "It helps participants to focus into what's matter and valuable",
+                            "uid": "i4sXdIF9c"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979354163,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979384581,
+                        "string": "Purpose",
+                        "uid": "SLMWAZq4L"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979318689,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979334167,
+                    "string": "Completing sentences acitivities",
+                    "uid": "jamZZ_SM0"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606976986056,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "1- Tr\u01b0\u1edbc khi b\u1eaft \u0111\u1ea7u, t\u1ee5i m\u00ecnh m\u1eddi m\u1ecdi ng\u01b0\u1eddi tham gia m\u1ed9t ho\u1ea1t \u0111\u1ed9ng chia s\u1ebb b\u1ea3n th\u00e2n \u0111\u01a1n gi\u1ea3n, b\u1eb1ng c\u00e1ch tr\u1ea3 l\u1eddi c\u00e1c c\u00e2u h\u1ecfi v\u1ec1 b\u1ea3n th\u00e2n m\u00ecnh trong h\u1ed9p chat c\u1ee7a Zoom. Ho\u1ea1t \u0111\u1ed9ng d\u1ea1ng n\u00e0y c\u00f3 t\u00ean g\u1ecdi l\u00e0 \"While You Wait\".",
-                "uid": "ipG0-q1u8"
+                "edit-time": 1606977671970,
+                "string": "How sesion flow",
+                "uid": "1QwViRmYO"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979421083,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979447003,
+                    "string": "A online workshop will require more interactions than offline workshop, because participants will be distract easier.",
+                    "uid": "tTS25-Yd-"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979479595,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979513468,
+                        "string": "This is call \"hidden agenda\" of that activity",
+                        "uid": "RUt4XzeAT"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979450003,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979496410,
+                    "string": "The process to survey needs will not only occur before, but inside the activities of workshop",
+                    "uid": "eOs4m_T2M"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979513466,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979534253,
+                    "string": "Design a workshop should have some backup activities if there is enough time.",
+                    "uid": "Rv47Gno-g"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606979411498,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "C\u00e1c c\u00e2u h\u1ecfi \u0111\u01a1n gi\u1ea3n nh\u01b0: B\u1ed9 phim b\u1ea1n xem \u0111i xem l\u1ea1i nhi\u1ec1u l\u1ea7n m\u00e0 kh\u00f4ng ch\u00e1n l\u00e0 g\u00ec? C\u00f4ng vi\u1ec7c part-time b\u1ea1n kh\u00f4ng th\u00edch nh\u1ea5t l\u00e0 g\u00ec?...",
-                "uid": "w6R6ywNED"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "\u0110\u00e2y l\u00e0 m\u1ed9t c\u00e1ch gi\u00fap m\u1ecdi ng\u01b0\u1eddi kh\u00f4ng b\u1ecb ch\u00e1n khi ch\u1edd \u0111\u1ee3i, v\u00e0 m\u1ed9t ph\u1ea7n gi\u00fap m\u1ecdi ng\u01b0\u1eddi b\u1eaft \u0111\u1ea7u t\u1eadp trung v\u00e0o m\u1ed9t nhi\u1ec7m v\u1ee5 n\u00e0o \u0111\u00f3 \u0111\u1ec3 t\u00e2m tr\u00ed kh\u00f4ng b\u1ecb ph\u00e2n t\u00e1n.",
-                "uid": "XLJP9EcG7"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "\u0110\u1eb7c \u0111i\u1ec3m c\u1ee7a ho\u1ea1t \u0111\u1ed9ng While You Wait l\u00e0",
-                "uid": "wCWnHi2G6"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "- \u0110\u1ee7 \u0111\u01a1n gi\u1ea3n \u0111\u1ec3 ch\u1ec9 c\u1ea7n \u0111\u1ecdc h\u01b0\u1edbng d\u1eabn l\u00e0 l\u00e0m \u0111\u01b0\u1ee3c ngay",
-                "uid": "Dt7EY-im5"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "- Khi th\u1ef1c hi\u1ec7n online th\u00ec th\u1ef1c hi\u1ec7n ngay tr\u00ean m\u00e0n h\u00ecnh c\u1ee7a c\u00f4ng c\u1ee5 video call",
-                "uid": "v8W6CWzdG"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "- Kh\u00f4ng m\u1ea5t nhi\u1ec1u th\u1eddi gian \u0111\u1ec3 ho\u00e0n th\u00e0nh, \u0111\u00f4i khi ch\u1ec9 c\u1ea7n v\u00e0i gi\u00e2y \u0111\u1ec3 ho\u00e0n th\u00e0nh m\u1ed9t nhi\u1ec7m v\u1ee5",
-                "uid": "xCmbsvrN7"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "- To\u00e0n b\u1ed9 m\u1ecdi k\u1ebft qu\u1ea3 \u0111\u1ec1u \u0111\u01b0\u1ee3c m\u1ecdi ng\u01b0\u1eddi nh\u00ecn th\u1ea5y tr\u00ean c\u00f9ng m\u1ed9t n\u1ec1n t\u1ea3ng (v\u00ed d\u1ee5: m\u00e0n h\u00ecnh, h\u1ed9p chat...)",
-                "uid": "NdCD-ira3"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "L\u01b0u \u00fd l\u00e0 ho\u1ea1t \u0111\u1ed9ng kh\u00f4ng n\u00ean qu\u00e1 l\u1ed9n x\u1ed9n ho\u1eb7c t\u01b0\u01a1ng t\u00e1c qu\u00e1 nhi\u1ec1u, s\u1ebd d\u1ec5 d\u00e0ng khi\u1ebfn n\u0103ng l\u01b0\u1ee3ng b\u1ecb k\u00edch l\u00ean qu\u00e1 cao v\u00e0 d\u1ec5 b\u1ecb ph\u00e2n t\u00e1n t\u01b0 t\u01b0\u1edfng. Ho\u1ea1t \u0111\u1ed9ng n\u00ean gi\u00fap m\u1ecdi ng\u01b0\u1eddi b\u1eaft \u0111\u1ea7u t\u1eadp trung, thay v\u00ec k\u00edch ho\u1ea1t qu\u00e1 nhi\u1ec1u c\u1ea3m x\u00fac.",
-                "uid": "S30_c7SQv"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "2- Ho\u1ea1t \u0111\u1ed9ng m\u1edf \u0111\u1ea7u \u0111\u1ec3 l\u00e0m quen v\u1edbi Jamboard - Vi\u1ebft k\u00fd t\u1ef1 t\u00ean c\u1ee7a m\u00ecnh theo nh\u00f3m v\u00e0 s\u1eafp x\u1ebfp th\u00e0nh c\u00e1c t\u1eeb li\u00ean quan t\u1edbi ch\u1ee7 \u0111\u1ec1 c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh",
-                "uid": "-J861Zx4Z"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "Trong ho\u1ea1t \u0111\u1ed9ng n\u00e0y, t\u1ee5i m\u00ecnh y\u00eau c\u1ea7u m\u1ecdi ng\u01b0\u1eddi t\u1ea1o m\u1ed9t sticky note trong Jamboard c\u00f3 c\u00e1c k\u00fd t\u1ef1 c\u1ee7a t\u00ean m\u00ecnh v\u00e0 \u0111\u1eb7t v\u00e0o nh\u00f3m c\u1ee7a m\u00ecnh (nh\u00f3m 1 ho\u1eb7c nh\u00f3m 2).",
-                "uid": "WlAM9Zfu1"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "\u0110\u00e2y \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 m\u1ed9t ho\u1ea1t \u0111\u1ed9ng nh\u1eb1m \u0111\u01b0a s\u1ef1 ch\u00fa \u00fd (gain attention) c\u1ee7a m\u1ecdi ng\u01b0\u1eddi v\u00e0o ch\u01b0\u01a1ng tr\u00ecnh. \u0110\u00e2y c\u00f3 th\u1ec3 coi l\u00e0 m\u1ed9t d\u1ea1ng ph\u00e1 b\u0103ng (Ice-Breaking) \u0111\u01a1n gi\u1ea3n.",
-                "uid": "GTR6S-1Ji"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "Ho\u1ea1t \u0111\u1ed9ng n\u00e0y th\u1ef1c hi\u1ec7n nh\u1eb1m gi\u00fap m\u1ecdi ng\u01b0\u1eddi b\u1eaft \u0111\u1ea7u t\u01b0\u01a1ng t\u00e1c v\u1edbi nhau v\u00e0 v\u1edbi c\u00f4ng c\u1ee5, n\u00ean t\u1ee5i m\u00ecnh ch\u1edd cho \u0111\u1ebfn khi to\u00e0n b\u1ed9 m\u1ecdi ng\u01b0\u1eddi \u0111\u1ec1u \u0111\u00e3 ghi t\u00ean l\u00ean b\u1ea3n \u0111\u1ed3 r\u1ed3i m\u1edbi ti\u1ebfp t\u1ee5c. N\u1ebfu ai ch\u01b0a c\u00f3 t\u00ean th\u00ec c\u1ea7n h\u1ecfi th\u0103m ngay, xem b\u1ea1n \u1ea5y c\u00f3 s\u1eed d\u1ee5ng Jamboard \u0111\u01b0\u1ee3c kh\u00f4ng.",
-                "uid": "TdwMld9h3"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "V\u1edbi c\u00e1c ch\u01b0\u01a1ng tr\u00ecnh s\u1eed d\u1ee5ng c\u00f4ng c\u1ee5 m\u1edbi nh\u01b0 v\u1eady, vi\u1ec7c t\u1eeb t\u1eeb l\u00e0m quen v\u1edbi c\u00f4ng c\u1ee5 l\u00e0 m\u1ed9t \u0111i\u1ec1u c\u1ea7n thi\u1ebft. Ng\u01b0\u1eddi \u0111i\u1ec1u ph\u1ed1i kh\u00f4ng n\u00ean s\u1eed d\u1ee5ng m\u1ed9t ho\u1ea1t \u0111\u1ed9ng qu\u00e1 ph\u1ee9c t\u1ea1p t\u1eeb \u0111\u1ea7u, m\u00e0 h\u00e3y cho m\u1ecdi ng\u01b0\u1eddi t\u1eebng b\u01b0\u1edbc m\u1ed9t s\u1eed d\u1ee5ng c\u00e1c ch\u1ee9c n\u0103ng kh\u00e1c nhau c\u1ee7a c\u00f4ng c\u1ee5 qua t\u1eebng ho\u1ea1t \u0111\u1ed9ng.",
-                "uid": "vNL4e1FQZ"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "Vi\u1ec7c y\u00eau c\u1ea7u m\u1ecdi ng\u01b0\u1eddi s\u1eafp x\u1ebfp c\u00e1c ch\u1eef c\u00e1i c\u00f3 nhi\u1ec1u m\u1ee5c \u0111\u00edch",
-                "uid": "PRwIt2tm2"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "- L\u00e0m quen v\u1edbi vi\u1ec7c t\u1ea1o sticky notes",
-                "uid": "bBNAlAkeH"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "- L\u00e0m quen v\u1edbi vi\u1ec7c t\u01b0\u01a1ng t\u00e1c c\u00f9ng nhau tr\u00ean m\u1ed9t trang Jamboard",
-                "uid": "1AU86lwjE"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125193,
-                "string": "- B\u1eaft \u0111\u1ea7u \u0111\u1ec3 t\u00e2m t\u1edbi ch\u01b0\u01a1ng tr\u00ecnh v\u00e0 c\u00e1c t\u1eeb kh\u00f3a c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh",
-                "uid": "ILima8jQa"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "3- Ho\u1ea1t \u0111\u1ed9ng gi\u1edbi thi\u1ec7u b\u1ea3n th\u00e2n - Chia s\u1ebb v\u1ec1 b\u1ea3n th\u00e2n v\u00e0 t\u00ecm hi\u1ec3u v\u1ec1 2 ng\u01b0\u1eddi h\u01b0\u1edbng d\u1eabn",
-                "uid": "P4w6seZl8"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Ho\u1ea1t \u0111\u1ed9ng n\u00e0y gi\u00fap m\u1ecdi ng\u01b0\u1eddi b\u1eaft \u0111\u1ea7u l\u00e0m quen v\u1edbi nhau v\u00e0 c\u0169ng gi\u00fap t\u1ee5i m\u00ecnh gi\u1edbi thi\u1ec7u b\u1ea3n th\u00e2n m\u00ecnh lu\u00f4n.",
-                "uid": "UlsK45E4l"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "\u0110\u00e2y l\u00e0 m\u1ed9t c\u00e1ch th\u00fa v\u1ecb \u0111\u1ec3 gi\u1edbi thi\u1ec7u v\u1ec1 ng\u01b0\u1eddi \u0111i\u1ec1u ph\u1ed1i m\u00e0 kh\u00f4ng c\u1ea7n ph\u1ea3i tr\u1ef1c ti\u1ebfp gi\u1edbi thi\u1ec7u. K\u1ec3 c\u1ea3 nh\u1eefng ng\u01b0\u1eddi ch\u01b0a bi\u1ebft g\u00ec v\u1ec1 ng\u01b0\u1eddi \u0111i\u1ec1u ph\u1ed1i c\u0169ng c\u00f3 th\u1ec3 \"Google\" ho\u1eb7c l\u00ean Facebook \u0111\u1ec3 xem th\u00f4ng tin v\u00e0 chia s\u1ebb v\u1ec1 \u1ea5n t\u01b0\u1ee3ng \u0111\u1ea7u ti\u00ean. Vi\u1ec7c ng\u01b0\u1eddi \u0111i\u1ec1u ph\u1ed1i t\u1ef1 chia s\u1ebb th\u00f4ng tin v\u1ec1 b\u1ea3n th\u00e2n c\u0169ng \u0111\u01b0\u1ee3c coi l\u00e0 thuy\u1ebft gi\u1ea3ng 1 chi\u1ec1u, v\u00e0 c\u0169ng c\u00f3 th\u1ec3 t\u1ea1o ra s\u1ef1 nh\u00e0m ch\u00e1n. V\u00ec v\u1eady, t\u1ee5i m\u00ecnh \u0111\u00e3 bi\u1ebfn vi\u1ec7c gi\u1edbi thi\u1ec7u ng\u01b0\u1eddi h\u01b0\u1edbng d\u1eabn n\u00e0y th\u00e0nh m\u1ed9t ho\u1ea1t \u0111\u1ed9ng do ng\u01b0\u1eddi h\u1ecdc th\u1ef1c hi\u1ec7n.",
-                "uid": "BqrCvwFIQ"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "M\u1ecdi ng\u01b0\u1eddi s\u1ebd \u0111\u1ec3 \u00fd th\u1ea5y r\u1eb1ng trong to\u00e0n b\u1ed9 bu\u1ed5i h\u1ecdc \u0111\u1ea7u ti\u00ean n\u00e0y, m\u1ecdi ng\u01b0\u1eddi \u0111\u01b0\u1ee3c chia nh\u00f3m th\u1ea3o lu\u1eadn r\u1ea5t nhi\u1ec1u l\u1ea7n v\u1edbi nh\u1eefng b\u1ea1n ng\u1eabu nhi\u00ean. M\u1ee5c \u0111\u00edch c\u1ee7a vi\u1ec7c n\u00e0y l\u00e0 \u0111\u1ec3 m\u1ecdi ng\u01b0\u1eddi c\u00f3 c\u01a1 h\u1ed9i \u0111\u01b0\u1ee3c tr\u00f2 chuy\u1ec7n v\u1edbi c\u00e0ng nhi\u1ec1u b\u1ea1n h\u1ecdc c\u00e0ng t\u1ed1t. V\u00ec v\u1eady, ho\u1ea1t \u0111\u1ed9ng \u0111\u1ea7u ti\u00ean \u0111\u1ec3 gi\u1edbi thi\u1ec7u b\u1ea3n th\u00e2n ch\u01b0a c\u1ea7n ph\u1ea3i cho t\u1ea5t c\u1ea3 m\u1ecdi ng\u01b0\u1eddi c\u00f9ng l\u00e0m quen v\u1edbi nhau. To\u00e0n b\u1ed9 bu\u1ed5i h\u1ecdc s\u1ed1 1 s\u1ebd \u0111\u1ea3m b\u1ea3o \u0111\u01b0\u1ee3c \u0111i\u1ec1u \u0111\u00f3.",
-                "uid": "8pLU7odDQ"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "4- \u0110i\u1ec3m chung c\u1ee7a vi\u1ec7c thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh v\u00e0 thi\u1ebft k\u1ebf m\u1ed9t c\u0103n nh\u00e0 l\u00e0 g\u00ec?",
-                "uid": "8zTjSfQ6o"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "M\u1ecdi ng\u01b0\u1eddi \u0111\u01b0\u1ee3c chia nh\u00f3m v\u1edbi nh\u1eefng b\u1ea1n h\u1ecdc m\u1edbi v\u00e0 th\u1ea3o lu\u1eadn v\u1ec1 c\u00e2u h\u1ecfi tr\u00ean.",
-                "uid": "1pzn7MUiH"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Thay v\u00ec y\u00eau c\u1ea7u m\u1ecdi ng\u01b0\u1eddi chia s\u1ebb tho\u1ea3i m\u00e1i nh\u1eefng \u0111i\u1ec3m chung (ch\u1ec9 \u0111\u01a1n gi\u1ea3n l\u00e0 li\u1ec7t k\u00ea), t\u1ee5i m\u00ecnh \u0111\u00e3 y\u00eau c\u1ea7u m\u1ecdi ng\u01b0\u1eddi th\u1ea3o lu\u1eadn v\u00e0 t\u1ed5ng h\u1ee3p l\u1ea1i 3 \u0111i\u1ec3m chung r\u00f5 r\u00e0ng nh\u1ea5t. Vi\u1ec7c t\u1ed5ng h\u1ee3p n\u00e0y s\u1ebd y\u00eau c\u1ea7u m\u1ecdi ng\u01b0\u1eddi t\u01b0 duy \u1edf c\u1ea5p \u0111\u1ed9 cao h\u01a1n (hi\u1ec3u v\u00e0 so s\u00e1nh, v\u00e0 c\u00f3 m\u1ed9t ph\u1ea7n ph\u00e2n t\u00edch, \u0111\u00e1nh gi\u00e1). M\u1ecdi ng\u01b0\u1eddi c\u00f3 th\u1ec3 \u0111\u1ec3 \u00fd th\u1ea5y trong bu\u1ed5i h\u1ecdc n\u00e0y, t\u1ee5i m\u00ecnh lu\u00f4n gi\u1edbi h\u1ea1n s\u1ed1 l\u01b0\u1ee3ng c\u1ee7a k\u1ebft qu\u1ea3 th\u1ea3o lu\u1eadn, v\u00ed d\u1ee5: 3 \u0111i\u1ec1u, 5 b\u01b0\u1edbc... Vi\u1ec7c gi\u1edbi h\u1ea1n n\u00e0y s\u1ebd gi\u00fap qu\u00e1 tr\u00ecnh th\u1ea3o lu\u1eadn kh\u00f4ng b\u1ecb lan man, v\u00e0 gi\u00fap \u0111\u1ea9y m\u1ee9c \u0111\u1ed9 t\u01b0 duy c\u1ee7a ng\u01b0\u1eddi tham gia l\u00ean cao h\u01a1n.",
-                "uid": "HMmV96VLm"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "L\u00fd do t\u1ee5i m\u00ecnh \u0111\u01b0a ra c\u00e2u h\u1ecfi li\u00ean t\u01b0\u1edfng, so s\u00e1nh n\u00e0y l\u00e0 \u0111\u1ec3 m\u1ecdi ng\u01b0\u1eddi b\u1eaft \u0111\u1ea7u suy ngh\u0129 v\u1ec1 vi\u1ec7c thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh. N\u1ebfu \u0111\u01b0a ra nhi\u1ec7m v\u1ee5 th\u1ea3o lu\u1eadn v\u1ec1 c\u00e1c b\u01b0\u1edbc thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh ngay l\u1eadp t\u1ee9c (\u0111\u00e2y l\u00e0 m\u1ed9t nhi\u1ec7m v\u1ee5 c\u1ea7n ph\u00e2n t\u00edch nhi\u1ec1u), th\u00ec m\u1ecdi ng\u01b0\u1eddi n\u00ean \u0111\u01b0\u1ee3c d\u1eabn nh\u1eadp t\u1eeb t\u1eeb \u1edf m\u1ed9t c\u1ea5p \u0111\u1ed9 t\u01b0 duy th\u1ea5p h\u01a1n (l\u00e0 c\u1ea5p \u0111\u1ed9 so s\u00e1nh, hi\u1ec3u) b\u1eb1ng c\u00e2u h\u1ecfi li\u00ean t\u01b0\u1edfng n\u00e0y.",
-                "uid": "4lCMZdjxo"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Chu\u1ed7i ho\u1ea1t \u0111\u1ed9ng n\u00ean d\u1eabn d\u1eaft qu\u00e1 tr\u00ecnh t\u01b0 duy, tr\u1ea3i nghi\u1ec7m c\u1ee7a ng\u01b0\u1eddi h\u1ecdc t\u1eebng b\u01b0\u1edbc, \u0111\u1ec3 ng\u01b0\u1eddi h\u1ecdc t\u0103ng d\u1ea7n m\u1ee9c \u0111\u1ed9 t\u01b0 duy.",
-                "uid": "cLoe5HZpv"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "5- Ho\u1ea1t \u0111\u1ed9ng \"5 b\u01b0\u1edbc\" \u0111\u1ec3 thi\u1ebft k\u1ebf m\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh",
-                "uid": "6nFV40PU4"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "M\u1ecdi ng\u01b0\u1eddi \u0111\u01b0\u1ee3c chia th\u00e0nh 4 nh\u00f3m, m\u1ed7i nh\u00f3m th\u1ea3o lu\u1eadn v\u00e0 t\u1ed5ng h\u1ee3p l\u1ea1i 5 b\u01b0\u1edbc m\u00e0 nh\u00f3m d\u00f9ng \u0111\u1ec3 thi\u1ebft k\u1ebf m\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh.",
-                "uid": "bcb0YG7Ly"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Ho\u1ea1t \u0111\u1ed9ng n\u00e0y c\u00f3 t\u00ean l\u00e0 \"Steps\", trong \u0111\u00f3 ng\u01b0\u1eddi h\u01b0\u1edbng d\u1eabn y\u00eau c\u1ea7u ng\u01b0\u1eddi tham gia li\u1ec7t k\u00ea s\u1ed1 b\u01b0\u1edbc c\u1ee5 th\u1ec3 \u0111\u1ec3 ho\u00e0n th\u00e0nh m\u1ed9t nhi\u1ec7m v\u1ee5 n\u00e0o \u0111\u00f3, theo tr\u1ea3i nghi\u1ec7m c\u1ee7a ng\u01b0\u1eddi tham gia.",
-                "uid": "5qcd-u05m"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "\u0110\u1ed1i v\u1edbi nh\u1eefng ph\u1ea7n n\u1ed9i dung mang t\u00ednh quy tr\u00ecnh t\u1eebng b\u01b0\u1edbc, ho\u1ea1t \u0111\u1ed9ng n\u00e0y r\u1ea5t ph\u00f9 h\u1ee3p \u0111\u1ec3 kh\u1ea3o s\u00e1t xem m\u1ecdi ng\u01b0\u1eddi \u0111ang ti\u1ebfn h\u00e0nh quy tr\u00ecnh \u0111\u00f3 th\u1ebf n\u00e0o. M\u1ed9t ph\u1ea7n l\u00e0 kh\u1ea3o s\u00e1t ki\u1ebfn th\u1ee9c c\u00f3 s\u1eb5n c\u1ee7a ng\u01b0\u1eddi h\u1ecdc, m\u1ed9t ph\u1ea7n l\u00e0 c\u00f9ng ng\u01b0\u1eddi h\u1ecdc \u0111\u01b0a ra quy tr\u00ecnh chu\u1ea9n. Th\u01b0\u1eddng th\u00ec qu\u00e1 tr\u00ecnh t\u1ed5ng h\u1ee3p c\u00e1c b\u01b0\u1edbc tr\u00f9ng nhau gi\u1eefa c\u00e1c nh\u00f3m \u0111\u1ec1u cho ra m\u1ed9t quy tr\u00ecnh kh\u00e1 gi\u1ed1ng v\u1edbi quy tr\u00ecnh chu\u1ea9n.",
-                "uid": "qkcq1tM5d"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Sau khi c\u00e1c nh\u00f3m \u0111\u00e3 c\u00f3 k\u1ebft qu\u1ea3 l\u00e0 5 b\u01b0\u1edbc, to\u00e0n b\u1ed9 c\u00e1c b\u01b0\u1edbc \u0111\u00f3 \u0111\u01b0\u1ee3c chuy\u1ec3n sang m\u1ed9t trang m\u1edbi, v\u00e0 m\u1ecdi ng\u01b0\u1eddi c\u00f9ng t\u01b0\u01a1ng t\u00e1c \u0111\u1ec3 g\u1ed9p c\u00e1c b\u01b0\u1edbc gi\u1ed1ng nhau l\u1ea1i th\u00e0nh m\u1ed9t, k\u1ebft qu\u1ea3 l\u00e0 th\u00e0nh 5 b\u01b0\u1edbc \u0111\u1ec3 thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh.",
-                "uid": "A1F-VekxY"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Sau \u0111\u00f3 m\u1ecdi ng\u01b0\u1eddi l\u1ea1i \u0111\u01b0\u1ee3c chia th\u00e0nh 5 nh\u00f3m v\u00e0 th\u1ea3o lu\u1eadn k\u1ef9 h\u01a1n \u0111\u1ec3 li\u1ec7t k\u00ea c\u00e1c b\u01b0\u1edbc nh\u1ecf h\u01a1n c\u1ee7a 5 b\u01b0\u1edbc n\u00e0y.",
-                "uid": "2rijdC7pw"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "M\u1ed9t l\u01b0u \u00fd v\u1ec1 s\u1ed1 l\u01b0\u1ee3ng b\u01b0\u1edbc \u0111\u01b0\u1ee3c y\u00eau c\u1ea7u: v\u1edbi nh\u00f3m l\u1edbn th\u00ec s\u1ed1 l\u01b0\u1ee3ng b\u01b0\u1edbc c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c \u0111\u1ecbnh s\u1eb5n (v\u00ed d\u1ee5 nh\u01b0 4, 5 ho\u1eb7c 6 b\u01b0\u1edbc) \u0111\u1ec3 qu\u00e1 tr\u00ecnh th\u1ea3o lu\u1eadn trong nh\u00f3m \u0111\u01b0\u1ee3c t\u1eadp trung. C\u00f2n v\u1edbi nh\u00f3m nh\u1ecf, s\u1ed1 l\u01b0\u1ee3ng b\u01b0\u1edbc c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c linh ho\u1ea1t trong m\u1ed9t kho\u1ea3ng n\u00e0o \u0111\u00f3 \u0111\u1ec3 cho nh\u00f3m \u0111\u01b0\u1ee3c t\u1ef1 do s\u00e1ng t\u1ea1o.",
-                "uid": "-3hzCb9Oq"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "C\u00e1c b\u01b0\u1edbc n\u00f3i tr\u00ean ho\u00e0n to\u00e0n c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c thuy\u1ebft gi\u1ea3ng 1 chi\u1ec1u t\u1eeb ph\u00eda ng\u01b0\u1eddi d\u1ea1y, r\u1ea5t nhanh ch\u00f3ng, tuy nhi\u00ean s\u1ebd kh\u00f4ng c\u00f3 t\u01b0\u01a1ng t\u00e1c, n\u00ean ng\u01b0\u1eddi h\u1ecdc s\u1ebd kh\u00f3 hi\u1ec3u v\u00e0 kh\u00f3 nh\u1edb h\u01a1n. Nh\u1edd vi\u1ec7c ng\u01b0\u1eddi h\u1ecdc t\u01b0\u01a1ng t\u00e1c v\u1edbi nhau v\u00e0 t\u1ef1 t\u1ea1o ra n\u1ed9i dung nh\u01b0 v\u1eady, ng\u01b0\u1eddi h\u1ecdc s\u1ebd nh\u1edb r\u00f5 h\u01a1n c\u00e1c b\u01b0\u1edbc trong quy tr\u00ecnh. C\u00e1ch th\u1ef1c hi\u1ec7n n\u00e0y \u0111\u01b0\u1ee3c g\u1ecdi l\u00e0 \"ng\u01b0\u1eddi h\u1ecdc t\u1ef1 t\u1ea1o ra n\u1ed9i dung\" (generative) thay v\u00ec \"n\u1ed9i dung \u0111\u01b0\u1ee3c cung c\u1ea5p s\u1eb5n\" (supplantive).",
-                "uid": "r8_rlry5G"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "6- Ho\u1ea1t \u0111\u1ed9ng vi\u1ebft ra c\u00e1c c\u00e2u h\u1ecfi m\u00e0 b\u1ea3n th\u00e2n c\u00f2n th\u1eafc m\u1eafc, mu\u1ed1n \u0111\u00e0o s\u00e2u v\u1ec1 c\u00e1c b\u01b0\u1edbc thi\u1ebft k\u1ebf workshop",
-                "uid": "giCLrcreU"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "\u0110\u00e2y l\u00e0 m\u1ed9t ho\u1ea1t \u0111\u1ed9ng gi\u00fap m\u1ecdi ng\u01b0\u1eddi \u0111\u1ecbnh h\u01b0\u1edbng qu\u00e1 tr\u00ecnh h\u1ecdc c\u1ee7a m\u00ecnh trong 10 bu\u1ed5i c\u00f2n l\u1ea1i, l\u00e0 m\u1ed9t d\u1ea1ng \"kh\u1ea3o s\u00e1t nhu c\u1ea7u\" v\u00e0 \"\u0111\u00e1nh gi\u00e1\" ngay khi ch\u01b0\u01a1ng tr\u00ecnh v\u1eeba b\u1eaft \u0111\u1ea7u. Nh\u1edd c\u00e1c c\u00e2u h\u1ecfi n\u00e0y, b\u1ea3n th\u00e2n ng\u01b0\u1eddi th\u1ef1c hi\u1ec7n c\u0169ng s\u1ebd c\u00f3 th\u1ec3 \u0111i\u1ec1u ch\u1ec9nh ch\u01b0\u01a1ng tr\u00ecnh cho ph\u00f9 h\u1ee3p, v\u00e0 ng\u01b0\u1eddi tham gia c\u0169ng s\u1ebd t\u1eadp trung v\u00e0o nh\u1eefng kh\u00eda c\u1ea1nh chi ti\u1ebft h\u01a1n cho c\u00e1c bu\u1ed5i h\u1ecdc sau.",
-                "uid": "K7vH-G-MN"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "L\u1ea1i m\u1ed9t l\u1ea7n n\u1eefa, s\u1ed1 l\u01b0\u1ee3ng c\u00e2u h\u1ecfi \u0111\u01b0\u1ee3c gi\u1edbi h\u1ea1n l\u00e0 5 c\u00e2u. Sau \u0111\u00f3, c\u00e1c c\u00e2u h\u1ecfi \u0111\u01b0\u1ee3c s\u1eafp x\u1ebfp v\u00e0o c\u00e1c b\u01b0\u1edbc \u0111\u1ec3 thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh, \u0111\u00e2y l\u00e0 m\u1ed9t qu\u00e1 tr\u00ecnh t\u01b0 duy \u1edf c\u1ea5p \u0111\u1ed9 \u0111\u00e1nh gi\u00e1.",
-                "uid": "C7s5f7tHb"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "M\u1ecdi ng\u01b0\u1eddi s\u1ebd th\u1ea5y l\u00e0 c\u00e1c ho\u1ea1t \u0111\u1ed9ng trong m\u1ed9t bu\u1ed5i h\u1ecdc n\u00ean \u0111\u01b0\u1ee3c x\u00e2u chu\u1ed7i, v\u00e0 m\u1ed9t c\u00e1ch x\u00e2u chu\u1ed7i l\u00e0: k\u1ebft qu\u1ea3 c\u1ee7a ho\u1ea1t \u0111\u1ed9ng tr\u01b0\u1edbc ch\u00ednh l\u00e0 th\u00f4ng tin \u0111\u1ea7u v\u00e0o ho\u1eb7c c\u01a1 s\u1edf cho ho\u1ea1t \u0111\u1ed9ng sau.",
-                "uid": "YmnSGbLPs"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "7- Ho\u1ea1t \u0111\u1ed9ng \"c\u00e1c nguy\u00ean t\u1eafc c\u1ea7n c\u00f3 c\u1ee7a m\u1ed9t workshop\"",
-                "uid": "2X0jX-DN7"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "L\u00e0 m\u1ed9t c\u00e1ch t\u01b0\u01a1ng t\u00e1c kh\u00e1c, b\u01b0\u1edbc \u0111\u1ea7u ti\u00ean l\u00e0 li\u1ec7t k\u00ea v\u00e0 b\u01b0\u1edbc th\u1ee9 hai l\u00e0 ch\u1ecdn l\u1ef1a. Ho\u1ea1t \u0111\u1ed9ng d\u1ea1ng n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng cho r\u1ea5t nhi\u1ec1u m\u1ee5c \u0111\u00edch kh\u00e1c nhau. V\u00ed d\u1ee5: l\u1ef1a ch\u1ecdn c\u00e1c ch\u1ee7 \u0111\u1ec1 m\u00e0 workshop c\u1ea7n t\u1eadp trung v\u00e0o, l\u1ef1a ch\u1ecdn c\u00e1c c\u00e1ch hay nh\u1ea5t \u0111\u1ec3 \u1ee9ng d\u1ee5ng b\u00e0i h\u1ecdc c\u1ee7a workshop, l\u1ef1a ch\u1ecdn nh\u1eefng b\u00e0i t\u1eadp m\u00e0 ng\u01b0\u1eddi tham gia mu\u1ed1n th\u1ef1c hi\u1ec7n... To\u00e0n b\u1ed9 c\u00e1c ph\u1ea7n n\u00e0o c\u1ee7a workshop c\u1ea7n c\u00f3 s\u1ef1 li\u1ec7t k\u00ea v\u00e0 ch\u1ecdn l\u1ef1a \u0111\u1ec1u c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c th\u1ef1c hi\u1ec7n theo c\u00e1ch n\u00e0y.",
-                "uid": "C7IL4sP43"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Trong ho\u1ea1t \u0111\u1ed9ng n\u00e0y, c\u00e2u h\u1ecfi 1 l\u00e0 \"L\u00e0 ng\u01b0\u1eddi th\u1ef1c hi\u1ec7n ch\u01b0\u01a1ng tr\u00ecnh, b\u1ea1n th\u01b0\u1eddng c\u00f3 nh\u1eefng nguy\u00ean t\u1eafc n\u00e0o cho ch\u01b0\u01a1ng tr\u00ecnh c\u1ee7a m\u00ecnh?\" \u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi gi\u00fap m\u1ecdi ng\u01b0\u1eddi \u0111\u1ed9i m\u0169 c\u1ee7a \"ng\u01b0\u1eddi th\u1ef1c hi\u1ec7n\".",
-                "uid": "fXp_VMRbx"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "C\u00f2n sau \u0111\u00f3 l\u00e0 c\u00e2u h\u1ecfi 2 \"L\u00e0 ng\u01b0\u1eddi tham gia ch\u01b0\u01a1ng tr\u00ecnh n\u00e0y, b\u1ea1n mu\u1ed1n ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ea3m b\u1ea3o c\u00e1c nguy\u00ean t\u1eafc n\u00e0o?\" \u0110\u00e2y l\u00e0 c\u00e2u h\u1ecfi gi\u00fap m\u1ecdi ng\u01b0\u1eddi \u0111\u1ed9i m\u0169 c\u1ee7a \"ng\u01b0\u1eddi tham gia\".",
-                "uid": "8yBcftnre"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "M\u1ed9t l\u1ea7n n\u1eefa, ng\u01b0\u1eddi th\u1ef1c hi\u1ec7n (l\u00e0 t\u1ee5i m\u00ecnh) ho\u00e0n to\u00e0n c\u00f3 th\u1ec3 thuy\u1ebft gi\u1ea3ng, ho\u1eb7c cho m\u1ecdi ng\u01b0\u1eddi chia s\u1ebb t\u1ef1 do. C\u00e1ch th\u1ef1c hi\u1ec7n nh\u01b0 tr\u00ean s\u1ebd gi\u00fap m\u1ecdi ng\u01b0\u1eddi c\u00f3 c\u00e1i nh\u00ecn 2 chi\u1ec1u t\u1eeb ph\u00eda ng\u01b0\u1eddi thi\u1ebft k\u1ebf v\u00e0 t\u1eeb ph\u00eda ng\u01b0\u1eddi h\u1ecdc, v\u00e0 t\u00ecm ra c\u00e1c \u0111i\u1ec3m chung \u0111\u1ec3 c\u00f3 th\u1ec3 s\u1eed d\u1ee5ng trong ch\u01b0\u01a1ng tr\u00ecnh n\u00e0y. M\u1ed9t ho\u1ea1t \u0111\u1ed9ng s\u1ebd hi\u1ec7u qu\u1ea3 h\u01a1n n\u1ebfu n\u00f3 gi\u00fap ng\u01b0\u1eddi tham gia nh\u00ecn nh\u1eadn v\u1ea5n \u0111\u1ec1 t\u1eeb nhi\u1ec1u chi\u1ec1u.",
-                "uid": "jcx0jpnH5"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "8- Gi\u1edbi thi\u1ec7u ch\u01b0\u01a1ng tr\u00ecnh",
-                "uid": "T0w42eIhw"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Th\u01b0\u1eddng th\u00ec ph\u1ea7n gi\u1edbi thi\u1ec7u ch\u01b0\u01a1ng tr\u00ecnh hay \u0111\u01b0\u1ee3c \u0111\u1eb7t \u1edf \u0111\u1ea7u bu\u1ed5i h\u1ecdc. Tuy nhi\u00ean, \u0111i\u1ec1u n\u00e0y kh\u00f4ng c\u1ea7n thi\u1ebft. Ph\u1ea7n gi\u1edbi thi\u1ec7u n\u00e0y n\u00ean \u0111\u01b0\u1ee3c \u0111\u1ec3 \u1edf l\u00fac ng\u01b0\u1eddi h\u1ecdc \u0111\u00e3 hi\u1ec3u th\u00eam m\u1ed9t ch\u00fat v\u1ec1 n\u1ed9i dung c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh, \u0111\u00e3 \u0111\u01b0\u1ee3c th\u1ea3o lu\u1eadn, chia s\u1ebb nhu c\u1ea7u c\u1ee7a m\u00ecnh. V\u00ec v\u1eady, t\u1ee5i m\u00ecnh \u0111\u1ec3 ph\u1ea7n gi\u1edbi thi\u1ec7u \u1edf cu\u1ed1i bu\u1ed5i.",
-                "uid": "gC4lesqcb"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "T\u1ee5i m\u00ecnh ch\u1ec9 d\u00f9ng 5 t\u1edbi 10 ph\u00fat \u0111\u1ec3 gi\u1edbi thi\u1ec7u ch\u01b0\u01a1ng tr\u00ecnh. Trong ch\u01b0\u01a1ng tr\u00ecnh tr\u1ef1c ti\u1ebfp (offline), ph\u1ea7n gi\u1edbi thi\u1ec7u c\u00f3 th\u1ec3 k\u00e9o d\u00e0i, nh\u01b0ng khi l\u00e0m online, ng\u01b0\u1eddi tham gia s\u1ebd r\u1ea5t d\u1ec5 bu\u1ed3n ng\u1ee7, ch\u00e1n, n\u1ebfu ph\u1ea3i nghe qu\u00e1 nhi\u1ec1u. V\u00ec v\u1eady, m\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh online n\u00ean \u00edt ph\u1ea7n thuy\u1ebft gi\u1ea3ng, v\u00e0 nhi\u1ec1u ph\u1ea7n t\u01b0\u01a1ng t\u00e1c h\u01a1n. C\u0169ng v\u00ec v\u1eady m\u00e0 m\u1ed9t ch\u01b0\u01a1ng tr\u00ecnh online c\u00f3 th\u1ec3 s\u1ebd d\u00e0i h\u01a1n ch\u01b0\u01a1ng tr\u00ecnh offline t\u01b0\u01a1ng \u1ee9ng, v\u00ec t\u01b0\u01a1ng t\u00e1c nhi\u1ec1u c\u0169ng c\u00f3 ngh\u0129a n\u1ed9i dung s\u1ebd \u0111\u01b0\u1ee3c truy\u1ec1n \u0111\u1ea1t ch\u1eadm h\u01a1n.",
-                "uid": "M95wZzE6x"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "9- Ho\u1ea1t \u0111\u1ed9ng \"ho\u00e0n th\u00e0nh c\u00e2u\"",
-                "uid": "oLjsorwLN"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "\u0110\u1ec3 t\u1ed5ng k\u1ebft bu\u1ed5i h\u1ecdc, m\u1ecdi ng\u01b0\u1eddi c\u1ea7n ho\u00e0n th\u00e0nh 2 c\u00e2u sau v\u00e0 g\u1eedi v\u00e0o group chat",
-                "uid": "r2S9dg2I-"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "H\u00f4m nay t\u00f4i c\u1ea3m th\u1ea5y...",
-                "uid": "_n8-N0yal"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Trong ch\u01b0\u01a1ng tr\u00ecnh n\u00e0y, t\u00f4i s\u1ebd t\u1eadp trung v\u00e0o... \u0111\u1ec3...",
-                "uid": "C9xmTf4UG"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125194,
-                "string": "Ho\u1ea1t \u0111\u1ed9ng ho\u00e0n th\u00e0nh c\u00e2u n\u00e0y d\u00f9 \u0111\u01a1n gi\u1ea3n nh\u1eefng r\u1ea5t hi\u1ec7u qu\u1ea3 trong b\u1ea5t c\u1ee9 ph\u1ea7n n\u00e0o c\u1ee7a ch\u01b0\u01a1ng tr\u00ecnh (\u0111\u1ea7u, gi\u1eefa, cu\u1ed1i) \u0111\u1ec3 gi\u00fap ng\u01b0\u1eddi tham gia t\u1eadp trung v\u00e0o nh\u1eefng \u0111i\u1ec1u \u0111\u00e1ng nh\u1edb, \u0111\u00e1ng t\u1eadp trung nh\u1ea5t.",
-                "uid": "DZZlFfyxA"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125195,
-                "string": "Nh\u1eefng l\u01b0u \u00fd sau bu\u1ed5i h\u1ecdc",
-                "uid": "g_-6WOWf2"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125195,
-                "string": "- M\u1ed9t workshop online s\u1ebd c\u1ea7n t\u01b0\u01a1ng t\u00e1c nhi\u1ec1u h\u01a1n workshop tr\u1ef1c ti\u1ebfp v\u00ec ng\u01b0\u1eddi h\u1ecdc r\u1ea5t d\u1ec5 b\u1ecb ph\u00e2n t\u00e2m khi h\u1ecdc online",
-                "uid": "vycpKutMa"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125195,
-                "string": "- Qu\u00e1 tr\u00ecnh kh\u1ea3o s\u00e1t nhu c\u1ea7u ng\u01b0\u1eddi tham gia kh\u00f4ng n\u00ean ch\u1ec9 di\u1ec5n ra tr\u01b0\u1edbc ch\u01b0\u01a1ng tr\u00ecnh, m\u00e0 n\u00f3 n\u00ean \u0111\u01b0\u1ee3c \"\u0111\u00ednh k\u00e8m\" v\u00e0o c\u00e1c ho\u1ea1t \u0111\u1ed9ng trong ch\u01b0\u01a1ng tr\u00ecnh lu\u00f4n. \u0110\u00e2y \u0111\u01b0\u1ee3c coi l\u00e0 m\u1ed9t \"m\u1ee5c ti\u00eau ng\u1ea7m\" (hidden agenda) c\u1ee7a c\u00e1c ho\u1ea1t \u0111\u1ed9ng \u0111\u00f3.",
-                "uid": "MA-R30_Cl"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125195,
-                "string": "- Thi\u1ebft k\u1ebf c\u1ee7a m\u1ed9t bu\u1ed5i workshop n\u00ean c\u00f3 m\u1ed9t v\u00e0i ho\u1ea1t \u0111\u1ed9ng \u0111\u01b0\u1ee3c coi l\u00e0 \"d\u1ef1 tr\u00f9\", n\u1ebfu \u0111\u1ee7 th\u1eddi gian th\u00ec th\u1ef1c hi\u1ec7n, c\u00f2n n\u1ebfu b\u1ecb ch\u00e1y gi\u00e1o \u00e1n th\u00ec c\u00f3 th\u1ec3 b\u1ecf qua.",
-                "uid": "y-jI5Gtgs"
-              },
-              {
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606966125195,
-                "string": "M\u1ecdi ng\u01b0\u1eddi c\u00f3 c\u00e2u h\u1ecfi g\u00ec th\u00ec c\u1ee9 nh\u1eafn tin cho t\u1ee5i m\u00ecnh nh\u00e9. H\u1eb9n g\u1eb7p m\u1ecdi ng\u01b0\u1eddi v\u00e0o Bu\u1ed5i 2 v\u1edbi ch\u1ee7 \u0111\u1ec1 \"X\u00e1c \u0111\u1ecbnh m\u1ee5c ti\u00eau c\u1ee7a workshop\". T\u1ee5i m\u00ecnh s\u1ebd g\u1eedi th\u00f4ng tin \u0111\u1ec3 chu\u1ea9n b\u1ecb cho Bu\u1ed5i 2 s\u1edbm nh\u00e9.",
-                "uid": "X3HGANhFU"
+                "edit-time": 1606979421085,
+                "string": "Overall note",
+                "uid": "kYPFqQDG0"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -56665,9 +57155,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606910110971,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606910118976,
-        "string": "Note",
+        "edit-time": 1606979659964,
+        "string": "Session 1 - Introducing and getting started",
         "uid": "rIeVz7PuY"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606979548355,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606979592914,
+        "string": "Session 2 - Identify goal of a workshop",
+        "uid": "RCdeYY2k6"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -56959,14 +57457,6 @@
             "edit-time": 1606961444060,
             "string": "take note the 3rd video",
             "uid": "DrPUBZT7J"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606961444056,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606961444056,
-            "string": "",
-            "uid": "n6YWHJ4fr"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -56975,6 +57465,40 @@
         "edit-time": 1606961408628,
         "string": "My today focus will be about ",
         "uid": "ZzksrJmEb"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606976625666,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606976675811,
+            "string": "This release me to the tiny stuff that I keep inside myself and nurture my courage and openness to the universe.",
+            "uid": "0byM2JD1t"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606976675802,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606976698726,
+            "string": "My personal self is so small comparing to what's possible in this universe.",
+            "uid": "kmf3fkz34"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606976698722,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606976698722,
+            "string": "",
+            "uid": "cKZiRkPn9"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606976562446,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606976624140,
+        "string": "It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [[Who am I]] [[unattachment centering]]",
+        "uid": "Xa08zxNCm"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -57495,5 +58019,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1606964727362,
     "title": "Session 3 - The mind, part 1"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1606978094799,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1606978094800,
+    "title": "guided thinking"
   }
 ]
