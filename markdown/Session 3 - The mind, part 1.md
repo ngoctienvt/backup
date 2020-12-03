@@ -24,7 +24,21 @@
         - Why am I not simply there and enjoy the moment in front of us? Why this is not my default state?
             - Because it depends on what our mind say.
             - "Which color do you like?". You don't decide that, your mind decides "Let me think about it."
-        - We - the consciousness - have the right to experience 
+        - We - the consciousness - have the right to experience 3 things or distract by them.
+        - We need to have a core foundation to understand how things got this way. Then reverse the process, and it will become back to its natural state.
+    - What is mind?
+        - Mind is a place where thoughts exist.
+            - Scientist don't have the machine to observe the thoughts yet, but we can easily.
+                - Our consciousness has a bandwith that can pickup vibrations that other machine don't.
+                    - Able to pick up physical world, mental world and emotional world.
+                        - The different subtle vibrations of energy that called thought-plane, or mental plane.
+        - Mind is a field of energy in which thoughts can be created.
+        - Mind is a generated-thought machine.
+        - Mind can be empty - empty-mind, 
+            - like a computer without any software and OS, 
+            - but has great potential.
+            - This is a starting point.
+        - 
 - ### Summary
     - In this session, we will learn 
         - what the mind is, 
