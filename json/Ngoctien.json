@@ -56155,43 +56155,17 @@
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1606979908938,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979910980,
-                        "string": "P",
+                        "edit-time": 1606979913282,
+                        "string": "Participants",
                         "uid": "A1KzOQINR"
                       },
                       {
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1606979913277,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979913277,
-                        "string": "",
+                        "edit-time": 1606979920212,
+                        "string": "Workshop",
                         "uid": "qdwXgnndw"
-                      },
-                      {
-                        "children": [
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606916552338,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606916563084,
-                            "string": "Ch\u01b0\u01a1ng tr\u00ecnh",
-                            "uid": "ttXjXGbN5"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606916563080,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606916564679,
-                            "string": "Ng\u01b0\u1eddi h\u1ecdc",
-                            "uid": "ROJ5cr1f4"
-                          }
-                        ],
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606914143568,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606916552345,
-                        "string": "Thu ho\u1ea1ch/ \u0111\u00e1nh gi\u00e1",
-                        "uid": "qWv55cUAJ"
                       }
                     ],
                     "create-email": "ngoctienvt@gmail.com",
@@ -56208,6 +56182,114 @@
                 "edit-time": 1606979673420,
                 "string": "5 steps to design a workshop",
                 "uid": "zrB_4N3eb"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606918710334,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979867280,
+                        "string": "expert about design a workshop",
+                        "uid": "wRXlmnSWa"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606918704468,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606918710337,
+                    "string": "Instructional Designer",
+                    "uid": "Pz0gzvM0t"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606918734167,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979888362,
+                        "string": "knowledge-expert",
+                        "uid": "6BVHbmV5U"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606918718856,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606918733209,
+                    "string": "SME - Subject-matter expert ",
+                    "uid": "OsuWEbHY4"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979890775,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979894921,
+                        "string": "teaching-expert",
+                        "uid": "qZ1K6uzrI"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606918749938,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606918756709,
+                    "string": "Trainer - Facilitator",
+                    "uid": "oBV8JHcpi"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606979751299,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606979855922,
+                "string": "3 roles for creating and delivering a training effectively",
+                "uid": "O2PLUEAVp"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606914034320,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606914043456,
+                    "string": "Student-centric",
+                    "uid": "NsUz2q13e"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979976161,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606979997035,
+                        "string": "Flexible on acitivites and the way delivering",
+                        "uid": "Ul8rR2ZM_"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1606979997030,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1606980000361,
+                        "string": "Fixed on goals",
+                        "uid": "kPImYCjxM"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606979958522,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1606979971198,
+                    "string": "Flexible based on students level, progress",
+                    "uid": "mC2C3FlEd"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606918756704,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606979898531,
+                "string": "Guiding principle",
+                "uid": "gsubTcxoe"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -56216,106 +56298,6 @@
             "edit-time": 1606979664630,
             "string": "Main contents",
             "uid": "iSNyIvtiZ"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606918710334,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979867280,
-                    "string": "expert about design a workshop",
-                    "uid": "wRXlmnSWa"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606918704468,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606918710337,
-                "string": "Instructional Designer",
-                "uid": "Pz0gzvM0t"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606918734167,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979888362,
-                    "string": "knowledge-expert",
-                    "uid": "6BVHbmV5U"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606918718856,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606918733209,
-                "string": "SME - Subject-matter expert ",
-                "uid": "OsuWEbHY4"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606979890775,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979894921,
-                    "string": "teaching-expert",
-                    "uid": "qZ1K6uzrI"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606918749938,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606918756709,
-                "string": "Trainer - Facilitator",
-                "uid": "oBV8JHcpi"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606979751299,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606979855922,
-            "string": "3 roles for creating and delivering a training effectively",
-            "uid": "O2PLUEAVp"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606914034320,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606914043456,
-                "string": "Student-centric",
-                "uid": "NsUz2q13e"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606917140204,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606917164190,
-                    "string": "Ho\u1ea1t \u0111\u1ed9ng - Gi\u1ea3ng gi\u1ea3i cho ng\u01b0\u1eddi m\u1edbi, Chia s\u1ebb cho ng\u01b0\u1eddi kinh nghi\u1ec7m",
-                    "uid": "quHgqN47V"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606914082903,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1606917220106,
-                "string": "Linh ho\u1ea1t \u0111i\u1ec1u ch\u1ec9nh d\u1ef1a tr\u00ean tr\u00ecnh \u0111\u1ed9, ti\u1ebfn \u0111\u1ed9 h\u1ecdc t\u1eadp / C\u1ed1 \u0111\u1ecbnh m\u1ee5c ti\u00eau",
-                "uid": "fV50f3qs_"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606918756704,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606979898531,
-            "string": "Guiding principle",
-            "uid": "gsubTcxoe"
           },
           {
             "children": [
@@ -57147,8 +57129,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1606966122368,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606966124668,
-            "string": "Summary",
+            "edit-time": 1606979943896,
+            "string": "Summary how the session flow",
             "uid": "nwiZOtQbO"
           }
         ],
@@ -57156,6 +57138,7 @@
         "create-time": 1606910110971,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1606979659964,
+        "heading": 3,
         "string": "Session 1 - Introducing and getting started",
         "uid": "rIeVz7PuY"
       },
@@ -57166,6 +57149,14 @@
         "edit-time": 1606979592914,
         "string": "Session 2 - Identify goal of a workshop",
         "uid": "RCdeYY2k6"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606980011615,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1606980011615,
+        "string": "",
+        "uid": "i7Y3ctkL1"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

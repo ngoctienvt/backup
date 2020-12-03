@@ -1,4 +1,4 @@
-- Session 1 - Introducing and getting started
+- ### Session 1 - Introducing and getting started
     - Main contents
         - 5 steps to design a workshop
             - Analyse
@@ -15,22 +15,21 @@
                     - Xu hướng học tập của học viên
             - Implement
             - Evaluate
-                - 
-                - Thu hoạch/ đánh giá
-                    - Chương trình
-                    - Người học
-    - 3 roles for creating and delivering a training effectively
-        - Instructional Designer
-            - expert about design a workshop
-        - SME - Subject-matter expert 
-            - knowledge-expert
-        - Trainer - Facilitator
-            - teaching-expert
-    - Guiding principle
-        - Student-centric
-        - Linh hoạt điều chỉnh dựa trên trình độ, tiến độ học tập / Cố định mục tiêu
-            - Hoạt động - Giảng giải cho người mới, Chia sẻ cho người kinh nghiệm
-    - Summary
+                - Participants
+                - Workshop
+        - 3 roles for creating and delivering a training effectively
+            - Instructional Designer
+                - expert about design a workshop
+            - SME - Subject-matter expert 
+                - knowledge-expert
+            - Trainer - Facilitator
+                - teaching-expert
+        - Guiding principle
+            - Student-centric
+            - Flexible based on students level, progress
+                - Flexible on acitivites and the way delivering
+                - Fixed on goals
+    - Summary how the session flow
         - [https://jamboard.google.com/d/1-NQBTIqDEH3xMO8PlyGWMVf0IgCYRf4eHDbZuAt7Bhs/edit?usp=sharing](https://jamboard.google.com/d/1-NQBTIqDEH3xMO8PlyGWMVf0IgCYRf4eHDbZuAt7Bhs/edit?usp=sharing&fbclid=IwAR11-sjuVTb61fvvVkEAFRpQaTNUIS6CaDvgJ4GXJTBwjX-aIJ7lq7Feh0E)
         - [https://www.youtube.com/watch?v=_HFeJlfwhT0&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=1&ab_channel=ConnectionCoach](https://www.youtube.com/watch?v=_HFeJlfwhT0&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=1&ab_channel=ConnectionCoach&fbclid=IwAR3fuz7NAell4qoD_MEBY-3s__fy0dVHWpXFAFRjjIUK7ilP-g5rVGnkFMA)
         - Purpose of session 1: 
@@ -128,3 +127,4 @@
                 - This is call "hidden agenda" of that activity
             - Design a workshop should have some backup activities if there is enough time.
 - Session 2 - Identify goal of a workshop
+- 
