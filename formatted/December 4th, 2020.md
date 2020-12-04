@@ -1,10 +1,10 @@
 - Last night I dreamt about the fear of being wrong and making other people disappointed.
-- [[batching methodology]] I started to be able to break doing activities to a different type of tasks
+- [batching methodology](<batching methodology.md>) I started to be able to break doing activities to a different type of tasks
     - Reading and take-noting
     - Grouping
     - Tagging
     - Reread and structuring
-- [[🌱Progressive Development Approach]] also works for [[Creating phase]]. 
+- [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) also works for [Creating phase](<Creating phase.md>). 
     - I could list 
         - areas 
         - topics 

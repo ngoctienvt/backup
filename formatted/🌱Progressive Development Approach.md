@@ -39,6 +39,9 @@
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
 - project lists use the concept of the slow burn - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
+## [December 4th, 2020](<December 4th, 2020.md>)
+- [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
+
 ## [Hades game](<Hades game.md>)
 - To reflect and complete [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
