@@ -2,7 +2,7 @@
 - 
 - 
 - [[weekly reflection]] 
-    - My last week has been a week with new inspirations and directions. I started to feel that I will develop myself to become a thinker and a blogger to serve the world by my wisdom. I also find out something called [[instructional design]] so that I could develop myself, and [[learning facilitator]] to support other people learning effectively.
+    - My last week has been a week with new inspirations and directions. I started to feel that I will develop myself to become a thinker and a blogger to serve the world by my wisdom. I also find out something called [[🌱Instructional Design]] so that I could develop myself, and [[learning facilitator]] to support other people learning effectively.
     - I noticed that my [[unattachment centering]] is challenged because of many disturbances that emerge. I will spend most of my time today to work on this.
     - 
     - I can really feel that I'm becoming more and more clarity, more freedom, and much more cleaner inside. Even though sometimes I will lose myself, I still can easily get my center back. [[unattachment centering]]

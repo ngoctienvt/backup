@@ -11,7 +11,7 @@ I will also wear long-hand clothes at night so that I can protect my arm. [physi
 - I felt much more calm and peaceful these days, it became much more natural to relax and release. I also noticed that I still have some resistance when learning online by Zoom and interacting with strangers, it's time for me to release these resistances and trust the process to unfold. It's time to learn to nurture [humility](<humility.md>) and to enjoy the varities of life.
 - I also learned in today that I don't have to worry about what I need to do, as long as I'm keep raising my energy to higher center, it will do its work instead of me. I will just need to be myself most of the time. [choiceless](<choiceless.md>) [serving the demand of reality](<serving the demand of reality.md>)
 - [topic prompts](<topic prompts.md>) https://www.notion.so/Topics-Forest-Template-29982b6e7e2b4df2adf35bcae8902d9b
-- [Workshop Design](<Workshop Design.md>) [instructional design](<instructional design.md>)
+- [Workshop Design](<Workshop Design.md>) [🌱Instructional Design](<🌱Instructional Design.md>)
     - https://sites.google.com/view/thietkeworkshoptinhgon
     - While You Wait activity
     - Jamboard
@@ -40,5 +40,5 @@ Giới hạn đối tượng tham gia
         - Competency-based training
         - Structured Sharing
         - Item Processing
--  I felt a little bit [restless](<restless.md>) inside myself. There are a few things that I still feel worried if I disturb other people while they're sharing. There is a feeling of worry about the speakers get problems and need to fix. I have a concern if I should join their [instructional design](<instructional design.md>) or not. Because I still want to learn on my own, and whether if the teaching is worth my time and money.
+-  I felt a little bit [restless](<restless.md>) inside myself. There are a few things that I still feel worried if I disturb other people while they're sharing. There is a feeling of worry about the speakers get problems and need to fix. I have a concern if I should join their [🌱Instructional Design](<🌱Instructional Design.md>) or not. Because I still want to learn on my own, and whether if the teaching is worth my time and money.
 - 

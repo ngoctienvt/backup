@@ -11,4 +11,5 @@
         - and then works on multiple articles at once
     - Because depend on the ideas, the stages, the understanding that I have, I could nurture these posts and complete them slowly based on my understanding.
     - When they are mature enough, I can just simply publish it as a by-product of my understanding.
-- 
+- When consolidating the first session of design workshop, I'm noticing that's I'm doing many tasks at once, and this leads to confusing, it would be better if I break them down and notice what bring me stress
+    - I haven't generate keywords from the session 1, but already trying grouping them, and this is not natural, because the structure is not emerge yet.

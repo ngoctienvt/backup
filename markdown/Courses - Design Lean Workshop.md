@@ -1,6 +1,6 @@
 - ### Session 1 - Introducing and getting started
     - Main contents
-        - 5 steps to design a workshop
+        - [[ADDIE model]]
             - Analyse
                 - Khảo sát nhu cầu học viên -> xây dựng mục tiêu đào tạo
                     - mục tiêu
@@ -17,14 +17,14 @@
             - Evaluate
                 - Participants
                 - Workshop
-        - 3 roles for creating and delivering a training effectively
+        - 3 roles for creating and delivering a training effectively [[Training roles]]
             - Instructional Designer
                 - expert about design a workshop
             - SME - Subject-matter expert 
                 - knowledge-expert
             - Trainer - Facilitator
                 - teaching-expert
-        - Guiding principle
+        - [[training principles]]
             - Student-centric
             - Flexible based on students level, progress
                 - Flexible on acitivites and the way delivering
@@ -37,25 +37,10 @@
             - get used to tools - Jamboard and Zoom
             - doing activities to have a big picture about design workshop and survey student needs
         - How sesion flow
-            - While You Wait Activities
-                - Simple question
-                    - What movie you watch again and again?
-                    - What's your least favorite part-time job?...
+            - While You Wait activities
+            - Getting used to Jamboard activities
                 - Purpose
-                    - Have something to focus on
-                    - Start to create connection between people
-                - Characteristic
-                    - Simple to do
-                    - When do online, do on video call or chat box
-                    - Not time-consuming, few second for a task
-                    - Visible for everyone at once
-                - Note
-                    - Avoiding push energy to high level and create unnecessary distractions
-                    - It's purpose is to help focus, not to stimulate emotions 
-            - Getting used to Hamboard activities
-                - Write down name letters and organize them into words related to workshop
-                - Purpose
-                    - Gain-attention activity to help ice-breaking
+                    - Gain-attention activity to help ice-breaking [[gain-attention]]
                     - Interact to each other 
                     - Ensure everyone can use tools
                     - Help students learn to use different features of tools through activities
@@ -76,7 +61,7 @@
                 - These activities are [[guided thinking]] activities to help students level up their thinking slowly
             - 5 steps to design a workshop activity
                 - Group people to 4 groups, discuss and summarize 5 steps to design a workshop
-                - Steps activities
+                - [[steps activities]]
                     - Request students to list specific number of steps to complete certain tasks based on students' own experience.
                 - For content that have process and steps, this activity help to survey how everyone is doing.
                 - Purpose
@@ -89,7 +74,7 @@
                         - For small group, number of step could be flexible for creativity
                 - These steps can be teach one-way very fast, but there will lack of interaction, and students will feel hard to understand and remember.
                     - By interacting and creating their own content, they will remember better.
-                    - This is called "generative-instructional strategy" instead of "supplantive-instructional strategy".
+                    - This is called "[[generative-instructional strategy]]" instead of [[supplantive-instructional strategy]]".
             - Write down questions to dig deep activity
                 - An activity to help students guide their learning process
                     - It's a need survey and evaluate right from the beginning.
@@ -100,21 +85,9 @@
                     - results of above activities are input or foundation the next activities.
             - What principles needed for a workshop activity
                 - Listing and choosing activities
-                    - First is listing,
-                        - As a facilitator, you have what principle for your program?
-                        - This is to wear a facilitator hat.
-                    -  Second is choosing.
-                        - As a participants, you want program ensure which principle?
-                        - This is to wear the participant hat.
-                - It could be use for different purposes
-                    - Select topics to focus
-                    - Select helpful way to apply knowledge
-                    - Select types of homework that students want to do
             - Introduce workshop activity
                 - It's not necessary to introduce the program at the beginning.
                 - It should be introduce when participants have some knowledge about the program.
-                - In offline, it could take longer to introduce program. In online; it needs to be shorter to maintain focus with more interactions.
-                    - This leads to online could be longer than offline, because content could be delivered slower.
             - Completing sentences acitivities
                 - Completing 2 sentences in group chat
                     - Today I feel...

@@ -1,5 +1,5 @@
 - Link: http://www.projectlearnet.org/tutorials/concrete_vs_abstract_thinking.html#:~:text=Abstract%20thinking%20is%20a%20level,or%20concepts%20being%20thought%20about.&text=Thus%2C%20for%20example%2C%20a%20concrete,think%20about%20dogs%20in%20general.
-- Tags: #Articles, [[level of thinking]], #TBR #[[instructional design]]
+- Tags: #Articles, [[level of thinking]], #TBR #[[🌱Instructional Design]]
 - ### **WHAT ARE CONCRETE AND ABSTRACT THINKING?**
 - Abstract thinking is a level of thinking about things that is removed from the facts of the “here and now”, and from specific examples of the things or concepts being thought about. 
     - Abstract thinkers are able to reflect on events and ideas, and on attributes and relationships separate from the objects that have those attributes or share those relationships. 

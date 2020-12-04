@@ -40,7 +40,7 @@
             - This is a starting point.
         - The world exist independent with the mind, and create the body for us.
             - The world come in by sending the reflection of the light to the mind.
-            - One of function of the mind is a flat-screen TV
+            - One of function of the mind is a flat-screen TV - true experience - impersonal layer
                 - The mind formulate a form that matches what came in through the senses.
                     - This is great because experiences are food for the soul.
                     - We experience what we are meant to be experience. 
@@ -82,8 +82,34 @@
                         - The act of will is not innocence, because we unconsciously build a personal mind based on what we like and what we don't like.
                         - These thought patterns, impressions or samskaras will start to control our life. They develop our self-concept.
                         - It should be that we need to learn to not use will this way. We need to learn to be comfortable with what comes in, not resist or cling and think that these are normal.
-                        - Then we think that god is someone who will give us what we life, and don't give us what we don't like - 'god of the mind'.
-                        -  
+                            - We need to evolve enough to let god come in
+                            - The whole spiritual path is get used to the different nature vibrations of things that come in
+                                - When we able to do this, they will not be keep inside, but will pass through.
+                                - "When a thing can no longer offend you, it ceases to exist in the old way."
+                                    - The old way is personal, like and dislike, need to do something about this to be okay.
+                                    - The new way is accepting, honoring, clarity and serving.
+                        - We think that god is someone who will give us what we life, and don't give us what we don't like - 'god of the mind' not 'god of the reality'
+                            - What right do we have to either cling or resist the reality?
+                            - Why it is not okay with you? Because I can't digest it.
+                                - But reality will feed you everything, no matter you want or not. 
+                                - We just need to learn to digest it. We can learn, not the mind learn. Make everything be okay with us.
+                                    - All we need from the moments happening is what I'm able to experience from the moments. The experience itself is everything.
+                        - Spiritual path is not about
+                            - I define my self-concept as a person like this, and doesn't like that
+                            - And then my spiritual path is about how to get what I want, and don't get what I don't want
+                        - True spiritual path is about
+                            - I want to experience who I am by letting go who I am not.
+                        - Rorschach test is about stimulate your inner world 
+            - The second layer of the mind - stored thoughts pattern that become the second reaction to what come in  - personal layer
+                - Why everything is so negative?
+                    - Because we stored many negative things inside. Why they are negative things? Because we didn't get used to that nature vibrations yet. Then anything could stimulates these negative things we kept inside will make us feel negative.
+                    - But what about positive things? Because it didn't happen as you want, or happen in a way that not stimulate what you feel good inside.
+                        - The second time will not feel the same as the first time, because we already have the experience, so it will not have the same "newness".
+                - People use drugs or everything, because they need something to draw them out of the addictive to the same old inside.
+                    - We need to divorce to the right internal things, not the external things.
+                - Just tree story
+            - The third layer is how we use our mind
+                - Because I stored these negative and positive things inside, therefore "How does the world in front of me need to unfold so that I feel good?". We start to have a war with the world outside. 
 - ### Summary
     - In this session, we will learn 
         - what the mind is, 

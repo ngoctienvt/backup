@@ -22,7 +22,7 @@
             - Developing [[🌱PKDS - Personal Knowledge Development System ]]
                 - {{[[TODO]]}} Developing [[Creating phase]]
             - Design PKDS training program
-                - Learning [[instructional design]]
+                - Learning [[🌱Instructional Design]]
 - ## [[Focus of the week]]
     - Input Consuming
         - {{[[TODO]]}} Note-taking [[Courses - Living from the place of surrender]]
