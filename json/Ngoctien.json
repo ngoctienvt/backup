@@ -13144,9 +13144,17 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1601471669326,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1601471669326,
-        "string": "",
+        "edit-time": 1607094446653,
+        "string": "What is mind?",
         "uid": "YNyJO9If6"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607094446648,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607094446648,
+        "string": "",
+        "uid": "MDOTw9dYc"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -42356,7 +42364,7 @@
         "create-time": 1606835929127,
         "edit-email": "ngoctienvt@gmail.com",
         "edit-time": 1606835962010,
-        "string": "[[\ufffd\ufffdSeedling Notes]] are notes that in the processing stages and has not mature enough yet.",
+        "string": "[[\ud83c\udf31Seedling Notes]] are notes that in the processing stages and has not mature enough yet.",
         "uid": "IWTXwnX9R"
       },
       {
@@ -57412,6 +57420,34 @@
                             "uid": "keQvuPlcC"
                           },
                           {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607092956464,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607092995586,
+                                    "string": "Balance between provide knowledge and guidance practices",
+                                    "uid": "aJzhn-9VV"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607093036810,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607093037655,
+                                    "string": "![Csikszentmihalyi\u2019s 3-channel flow model\u00a0](https://www.researchgate.net/profile/Jon_Pearce/publication/251772214/figure/fig1/AS:298183650496516@1448103930761/Csikszentmihalyis-3-channel-flow-model.png)",
+                                    "uid": "hPUja94QO"
+                                  }
+                                ],
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607092949940,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607092956469,
+                                "string": "[[Flow model]]",
+                                "uid": "HJTlgOMI_"
+                              }
+                            ],
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1606978531126,
                             "edit-email": "ngoctienvt@gmail.com",
@@ -57809,12 +57845,98 @@
                 "uid": "NfNLv1TKQ"
               },
               {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607092214223,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607092240151,
+                    "string": "Clarify about the workshop",
+                    "uid": "nomr-znCa"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607092272407,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607092351592,
+                        "string": "Choose about 10 characteristics we want to know about participant",
+                        "uid": "cz7CecYMI"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607092296279,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607092299172,
+                        "string": "Limit to 5",
+                        "uid": "Lym0qSSsI"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607092299168,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607092324031,
+                        "string": "Describe them based on these characteristics",
+                        "uid": "YA6yY3vOy"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607092240145,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607092272411,
+                    "string": "Clarify ideal participant",
+                    "uid": "OFbE5DX4i"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607092354311,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607092367157,
+                    "string": "Clarify pain points and pleasure points",
+                    "uid": "I-wSIPmlD"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607092411663,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607092448059,
+                        "string": "The workshop provides What for Who in order to Do?",
+                        "uid": "rCfs9GImP"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607092367152,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607092411670,
+                    "string": "Write down big goals for the workshop",
+                    "uid": "ycMUhAZp4"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607092469093,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607092480871,
+                    "string": "Check our assumptions",
+                    "uid": "Vnp1JL5E2"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607092480862,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607092567474,
+                    "string": "Improve the information about ideal participant and goals of the workshop",
+                    "uid": "u89xcEoVj"
+                  }
+                ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607089134121,
+                "create-time": 1607092203904,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607089145368,
-                "string": "Workshop provides What for Who to Do?",
-                "uid": "DMTO9rnMd"
+                "edit-time": 1607092214227,
+                "string": "6 steps to identify ideal participant",
+                "uid": "wwGCGLmKq"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -57897,6 +58019,32 @@
         "edit-time": 1607083784165,
         "string": "Group activities",
         "uid": "Rotx6Dcnx"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607093307914,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607093307914,
+            "string": "Research - Step - Create - Talk",
+            "uid": "uFJJABzUv"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607093298345,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607093309005,
+            "string": "Part-to-Whole\nWhole-to-Part\n\n",
+            "uid": "6zQ3fuN-l"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607093293955,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607093298349,
+        "string": "Learning styles",
+        "uid": "p7w-Y2BZP"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -60219,5 +60367,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1607077154666,
     "title": "bandwith management"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607092956470,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607092956473,
+    "title": "Flow model"
   }
 ]

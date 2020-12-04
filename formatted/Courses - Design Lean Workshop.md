@@ -75,6 +75,9 @@
                 - These steps can be teach one-way very fast, but there will lack of interaction, and students will feel hard to understand and remember.
                     - By interacting and creating their own content, they will remember better.
                     - This is called "[generative-instructional strategy](<generative-instructional strategy.md>)" instead of [supplantive-instructional strategy](<supplantive-instructional strategy.md>)".
+                        - [Flow model](<Flow model.md>)
+                            - Balance between provide knowledge and guidance practices
+                            - ![Csikszentmihalyi’s 3-channel flow model ](https://www.researchgate.net/profile/Jon_Pearce/publication/251772214/figure/fig1/AS:298183650496516@1448103930761/Csikszentmihalyis-3-channel-flow-model.png)
             - Write down questions to dig deep activity
                 - An activity to help students guide their learning process
                     - It's a need survey and evaluate right from the beginning.
@@ -116,7 +119,17 @@
             - Expert
                 - Creation
             - Mostly build to up 1 level in one program
-        - Workshop provides What for Who to Do?
+        - 6 steps to identify ideal participant
+            - Clarify about the workshop
+            - Clarify ideal participant
+                - Choose about 10 characteristics we want to know about participant
+                - Limit to 5
+                - Describe them based on these characteristics
+            - Clarify pain points and pleasure points
+            - Write down big goals for the workshop
+                - The workshop provides What for Who in order to Do?
+            - Check our assumptions
+            - Improve the information about ideal participant and goals of the workshop
     - Analyse participant needs
     - Put priority for collected needs
     - Identify major goals for workshop
@@ -125,3 +138,9 @@
     - Clarify foggy contents
     - Resolve remaining questions
     - Dig deep the contents that we want to go deep
+- Learning styles
+    - Research - Step - Create - Talk
+    - Part-to-Whole
+Whole-to-Part
+
+
