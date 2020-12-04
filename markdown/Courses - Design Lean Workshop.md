@@ -115,9 +115,12 @@
                 - Do and teach
             - Expert
                 - Creation
+            - Mostly build to up 1 level in one program
+        - Workshop provides What for Who to Do?
     - Analyse participant needs
     - Put priority for collected needs
     - Identify major goals for workshop
+    - 
 - Group activities
     - Clarify foggy contents
     - Resolve remaining questions
