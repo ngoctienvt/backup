@@ -100,7 +100,25 @@
                 - This is call "hidden agenda" of that activity
             - Design a workshop should have some backup activities if there is enough time.
 - Session 2 - Identify goal of a workshop
-    -  - Mô tả nhân vật điển hình của chương trình
-    -  - Phân tích nhu cầu của người tham gia
-    -  - Đặt thứ tự ưu tiên cho các nhu cầu thu thập được
-    -  - Xác định mục tiêu lớn của chương trình
+    - Describe ideal participant
+        - What characteristic of participant that you want to know?
+            - Willingness
+            - Concern
+        - Level of expertise
+            - Novice
+                - Know
+            - Beginner
+                - Do a bit
+            - Competent
+                - Do 
+            - Proficient
+                - Do and teach
+            - Expert
+                - Creation
+    - Analyse participant needs
+    - Put priority for collected needs
+    - Identify major goals for workshop
+- Group activities
+    - Clarify foggy contents
+    - Resolve remaining questions
+    - Dig deep the contents that we want to go deep

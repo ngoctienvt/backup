@@ -130,7 +130,7 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 - relationship - [true love](<true love.md>) [deep connection](<deep connection.md>) [unattachment](<unattachment.md>) [unattachment centering](<unattachment centering.md>)
 
 ## [personal end goals](<personal end goals.md>)
-- Developing a way of living to nurture [unattachment centering](<unattachment centering.md>)
+- I want to developing a way of living to nurture [unattachment centering](<unattachment centering.md>)
 
 ## [polestar of my life](<polestar of my life.md>)
 - [unattachment centering](<unattachment centering.md>)

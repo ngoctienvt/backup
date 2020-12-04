@@ -21,4 +21,6 @@
                 - It will also help to practice [[🌲Bottom-up Emergence]] and [[🌱Progressive Development Approach]] effectively, so that I could slowly move up the ladder of my development in a sustainable and natural way. 
                     - I will have much more free bandwith inside when I'm releasing the inner samskaras that occupied my energy to think about the past and the future. I will be able to be more present with the now moment. [[presence]]
                 - I will also learn to [[enjoy the process]] as the outcome is simply move up the ladder or moving forward in the right direction, instead of a pressure to satisfy inner samskaras or social pressures. [[process-oriented]]
-            - 
+- I noticed that I feel [[restless]] while waiting and having nothing to distract me.
+    - This is a great opportunity for me to learn to let go these habit-formed wills and simply presence with the current moment.
+- 

@@ -30,7 +30,7 @@
 - have a natural [life flow](<life flow.md>) and [personal workflow](<personal workflow.md>)
 
 ## [personal end goals](<personal end goals.md>)
-- Developing a [personal workflow](<personal workflow.md>)
+- I want to developing a [personal workflow](<personal workflow.md>)
 
 ## [personal workflow](<personal workflow.md>)
 - What woul be my [personal workflow](<personal workflow.md>)
