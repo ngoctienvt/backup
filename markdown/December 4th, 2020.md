@@ -13,3 +13,12 @@
     - When they are mature enough, I can just simply publish it as a by-product of my understanding.
 - When consolidating the first session of design workshop, I'm noticing that's I'm doing many tasks at once, and this leads to confusing, it would be better if I break them down and notice what bring me stress
     - I haven't generate keywords from the session 1, but already trying grouping them, and this is not natural, because the structure is not emerge yet.
+- I feel that this is the period of time for me to practice [[batching methodology]] along with [[concrete thinking]].
+    - Task batching is the act of batching similar tasks together and doing them all at once, rather than addressing them sporadically throughout the day.
+        - Though the action to do the tasks are single, the objects of the tasks could be several
+            - For example, if I want to read and highlights knowledge, the objects could be about spiritual, coaching, personal development...
+            - By doing different objects at once, it will create more fun and less boredom, it will also less likely to excess bandwith and overwhelm me in that particular subjects. [[bandwith management]]
+                - It will also help to practice [[🌲Bottom-up Emergence]] and [[🌱Progressive Development Approach]] effectively, so that I could slowly move up the ladder of my development in a sustainable and natural way. 
+                    - I will have much more free bandwith inside when I'm releasing the inner samskaras that occupied my energy to think about the past and the future. I will be able to be more present with the now moment. [[presence]]
+                - I will also learn to [[enjoy the process]] as the outcome is simply move up the ladder or moving forward in the right direction, instead of a pressure to satisfy inner samskaras or social pressures. [[process-oriented]]
+            - 

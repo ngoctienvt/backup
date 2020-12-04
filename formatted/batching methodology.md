@@ -6,6 +6,8 @@
 ## [December 4th, 2020](<December 4th, 2020.md>)
 - [batching methodology](<batching methodology.md>)
 
+- I feel that this is the period of time for me to practice [batching methodology](<batching methodology.md>)
+
 ## [The Engineer MOC](<The Engineer MOC.md>)
 - [batching methodology](<batching methodology.md>)
 
