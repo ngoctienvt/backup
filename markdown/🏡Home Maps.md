@@ -13,6 +13,7 @@
             - [[Area of Focus]]
             - [[Projects MOC]]
 - ### Creation - Evergreen notes
+    - [[🧭Writing Topics]]
     - [[Evergreen notes]]
     - Blog Articles
     - Training course

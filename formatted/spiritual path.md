@@ -6,3 +6,8 @@
 ## [Session 1 - Who am I](<Session 1 - Who am I.md>)
 - What's the solution? [spiritual path](<spiritual path.md>)
 
+## [Session 3 - The mind, part 1](<Session 3 - The mind, part 1.md>)
+- Spiritual path is not about [spiritual path](<spiritual path.md>)
+
+- True spiritual path is about [spiritual path](<spiritual path.md>)
+

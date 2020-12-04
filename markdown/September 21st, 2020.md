@@ -5,7 +5,7 @@
 - I noticed that I still feel not too clear about my responsibilities and my attitudes for the way I want to support others. It's still kind of half-baked and makes me kind of confusing like I know that advising does not really work, but if they are not willing to change or have a goal then I also don't know what to do to help them. [[coaching]]\ [[supporting]]
 - I'm not interested in the idea that becomes a person who can do all the good things, but I'm interested in becoming a soul that can contain everything. [[soul evolution]]. 
     - When I can contain things, I will have my way of interacting with the world instead of following the action of other masters. They will not be the one who defines my behavior, but I will instead. [[soul uniqueness]] 
-    - We can have similar [[soul evolution]] process but the quality and [[freewill]] of each soul is diffent.
+    - We can have similar [[soul evolution]] process but the quality and [[free-will]] of each soul is diffent.
     - Able to contain everything does not mean always easy and does not deal with things properly, but actually does with a [[conscious choice]] and [[helpful manner]]
 -  The fact we can love or not is undiscussable, we can always have the feelings of love because it's inside of us. But whether it's conditional or unconditional is another realm of a discussion? [[unconditional]] [[conditional]]
 - My [[training method]] need to be concern about creating a proper [[learning curve]] that suits all of the different people no matter their starting point is. The matter is whether they are progressing in a [[🌱Natural Progression]] way with enough stretching instead of putting too much pressure or too easy on themselves.

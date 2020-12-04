@@ -49,7 +49,7 @@
             - What's like to be in there?
                 - Honest answer - sometimes is good, sometimes is not
             - Why it's not nice to be in there
-                - 3 things that distract and affect our experience when we in there [[objects of consciousness]]
+                - 3 things that distract and affect our experience when we in there [[objects of consciousness]] [[distraction]]
                     - The outside world that's coming through body senses
                     - The thoughts that created by the mind
                     - The emotions that created by the heart

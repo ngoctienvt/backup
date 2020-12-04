@@ -9,3 +9,6 @@
 ## [November 18th, 2020](<November 18th, 2020.md>)
 - [wise quotes](<wise quotes.md>)
 
+## [Session 3 - The mind, part 1](<Session 3 - The mind, part 1.md>)
+- "When a thing can no longer offend you, it ceases to exist in the old way." #[wise quotes](<wise quotes.md>)
+

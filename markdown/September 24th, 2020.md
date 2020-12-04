@@ -9,7 +9,7 @@
 - If there is a time that I have another relationship, I will try my best to love her as pure as possible and to become the one who will support her in this life as well as possible. [[true love]] This love will not satisfy my [[personal needs]], but rather to do my best job to give back as a part of this wonderful universe.
 
 I will support her on two main levels as a soul and as a lover.
-- Things have different levels and depend on what levels, I want to develop and maintain an open [[intellectual mind]] to see things clearly without distorting by my [[personal mind]] and by my [[freewill]]. [[openness]]
+- Things have different levels and depend on what levels, I want to develop and maintain an open [[intellectual mind]] to see things clearly without distorting by my [[personal mind]] and by my [[free-will]]. [[openness]]
 - For me, practicing [[honoring]] and [[abundance appreciation]] is not try but rather to come back to the truth. This is a [[🌱Natural Progression]] and an obvious way for living life when I'm able to [[clear the fog]].
 - I felt that I started to release more and more the love samskaras, the angry samskaras, and some fear samskaras.
 - When I read [[Surat Shabd Yoga]], I realized that it could be very helpful to practice directly to keep the energy be high instead of letting it run to the bottom and direct it back to the top. It would require me to practice [[willpower]] to hold my focus on the third eye. [[direct]] Of course, I still need to relax in the process so that it could happen naturally. 

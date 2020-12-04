@@ -1,0 +1,17 @@
+- Wisdom
+    - [[understanding before solving]]
+    - [[the fifth force - will-power]]
+- Spirituality
+    - [[What is surrender?]]
+    - [[Where does the impersonal world come from?]]
+        - [[What should be the relationship between us and the moment?]]
+    - [[How simple life could be?]]
+        - [[The challenge for simply experience life]]
+        - [[The misleading solution that lead to a suffer life]]
+    - [[What is the fall from the garden?]]
+        - [[The cause of inner disturbances]]
+        - [[How we create our own internal problems?]]
+        - [[How we use our intellectual mind to serve the lower-self?]]
+    - [[How consciousness evolve by learning from the experience?]]
+    - [[How psychology support spirituality?]]
+    - [[Why everything is so negative?]]

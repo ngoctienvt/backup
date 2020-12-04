@@ -6,3 +6,6 @@
 ## [the impersonal world](<the impersonal world.md>)
 - [Where does the impersonal world come from?](<Where does the impersonal world come from?.md>)
 
+## [🧭Writing Topics](<🧭Writing Topics.md>)
+- [Where does the impersonal world come from?](<Where does the impersonal world come from?.md>)
+

@@ -5,3 +5,6 @@
 
 - We need to have a core foundation to understand how things got this way. Then reverse the process, and it will become back to its natural state. [understanding before solving](<understanding before solving.md>)
 
+## [🧭Writing Topics](<🧭Writing Topics.md>)
+- [understanding before solving](<understanding before solving.md>)
+

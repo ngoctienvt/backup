@@ -6,7 +6,7 @@ This is helpful for me to learn and develop my personal knowledge, but then I wi
 - Today focus:
     - Consuming productivity course of [[Ali Abdaal]]
     - Continue working on Workflow
-- Today I'm starting to work slowly on collect data from external and learn to process them to become my own wisdom. I also start to build my self a new habit pattern that take back my [[freewill]] from my feelings to build up my ideal workflow.
+- Today I'm starting to work slowly on collect data from external and learn to process them to become my own wisdom. I also start to build my self a new habit pattern that take back my [[free-will]] from my feelings to build up my ideal workflow.
 - I suddenly feel that I lost certain information, not sure because of my fault or because of Roam Research. This feeling of loss makes me uncomfortable and unsecured. But it's okay,  as long as it's mine, I could always create them back. If not, then there is no need to fear of losing it.
 - I still not sure how I will use my tag properly, it's making me kind of confused about the structure to build my [[🌱PKDS - Personal Knowledge Development System ]] clean and optimal. [[Tag usage]] [[information structuring]]
 - Today when hearing about next week I have to come back to Vung Tau to examine my health for national service. I feel really uncomfortable inside my heart, fear, anxiety, worry, resistance,... and this is truly a big [[samskaras]] that I need to work on. 

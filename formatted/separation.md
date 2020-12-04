@@ -13,3 +13,6 @@ This kind of way of seeing life is shifting from [separation](<separation.md>)
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - All of the words that based on [separation](<separation.md>)
 
+## [Session 3 - The mind, part 1](<Session 3 - The mind, part 1.md>)
+- These thought patterns, impressions or samskaras will start to control our life. They are the materials to develop our self-concept. [separation](<separation.md>)
+

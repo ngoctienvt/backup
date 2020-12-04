@@ -46,7 +46,7 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F2G_MQglYWD.png?alt=media&token=ad06b972-c4e4-43b8-86fa-6b3bb9778572)
         - We think we had to have the feeling of doing something to do something. [[false belief]]
             - Relying on our feelings to work is a receipt for disaster, because it's not reliable. [[solid foundation]]
-                - It's about the true self choose to do something, not about give up our free-will to our heart.  [[freewill]]
+                - It's about the true self choose to do something, not about give up our free-will to our heart.  [[free-will]]
         - The outcome is usually long time on the future, we don't have an immeditate feedback. [[getting in touch with reality]] continuously
             - Make the action [[samskaras-based solution]]
                 - more pleasurable 
