@@ -2,31 +2,32 @@
     - So far in the course, we have stressed the fact that you are in there experiencing what passes before you. **We discovered that the moment unfolding in front of you took 13.8 billion years to get here, and it is not personal.** You did not create the moment—it was given to you and you alone.** Each moment is a unique gift.**
     - Now we will begin to **explore another thing you are aware of:** **the mind.** As we’ve learned, you are not the mind; you are simply aware of the mind. The **human mind is truly amazing**—it is brilliant and creative, and yet **at the same time, it can be the source of great personal suffering and pain.** **To be free of this pain, we must understand the mind.** 
 - ### Lessons
-    - The moment in front of us is impersonal and exist independent of us.
-    - It's just that life is easy because we are be there, and a part of universe unfold in front of us, and we simply aware and experience the moment.
-        - However, it does not seem like impersonal?
-        - Why it's so hard to just experience the unfolding moment?
-            - Why there is so much resistant?
-            - Where there are so much intensity and confusing inside?
-            - Why sometimes the world coming in - which is just a bunch of atoms makes me feel not good? But sometimes make me feel really good? And sometimes both?
-        - When the moment comes in, it caused trouble. 
-            - And because when the world comes in, it created the disturbances, we think the solution is NOT HAVE THE WORLD COME IN THAT WAY. 
-            - Or when the world come in feel good, we think the solution is TO MAKE THE WORLD COME IN THAT WAY.
-            - We end up a war with the moment in front of us
-                - "I need it to be this way. I don't want it to be that way."
-    - Build mind
-        - The reason we feel disturbances when the moment come in is because it stimulates our mind
+    - The moment in front of us is impersonal and exist independent of us. [[the impersonal world]]
+    - It's just that life is easy because we are be there, and a part of universe unfold in front of us, and we simply aware and experience the moment. [[How simple life could be?]]
+        -  [[The challenge for simply experience life]]
+            - However, it does not seem like simple life that, and the moment doesn't seem like impersonal
+            - Why it's so hard to just experience the unfolding moment?
+                - Why there is so much resistant?
+                - Where there are so much intensity and confusing inside?
+                - Why sometimes the world coming in - which is just a bunch of atoms makes me feel not good? But sometimes make me feel really good? And sometimes both?
+            - When the moment comes in, it caused trouble. [[The misleading solution that lead to a suffer life]]
+                - And because when the world comes in, it created the disturbances, we think the solution is NOT HAVE THE WORLD COME IN THAT WAY. 
+                - Or when the world come in feel good, we think the solution is TO MAKE THE WORLD COME IN THAT WAY.
+                - We end up a war with the moment in front of us
+                    - "I need it to be this way. I don't want it to be that way."
+    - Build mind [[the mind]]
+        - The reason we feel disturbances when the moment come in is because it stimulates our mind [[the cause of inner disturbances]]
             - If things come in and our mind said "I like that...", we feel good.
             - If things come in and our mind said "I don't like that...", we feel bad.
             - But the person sit next to us don't feel like that. Their mind say one thing, our mind say another.
-        - Bill-gates example to demonstrate how our entire internal stage change because of one word
-        - Instead of asking "What is going on?", we only ask "How do we fix this?"
-        - Why am I not simply there and enjoy the moment in front of us? Why this is not my default state?
+            - Bill-gates example to demonstrate how our entire internal stage change because of one word
+        - Instead of asking "What is going on?", we only ask "How do we fix this?" [[the short-term reaction]] [[understanding before solving]]
+        - [[seeing the process]] Why am I not simply there and enjoy the moment in front of us? Why this is not my default state?
             - Because it depends on what our mind say.
             - "Which color do you like?". You don't decide that, your mind decides "Let me think about it."
-        - We - the consciousness - have the right to experience 3 things or distract by them.
-        - We need to have a core foundation to understand how things got this way. Then reverse the process, and it will become back to its natural state.
-    - What is mind?
+        - We - the consciousness - have the right to experience 3 things or distract by them. [[distraction]]
+        - We need to have a core foundation to understand how things got this way. Then reverse the process, and it will become back to its natural state. [[understanding before solving]]
+    - What is mind? [[the mind]]
         - Mind is a place where thoughts exist.
             - Scientist don't have the machine to observe the thoughts yet, but we can easily.
                 - Our consciousness has a bandwith that can pickup vibrations that other machine don't.
@@ -34,72 +35,74 @@
                         - The different subtle vibrations of energy that called thought-plane, or mental plane.
         - Mind is a field of energy in which thoughts can be created.
         - Mind is a generated-thought machine.
+    - [[characteristics of the mind]]
         - Mind can be empty - empty-mind, 
             - like a computer without any software and OS, 
             - but has great potential.
             - This is a starting point.
         - The world exist independent with the mind, and create the body for us.
             - The world come in by sending the reflection of the light to the mind.
-            - One of function of the mind is a flat-screen TV - true experience - impersonal layer
-                - The mind formulate a form that matches what came in through the senses.
-                    - This is great because experiences are food for the soul.
-                    - We experience what we are meant to be experience. 
-                        - For example, a beautiful sunset blows our mind - which means there is nothing inside our mind, except all of our consciousness focus and merge with the experience.
-                            - If we think about it, we miss it, because we create something different than it.
-                            - It is spiritual experience, because we - the soul are not scattering but fully focus on the experience that life are giving us.
-                        - This is what called 'union' - the experience and the experiencer becomes one.
-                            - There is nothing else distract our consciousness except what's happening.
-                            - It's like rivers flow into and merge with the ocean. 
-                            - This is how it feels when Adam and Eva live on the garden.
-                - What is the fall from the garden?
-                    - When the experiences come in, they are feel different. Because they are difference.
-                        - Everything has its nature.
-                    - Consciousness can expand because of the knowledge from the experience come into it.
-                        - The ocean become greater because of the rivers flow into.
-                        - The soul are learning and growing. Everything comes in make us greater, richer, and wholer.
-                    - If we are willing to let the experience come in and teach us, there is nothing wrong.
-                    - However, we are given free-will, so we have the ability to resist and keep patterns inside.
-                        - When we focus on something instead of scatter our consciousness even, we assert a force that outside of the 4 fundamental forces - the power of will
-                        - This is the birth of resistance to hold things a distance from us, instead of let them 'all the way in'. This is an act of will, not a thought.
-                            - We can use will to resist, or cling to the thought patterns that the mind render.
-                            - And this keeps these patterns finish it journey to come in and feed us fully.
-                            - We keep what is not generating from the sources anymore.
-                        - These acts of will are original sin. 
-                            - Self-knowledge is good, but not in a way to hold on and make these patterns personal.
-                                - But in a way that's we let it all the way in, and learn from it.
-                    -  We can't be who we are because there are things draw our consciousness.
-                        - The first thing draw our consciousness is not a bad thing, it's the rendering of outside world comes in to teach us. Like a person who just sit there and watch movies.
-                        - But then, we start to decide
-                            - hold on to one pattern
-                            - and resist another
-                            - and they both stay inside
-                        - This will become problems later, because other similar thing will stimulate these trap patterns. 
-                            - We can't simply experience the rope as it is any more, if we keep the pattern of the snake that we can't handle inside, and freak us out.
-                            - If we like the butterfly and keep its pattern, then when the world come in, we are not looking the world any more, we're looking for the butterfly.
-                        - It used to be what was there just came in and feed us, but now it's not.
-                            - We now have the preferences for what should came in and what should not.
-                            - Our TV now are mess because it can't simply render new image, but keeps rendering old images as well.
-                        - The act of will is not innocence, because we unconsciously build a personal mind based on what we like and what we don't like.
-                        - These thought patterns, impressions or samskaras will start to control our life. They develop our self-concept.
-                        - It should be that we need to learn to not use will this way. We need to learn to be comfortable with what comes in, not resist or cling and think that these are normal.
-                            - We need to evolve enough to let god come in
-                            - The whole spiritual path is get used to the different nature vibrations of things that come in
-                                - When we able to do this, they will not be keep inside, but will pass through.
-                                - "When a thing can no longer offend you, it ceases to exist in the old way."
-                                    - The old way is personal, like and dislike, need to do something about this to be okay.
-                                    - The new way is accepting, honoring, clarity and serving.
-                        - We think that god is someone who will give us what we life, and don't give us what we don't like - 'god of the mind' not 'god of the reality'
-                            - What right do we have to either cling or resist the reality?
-                            - Why it is not okay with you? Because I can't digest it.
-                                - But reality will feed you everything, no matter you want or not. 
-                                - We just need to learn to digest it. We can learn, not the mind learn. Make everything be okay with us.
-                                    - All we need from the moments happening is what I'm able to experience from the moments. The experience itself is everything.
-                        - Spiritual path is not about
-                            - I define my self-concept as a person like this, and doesn't like that
-                            - And then my spiritual path is about how to get what I want, and don't get what I don't want
-                        - True spiritual path is about
-                            - I want to experience who I am by letting go who I am not.
-                        - Rorschach test is about stimulate your inner world 
+            - [[functions of the mind]]
+                - One of function of the mind is a flat-screen TV - true experience - impersonal layer
+                    - The mind formulate a form that matches what came in through the senses. 
+                        - This is great because experiences are food for the soul.
+                        - We experience what we are meant to be experience. 
+                            - For example, a beautiful sunset blows our mind - which means there is nothing inside our mind, except all of our consciousness focus and merge with the experience.
+                                - If we think about it, we miss it, because we create something different than it.
+                                - It is spiritual experience, because we - the soul are not scattering but fully focus on the experience that life are giving us.
+                            - This is what called '[[union]]' - the experience and the experiencer becomes one.
+                                - There is nothing else distract our consciousness except what's happening.
+                                - It's like rivers flow into and merge with the ocean. 
+                                - This is how it feels when Adam and Eva live on the garden.
+                    - What is the fall from the garden?
+                        - When the experiences come in, they are feel different. Because they are difference.
+                            - Everything has its nature.
+                        - Consciousness can expand because of the knowledge from the experience come into it.
+                            - The ocean become greater because of the rivers flow into.
+                            - The soul are learning and growing. Everything comes in make us greater, richer, and wholer.
+                        - If we are willing to let the experience come in and teach us, there is nothing wrong.
+                        - However, we are given free-will, so we have the ability to resist and keep patterns inside.
+                            - When we focus on something instead of scatter our consciousness even, we assert a force that outside of the 4 fundamental forces - the power of will
+                            - This is the birth of resistance to hold things a distance from us, instead of let them 'all the way in'. This is an act of will, not a thought.
+                                - We can use will to resist, or cling to the thought patterns that the mind render.
+                                - And this keeps these patterns finish it journey to come in and feed us fully.
+                                - We keep what is not generating from the sources anymore.
+                            - These acts of will are original sin. 
+                                - Self-knowledge is good, but not in a way to hold on and make these patterns personal.
+                                    - But in a way that's we let it all the way in, and learn from it.
+                        -  We can't be who we are because there are things draw our consciousness.
+                            - The first thing draw our consciousness is not a bad thing, it's the rendering of outside world comes in to teach us. Like a person who just sit there and watch movies.
+                            - But then, we start to decide
+                                - hold on to one pattern
+                                - and resist another
+                                - and they both stay inside
+                            - This will become problems later, because other similar thing will stimulate these trap patterns. 
+                                - We can't simply experience the rope as it is any more, if we keep the pattern of the snake that we can't handle inside, and freak us out.
+                                - If we like the butterfly and keep its pattern, then when the world come in, we are not looking the world any more, we're looking for the butterfly.
+                            - It used to be what was there just came in and feed us, but now it's not.
+                                - We now have the preferences for what should came in and what should not.
+                                - Our TV now are mess because it can't simply render new image, but keeps rendering old images as well.
+                            - The act of will is not innocence, because we unconsciously build a personal mind based on what we like and what we don't like.
+                            - These thought patterns, impressions or samskaras will start to control our life. They develop our self-concept.
+                            - It should be that we need to learn to not use will this way. We need to learn to be comfortable with what comes in, not resist or cling and think that these are normal.
+                                - We need to evolve enough to let god come in
+                                - The whole spiritual path is get used to the different nature vibrations of things that come in
+                                    - When we able to do this, they will not be keep inside, but will pass through.
+                                    - "When a thing can no longer offend you, it ceases to exist in the old way."
+                                        - The old way is personal, like and dislike, need to do something about this to be okay.
+                                        - The new way is accepting, honoring, clarity and serving.
+                            - We think that god is someone who will give us what we life, and don't give us what we don't like - 'god of the mind' not 'god of the reality'
+                                - What right do we have to either cling or resist the reality?
+                                - Why it is not okay with you? Because I can't digest it.
+                                    - But reality will feed you everything, no matter you want or not. 
+                                    - We just need to learn to digest it. We can learn, not the mind learn. Make everything be okay with us.
+                                        - All we need from the moments happening is what I'm able to experience from the moments. The experience itself is everything.
+                            - Spiritual path is not about
+                                - I define my self-concept as a person like this, and doesn't like that
+                                - And then my spiritual path is about how to get what I want, and don't get what I don't want
+                            - True spiritual path is about
+                                - I want to experience who I am by letting go who I am not.
+                            - Rorschach test is about stimulate your inner world 
             - The second layer of the mind - stored thoughts pattern that become the second reaction to what come in  - personal layer
                 - Why everything is so negative?
                     - Because we stored many negative things inside. Why they are negative things? Because we didn't get used to that nature vibrations yet. Then anything could stimulates these negative things we kept inside will make us feel negative.
