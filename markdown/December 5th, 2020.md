@@ -16,4 +16,4 @@
         - my first exercise of Design Lean Workshop
         - meditate on my relationship with Linh and have a message response for her
         - Take note the 4th video of spiritual course
-        - 
+- If I want to write and publish something, it will be at least from a competent level or proficiency level. These levels will provide values in a concise and much more helpful. And it will go through enough process to make sure that’s it works and it’s not coming from my personal emotions.
