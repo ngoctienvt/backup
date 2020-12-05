@@ -117,3 +117,31 @@ Whole-to-Part
     - Homework 1
         - https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details
         - https://docs.google.com/document/d/1EB7w1Wz7gGdrrozba0ljagYGZ8m8UC8ysO6IobBKOnI/edit
+        - # Xác định mục đích và mục tiêu của workshop
+            - Bài tập này bao gồm những phần sau
+            - 1- Mô tả đối tượng tiềm năng của workshop
+                - What is my topic for the workshop?
+                - Why I want to do this workshop?
+                - Who I want to serve for?
+                    - What is the characteristics of partici
+            - 2- Khảo sát nhu cầu của đối tượng tiềm năng (needs analysis)
+            - 3- Tổng hợp nhu cầu thành các mục tiêu lớn của workshop (learning goals)
+        - My workshop topic
+            - Build your own personal knowledge development system
+        - Ideal participant
+            - Have a desire for learning and personal development 
+            - Have a desire for thinking effectively
+            - Want to improve their own productivity in a sustainable way
+            - Have a desire for living life in a way that's stress-free and process-oriented, and let the result emerge itself.
+        - Their level is mostly novice or beginner. I want them to achieve competent level through the workshop.
+        - An typical participant for workshop is someone
+            - Who have a big desire for wisdom and personal knowledge
+            - Who want to live and develop themselves in a natural and stress-free way
+            - Who want to enjoy the process and move forward consistently, instead of running results after results
+            - Who want to be a writer or blogger that write based on your own materials
+        - Needs analysis survey form
+            - How satisfy you are with your personal development now?
+            - How willing you are to develop a system that support you to grow yourself in a natural way?
+            - Do you prefer to develop yourself in a rounded or focus way?
+        - My potential participant needs
+            - 

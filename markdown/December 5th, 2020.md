@@ -16,4 +16,10 @@
         - my first exercise of Design Lean Workshop
         - meditate on my relationship with Linh and have a message response for her
         - Take note the 4th video of spiritual course
-- If I want to write and publish something, it will be at least from a competent level or proficiency level. These levels will provide values in a concise and much more helpful. And it will go through enough process to make sure that’s it works and it’s not coming from my personal emotions.
+- If I want to write and publish something, it will be at least from a competent level or proficiency level. These levels will provide values in a concise and much more helpful. And it will go through enough process to make sure that’s it works and it’s not coming from my personal emotions. [[public output]]
+- #[[🌲Evergreen Notes]] 
+    - End goal
+    - It is very helpful if we can clarify our end goal so that it will become the pole star to ensure that's we focus on the right thing, instead of lost ourselves on the mean goals.
+    - End goal also help us to less attach to tools, current methods, or stay in our comfort zone.
+        - It requires us to go beyond what we're familiar and not let us limit ourselves in our current ability, but stretch us or provoke our creativity to make sure that's we are on the right track.
+    - 
