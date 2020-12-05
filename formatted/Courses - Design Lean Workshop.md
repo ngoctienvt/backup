@@ -113,6 +113,31 @@
     - Research - Step - Create - Talk
     - Part-to-Whole
 Whole-to-Part
+- Đây là mô tả chung về những thành phần của một quá trình thiết kế một workshop (và cũng có thể ứng dụng cho buổi đào tạo, bài giảng, hoặc một chương trình giáo dục đào tạo có mục tiêu cụ thể khác).
+
+Analysis of Target Group: Phân tích nhóm đối tượng tiềm năng của workshop. Kết quả của phần này là mô tả một “nhân vật điển hình” để nắm rõ hình ảnh về đối tượng của workshop là ai. Phần này sẽ được thực hiện ngay trong Buổi 2.
+
+Needs Analysis: Phân tích nhu cầu của nhóm đối tượng. Kết quả của phần này là những nhu cầu mà workshop cần đảm bảo, những vấn đề mà workshop cần giải quyết, hoặc những sự thay đổi mà workshop cần tạo ra cho người tham gia. Phần này cũng sẽ được thực hiện trong Buổi 2. Sau đó, mục tiêu lớn của workshop sẽ được xác định rõ.
+
+Task Analysis: Phân tích nhiệm vụ mà người tham gia cần hoàn thành. Kết quả của phần này là bảng mô tả những gì người tham gia cần làm được để đạt được mục tiêu lớn nói trên. Phần này sẽ được thực hiện trong Buổi 3.
+
+Definition of Objectives: Xác định những mục tiêu cụ thể của workshop. Kết quả của phần này là cấu trúc học phần, bài học, và các mục tiêu cụ thể mà người tham gia cần hoàn thành để đạt được mục tiêu lớn của workshop. Đây có thể coi là khung chương trình của workshop. Phần này được thực hiện trong Buổi 3.
+
+Choice of a Teaching Strategy: Lựa chọn một chiến lược truyền tải chung cho toàn bộ và từng phần của workshop. Kết quả của phần này một flow tổng quan của workshop, và những chiến lược (phương pháp) chung để có thể truyền đạt nội dung hiệu quả nhất. Phần này được thực hiện trong Buổi 4 và Buổi 5.
+
+Generation of Learning Tasks: Xây dựng các hoạt động giúp người tham gia học hỏi và hoàn thành được mục tiêu. Kết quả của phần này là những hoạt động cụ thể sẽ diễn ra trong workshop. Phần này được thực hiện trong Buổi 4 và Buổi 5.
+
+Choice of a Delivery System: Lựa chọn công cụ truyền đạt hiệu quả nhất. Kết quả của phần này là những tài liệu, giáo trình, công cụ… cụ thể để thực hiện chương trình. Phần này được thực hiện trong Buổi 6.
+
+Bên cạnh đó, phần Design and Development of Learning Environments (Thiết kế và xây dựng môi trường học hỏi) muốn nói đến những đặc điểm mà một môi trường học hỏi hiệu quả cần có được. Đó chính là những yếu tố mà người thiết kế cần đảm bảo trong quá trình lựa chọn chiến lược truyền đạt và xây dựng hoạt động của mình.
+
+Phần Instructional modeling (Làm mẫu) muốn nói đến việc người học cần có một “hình mẫu chuẩn mực” để làm theo trong workshop.
+
+Implementation: Thực hiện chương trình. Những lưu ý về thực hiện chương trình sẽ được thực hiện trong Buổi 7, Buổi 8.
+
+Evaluation: Đánh giá chương trình và sau đó quay lại bước đầu tiên để điều chỉnh và làm lại.
+
+Mỗi Module chính là một buổi học trên Zoom, và phần bài tập tương ứng với buổi học đó.
 - Homework
     - Homework 1
         - https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details
