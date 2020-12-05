@@ -1,8 +1,40 @@
 - [[ADDIE model]] to design a workshop
     - Analyse
-        - Survey participant needs -> goal of the workshop
-            - Goal
-            - Principle
+        - The general process for analysis step to design a workshop
+            - Describe a ideal participant
+            - Analyse participant needs
+            - Put priority for collected needs
+            - Identify major goals for workshop
+        - [[6 steps to identify ideal participant]]
+            - Clarify about the workshop
+            - Clarify ideal participant 
+                - Brainstorm characteristic of participant that we want to know
+                    - Willingness
+                    - Concern
+                    - [[Level of expertise]]
+                        - Novice
+                            - Know
+                        - Beginner
+                            - Do a bit
+                        - Competent
+                            - Do 
+                        - Proficient
+                            - Do and teach
+                        - Expert
+                            - Creation
+                        - Mostly build to up 1 level in one program
+                    - Pain points and pleasure points
+                - Choose what's priority
+                - Describe participant based on these characteristics
+            - Clarify pain points and pleasure points
+                - Brainstorm as most as we can
+            - Write down big goals for the workshop
+                - The workshop provides What for Who in order to Do?
+            - Check our assumptions
+                - Which question we will use to ask to check our assumptions?
+                - Which tools to check our assumptions?
+                    - After program checking to support students and improve program, or create next program
+            - Improve the information about ideal participant and goals of the workshop
     - Design
         - Design major modules and learning out comes
     - Development
@@ -12,77 +44,108 @@
     - Evaluate
         - Participants 
         - Workshop
-- Purpose of training activities
-    - participant connection
-        - grouping
-    - [[focus management]]
-        - [[two-way interaction]]
-        - In offline, it could take longer to introduce program. In online; it needs to be shorter to maintain focus with more interactions.
-            - This leads to online could be longer than offline, because content could be delivered slower.
-        - [[focus-priming]]
-        - [[gain-attention]]
-    - [[ice-breaking]]
-    - learning to use tools
-    - [[guided thinking]]
-    - [[hidden agenda]]
-- Training startegy
-    - Progressive level up thinking
-        - Limit number of the answers
-    - Metaphors questions for [[guided thinking]] to avoid the gap of thinking too big
-    - Priority [[generative-instructional strategy]] instead of [[supplantive-instructional strategy]]
-        - participant create their own contents
-    - Maintain the flow of learning 
-        - Link activities
-            - Results of above activities are input or foundation the next activities.
 - Training activities
-    - While you wait acitivities
-        - Simple question 
-            - What movie you watch again and again?
-            - What's your least favorite part-time job?...
-        - Purpose
-            - Have something to focus on
-            - Start to create connection between people
-        - Characteristic
-            - Simple to do
-            - When do online, do on video call or chat box
-            - Not time-consuming, few second for a task
-            - Visible for everyone at once
-        - Note
-            - Avoiding push energy to high level and create unnecessary distractions
-            - It's purpose is to help focus, not to stimulate emotions 
-    - learning to use tools activities
-        - Getting used to Jamboard activities
-            - Write down name letters and organize them into words related to workshop
-    - steps activities
-        - How
-            - Request students to list specific number of steps to complete certain tasks based on students' own experience.
-        - Purpose
-            - survey participant current approach
-            - bring out a standard process
-    - write down questions to dig deep activity
-    - Listing and choosing activities
-        - How
-            - First is listing,
-                - As a facilitator, you have what principle for your program?
-                - This is to wear a facilitator hat.
-            -  Second is choosing.
-                - As a participants, you want program ensure which principle?
-                - This is to wear the participant hat.
-        - Purpose
-            - Select topics to focus
-            - Select helpful way to apply knowledge
-            - Select types of homework that students want to do
-    - introducing workshop activity
-        - [[generative-instructional strategy]]
-        - Then introducing workshop when participants have some knowledge
-    - completing sentences activity
-        - How
-            - Today I feel...
-            - In this program, I will focus on... to...
-        - Purpose
-            - It helps participants to focus into what's matter and valuable
-- Level of thinking
-    - Understanding
-    - Comparing
-    - Analytic
-    - Evaluating
+    - Purpose of training activities
+        - participant connection
+            - grouping
+        - [[focus management]]
+            - [[two-way interaction]]
+            - In offline, it could take longer to introduce program. In online; it needs to be shorter to maintain focus with more interactions.
+                - This leads to online could be longer than offline, because content could be delivered slower.
+            - [[focus-priming]]
+            - [[gain-attention]]
+        - [[ice-breaking]]
+        - learning to use tools
+        - [[guided thinking]]
+        - [[hidden agenda]]
+    - Training startegy
+        - Progressive level up thinking
+            - Limit number of the answers
+        - Metaphors questions for [[guided thinking]] to avoid the gap of thinking too big
+        - Priority [[generative-instructional strategy]] instead of [[supplantive-instructional strategy]]
+            - participant create their own contents
+        - Maintain the flow of learning 
+            - Link activities
+                - Results of above activities are input or foundation the next activities.
+    - Types of training activities
+        - guided thinking activities
+            - Write a statement for picture to gain participant focus about the topic
+        - While you wait acitivities
+            - Simple question 
+                - What movie you watch again and again?
+                - What's your least favorite part-time job?...
+            - Purpose
+                - Have something to focus on
+                - Start to create connection between people
+            - Characteristic
+                - Simple to do
+                - When do online, do on video call or chat box
+                - Not time-consuming, few second for a task
+                - Visible for everyone at once
+            - Note
+                - Avoiding push energy to high level and create unnecessary distractions
+                - It's purpose is to help focus, not to stimulate emotions 
+        - learning to use tools activities
+            - Getting used to Jamboard activities
+                - Write down name letters and organize them into words related to workshop
+        - steps activities
+            - How
+                - Request students to list specific number of steps to complete certain tasks based on students' own experience.
+            - Purpose
+                - survey participant current approach
+                - bring out a standard process
+        - write down questions to dig deep activity
+        - Listing and choosing activities
+            - How
+                - First is listing,
+                    - As a facilitator, you have what principle for your program?
+                    - This is to wear a facilitator hat.
+                -  Second is choosing.
+                    - As a participants, you want program ensure which principle?
+                    - This is to wear the participant hat.
+            - Purpose
+                - Select topics to focus
+                - Select helpful way to apply knowledge
+                - Select types of homework that students want to do
+        - introducing workshop activity
+            - [[generative-instructional strategy]]
+            - Then introducing workshop when participants have some knowledge
+        - completing sentences activity
+            - How
+                - Today I feel...
+                - In this program, I will focus on... to...
+            - Purpose
+                - It helps participants to focus into what's matter and valuable
+        - Brainstorming activities
+            - What characteristic of participant that you want to know?
+            - Ways to synthesize
+                - Group ideas 
+                - Vote best ideas
+                - Use scales or criteria list
+                - Or use the next activities to group it
+        -  [[Item processing activities]] - Card Sort
+            - Process given information
+            - Bring level of thinking from "know" to "understand
+            - Give a example about a familiar context
+        - Short-summarize activity
+            - Note: We need to have an activity to guide the participant learning, so that they could complete this activity easier
+                - What "should" and "shouldn't" while describe characteristics of ideal participant
+                - Before that, there is an activity for the group leader "What did you notice while describe your ideal participant's characteristics?"
+        - Message-sending activity
+            - Which is hidden lesson in this picture about the need analysis process?
+        - Summarize the session with "Stop-Start-Continue"
+            - It's helpful for a session with lots of lessons and principles about a topic
+- Training principles
+    - An important principle in training
+        - After the workshop, participant can only do what they directly do in the program.
+    - Level of thinking
+        - Understanding
+        - Comparing
+        - Analytic
+        - Evaluating
+- Tools
+    - Tools to split group
+        - [https://pickerwheel.com/tools/random-team-generator/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpickerwheel.com%2Ftools%2Frandom-team-generator%2F%3Ffbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)
+    - 
+- Coaching landing page
+    - 

@@ -1,0 +1,19 @@
+- What is coaching? - tool
+- Why we want to coach?
+    - Why this tool?
+- Coach for who?
+    - ideal clients
+        - What are the characteristics that I concern about my ideal client?
+            - Concern and desire?
+            - Willingness?
+            - Commitment?
+            - What is there pain points?
+            - What will be their pleasure points?
+                - If you are..., coaching could help you to...
+                - Pain pushes until pleasure pulls (vision pulls)
+            - personal emotions - energy to do with them
+        - Choose priority characteristics and find information about them
+        - Describe ideal participant based on these characteristics
+    - Write down big goals for the coaching package
+        - The coaching will provide What for Who to Do? (pleasure points)
+            - My coaching will provide a safe environment for people who are suffering to regain their control of life.
