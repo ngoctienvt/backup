@@ -23,7 +23,7 @@
                 - [ ] Developing [Creating phase](<Creating phase.md>)
             - Design PKDS training program
                 - Learning [🌱Instructional Design](<🌱Instructional Design.md>)
-- ## [Focus of the week](<Focus of the week.md>)
+- ## [🎯Focus of the week](<🎯Focus of the week.md>)
     - Input Consuming
         - [ ] Note-taking [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
         - [ ] Reading [Books - Clarity - Clear mind, Better performance, Bigger results](<Books - Clarity - Clear mind, Better performance, Bigger results.md>)

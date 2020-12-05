@@ -142,5 +142,7 @@
     - Research - Step - Create - Talk
     - Part-to-Whole
 Whole-to-Part
-
-
+- Homework
+    - Homework 1
+        - https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details
+        - https://docs.google.com/document/d/1EB7w1Wz7gGdrrozba0ljagYGZ8m8UC8ysO6IobBKOnI/edit

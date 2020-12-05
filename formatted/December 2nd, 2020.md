@@ -1,4 +1,4 @@
-- [min-all](<min-all.md>) {{[query](<query.md>): {and:[Focus of the week](<Focus of the week.md>)}}}
+- [min-all](<min-all.md>) {{[query](<query.md>): {and:[🎯Focus of the week](<🎯Focus of the week.md>)}}}
 - I noticed that's without a capstone or a end goal that's measurable, I find hard to focus, because the focus is broad and not concrete enough. I could have an abstract thinking or idea, but concrete 
 - Partnering with clients according their pace is an important concept in coaching. [Coaching partnering](<Coaching partnering.md>)
 - I'm on the stage that's I'm sharpening my end goal and my focus so that it will drive me move forward and keep me [on the right track](<on the right track.md>). The theme of this stage is Being myself + Clean the clustering + Concrete thinking 

@@ -4522,9 +4522,9 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606312276844,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606395846639,
+        "edit-time": 1607135509715,
         "heading": 2,
-        "string": "[[Focus of the week]]",
+        "string": "[[\ud83c\udfafFocus of the week]]",
         "uid": "E69huto1Q"
       }
     ],
@@ -53441,11 +53441,45 @@
     "title": "evening rituals"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607135206521,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607135446407,
+        "string": "Learning and doing exercises for [[Courses - Design Lean Workshop]]",
+        "uid": "Os3kkv7qO"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607135219451,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607135446407,
+        "string": "Continue work on take note [[Courses - Living from the place of surrender]]",
+        "uid": "UaaPxFTYx"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607135240403,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607135446407,
+        "string": "Start to take note 2 chapters of [[Books - The heart of laser focus coaching]]",
+        "uid": "jMrkkGnzs"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607135566377,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607135604518,
+        "string": "Meditate on my relationship with [[@Nguy\u1ec5n M\u1ef9 Linh]] and how a [[true relationship]] will look life for me?",
+        "uid": "oX54b5fvm"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606395846642,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606395846644,
-    "title": "Focus of the week"
+    "edit-time": 1607135509715,
+    "title": "\ud83c\udfafFocus of the week"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -55817,7 +55851,7 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606788609838,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606788609838,
+    "edit-time": 1607135456223,
     "title": "December 1st, 2020"
   },
   {
@@ -58032,11 +58066,11 @@
           },
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607093298345,
+            "create-time": 1607135114185,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607093309005,
-            "string": "Part-to-Whole\nWhole-to-Part\n\n",
-            "uid": "6zQ3fuN-l"
+            "edit-time": 1607135114185,
+            "string": "Part-to-Whole\nWhole-to-Part",
+            "uid": "iHyWPKKg3"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -58045,6 +58079,42 @@
         "edit-time": 1607093298349,
         "string": "Learning styles",
         "uid": "p7w-Y2BZP"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607135133629,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607135134849,
+                "string": "https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details",
+                "uid": "TjSVi3wZs"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607135152670,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607135153885,
+                "string": "https://docs.google.com/document/d/1EB7w1Wz7gGdrrozba0ljagYGZ8m8UC8ysO6IobBKOnI/edit",
+                "uid": "ENbhy1qeY"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607135122962,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607135133633,
+            "string": "Homework 1",
+            "uid": "tQK4l3_kQ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607093298345,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607135122965,
+        "string": "Homework",
+        "uid": "6zQ3fuN-l"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -58115,8 +58185,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1606873096652,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606873210741,
-        "string": "#min-all {{[[query]]: {and:[[Focus of the week]]}}}",
+        "edit-time": 1607135509715,
+        "string": "#min-all {{[[query]]: {and:[[\ud83c\udfafFocus of the week]]}}}",
         "uid": "rR3P1Twnw"
       },
       {
@@ -60461,8 +60531,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1607134814915,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607134882321,
-                "string": "I focus on do what I can see first like take note courses, highlight ebooks, so that the results of these are ",
+                "edit-time": 1607134904035,
+                "string": "I focus on do what I can see first like take note courses, highlight ebooks, so that the results of these are the materials for my next stages, instead of trying to see the whole process at once.",
                 "uid": "uSueBQxa4"
               }
             ],
@@ -60472,6 +60542,64 @@
             "edit-time": 1607134597610,
             "string": "Success factors",
             "uid": "ufVEySIKm"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607135360905,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607135509715,
+            "string": "[[\ud83c\udfafFocus of the week]]",
+            "uid": "3deGUerwm"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607135935484,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607135957538,
+                "string": "synthesize the second lectures",
+                "uid": "JFxbpgKOU"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607135555534,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607135964638,
+                "string": "my first exercise of Design Lean Workshop",
+                "uid": "1kb5swN8J"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607135964635,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607135982542,
+                "string": "meditate on my relationship with Linh and have a message response for her",
+                "uid": "y0FIWXCLX"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607135982539,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607136001165,
+                "string": "Take note the 4th video of spiritual course",
+                "uid": "QzkrECEi8"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607136001162,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607136001162,
+                "string": "",
+                "uid": "oVSgxiucA"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607135930743,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607135930743,
+            "string": "In this weekend, I will do ",
+            "uid": "gV0NrsW0v"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -60487,5 +60615,29 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1607134113517,
     "title": "December 5th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607135256919,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607135256921,
+    "title": "Books - The heart of laser focus coaching"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607134889906,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607135411555,
+        "string": "My focus for next week ",
+        "uid": "WRWqD1_kQ"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607135360903,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607135360903,
+    "title": "December 6th, 2020"
   }
 ]

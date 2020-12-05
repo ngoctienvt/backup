@@ -110,3 +110,6 @@
 ## [training](<training.md>)
 - [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>):
 
+## [🎯Focus of the week](<🎯Focus of the week.md>)
+- Continue work on take note [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
+

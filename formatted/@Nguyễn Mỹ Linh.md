@@ -63,3 +63,6 @@
 ## [coaching reflection](<coaching reflection.md>)
 - letting go [personal agenda](<personal agenda.md>) that related to [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 
+## [🎯Focus of the week](<🎯Focus of the week.md>)
+- Meditate on my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
+

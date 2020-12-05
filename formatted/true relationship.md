@@ -11,3 +11,6 @@
 ## [November 28th, 2020](<November 28th, 2020.md>)
 - Redefining the meaning of [true relationship](<true relationship.md>)
 
+## [🎯Focus of the week](<🎯Focus of the week.md>)
+- Meditate on my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) and how a [true relationship](<true relationship.md>)
+

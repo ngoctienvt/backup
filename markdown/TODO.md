@@ -23,7 +23,7 @@
                 - {{[[TODO]]}} Developing [[Creating phase]]
             - Design PKDS training program
                 - Learning [[🌱Instructional Design]]
-- ## [[Focus of the week]]
+- ## [[🎯Focus of the week]]
     - Input Consuming
         - {{[[TODO]]}} Note-taking [[Courses - Living from the place of surrender]]
         - {{[[TODO]]}} Reading [[Books - Clarity - Clear mind, Better performance, Bigger results]]

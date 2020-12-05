@@ -9,4 +9,11 @@
     - Success factors
         - I take back my willpower more this week
         - I meditate more when I don't know what I need to do
-        - I focus on do what I can see first like take note courses, highlight ebooks, so that the results of these are the 
+        - I focus on do what I can see first like take note courses, highlight ebooks, so that the results of these are the materials for my next stages, instead of trying to see the whole process at once.
+    - [[🎯Focus of the week]]
+    - In this weekend, I will do 
+        - synthesize the second lectures
+        - my first exercise of Design Lean Workshop
+        - meditate on my relationship with Linh and have a message response for her
+        - Take note the 4th video of spiritual course
+        - 
