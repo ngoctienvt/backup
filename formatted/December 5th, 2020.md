@@ -1,4 +1,4 @@
-- [[weekly reflection]]
+- [weekly reflection](<weekly reflection.md>)
     - Highlight of the weeks:
         - I start to work on my accumulated knowledge as well as process new knowledge at the same time
             - Collecting/ Note-taking and grouping
