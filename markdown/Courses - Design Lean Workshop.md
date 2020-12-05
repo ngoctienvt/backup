@@ -117,15 +117,23 @@ Whole-to-Part
     - Homework 1
         - https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details
         - https://docs.google.com/document/d/1EB7w1Wz7gGdrrozba0ljagYGZ8m8UC8ysO6IobBKOnI/edit
-        - # Xác định mục đích và mục tiêu của workshop
+        - ### Clarify typical participant and goals of the workshop
             - Bài tập này bao gồm những phần sau
             - 1- Mô tả đối tượng tiềm năng của workshop
                 - What is my topic for the workshop?
                 - Why I want to do this workshop?
                 - Who I want to serve for?
-                    - What is the characteristics of partici
+                    - What is the characteristics of participants that I want to clarify?
+                        - What is my ideal criteria for each of these characteristics?
+                        - What is the expertise level of them?
+                        - What is the expertise level I want them to achieve after my workshop?
+                    - Describe my potential participants
+                        - Describe my typical participant
             - 2- Khảo sát nhu cầu của đối tượng tiềm năng (needs analysis)
+                - What are questions I want to use to check their needs?
+                - What are participant needs that I want to priority of?
             - 3- Tổng hợp nhu cầu thành các mục tiêu lớn của workshop (learning goals)
+                - What are my workshop goals based on my desire and their needs?
         - My workshop topic
             - Build your own personal knowledge development system
         - Ideal participant

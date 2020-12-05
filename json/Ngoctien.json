@@ -58433,12 +58433,56 @@
                       {
                         "children": [
                           {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607174326328,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607174378727,
+                                "string": "What is my ideal criteria for each of these characteristics?",
+                                "uid": "CSoN3G9oP"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607174402418,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607174417003,
+                                "string": "What is the expertise level of them?",
+                                "uid": "uC5sML3zk"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607174419001,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607174452339,
+                                "string": "What is the expertise level I want them to achieve after my workshop?",
+                                "uid": "kZ-__zkmF"
+                              }
+                            ],
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607174288698,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607174309401,
-                            "string": "What is the characteristics of participants that I want to use to ",
+                            "edit-time": 1607174326331,
+                            "string": "What is the characteristics of participants that I want to clarify?",
                             "uid": "JBt_ISyCQ"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607174395399,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607174471404,
+                                "string": "Describe my typical participant",
+                                "uid": "j_U8RgpDY"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607174378705,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607174587621,
+                            "string": "Describe my potential participants",
+                            "uid": "FBchy3vFj"
                           }
                         ],
                         "create-email": "ngoctienvt@gmail.com",
@@ -58455,12 +58499,40 @@
                     "uid": "k5oG-VsBz"
                   },
                   {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607174471401,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607174505479,
+                        "string": "What are questions I want to use to check their needs?",
+                        "uid": "jzaddwh2S"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607174488321,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607174515515,
+                        "string": "What are participant needs that I want to priority of?",
+                        "uid": "Af-EzXY4O"
+                      }
+                    ],
                     "edit-email": "ngoctienvt@gmail.com",
                     "edit-time": 1607174219248,
                     "string": "2- Kh\u1ea3o s\u00e1t nhu c\u1ea7u c\u1ee7a \u0111\u1ed1i t\u01b0\u1ee3ng ti\u1ec1m n\u0103ng (needs analysis)",
                     "uid": "R7lPlVIeW"
                   },
                   {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607174523122,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607174547001,
+                        "string": "What are my workshop goals based on my desire and their needs?",
+                        "uid": "2i7sZIwGX"
+                      }
+                    ],
                     "edit-email": "ngoctienvt@gmail.com",
                     "edit-time": 1607174219248,
                     "string": "3- T\u1ed5ng h\u1ee3p nhu c\u1ea7u th\u00e0nh c\u00e1c m\u1ee5c ti\u00eau l\u1edbn c\u1ee7a workshop (learning goals)",
@@ -58468,9 +58540,9 @@
                   }
                 ],
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607174219248,
-                "heading": 1,
-                "string": "X\u00e1c \u0111\u1ecbnh m\u1ee5c \u0111\u00edch v\u00e0 m\u1ee5c ti\u00eau c\u1ee7a workshop",
+                "edit-time": 1607174596993,
+                "heading": 3,
+                "string": "Clarify typical participant and goals of the workshop",
                 "uid": "772-0_8za"
               },
               {
