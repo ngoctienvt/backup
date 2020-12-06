@@ -1,1 +1,8 @@
-- My focus for next week 
+- When reading Learing through layers of abstraction, [[How to learn effectively?]]
+    - https://www.nateliason.com/blog/learning-through-abstraction
+    - It's important to start a reasonably abstracted level of the skill, and then to work your way downwards based on your interests and what else you want to do with it.
+    - As you move through the layers of abstraction, getting closer to the total complexity of the art, it becomes more difficult and more nuanced but you also gain more control and freedom of expression.
+    - This is help them to fill in their knowledge gap based on their needs and interests, instead of boring learning without any specific direction.
+    -  it’s best to start at the highest reasonable layer of abstraction and work your way down. Find a point where you get to use and experience a large part of the skill, and then get into the minutia as you become more interested and want to improve certain parts of it.
+    - ![](https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2b0a7d8998dc205c5a23ee_pasted-image-0-25.png)
+        - nateliason.com/blog/self-education
