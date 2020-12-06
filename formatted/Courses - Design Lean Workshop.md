@@ -117,42 +117,53 @@ Whole-to-Part
     - Homework 1
         - https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details
         - https://docs.google.com/document/d/1EB7w1Wz7gGdrrozba0ljagYGZ8m8UC8ysO6IobBKOnI/edit
-        - ### Clarify typical participant and goals of the workshop
+        - [Questions to clarify typical participant and goals of the workshop?](<Questions to clarify typical participant and goals of the workshop?.md>)
             - Bài tập này bao gồm những phần sau
-            - 1- Mô tả đối tượng tiềm năng của workshop
-                - What is my topic for the workshop?
-                - Why I want to do this workshop?
-                - Who I want to serve for?
+        - Workshop topic 1
+            - ## 1- Describe potential participants
+                - ### What is my topic for the workshop?
+                    - My topic for the workshop is about helping people to learn how to create a system to self-educate and develop themselves in a sustainable and stress-free way
+                - ### Why I want to do this workshop?
+                    - I want to do this because most of people want to grow, but they got stuck in the process, and I want to help them grow infinitely, so that's they can enjoy life much more.
+                - ### Who I want to serve for?
                     - What is the characteristics of participants that I want to clarify?
-                        - What is my ideal criteria for each of these characteristics?
+                        - What will be the motives for them to learn this?
+                            - Merry-go-around
+                            - Unsatisfaction about their life/ their development
+                            - Need for mastery and contribute more values
+                            - Have a desire for life long learning
+                            - Feel uncomfortable and annoy about stay at one place or not able to reach the next level
+                        - Who will willing to learn this?
+                        - What is their pain points and pleasure points?
                         - What is the expertise level of them?
-                        - What is the expertise level I want them to achieve after my workshop?
+                            - What is the expertise level I want them to achieve after my workshop?
+                    - What is my criteria for each of these characteristics?
                     - Describe my potential participants
                         - Describe my typical participant
-            - 2- Khảo sát nhu cầu của đối tượng tiềm năng (needs analysis)
+            - 2- Survey and analyze needs of potential participants
                 - What are questions I want to use to check their needs?
                 - What are participant needs that I want to priority of?
-            - 3- Tổng hợp nhu cầu thành các mục tiêu lớn của workshop (learning goals)
+            - 3- Summarize to major outcomes of the workshop
                 - What are my workshop goals based on my desire and their needs?
-        - My workshop topic
-            - Build your own personal knowledge development system
-        - Ideal participant
-            - Have a desire for learning and personal development 
-            - Have a desire for thinking effectively
-            - Want to improve their own productivity in a sustainable way
-            - Have a desire for living life in a way that's stress-free and process-oriented, and let the result emerge itself.
-        - Their level is mostly novice or beginner. I want them to achieve competent level through the workshop.
-        - An typical participant for workshop is someone
-            - Who have a big desire for wisdom and personal knowledge
-            - Who want to live and develop themselves in a natural and stress-free way
-            - Who want to enjoy the process and move forward consistently, instead of running results after results
-            - Who want to be a writer or blogger that write based on your own materials
-        - Needs analysis survey form
-            - How satisfy you are with your personal development now?
-            - How willing you are to develop a system that support you to grow yourself in a natural way?
-            - Do you prefer to develop yourself in a rounded or focus way?
-        - My potential participant needs
-            - 
+            - My workshop topic
+                - Build your own personal knowledge development system
+                - Ideal participant
+                    - Have a desire for learning and personal development 
+                    - Have a desire for thinking effectively
+                    - Want to improve their own productivity in a sustainable way
+                    - Have a desire for living life in a way that's stress-free and process-oriented, and let the result emerge itself.
+                - Their level is mostly novice or beginner. I want them to achieve competent level through the workshop.
+                - An typical participant for workshop is someone
+                    - Who have a big desire for wisdom and personal knowledge
+                    - Who want to live and develop themselves in a natural and stress-free way
+                    - Who want to enjoy the process and move forward consistently, instead of running results after results
+                    - Who want to be a writer or blogger that write based on your own materials
+                - Needs analysis survey form
+                    - How satisfy you are with your personal development now?
+                    - How willing you are to develop a system that support you to grow yourself in a natural way?
+                    - Do you prefer to develop yourself in a rounded or focus way?
+                - My potential participant needs
+                    - 
 
 # Backlinks
 ## [🎯Focus of the week](<🎯Focus of the week.md>)

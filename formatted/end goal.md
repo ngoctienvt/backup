@@ -23,6 +23,9 @@
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [ ] I want to clean my goal cluster, so that they become [end goal](<end goal.md>)
 
+## [How to self-development effectively?](<How to self-development effectively?.md>)
+- [end goal](<end goal.md>)
+
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [end goal](<end goal.md>)
 

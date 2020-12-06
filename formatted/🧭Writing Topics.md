@@ -1,6 +1,8 @@
 - Wisdom
     - [understanding before solving](<understanding before solving.md>)
     - [the fifth force - will-power](<the fifth force - will-power.md>)
+- Personal Development
+    - [How to self-development effectively?](<How to self-development effectively?.md>)
 - Spirituality
     - [What is surrender?](<What is surrender?.md>)
     - [Where does the impersonal world come from?](<Where does the impersonal world come from?.md>)

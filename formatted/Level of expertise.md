@@ -10,9 +10,12 @@
     - ![The Step-by-Step Guide to Go From Novice to Expert in Any Skill - Nat  Eliason](https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f89712dc9c88e756487b1_Stages-of-Skill-Acquisition.png)
 - ![Novice To Expert - Developing Expert Athletic Trainers:An Interactive  workshop For Clinical Preceptors](https://theclinicalpreceptor.weebly.com/uploads/4/2/6/1/42617329/7505749_orig.png)
 - ![The Step-by-Step Guide to Go From Novice to Expert in Any Skill - Nat  Eliason](https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f898a3ad7a645a1909679_Dreyfus-Skill-Guide.png)
-- {{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FcRRi8DxgCD.pdf?alt=media&token=672a674c-be2b-4f09-a10a-97c95d2e85ef}}
+- 
 
 # Backlinks
+## [How to self-development effectively?](<How to self-development effectively?.md>)
+- [Level of expertise](<Level of expertise.md>)
+
 ## [🌱Instructional Design](<🌱Instructional Design.md>)
 - [Level of expertise](<Level of expertise.md>)
 

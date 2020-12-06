@@ -73,32 +73,27 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
         - [6 steps to identify ideal participant](<6 steps to identify ideal participant.md>)
             - Clarify about the workshop
             - Clarify ideal participant 
-                - Brainstorm characteristic of participant that we want to know
+                - List characteristics of participants that I care about
+                    - Participants needs
+                        - Motives/ Reasons
+                        - Concern
                     - Willingness
-                    - Concern
+                        - Attitudes of them about going to learn from a workshop
                     - [Level of expertise](<Level of expertise.md>)
-                        - Novice
-                            - Know
-                        - Beginner
-                            - Do a bit
-                        - Competent
-                            - Do 
-                        - Proficient
-                            - Do and teach
-                        - Expert
-                            - Creation
-                        - Mostly build to up 1 level in one program
+                        - Knowledge or experiences requirement to join the workshop
                     - Pain points and pleasure points
-                    - 1- Thông tin chung: Lứa tuổi, giới tính, hoàn cảnh gia đình
-                    - 2- Trình độ học vấn, hiểu biết đã có từ trước về chủ đề của workshop
-                    - 3- Động lực khiến họ tham gia workshop
-                    - 4- Thái độ của họ về việc tham gia vào workshop
-                    - 5- Những quan điểm chủ quan, định kiến, niềm tin họ có thể có về chủ đề
+                        - Short-term rewards
+                    - Demographic information
+                        - Age
+                        - Gender
+                    - Additional information
+                        - Their interests, hobbies
+                        - Thinking level, physical body characteristics
+                        - Possible judgments, prejudices, beliefs about the topics
+                    - 
+                    - op
                     - 6- Những thú vui, sở thích, đam mê của họ
-                    - 7- Những “phần thưởng” có thể khiến họ có động lực
-                    - 8- Đặc điểm về vận động cơ thể, khả năng tư duy
                     - 9- Những điều cần tránh nhắc tới (liên quan tới văn hóa, tôn giáo)
-                    - 10- Điều kiện về kiến thức, kinh nghiệm họ cần có để có thể tham gia vào workshop
                 - Choose what's priority
                 - Describe participant based on these characteristics
             - Clarify pain points and pleasure points

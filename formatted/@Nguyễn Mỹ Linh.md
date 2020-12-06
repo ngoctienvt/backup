@@ -17,6 +17,9 @@
     - Buổi 1: Điều gì mình có thể count on bản thân mà không phải là 1 biến?
 
 # Backlinks
+## [December 6th, 2020](<December 6th, 2020.md>)
+- I feel that's my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
+
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - Today has been an effective day, I clarified my work a lot, and seem like there will be new things for me to learn a new workshop tomorrow, I'm exciting about it. I also feel that the snowball is rolling. I want to share my joy with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 

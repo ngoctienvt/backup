@@ -42944,6 +42944,42 @@
                       {
                         "children": [
                           {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607261765240,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261795747,
+                                "string": "Motives/ Reasons",
+                                "uid": "VqNCPDU2T"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607084533977,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607084558420,
+                                "string": "Concern",
+                                "uid": "rcjFCDpY_"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607262160198,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607262168370,
+                            "string": "Participants needs",
+                            "uid": "nyGIN1S76"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607235941917,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261820546,
+                                "string": "Attitudes of them about going to learn from a workshop",
+                                "uid": "b36sN-UzK"
+                              }
+                            ],
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607084454304,
                             "edit-email": "ngoctienvt@gmail.com",
@@ -42952,112 +42988,14 @@
                             "uid": "NVpq0_ZQi"
                           },
                           {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607084533977,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607084558420,
-                            "string": "Concern",
-                            "uid": "rcjFCDpY_"
-                          },
-                          {
                             "children": [
                               {
-                                "children": [
-                                  {
-                                    "create-email": "ngoctienvt@gmail.com",
-                                    "create-time": 1607084844856,
-                                    "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1607084845915,
-                                    "string": "Know",
-                                    "uid": "nKp6b7EzB"
-                                  }
-                                ],
                                 "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607084807831,
+                                "create-time": 1607261910241,
                                 "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607084811588,
-                                "string": "Novice",
-                                "uid": "JvfuZetto"
-                              },
-                              {
-                                "children": [
-                                  {
-                                    "create-email": "ngoctienvt@gmail.com",
-                                    "create-time": 1607084842425,
-                                    "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1607084844436,
-                                    "string": "Do a bit",
-                                    "uid": "XcMsZGIo0"
-                                  }
-                                ],
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607084811584,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607084814739,
-                                "string": "Beginner",
-                                "uid": "tQM6xsQ5A"
-                              },
-                              {
-                                "children": [
-                                  {
-                                    "create-email": "ngoctienvt@gmail.com",
-                                    "create-time": 1607084838887,
-                                    "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1607084841997,
-                                    "string": "Do ",
-                                    "uid": "whoczh9Hg"
-                                  }
-                                ],
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607084814735,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607084821613,
-                                "string": "Competent",
-                                "uid": "LkILgbLBg"
-                              },
-                              {
-                                "children": [
-                                  {
-                                    "create-email": "ngoctienvt@gmail.com",
-                                    "create-time": 1607084831319,
-                                    "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1607084838428,
-                                    "string": "Do and teach",
-                                    "uid": "r6kHXbUJ5"
-                                  }
-                                ],
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607084821608,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607084824276,
-                                "string": "Proficient",
-                                "uid": "-wtJLKBqy"
-                              },
-                              {
-                                "children": [
-                                  {
-                                    "create-email": "ngoctienvt@gmail.com",
-                                    "create-time": 1607084826361,
-                                    "edit-email": "ngoctienvt@gmail.com",
-                                    "edit-time": 1607084830887,
-                                    "string": "Creation",
-                                    "uid": "Z49MzZLwR"
-                                  }
-                                ],
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607084824274,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607084826364,
-                                "string": "Expert",
-                                "uid": "0Z3awPSVs"
-                              },
-                              {
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607085140359,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607085157084,
-                                "string": "Mostly build to up 1 level in one program",
-                                "uid": "8gXZOCd26"
+                                "edit-time": 1607261927114,
+                                "string": "Knowledge or experiences requirement to join the workshop",
+                                "uid": "F-f809FzR"
                               }
                             ],
                             "create-email": "ngoctienvt@gmail.com",
@@ -43068,6 +43006,16 @@
                             "uid": "NfNLv1TKQ"
                           },
                           {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607235947993,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261871982,
+                                "string": "Short-term rewards",
+                                "uid": "7epAoZZ9N"
+                              }
+                            ],
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607154394867,
                             "edit-email": "ngoctienvt@gmail.com",
@@ -43076,44 +43024,80 @@
                             "uid": "x5B3fyOTS"
                           },
                           {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607261745401,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261746581,
+                                "string": "Age",
+                                "uid": "rivvXhtYS"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607261746578,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261749180,
+                                "string": "Gender",
+                                "uid": "pzWT58Oy-"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607261735657,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607261745405,
+                            "string": "Demographic information",
+                            "uid": "2DPz6fPr3"
+                          },
+                          {
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607235938693,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235938693,
-                            "string": "1- Th\u00f4ng tin chung: L\u1ee9a tu\u1ed5i, gi\u1edbi t\u00ednh, ho\u00e0n c\u1ea3nh gia \u0111\u00ecnh",
+                            "edit-time": 1607261754103,
+                            "string": "",
                             "uid": "AQP3MhmKq"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607235945262,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261849849,
+                                "string": "Their interests, hobbies",
+                                "uid": "MNOMJJRNT"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607235949675,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261902313,
+                                "string": "Thinking level, physical body characteristics",
+                                "uid": "AsR5p6-7z"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607235943658,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261835554,
+                                "string": "Possible judgments, prejudices, beliefs about the topics",
+                                "uid": "FO3Gs5CZe"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607262195419,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607262199600,
+                            "string": "Additional information",
+                            "uid": "Z3ZpHvI53"
                           },
                           {
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607235940576,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235940576,
-                            "string": "2- Tr\u00ecnh \u0111\u1ed9 h\u1ecdc v\u1ea5n, hi\u1ec3u bi\u1ebft \u0111\u00e3 c\u00f3 t\u1eeb tr\u01b0\u1edbc v\u1ec1 ch\u1ee7 \u0111\u1ec1 c\u1ee7a workshop",
+                            "edit-time": 1607261761140,
+                            "string": "op",
                             "uid": "Y3abyECP2"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607235941917,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235941917,
-                            "string": "3- \u0110\u1ed9ng l\u1ef1c khi\u1ebfn h\u1ecd tham gia workshop",
-                            "uid": "b36sN-UzK"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607235943658,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235943658,
-                            "string": "4- Th\u00e1i \u0111\u1ed9 c\u1ee7a h\u1ecd v\u1ec1 vi\u1ec7c tham gia v\u00e0o workshop",
-                            "uid": "FO3Gs5CZe"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607235945262,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235945262,
-                            "string": "5- Nh\u1eefng quan \u0111i\u1ec3m ch\u1ee7 quan, \u0111\u1ecbnh ki\u1ebfn, ni\u1ec1m tin h\u1ecd c\u00f3 th\u1ec3 c\u00f3 v\u1ec1 ch\u1ee7 \u0111\u1ec1",
-                            "uid": "MNOMJJRNT"
                           },
                           {
                             "create-email": "ngoctienvt@gmail.com",
@@ -43125,42 +43109,18 @@
                           },
                           {
                             "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607235947993,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235947993,
-                            "string": "7- Nh\u1eefng \u201cph\u1ea7n th\u01b0\u1edfng\u201d c\u00f3 th\u1ec3 khi\u1ebfn h\u1ecd c\u00f3 \u0111\u1ed9ng l\u1ef1c",
-                            "uid": "7epAoZZ9N"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607235949675,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235949675,
-                            "string": "8- \u0110\u1eb7c \u0111i\u1ec3m v\u1ec1 v\u1eadn \u0111\u1ed9ng c\u01a1 th\u1ec3, kh\u1ea3 n\u0103ng t\u01b0 duy",
-                            "uid": "AsR5p6-7z"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607235951346,
                             "edit-email": "ngoctienvt@gmail.com",
                             "edit-time": 1607235951346,
                             "string": "9- Nh\u1eefng \u0111i\u1ec1u c\u1ea7n tr\u00e1nh nh\u1eafc t\u1edbi (li\u00ean quan t\u1edbi v\u0103n h\u00f3a, t\u00f4n gi\u00e1o)",
                             "uid": "AnkKRv67c"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607235849801,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607235952306,
-                            "string": "10- \u0110i\u1ec1u ki\u1ec7n v\u1ec1 ki\u1ebfn th\u1ee9c, kinh nghi\u1ec7m h\u1ecd c\u1ea7n c\u00f3 \u0111\u1ec3 c\u00f3 th\u1ec3 tham gia v\u00e0o workshop",
-                            "uid": "twtp4-Qus"
                           }
                         ],
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1607084441218,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607153458244,
-                        "string": "Brainstorm characteristic of participant that we want to know",
+                        "edit-time": 1607261727545,
+                        "string": "List characteristics of participants that I care about",
                         "uid": "dPlGM_o5a"
                       },
                       {
@@ -59381,301 +59341,408 @@
                     "edit-time": 1607174219248,
                     "string": "B\u00e0i t\u1eadp n\u00e0y bao g\u1ed3m nh\u1eefng ph\u1ea7n sau",
                     "uid": "TyXOjh47q"
-                  },
+                  }
+                ],
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607261513074,
+                "string": "[[Questions to clarify typical participant and goals of the workshop?]]",
+                "uid": "772-0_8za"
+              },
+              {
+                "children": [
                   {
                     "children": [
                       {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607261544922,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607261593796,
+                            "string": "My topic for the workshop is about helping people to learn how to create a system to self-educate and develop themselves in a sustainable and stress-free way",
+                            "uid": "5JWlVPzD6"
+                          }
+                        ],
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1607174221138,
+                        "create-time": 1607261522277,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607174248611,
+                        "edit-time": 1607261522277,
+                        "heading": 3,
                         "string": "What is my topic for the workshop?",
-                        "uid": "hQNgrmrni"
+                        "uid": "qI_dIo8tv"
                       },
                       {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607261604064,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607261641597,
+                            "string": "I want to do this because most of people want to grow, but they got stuck in the process, and I want to help them grow infinitely, so that's they can enjoy life much more.",
+                            "uid": "v4wJKykrP"
+                          }
+                        ],
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1607174248608,
+                        "create-time": 1607261522277,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607174265003,
+                        "edit-time": 1607261522277,
+                        "heading": 3,
                         "string": "Why I want to do this workshop?",
-                        "uid": "PpibURhuW"
+                        "uid": "mqt3EQ2_-"
                       },
                       {
                         "children": [
                           {
                             "children": [
                               {
+                                "children": [
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607262368368,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607262385749,
+                                    "string": "Merry-go-around",
+                                    "uid": "fI9W9Xjwt"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607262385743,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607262399573,
+                                    "string": "Unsatisfaction about their life/ their development",
+                                    "uid": "6UQ76bh1t"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607262399567,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607262436741,
+                                    "string": "Need for mastery and contribute more values",
+                                    "uid": "pnFcG8-pT"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607262436874,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607262467622,
+                                    "string": "Have a desire for life long learning",
+                                    "uid": "7Wc8-A0-h"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607262471846,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607262502028,
+                                    "string": "Feel uncomfortable and annoy about stay at one place or not able to reach the next level",
+                                    "uid": "REAwH2gbY"
+                                  }
+                                ],
                                 "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607174326328,
+                                "create-time": 1607262147796,
                                 "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607174378727,
-                                "string": "What is my ideal criteria for each of these characteristics?",
-                                "uid": "CSoN3G9oP"
+                                "edit-time": 1607262366022,
+                                "string": "What will be the motives for them to learn this?",
+                                "uid": "0clrYhuem"
                               },
                               {
                                 "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607174402418,
+                                "create-time": 1607262242297,
                                 "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607174417003,
+                                "edit-time": 1607262255967,
+                                "string": "Who will willing to learn this?",
+                                "uid": "5d6DYRFpm"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607262255959,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607262295728,
+                                "string": "What is their pain points and pleasure points?",
+                                "uid": "8qSAol0uA"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1607261522277,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1607261522277,
+                                    "string": "What is the expertise level I want them to achieve after my workshop?",
+                                    "uid": "xhhA-Kp5i"
+                                  }
+                                ],
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1607261522277,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1607261522277,
                                 "string": "What is the expertise level of them?",
-                                "uid": "uC5sML3zk"
-                              },
-                              {
-                                "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607174419001,
-                                "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607174452339,
-                                "string": "What is the expertise level I want them to achieve after my workshop?",
-                                "uid": "kZ-__zkmF"
+                                "uid": "yyGuJ7PEw"
                               }
                             ],
                             "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607174288698,
+                            "create-time": 1607261522278,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607174326331,
+                            "edit-time": 1607261522278,
                             "string": "What is the characteristics of participants that I want to clarify?",
-                            "uid": "JBt_ISyCQ"
+                            "uid": "3hw9mnaCw"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607261522277,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607261672783,
+                            "string": "What is my criteria for each of these characteristics?",
+                            "uid": "aPocmjioV"
                           },
                           {
                             "children": [
                               {
                                 "create-email": "ngoctienvt@gmail.com",
-                                "create-time": 1607174395399,
+                                "create-time": 1607261522278,
                                 "edit-email": "ngoctienvt@gmail.com",
-                                "edit-time": 1607174471404,
+                                "edit-time": 1607261522278,
                                 "string": "Describe my typical participant",
-                                "uid": "j_U8RgpDY"
+                                "uid": "nD988Hglk"
                               }
                             ],
                             "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607174378705,
+                            "create-time": 1607261522278,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607174587621,
+                            "edit-time": 1607261522278,
                             "string": "Describe my potential participants",
-                            "uid": "FBchy3vFj"
+                            "uid": "KSrt2Qka0"
                           }
                         ],
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1607174265000,
+                        "create-time": 1607261522278,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607174288701,
+                        "edit-time": 1607261522278,
+                        "heading": 3,
                         "string": "Who I want to serve for?",
-                        "uid": "GIG71A7ZQ"
+                        "uid": "Be_xr9HSm"
                       }
                     ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607261522278,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607174219248,
-                    "string": "1- M\u00f4 t\u1ea3 \u0111\u1ed1i t\u01b0\u1ee3ng ti\u1ec1m n\u0103ng c\u1ee7a workshop",
-                    "uid": "k5oG-VsBz"
+                    "edit-time": 1607261522278,
+                    "heading": 2,
+                    "string": "1- Describe potential participants",
+                    "uid": "7Zi7x1uJZ"
                   },
                   {
                     "children": [
                       {
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1607174471401,
+                        "create-time": 1607261522277,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607174505479,
+                        "edit-time": 1607261522277,
                         "string": "What are questions I want to use to check their needs?",
-                        "uid": "jzaddwh2S"
+                        "uid": "F-YMr18_6"
                       },
                       {
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1607174488321,
+                        "create-time": 1607261522277,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607174515515,
+                        "edit-time": 1607261522277,
                         "string": "What are participant needs that I want to priority of?",
-                        "uid": "Af-EzXY4O"
+                        "uid": "qZWPzehDF"
                       }
                     ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607261522277,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607174219248,
-                    "string": "2- Kh\u1ea3o s\u00e1t nhu c\u1ea7u c\u1ee7a \u0111\u1ed1i t\u01b0\u1ee3ng ti\u1ec1m n\u0103ng (needs analysis)",
-                    "uid": "R7lPlVIeW"
+                    "edit-time": 1607261522277,
+                    "string": "2- Survey and analyze needs of potential participants",
+                    "uid": "_Ec_7Q5ls"
                   },
                   {
                     "children": [
                       {
                         "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1607174523122,
+                        "create-time": 1607261522277,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607174547001,
+                        "edit-time": 1607261522277,
                         "string": "What are my workshop goals based on my desire and their needs?",
-                        "uid": "2i7sZIwGX"
+                        "uid": "sIikjUQZJ"
                       }
                     ],
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607174219248,
-                    "string": "3- T\u1ed5ng h\u1ee3p nhu c\u1ea7u th\u00e0nh c\u00e1c m\u1ee5c ti\u00eau l\u1edbn c\u1ee7a workshop (learning goals)",
-                    "uid": "qpefjTJNC"
-                  }
-                ],
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607174596993,
-                "heading": 3,
-                "string": "Clarify typical participant and goals of the workshop",
-                "uid": "772-0_8za"
-              },
-              {
-                "children": [
-                  {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172114056,
+                    "create-time": 1607261522277,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172132227,
-                    "string": "Build your own personal knowledge development system",
-                    "uid": "2-KUUBJfx"
+                    "edit-time": 1607261522277,
+                    "string": "3- Summarize to major outcomes of the workshop",
+                    "uid": "veJRYK-0E"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607172114056,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607172132227,
+                        "string": "Build your own personal knowledge development system",
+                        "uid": "2-KUUBJfx"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172158440,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172220688,
+                            "string": "Have a desire for learning and personal development ",
+                            "uid": "oHPREDwQv"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172171640,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172240205,
+                            "string": "Have a desire for thinking effectively",
+                            "uid": "tyB7FgBDh"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172240287,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172286807,
+                            "string": "Want to improve their own productivity in a sustainable way",
+                            "uid": "18yWa9oNj"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172237872,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172356514,
+                            "string": "Have a desire for living life in a way that's stress-free and process-oriented, and let the result emerge itself.",
+                            "uid": "xEsytzJ7n"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607172132224,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607172158444,
+                        "string": "Ideal participant",
+                        "uid": "45M84wfSI"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607172338224,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607172411638,
+                        "string": "Their level is mostly novice or beginner. I want them to achieve competent level through the workshop.",
+                        "uid": "A6sNqXCvr"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172450552,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172495948,
+                            "string": "Who have a big desire for wisdom and personal knowledge",
+                            "uid": "UB9bsdVZL"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172495940,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172553106,
+                            "string": "Who want to live and develop themselves in a natural and stress-free way",
+                            "uid": "V9HkYbXUX"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172553104,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172608129,
+                            "string": "Who want to enjoy the process and move forward consistently, instead of running results after results",
+                            "uid": "4CHiUcAB7"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607173983141,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607174019744,
+                            "string": "Who want to be a writer or blogger that write based on your own materials",
+                            "uid": "gUM9xd50k"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607172393047,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607172450554,
+                        "string": "An typical participant for workshop is someone",
+                        "uid": "0q2hR9dh1"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172636521,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172681426,
+                            "string": "How satisfy you are with your personal development now?",
+                            "uid": "SyOCQqeX_"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172681423,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607172726675,
+                            "string": "How willing you are to develop a system that support you to grow yourself in a natural way?",
+                            "uid": "D98vHOtPR"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607172726672,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607173371257,
+                            "string": "Do you prefer to develop yourself in a rounded or focus way?",
+                            "uid": "WfVWBoc3S"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607172608126,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607172636523,
+                        "string": "Needs analysis survey form",
+                        "uid": "6OiL3ue8z"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607173401402,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607173401402,
+                            "string": "",
+                            "uid": "1QNRQhsZb"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607173362012,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607173401411,
+                        "string": "My potential participant needs",
+                        "uid": "_T7pUZOU7"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607172109492,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607172114059,
+                    "string": "My workshop topic",
+                    "uid": "waHKhVoAE"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607172109492,
+                "create-time": 1607261479659,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607172114059,
-                "string": "My workshop topic",
-                "uid": "waHKhVoAE"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172158440,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172220688,
-                    "string": "Have a desire for learning and personal development ",
-                    "uid": "oHPREDwQv"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172171640,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172240205,
-                    "string": "Have a desire for thinking effectively",
-                    "uid": "tyB7FgBDh"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172240287,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172286807,
-                    "string": "Want to improve their own productivity in a sustainable way",
-                    "uid": "18yWa9oNj"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172237872,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172356514,
-                    "string": "Have a desire for living life in a way that's stress-free and process-oriented, and let the result emerge itself.",
-                    "uid": "xEsytzJ7n"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607172132224,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607172158444,
-                "string": "Ideal participant",
-                "uid": "45M84wfSI"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607172338224,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607172411638,
-                "string": "Their level is mostly novice or beginner. I want them to achieve competent level through the workshop.",
-                "uid": "A6sNqXCvr"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172450552,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172495948,
-                    "string": "Who have a big desire for wisdom and personal knowledge",
-                    "uid": "UB9bsdVZL"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172495940,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172553106,
-                    "string": "Who want to live and develop themselves in a natural and stress-free way",
-                    "uid": "V9HkYbXUX"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172553104,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172608129,
-                    "string": "Who want to enjoy the process and move forward consistently, instead of running results after results",
-                    "uid": "4CHiUcAB7"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607173983141,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607174019744,
-                    "string": "Who want to be a writer or blogger that write based on your own materials",
-                    "uid": "gUM9xd50k"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607172393047,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607172450554,
-                "string": "An typical participant for workshop is someone",
-                "uid": "0q2hR9dh1"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172636521,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172681426,
-                    "string": "How satisfy you are with your personal development now?",
-                    "uid": "SyOCQqeX_"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172681423,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607172726675,
-                    "string": "How willing you are to develop a system that support you to grow yourself in a natural way?",
-                    "uid": "D98vHOtPR"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607172726672,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607173371257,
-                    "string": "Do you prefer to develop yourself in a rounded or focus way?",
-                    "uid": "WfVWBoc3S"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607172608126,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607172636523,
-                "string": "Needs analysis survey form",
-                "uid": "6OiL3ue8z"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607173401402,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607173401402,
-                    "string": "",
-                    "uid": "1QNRQhsZb"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607173362012,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607173401411,
-                "string": "My potential participant needs",
-                "uid": "_T7pUZOU7"
+                "edit-time": 1607261484884,
+                "string": "Workshop topic 1",
+                "uid": "wrgOlxzi_"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -61885,6 +61952,24 @@
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607260819896,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607260921798,
+            "string": "[[How to self-development effectively?]]",
+            "uid": "UVHp-hUFg"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607260816275,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607260819899,
+        "string": "Personal Development",
+        "uid": "K36Lu9Tj0"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607068147532,
             "edit-email": "ngoctienvt@gmail.com",
             "edit-time": 1607068274179,
@@ -62318,9 +62403,61 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607134889906,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607260258611,
-        "string": "When reading Learing through layers of abstraction, [[How to learn effectively?]]",
+        "edit-time": 1607260921798,
+        "string": "When reading Learing through layers of abstraction, [[How to self-development effectively?]]",
         "uid": "WRWqD1_kQ"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607263059365,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607263119738,
+            "string": "It's about helping them to learn and become an expertise in any thing that they want to develop in a sustainable and natural way. - a systematic approach that ensures the process with small gaps to close ",
+            "uid": "nJLFaIQlQ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607263025657,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607263059371,
+        "string": "I feel that's the [[personal end goals]] about my teaching about PKDS is starting to clearer.",
+        "uid": "ffX3OIkSO"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607263120437,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607263204243,
+        "string": "I feel that's my relationship with [[@Nguy\u1ec5n M\u1ef9 Linh]] is better now. I feel more comfortable to talk with her, and she seems like that as well. I don't know how our relationship will become, but at least, she is the one I want to support, and this stretch me to go beyond myself to learn how to communicate with her in a supportive and helpful way.",
+        "uid": "-iHK7ZD4N"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607263204238,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607263262858,
+        "string": "I feel that's I'm a little bit overwhelming, as what's I need to consolidate and work on now is growing big and I need to break them down, so that's I could work on them slowly without feeling overwhelming.",
+        "uid": "Jo4M7gJMo"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607263542582,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607263543909,
+            "string": "https://www.nateliason.com/blog/deliberate-practice",
+            "uid": "eTYVoMLP6"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607263262852,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607263542589,
+        "string": "[[deliberate practice]]",
+        "uid": "gayVX0Ojt"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -62463,11 +62600,11 @@
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235506692,
+        "create-time": 1607260898656,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235538818,
-        "string": "{{pdf: https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FcRRi8DxgCD.pdf?alt=media&token=672a674c-be2b-4f09-a10a-97c95d2e85ef}}",
-        "uid": "n9em7FRWL"
+        "edit-time": 1607260898656,
+        "string": "",
+        "uid": "pnTbBes2D"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -63909,10 +64046,194 @@
     "title": "Roam-Highlights"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607260803776,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607260809702,
+        "string": "#[[Evergreen notes]]",
+        "uid": "_UhvoeAsw"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607260798044,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607260802630,
+        "string": "[[Level of expertise]]",
+        "uid": "SjbjuOU58"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607260827218,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607260832042,
+        "string": "[[\ud83c\udf31PKDS - Personal Knowledge Development System ]]",
+        "uid": "VI0WjZU7y"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607260832039,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607260845563,
+        "string": "[[end goal]]",
+        "uid": "qXoCRMuEj"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607260845561,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607260845561,
+        "string": "",
+        "uid": "qimu889-Q"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1607260258613,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1607260258615,
-    "title": "How to learn effectively?"
+    "edit-time": 1607260921798,
+    "title": "How to self-development effectively?"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607174221138,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607261501555,
+            "string": "What is my topic for the workshop?",
+            "uid": "hQNgrmrni"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607174248608,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607261501555,
+            "string": "Why I want to do this workshop?",
+            "uid": "PpibURhuW"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607174326328,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607261501555,
+                    "string": "What is my ideal criteria for each of these characteristics?",
+                    "uid": "CSoN3G9oP"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607174402418,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607261501555,
+                    "string": "What is the expertise level of them?",
+                    "uid": "uC5sML3zk"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607174419001,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607261501555,
+                    "string": "What is the expertise level I want them to achieve after my workshop?",
+                    "uid": "kZ-__zkmF"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607174288698,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607261501556,
+                "string": "What is the characteristics of participants that I want to clarify?",
+                "uid": "JBt_ISyCQ"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607174395399,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607261501556,
+                    "string": "Describe my typical participant",
+                    "uid": "j_U8RgpDY"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607174378705,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607261501556,
+                "string": "Describe my potential participants",
+                "uid": "FBchy3vFj"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607174265000,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607261501556,
+            "string": "Who I want to serve for?",
+            "uid": "GIG71A7ZQ"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607261501556,
+        "string": "1- Describe potential participants",
+        "uid": "k5oG-VsBz"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607174471401,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607261501554,
+            "string": "What are questions I want to use to check their needs?",
+            "uid": "jzaddwh2S"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607174488321,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607261501554,
+            "string": "What are participant needs that I want to priority of?",
+            "uid": "Af-EzXY4O"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607261501555,
+        "string": "2- Survey and analyze needs of potential participants",
+        "uid": "R7lPlVIeW"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607174523122,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607261501555,
+            "string": "What are my workshop goals based on my desire and their needs?",
+            "uid": "2i7sZIwGX"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607261501555,
+        "string": "3- Summarize to major outcomes of the workshop",
+        "uid": "qpefjTJNC"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607261467765,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607261513074,
+    "title": "Questions to clarify typical participant and goals of the workshop?"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607263542591,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607263542593,
+    "title": "deliberate practice"
   }
 ]

@@ -8,6 +8,9 @@
     - I want to becoming the master at a variety of tools to support the development of other people in different ways - self-mastery, so that I could contribute to this wonderful world
 
 # Backlinks
+## [December 6th, 2020](<December 6th, 2020.md>)
+- I feel that's the [personal end goals](<personal end goals.md>)
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - Now today I will work on what will be my process to achieve my [personal end goals](<personal end goals.md>)
 
