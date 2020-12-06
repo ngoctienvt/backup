@@ -3,8 +3,73 @@
         - The general process for analysis step to design a workshop
             - Describe a ideal participant
             - Analyse participant needs
+                - Sau khi người thiết kế mô tả đối tượng tham gia, bước tiếp theo là phân tích nhu cầu của đối tượng đó. Mục đích của bước này là để giúp người thiết kế workshop tạo ra phương án tối ưu để giúp được người tham gia đảm bảo một nhu cầu nào đó (needs analysis),  giải quyết một vấn đề đang xảy ra (goal analysis), hoặc giúp thúc đẩy một sự thay đổi đang cần xảy ra (performance analysis).
+
+Goal analysis (giải quyết vấn đề) thường được thực hiện khi trong tổ chức hoặc nhóm tham gia có một vấn đề chung nào đó, và workshop được yêu cầu để truyền đạt những phương án giải quyết cho vấn đề này. Thường thì vấn đề đã được xác định từ trước, và người thiết kế workshop được yêu cầu để tập trung vào phương án giải quyết.
+
+Performance analysis (tạo ra sự thay đổi trong chất lượng công việc hoặc hoạt động nào đó) bằng cách quan sát và đánh giá những gì đối tượng của workshop đã làm được (chất lượng hiện tại), xác định những gì họ phải làm (chất lượng tối ưu), tìm ra những phần khác nhau giữa chất lượng hiện tại và chất lượng muốn có, tìm hiểu xem lý do cho sự khác biệt này là gì. Nếu lý do là vì đối tượng chưa biết cách làm thì workshop sẽ được thiết kế để chỉ cho họ cách làm. Còn nếu họ đã biết làm rồi nhưng không làm vì lý do nào khác, thì ngoài workshop, họ sẽ cần những tác động khác để thay đổi. Lý do khác đó thường liên quan tới động lực, và liên quan tới những tác động (hạn chế) của môi trường.
+
+Needs analysis (phân tích nhu cầu) bao hàm cả hai cách tiếp cận trên. Ngoài ra, quá trình phân tích nhu cầu có thêm các bước để tìm ra vấn đề, ví dụ: tìm hiểu xem những vấn đề nào đang ảnh hưởng tới chất lượng công việc, lựa chọn những vấn đề có ảnh hưởng nặng nhất, và đặt thứ tự ưu tiên.
+
+
+Những câu hỏi chủ đạo có thể sử dụng trong bước phân tích nhu cầu như sau.
+
+1- Đối tượng tiềm năng đang gặp phải vấn đề gì cần giải quyết, hoặc đang cần thay đổi điều gì?
+
+Nếu người thiết kế đã hiểu rõ đối tượng tiềm năng thì có thể tự trả lời câu hỏi này. Nhưng nếu chưa hiểu rõ, thì người thiết kế có thể gửi một bảng khảo sát nhu cầu trước khi thiết kế. Một lựa chọn khác là người thiết kế đặt ra những giả thuyết về vấn đề hoặc sự thay đổi, và sử dụng chính workshop thử nghiệm để kiểm tra giả thuyết đó.
+
+2- Ai là người cần thay đổi? Ai là người đề xuất cho sự thay đổi này?
+
+Trong nhiều trường hợp, đặc biệt là khi đơn vị yêu cầu thực hiện workshop là công ty hoặc tổ chức nào đó, người đề xuất thực hiện và người tham gia không phải là một nhóm đối tượng. Điều này có ảnh hưởng rất lớn đến quá trình xây dựng nội dung và hoạt động.
+
+3- Hiện trạng của họ là gì?
+
+“Họ” ở đây bao gồm cả đối tượng cần thay đổi và đối tượng đề xuất cho sự thay đổi. Đôi khi, đối tượng đề xuất cũng cần thay đổi nhưng họ không nhận ra điều đó.
+
+4- Họ muốn đạt được điều gì sau khi giải quyết được vấn đề, hoặc sau khi thay đổi?
+
+Một lưu ý quan trọng khi đối tượng cần thay đổi và đối tượng đề xuất thay đổi khác nhau, là điều hai nhóm này muốn đạt được có thể khác nhau. Ví dụ: đối tượng đề xuất muốn chất lượng công việc tốt hơn, muốn người tham gia có thêm động lực… nhưng đối tượng tham gia có những nhu cầu và mong muốn cho cuộc sống riêng của bản thân.
+
+5- Bạn đã từng thử cách tiếp cận nào cho vấn đề/ mục tiêu rồi? Cái gì đã đạt được / hài lòng? Cái gì chưa hài lòng / chưa hiệu quả?
+
+Đối với cá nhân hoặc công ty, họ có thể đã từng tham gia một chương trình, hoặc tổ chức một chương trình để giải quyết vấn đề đang gặp phải nhưng chưa hiệu quả. Người thiết kế cần tìm hiểu xem điều gì chưa hiệu quả để có thể điều chỉnh và đảm bảo nhu cầu của người tham gia tốt hơn.
+
+6- Những khó khăn họ gặp phải trong quá trình giải quyết vấn đề hoặc thay đổi là gì?
+
+7- Sự thay đổi này cần xảy ra ở đâu?
+
+Đây là nơi người cần thay đổi sử dụng kiến thức, kỹ năng mà họ có được sau khi tham gia workshop.
+
+8- Liệu việc tham gia vào một workshop có phải là cách phù hợp nhất để có được thay đổi đó hay không?
+
+Đôi khi, yếu tố tạo ra vấn đề đang cần giải quyết hoặc thay đổi lại không thể được tiếp cận bằng đào tạo hay workshop, phần lớn là yếu tố liên quan tới động lực hoặc môi trường, chẳng hạn như do văn hóa tổ chức, do yếu tố ngoại cảnh, do chính sách công ty, do khả năng lãnh đạo… Đây chính là những giới hạn mà người thiết kế workshop cần để ý tới trong quá trình thiết kế nội dung.
+
+
+Những cách để có được câu trả lời cho những câu hỏi trên:
+
+Phỏng vấn “nhân vật điển hình”: người thiết kế phỏng vấn một vài người giống với nhân vật điển hình nhất và từ đó có được thông tin để khái quát hóa cho toàn bộ nhóm đối tượng tiềm năng. Đây chỉ là giả thuyết, và cần được kiểm chứng sau những lần thử nghiệm workshop.
+
+Phỏng vấn người yêu cầu thực hiện workshop: có thể là phòng HR của công ty, tổ chức. Thông tin này vẫn cần kiểm chứng thêm bằng cách phỏng vấn những người thực sự sẽ tham gia vào workshop.
+
+Sử dụng bảng câu hỏi khảo sát ẩn danh: cách làm này sẽ cho nhiều dữ liệu khách quan nhất, nhưng cũng dễ tạo ra nhiều thông tin “nhiễu” nếu câu hỏi không đủ rõ ràng, đủ tập trung.
+
+Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc phỏng vấn trực tiếp chuyên gia: đặc biệt để biết chất lượng tối ưu của nhiệm vụ hay công việc người tham gia cần hoàn thành là gì, và điều cản trở họ có thể là gì.
             - Put priority for collected needs
             - Identify major goals for workshop
+                - Sau khi đã nắm rõ nhu cầu của đối tượng tham gia (điều họ cần đạt được, vấn đề họ cần giải quyết, thay đổi họ cần có được), người thiết kế có thể tổng hợp những thông tin đó thành những mục tiêu lớn của workshop.
+                - Các bước để viết ra mục tiêu lớn của workshop như sau.
+                - 1- Liệt kê toàn bộ các nhu cầu của đối tượng tham gia sau khi khảo sát
+                - 2- Gom nhóm các nhu cầu tương đồng với nhau thành những nhóm nhu cầu tổng quát hơn. Ví dụ: “lắng nghe hiệu quả hơn” và “truyền đạt thông tin rõ ràng” có thể được gộp chung vào “giao tiếp hiệu quả và rõ ràng”. Cách thức gom nhóm hoàn toàn do người thiết kế quyết định.
+                - 3- Đặt thứ tự ưu tiên cho những nhu cầu tổng quát đó. Các tiêu chí để sắp xếp thứ tự ưu tiên có thể là: vấn đề nào cấp bách hơn và cần được giải quyết trước, nhu cầu nào cốt lõi hơn và có thể ảnh hưởng đến những nhu cầu còn lại, điều gì có thể đạt được với những hạn chế của môi trường…
+                - 4- Chọn các nhu cầu mà người thực hiện muốn đảm bảo
+                - 5- Viết mục tiêu lớn của workshop thành những câu ngắn gọn, có động từ chỉ hành động, danh từ chỉ nội dung, có thể có tính từ chỉ chất lượng và điều kiện
+                - Mẫu để viết mục tiêu lớn như sau:
+                - Workshop này cung cấp cho [đối tượng nào...] những [công cụ gì, kiến thức gì, kỹ năng gì…] để làm được [những điều gì…]
+                - Ví dụ:
+                - Chương trình này cung cấp cho học viên (những người thực hành đào tạo, phát triển con người, tham vấn, khai vấn, muốn mở rộng kỹ năng trong việc thực hiện workshop của bản thân) những kiến thức về tâm lý học giáo dục và thiết kế workshop, những công cụ tinh gọn và sự hỗ trợ trực tiếp để làm được những điều sau
+                - - Thiết kế một workshop hoàn chỉnh, sẵn sàng để thực hiện
+                - - Thử nghiệm workshop đó cho nhóm đối tượng tiềm năng
+                - - Nhận phản hồi và điều chỉnh workshop theo lời phản hồi đó
         - [[6 steps to identify ideal participant]]
             - Clarify about the workshop
             - Clarify ideal participant 
@@ -24,6 +89,16 @@
                             - Creation
                         - Mostly build to up 1 level in one program
                     - Pain points and pleasure points
+                    - 1- Thông tin chung: Lứa tuổi, giới tính, hoàn cảnh gia đình
+                    - 2- Trình độ học vấn, hiểu biết đã có từ trước về chủ đề của workshop
+                    - 3- Động lực khiến họ tham gia workshop
+                    - 4- Thái độ của họ về việc tham gia vào workshop
+                    - 5- Những quan điểm chủ quan, định kiến, niềm tin họ có thể có về chủ đề
+                    - 6- Những thú vui, sở thích, đam mê của họ
+                    - 7- Những “phần thưởng” có thể khiến họ có động lực
+                    - 8- Đặc điểm về vận động cơ thể, khả năng tư duy
+                    - 9- Những điều cần tránh nhắc tới (liên quan tới văn hóa, tôn giáo)
+                    - 10- Điều kiện về kiến thức, kinh nghiệm họ cần có để có thể tham gia vào workshop
                 - Choose what's priority
                 - Describe participant based on these characteristics
             - Clarify pain points and pleasure points
@@ -238,5 +313,35 @@ Lập kế hoạch áp dụng
     - Tools to split group
         - [https://pickerwheel.com/tools/random-team-generator/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpickerwheel.com%2Ftools%2Frandom-team-generator%2F%3Ffbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)
     - 
-- Coaching landing page
-    - 
+- [[Principle for learning]]
+- Components of a design workshop process
+    - ![Displaying S1 - General view of ID.png](https://drive.google.com/thumbnail?id=1bsUq1KcYiMvM334Qjf91p-Dm2hHnJfej&authuser=0&sz=w1813-h915)
+    - Analysis of target group
+        - analysis the potential participants of workshop
+        - the end goal is a description of "a typical particiant"
+    - Needs Analysis
+        - analyze the needs of the group
+        - the end goal is the needs that workshop need to cover, resolve, or change needed to adapt with participant needs.
+            - formulate the major goals of the workshop
+    - Tasks Analysis
+        - analyze the tasks that participants need to complete
+        - end goal is a description board of what participants need to DO to achieve the major goals
+    - Definition of Objectives
+        - Identify detail goals of the workshop
+        - end goal is outline of modules, lessons, and detail goals that participants need to COMPLETE to achieve major goals
+        - outline of the workshop
+    - Choice of a Teaching Strategy
+        - select a strategy to deliver the whole and parts of the workshop
+        - end goal is a general flow of workshops and general approach/strategy to deliver content
+    - Generation of Learning tasks
+        - build activities help participant to learn and complete goals
+        - end goal is detail activities that will occur during the workshop
+    - Choice of a delivery system
+        - select tools to deliver the contents
+        - end goal is materials, documents, tools to implement the workshop
+    - Design and Development of Learning Environments 
+        - the principle that an effective learning environment need to have
+    - Instructional Modelling
+        - a standard model for participants follow and model
+    - Implementation
+    - Evaluation
