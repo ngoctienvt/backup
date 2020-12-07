@@ -105,6 +105,10 @@
 - Session 2 - Identify goal of a workshop
     - [https://jamboard.google.com/d/12MlhfRKAwpCZAxRca4JiJje67jyszd8JMttRJq16Df0/edit?usp=sharing](https://l.facebook.com/l.php?u=https%3A%2F%2Fjamboard.google.com%2Fd%2F12MlhfRKAwpCZAxRca4JiJje67jyszd8JMttRJq16Df0%2Fedit%3Fusp%3Dsharing%26fbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)
     - Flow of session 2
+- Session 3 - Tasks analysis
+    - Tasks analysis is identify tasks that participant need to do in certain steps
+    - The outcome of 
+    - Tasks they need to do different with tasks we teach
 - Group activities
     - Clarify foggy contents
     - Resolve remaining questions
@@ -162,7 +166,41 @@ Whole-to-Part
                     - How willing you are to develop a system that support you to grow yourself in a natural way?
                     - Do you prefer to develop yourself in a rounded or focus way?
                 - My potential participant needs
-                    - 
+- Group exercises
+    - Outline chương trình 60'
+        - 5' đầu - dẫn nhập
+        - 5' cuối - thu hoạch
+        - Nội dung giữa còn 50'
+            - 5' chọn 3 chủ đề để đào sâu
+            -  45' để giải quyết 3 chủ đề
+        - Dẫn nhập
+            - Đâu là chủ đề bạn quan tâm và muốn đào sâu hơn?
+                - Voting để chọn ra 3 chủ đề đc quan tâm nhất
+            - Trong chủ đề này, đâu là các yếu tố bạn muốn làm rõ?
+                - Giới hạn ở 4 yếu tố để chia làm 3 nhóm thảo luận
+                - Thảo luận trong vòng 10', thu hoạch ngắn trong 5'
+    - 1. Xác định 1 trong 3 mục đích.
+        - - Làm rõ những nội dung mà nhóm hoặc mọi người còn mơ hồ
+- Xử lý các câu hỏi chưa được giải quyết trong chương trình
+- Đào sâu những nội dung mà nhóm quan tâm
+    - 2. Làm rõ những điều cần giải quyết trong mục đích đó
+        - Ví dụ: Đào sâu những nội dung mà nhóm quan tâm
+        - Làm rõ khái niệm
+            - Đào sâu ở đây nghĩa là có được điều gì?
+        - Làm rõ các bước cần xử lý
+            - Xác định được chủ đề muốn đào sâu
+            - Xác định được phần muốn đào sâu trong chủ đề đó
+            - Tiến hành đào sâu
+            - Thu hoạch
+    - 3. Thiết kế chương trình
+        - Cấu trúc chương trình
+            - Dẫn nhập 5'
+            - Thiết kế chương trình để xác định được 3 chủ đề và phần muốn đào sâu trong chủ đề đó. 5'
+            - Thiết kế chương trình để xử lý từng chủ đề (15' mỗi chủ đề với 10' làm việc và 5' thu hoạch) (45')
+            - Thu hoạch cuối chương trình 5'
+        - Lựa chọn hoạt động để thực hiện
+        - Lên chi tiết thực hiện cho từng hoạt động
+    - 4. Tạo sự liên kết giữa chương trình và tối giản các chi tiết không cần thiết.
 
 # Backlinks
 ## [🎯Focus of the week](<🎯Focus of the week.md>)

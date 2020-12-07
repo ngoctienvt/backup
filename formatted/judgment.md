@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 7th, 2020](<December 7th, 2020.md>)
+- I felt uncomfortable and judge my teammates as a burden when they don't active as I expect. I felt that it's better to do alone instead of having to chase them. But actually, I realize that I need to be my best part first. When I'm doing my part, it will help them to engage the process easier. [judgment](<judgment.md>)
+
 ## [November 5th, 2020](<November 5th, 2020.md>)
 - I noticed that I have an uncomfortable feeling when I hear people just want to talk. I have a [judgment](<judgment.md>)
 

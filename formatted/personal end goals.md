@@ -11,6 +11,9 @@
 ## [December 6th, 2020](<December 6th, 2020.md>)
 - I feel that's the [personal end goals](<personal end goals.md>)
 
+## [December 7th, 2020](<December 7th, 2020.md>)
+- I also notice that I will need to merge my [personal end goals](<personal end goals.md>)
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - Now today I will work on what will be my process to achieve my [personal end goals](<personal end goals.md>)
 

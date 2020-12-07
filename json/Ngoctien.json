@@ -59226,6 +59226,40 @@
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607347156859,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607347187242,
+            "string": "Tasks analysis is identify tasks that participant need to do in certain steps",
+            "uid": "vstPlN76H"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607347187239,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607347204611,
+            "string": "The outcome of this step is ",
+            "uid": "x1Yjw_Rxt"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607341763791,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607347151996,
+            "string": "Tasks they need to do different with tasks we teach",
+            "uid": "C6fDXD2Dt"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607341738838,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607341763794,
+        "string": "Session 3 - Tasks analysis",
+        "uid": "8vmdJ0KIK"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607083784161,
             "edit-email": "ngoctienvt@gmail.com",
             "edit-time": 1607083803531,
@@ -59671,16 +59705,6 @@
                         "uid": "6OiL3ue8z"
                       },
                       {
-                        "children": [
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1607173401402,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607173401402,
-                            "string": "",
-                            "uid": "1QNRQhsZb"
-                          }
-                        ],
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1607173362012,
                         "edit-email": "ngoctienvt@gmail.com",
@@ -59719,6 +59743,294 @@
         "edit-time": 1607135122965,
         "string": "Homework",
         "uid": "6zQ3fuN-l"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607311847581,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360684,
+                "string": "5' \u0111\u1ea7u - d\u1eabn nh\u1eadp",
+                "uid": "ZgBglDjeB"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607311851980,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360684,
+                "string": "5' cu\u1ed1i - thu ho\u1ea1ch",
+                "uid": "x1gtJIJXF"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607311875159,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": "5' ch\u1ecdn 3 ch\u1ee7 \u0111\u1ec1 \u0111\u1ec3 \u0111\u00e0o s\u00e2u",
+                    "uid": "SuCI9qq2J"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607311904285,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": " 45' \u0111\u1ec3 gi\u1ea3i quy\u1ebft 3 ch\u1ee7 \u0111\u1ec1",
+                    "uid": "Rd1F9rADO"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607311857979,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360684,
+                "string": "N\u1ed9i dung gi\u1eefa c\u00f2n 50'",
+                "uid": "MxwAJfSvr"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607312037437,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607341360684,
+                        "string": "Voting \u0111\u1ec3 ch\u1ecdn ra 3 ch\u1ee7 \u0111\u1ec1 \u0111c quan t\u00e2m nh\u1ea5t",
+                        "uid": "YYjSKHd_E"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607311923021,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": "\u0110\u00e2u l\u00e0 ch\u1ee7 \u0111\u1ec1 b\u1ea1n quan t\u00e2m v\u00e0 mu\u1ed1n \u0111\u00e0o s\u00e2u h\u01a1n?",
+                    "uid": "LuUJ_4IG5"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607312111563,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607341360685,
+                        "string": "Gi\u1edbi h\u1ea1n \u1edf 4 y\u1ebfu t\u1ed1 \u0111\u1ec3 chia l\u00e0m 3 nh\u00f3m th\u1ea3o lu\u1eadn",
+                        "uid": "Tg9RzhwQO"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607312150708,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607341360685,
+                        "string": "Th\u1ea3o lu\u1eadn trong v\u00f2ng 10', thu ho\u1ea1ch ng\u1eafn trong 5'",
+                        "uid": "XHyW0t-eh"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607312046751,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360685,
+                    "string": "Trong ch\u1ee7 \u0111\u1ec1 n\u00e0y, \u0111\u00e2u l\u00e0 c\u00e1c y\u1ebfu t\u1ed1 b\u1ea1n mu\u1ed1n l\u00e0m r\u00f5?",
+                    "uid": "T7t3RC0RR"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607311920335,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360685,
+                "string": "D\u1eabn nh\u1eadp",
+                "uid": "ijjGlDWYb"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607311828798,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607341360685,
+            "string": "Outline ch\u01b0\u01a1ng tr\u00ecnh 60'",
+            "uid": "5zY-j7EEX"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607313394716,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360683,
+                "string": "- L\u00e0m r\u00f5 nh\u1eefng n\u1ed9i dung m\u00e0 nh\u00f3m ho\u1eb7c m\u1ecdi ng\u01b0\u1eddi c\u00f2n m\u01a1 h\u1ed3\n- X\u1eed l\u00fd c\u00e1c c\u00e2u h\u1ecfi ch\u01b0a \u0111\u01b0\u1ee3c gi\u1ea3i quy\u1ebft trong ch\u01b0\u01a1ng tr\u00ecnh\n- \u0110\u00e0o s\u00e2u nh\u1eefng n\u1ed9i dung m\u00e0 nh\u00f3m quan t\u00e2m",
+                "uid": "SW98zlvMl"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607313371453,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607341360683,
+            "string": "1. X\u00e1c \u0111\u1ecbnh 1 trong 3 m\u1ee5c \u0111\u00edch.",
+            "uid": "Wq5WhxAfb"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607313443448,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360683,
+                "string": "V\u00ed d\u1ee5: \u0110\u00e0o s\u00e2u nh\u1eefng n\u1ed9i dung m\u00e0 nh\u00f3m quan t\u00e2m",
+                "uid": "TrzRSAMtC"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313450542,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360683,
+                    "string": "\u0110\u00e0o s\u00e2u \u1edf \u0111\u00e2y ngh\u0129a l\u00e0 c\u00f3 \u0111\u01b0\u1ee3c \u0111i\u1ec1u g\u00ec?",
+                    "uid": "VZY8WeBeV"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607313748348,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360683,
+                "string": "L\u00e0m r\u00f5 kh\u00e1i ni\u1ec7m",
+                "uid": "DHWiSLDvs"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313459822,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360683,
+                    "string": "X\u00e1c \u0111\u1ecbnh \u0111\u01b0\u1ee3c ch\u1ee7 \u0111\u1ec1 mu\u1ed1n \u0111\u00e0o s\u00e2u",
+                    "uid": "P4EmPm1dY"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313489461,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360683,
+                    "string": "X\u00e1c \u0111\u1ecbnh \u0111\u01b0\u1ee3c ph\u1ea7n mu\u1ed1n \u0111\u00e0o s\u00e2u trong ch\u1ee7 \u0111\u1ec1 \u0111\u00f3",
+                    "uid": "d8r78Sky9"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313535519,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360683,
+                    "string": "Ti\u1ebfn h\u00e0nh \u0111\u00e0o s\u00e2u",
+                    "uid": "G4ZagHulk"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313538277,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": "Thu ho\u1ea1ch",
+                    "uid": "6hZpg5Hso"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607313761882,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360684,
+                "string": "L\u00e0m r\u00f5 c\u00e1c b\u01b0\u1edbc c\u1ea7n x\u1eed l\u00fd",
+                "uid": "os5iYd5mz"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607313396550,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607341360684,
+            "string": "2. L\u00e0m r\u00f5 nh\u1eefng \u0111i\u1ec1u c\u1ea7n gi\u1ea3i quy\u1ebft trong m\u1ee5c \u0111\u00edch \u0111\u00f3",
+            "uid": "jWPHYI8TJ"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313642473,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": "D\u1eabn nh\u1eadp 5'",
+                    "uid": "qqqzac0yK"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313551926,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": "Thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 x\u00e1c \u0111\u1ecbnh \u0111\u01b0\u1ee3c 3 ch\u1ee7 \u0111\u1ec1 v\u00e0 ph\u1ea7n mu\u1ed1n \u0111\u00e0o s\u00e2u trong ch\u1ee7 \u0111\u1ec1 \u0111\u00f3. 5'",
+                    "uid": "qhupLHQb_"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313669914,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": "Thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 x\u1eed l\u00fd t\u1eebng ch\u1ee7 \u0111\u1ec1 (15' m\u1ed7i ch\u1ee7 \u0111\u1ec1 v\u1edbi 10' l\u00e0m vi\u1ec7c v\u00e0 5' thu ho\u1ea1ch) (45')",
+                    "uid": "x2fo5RHmw"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607313694513,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607341360684,
+                    "string": "Thu ho\u1ea1ch cu\u1ed1i ch\u01b0\u01a1ng tr\u00ecnh 5'",
+                    "uid": "ADgIza4p_"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607314034427,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360684,
+                "string": "C\u1ea5u tr\u00fac ch\u01b0\u01a1ng tr\u00ecnh",
+                "uid": "RyYnKGMm8"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607314046491,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360684,
+                "string": "L\u1ef1a ch\u1ecdn ho\u1ea1t \u0111\u1ed9ng \u0111\u1ec3 th\u1ef1c hi\u1ec7n",
+                "uid": "UwqLwStlY"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607314082457,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607341360684,
+                "string": "L\u00ean chi ti\u1ebft th\u1ef1c hi\u1ec7n cho t\u1eebng ho\u1ea1t \u0111\u1ed9ng",
+                "uid": "X8zaAXF_j"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607313546830,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607341360684,
+            "string": "3. Thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh",
+            "uid": "r2GhMdMh-"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607313798383,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607341360684,
+            "string": "4. T\u1ea1o s\u1ef1 li\u00ean k\u1ebft gi\u1eefa ch\u01b0\u01a1ng tr\u00ecnh v\u00e0 t\u1ed1i gi\u1ea3n c\u00e1c chi ti\u1ebft kh\u00f4ng c\u1ea7n thi\u1ebft.",
+            "uid": "VAyk7rh8H"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607173401402,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607341360131,
+        "string": "Group exercises",
+        "uid": "1QNRQhsZb"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -64045,359 +64357,41 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607312648062,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607312719560,
-        "string": "I felt uncomfortable and judge my teammates as a burden when they don't active as I expect. I felt that it's better to do alone instead of having to chase them. But actually, I realize that I need to be my best part first. When I'm doing my part, it will help them to engage the process easier.",
+        "edit-time": 1607341386815,
+        "string": "I felt uncomfortable and judge my teammates as a burden when they don't active as I expect. I felt that it's better to do alone instead of having to chase them. But actually, I realize that I need to be my best part first. When I'm doing my part, it will help them to engage the process easier. [[judgment]]",
         "uid": "cNx98515y"
       },
       {
-        "children": [
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313249224,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313280446,
-                "string": "\u0110\u00e0o s\u00e2u \u1edf \u0111\u00e2y l\u00e0 l\u00e0m r\u00f5 v\u00e0 gi\u1ea3i quy\u1ebft nh\u1eefng \u0111i\u1ec1u c\u00f2n ",
-                "uid": "ARemdDacS"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607312731358,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607312745358,
-                    "string": "c\u00e1c n\u1ed9i dung m\u00e0 nh\u00f3m quan t\u00e2m",
-                    "uid": "85GdUxrwN"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607312746975,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607312757848,
-                    "string": "\u0111i\u1ec1u m\u00e0 c\u00e1c nh\u00f3m quan t\u00e2m v\u00e0 mu\u1ed1n \u0111\u00e0o s\u00e2u trong n\u1ed9i dung \u0111\u00f3 l\u00e0 g\u00ec?",
-                    "uid": "G6DBMTGg-"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607312745354,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313246917,
-                "string": "m\u00ecnh c\u1ea7n x\u00e1c \u0111\u1ecbnh",
-                "uid": "QKZCIeqpe"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607312802598,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607312802598,
-                    "string": "",
-                    "uid": "7L8sU5Rtt"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607312757846,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607312786608,
-                "string": "th\u1ee9 hai l\u00e0 sau khi \u0111\u00e3 r\u00f5 r\u00e0ng v\u1ec1 \u0111i\u1ec1u mu\u1ed1n quan t\u00e2m r\u1ed3i, v\u1eady th\u00ec s\u1ebd \u0111\u00e0o s\u00e2u nh\u01b0 th\u1ebf n\u00e0o? ",
-                "uid": "-IIvmTkR3"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607312586006,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607312731361,
-            "string": "\u0110\u1ec3 \u0111\u00e0o s\u00e2u \u0111\u01b0\u1ee3c n\u1ed9i dung m\u00e0 nh\u00f3m quan t\u00e2m,",
-            "uid": "8WEfR8J9I"
-          }
-        ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607311827765,
+        "create-time": 1607341386809,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607311828805,
-        "string": "- \u0110\u00e0o s\u00e2u nh\u1eefng n\u1ed9i dung m\u00e0 nh\u00f3m quan t\u00e2m",
-        "uid": "_5dKs-GZq"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607311847581,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607311856315,
-            "string": "5' \u0111\u1ea7u - d\u1eabn nh\u1eadp",
-            "uid": "ZgBglDjeB"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607311851980,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607311857984,
-            "string": "5' cu\u1ed1i - thu ho\u1ea1ch",
-            "uid": "x1gtJIJXF"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607311875159,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607311913877,
-                "string": "5' ch\u1ecdn 3 ch\u1ee7 \u0111\u1ec1 \u0111\u1ec3 \u0111\u00e0o s\u00e2u",
-                "uid": "SuCI9qq2J"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607311904285,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607311920339,
-                "string": " 45' \u0111\u1ec3 gi\u1ea3i quy\u1ebft 3 ch\u1ee7 \u0111\u1ec1",
-                "uid": "Rd1F9rADO"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607311857979,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607311875162,
-            "string": "N\u1ed9i dung gi\u1eefa c\u00f2n 50'",
-            "uid": "MxwAJfSvr"
-          },
-          {
-            "children": [
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607312037437,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607312046754,
-                    "string": "Voting \u0111\u1ec3 ch\u1ecdn ra 3 ch\u1ee7 \u0111\u1ec1 \u0111c quan t\u00e2m nh\u1ea5t",
-                    "uid": "YYjSKHd_E"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607311923021,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607312037442,
-                "string": "\u0110\u00e2u l\u00e0 ch\u1ee7 \u0111\u1ec1 b\u1ea1n quan t\u00e2m v\u00e0 mu\u1ed1n \u0111\u00e0o s\u00e2u h\u01a1n?",
-                "uid": "LuUJ_4IG5"
-              },
-              {
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607312111563,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607312148918,
-                    "string": "Gi\u1edbi h\u1ea1n \u1edf 4 y\u1ebfu t\u1ed1 \u0111\u1ec3 chia l\u00e0m 3 nh\u00f3m th\u1ea3o lu\u1eadn",
-                    "uid": "Tg9RzhwQO"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607312150708,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607312162744,
-                    "string": "Th\u1ea3o lu\u1eadn trong v\u00f2ng 10', thu ho\u1ea1ch ng\u1eafn trong 5'",
-                    "uid": "XHyW0t-eh"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607312046751,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607312111565,
-                "string": "Trong ch\u1ee7 \u0111\u1ec1 n\u00e0y, \u0111\u00e2u l\u00e0 c\u00e1c y\u1ebfu t\u1ed1 b\u1ea1n mu\u1ed1n l\u00e0m r\u00f5?",
-                "uid": "T7t3RC0RR"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607311920335,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607311923025,
-            "string": "D\u1eabn nh\u1eadp",
-            "uid": "ijjGlDWYb"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607311828798,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607311847584,
-        "string": "Outline ch\u01b0\u01a1ng tr\u00ecnh 60'",
-        "uid": "5zY-j7EEX"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607313394716,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607313395245,
-            "string": "- L\u00e0m r\u00f5 nh\u1eefng n\u1ed9i dung m\u00e0 nh\u00f3m ho\u1eb7c m\u1ecdi ng\u01b0\u1eddi c\u00f2n m\u01a1 h\u1ed3\n- X\u1eed l\u00fd c\u00e1c c\u00e2u h\u1ecfi ch\u01b0a \u0111\u01b0\u1ee3c gi\u1ea3i quy\u1ebft trong ch\u01b0\u01a1ng tr\u00ecnh\n- \u0110\u00e0o s\u00e2u nh\u1eefng n\u1ed9i dung m\u00e0 nh\u00f3m quan t\u00e2m",
-            "uid": "SW98zlvMl"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607313371453,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607313436797,
-        "string": "1. X\u00e1c \u0111\u1ecbnh 1 trong 3 m\u1ee5c \u0111\u00edch.",
-        "uid": "Wq5WhxAfb"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607313443448,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607313450545,
-            "string": "V\u00ed d\u1ee5: \u0110\u00e0o s\u00e2u nh\u1eefng n\u1ed9i dung m\u00e0 nh\u00f3m quan t\u00e2m",
-            "uid": "TrzRSAMtC"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313450542,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313459826,
-                "string": "\u0110\u00e0o s\u00e2u \u1edf \u0111\u00e2y ngh\u0129a l\u00e0 c\u00f3 \u0111\u01b0\u1ee3c \u0111i\u1ec1u g\u00ec?",
-                "uid": "VZY8WeBeV"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607313748348,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607313760162,
-            "string": "L\u00e0m r\u00f5 kh\u00e1i ni\u1ec7m",
-            "uid": "DHWiSLDvs"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313459822,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313779087,
-                "string": "X\u00e1c \u0111\u1ecbnh \u0111\u01b0\u1ee3c ch\u1ee7 \u0111\u1ec1 mu\u1ed1n \u0111\u00e0o s\u00e2u",
-                "uid": "P4EmPm1dY"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313489461,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313782019,
-                "string": "X\u00e1c \u0111\u1ecbnh \u0111\u01b0\u1ee3c ph\u1ea7n mu\u1ed1n \u0111\u00e0o s\u00e2u trong ch\u1ee7 \u0111\u1ec1 \u0111\u00f3",
-                "uid": "d8r78Sky9"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313535519,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313538282,
-                "string": "Ti\u1ebfn h\u00e0nh \u0111\u00e0o s\u00e2u",
-                "uid": "G4ZagHulk"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313538277,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313540152,
-                "string": "Thu ho\u1ea1ch",
-                "uid": "6hZpg5Hso"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607313761882,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607313769359,
-            "string": "L\u00e0m r\u00f5 c\u00e1c b\u01b0\u1edbc c\u1ea7n x\u1eed l\u00fd",
-            "uid": "os5iYd5mz"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607313396550,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607313733319,
-        "string": "2. L\u00e0m r\u00f5 nh\u1eefng \u0111i\u1ec1u c\u1ea7n gi\u1ea3i quy\u1ebft trong m\u1ee5c \u0111\u00edch \u0111\u00f3",
-        "uid": "jWPHYI8TJ"
-      },
-      {
-        "children": [
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313642473,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313647055,
-                "string": "D\u1eabn nh\u1eadp 5'",
-                "uid": "qqqzac0yK"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313551926,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313669922,
-                "string": "Thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 x\u00e1c \u0111\u1ecbnh \u0111\u01b0\u1ee3c 3 ch\u1ee7 \u0111\u1ec1 v\u00e0 ph\u1ea7n mu\u1ed1n \u0111\u00e0o s\u00e2u trong ch\u1ee7 \u0111\u1ec1 \u0111\u00f3. 5'",
-                "uid": "qhupLHQb_"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313669914,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313712674,
-                "string": "Thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh \u0111\u1ec3 x\u1eed l\u00fd t\u1eebng ch\u1ee7 \u0111\u1ec1 (15' m\u1ed7i ch\u1ee7 \u0111\u1ec1 v\u1edbi 10' l\u00e0m vi\u1ec7c v\u00e0 5' thu ho\u1ea1ch) (45')",
-                "uid": "x2fo5RHmw"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607313694513,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607313709564,
-                "string": "Thu ho\u1ea1ch cu\u1ed1i ch\u01b0\u01a1ng tr\u00ecnh 5'",
-                "uid": "ADgIza4p_"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607314034427,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607314041104,
-            "string": "C\u1ea5u tr\u00fac ch\u01b0\u01a1ng tr\u00ecnh",
-            "uid": "RyYnKGMm8"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607314046491,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607314077677,
-            "string": "L\u1ef1a ch\u1ecdn ho\u1ea1t \u0111\u1ed9ng \u0111\u1ec3 th\u1ef1c hi\u1ec7n",
-            "uid": "UwqLwStlY"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607314082457,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607314093614,
-            "string": "L\u00ean chi ti\u1ebft th\u1ef1c hi\u1ec7n cho t\u1eebng ho\u1ea1t \u0111\u1ed9ng",
-            "uid": "X8zaAXF_j"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607313546830,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607313551929,
-        "string": "3. Thi\u1ebft k\u1ebf ch\u01b0\u01a1ng tr\u00ecnh",
-        "uid": "r2GhMdMh-"
+        "edit-time": 1607341459186,
+        "string": "I felt that I'm becoming freer and grow much faster recently. I don't just good as processing my internal things, I'm also becoming to learn new things much faster based on my PKDS system and my knowledge about expertise. [[outgrowth]]",
+        "uid": "vunNmwCAy"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607313798383,
+        "create-time": 1607341379354,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607313838063,
-        "string": "4. T\u1ea1o s\u1ef1 li\u00ean k\u1ebft gi\u1eefa ch\u01b0\u01a1ng tr\u00ecnh v\u00e0 t\u1ed1i gi\u1ea3n c\u00e1c chi ti\u1ebft kh\u00f4ng c\u1ea7n thi\u1ebft.",
-        "uid": "VAyk7rh8H"
+        "edit-time": 1607341549672,
+        "string": "Today I taught [[@D\u01b0\u01a1ng Th\u1ecb Huy\u1ec1n]] about few things related to end goals and expertise. It's good that from new way of interacting, she is much more engage and create much more results rather than I'm just simply saying to her the requirements or what she should do, and let she figure it out by herself.",
+        "uid": "izu4q7a_1"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607341549669,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607341634225,
+        "string": "I also notice that I will need to merge my [[personal end goals]] with what I want to do and align them properly, so that's my focus will be sharp and clear. [[convergence focus]]",
+        "uid": "zqi_gvDp1"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607341608733,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607341608733,
+        "string": "",
+        "uid": "89yaGgKjW"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

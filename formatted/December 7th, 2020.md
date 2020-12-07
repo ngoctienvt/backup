@@ -1,45 +1,7 @@
 - Last night, I dreamt about dating with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>), I will learn to release these needs so that I could be completely neutral about her instead of having personal desire.
     - If I have feeling, it is unattachment feeling that want to raise her up.
-- I felt uncomfortable and judge my teammates as a burden when they don't active as I expect. I felt that it's better to do alone instead of having to chase them. But actually, I realize that I need to be my best part first. When I'm doing my part, it will help them to engage the process easier.
-- - Đào sâu những nội dung mà nhóm quan tâm
-    - Để đào sâu được nội dung mà nhóm quan tâm,
-        - Đào sâu ở đây là làm rõ và giải quyết những điều còn 
-        - mình cần xác định
-            - các nội dung mà nhóm quan tâm
-            - điều mà các nhóm quan tâm và muốn đào sâu trong nội dung đó là gì?
-        - thứ hai là sau khi đã rõ ràng về điều muốn quan tâm rồi, vậy thì sẽ đào sâu như thế nào? 
-            - 
-- Outline chương trình 60'
-    - 5' đầu - dẫn nhập
-    - 5' cuối - thu hoạch
-    - Nội dung giữa còn 50'
-        - 5' chọn 3 chủ đề để đào sâu
-        -  45' để giải quyết 3 chủ đề
-    - Dẫn nhập
-        - Đâu là chủ đề bạn quan tâm và muốn đào sâu hơn?
-            - Voting để chọn ra 3 chủ đề đc quan tâm nhất
-        - Trong chủ đề này, đâu là các yếu tố bạn muốn làm rõ?
-            - Giới hạn ở 4 yếu tố để chia làm 3 nhóm thảo luận
-            - Thảo luận trong vòng 10', thu hoạch ngắn trong 5'
-- 1. Xác định 1 trong 3 mục đích.
-    - - Làm rõ những nội dung mà nhóm hoặc mọi người còn mơ hồ
-- Xử lý các câu hỏi chưa được giải quyết trong chương trình
-- Đào sâu những nội dung mà nhóm quan tâm
-- 2. Làm rõ những điều cần giải quyết trong mục đích đó
-    - Ví dụ: Đào sâu những nội dung mà nhóm quan tâm
-    - Làm rõ khái niệm
-        - Đào sâu ở đây nghĩa là có được điều gì?
-    - Làm rõ các bước cần xử lý
-        - Xác định được chủ đề muốn đào sâu
-        - Xác định được phần muốn đào sâu trong chủ đề đó
-        - Tiến hành đào sâu
-        - Thu hoạch
-- 3. Thiết kế chương trình
-    - Cấu trúc chương trình
-        - Dẫn nhập 5'
-        - Thiết kế chương trình để xác định được 3 chủ đề và phần muốn đào sâu trong chủ đề đó. 5'
-        - Thiết kế chương trình để xử lý từng chủ đề (15' mỗi chủ đề với 10' làm việc và 5' thu hoạch) (45')
-        - Thu hoạch cuối chương trình 5'
-    - Lựa chọn hoạt động để thực hiện
-    - Lên chi tiết thực hiện cho từng hoạt động
-- 4. Tạo sự liên kết giữa chương trình và tối giản các chi tiết không cần thiết.
+- I felt uncomfortable and judge my teammates as a burden when they don't active as I expect. I felt that it's better to do alone instead of having to chase them. But actually, I realize that I need to be my best part first. When I'm doing my part, it will help them to engage the process easier. [judgment](<judgment.md>)
+- I felt that I'm becoming freer and grow much faster recently. I don't just good as processing my internal things, I'm also becoming to learn new things much faster based on my PKDS system and my knowledge about expertise. [outgrowth](<outgrowth.md>)
+- Today I taught [@Dương Thị Huyền](<@Dương Thị Huyền.md>) about few things related to end goals and expertise. It's good that from new way of interacting, she is much more engage and create much more results rather than I'm just simply saying to her the requirements or what she should do, and let she figure it out by herself.
+- I also notice that I will need to merge my [personal end goals](<personal end goals.md>) with what I want to do and align them properly, so that's my focus will be sharp and clear. [convergence focus](<convergence focus.md>)
+- 
