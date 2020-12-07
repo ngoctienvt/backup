@@ -1,0 +1,8 @@
+- Recognizing "aspects" of a situation
+    - Start to develop contextual awareness
+    - Recognize what's different one situation to another
+        - Combine situational information with non-situational information to figure out what to do
+    - Don't have a full "big picture" view yet
+- The challenge
+    - Not clearly sure what information is relevant and don't know how to filter inputs
+    - Through exposure and practices, they will start to learn what's important and what isn't

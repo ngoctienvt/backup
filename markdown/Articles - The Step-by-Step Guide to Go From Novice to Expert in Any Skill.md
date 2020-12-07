@@ -1,116 +1,114 @@
 - Link: https://www.nateliason.com/blog/become-expert-dreyfus
-- [The Step-by-Step Guide to Go From Novice to Expert in Any Skill - Nat Eliason](https://www.nateliason.com/blog/become-expert-dreyfus) #[[Roam-Highlights]]
-    - <h1>The Step-by-Step Guide to Go From Novice to Expert in Any Skill</h1>
-    - <h2>The Novice Stage</h2>
-        - The novice stage is the first level of skill acquisition, where you are just getting started in the skill and have little familiarity with it.
-        - **The defining element of the novice is a reliance on recipes**.
+- [[The Novice Stage]]
+    - The novice stage is the first level of skill acquisition, where you are just getting started in the skill and have little familiarity with it.
+    - **The defining element of the novice is a reliance on recipes**. [[reliance on recipes]]
         - A student graduating from college who only ever focused on their grades and extracurriculars __might __be a novice, but might not even be at that stage.
-        - The Dreyfus brothers break each level down by four criteria which help us to understand each level better. For the novice, here’s how they rank:
-    - <h3>Context: None</h3>
-        - Novices have no context for why they’re doing anything.
-        - ou can tell them to add more sugar or salt to a recipe, but they don’t know what that is going to do or why that’s the right decision in the situation.
-    - <h3>Perspective: None</h3>
-        - Novices also don’t know what variables in the skill are worth focusing on and which ones aren’t.
-        - They want to look at everything at once. They can easily get overwhelmed by [too much information](https://www.nateliason.com/infomania/), which causes them to freak out and get exasperated and wonder how anyone can possibly be good at what they’re doing.
-    - <h3>Decision Making: Analytical</h3>
-        - Since the novice doesn’t have an intuitive sense for the skill, their decision making is analytical. They look at the data they have, plug it into the recipe, and go with whatever the recipe spits out.
-    - <h3>Engagement: Detached</h3>
-        - Since the novice is only following a recipe, they’re completely detached from the process. They don’t have an emotional or intuitive investment in the goal setting, deciding what to do, or the outcome. When something goes wrong they will blame the process, when something goes right they will say it’s a good process. They have no personal involvement in what’s happening.
-    - <h3>The Challenge</h3>
+    - The Dreyfus brothers break each level down by four criteria which help us to understand each level better. For the novice, here’s how they rank: [[Expertise criteria]]
+        - Context: None
+            - Novices have no context for why they’re doing anything.
+                - You can tell them to add more sugar or salt to a recipe, but they don’t know what that is going to do or why that’s the right decision in the situation.
+        - Perspective: None
+            - Novices also don’t know what variables in the skill are worth focusing on and which ones aren’t.
+            - They want to look at everything at once. They can easily get overwhelmed by [too much information](https://www.nateliason.com/infomania/), which causes them to freak out and get exasperated and wonder how anyone can possibly be good at what they’re doing.
+        - Decision Making: Analytical
+            - Since the novice doesn’t have an intuitive sense for the skill, their decision making is analytical. They look at the data they have, plug it into the recipe, and go with whatever the recipe spits out.
+        - Engagement: Detached
+            - Since the novice is only following a recipe, they’re completely detached from the process. They don’t have an emotional or intuitive investment in the goal setting, deciding what to do, or the outcome. When something goes wrong they will blame the process, when something goes right they will say it’s a good process. They have no personal involvement in what’s happening.
+    - The Challenge
         - When you can only follow recipes, you get derailed very, very easily. **Your reaction to errors is to blame the recipe, **and without [a good system for troubleshooting on your own](https://www.nateliason.com/self-education/), you can get stuck.
-    - <h2>The Advanced Beginner Stage</h2>
-        - The novice becomes an advanced beginner when they can start to troubleshoot their problems and work on their own. You’re still primarily using recipes, but you have more contextual awareness of when to use which recipes.
-        - **The defining characteristic of the Advanced Beginner is recognizing “aspects” of a situation**.
+- [[The Advanced Beginner Stage]]
+    - The novice becomes an advanced beginner when they can start to troubleshoot their problems and work on their own. You’re still primarily using recipes, but you have more contextual awareness of when to use which recipes.
+    - **The defining characteristic of the Advanced Beginner is recognizing “aspects” of a situation**.
         - You can see what’s different about one situation and [move through the layers of abstraction](https://www.nateliason.com/learning-through-abstraction/) and use that information to apply different recipes and guidelines to solve the problem.
         - You don’t have a full “big picture” view of the skill yet, but you’re starting to develop more __context__ and are not completely lost when something goes wrong. **Instead of blaming the recipe when you hit an error, you know to look for another recipe**.
-        - For the four criteria, the only one that has changed is Context.
-    - <h3>Context: None -> Situational</h3>
-        - While the Novice has no context of what recipes to use when the Advanced Beginner has a better idea of what recipes are relevant and can start to use maxims in their decision making.
-        - They can combine situational information (the sound of an engine, the road conditions) with non-situational information (the speedometer) to figure out what to do.
-    - <h3>The Challenge</h3>
+    - For the four criteria, the only one that has changed is Context.
+        - Context: None -> Situational
+            - While the Novice has no context of what recipes to use when the Advanced Beginner has a better idea of what recipes are relevant and can start to use maxims in their decision making.
+            - They can combine situational information (the sound of an engine, the road conditions) with non-situational information (the speedometer) to figure out what to do.
+    - The Challenge
         - While the Advanced Beginner can start to understand the context of the situation and make decisions based off of it, they still aren’t sure what information is relevant and don’t know how to filter their inputs.
         - But eventually, with more exposure to the skill and more practice, the Advanced Beginner can start to understand what information is important and what isn’t and move to the Competent stage.
-    - <h2>The Competent Stage</h2>
-        - As you progress through the Advanced Beginner stage, you add more and more recipes and maxims to your experience with the skill that help you perform better and better. Eventually, you hit the point where it’s completely overwhelming and you have to develop rules about what recipes to apply when.
-        - **The development of these rules is the key characteristic of the Competent.** You have a better sense of what is relevant and what isn’t, and you can draw on a wide collection of recipes based on those situational rules.
-        - Focus primarily on shutter speed when it’s a fast moving subject.”“The unbalanced pawn structure in this game is important because [other variables].”“To slow down off the highway, focus on speed, not changing gears.”“For this kind of article, I should apply SEO maxims like X, Y, Z”
-        - The second characteristic of the Competent is that since you’re picking your rules and using those rules to apply different recipes, you become emotionally involved in the outcome.
-        - While the Novice and Advanced Beginner are largely detached from the outcomes, the Competent can experience joy at making the right choice of recipes and remorse at choosing the wrong one. The locus of blame shifts from the recipe to yourself, since you are now involved in choosing what to do.
-        - That characterizes the two main shifts required to become competent:
-    - <h3>Perspective: None -> Chosen</h3>
-        - You’re starting to recognize what recipes and maxims apply in different situations and so you __choose__ which ones to apply based on the context. You can look at a situation and decide which recipes to apply, instead of trying to apply them willy-nilly or based on someone else’s recommendation.
-    - <h3>Engagement: None -> Engaged Outcome</h3>
-        - You still aren’t personally engaged in the deciding what your goal is or how to do it since you’re following rules, but you are engaged in the outcome since you decided which recipes to apply to the situation.
-    - <h3>The Challenge</h3>
-        - you’re emotionally involved in the outcomes, you can easily burn yourself out and exhaust your interest in the skill by getting things wrong.
-        - **The key here is to not beat yourself up when things go wrong, but rather to use it as data**.
-        - if you can use it as data to improve your decision-making process, then you will start to move towards proficiency.
-    - <h2>The Proficient Stage</h2>
-        - As you react emotionally to your decisions at the level of Competence, your positive and negative responses to decisions will reinforce the correct ones and discourage the incorrect ones and you will develop an increasingly intuitive sense of what recipes and maxims to apply to the situation.
-        - **The defining characteristic of the Proficient is an intuitive sense of what the goal should be given the situation**.
-        - but not necessarily exactly how to do it.
-        - They can feel in the seat of their pants that they are going too fast, but have to decide how best to slow down.They can recognize a vast repertoire of chess positions but have to decide what to do in them.
-        - There are two main shifts of the four criteria when you go from Competent to Proficient:
-    - <h3>Perspective: Chosen -> Intuitive</h3>
-        - Whereas the Competent performer __chooses__ what criteria to focus on and what recipes and maxims to use based on that, the Proficient performer __knows__ what criteria to focus on.
-    - <h3>Engagement: Involved Outcome -> Involved Goal and Outcome</h3>
-        - The second shift comes in moving from merely being involved in the outcome to being involved in the goal setting as well.
-        - Since you’re intuiting what your goal is, you’re more invested in whether or not that was the right goal.
-    - <h2>The Expert Stage</h2>
-        - The Expert operates entirely by intuition. He or she knows what their goal should be, what to do about it, and what should happen as a result.
-        - The expert driver can feel they’re going too fast and knows how much to brake in response.The expert chess player can recognize 100,000+ positions and make the best move in response without more than a few seconds of thought.
-        - At this point, they’ve reached the final stage in each of the four criteria of expertise:
-    - <h3>Context: Situational</h3>
-        - They know what’s important and what isn’t, and can identify all the relevant pieces of the skill whether those are universal variables (car speed, piece value) or situational ones (road conditions, king position).
-    - <h3>Perspective: Intuitive</h3>
-        - The expert knows what’s important and what isn’t and what they should focus on entirely intuitively. They don’t need to choose what to focus on and don’t need rules for it, they just know what’s important for setting their goals and devising a method.
-    - <h3>Decision Making: Intuitive</h3>
-        - the expert intuitively knows what they should do and does it. They don’t need to explain the reasons, they can recognize it as they can recognize the face of a friend.
-    - <h3>Engagement: Involved Goals, Choices, and Outcomes</h3>
-        - Because the whole process is intuitive, the expert is emotionally invested in the outcomes of each part of the process. They emotionally feel the rightness or wrongness of their intuitions at the goal, action, and result stages, and can use that feedback to improve their intuitive decision making.
-        - many programmers and other knowledge workers never advance past the Advanced Beginner stage primarily because **they never accept emotional consequences for their decisions**
-        - If you don’t look first inside yourself to assess your intuition around goals and actions, and instead choose to look for more recipes, you are not proficient or an expert.
-        - even if you __think__ you’re proficient or an expert, **assume you’re an advanced beginner.**
-        - If you assume you’re an expert then learning stops, and it’s better to assume you’re more of a novice and that there’s more to learn than to assume you already know everything.
-    - <h2>How to Go from Novice to Expert</h2>
-        - Deliberate practice requires a teacher or method of feedback that can provide practice activities designed to help a student improve his or her performance.
-        - Practice must be done near maximal effort where you’re constantly being taken out of your comfort zone. It shouldn’t be light or “fun.”
-        - The practice must be well defined with specific goals and not aimed at “overall improvement.”
-        - You need feedback and constant little improvements, modifying efforts in response to feedback.You must be focusing on building and improving specific skills by focusing on aspects of those skills and improving them.
-    - <h3>Going from Zero to Novice</h3>
-        - At this stage **focus on collecting recipes**.
-        - ou should be reading books, blogs, listening to speeches, taking classes, whatever will give you a large repertoire of recipes as fast as possible.
-        - But you can’t just read them, **you have to apply them**. Try following along with them, doing whatever is being talked about, and not just reading.
-        - If you only read or hear about the recipes but don’t do them yourself **it is impossible to move beyond novice.**
-        - The next stage requires a contextual understanding of different situations and the only way you develop that context is through practice.
-    - <h3>Going from Novice to Advanced Beginner</h3>
-        - you should begin to develop some contextual understanding of when to use which recipes. Start looking for more __maxims__ and applying them to your practice, and seeing if they make sense to you.
-        - Try breaking away from the clear recipes you have, trying to change things in them, and seeing what happens.
-        - Make your own versions of the recipes by piecing together different recipes and looking up help as you need it.
-        - **The only way you graduate from novice is by breaking away from fixed recipes**.
-        - when something goes wrong, **start looking for how to solve it without blaming the recipe.**
-        - you can start learning to troubleshoot by combining different sources of knowledge instead of relying on singular recipes.
-    - <h3>Going from Advanced Beginner to Competent</h3>
-        - At this point you should have a large repertoire of recipes and maxims that you can apply, but not a lot of clarity around what is important in deciding which ones to use.
-        - You might get overwhelmed by decisions easily, and as a result, revert to simply following a recipe and hoping you get lucky.
-        - you need to start trying to figure out what data and information is important and what isn’t.
-        - This can be hard to do on your own, which is why the Advanced Beginner to Competent stage is benefited greatly by a mentor who can provide rules and guidelines on what information to focus on.
-        - Without a mentor, you’ll need to find guidelines and rules online or in books to help you, or through trial and error, develop them on your own.
-        - One method for doing this might be to deliberately restrict yourself in a situation to not using all of your available recipes.
-        - Maybe you force yourself to write without any adjectives, or draw using only pencil, or play with only your pawns and king.
-        - **By deliberately limiting what data you can focus on, you’ll develop a more intuitive understanding of what is and isn’t relevant in novel situations**.
-        - You’re no longer following clearly defined recipes, you’re improvising more, and that means you need to accept the emotional stress of doing so. **Don’t resist this emotional burden**.
-        - To become Competent, deliberately limit what information you can consider in order to develop a more intuitive understanding of what is and isn’t important.
-    - <h3>Going from Competent to Proficient</h3>
-        - At this point you’re emotionally invested in the outcomes and you’re starting to develop an understanding of what inputs are important, but you haven’t completely internalized what data you need to focus on.
-        - There’s still a __choice__ being made about what to focus on, it’s not __intuitive__.
-        - you need to keep employing deliberate practice around what to focus on and set as your goal and assess the outcomes in order to reach proficiency.
-        - As you get better at picking what data and goals to focus on, you will slowly develop a more intuitive understanding of which decisions will do well and which ones won’t and you’ll move from competent to proficient.
-        - It will be an emergent shift. You won’t be able to do it as deliberately as you did the last three, rather, you’ll wake up one day and realize you know what to focus on.
-        - You’ll look at a chess board and know what your goal should be. You’ll look at a setting and know what variables to focus on with your photo. You’ll look at a site and know which marketing tactics will work well for it.
-        - To become Proficient, keep practicing and collecting more experience until your chosen perspective becomes intuitive. Until you have a sense of what to focus on and what goals to set instead of having to choose it deliberately.
-    - <h3>Going from Proficient to Expert</h3>
-        - To reach this stage, it again comes back to deliberate practice. You must keep experimenting and practicing and limiting yourself in order to see how different goals you intuitively set lead to different outcomes until you can intuitively set the process as well.
-        - Practice following your instincts and seeing where they lead, and allow yourself to feel good or bad about the outcomes in order to learn the most from the experience. You have to let yourself be emotionally involved in the whole process in order to develop expertise.
-    - <h2>Your Roadmap for Skill Development</h2>
-        - Now that you understand the five levels of expertise, what defines them, and how to move up in them, you can develop a clear roadmap for improving any skill you want to become an expert at.
+- [[The Competent Stage]]
+    - As you progress through the Advanced Beginner stage, you add more and more recipes and maxims to your experience with the skill that help you perform better and better. Eventually, you hit the point where it’s completely overwhelming and you have to develop rules about what recipes to apply when.
+    - **The development of these rules is the key characteristic of the Competent.** You have a better sense of what is relevant and what isn’t, and you can draw on a wide collection of recipes based on those situational rules. [[personal rules]]
+    - The second characteristic of the Competent is that since you’re picking your rules and using those rules to apply different recipes, you become emotionally involved in the outcome.
+    - While the Novice and Advanced Beginner are largely detached from the outcomes, the Competent can experience joy at making the right choice of recipes and remorse at choosing the wrong one. The locus of blame shifts from the recipe to yourself, since you are now involved in choosing what to do.
+    - That characterizes the two main shifts required to become competent:
+        - Perspective: None -> Chosen
+            - You’re starting to recognize what recipes and maxims apply in different situations and so you __choose__ which ones to apply based on the context. You can look at a situation and decide which recipes to apply, instead of trying to apply them willy-nilly or based on someone else’s recommendation.
+        - Engagement: None -> Engaged Outcome
+            - You still aren’t personally engaged in the deciding what your goal is or how to do it since you’re following rules, but you are engaged in the outcome since you decided which recipes to apply to the situation.
+- The Challenge
+    - you’re emotionally involved in the outcomes, you can easily burn yourself out and exhaust your interest in the skill by getting things wrong.
+    - **The key here is to not beat yourself up when things go wrong, but rather to use it as data**.
+    - if you can use it as data to improve your decision-making process, then you will start to move towards proficiency.
+- <h2>The Proficient Stage</h2>
+    - As you react emotionally to your decisions at the level of Competence, your positive and negative responses to decisions will reinforce the correct ones and discourage the incorrect ones and you will develop an increasingly intuitive sense of what recipes and maxims to apply to the situation.
+    - **The defining characteristic of the Proficient is an intuitive sense of what the goal should be given the situation**.
+    - but not necessarily exactly how to do it.
+    - They can feel in the seat of their pants that they are going too fast, but have to decide how best to slow down.They can recognize a vast repertoire of chess positions but have to decide what to do in them.
+    - There are two main shifts of the four criteria when you go from Competent to Proficient:
+- <h3>Perspective: Chosen -> Intuitive</h3>
+    - Whereas the Competent performer __chooses__ what criteria to focus on and what recipes and maxims to use based on that, the Proficient performer __knows__ what criteria to focus on.
+- <h3>Engagement: Involved Outcome -> Involved Goal and Outcome</h3>
+    - The second shift comes in moving from merely being involved in the outcome to being involved in the goal setting as well.
+    - Since you’re intuiting what your goal is, you’re more invested in whether or not that was the right goal.
+- <h2>The Expert Stage</h2>
+    - The Expert operates entirely by intuition. He or she knows what their goal should be, what to do about it, and what should happen as a result.
+    - The expert driver can feel they’re going too fast and knows how much to brake in response.The expert chess player can recognize 100,000+ positions and make the best move in response without more than a few seconds of thought.
+    - At this point, they’ve reached the final stage in each of the four criteria of expertise:
+- <h3>Context: Situational</h3>
+    - They know what’s important and what isn’t, and can identify all the relevant pieces of the skill whether those are universal variables (car speed, piece value) or situational ones (road conditions, king position).
+- <h3>Perspective: Intuitive</h3>
+    - The expert knows what’s important and what isn’t and what they should focus on entirely intuitively. They don’t need to choose what to focus on and don’t need rules for it, they just know what’s important for setting their goals and devising a method.
+- <h3>Decision Making: Intuitive</h3>
+    - the expert intuitively knows what they should do and does it. They don’t need to explain the reasons, they can recognize it as they can recognize the face of a friend.
+- <h3>Engagement: Involved Goals, Choices, and Outcomes</h3>
+    - Because the whole process is intuitive, the expert is emotionally invested in the outcomes of each part of the process. They emotionally feel the rightness or wrongness of their intuitions at the goal, action, and result stages, and can use that feedback to improve their intuitive decision making.
+    - many programmers and other knowledge workers never advance past the Advanced Beginner stage primarily because **they never accept emotional consequences for their decisions**
+    - If you don’t look first inside yourself to assess your intuition around goals and actions, and instead choose to look for more recipes, you are not proficient or an expert.
+    - even if you __think__ you’re proficient or an expert, **assume you’re an advanced beginner.**
+    - If you assume you’re an expert then learning stops, and it’s better to assume you’re more of a novice and that there’s more to learn than to assume you already know everything.
+- <h2>How to Go from Novice to Expert</h2>
+    - Deliberate practice requires a teacher or method of feedback that can provide practice activities designed to help a student improve his or her performance.
+    - Practice must be done near maximal effort where you’re constantly being taken out of your comfort zone. It shouldn’t be light or “fun.”
+    - The practice must be well defined with specific goals and not aimed at “overall improvement.”
+    - You need feedback and constant little improvements, modifying efforts in response to feedback.You must be focusing on building and improving specific skills by focusing on aspects of those skills and improving them.
+- <h3>Going from Zero to Novice</h3>
+    - At this stage **focus on collecting recipes**.
+    - ou should be reading books, blogs, listening to speeches, taking classes, whatever will give you a large repertoire of recipes as fast as possible.
+    - But you can’t just read them, **you have to apply them**. Try following along with them, doing whatever is being talked about, and not just reading.
+    - If you only read or hear about the recipes but don’t do them yourself **it is impossible to move beyond novice.**
+    - The next stage requires a contextual understanding of different situations and the only way you develop that context is through practice.
+- <h3>Going from Novice to Advanced Beginner</h3>
+    - you should begin to develop some contextual understanding of when to use which recipes. Start looking for more __maxims__ and applying them to your practice, and seeing if they make sense to you.
+    - Try breaking away from the clear recipes you have, trying to change things in them, and seeing what happens.
+    - Make your own versions of the recipes by piecing together different recipes and looking up help as you need it.
+    - **The only way you graduate from novice is by breaking away from fixed recipes**.
+    - when something goes wrong, **start looking for how to solve it without blaming the recipe.**
+    - you can start learning to troubleshoot by combining different sources of knowledge instead of relying on singular recipes.
+- <h3>Going from Advanced Beginner to Competent</h3>
+    - At this point you should have a large repertoire of recipes and maxims that you can apply, but not a lot of clarity around what is important in deciding which ones to use.
+    - You might get overwhelmed by decisions easily, and as a result, revert to simply following a recipe and hoping you get lucky.
+    - you need to start trying to figure out what data and information is important and what isn’t.
+    - This can be hard to do on your own, which is why the Advanced Beginner to Competent stage is benefited greatly by a mentor who can provide rules and guidelines on what information to focus on.
+    - Without a mentor, you’ll need to find guidelines and rules online or in books to help you, or through trial and error, develop them on your own.
+    - One method for doing this might be to deliberately restrict yourself in a situation to not using all of your available recipes.
+    - Maybe you force yourself to write without any adjectives, or draw using only pencil, or play with only your pawns and king.
+    - **By deliberately limiting what data you can focus on, you’ll develop a more intuitive understanding of what is and isn’t relevant in novel situations**.
+    - You’re no longer following clearly defined recipes, you’re improvising more, and that means you need to accept the emotional stress of doing so. **Don’t resist this emotional burden**.
+    - To become Competent, deliberately limit what information you can consider in order to develop a more intuitive understanding of what is and isn’t important.
+- <h3>Going from Competent to Proficient</h3>
+    - At this point you’re emotionally invested in the outcomes and you’re starting to develop an understanding of what inputs are important, but you haven’t completely internalized what data you need to focus on.
+    - There’s still a __choice__ being made about what to focus on, it’s not __intuitive__.
+    - you need to keep employing deliberate practice around what to focus on and set as your goal and assess the outcomes in order to reach proficiency.
+    - As you get better at picking what data and goals to focus on, you will slowly develop a more intuitive understanding of which decisions will do well and which ones won’t and you’ll move from competent to proficient.
+    - It will be an emergent shift. You won’t be able to do it as deliberately as you did the last three, rather, you’ll wake up one day and realize you know what to focus on.
+    - You’ll look at a chess board and know what your goal should be. You’ll look at a setting and know what variables to focus on with your photo. You’ll look at a site and know which marketing tactics will work well for it.
+    - To become Proficient, keep practicing and collecting more experience until your chosen perspective becomes intuitive. Until you have a sense of what to focus on and what goals to set instead of having to choose it deliberately.
+- <h3>Going from Proficient to Expert</h3>
+    - To reach this stage, it again comes back to deliberate practice. You must keep experimenting and practicing and limiting yourself in order to see how different goals you intuitively set lead to different outcomes until you can intuitively set the process as well.
+    - Practice following your instincts and seeing where they lead, and allow yourself to feel good or bad about the outcomes in order to learn the most from the experience. You have to let yourself be emotionally involved in the whole process in order to develop expertise.
+- <h2>Your Roadmap for Skill Development</h2>
+    - Now that you understand the five levels of expertise, what defines them, and how to move up in them, you can develop a clear roadmap for improving any skill you want to become an expert at.
+- 
