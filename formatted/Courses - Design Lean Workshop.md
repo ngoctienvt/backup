@@ -113,6 +113,21 @@
         - Procedural Analysis
         - Topical Analysis - abstract topic
         - Incident - specific case
+    - Mục tiêu
+        - List bước thành công nhỏ để đạt mục tiêu
+            - List bước cần làm để đạt thành công nhỏ (bước nhỏ cuối cùng, không thể chia nhỏ hơn)
+                - Phương thức thực hiện
+    - Đào sâu những gì người học còn thắc mắc
+        - Xác định điều họ còn thắc mắc
+            - Review lại nội dung học
+            - Xác định nội dung chưa rõ
+            - Xác định nội dung sẽ giải quyết
+                - Bỏ phiếu / vote 3 nội dung
+        - Xử lý những điều thắc mắc
+            - Làm rõ cùng với 1 người đã có kinh nghiệm
+        - Xác nhận lại mức độ hiểu
+            - Xác nhận lại mức độ hiểu
+        - Rút ra bài học
 - Group activities
     - Clarify foggy contents
     - Resolve remaining questions
