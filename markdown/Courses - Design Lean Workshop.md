@@ -107,8 +107,12 @@
     - Flow of session 2
 - Session 3 - Tasks analysis
     - Tasks analysis is identify tasks that participant need to do in certain steps
-    - The outcome of 
+        - The outcome of this step is 
     - Tasks they need to do different with tasks we teach
+    - Working with SME
+        - Procedural Analysis
+        - Topical Analysis - abstract topic
+        - Incident - specific case
 - Group activities
     - Clarify foggy contents
     - Resolve remaining questions

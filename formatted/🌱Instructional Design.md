@@ -95,7 +95,7 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
             - Clarify pain points and pleasure points
                 - Brainstorm as most as we can
             - Write down big goals for the workshop
-                - The workshop provides What for Who in order to Do?
+                - The workshop provides What for Who in order to Do? 
             - Check our assumptions
                 - Which question we will use to ask to check our assumptions?
                 - Which tools to check our assumptions?

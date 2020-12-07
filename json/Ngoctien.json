@@ -43139,8 +43139,8 @@
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1607092411663,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607092448059,
-                        "string": "The workshop provides What for Who in order to Do?",
+                        "edit-time": 1607348904359,
+                        "string": "The workshop provides What for Who in order to Do? ",
                         "uid": "rCfs9GImP"
                       }
                     ],
@@ -59225,6 +59225,16 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607347187239,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607347204611,
+                "string": "The outcome of this step is ",
+                "uid": "x1Yjw_Rxt"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607347156859,
             "edit-email": "ngoctienvt@gmail.com",
@@ -59234,19 +59244,45 @@
           },
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607347187239,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607347204611,
-            "string": "The outcome of this step is ",
-            "uid": "x1Yjw_Rxt"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607341763791,
             "edit-email": "ngoctienvt@gmail.com",
             "edit-time": 1607347151996,
             "string": "Tasks they need to do different with tasks we teach",
             "uid": "C6fDXD2Dt"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607347588904,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607347593674,
+                "string": "Procedural Analysis",
+                "uid": "_szCUtATB"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607347593670,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607347630872,
+                "string": "Topical Analysis - abstract topic",
+                "uid": "ezcckimsU"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607347600673,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607347626905,
+                "string": "Incident - specific case",
+                "uid": "FAL04021d"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607347615810,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607347619002,
+            "string": "Working with SME",
+            "uid": "ZX2dox-nn"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
