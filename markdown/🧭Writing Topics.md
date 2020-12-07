@@ -3,6 +3,7 @@
     - [[the fifth force - will-power]]
 - Personal Development
     - [[How to self-development effectively?]]
+    - [[How to Go from Novice to Expert]]
 - Spirituality
     - [[What is surrender?]]
     - [[Where does the impersonal world come from?]]

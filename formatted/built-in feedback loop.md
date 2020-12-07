@@ -2,6 +2,9 @@
 - 
 
 # Backlinks
+## [Articles - The Step-by-Step Guide to Go From Novice to Expert in Any Skill](<Articles - The Step-by-Step Guide to Go From Novice to Expert in Any Skill.md>)
+- You need feedback and constant little improvements, modifying efforts in response to feedback. You must be focusing on building and improving specific skills by focusing on aspects of those skills and improving them. [built-in feedback loop](<built-in feedback loop.md>)
+
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - short-term [built-in feedback loop](<built-in feedback loop.md>)
 

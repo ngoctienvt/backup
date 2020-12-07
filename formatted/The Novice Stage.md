@@ -7,8 +7,17 @@
 - The challenge
     - Tendency to blame the recipe
     - Easily to get stuck and don't know how to solve own trouble
+- Going from Zero to Novice
+    - At this stage **focus on collecting and trying recipes**.
+        - You should be reading books, blogs, listening to speeches, taking classes, whatever will give you a large repertoire of recipes as fast as possible.
+        - But you can’t just read them, **you have to apply them**. Try following along with them, doing whatever is being talked about, and not just reading.
+    - If you only read or hear about the recipes but don’t do them yourself **it is impossible to move beyond novice.**
+    - The next stage requires a contextual understanding of different situations and the only way you develop that context is through practice. [contextual understanding](<contextual understanding.md>)
 
 # Backlinks
 ## [Articles - The Step-by-Step Guide to Go From Novice to Expert in Any Skill](<Articles - The Step-by-Step Guide to Go From Novice to Expert in Any Skill.md>)
+- [The Novice Stage](<The Novice Stage.md>)
+
+## [Level of expertise](<Level of expertise.md>)
 - [The Novice Stage](<The Novice Stage.md>)
 

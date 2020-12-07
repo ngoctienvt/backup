@@ -3,6 +3,7 @@
     - [the fifth force - will-power](<the fifth force - will-power.md>)
 - Personal Development
     - [How to self-development effectively?](<How to self-development effectively?.md>)
+    - [How to Go from Novice to Expert](<How to Go from Novice to Expert.md>)
 - Spirituality
     - [What is surrender?](<What is surrender?.md>)
     - [Where does the impersonal world come from?](<Where does the impersonal world come from?.md>)

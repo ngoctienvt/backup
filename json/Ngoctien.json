@@ -61917,6 +61917,14 @@
             "edit-time": 1607260921798,
             "string": "[[How to self-development effectively?]]",
             "uid": "UVHp-hUFg"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323939641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323943738,
+            "string": "[[How to Go from Novice to Expert]]",
+            "uid": "bU4aKcFvZ"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -62429,134 +62437,202 @@
   {
     "children": [
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235685855,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235685855,
-        "string": "Novice (m\u1edbi ho\u00e0n to\u00e0n): Ng\u01b0\u1eddi h\u1ecdc kh\u00f4ng c\u00f3 kinh nghi\u1ec7m th\u1ef1c t\u1ebf v\u1ec1 ch\u1ee7 \u0111\u1ec1, kh\u00f4ng c\u00f3 ki\u1ebfn th\u1ee9c v\u1ec1 l\u0129nh v\u1ef1c \u0111ang \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eadp t\u1edbi ho\u1eb7c ch\u1ec9 c\u00f3 ki\u1ebfn th\u1ee9c qua s\u00e1ch v\u1edf. V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi \u0111\u1ecdc s\u00e1ch hay xem video v\u1ec1 l\u00e0m b\u00e1nh, nh\u01b0ng ch\u01b0a bao gi\u1edd l\u00e0m b\u00e1nh.",
-        "uid": "5WVRx8FOq"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235695537,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235695537,
-        "string": "(Advanced) Beginner (b\u1eaft \u0111\u1ea7u th\u1ef1c h\u00e0nh): L\u01b0u \u00fd l\u00e0 m\u1ed9t s\u1ed1 t\u00e0i li\u1ec7u s\u1eed d\u1ee5ng thu\u1eadt ng\u1eef \u201cBeginner\u201d, m\u1ed9t s\u1ed1 t\u00e0i li\u1ec7u s\u1eed d\u1ee5ng thu\u1eadt ng\u1eef \u201cAdvanced Beginner\u201d, th\u1ef1c ch\u1ea5t hai thu\u1eadt ng\u1eef n\u00e0y m\u00f4 t\u1ea3 c\u00f9ng m\u1ed9t c\u1ea5p b\u1eadc. L\u00fac n\u00e0y, ng\u01b0\u1eddi h\u1ecdc b\u1eaft \u0111\u1ea7u nh\u1eadn bi\u1ebft \u0111\u01b0\u1ee3c nh\u1eefng t\u00ecnh hu\u1ed1ng ph\u1ed5 bi\u1ebfn, nh\u1eefng th\u00e0nh ph\u1ea7n th\u01b0\u1eddng g\u1eb7p c\u1ee7a l\u0129nh v\u1ef1c nh\u01b0ng kh\u00f4ng c\u00f3 c\u1ea5u tr\u00fac t\u1ed5ng qu\u00e1t. Ng\u01b0\u1eddi h\u1ecdc c\u00f3 th\u1ec3 \u0111\u1ea3m nhi\u1ec7m m\u1ed9t ph\u1ea7n ho\u1eb7c b\u01b0\u1edbc nh\u1ecf trong to\u00e0n b\u1ed9 nhi\u1ec7m v\u1ee5 l\u1edbn, nh\u01b0ng ch\u01b0a c\u00f3 c\u00e1i nh\u00ecn \u0111\u1ea7y \u0111\u1ee7 v\u1ec1 nhi\u1ec7m v\u1ee5 l\u1edbn. V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi bi\u1ebft nh\u00e0o b\u1ed9t, bi\u1ebft \u0111\u00e1nh tr\u1ee9ng, nh\u01b0ng ch\u01b0a bao gi\u1edd tham gia v\u00e0o qu\u00e1 tr\u00ecnh l\u00e0m b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i.",
-        "uid": "VNGTW_rAH"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235700355,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235700355,
-        "string": "Competent (\u0111\u1ee7 n\u0103ng l\u1ef1c): B\u1eaft \u0111\u1ea7u nh\u00ecn nh\u1eadn c\u00e1c nhi\u1ec7m v\u1ee5 trong m\u1ed9t t\u1ed5ng th\u1ec3 c\u00f3 m\u1ee5c ti\u00eau chung, c\u00f3 th\u1ec3 \u0111\u1ea3m nhi\u1ec7m ph\u1ea7n l\u1edbn c\u00e1c nhi\u1ec7m v\u1ee5, x\u1eed l\u00fd \u0111\u01b0\u1ee3c nh\u1eefng t\u00ecnh hu\u1ed1ng ph\u1ee9c t\u1ea1p. V\u00ed d\u1ee5: l\u00fac n\u00e0y m\u1ed9t ng\u01b0\u1eddi \u0111\u00e3 c\u00f3 th\u1ec3 t\u1ef1 l\u00e0m m\u1ed9t c\u00e1i b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i, theo \u0111\u00fang quy tr\u00ecnh, l\u00e0m \u0111\u00fang c\u00e1c b\u01b0\u1edbc, m\u1eb7c d\u00f9 v\u1eabn c\u1ea7n \u00fd ki\u1ebfn c\u1ed1 v\u1ea5n c\u1ee7a ng\u01b0\u1eddi th\u00e0nh th\u1ee5c h\u01a1n m\u00ecnh khi g\u1eb7p kh\u00f3 kh\u0103n; c\u00f3 th\u1ec3 m\u1ed9t v\u00e0i b\u01b0\u1edbc c\u1ea7n s\u1ef1 tinh t\u1ebf trong k\u1ef9 thu\u1eadt th\u00ec v\u1eabn ch\u01b0a l\u00e0m \u0111\u01b0\u1ee3c, ch\u1eb3ng h\u1ea1n nh\u01b0 trang tr\u00ed b\u00e1nh sao cho ngh\u1ec7 thu\u1eadt.",
-        "uid": "J0H0hF-li"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235702128,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235702128,
-        "string": "Proficient (th\u00e0nh th\u1ee5c): Nh\u00ecn nh\u1eadn t\u00ecnh hu\u1ed1ng nh\u01b0 m\u1ed9t b\u1ee9c tranh to\u00e0n c\u1ea3nh thay v\u00ec c\u00e1c th\u00e0nh ph\u1ea7n nh\u1ecf c\u1ed9ng l\u1ea1i, c\u00f3 th\u1ec3 t\u1ef1 v\u1eadn h\u00e0nh m\u00e0 kh\u00f4ng c\u1ea7n ai c\u1ed1 v\u1ea5n, ra quy\u1ebft \u0111\u1ecbnh nhanh ch\u00f3ng. V\u00ed d\u1ee5: l\u00fac n\u00e0y, m\u1ed9t ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 th\u00e0nh th\u1ea1o c\u00e1c b\u01b0\u1edbc l\u00e0m b\u00e1nh v\u00e0 c\u00f3 th\u1ec3 thay \u0111\u1ed5i c\u00e1c b\u01b0\u1edbc m\u1ed9t c\u00e1ch tinh t\u1ebf \u0111\u1ec3 b\u00e1nh ngon h\u01a1n, c\u00f3 th\u1ec3 c\u1eaft gi\u1ea3m quy tr\u00ecnh n\u1ebfu \u0111i\u1ec1u ki\u1ec7n kh\u00f4ng cho ph\u00e9p.",
-        "uid": "fKvML2Rl0"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235676738,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235703357,
-        "string": "Expert (chuy\u00ean gia): Nh\u00ecn nh\u1eadn t\u00ecnh hu\u1ed1ng qua tr\u1ef1c gi\u00e1c v\u00e0 n\u1eafm b\u1eaft ch\u00ednh x\u00e1c ngu\u1ed3n g\u1ed1c c\u1ee7a v\u1ea5n \u0111\u1ec1, nh\u00ecn nh\u1eadn \u0111\u01b0\u1ee3c b\u1ee9c tranh to\u00e0n c\u1ea3nh v\u00e0 c\u1ea3 nh\u1eefng ph\u01b0\u01a1ng \u00e1n kh\u00e1c v\u1ec1 nh\u1eefng g\u00ec c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1. V\u00ed d\u1ee5: l\u00fac n\u00e0y, ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 c\u00f3 b\u00ed quy\u1ebft ri\u00eang c\u1ee7a m\u00ecnh \u0111\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c b\u00e1nh ngon m\u00e0 ng\u01b0\u1eddi kh\u00e1c kh\u00f4ng bi\u1ebft, v\u00e0 c\u00f3 th\u1ec3 s\u00e1ng t\u1ea1o \u0111\u01b0\u1ee3c c\u00f4ng th\u1ee9c l\u00e0m b\u00e1nh c\u1ee7a ri\u00eang m\u00ecnh.",
-        "uid": "fZdhuwcn4"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235220364,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235221161,
-        "string": "![Displaying S2 - Novice to Expert 2.jpg](https://drive.google.com/thumbnail?id=108oF3-S2xQOBUK0I5vK7jm0GA29IxZUW&authuser=0&sz=w1813-h915)",
-        "uid": "xDSpaYVyK"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235221789,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235290162,
-        "string": "![Intergrating theory and practice: Novice-to-expert scale](https://4.bp.blogspot.com/_Aw--cHDnbOg/TSi4vP_9csI/AAAAAAAAACY/ZFUQ6-CcaQE/s1600/novice-to-expert.png)",
-        "uid": "nDZG7GNNs"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235290860,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235302545,
-        "props": {
-          "image-size": {
-            "https://zoerosedaviesphotography.files.wordpress.com/2013/01/0030320210001.png": {
-              "height": null,
-              "width": 323
-            }
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235685855,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235685855,
+            "string": "Novice (m\u1edbi ho\u00e0n to\u00e0n): Ng\u01b0\u1eddi h\u1ecdc kh\u00f4ng c\u00f3 kinh nghi\u1ec7m th\u1ef1c t\u1ebf v\u1ec1 ch\u1ee7 \u0111\u1ec1, kh\u00f4ng c\u00f3 ki\u1ebfn th\u1ee9c v\u1ec1 l\u0129nh v\u1ef1c \u0111ang \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eadp t\u1edbi ho\u1eb7c ch\u1ec9 c\u00f3 ki\u1ebfn th\u1ee9c qua s\u00e1ch v\u1edf. V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi \u0111\u1ecdc s\u00e1ch hay xem video v\u1ec1 l\u00e0m b\u00e1nh, nh\u01b0ng ch\u01b0a bao gi\u1edd l\u00e0m b\u00e1nh.",
+            "uid": "5WVRx8FOq"
           }
-        },
-        "string": "![From Novice To Expert | zo\u00eb rose - davies](https://zoerosedaviesphotography.files.wordpress.com/2013/01/0030320210001.png)",
-        "uid": "Q_jGIjZ1-"
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607323794665,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323798206,
+        "string": "[[The Novice Stage]]",
+        "uid": "aab36Phnk"
       },
       {
         "children": [
           {
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607235302850,
+            "create-time": 1607235695537,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607235320109,
-            "props": {
-              "image-size": {
-                "https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f89712dc9c88e756487b1_Stages-of-Skill-Acquisition.png": {
-                  "height": null,
-                  "width": 351
-                }
-              }
-            },
-            "string": "![The Step-by-Step Guide to Go From Novice to Expert in Any Skill - Nat  Eliason](https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f89712dc9c88e756487b1_Stages-of-Skill-Acquisition.png)",
-            "uid": "qdBowdwW5"
+            "edit-time": 1607235695537,
+            "string": "(Advanced) Beginner (b\u1eaft \u0111\u1ea7u th\u1ef1c h\u00e0nh): L\u01b0u \u00fd l\u00e0 m\u1ed9t s\u1ed1 t\u00e0i li\u1ec7u s\u1eed d\u1ee5ng thu\u1eadt ng\u1eef \u201cBeginner\u201d, m\u1ed9t s\u1ed1 t\u00e0i li\u1ec7u s\u1eed d\u1ee5ng thu\u1eadt ng\u1eef \u201cAdvanced Beginner\u201d, th\u1ef1c ch\u1ea5t hai thu\u1eadt ng\u1eef n\u00e0y m\u00f4 t\u1ea3 c\u00f9ng m\u1ed9t c\u1ea5p b\u1eadc. L\u00fac n\u00e0y, ng\u01b0\u1eddi h\u1ecdc b\u1eaft \u0111\u1ea7u nh\u1eadn bi\u1ebft \u0111\u01b0\u1ee3c nh\u1eefng t\u00ecnh hu\u1ed1ng ph\u1ed5 bi\u1ebfn, nh\u1eefng th\u00e0nh ph\u1ea7n th\u01b0\u1eddng g\u1eb7p c\u1ee7a l\u0129nh v\u1ef1c nh\u01b0ng kh\u00f4ng c\u00f3 c\u1ea5u tr\u00fac t\u1ed5ng qu\u00e1t. Ng\u01b0\u1eddi h\u1ecdc c\u00f3 th\u1ec3 \u0111\u1ea3m nhi\u1ec7m m\u1ed9t ph\u1ea7n ho\u1eb7c b\u01b0\u1edbc nh\u1ecf trong to\u00e0n b\u1ed9 nhi\u1ec7m v\u1ee5 l\u1edbn, nh\u01b0ng ch\u01b0a c\u00f3 c\u00e1i nh\u00ecn \u0111\u1ea7y \u0111\u1ee7 v\u1ec1 nhi\u1ec7m v\u1ee5 l\u1edbn. V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi bi\u1ebft nh\u00e0o b\u1ed9t, bi\u1ebft \u0111\u00e1nh tr\u1ee9ng, nh\u01b0ng ch\u01b0a bao gi\u1edd tham gia v\u00e0o qu\u00e1 tr\u00ecnh l\u00e0m b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i.",
+            "uid": "VNGTW_rAH"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235357437,
+        "create-time": 1607323798190,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235360919,
-        "string": "https://www.nateliason.com/blog/become-expert-dreyfus",
-        "uid": "PyLTAFm-K"
+        "edit-time": 1607323810039,
+        "string": "[[The Advanced Beginner Stage]]",
+        "uid": "fFQken1V3"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235700355,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235700355,
+            "string": "Competent (\u0111\u1ee7 n\u0103ng l\u1ef1c): B\u1eaft \u0111\u1ea7u nh\u00ecn nh\u1eadn c\u00e1c nhi\u1ec7m v\u1ee5 trong m\u1ed9t t\u1ed5ng th\u1ec3 c\u00f3 m\u1ee5c ti\u00eau chung, c\u00f3 th\u1ec3 \u0111\u1ea3m nhi\u1ec7m ph\u1ea7n l\u1edbn c\u00e1c nhi\u1ec7m v\u1ee5, x\u1eed l\u00fd \u0111\u01b0\u1ee3c nh\u1eefng t\u00ecnh hu\u1ed1ng ph\u1ee9c t\u1ea1p. V\u00ed d\u1ee5: l\u00fac n\u00e0y m\u1ed9t ng\u01b0\u1eddi \u0111\u00e3 c\u00f3 th\u1ec3 t\u1ef1 l\u00e0m m\u1ed9t c\u00e1i b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i, theo \u0111\u00fang quy tr\u00ecnh, l\u00e0m \u0111\u00fang c\u00e1c b\u01b0\u1edbc, m\u1eb7c d\u00f9 v\u1eabn c\u1ea7n \u00fd ki\u1ebfn c\u1ed1 v\u1ea5n c\u1ee7a ng\u01b0\u1eddi th\u00e0nh th\u1ee5c h\u01a1n m\u00ecnh khi g\u1eb7p kh\u00f3 kh\u0103n; c\u00f3 th\u1ec3 m\u1ed9t v\u00e0i b\u01b0\u1edbc c\u1ea7n s\u1ef1 tinh t\u1ebf trong k\u1ef9 thu\u1eadt th\u00ec v\u1eabn ch\u01b0a l\u00e0m \u0111\u01b0\u1ee3c, ch\u1eb3ng h\u1ea1n nh\u01b0 trang tr\u00ed b\u00e1nh sao cho ngh\u1ec7 thu\u1eadt.",
+            "uid": "J0H0hF-li"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607323822564,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323827272,
+        "string": "[[The Competent Stage]]",
+        "uid": "iw-dyn9hA"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235702128,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235702128,
+            "string": "Proficient (th\u00e0nh th\u1ee5c): Nh\u00ecn nh\u1eadn t\u00ecnh hu\u1ed1ng nh\u01b0 m\u1ed9t b\u1ee9c tranh to\u00e0n c\u1ea3nh thay v\u00ec c\u00e1c th\u00e0nh ph\u1ea7n nh\u1ecf c\u1ed9ng l\u1ea1i, c\u00f3 th\u1ec3 t\u1ef1 v\u1eadn h\u00e0nh m\u00e0 kh\u00f4ng c\u1ea7n ai c\u1ed1 v\u1ea5n, ra quy\u1ebft \u0111\u1ecbnh nhanh ch\u00f3ng. V\u00ed d\u1ee5: l\u00fac n\u00e0y, m\u1ed9t ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 th\u00e0nh th\u1ea1o c\u00e1c b\u01b0\u1edbc l\u00e0m b\u00e1nh v\u00e0 c\u00f3 th\u1ec3 thay \u0111\u1ed5i c\u00e1c b\u01b0\u1edbc m\u1ed9t c\u00e1ch tinh t\u1ebf \u0111\u1ec3 b\u00e1nh ngon h\u01a1n, c\u00f3 th\u1ec3 c\u1eaft gi\u1ea3m quy tr\u00ecnh n\u1ebfu \u0111i\u1ec1u ki\u1ec7n kh\u00f4ng cho ph\u00e9p.",
+            "uid": "fKvML2Rl0"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607323827263,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323835333,
+        "string": "[[The Proficient Stage]]",
+        "uid": "HnBjy3BUg"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235676738,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235703357,
+            "string": "Expert (chuy\u00ean gia): Nh\u00ecn nh\u1eadn t\u00ecnh hu\u1ed1ng qua tr\u1ef1c gi\u00e1c v\u00e0 n\u1eafm b\u1eaft ch\u00ednh x\u00e1c ngu\u1ed3n g\u1ed1c c\u1ee7a v\u1ea5n \u0111\u1ec1, nh\u00ecn nh\u1eadn \u0111\u01b0\u1ee3c b\u1ee9c tranh to\u00e0n c\u1ea3nh v\u00e0 c\u1ea3 nh\u1eefng ph\u01b0\u01a1ng \u00e1n kh\u00e1c v\u1ec1 nh\u1eefng g\u00ec c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1. V\u00ed d\u1ee5: l\u00fac n\u00e0y, ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 c\u00f3 b\u00ed quy\u1ebft ri\u00eang c\u1ee7a m\u00ecnh \u0111\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c b\u00e1nh ngon m\u00e0 ng\u01b0\u1eddi kh\u00e1c kh\u00f4ng bi\u1ebft, v\u00e0 c\u00f3 th\u1ec3 s\u00e1ng t\u1ea1o \u0111\u01b0\u1ee3c c\u00f4ng th\u1ee9c l\u00e0m b\u00e1nh c\u1ee7a ri\u00eang m\u00ecnh.",
+            "uid": "fZdhuwcn4"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607323835325,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323838829,
+        "string": "[[The Expert Stage]]",
+        "uid": "YbG3dNZ2m"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235320389,
+        "create-time": 1607323901561,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235339471,
-        "props": {
-          "image-size": {
-            "https://theclinicalpreceptor.weebly.com/uploads/4/2/6/1/42617329/7505749_orig.png": {
-              "height": null,
-              "width": 310
-            }
-          }
-        },
-        "string": "![Novice To Expert - Developing Expert Athletic Trainers:An Interactive  workshop For Clinical Preceptors](https://theclinicalpreceptor.weebly.com/uploads/4/2/6/1/42617329/7505749_orig.png)",
-        "uid": "1yIJN914d"
+        "edit-time": 1607323906995,
+        "string": "[[How to Go from Novice to Expert]]",
+        "uid": "mODLhYVAl"
       },
       {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607235339668,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607235434751,
-        "props": {
-          "image-size": {
-            "https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f898a3ad7a645a1909679_Dreyfus-Skill-Guide.png": {
-              "height": null,
-              "width": 277
-            }
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235220364,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235221161,
+            "string": "![Displaying S2 - Novice to Expert 2.jpg](https://drive.google.com/thumbnail?id=108oF3-S2xQOBUK0I5vK7jm0GA29IxZUW&authuser=0&sz=w1813-h915)",
+            "uid": "xDSpaYVyK"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235221789,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235290162,
+            "string": "![Intergrating theory and practice: Novice-to-expert scale](https://4.bp.blogspot.com/_Aw--cHDnbOg/TSi4vP_9csI/AAAAAAAAACY/ZFUQ6-CcaQE/s1600/novice-to-expert.png)",
+            "uid": "nDZG7GNNs"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235290860,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235302545,
+            "props": {
+              "image-size": {
+                "https://zoerosedaviesphotography.files.wordpress.com/2013/01/0030320210001.png": {
+                  "height": null,
+                  "width": 323
+                }
+              }
+            },
+            "string": "![From Novice To Expert | zo\u00eb rose - davies](https://zoerosedaviesphotography.files.wordpress.com/2013/01/0030320210001.png)",
+            "uid": "Q_jGIjZ1-"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607235302850,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607235320109,
+                "props": {
+                  "image-size": {
+                    "https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f89712dc9c88e756487b1_Stages-of-Skill-Acquisition.png": {
+                      "height": null,
+                      "width": 351
+                    }
+                  }
+                },
+                "string": "![The Step-by-Step Guide to Go From Novice to Expert in Any Skill - Nat  Eliason](https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f89712dc9c88e756487b1_Stages-of-Skill-Acquisition.png)",
+                "uid": "qdBowdwW5"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235357437,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235360919,
+            "string": "https://www.nateliason.com/blog/become-expert-dreyfus",
+            "uid": "PyLTAFm-K"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235320389,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235339471,
+            "props": {
+              "image-size": {
+                "https://theclinicalpreceptor.weebly.com/uploads/4/2/6/1/42617329/7505749_orig.png": {
+                  "height": null,
+                  "width": 310
+                }
+              }
+            },
+            "string": "![Novice To Expert - Developing Expert Athletic Trainers:An Interactive  workshop For Clinical Preceptors](https://theclinicalpreceptor.weebly.com/uploads/4/2/6/1/42617329/7505749_orig.png)",
+            "uid": "1yIJN914d"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607235339668,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607235434751,
+            "props": {
+              "image-size": {
+                "https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f898a3ad7a645a1909679_Dreyfus-Skill-Guide.png": {
+                  "height": null,
+                  "width": 277
+                }
+              }
+            },
+            "string": "![The Step-by-Step Guide to Go From Novice to Expert in Any Skill - Nat  Eliason](https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f898a3ad7a645a1909679_Dreyfus-Skill-Guide.png)",
+            "uid": "a-iuWM3-u"
           }
-        },
-        "string": "![The Step-by-Step Guide to Go From Novice to Expert in Any Skill - Nat  Eliason](https://uploads-ssl.webflow.com/5ad143610f7efd77b6f188f3/5b2f898a3ad7a645a1909679_Dreyfus-Skill-Guide.png)",
-        "uid": "a-iuWM3-u"
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607323873866,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323878095,
+        "string": "Resources",
+        "uid": "vKY1mZTQJ"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
@@ -63276,6 +63352,16 @@
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322054860,
+                "string": "**The development of these rules is the key characteristic of the Competent.** You have a better sense of what is relevant and what isn\u2019t, and you can draw on a wide collection of recipes based on those situational rules. [[personal rules]]",
+                "uid": "J9WzVIQBT"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607251804760,
             "edit-email": "ngoctienvt@gmail.com",
@@ -63284,28 +63370,22 @@
             "uid": "v1ldjJ9rN"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804828,
+                "string": "While the Novice and Advanced Beginner are largely detached from the outcomes, the Competent can experience joy at making the right choice of recipes and remorse at choosing the wrong one. The locus of blame shifts from the recipe to yourself, since you are now involved in choosing what to do.",
+                "uid": "Amk-2d23Z"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607251804760,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607322054860,
-            "string": "**The development of these rules is the key characteristic of the Competent.** You have a better sense of what is relevant and what isn\u2019t, and you can draw on a wide collection of recipes based on those situational rules. [[personal rules]]",
-            "uid": "J9WzVIQBT"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804828,
-            "string": "The second characteristic of the Competent is that since you\u2019re picking your rules and using those rules to apply different recipes, you become emotionally involved in the outcome.",
+            "edit-time": 1607322344405,
+            "string": "The second characteristic of the Competent is that since you\u2019re picking your rules and using those rules to apply different recipes, you become emotionally involved in the outcome. [[personal choices]]",
             "uid": "tSZVxrljv"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804828,
-            "string": "While the Novice and Advanced Beginner are largely detached from the outcomes, the Competent can experience joy at making the right choice of recipes and remorse at choosing the wrong one. The locus of blame shifts from the recipe to yourself, since you are now involved in choosing what to do.",
-            "uid": "Amk-2d23Z"
           },
           {
             "children": [
@@ -63315,16 +63395,16 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1607251804760,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607251804828,
-                    "string": "You\u2019re starting to recognize what recipes and maxims apply in different situations and so you __choose__ which ones to apply based on the context. You can look at a situation and decide which recipes to apply, instead of trying to apply them willy-nilly or based on someone else\u2019s recommendation.",
+                    "edit-time": 1607322321160,
+                    "string": "You\u2019re starting to recognize what recipes and maxims apply in different situations and so you __choose__ which ones to apply based on the context. You can look at a situation and decide which recipes to apply, instead of trying to apply them willy-nilly or based on someone else\u2019s recommendation. ",
                     "uid": "dbDcg51l-"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1607251804760,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607322125318,
-                "string": "Perspective: None -> Chosen",
+                "edit-time": 1607322346611,
+                "string": "Perspective: None -> Chosen [[personal choices]]",
                 "uid": "FLAxdls7X"
               },
               {
@@ -63341,8 +63421,8 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1607251804760,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607322132246,
-                "string": "Engagement: None -> Engaged Outcome",
+                "edit-time": 1607322361910,
+                "string": "Engagement: None -> Engaged Outcome [[outcome attachment]]",
                 "uid": "WX6epSjtf"
               }
             ],
@@ -63352,6 +63432,40 @@
             "edit-time": 1607251804828,
             "string": "That characterizes the two main shifts required to become competent:",
             "uid": "l_uPJf0rF"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804829,
+                "string": "you\u2019re emotionally involved in the outcomes, you can easily burn yourself out and exhaust your interest in the skill by getting things wrong.",
+                "uid": "3bY6ucnEL"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804829,
+                "string": "**The key here is to not beat yourself up when things go wrong, but rather to use it as data**.",
+                "uid": "x4O1Bw6cS"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804829,
+                "string": "if you can use it as data to improve your decision-making process, then you will start to move towards proficiency.",
+                "uid": "2OIGN-spM"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607251804760,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322136622,
+            "string": "The Challenge",
+            "uid": "3BfHHcqHa"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -63364,40 +63478,52 @@
       {
         "children": [
           {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "you\u2019re emotionally involved in the outcomes, you can easily burn yourself out and exhaust your interest in the skill by getting things wrong.",
-            "uid": "3bY6ucnEL"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "**The key here is to not beat yourself up when things go wrong, but rather to use it as data**.",
-            "uid": "x4O1Bw6cS"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "if you can use it as data to improve your decision-making process, then you will start to move towards proficiency.",
-            "uid": "2OIGN-spM"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607322136622,
-        "string": "The Challenge",
-        "uid": "3BfHHcqHa"
-      },
-      {
-        "children": [
-          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "but not necessarily exactly how to do it.",
+                    "uid": "uMFUg5tVd"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607322443079,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607322443079,
+                        "string": "They can feel in the seat of their pants that they are going too fast, but have to decide how best to slow down.",
+                        "uid": "j9V_w3uAw"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607251804760,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607322443085,
+                        "string": "They can recognize a vast repertoire of chess positions but have to decide what to do in them.",
+                        "uid": "aZWj1ULF1"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607322437743,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607322437743,
+                    "string": "Example",
+                    "uid": "VbxunFCUA"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322611205,
+                "string": "**The defining characteristic of the Proficient is an intuitive sense of what the goal should be given the situation**. [[intuitive knowing]]",
+                "uid": "STi26q6Dy"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607251804760,
             "edit-email": "ngoctienvt@gmail.com",
@@ -63406,30 +63532,52 @@
             "uid": "p1JQPt80t"
           },
           {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "**The defining characteristic of the Proficient is an intuitive sense of what the goal should be given the situation**.",
-            "uid": "STi26q6Dy"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "but not necessarily exactly how to do it.",
-            "uid": "uMFUg5tVd"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "They can feel in the seat of their pants that they are going too fast, but have to decide how best to slow down.They can recognize a vast repertoire of chess positions but have to decide what to do in them.",
-            "uid": "aZWj1ULF1"
-          },
-          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "Whereas the Competent performer __chooses__ what criteria to focus on and what recipes and maxims to use based on that, the Proficient performer __knows__ what criteria to focus on.",
+                    "uid": "kYbS3eSkU"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322603925,
+                "string": "Perspective: Chosen -> Intuitive [[intuitive knowing]]",
+                "uid": "CZsUX1yOw"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "The second shift comes in moving from merely being involved in the outcome to being involved in the goal setting as well.",
+                    "uid": "fkvZOva7w"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "Since you\u2019re intuiting what your goal is, you\u2019re more invested in whether or not that was the right goal.",
+                    "uid": "TTvBRtIbE"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322458282,
+                "string": "Engagement: Involved Outcome -> Involved Goal and Outcome",
+                "uid": "IToymQzIY"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607251804760,
             "edit-email": "ngoctienvt@gmail.com",
@@ -63441,73 +63589,155 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607251804760,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h2>The Proficient Stage</h2>",
+        "edit-time": 1607322304249,
+        "string": "[[The Proficient Stage]]",
         "uid": "eyWl9nlFV"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607322793457,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322793457,
+                "string": "The expert driver can feel they\u2019re going too fast and knows how much to brake in response.",
+                "uid": "17oOHeHFX"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322793463,
+                "string": "The expert chess player can recognize 100,000+ positions and make the best move in response without more than a few seconds of thought.",
+                "uid": "QEo_ry2Gp"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
+            "create-time": 1607322786680,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "Whereas the Competent performer __chooses__ what criteria to focus on and what recipes and maxims to use based on that, the Proficient performer __knows__ what criteria to focus on.",
-            "uid": "kYbS3eSkU"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h3>Perspective: Chosen -> Intuitive</h3>",
-        "uid": "CZsUX1yOw"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "The second shift comes in moving from merely being involved in the outcome to being involved in the goal setting as well.",
-            "uid": "fkvZOva7w"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "Since you\u2019re intuiting what your goal is, you\u2019re more invested in whether or not that was the right goal.",
-            "uid": "TTvBRtIbE"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h3>Engagement: Involved Outcome -> Involved Goal and Outcome</h3>",
-        "uid": "IToymQzIY"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
+            "edit-time": 1607322788459,
             "string": "The Expert operates entirely by intuition. He or she knows what their goal should be, what to do about it, and what should happen as a result.",
-            "uid": "KPhl6cEq2"
+            "uid": "1dsPZYoQm"
           },
           {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "The expert driver can feel they\u2019re going too fast and knows how much to brake in response.The expert chess player can recognize 100,000+ positions and make the best move in response without more than a few seconds of thought.",
-            "uid": "QEo_ry2Gp"
-          },
-          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "They know what\u2019s important and what isn\u2019t, and can identify all the relevant pieces of the skill whether those are universal variables (car speed, piece value) or situational ones (road conditions, king position).",
+                    "uid": "GyLpwi529"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322829098,
+                "string": "Context: Situational",
+                "uid": "w_XltDhRu"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "The expert knows what\u2019s important and what isn\u2019t and what they should focus on entirely intuitively. They don\u2019t need to choose what to focus on and don\u2019t need rules for it, they just know what\u2019s important for setting their goals and devising a method.",
+                    "uid": "pcQ0CE-_0"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322835857,
+                "string": "Perspective: Intuitive",
+                "uid": "xYZuM1rQf"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "the expert intuitively knows what they should do and does it. They don\u2019t need to explain the reasons, they can recognize it as they can recognize the face of a friend.",
+                    "uid": "AtFkSLC_1"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322843846,
+                "string": "Decision Making: Intuitive",
+                "uid": "G8mDWz8CW"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "Because the whole process is intuitive, the expert is emotionally invested in the outcomes of each part of the process. They emotionally feel the rightness or wrongness of their intuitions at the goal, action, and result stages, and can use that feedback to improve their intuitive decision making.",
+                    "uid": "hLqwTa1Jm"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "many programmers and other knowledge workers never advance past the Advanced Beginner stage primarily because **they never accept emotional consequences for their decisions**",
+                    "uid": "TbFs2OqdW"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "If you don\u2019t look first inside yourself to assess your intuition around goals and actions, and instead choose to look for more recipes, you are not proficient or an expert.",
+                    "uid": "c7j52uu01"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322849455,
+                "string": "Engagement: Involved Goals, Choices, and Outcomes",
+                "uid": "Egqa8cXXL"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "even if you __think__ you\u2019re proficient or an expert, **assume you\u2019re an advanced beginner.**",
+                    "uid": "rDChSgX-r"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804829,
+                    "string": "If you assume you\u2019re an expert then learning stops, and it\u2019s better to assume you\u2019re more of a novice and that there\u2019s more to learn than to assume you already know everything.",
+                    "uid": "XHHFJHH32"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607322989209,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323017607,
+                "string": "Note [[beginner's mind]] ",
+                "uid": "iQHQs9t_i"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607251804760,
             "edit-email": "ngoctienvt@gmail.com",
@@ -63519,445 +63749,53 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607251804760,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h2>The Expert Stage</h2>",
+        "edit-time": 1607322779820,
+        "string": "[[The Expert Stage]]",
         "uid": "oWkPENg6C"
       },
       {
         "children": [
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "Practice must be done near maximal effort where you\u2019re constantly being taken out of your comfort zone. It shouldn\u2019t be light or \u201cfun.\u201d",
+                "uid": "IasYQ0zUo"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323099096,
+                "string": "The practice must be well defined with specific goals and not aimed at \u201coverall improvement.\u201d [[aspect focus]]",
+                "uid": "eT-vvA1CW"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323112703,
+                "string": "You need feedback and constant little improvements, modifying efforts in response to feedback. You must be focusing on building and improving specific skills by focusing on aspects of those skills and improving them. [[built-in feedback loop]]",
+                "uid": "FbnTcCmAl"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607251804760,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "They know what\u2019s important and what isn\u2019t, and can identify all the relevant pieces of the skill whether those are universal variables (car speed, piece value) or situational ones (road conditions, king position).",
-            "uid": "GyLpwi529"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h3>Context: Situational</h3>",
-        "uid": "w_XltDhRu"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "The expert knows what\u2019s important and what isn\u2019t and what they should focus on entirely intuitively. They don\u2019t need to choose what to focus on and don\u2019t need rules for it, they just know what\u2019s important for setting their goals and devising a method.",
-            "uid": "pcQ0CE-_0"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h3>Perspective: Intuitive</h3>",
-        "uid": "xYZuM1rQf"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "the expert intuitively knows what they should do and does it. They don\u2019t need to explain the reasons, they can recognize it as they can recognize the face of a friend.",
-            "uid": "AtFkSLC_1"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h3>Decision Making: Intuitive</h3>",
-        "uid": "G8mDWz8CW"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "Because the whole process is intuitive, the expert is emotionally invested in the outcomes of each part of the process. They emotionally feel the rightness or wrongness of their intuitions at the goal, action, and result stages, and can use that feedback to improve their intuitive decision making.",
-            "uid": "hLqwTa1Jm"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "many programmers and other knowledge workers never advance past the Advanced Beginner stage primarily because **they never accept emotional consequences for their decisions**",
-            "uid": "TbFs2OqdW"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "If you don\u2019t look first inside yourself to assess your intuition around goals and actions, and instead choose to look for more recipes, you are not proficient or an expert.",
-            "uid": "c7j52uu01"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "even if you __think__ you\u2019re proficient or an expert, **assume you\u2019re an advanced beginner.**",
-            "uid": "rDChSgX-r"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804829,
-            "string": "If you assume you\u2019re an expert then learning stops, and it\u2019s better to assume you\u2019re more of a novice and that there\u2019s more to learn than to assume you already know everything.",
-            "uid": "XHHFJHH32"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804829,
-        "string": "<h3>Engagement: Involved Goals, Choices, and Outcomes</h3>",
-        "uid": "Egqa8cXXL"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "Deliberate practice requires a teacher or method of feedback that can provide practice activities designed to help a student improve his or her performance.",
+            "edit-time": 1607323076143,
+            "string": "Deliberate practice requires a teacher or method of feedback that can provide practice activities designed to help a student improve his or her performance. [[deliberate practice]]",
             "uid": "HQuxV8Eo7"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "Practice must be done near maximal effort where you\u2019re constantly being taken out of your comfort zone. It shouldn\u2019t be light or \u201cfun.\u201d",
-            "uid": "IasYQ0zUo"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "The practice must be well defined with specific goals and not aimed at \u201coverall improvement.\u201d",
-            "uid": "eT-vvA1CW"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "You need feedback and constant little improvements, modifying efforts in response to feedback.You must be focusing on building and improving specific skills by focusing on aspects of those skills and improving them.",
-            "uid": "FbnTcCmAl"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607251804760,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804830,
-        "string": "<h2>How to Go from Novice to Expert</h2>",
+        "edit-time": 1607323067471,
+        "string": "[[How to Go from Novice to Expert]]",
         "uid": "wSL5aYLQK"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "At this stage **focus on collecting recipes**.",
-            "uid": "oCHZi88hW"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "ou should be reading books, blogs, listening to speeches, taking classes, whatever will give you a large repertoire of recipes as fast as possible.",
-            "uid": "PHSqmYaNU"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "But you can\u2019t just read them, **you have to apply them**. Try following along with them, doing whatever is being talked about, and not just reading.",
-            "uid": "Pan4gZcxM"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "If you only read or hear about the recipes but don\u2019t do them yourself **it is impossible to move beyond novice.**",
-            "uid": "jx4Upg8Bk"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "The next stage requires a contextual understanding of different situations and the only way you develop that context is through practice.",
-            "uid": "hfsjv1erH"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804830,
-        "string": "<h3>Going from Zero to Novice</h3>",
-        "uid": "hb2O14dFM"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "you should begin to develop some contextual understanding of when to use which recipes. Start looking for more __maxims__ and applying them to your practice, and seeing if they make sense to you.",
-            "uid": "cN_bTKg1m"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "Try breaking away from the clear recipes you have, trying to change things in them, and seeing what happens.",
-            "uid": "YJ8jpMjgg"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "Make your own versions of the recipes by piecing together different recipes and looking up help as you need it.",
-            "uid": "p1ID2SVNd"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "**The only way you graduate from novice is by breaking away from fixed recipes**.",
-            "uid": "Uk0-B-gZC"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "when something goes wrong, **start looking for how to solve it without blaming the recipe.**",
-            "uid": "YZ2p6vIXO"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "you can start learning to troubleshoot by combining different sources of knowledge instead of relying on singular recipes.",
-            "uid": "fC5xlZuae"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804830,
-        "string": "<h3>Going from Novice to Advanced Beginner</h3>",
-        "uid": "vtzpmg5Jl"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "At this point you should have a large repertoire of recipes and maxims that you can apply, but not a lot of clarity around what is important in deciding which ones to use.",
-            "uid": "j8_uEoGLJ"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "You might get overwhelmed by decisions easily, and as a result, revert to simply following a recipe and hoping you get lucky.",
-            "uid": "xH1pST92F"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "you need to start trying to figure out what data and information is important and what isn\u2019t.",
-            "uid": "NtBrlfuQI"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "This can be hard to do on your own, which is why the Advanced Beginner to Competent stage is benefited greatly by a mentor who can provide rules and guidelines on what information to focus on.",
-            "uid": "3sWKi3DBG"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "Without a mentor, you\u2019ll need to find guidelines and rules online or in books to help you, or through trial and error, develop them on your own.",
-            "uid": "M9HXHOwdc"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "One method for doing this might be to deliberately restrict yourself in a situation to not using all of your available recipes.",
-            "uid": "pNAuipVn_"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "Maybe you force yourself to write without any adjectives, or draw using only pencil, or play with only your pawns and king.",
-            "uid": "Rv0ciwHV-"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "**By deliberately limiting what data you can focus on, you\u2019ll develop a more intuitive understanding of what is and isn\u2019t relevant in novel situations**.",
-            "uid": "NA2NX-sPc"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "You\u2019re no longer following clearly defined recipes, you\u2019re improvising more, and that means you need to accept the emotional stress of doing so. **Don\u2019t resist this emotional burden**.",
-            "uid": "U7b9TT86j"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804830,
-            "string": "To become Competent, deliberately limit what information you can consider in order to develop a more intuitive understanding of what is and isn\u2019t important.",
-            "uid": "P72s-o-Mb"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804830,
-        "string": "<h3>Going from Advanced Beginner to Competent</h3>",
-        "uid": "rRvMsMzx6"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "At this point you\u2019re emotionally invested in the outcomes and you\u2019re starting to develop an understanding of what inputs are important, but you haven\u2019t completely internalized what data you need to focus on.",
-            "uid": "954--x7Bv"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "There\u2019s still a __choice__ being made about what to focus on, it\u2019s not __intuitive__.",
-            "uid": "siaUwqZM8"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "you need to keep employing deliberate practice around what to focus on and set as your goal and assess the outcomes in order to reach proficiency.",
-            "uid": "cRQVMBnmX"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "As you get better at picking what data and goals to focus on, you will slowly develop a more intuitive understanding of which decisions will do well and which ones won\u2019t and you\u2019ll move from competent to proficient.",
-            "uid": "xlke5c68g"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "It will be an emergent shift. You won\u2019t be able to do it as deliberately as you did the last three, rather, you\u2019ll wake up one day and realize you know what to focus on.",
-            "uid": "JNjYoJfvb"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "You\u2019ll look at a chess board and know what your goal should be. You\u2019ll look at a setting and know what variables to focus on with your photo. You\u2019ll look at a site and know which marketing tactics will work well for it.",
-            "uid": "Nts7awvDP"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "To become Proficient, keep practicing and collecting more experience until your chosen perspective becomes intuitive. Until you have a sense of what to focus on and what goals to set instead of having to choose it deliberately.",
-            "uid": "W9a7bTiUc"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804831,
-        "string": "<h3>Going from Competent to Proficient</h3>",
-        "uid": "UAIaK4W04"
-      },
-      {
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "To reach this stage, it again comes back to deliberate practice. You must keep experimenting and practicing and limiting yourself in order to see how different goals you intuitively set lead to different outcomes until you can intuitively set the process as well.",
-            "uid": "RAF8w5CoP"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607251804831,
-            "string": "Practice following your instincts and seeing where they lead, and allow yourself to feel good or bad about the outcomes in order to learn the most from the experience. You have to let yourself be emotionally involved in the whole process in order to develop expertise.",
-            "uid": "7BqGOhsyU"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607251804760,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804831,
-        "string": "<h3>Going from Proficient to Expert</h3>",
-        "uid": "uxs08ZJMQ"
       },
       {
         "children": [
@@ -63973,8 +63811,8 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607251804760,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607251804831,
-        "string": "<h2>Your Roadmap for Skill Development</h2>",
+        "edit-time": 1607323764164,
+        "string": "Your Roadmap for Skill Development",
         "uid": "YKUgWnixv"
       },
       {
@@ -64647,6 +64485,58 @@
         "edit-time": 1607321539952,
         "string": "The challenge",
         "uid": "5NLa0xJyR"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323157111,
+                "string": "You should be reading books, blogs, listening to speeches, taking classes, whatever will give you a large repertoire of recipes as fast as possible.",
+                "uid": "PHSqmYaNU"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "But you can\u2019t just read them, **you have to apply them**. Try following along with them, doing whatever is being talked about, and not just reading.",
+                "uid": "Pan4gZcxM"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607251804760,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323167668,
+            "string": "At this stage **focus on collecting and trying recipes**.",
+            "uid": "oCHZi88hW"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607251804760,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607251804830,
+            "string": "If you only read or hear about the recipes but don\u2019t do them yourself **it is impossible to move beyond novice.**",
+            "uid": "jx4Upg8Bk"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607251804760,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323179419,
+            "string": "The next stage requires a contextual understanding of different situations and the only way you develop that context is through practice. [[contextual understanding]]",
+            "uid": "hfsjv1erH"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607251804760,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323127335,
+        "string": "Going from Zero to Novice",
+        "uid": "hb2O14dFM"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -64740,6 +64630,86 @@
         "edit-time": 1607321802080,
         "string": "The challenge",
         "uid": "pE6tHhVDt"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323258624,
+                "string": "You can start learning to troubleshoot by combining different sources of knowledge instead of relying on singular recipes.",
+                "uid": "fC5xlZuae"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323199486,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323210050,
+            "string": "Develop and refine [[contextual understanding]]",
+            "uid": "G3KEv1LJt"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804830,
+                    "string": "Try breaking away from the clear recipes you have, trying to change things in them, and seeing what happens.",
+                    "uid": "YJ8jpMjgg"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804830,
+                    "string": "Make your own versions of the recipes by piecing together different recipes and looking up help as you need it.",
+                    "uid": "p1ID2SVNd"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607323221829,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323243848,
+                "string": "Breaking away from the recipes and make own versions",
+                "uid": "3eSg2P1s5"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "**The only way you graduate from novice is by breaking away from fixed recipes**.",
+                "uid": "Uk0-B-gZC"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323269033,
+                "string": "When something goes wrong, **start looking for how to solve it without blaming the recipe.**",
+                "uid": "YZ2p6vIXO"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323276759,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323351865,
+            "string": "Start to develop ability to taking responsibilities about our own action [[taking responsibilities]]",
+            "uid": "cjg-BBmqj"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607251804760,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323189488,
+        "string": "Going from Novice to Advanced Beginner",
+        "uid": "vtzpmg5Jl"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -64761,36 +64731,46 @@
             "uid": "2lbUkXj5-"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607322004758,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322009215,
+                "string": "Focus primarily on shutter speed when it\u2019s a fast moving subject.",
+                "uid": "HQswdyHQT"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607322011427,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322011427,
+                "string": "The unbalanced pawn structure in this game is important because [other variables].",
+                "uid": "b-tRpc_4c"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607322013786,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322013786,
+                "string": "To slow down off the highway, focus on speed, not changing gears.",
+                "uid": "UYBfzI5Jy"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322017300,
+                "string": "For this kind of article, I should apply SEO maxims like X, Y, Z",
+                "uid": "lA3jYqiG4"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607322004758,
+            "create-time": 1607322191811,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607322009215,
-            "string": "Focus primarily on shutter speed when it\u2019s a fast moving subject.",
-            "uid": "HQswdyHQT"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607322011427,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607322011427,
-            "string": "The unbalanced pawn structure in this game is important because [other variables].",
-            "uid": "b-tRpc_4c"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607322013786,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607322013786,
-            "string": "To slow down off the highway, focus on speed, not changing gears.",
-            "uid": "UYBfzI5Jy"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607251804760,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607322017300,
-            "string": "For this kind of article, I should apply SEO maxims like X, Y, Z",
-            "uid": "lA3jYqiG4"
+            "edit-time": 1607322195467,
+            "string": "Example about rules",
+            "uid": "tiw6hqABL"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -64801,6 +64781,16 @@
         "uid": "3wnDUHHFN"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322208526,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322231343,
+            "string": "No attachments with goals or how to do, only outcomes",
+            "uid": "vMehQMOru"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607321975428,
         "edit-email": "ngoctienvt@gmail.com",
@@ -64809,12 +64799,136 @@
         "uid": "MzbNRhGEC"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322244489,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322296400,
+            "string": "Self-destroy based on the result of the outcome",
+            "uid": "Rlh201Sp5"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607322081330,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607322081330,
-        "string": "",
+        "edit-time": 1607322244496,
+        "string": "The challenge",
         "uid": "tcHntGZj9"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323417501,
+                "string": "Trying to figure out what data and information is important and what isn\u2019t.",
+                "uid": "NtBrlfuQI"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323371782,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323395536,
+            "string": "Gaining clarity about big picture and what's important",
+            "uid": "qzq6Lnlpc"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "Maybe you force yourself to write without any adjectives, or draw using only pencil, or play with only your pawns and king.",
+                "uid": "Rv0ciwHV-"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323567171,
+                "string": "**By deliberately limiting what data you can focus on, you\u2019ll develop a more intuitive understanding of what is and isn\u2019t relevant in novel situations**.",
+                "uid": "NA2NX-sPc"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607251804760,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323465119,
+            "string": "Setting constraint to deliberately restrict yourself in a situation to not using all of your available recipes. [[constraint]]",
+            "uid": "pNAuipVn_"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "You\u2019re no longer following clearly defined recipes, you\u2019re improvising more, and that means you need to accept the emotional stress of doing so. **Don\u2019t resist this emotional burden**.",
+                "uid": "U7b9TT86j"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323518549,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323532511,
+            "string": "Start to develop [[personal rules]] and making [[personal choices]]",
+            "uid": "nekR3YkUC"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323554779,
+                "string": "To become Competent, deliberately limit what information you can consider in order to **develop a more intuitive understanding of what is and isn\u2019t important.**",
+                "uid": "P72s-o-Mb"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "You might get overwhelmed by decisions easily, and as a result, revert to simply following a recipe and hoping you get lucky.",
+                "uid": "xH1pST92F"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "This can be hard to do on your own, which is why the Advanced Beginner to Competent stage is benefited greatly by a mentor who can provide rules and guidelines on what information to focus on.",
+                "uid": "3sWKi3DBG"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804830,
+                "string": "Without a mentor, you\u2019ll need to find guidelines and rules online or in books to help you, or through trial and error, develop them on your own.",
+                "uid": "M9HXHOwdc"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323479799,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323483009,
+            "string": "Note",
+            "uid": "a3NEKPT36"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607251804760,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323359039,
+        "string": "Going from Advanced Beginner to Competent",
+        "uid": "rRvMsMzx6"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -64829,5 +64943,429 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1607322054863,
     "title": "personal rules"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322405853,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322417809,
+            "string": "Don't know exactly how to do yet",
+            "uid": "74UpieDF4"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607322492593,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607322579935,
+                    "string": "Competent making personal choices related to what they need to focus on based on [[personal rules]]",
+                    "uid": "0pOmmeXSP"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607322518530,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607322614248,
+                    "string": "While a proficient person intuitively knows what they need to focus on and keep their focus on that. ",
+                    "uid": "O_0i_ei1P"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607322614576,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607322709139,
+                    "string": "The proficient person focus on what's important, while the competent person try based on their rigid rules",
+                    "uid": "f9xOB7Lzs"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607322417803,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322723742,
+                "string": "a change from perspective",
+                "uid": "4IWmGwT5K"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607322559745,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607322760154,
+                "string": "they start to move from attachment with outcome to the focus point/ the bigger goal",
+                "uid": "bEuJtmhAy"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322723736,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322723736,
+            "string": "A shift from competent to proficient is ",
+            "uid": "oSzaEGF6B"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607322370459,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607322405858,
+        "string": "Develop intuitive sense of what the goal should be based on the context or given situation",
+        "uid": "L8YsdfpDb"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804831,
+                "string": "There\u2019s still a __choice__ being made about what to focus on, it\u2019s not __intuitive__.",
+                "uid": "siaUwqZM8"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323601385,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323609657,
+            "string": "Internalized what data need to focus on",
+            "uid": "TVKNVRR5j"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607323637737,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323637737,
+                "string": "what to focus on ",
+                "uid": "fx6FQbMgR"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607323649210,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323649210,
+                "string": "set as your goal ",
+                "uid": "ktP-IkqQ8"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607323642628,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323649215,
+                "string": "assess the outcomes in order to reach proficiency.",
+                "uid": "0fiBFCwBm"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323635068,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323635068,
+            "string": "Keep employing deliberate practice around ",
+            "uid": "9jf2qoT8G"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804831,
+                "string": "As you get better at picking what data and goals to focus on, you will slowly develop a more intuitive understanding of which decisions will do well and which ones won\u2019t and you\u2019ll move from competent to proficient.",
+                "uid": "xlke5c68g"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607251804831,
+                    "string": "You\u2019ll look at a chess board and know what your goal should be. You\u2019ll look at a setting and know what variables to focus on with your photo. You\u2019ll look at a site and know which marketing tactics will work well for it.",
+                    "uid": "Nts7awvDP"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607251804831,
+                "string": "It will be an emergent shift. You won\u2019t be able to do it as deliberately as you did the last three, rather, you\u2019ll wake up one day and realize you know what to focus on.",
+                "uid": "JNjYoJfvb"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323687698,
+                "string": "To become Proficient, keep practicing and collecting more experience **until your chosen perspective becomes intuitive.** **Until you have a sense of what to focus on and what goals to set** instead of having to choose it deliberately.",
+                "uid": "W9a7bTiUc"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323667600,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323669232,
+            "string": "Note",
+            "uid": "aJX3nl5RW"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607251804760,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323581388,
+        "string": "Going from Competent to Proficient",
+        "uid": "UAIaK4W04"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607322760148,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607322760148,
+        "string": "",
+        "uid": "eQhLuMsSr"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607322304253,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607322304256,
+    "title": "The Proficient Stage"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607322312967,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607322312968,
+    "title": "personal choices"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607322358912,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607322361909,
+    "title": "outcome attachment"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607322603927,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607322603929,
+    "title": "intuitive knowing"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322807577,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322811246,
+            "string": "Know what the goal should be",
+            "uid": "AYOhjqye0"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322811241,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322815119,
+            "string": "What they need to do",
+            "uid": "llcmkriaO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322815113,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322820321,
+            "string": "What should happen as a result",
+            "uid": "59wy62Sii"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607322795081,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607322807582,
+        "string": "Operate entirely by intuition",
+        "uid": "UMHVrr876"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322864453,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322873931,
+            "string": "They know what's important and what isn't",
+            "uid": "z3pTNrjQG"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322873925,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322905511,
+            "string": "They intuitively know what's important and need to focus on the specific tcontext",
+            "uid": "1LnF1bmgD"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322905505,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607322955638,
+            "string": "They make decision intuitively, before they know why",
+            "uid": "V6e6vCBC4"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607322955632,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323053163,
+            "string": "They attach with the whole process and have responsibility for their emotions and goals, actions, results to learn and grow from that.",
+            "uid": "apipkP3Y7"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607322820314,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607322922872,
+        "string": "How a expert operate",
+        "uid": "4oNP5X4qg"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607323724736,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607323724736,
+                    "string": "how different goals you intuitively set lead to different outcomes",
+                    "uid": "BxE7fNzzk"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607251804760,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607323730755,
+                    "string": "until you can **intuitively set the process** as well.",
+                    "uid": "RAF8w5CoP"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607323718585,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323718585,
+                "string": "You must keep experimenting and practicing and limiting yourself in order to see",
+                "uid": "4AFqK-3mO"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323712113,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323712113,
+            "string": "Deliberate practice. ",
+            "uid": "0Nyb7IeLl"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323748204,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323748204,
+            "string": "Practice following your instincts and seeing where they lead,",
+            "uid": "WHrCysNWa"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607251804760,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607323754913,
+                "string": "You have to let yourself be emotionally involved in the whole process in order to develop expertise.",
+                "uid": "7BqGOhsyU"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323754907,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323754907,
+            "string": "Allow yourself to feel good or bad about the outcomes in order to learn the most from the experience. ",
+            "uid": "hVWO3kzTJ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607251804760,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323703712,
+        "string": "Going from Proficient to Expert",
+        "uid": "uxs08ZJMQ"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607322996488,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323001621,
+        "string": "",
+        "uid": "Qwiqvqqbo"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607322779821,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607322779823,
+    "title": "The Expert Stage"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607323009639,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607323009642,
+    "title": "beginner's mind"
+  },
+  {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607323920748,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607323927605,
+        "string": "[[Level of expertise]]",
+        "uid": "3eKMds4xW"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607323067474,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607323067475,
+    "title": "How to Go from Novice to Expert"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607323099099,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607323099100,
+    "title": "aspect focus"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607323179421,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607323179422,
+    "title": "contextual understanding"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607323351866,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607323351867,
+    "title": "taking responsibilities"
   }
 ]

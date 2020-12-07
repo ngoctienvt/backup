@@ -11,6 +11,9 @@
 
 - For this to happen, I need to have a clear [constraint](<constraint.md>)
 
+## [The Competent Stage](<The Competent Stage.md>)
+- Setting constraint to deliberately restrict yourself in a situation to not using all of your available recipes. [constraint](<constraint.md>)
+
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
 - direction [planning](<planning.md>) based on the the right intention and challenging [constraint](<constraint.md>)
 
