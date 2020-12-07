@@ -1,4 +1,4 @@
-- Last night, I dreamt about dating with [[@Nguyễn Mỹ Linh]], I will learn to release these needs so that I could be completely neutral about her instead of having personal desire.
+- Last night, I dreamt about dating with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>), I will learn to release these needs so that I could be completely neutral about her instead of having personal desire.
     - If I have feeling, it is unattachment feeling that want to raise her up.
 - I felt uncomfortable and judge my teammates as a burden when they don't active as I expect. I felt that it's better to do alone instead of having to chase them. But actually, I realize that I need to be my best part first. When I'm doing my part, it will help them to engage the process easier.
 - - Đào sâu những nội dung mà nhóm quan tâm
