@@ -83,7 +83,7 @@
 ## [true happiness](<true happiness.md>)
 - seeking and living the truth on a [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+## [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
 ## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)

@@ -8,7 +8,7 @@
         - [[Coaching MOC]]
         - [[Training MOC]]
     - ### System
-        - [[🌱PKDS - Personal Knowledge Development System ]]
+        - [[🌱PKDS - Personal Knowledge Development System]]
         - [[🧭Productivity System MOC ]]
             - [[Area of Focus]]
             - [[Projects MOC]]

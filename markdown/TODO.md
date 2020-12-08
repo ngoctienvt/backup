@@ -19,7 +19,7 @@
             - {{[[TODO]]}} Work on [[The Engineer MOC]]
     - ### Master projects
         - Building a PKDS training program
-            - Developing [[🌱PKDS - Personal Knowledge Development System ]]
+            - Developing [[🌱PKDS - Personal Knowledge Development System]]
                 - {{[[TODO]]}} Developing [[Creating phase]]
             - Design PKDS training program
                 - Learning [[🌱Instructional Design]]
@@ -28,7 +28,7 @@
         - {{[[TODO]]}} Note-taking [[Courses - Living from the place of surrender]]
         - {{[[TODO]]}} Reading [[Books - Clarity - Clear mind, Better performance, Bigger results]]
     - Working
-        - [[🌱PKDS - Personal Knowledge Development System ]]
+        - [[🌱PKDS - Personal Knowledge Development System]]
             - {{[[TODO]]}} Refining and clarifying each phase
             - {{[[TODO]]}} Developing [[Creating phase]]
         - Productivity

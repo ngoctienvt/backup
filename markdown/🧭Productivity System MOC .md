@@ -8,4 +8,4 @@
         - [[🌱The Plane ]] - Doing
             - [[🌱Workflow ]]
         - [[The Engineer MOC]] - Ensure doing the things right
-    - ### [[🌱PKDS - Personal Knowledge Development System ]]
+    - ### [[🌱PKDS - Personal Knowledge Development System]]

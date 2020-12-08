@@ -8,7 +8,7 @@
         - [🌱The Plane ](<🌱The Plane .md>) - Doing
             - [🌱Workflow ](<🌱Workflow .md>)
         - [The Engineer MOC](<The Engineer MOC.md>) - Ensure doing the things right
-    - ### [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+    - ### [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
 # Backlinks
 ## [November 25th, 2020](<November 25th, 2020.md>)

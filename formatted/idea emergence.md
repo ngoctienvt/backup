@@ -40,6 +40,3 @@ The Home note allows for bottom-up “Convergent” thinking by consolidating ne
 ## [November 8th, 2020](<November 8th, 2020.md>)
 - [idea emergence](<idea emergence.md>)
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
-- [idea emergence](<idea emergence.md>)
-

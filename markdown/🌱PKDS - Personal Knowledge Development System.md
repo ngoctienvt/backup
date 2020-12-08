@@ -1,0 +1,6 @@
+- [[🌱Progressive Development Approach]]
+    - [[🌲Top-down End-goal]]
+    - [[🌲Bottom-up Emergence]]
+- [[🌱Personal Knowledge Development cycle]]
+- ---
+- [[PKDS - Personal Knowledge Development System terminology]]

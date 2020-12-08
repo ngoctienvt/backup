@@ -1,5 +1,5 @@
 - #[[Evergreen notes]]
 - [[Level of expertise]]
-- [[🌱PKDS - Personal Knowledge Development System ]]
+- [[🌱PKDS - Personal Knowledge Development System]]
 - [[end goal]]
 - 

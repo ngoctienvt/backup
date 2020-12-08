@@ -1,10 +1,10 @@
-- I felt that I'm becoming more and more relax with external stuff, allow myself to be wrong, to be not perfect, to be vulnerable. And release my pressure on other people based on my [[samskaras]].
-- I also noticed that [[Level of expertise]] is not just about a broad skill, but it could be break down to many smaller skillset and I will have two things
+- I felt that I'm becoming more and more relax with external stuff, allow myself to be wrong, to be not perfect, to be vulnerable. And release my pressure on other people based on my [samskaras](<samskaras.md>).
+- I also noticed that [Level of expertise](<Level of expertise.md>) is not just about a broad skill, but it could be break down to many smaller skillset and I will have two things
     - a general skill level to achieve a certain outcomes. 
         - The skill is evaluated based on the outcome and the general performance
     - a specific skill level of any given skill. 
         - The skill is evaluated based on my own sense
-- [[🌱PKDS - Personal Knowledge Development System]] 
+- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>) 
     - Tasks analysis
         - Resources
             - Preparing resources

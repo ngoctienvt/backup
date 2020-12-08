@@ -1,6 +1,6 @@
 - #[Evergreen notes](<Evergreen notes.md>)
 - [Level of expertise](<Level of expertise.md>)
-- [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 - [end goal](<end goal.md>)
 - 
 

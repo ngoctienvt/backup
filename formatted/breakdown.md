@@ -1,7 +1,7 @@
 
 # Backlinks
 ## [November 11th, 2020](<November 11th, 2020.md>)
-- When developing my [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>), I noticed that [breakdown](<breakdown.md>)
+- When developing my [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>), I noticed that [breakdown](<breakdown.md>)
 
 ## [November 29th, 2020](<November 29th, 2020.md>)
 - I noticed that I get stuck because some of the small things has not process properly yet, and I'm trying to work on the big tasks at once, that's making me feel stress and hard to focus. [breakdown](<breakdown.md>)

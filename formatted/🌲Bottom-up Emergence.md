@@ -68,7 +68,7 @@
 ## [network note-taking](<network note-taking.md>)
 - My usage of network note-taking will be based on [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) with the main approach is [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+## [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
 ## [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)

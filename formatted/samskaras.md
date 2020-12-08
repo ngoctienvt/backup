@@ -11,6 +11,9 @@
 ## [December 3rd, 2020](<December 3rd, 2020.md>)
 - Last night dream, I had so much fear and limit myself under the rules of society. I noticed that's I also had a tendency to try to gain benefits for myself, instead of thinking in a way that's not for my personal self, but for reality. [samskaras](<samskaras.md>)
 
+## [December 8th, 2020](<December 8th, 2020.md>)
+- I felt that I'm becoming more and more relax with external stuff, allow myself to be wrong, to be not perfect, to be vulnerable. And release my pressure on other people based on my [samskaras](<samskaras.md>).
+
 ## [List of samskaras](<List of samskaras.md>)
 - [samskaras](<samskaras.md>)
 

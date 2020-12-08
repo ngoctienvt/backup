@@ -51,7 +51,7 @@
 
 - Synthesis things by a [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 
-## [🌱PKDS - Personal Knowledge Development System ](<🌱PKDS - Personal Knowledge Development System .md>)
+## [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 - [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 
 ## [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
