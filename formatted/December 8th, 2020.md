@@ -18,8 +18,18 @@
             - Creating MOC
             - Collecting processed notes
             - Processing/ Clarifying MOC
-        - 
-        - Developing Permanent Notes
-        - 
-- 
-- 
+        - Outputing
+            - Developing Permanent Notes
+            - Developing interest topic
+            - Write outline for topic
+            - Write detail information
+            - Reviewing
+            - Publishing
+- It makes me feel much more relax when I can just simply do tasks analysis without worrying about how it will form into. My [need for forming result early](<need for forming result early.md>) instead of let things emergence by itself is a big barrier for me to work effectively. [design for emergence](<design for emergence.md>)
+- I noticed I still have some [need for recognition](<need for recognition.md>) when I'm hearing someone praise me, my heart is open due to that, but it's condition so I want to let it go. I still appreciate their honor for me, but it's unconditional.
+- [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) is the one that I want to support her unconditionally, and not about my personal needs. The reason is I don't clearly know yet, but I just feel that she's important with me. Before this stage of life, I'm focusing to work on myself mainly, and live my own life first. Now it's started to stabilize and I can take care of myself, so I'm learning to take care important people in my life in an unconditional manner as well. [Learning to care about other people](<Learning to care about other people.md>)
+- I want to clarify about what's the 5 most important participant aspects that we need to care about.
+    - And what is the ideal results for explore these aspects.
+    - For instance, if about willingness, 
+        - then what is the level of importance?
+        - how could we explore deep this?

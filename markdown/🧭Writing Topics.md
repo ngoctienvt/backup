@@ -2,6 +2,7 @@
     - [[understanding before solving]]
     - [[the fifth force - will-power]]
 - Personal Development
+    - [[Learning to care about other people]]
     - [[How to self-development effectively?]]
     - [[How to Go from Novice to Expert]]
 - Spirituality

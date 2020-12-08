@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 8th, 2020](<December 8th, 2020.md>)
+- It makes me feel much more relax when I can just simply do tasks analysis without worrying about how it will form into. My [need for forming result early](<need for forming result early.md>) instead of let things emergence by itself is a big barrier for me to work effectively. [design for emergence](<design for emergence.md>)
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - The [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) is about how I could create [optimal conditions](<optimal conditions.md>) and [design for emergence](<design for emergence.md>)
 
