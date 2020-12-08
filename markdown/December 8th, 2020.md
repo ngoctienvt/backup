@@ -25,6 +25,7 @@
             - Write detail information
             - Reviewing
             - Publishing
+- [[>]] Test
 - It makes me feel much more relax when I can just simply do tasks analysis without worrying about how it will form into. My [[need for forming result early]] instead of let things emergence by itself is a big barrier for me to work effectively. [[design for emergence]]
 - I noticed I still have some [[need for recognition]] when I'm hearing someone praise me, my heart is open due to that, but it's condition so I want to let it go. I still appreciate their honor for me, but it's unconditional.
 - [[@Nguyễn Mỹ Linh]] is the one that I want to support her unconditionally, and not about my personal needs. The reason is I don't clearly know yet, but I just feel that she's important with me. Before this stage of life, I'm focusing to work on myself mainly, and live my own life first. Now it's started to stabilize and I can take care of myself, so I'm learning to take care important people in my life in an unconditional manner as well. [[Learning to care about other people]]
@@ -34,10 +35,13 @@
         - then what is the level of importance?
         - how could we explore deep this?
     - Tasks analysis
+    - The goal of this workshop is to clarify what is the important aspect of participant that we must clarify, and clarify what is the reason or usage these aspects influence on.
         - Selecting 5 most important participant aspects
             - Pleasure points, pain points, desire...
             - What is the ideal way to select 5 most important aspects with 14 people presence?
         - Clarify what aspects of a workshop that these aspects influence? 
             - Purpose, range of content, the motivation...
-        - How we can use these aspects to shape our workshop?
-            - 
+            - How we can use these aspects to shape our workshop
+    - I want to know the important aspects of participant to know what I must focus on 
+        - I want to know what I must focus on to create an effective workshop
+- It's really about [[getting in touch with reality]] and [[🌲Top-down End-goal]] that I'm learning from this [[Courses - Design Lean Workshop]]. The reason is it's about I'm getting connect with the participants and clarify how 

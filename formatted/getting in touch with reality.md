@@ -5,6 +5,9 @@
 
 - Do work at the same time create the feeling of productive, but not actually. [getting in touch with reality](<getting in touch with reality.md>)
 
+## [December 8th, 2020](<December 8th, 2020.md>)
+- It's really about [getting in touch with reality](<getting in touch with reality.md>)
+
 ## [November 16th, 2020](<November 16th, 2020.md>)
 - I dream that I still have attachment to things and it makes me even put myself in danger by following the urge unconsciously. And I still not be able to detach myself easliy with these type of dreams or mental stories. I need to learn to keep myself detach with them, and notice that only things real is what's happening now, I could use my intellectual mind to interact with the reality, not let the mental stories distract me out of the reality. [getting in touch with reality](<getting in touch with reality.md>)
 

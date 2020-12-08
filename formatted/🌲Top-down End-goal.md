@@ -26,6 +26,9 @@
 
 - Tagging all the notes we want to review for a project could make our choices easier, by **creating a boundary** around the information we’ll consider before taking action. [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 
+## [December 8th, 2020](<December 8th, 2020.md>)
+- It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
+
 ## [November 29th, 2020](<November 29th, 2020.md>)
 - I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 

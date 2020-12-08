@@ -90,6 +90,10 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
                         - Their interests, hobbies
                         - Thinking level, physical body characteristics
                         - Possible judgments, prejudices, beliefs about the topics
+                    - 
+                    - op
+                    - 6- Những thú vui, sở thích, đam mê của họ
+                    - 9- Những điều cần tránh nhắc tới (liên quan tới văn hóa, tôn giáo)
                 - Choose what's priority
                 - Describe participant based on these characteristics
             - Clarify pain points and pleasure points
@@ -110,6 +114,30 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
     - Evaluate
         - Participants 
         - Workshop
+- Structure of a workshop
+    - Overall goal
+        - Major goal
+            - Module
+                - Task
+                    - Activity
+                - Task
+                    - Activity
+            - Module
+                - Task
+                    - Activity
+                - Task
+                    - Activity
+        - Major goal
+            - Module
+                - Task
+                    - Activity
+                - Task
+                    - Activity
+            - Module
+                - Task
+                    - Activity
+                - Task
+                    - Activity
 - Training activities
     - Purpose of training activities
         - participant connection

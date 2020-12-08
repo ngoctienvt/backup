@@ -141,6 +141,7 @@ Whole-to-Part
         - https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details
         - https://docs.google.com/document/d/1EB7w1Wz7gGdrrozba0ljagYGZ8m8UC8ysO6IobBKOnI/edit
         - [Questions to clarify typical participant and goals of the workshop?](<Questions to clarify typical participant and goals of the workshop?.md>)
+            - Bài tập này bao gồm những phần sau
         - Workshop topic 1
             - ## 1- Describe potential participants
                 - ### What is my topic for the workshop?
@@ -222,6 +223,9 @@ Whole-to-Part
     - 4. Tạo sự liên kết giữa chương trình và tối giản các chi tiết không cần thiết.
 
 # Backlinks
+## [December 8th, 2020](<December 8th, 2020.md>)
+- It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down End-goal](<🌲Top-down End-goal.md>) that I'm learning from this [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>).
+
 ## [🎯Focus of the week](<🎯Focus of the week.md>)
 - Learning and doing exercises for [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>)
 
