@@ -65,4 +65,12 @@
     - There will be less thing I have to protect with, but let go instead.
     - I could see the reality as it is easier, so that I could serve it better. 
     - Tools are what we have to use, not what we have to attach with. Without clarity but only attachments, we will have a tendency to protect our tools or false self, rather than harmony and raise the reality. [[raise the moments]]
-    - 
+- #[[my quotes]]  
+    - [[>]] If we want to know whether we are on the right track or not? Observe ourselves when there is an absence of favorable conditions
+- 
+- 
+- 
+- 
+- 
+- 
+- 
