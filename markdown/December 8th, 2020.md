@@ -33,3 +33,11 @@
     - For instance, if about willingness, 
         - then what is the level of importance?
         - how could we explore deep this?
+    - Tasks analysis
+        - Selecting 5 most important participant aspects
+            - Pleasure points, pain points, desire...
+            - What is the ideal way to select 5 most important aspects with 14 people presence?
+        - Clarify what aspects of a workshop that these aspects influence? 
+            - Purpose, range of content, the motivation...
+        - How we can use these aspects to shape our workshop?
+            - 
