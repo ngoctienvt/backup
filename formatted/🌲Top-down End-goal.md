@@ -29,6 +29,8 @@
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 
+- By work from a top-down view, it provokes more things inside of me and requires me to put more energy to process it, because they are not emergence, but actually force to appear instead. It's good if the pictures are somehow connected to each other and just need to clarify. So [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
+
 ## [November 29th, 2020](<November 29th, 2020.md>)
 - I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
 

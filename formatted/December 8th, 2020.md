@@ -25,10 +25,9 @@
             - Write detail information
             - Reviewing
             - Publishing
-- [>](<>.md>) Test
 - It makes me feel much more relax when I can just simply do tasks analysis without worrying about how it will form into. My [need for forming result early](<need for forming result early.md>) instead of let things emergence by itself is a big barrier for me to work effectively. [design for emergence](<design for emergence.md>)
 - I noticed I still have some [need for recognition](<need for recognition.md>) when I'm hearing someone praise me, my heart is open due to that, but it's condition so I want to let it go. I still appreciate their honor for me, but it's unconditional.
-- [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) is the one that I want to support her unconditionally, and not about my personal needs. The reason is I don't clearly know yet, but I just feel that she's important with me. Before this stage of life, I'm focusing to work on myself mainly, and live my own life first. Now it's started to stabilize and I can take care of myself, so I'm learning to take care important people in my life in an unconditional manner as well. [Learning to care about other people](<Learning to care about other people.md>)
+- [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) is the one that I want to support her unconditionally, and not about my personal needs. The reason is I don't clearly know yet, but I just feel that she's important with me. Before this stage of life, I'm focusing to work on myself mainly, and live my own life first. Now it's started to stabilize and I can take care of myself, so I'm learning to take care important people in my life in an unconditional manner as well. [Learning to care about other people unconditionally](<Learning to care about other people unconditionally.md>)
 - I want to clarify about what's the 5 most important participant aspects that we need to care about.
     - And what is the ideal results for explore these aspects.
     - For instance, if about willingness, 
@@ -44,4 +43,26 @@
             - How we can use these aspects to shape our workshop
     - I want to know the important aspects of participant to know what I must focus on 
         - I want to know what I must focus on to create an effective workshop
-- It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down End-goal](<🌲Top-down End-goal.md>) that I'm learning from this [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>). The reason is it's about I'm getting connect with the participants and clarify how 
+- It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down End-goal](<🌲Top-down End-goal.md>) that I'm learning from this [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>). The reason is it's about I'm getting connect with the participants and clarify how I want to support them based on their needs. 
+    - By work from a top-down view, it provokes more things inside of me and requires me to put more energy to process it, because they are not emergence, but actually force to appear instead. It's good if the pictures are somehow connected to each other and just need to clarify. So [🌲Top-down End-goal](<🌲Top-down End-goal.md>) is hard to start with, but is good when the puzzles are in place and start to reveal the big pictures that we can complete by focus our attention on. [complete the emerging pictures](<complete the emerging pictures.md>)
+- I want to host a workshop about end goal, so that it will help people to realize what they are truly seeking, and have a right way to navigate their life. [Workshop - Identify Your End Goals](<Workshop - Identify Your End Goals.md>)
+    - This workshop will provide a simple process to identify their end goal and what they need to work on to achieve their end goal, so that they could have new awareness and start to re-think about their own life.
+    - Tasks analysis
+        - Write down list of their desires
+        - Identify end goals
+            - Using "I want..., so I..." and repeat this process until 
+                - their is no "so"
+                - or become a circle
+        - Identify what they need to achieve the end goals
+            - Using "I can achieve... if I ..." to break out of their limit thinking and focusing on what they truly need
+        - Split what they need to 2 parts
+            - What they have full control about?
+            - What they can't control?
+        - Practicing to shift from what they can't to what they can
+        - Review/ Lesson and next step
+- My [spiritual practices](<spiritual practices.md>) now is about reducing my sense of self to attach only with my awareness and unattach with my thoughts, my feelings, and my body. [identify with my awareness](<identify with my awareness.md>) [unattachment centering](<unattachment centering.md>)
+    - By doing this, I could less control the reality, and just be myself. 
+    - There will be less thing I have to protect with, but let go instead.
+    - I could see the reality as it is easier, so that I could serve it better. 
+    - Tools are what we have to use, not what we have to attach with. Without clarity but only attachments, we will have a tendency to protect our tools or false self, rather than harmony and raise the reality. [raise the moments](<raise the moments.md>)
+    - 

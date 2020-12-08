@@ -41,6 +41,9 @@
 ## [December 3rd, 2020](<December 3rd, 2020.md>)
 - It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [Who am I](<Who am I.md>) [unattachment centering](<unattachment centering.md>)
 
+## [December 8th, 2020](<December 8th, 2020.md>)
+- My [spiritual practices](<spiritual practices.md>) now is about reducing my sense of self to attach only with my awareness and unattach with my thoughts, my feelings, and my body. [identify with my awareness](<identify with my awareness.md>) [unattachment centering](<unattachment centering.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [unattachment centering](<unattachment centering.md>)
 

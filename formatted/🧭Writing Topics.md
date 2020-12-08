@@ -2,7 +2,7 @@
     - [understanding before solving](<understanding before solving.md>)
     - [the fifth force - will-power](<the fifth force - will-power.md>)
 - Personal Development
-    - [Learning to care about other people](<Learning to care about other people.md>)
+    - [Learning to care about other people unconditionally](<Learning to care about other people unconditionally.md>)
     - [How to self-development effectively?](<How to self-development effectively?.md>)
     - [How to Go from Novice to Expert](<How to Go from Novice to Expert.md>)
 - Spirituality

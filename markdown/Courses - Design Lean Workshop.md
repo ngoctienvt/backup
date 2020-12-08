@@ -141,7 +141,6 @@ Whole-to-Part
         - https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjI1OTg5MzEw/details
         - https://docs.google.com/document/d/1EB7w1Wz7gGdrrozba0ljagYGZ8m8UC8ysO6IobBKOnI/edit
         - [[Questions to clarify typical participant and goals of the workshop?]]
-            - Bài tập này bao gồm những phần sau
         - Workshop topic 1
             - ## 1- Describe potential participants
                 - ### What is my topic for the workshop?
