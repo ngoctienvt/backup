@@ -20,6 +20,9 @@ us. [union experiences](<union experiences.md>)
 [support system](<support system.md>) that harmony with the [flow of life](<flow of life.md>)
 
 # Backlinks
+## [December 9th, 2020](<December 9th, 2020.md>)
+- I will close a loop about the tonight practice exercise, and I will digest it over time later. I will on my way to learn and digest the knowledge that are overwhelm me, and I will grow over time, so I don't need to rush myself to become a competent. Take my time and let my grow happens by itself, as long as I'm not resisting. [🌱Natural Progression](<🌱Natural Progression.md>)
+
 ## [November 2nd, 2020](<November 2nd, 2020.md>)
 - [🌱Natural Progression](<🌱Natural Progression.md>)
 
