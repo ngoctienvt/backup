@@ -1,2 +1,5 @@
 - truy căn tố nguyên so that we could go from competent to proficient [[Level of expertise]]
-- 
+- My point of focus should be different about the different stage of working [[🌱focus on what matters]] [[single-tasking]]
+    - Early, it should be focus on collecting, rather than care about quality
+    - It means that each stage will have its own role, and we just need to do the best in that stage, and leave the rest for later stage
+    - By this, it will reduce the unnecessary pressure that we put on ourselves. 

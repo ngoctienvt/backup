@@ -36,6 +36,9 @@
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - Pareto principle is [🌱focus on what matters](<🌱focus on what matters.md>)
 
+## [December 9th, 2020](<December 9th, 2020.md>)
+- My point of focus should be different about the different stage of working [🌱focus on what matters](<🌱focus on what matters.md>)
+
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [🌱focus on what matters](<🌱focus on what matters.md>)
 

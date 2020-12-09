@@ -66340,11 +66340,37 @@
         "uid": "pN9a3XF-f"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607487946991,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607487967119,
+            "string": "Early, it should be focus on collecting, rather than care about quality",
+            "uid": "Z8dZL8HzZ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607487967111,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607488002141,
+            "string": "It means that each stage will have its own role, and we just need to do the best in that stage, and leave the rest for later stage",
+            "uid": "n9E9Tqzr_"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607488002132,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607488019992,
+            "string": "By this, it will reduce the unnecessary pressure that we put on ourselves. ",
+            "uid": "Du5UfcUko"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607486858897,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607486858897,
-        "string": "",
+        "edit-time": 1607488035901,
+        "string": "My point of focus should be different about the different stage of working [[\ud83c\udf31focus on what matters]] [[single-tasking]]",
         "uid": "3GyqTmVHQ"
       }
     ],
@@ -66353,5 +66379,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1607448022346,
     "title": "December 9th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607488035905,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607488035908,
+    "title": "single-tasking"
   }
 ]
