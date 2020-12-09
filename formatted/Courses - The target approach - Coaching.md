@@ -1,5 +1,5 @@
 - Link: https://carlyanderson.com/members-only/the-upgraded-target-approach-ia
-- Tags: #[Coaching MOC](<Coaching MOC.md>)
+- Tags: #[🧭Coaching MOC](<🧭Coaching MOC.md>)
 - ### 2 key concepts
     - ### The concept of "partnering" with your client
         - shoulder-to-shoulder, not hierarchical relationship

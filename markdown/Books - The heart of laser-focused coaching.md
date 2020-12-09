@@ -1,0 +1,43 @@
+- Structure of the book
+    - Establishing a foundational mindset
+    - The beginning
+    - The middle
+    - The end
+- The foundational for laser-focused coaching
+    - Becoming a masterful coach
+        - Things we already know about coaching
+            - Coaching general understanding
+                - Coaching emphasizes experiencing the present moment and shifting perspective and viewpoint. 
+                    - Unlike some types of therapy, it doesn’t focus deeply on the past. The emphasis is on what is possible in the present looking toward the future.
+                -  Coaching involves forming a partnership with your client to help them move forward in ways that are authentically satisfying.
+                    -  Satisfaction can come from resolving situations, dilemmas, conflicts, and concerns, and from figuring out how to create, grow, and expand.
+                -  Coaching is about finding a way to change what isn’t working or improving on something that is working. 
+                    - It addresses desires, problems, or situations in the present.
+                - Coaching uses powerful techniques (tools, support, and structure) to help clients clarify and stay focused on their priorities.
+                - The process of coaching can contribute to creating prosperity, balance, and fulfillment in all areas of life. 
+                    - Through coaching, a client can achieve their vision (what they want in life) by breaking it down into smaller, more manageable steps. Each conversation moves the client closer to what they really want.
+                    - Talking with a friend can be helpful, but coaching offers undistracted listening that is non-judgmental, trusting, honest, and exceptionally objective
+                - A coach is a resource with a large tool kit for assisting clients in developing and pursuing their vision, so they achieve positive and permanent results. 
+            - The coaching process can be broken down into three simple and easy steps: [[coaching process]]
+                - 1. Identify the ideas, thoughts, or beliefs that keep your client from getting what they want. 
+                - 2. Help them shift their perspective so that they can feel good about themselves and move forward. 
+                - 3. Help them capitalize on their strengths to achieve fulfillment and their full potential.
+            - Coaches accomplish this by finding out where their client is now, what their ideal situation is, and how to close the gap between the two. 
+                - All coaching has the same focus — to help the client:
+                    -  Become more self-aware 
+                    - Discover what is keeping them “stuck” 
+                    - Create more prosperity, balance, and fulfillment in their life and/or work
+        - The laser-focused coaching approach
+            - Major distinctions with general coaching
+                - The coach truly focuses on the client — who the person is, what they think is true, how they behave, and what they value.
+                - The coach is able to completely release the need to perform or prove their value.
+                    - As opposed to focusing on results, the intention is on purposeful exploration leading organically to long-term transformation that affects all areas of a client’s life.
+                    - The client naturally creates their own forward movement from a highly motivated perspective. 
+                        - From the literal first question, more profound, insightful coaching is underway.
+                    - Coach knows how to create and demonstrate a collaborative relationship by providing context for questions and pertinent reflection.
+                    - (Page 20). 
+                    - (Page 20). 
+                    - (Page 19). 
+                    - (Page 19). 
+                - (Page 19). 
+                - (Page 19). 

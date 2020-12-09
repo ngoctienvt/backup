@@ -5,7 +5,7 @@
     - [Life Polestar](<Life Polestar.md>)
         - [Spiritual MOC](<Spiritual MOC.md>)
     - Life Dharma
-        - [Coaching MOC](<Coaching MOC.md>)
+        - [🧭Coaching MOC](<🧭Coaching MOC.md>)
         - [Training MOC](<Training MOC.md>)
     - ### System
         - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)

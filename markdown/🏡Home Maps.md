@@ -5,7 +5,7 @@
     - [[Life Polestar]]
         - [[Spiritual MOC]]
     - Life Dharma
-        - [[Coaching MOC]]
+        - [[🧭Coaching MOC]]
         - [[Training MOC]]
     - ### System
         - [[🌱PKDS - Personal Knowledge Development System]]

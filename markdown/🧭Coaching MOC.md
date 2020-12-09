@@ -1,0 +1,22 @@
+- What is coaching?
+- What is coaching suitable for?
+- What is the difference between coaching, training, mentoring and therapy?
+- What are key factors that affect the level of coaching?
+    - How deep we can listen
+    - How far we know about what's possible
+- The target of the coaching
+    - Coaching the problem
+    - Coaching the who
+    - Coaching the being
+- Core competencies
+    - Target Competencies
+        - [[Demonstrates Ethical Practice]]
+        - [[Embodies a Coaching Mindset]]
+        - [[Maintains Presence]]
+        - [[Listens Actively]]
+        - [[Evokes awareness]]
+    - Structural Competencies
+        - [[Establishes and Maintains Agreements]]
+    - Output Competencies
+        - [[Cultivates trust and safety]]
+        - [[Facilitates Client Growth]]
