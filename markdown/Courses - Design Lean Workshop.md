@@ -128,6 +128,128 @@
         - Xác nhận lại mức độ hiểu
             - Xác nhận lại mức độ hiểu
         - Rút ra bài học
+    - THIẾT KẾ WORKSHOP TINH GỌN - TỔNG KẾT BUỔI 3
+
+Xin chào cả nhà, buổi học số 3 với chủ đề "Thiết kế những nội dung chính của workshop" đã hoàn tất. Trong buổi 3, từ mục tiêu lớn của workshop, chúng ta đã thực hiện bước phân tích nhiệm vụ (task analysis) để biết được những nội dung chính cần đưa vào workshop là gì. Lưu ý rằng lúc này chúng ta chưa đề cập tới hoạt động và cách thức truyền đạt nội dung nhé.
+
+Phân tích nhiệm vụ là bước liệt kê toàn bộ những điều mà một người cần thực hiện để hoàn thành được mục tiêu lớn, trong ngữ cảnh thực tế chứ không phải trong lớp học. Chính vì vậy, quá trình liệt kê cần "tập trung vào người thực hiện - chính là đối tượng tham gia" thay vì "tập trung vào những gì giảng viên dạy".
+
+Đường link vào Jamboard và các tài liệu mình sử dụng trong buổi học ở đây nhé: 
+
+https://jamboard.google.com/d/1XR-dnZ1L_VqcMQgZR9f6Ch7isSpXQbcnK6zSLxRvASM/edit?usp=sharing
+
+Hoạt động "luộc trứng" (sẽ tiếp tục trong buổi tiếp theo)
+https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/edit?usp=sharing
+
+Thực hành của nhóm 1
+https://docs.google.com/document/d/1Qtaw__lFcivm2fgVTEYXU7wA8cyqQE3z09TYPI5fOxs/edit?usp=sharing
+
+Thực hành của nhóm 2
+https://docs.google.com/document/d/193-ayryvLSn4qtOITO1VGyaGmrWTizZ8eg-sO_IMT4s/edit?usp=sharing
+
+Thực hành của nhóm 3
+https://docs.google.com/document/d/1bEhuWPuZE9SPtGUUKK86cK2x4id34xWUuo0brh2jRIo/edit?usp=sharing
+
+Và đây là video ghi hình buổi học: https://www.youtube.com/watch?v=TpuF00bRSNA&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=3&ab_channel=ConnectionCoach
+
+
+Mục tiêu lớn nhất của buổi 3 là cho mọi người phương pháp để thiết kế những nội dung chính trong workshop của mình. Sau khi thực hiện bước này, mọi người sẽ có nội dung sơ bộ của workshop về việc người tham gia cần làm được những gì, để sau đó mọi người có thể quyết định mình sẽ truyền đạt cho học viên điều gì, bằng cách nào.
+
+1- Trước khi bắt đầu, hoạt động "While you wait" (WUW) tụi mình mời mọi người tham gia là hoạt động "hoàn thành bức tranh".
+
+Hoạt động này giúp mọi người giải trí lúc đầu, và thư giãn. Buổi học này cần sự sáng tạo nhiều, nên hoạt động lúc đầu nếu cho phép mọi người sáng tạo được là tốt nhất.
+
+2- Mở đầu bằng video
+
+Video tụi mình chọn là video này: https://www.youtube.com/watch?v=yM6B0k3E25I&ab_channel=ConnectionCoach
+
+Video làm học liệu có lợi ích:
+- Kích thích được cảm xúc của người tham gia, từ đó dễ dàng đúc kết được bài học
+- Đưa người học vào một ngữ cảnh cụ thể, từ đó dễ dàng dẫn dắt tới ngữ cảnh mà người điều phối muốn người học tập trung vào
+- Truyền đạt thông tin dạng câu chuyện, khiến người học dễ dàng nhớ hơn
+- Hình ảnh tạo ấn tượng tốt hơn chữ viết, lời nói
+
+Những lợi ích này không áp dụng cho những video dạng "mô tả" (ví dụ các video hướng dẫn các bước làm gì đó hoặc các video dạng phim tài liệu), mà áp dụng cho những video dạng tình huống, câu chuyện (ví dụ: phim ngắn, clip trong phim...)
+
+3- Theo bạn, cảm nghĩ của hai người con trong suốt tình huống này là gì?
+
+Với mỗi hoạt động nào có yếu tố cảm xúc (ví dụ như video vừa rồi), việc thu hoạch cảm xúc ngay lập tức sẽ giúp người tham gia dễ dàng đúc kết được bài học. Trong tâm lý của một người bình thường, bài học sẽ xuất hiện nhiều nhất khi có cảm xúc mạnh xuất hiện.
+
+Thay vì để cho mọi người tự do chia sẻ câu trả lời, hoạt động này yêu cầu mọi người chọn cảm xúc trong một danh sách đã có sẵn. Điều này sẽ hỗ trợ cho người tham gia dễ dàng chia sẻ hơn, bởi vì không phải ai cũng có từ điển cảm xúc phong phú.
+
+Điều này cũng giúp người điều phối dễ dàng phỏng vấn và thảo luận cùng với mọi người vì đã có sẵn thông tin của người chia sẻ và cảm xúc tương ứng.
+
+4- Ông bố đang muốn dạy hai người con điều gì?
+
+Sau khi thu hoạch cảm xúc, đây là bước thu hoạch bài học trong ngữ cảnh của video. Khi thu hoạch cho một hoạt động cụ thể, thì phần này nhằm thu hoạch bài học trong ngữ cảnh của hoạt động đó.
+
+Nếu hỏi câu hỏi này ngay sau khi xem video xong, người tham gia có thể sẽ bối rối vì ngay lúc đó tâm trí vẫn còn đang tập trung vào video và cảm xúc xuất hiện trong quá trình xem. Sau khi thu hoạch cảm xúc rồi, người tham gia mới có thể bước ra khỏi ngữ cảnh đó để nhìn lại và nêu ra bài học.
+
+5- Có thể ứng dụng những điều này vào việc thiết kế chương trình như thế nào?
+
+Sau khi liệt kê các bài học trong ngữ cảnh của hoạt động (video), thì đây là bước liên tưởng tới tình huống thực tế, cụ thể hơn là tình huống mà người điều phối muốn người tham gia ứng dụng được bài học.
+
+Những bước thu hoạch "đệm" (thu hoạch cảm xúc, thu hoạch bài học trong ngữ cảnh của video) sẽ giúp người tham gia dễ dàng đúc kết được bài học trong tình huống thực tế.
+
+6- Hoạt động "luộc trứng"
+
+Đây được gọi là một dạng "làm mẫu" (demo).
+
+Tụi mình sử dụng hình ảnh để mọi người lựa chọn, đây là một cách để tạo cảm giác tự do cho người học, để cho người học quyết định mình sẽ làm gì trong lớp học.
+
+Sau đó tụi mình cùng mọi người thực hiện các bước để mô tả quá trình một người luộc trứng, và trong quá trình đó, tụi mình nhấn mạnh những điểm cần lưu ý trong lúc phân tích nhiệm vụ.
+
+Cách làm demo kiểu này sẽ giúp mọi người đưa mình vào tình huống, và vỡ ra nhiều điểm, đối với mỗi người lại vỡ ra những điểm khác nhau. Nếu mình cho mọi người "lý thuyết" về các bước phân tích nhiệm vụ thì sẽ không vỡ ra được các điểm đó, vì nó không có tình huống cụ thể.
+
+Các điểm mọi người nhận ra là:
+- Một nhiệm vụ tưởng đơn giản trong suy nghĩ của mình (vì mình đã làm được nó) nhưng thực ra lại cần mô tả rất chi tiết vì người học chưa làm được nhiệm vụ đó
+- Nếu mục tiêu quá sơ sài, không đủ chi tiết, thì quá trình phân tích nhiệm vụ sẽ rất cồng kềnh, phức tạp
+- Nếu đối tượng tập trung không rõ ràng, thì quá trình phân tích nhiệm vụ cũng sẽ cồng kềnh
+
+7- Điền vào chỗ trống để định nghĩa quá trình "phân tích nhiệm vụ"
+
+Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình này, thì bước định nghĩa này giúp mọi người bắt đầu tư duy về nó, ở tầng "biết" nó là gì. Buổi sắp tới, tụi mình sẽ cùng mọi người đi qua các bậc tư duy này, và mọi người sẽ hiểu tại sao chúng ta phải dẫn dắt người học qua từng bậc tư duy một cách từ từ, thay vì nhảy ngay lập tức lên bậc cao.
+
+8- Những điều nên làm / không nên làm trong quá trình phân tích nhiệm vụ (task analysis) là gì?
+
+Đây là thu hoạch cho hoạt động demo "Luộc trứng" nói trên. Mục đích của hoạt động demo là để cho mọi người nắm được quá trình phân tích nhiệm vụ và các nguyên lý của nó. Phần này để thu hoạch cho phần "nguyên lý", nó yêu cầu mọi người phân tích và đánh giá những gì mình vừa trải qua.
+
+9- Bốn (04) bước để phân tích nhiệm vụ (task analysis) là gì?
+
+Đây là thu hoạch cho "quá trình phân tích nhiệm vụ". Dạng hoạt động này đã được thực hiện trong các buổi học trước rồi.
+
+10- Thực hành "phân tích nhiệm vụ"
+
+Quá trình thực hành này được thực hiện theo phương pháp "Project-based learning", tức là người học sẽ tự hoàn thành một dự án nhỏ của riêng mình.
+
+"Dự án" trong buổi học chính là 1 mục tiêu trong workshop của ba học viên.
+
+Lưu ý rằng tụi mình (2 người điều phối) cũng cần tham gia vào các nhóm để dẫn dắt quá trình phân tích nhiệm vụ. Nếu không thì kết quả có thể sẽ không được như ý.
+
+Cách làm này gọi là "scaffolding" (tạm dịch là: quá trình hỗ trợ). Từ đầu, người điều phối có thể hỗ trợ nhiều bằng cách tham gia trực tiếp và đặt nhiều câu hỏi (mức độ hỗ trợ cao). Sự hỗ trợ này giảm dần theo thời gian. Đến khi người tham gia có thể tự làm được thì người điều phối chỉ cần có mặt, mà giảm dần sự hỗ trợ, và chỉ can thiệp khi thực sự cần thiết. Cuối cùng khi kết thúc chương trình, sự hỗ trợ giảm đến mức tối thiểu để người tham gia có thể tự hoàn thành nhiệm vụ của mình sau chương trình.
+
+11- Thu hoạch sau hoạt động thực hành
+
+Hoạt động thu hoạch rất quan trọng sau mỗi lần demo, hoặc thực hành một điều gì đó, hoặc tham gia một hoạt động có "aha moment" nào đó. Bởi vì quá trình thực hành sẽ giúp mọi người nhận ra những bài học khác nhau, nên quá trình thu hoạch sẽ giúp toàn bộ các bài học được nêu ra cho toàn bộ mọi người cùng biết.
+
+Có nhiều cách để thực hiện phần thu hoạch này. Ở đây tụi mình thực hiện cách đơn giản nhất là chia sẻ tự do. Tuy nhiên, có nhiều cách khác giúp tương tác cao hơn và đào sâu hơn nữa. Chương trình sẽ có 1 buổi tập trung nhiều vào các cách thu hoạch hiệu quả.
+
+12- Tổng kết bằng hoạt động "Square, Circle, Triangle"
+
+Ba nội dung chia sẻ để tổng kết là:
+- Những điều bạn đã biết và được củng cố sau buổi ngày hôm nay về quá trình phân tích nhiệm vụ (task analysis)
+- Những câu hỏi bạn vẫn còn thắc mắc sau buổi ngày hôm nay về quá trình phân tích nhiệm vụ (task analysis)
+- 3 bài học quan trọng mà bạn có được sau buổi hôm nay về quá trình phân tích nhiệm vụ (task analysis)
+
+Quá trình tổng kết một buổi học có "câu hỏi vẫn còn thắc mắc" là một bước khảo sát nhanh, để người điều phối kịp thời điều chỉnh các phần tiếp theo để giải quyết các thắc mắc đó.
+
+13- QUAN TRỌNG: BÀI TẬP SAU BUỔI 3
+
+Mọi người hãy hoàn thành bài tập sau buổi 3 ở đây nhé: https://classroom.google.com/c/MTI3ODE5MzgxNDM4/a/MTMxMjMyMjU2Mzk3/details
+
+Sau khi hoàn thành, mọi người nhớ ấn nút "Nộp" (Turn in), từ đó tụi mình sẽ kiểm tra, nhận xét, và trả lại cho mọi người lời phản hồi đó.
+
+Mọi người có câu hỏi gì thì cứ nhắn tin cho tụi mình nhé. Hẹn gặp mọi người vào buổi thực hành của nhóm 1 (vào tối Thứ 4) và Buổi 4 với chủ đề "Thiết lập cấu trúc cơ bản của workshop" (vào tối Thứ 6).
 - Group activities
     - Clarify foggy contents
     - Resolve remaining questions

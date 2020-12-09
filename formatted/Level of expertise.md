@@ -23,6 +23,9 @@
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - I also noticed that [Level of expertise](<Level of expertise.md>)
 
+## [December 9th, 2020](<December 9th, 2020.md>)
+- truy căn tố nguyên so that we could go from competent to proficient [Level of expertise](<Level of expertise.md>)
+
 ## [How to Go from Novice to Expert](<How to Go from Novice to Expert.md>)
 - [Level of expertise](<Level of expertise.md>)
 
