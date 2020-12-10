@@ -45,4 +45,7 @@
     - How deep one can work on
     - How impact one can create
     - How precise one can focus on what's matter
+- I felt so much relax and able to release many things inside myself while watching movies Garden of Words. It helped me to realize what's the natural possible behavior to let other things emerge by itself. [emergence](<emergence.md>).
+    - The relationship in the movies is nurtured and blossomed so natural without forcing to happen between 2 sides. Because they mainly work on themselves while prevent ourselves to follow our personal needs or personal emotions. [true relationship](<true relationship.md>) occurs when we let it happen by itself and let go of our personal needs.
     - 
+- 

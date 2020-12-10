@@ -97810,14 +97810,6 @@
             "edit-time": 1607591647213,
             "string": "How precise one can focus on what's matter",
             "uid": "Iyq2NWnGh"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607591647210,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607591647210,
-            "string": "",
-            "uid": "KMq9GUOiM"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -97831,6 +97823,60 @@
         ],
         "string": "[[Level of expertise]] factors",
         "uid": "_1JuLk30D"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "oDnATl_XH"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "cJC5HEwZG"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607603002019,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607603103547,
+            "refs": [
+              {
+                "uid": "cJC5HEwZG"
+              }
+            ],
+            "string": "The relationship in the movies is nurtured and blossomed so natural without forcing to happen between 2 sides. Because they mainly work on themselves while prevent ourselves to follow our personal needs or personal emotions. [[true relationship]] occurs when we let it happen by itself and let go of our personal needs.",
+            "uid": "2q_70aUxM"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607603055513,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607603055513,
+            "string": "",
+            "uid": "UFcF5m6Yf"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607591647210,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607603002025,
+        "refs": [
+          {
+            "uid": "oDnATl_XH"
+          }
+        ],
+        "string": "I felt so much relax and able to release many things inside myself while watching movies Garden of Words. It helped me to realize what's the natural possible behavior to let other things emerge by itself. [[emergence]].",
+        "uid": "KMq9GUOiM"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607602982964,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607602982964,
+        "string": "",
+        "uid": "-RG2jhVyD"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

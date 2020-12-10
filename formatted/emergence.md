@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 10th, 2020](<December 10th, 2020.md>)
+- I felt so much relax and able to release many things inside myself while watching movies Garden of Words. It helped me to realize what's the natural possible behavior to let other things emerge by itself. [emergence](<emergence.md>).
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - [hold the space](<hold the space.md>) that needed for the [emergence](<emergence.md>)
 
