@@ -1,14 +1,20 @@
-- What is coaching?
+- [What is coaching?](<What is coaching?.md>)
+- [Transformational Coaching](<Transformational Coaching.md>)
+    - [🌱Natural Progression](<🌱Natural Progression.md>)
+    - [Benefits of Transformational Coaching](<Benefits of Transformational Coaching.md>)
+    - [Goals of Transformational Coaching](<Goals of Transformational Coaching.md>)
 - What is coaching suitable for?
 - What is the difference between coaching, training, mentoring and therapy?
 - What are key factors that affect the level of coaching?
     - How deep we can listen
     - How far we know about what's possible
 - The target of the coaching
-    - Coaching the problem
-    - Coaching the who
-    - Coaching the being
+    - Coach the problem
+    - [coach the who](<coach the who.md>)
+    - Coach the being
+- [Coaching examples](<Coaching examples.md>)
 - Core competencies
+    - [Coaching partnering](<Coaching partnering.md>)
     - Target Competencies
         - [Demonstrates Ethical Practice](<Demonstrates Ethical Practice.md>)
         - [Embodies a Coaching Mindset](<Embodies a Coaching Mindset.md>)
@@ -23,8 +29,8 @@
 
 # Backlinks
 ## [Courses - The target approach - Coaching](<Courses - The target approach - Coaching.md>)
-- Tags: #[🧭Coaching MOC](<🧭Coaching MOC.md>)
+- Tags: #[🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 
 ## [🏡Home Maps](<🏡Home Maps.md>)
-- [🧭Coaching MOC](<🧭Coaching MOC.md>)
+- [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 

@@ -3,6 +3,7 @@
     - [[the fifth force - will-power]]
 - Coaching
     - [[What a coach expert at?]]
+    - [[Why Transformational Coaching is effective?]]
 - Personal Development
     - [[Learning to care about other people unconditionally]]
     - [[How to self-development effectively?]]

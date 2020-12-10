@@ -1,8 +1,11 @@
 
 # Backlinks
+## [Books - The heart of laser-focused coaching](<Books - The heart of laser-focused coaching.md>)
+- Questions posed are consistently provocative and challenge the client’s thinking, [Evokes awareness](<Evokes awareness.md>)
+
 ## [Courses - The target approach - Coaching](<Courses - The target approach - Coaching.md>)
 - [Evokes awareness](<Evokes awareness.md>)
 
-## [🧭Coaching MOC](<🧭Coaching MOC.md>)
+## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - [Evokes awareness](<Evokes awareness.md>)
 

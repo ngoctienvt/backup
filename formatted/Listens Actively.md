@@ -26,6 +26,6 @@
 
 - [Listens Actively](<Listens Actively.md>)
 
-## [🧭Coaching MOC](<🧭Coaching MOC.md>)
+## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - [Listens Actively](<Listens Actively.md>)
 

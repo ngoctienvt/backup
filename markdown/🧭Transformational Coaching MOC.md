@@ -1,14 +1,20 @@
-- What is coaching?
+- [[What is coaching?]]
+- [[Transformational Coaching]]
+    - [[🌱Natural Progression]]
+    - [[Benefits of Transformational Coaching]]
+    - [[Goals of Transformational Coaching]]
 - What is coaching suitable for?
 - What is the difference between coaching, training, mentoring and therapy?
 - What are key factors that affect the level of coaching?
     - How deep we can listen
     - How far we know about what's possible
 - The target of the coaching
-    - Coaching the problem
-    - Coaching the who
-    - Coaching the being
+    - Coach the problem
+    - [[coach the who]]
+    - Coach the being
+- [[Coaching examples]]
 - Core competencies
+    - [[Coaching partnering]]
     - Target Competencies
         - [[Demonstrates Ethical Practice]]
         - [[Embodies a Coaching Mindset]]

@@ -5,6 +5,6 @@
 
 - [Facilitates Client Growth](<Facilitates Client Growth.md>)
 
-## [🧭Coaching MOC](<🧭Coaching MOC.md>)
+## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - [Facilitates Client Growth](<Facilitates Client Growth.md>)
 

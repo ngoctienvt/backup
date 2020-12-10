@@ -1,5 +1,8 @@
 
 # Backlinks
+## [Books - The heart of laser-focused coaching](<Books - The heart of laser-focused coaching.md>)
+- Questions posed are consistently provocative and challenge the client’s thinking, [Evokes awareness](<Evokes awareness.md>) [powerful questions](<powerful questions.md>)
+
 ## [coaching reflection](<coaching reflection.md>)
 - learning to use [powerful questions](<powerful questions.md>)
 

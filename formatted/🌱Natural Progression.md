@@ -20,6 +20,11 @@ us. [union experiences](<union experiences.md>)
 [support system](<support system.md>) that harmony with the [flow of life](<flow of life.md>)
 
 # Backlinks
+## [Books - The heart of laser-focused coaching](<Books - The heart of laser-focused coaching.md>)
+- Laser-Focused Coaching is about going deeper, not broader; that is, getting to the bottom line efficiently and effectively. [🌱Natural Progression](<🌱Natural Progression.md>)
+
+- __The coach explores with the client until it becomes evident what the person really needs. __ [🌱Natural Progression](<🌱Natural Progression.md>)
+
 ## [December 10th, 2020](<December 10th, 2020.md>)
 - Somehow there will be a ratio for how to move up [Level of expertise](<Level of expertise.md>) like 50-30-20 or 60-30-10. It will help me to not force myself to reach the end, but rather let the picture slowly emerge and form by itself. [🌱Natural Progression](<🌱Natural Progression.md>)
 
@@ -130,4 +135,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 - [🌱Natural Progression](<🌱Natural Progression.md>)
 
 - [being coaching](<being coaching.md>) in a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) way to support other people with their [🌱Natural Progression](<🌱Natural Progression.md>)
+
+## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+- [🌱Natural Progression](<🌱Natural Progression.md>)
 

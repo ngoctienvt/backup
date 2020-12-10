@@ -1,5 +1,5 @@
 - Link: https://carlyanderson.com/members-only/the-upgraded-target-approach-ia
-- Tags: #[🧭Coaching MOC](<🧭Coaching MOC.md>)
+- Tags: #[🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - ### 2 key concepts
     - ### The concept of "partnering" with your client
         - shoulder-to-shoulder, not hierarchical relationship
@@ -106,7 +106,7 @@
             - **Helps the client identify factors that influence current and future patterns** of behavior, thinking or emotion 
             - **Notices what is working for the client** to enhance client progress [Success Factors](<Success Factors.md>)
             - [crafting customized coaching questions](<crafting customized coaching questions.md>)
-                - **Ask questions about the client,** such as their **way of thinking, values, needs, wants and beliefs** [coaching the who](<coaching the who.md>)
+                - **Ask questions about the client,** such as their **way of thinking, values, needs, wants and beliefs** [coach the who](<coach the who.md>)
                 - **Asks questions** that help the client **explore beyond current thinking** 
                     - What's the emotion you have informing your action toward that person?
             - **Shares observations, insights and feelings, without attachment,** that have the potential to create new learning for the client [unattachment observations](<unattachment observations.md>)

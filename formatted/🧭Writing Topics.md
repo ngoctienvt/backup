@@ -3,6 +3,7 @@
     - [the fifth force - will-power](<the fifth force - will-power.md>)
 - Coaching
     - [What a coach expert at?](<What a coach expert at?.md>)
+    - [Why Transformational Coaching is effective?](<Why Transformational Coaching is effective?.md>)
 - Personal Development
     - [Learning to care about other people unconditionally](<Learning to care about other people unconditionally.md>)
     - [How to self-development effectively?](<How to self-development effectively?.md>)

@@ -5,6 +5,6 @@
 
 - [Cultivates trust and safety](<Cultivates trust and safety.md>)
 
-## [🧭Coaching MOC](<🧭Coaching MOC.md>)
+## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - [Cultivates trust and safety](<Cultivates trust and safety.md>)
 
