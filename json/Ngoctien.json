@@ -97217,10 +97217,80 @@
     "title": "measure of success"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "fmfgeT0iK"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607568453120,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607568668547,
+            "string": "Novice to advance beginner is when a coach start to know how coaching process happens, some model questions,... but they are using it in a clumsy way and not really know what's important at that moment",
+            "uid": "ATMxc2tbB"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607568559082,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607568673166,
+            "string": "Advance beginner to competent is when a coach start to feel more comfortable about the coaching process, they can ask questions more easier, but they still don't know what's truly important, and most of their skills also just as beginner stage.",
+            "uid": "8L_hRjuLK"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607568646437,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607568743396,
+            "string": "Competent to proficient is when a coach start to develop their intuition about what's important to focus on, what they need to focus on at the moment, but they will miss sometimes, and still focus on the wrong things.",
+            "uid": "fO9ojpEtd"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607568743389,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607568831355,
+            "string": "Proficient to expert is when a coach start to clearly know what's important that need to focus on, but they haven't feel flow about the process to go deeper inside of it, or make sure what's important is maintain. They will start to learn about the way to uncover what's important.",
+            "uid": "D7sEDLDSe"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607568831534,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607568881105,
+            "string": "Expert and above is when a coach still continue to learn, refine and expand their skills and knowledge, everything always have room for growth.",
+            "uid": "YgppksuUE"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607568507968,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607568507968,
+            "string": "",
+            "uid": "OayWxyl30"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607568427032,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607568453127,
+        "refs": [
+          {
+            "uid": "fmfgeT0iK"
+          }
+        ],
+        "string": "I started to see more clearly the [[Level of expertise]] in coaching",
+        "uid": "48DAUPtHP"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1607561510621,
+    "create-time": 1607556382926,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1607561510622,
+    "edit-time": 1607556382930,
     "title": "December 10th, 2020"
   }
 ]

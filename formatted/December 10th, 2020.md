@@ -1,4 +1,4 @@
-- I started to see more clearly the [[Level of expertise]] in coaching
+- I started to see more clearly the [Level of expertise](<Level of expertise.md>) in coaching
     - Novice to advance beginner is when a coach start to know how coaching process happens, some model questions,... but they are using it in a clumsy way and not really know what's important at that moment
     - Advance beginner to competent is when a coach start to feel more comfortable about the coaching process, they can ask questions more easier, but they still don't know what's truly important, and most of their skills also just as beginner stage.
     - Competent to proficient is when a coach start to develop their intuition about what's important to focus on, what they need to focus on at the moment, but they will miss sometimes, and still focus on the wrong things.
