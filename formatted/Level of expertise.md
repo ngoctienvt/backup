@@ -25,6 +25,8 @@
 
 - [Level of expertise](<Level of expertise.md>)
 
+- Somehow there will be a ratio for how to move up [Level of expertise](<Level of expertise.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - I also noticed that [Level of expertise](<Level of expertise.md>)
 

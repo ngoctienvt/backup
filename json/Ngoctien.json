@@ -97840,22 +97840,14 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607603002019,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607603103547,
+            "edit-time": 1607605586674,
             "refs": [
               {
                 "uid": "cJC5HEwZG"
               }
             ],
-            "string": "The relationship in the movies is nurtured and blossomed so natural without forcing to happen between 2 sides. Because they mainly work on themselves while prevent ourselves to follow our personal needs or personal emotions. [[true relationship]] occurs when we let it happen by itself and let go of our personal needs.",
+            "string": "The relationship in the movies is nurtured and blossomed so natural without forcing to happen between 2 sides. Because they mainly work on themselves while prevent ourselves to follow our personal needs or personal emotions. [[true relationship]] occurs when we let it happen by itself and let go of our personal needs. ",
             "uid": "2q_70aUxM"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607603055513,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607603055513,
-            "string": "",
-            "uid": "UFcF5m6Yf"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -97869,6 +97861,38 @@
         ],
         "string": "I felt so much relax and able to release many things inside myself while watching movies Garden of Words. It helped me to realize what's the natural possible behavior to let other things emerge by itself. [[emergence]].",
         "uid": "KMq9GUOiM"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "IoUBfC4Lv"
+          },
+          {
+            ":block/uid": "fmfgeT0iK"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607603055513,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607605651141,
+        "refs": [
+          {
+            "uid": "IoUBfC4Lv"
+          },
+          {
+            "uid": "fmfgeT0iK"
+          }
+        ],
+        "string": "Somehow there will be a ratio for how to move up [[Level of expertise]] like 50-30-20 or 60-30-10. It will help me to not force myself to reach the end, but rather let the picture slowly emerge and form by itself. [[\ud83c\udf31Natural Progression]]",
+        "uid": "UFcF5m6Yf"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607605651130,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607605651130,
+        "string": "",
+        "uid": "7X-3P1y3A"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
