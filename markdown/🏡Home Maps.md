@@ -2,11 +2,12 @@
     - True freedom to be the witness conscious
     - Be the blessing of the world
 - ## Development - Atomic notes
-    - [[Life Polestar]]
+    - [[My Life Polestar]]
         - [[Spiritual MOC]]
     - Life Dharma
         - [[🧭Coaching MOC]]
         - [[Training MOC]]
+            - [[My Training Courses]]
     - ### System
         - [[🌱PKDS - Personal Knowledge Development System]]
         - [[🧭Productivity System MOC ]]
@@ -16,7 +17,6 @@
     - [[🧭Writing Topics]]
     - [[Evergreen notes]]
     - Blog Articles
-    - Training course
 - ### Resources for Learning and Referencing
     - [[People]]
     - [[Resources]]

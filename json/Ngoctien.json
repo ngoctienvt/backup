@@ -60261,13 +60261,13 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1604977130297,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1604977164383,
+            "edit-time": 1607590462383,
             "refs": [
               {
                 "uid": "gsHyJ6_EP"
               }
             ],
-            "string": "[[Life Polestar]]",
+            "string": "[[My Life Polestar]]",
             "uid": "onTZI6QNI"
           },
           {
@@ -60294,6 +60294,26 @@
                 ":block/refs": [
                   {
                     ":block/uid": "EtX2EUec5"
+                  }
+                ],
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Uuj8qVHFL"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1606811362055,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607590323940,
+                    "refs": [
+                      {
+                        "uid": "Uuj8qVHFL"
+                      }
+                    ],
+                    "string": "[[My Training Courses]]",
+                    "uid": "IQ9h1Cqw6"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
@@ -60455,14 +60475,6 @@
             "edit-time": 1606811360434,
             "string": "Blog Articles",
             "uid": "QoR9CX-qH"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606811362055,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606811370536,
-            "string": "Training course",
-            "uid": "IQ9h1Cqw6"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -62828,8 +62840,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604977164390,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604977164392,
-    "title": "Life Polestar"
+    "edit-time": 1607590462383,
+    "title": "My Life Polestar"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -77771,11 +77783,19 @@
   {
     "children": [
       {
+        ":block/refs": [
+          {
+            ":block/uid": "gsHyJ6_EP"
+          }
+        ],
         "children": [
           {
             ":block/refs": [
               {
                 ":block/uid": "Yi3d4NAHY"
+              },
+              {
+                ":block/uid": "vnqL8uz4g"
               }
             ],
             "children": [
@@ -77829,17 +77849,25 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605864460569,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606299379949,
+            "edit-time": 1607590379927,
             "heading": 3,
             "refs": [
               {
                 "uid": "Yi3d4NAHY"
+              },
+              {
+                "uid": "vnqL8uz4g"
               }
             ],
-            "string": "Life Pupose - [[living from the place of surrender]] ",
+            "string": "[[My Life Pupose]] - [[living from the place of surrender]] ",
             "uid": "SFiz4Ley4"
           },
           {
+            ":block/refs": [
+              {
+                ":block/uid": "gxb2ADd5l"
+              }
+            ],
             "children": [
               {
                 "children": [
@@ -77903,9 +77931,14 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1605884530291,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606299388375,
+            "edit-time": 1607590405335,
             "heading": 3,
-            "string": "Areas of Focus",
+            "refs": [
+              {
+                "uid": "gxb2ADd5l"
+              }
+            ],
+            "string": "[[My Areas of Focus]]",
             "uid": "FD5dY0hWV"
           },
           {
@@ -77962,13 +77995,13 @@
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1606299256452,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606299288256,
+                        "edit-time": 1607590462383,
                         "refs": [
                           {
                             "uid": "gsHyJ6_EP"
                           }
                         ],
-                        "string": "Ensuring that I am living on the right track to my [[Life Polestar]]",
+                        "string": "Ensuring that I am living on the right track to my [[My Life Polestar]]",
                         "uid": "WIuUZVId5"
                       }
                     ],
@@ -78246,9 +78279,14 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1605884351814,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606299396356,
+        "edit-time": 1607590462383,
         "heading": 3,
-        "string": "Horizons of Focus",
+        "refs": [
+          {
+            "uid": "gsHyJ6_EP"
+          }
+        ],
+        "string": "[[My Life Polestar]]",
         "uid": "UnczX9s8Q"
       },
       {
@@ -78786,7 +78824,7 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1605877125233,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1605878031383,
+                "edit-time": 1607590462383,
                 "refs": [
                   {
                     "uid": "gsHyJ6_EP"
@@ -78795,7 +78833,7 @@
                     "uid": "7gdThdtm8"
                   }
                 ],
-                "string": "and while I keep doing good on improving my process or system goal, my vision and purpose in life start to clearer to see how my life is unfolding. \n\nIt's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [[Life Polestar]] that will help me align my goal/projects/tasks and actions in a way that serve my life purpose when I aware of it. [[alignment]]  ",
+                "string": "and while I keep doing good on improving my process or system goal, my vision and purpose in life start to clearer to see how my life is unfolding. \n\nIt's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [[My Life Polestar]] that will help me align my goal/projects/tasks and actions in a way that serve my life purpose when I aware of it. [[alignment]]  ",
                 "uid": "IFvdakKz-"
               }
             ],
@@ -91863,6 +91901,34 @@
           {
             ":block/refs": [
               {
+                ":block/uid": "ugKJnqlT_"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607589374316,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589377946,
+            "refs": [
+              {
+                "uid": "ugKJnqlT_"
+              }
+            ],
+            "string": "[[What a coach expert at?]]",
+            "uid": "bX1Kgspmw"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607589372608,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607589374321,
+        "string": "Coaching",
+        "uid": "V_Aw67sfs"
+      },
+      {
+        "children": [
+          {
+            ":block/refs": [
+              {
                 ":block/uid": "JQB7JKEGT"
               }
             ],
@@ -97264,14 +97330,6 @@
             "edit-time": 1607568881105,
             "string": "Expert and above is when a coach still continue to learn, refine and expand their skills and knowledge, everything always have room for growth.",
             "uid": "YgppksuUE"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607568507968,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607568507968,
-            "string": "",
-            "uid": "OayWxyl30"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -97285,6 +97343,494 @@
         ],
         "string": "I started to see more clearly the [[Level of expertise]] in coaching",
         "uid": "48DAUPtHP"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0OAo0fhua"
+          },
+          {
+            ":block/uid": "OtozuiG3x"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607588838328,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607588862987,
+                "string": "Competent is when we start to create certain products that can go publish and serve a bit of value",
+                "uid": "-YRXHjuyK"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607588862984,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607588920905,
+                    "string": "but have a deep knowledge that can write blog articles about certain block of knowledge to__ teach other people__",
+                    "uid": "rWHvvH7uy"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607588911996,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607588911996,
+                "string": "Proficient is when we start to be able to not just do, ",
+                "uid": "N5kHxWD7X"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607588890296,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607588958638,
+                "string": "Expert is when we can write a book that condense our knowledge about that subject.",
+                "uid": "jUKy_-ZZa"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607588802720,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607588935864,
+            "string": "On this process, we will learn and create __results as a by-product__ of our learning and serving. For example,",
+            "uid": "QbOr_7X3a"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Lcfb0tRzk"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607588958976,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589024973,
+            "refs": [
+              {
+                "uid": "Lcfb0tRzk"
+              }
+            ],
+            "string": "My definition about master and expert is not just someone who can perform well, but can also simplify and explain it in a concise and easy to understand way. [[mastery definiton]]",
+            "uid": "P-dP8sgRe"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607588750167,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607589098317,
+        "refs": [
+          {
+            "uid": "0OAo0fhua"
+          },
+          {
+            "uid": "OtozuiG3x"
+          }
+        ],
+        "string": "I start to clearer that __what I want to teach__ is not just about [[\ud83c\udf31PKDS - Personal Knowledge Development System]], but it's actually about a way to master something that we interest on. [[\ud83c\udf31Training Course - Effortless mastery]]",
+        "uid": "qVjb0jFSA"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ugKJnqlT_"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607589288517,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589306081,
+            "string": "Seeing what's the perception that distort the client view",
+            "uid": "6J5aeLWS6"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607589517157,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607589517964,
+                    "string": "based on our limited thoughts, beliefs, and unhandle emotions.",
+                    "uid": "WK0HnIknS"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589514153,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589514153,
+                "string": "most of our problems are made-up problems ",
+                "uid": "B6_b8HB2S"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607589512067,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589512067,
+            "string": "Understanding the truth that ",
+            "uid": "r9vXHov0t"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589345275,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589481149,
+                "string": "explore themselves deeply",
+                "uid": "2UYTCLtAM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589481145,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589486221,
+                "string": "provoke their creativity ",
+                "uid": "4c6-NEG6v"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589486457,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589497285,
+                "string": "break their limited thinking and beliefs",
+                "uid": "q2KtmjJOa"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607589477670,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589477670,
+            "string": "Able to craft questions that are customized, concise, and direct to help clients ",
+            "uid": "-FWe5K4KN"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607589024969,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607589363084,
+        "refs": [
+          {
+            "uid": "ugKJnqlT_"
+          }
+        ],
+        "string": "I also see more clear that what the coach is good at not about how to solve the problems, but about [[What a coach expert at?]]",
+        "uid": "GeVc0jyNe"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "RyKHSExlK"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "vnqL8uz4g"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607590175786,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607590386619,
+            "refs": [
+              {
+                "uid": "vnqL8uz4g"
+              }
+            ],
+            "string": "I noticed that my mastery journey and what I want to go deeply about is support other people to have a strong foundation inside themselves, so that they can face any challenges on the journey on earth with a right attitude and in an effective way. [[My Life Pupose]]",
+            "uid": "Et5ONGS1q"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "gxb2ADd5l"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589611314,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589704300,
+                "string": "Coaching - competent",
+                "uid": "yuRzEIgJU"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589637367,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589706368,
+                "string": "Spiritual - competent",
+                "uid": "jgtxbcjcB"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607589647880,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607589727535,
+                    "string": "Instructional Design - novice",
+                    "uid": "KfxQ_cw18"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589640463,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589708254,
+                "string": "Training/ Facilitating/ Teaching - novice",
+                "uid": "UIpCayPf7"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607589652857,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607589720299,
+                    "string": "Writing - novice",
+                    "uid": "h7IbIP5WY"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607589663433,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607589714129,
+                "string": "Thinking/ Self-mastery - advance beginner",
+                "uid": "UECC0oK5n"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607590407205,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607590411654,
+            "refs": [
+              {
+                "uid": "gxb2ADd5l"
+              }
+            ],
+            "string": "[[My Areas of Focus]]",
+            "uid": "-u_YdJ8De"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607589502737,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607589633246,
+        "refs": [
+          {
+            "uid": "RyKHSExlK"
+          }
+        ],
+        "string": "What are skills or areas that I'm nurturing my mastery on [[My mastery journey]]",
+        "uid": "EpBxNCCun"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Uuj8qVHFL"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607590100138,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607590118974,
+                    "string": "not for person who want to know, or solve their problems. ",
+                    "uid": "l954Zj-VH"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607590042338,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607590100142,
+                "string": "This course will only focus to serve people who truly want to become a coach as a main goal",
+                "uid": "CkuBNf1Tv"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607589782857,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589819915,
+            "string": "A course for people to become competent at coaching - the first 100 hours",
+            "uid": "CoLLuYLit"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607589819912,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589845532,
+            "string": "A course for people to coach at deeper level and become proficient at coaching - The next 400 hours",
+            "uid": "_2T7ae6Pj"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607590171174,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607590171843,
+            "string": "A course for people who want to become a expert at coaching and above - (not yet/ I'm not able to handle this yet)",
+            "uid": "M9jGCZBxx"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607589764283,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607589798298,
+        "refs": [
+          {
+            "uid": "Uuj8qVHFL"
+          }
+        ],
+        "string": "With my training about coaching, I noticed that it will have different levels [[My Training Courses]]",
+        "uid": "UpFCUsOKI"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "AJ-Jlvy4j"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "wDoLal-sL"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "PPuNsgmIY"
+                  }
+                ],
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607590740475,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607590800432,
+                    "string": "This learning will related to the topic that I'm training though, so it's not my personal intention, but actually my expansion for supporting them to learn in an sustainable way",
+                    "uid": "y8Wcqb7W5"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607590709086,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607590807357,
+                "refs": [
+                  {
+                    "uid": "PPuNsgmIY"
+                  }
+                ],
+                "string": "But around 20-30% about that will also cover their learning about themselves, as this is much more valuable and much more impactful that I could help them. [[zoom-out point of view]]",
+                "uid": "gRyUPgtt0"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607590674681,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607590709093,
+            "refs": [
+              {
+                "uid": "wDoLal-sL"
+              }
+            ],
+            "string": "When design my own workshop, it's important that my [[training principles]] is not just about helping them to learn knowledge about that specific topics",
+            "uid": "2vKECbYKN"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607590662997,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607590674689,
+        "refs": [
+          {
+            "uid": "AJ-Jlvy4j"
+          }
+        ],
+        "string": "[[\ud83c\udf31Instructional Design]]",
+        "uid": "yiaeq8KQ1"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "fmfgeT0iK"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607591539991,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607591552275,
+            "string": "How far and how high one can see? ",
+            "uid": "6BZ0Ep_Cs"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607591552335,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607591609669,
+            "string": "How fluid and comfort (flow) one can perform",
+            "uid": "bfzTY4Lf2"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607591611739,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607591624292,
+            "string": "How deep one can work on",
+            "uid": "Py6XgdWQ-"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607591624289,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607591630822,
+            "string": "How impact one can create",
+            "uid": "RSZ0fOUXa"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607591635722,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607591647213,
+            "string": "How precise one can focus on what's matter",
+            "uid": "Iyq2NWnGh"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607591647210,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607591647210,
+            "string": "",
+            "uid": "KMq9GUOiM"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607590783068,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607591539995,
+        "refs": [
+          {
+            "uid": "fmfgeT0iK"
+          }
+        ],
+        "string": "[[Level of expertise]] factors",
+        "uid": "_1JuLk30D"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -97292,5 +97838,119 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1607556382930,
     "title": "December 10th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607589024973,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607589024975,
+    "title": "mastery definiton"
+  },
+  {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ewTljQ3La"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "fmfgeT0iK"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607589137745,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607589142565,
+            "refs": [
+              {
+                "uid": "fmfgeT0iK"
+              }
+            ],
+            "string": "[[Level of expertise]]",
+            "uid": "WjIp63uOk"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607589107583,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607589137748,
+        "refs": [
+          {
+            "uid": "ewTljQ3La"
+          }
+        ],
+        "string": "[[Horizons of Mastery]]",
+        "uid": "f75JQWyqj"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "0OAo0fhua"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607589098315,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607589103521,
+        "refs": [
+          {
+            "uid": "0OAo0fhua"
+          }
+        ],
+        "string": "[[\ud83c\udf31PKDS - Personal Knowledge Development System]]",
+        "uid": "KZ0jvLRll"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607589080293,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607589098317,
+    "title": "\ud83c\udf31Training Course - Effortless mastery"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607589137749,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607589137754,
+    "title": "Horizons of Mastery"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607589363091,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607589363095,
+    "title": "What a coach expert at?"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607589633247,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607589633248,
+    "title": "My mastery journey"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607589798299,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607589798301,
+    "title": "My Training Courses"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607590379929,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607590379930,
+    "title": "My Life Pupose"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607590405338,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607590405339,
+    "title": "My Areas of Focus"
   }
 ]

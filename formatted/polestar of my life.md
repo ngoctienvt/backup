@@ -16,7 +16,7 @@
         - The attitude - unattachment centering, learning, helicopter point of view, and trusting the process
 
 # Backlinks
-## [Life Polestar](<Life Polestar.md>)
+## [My Life Polestar](<My Life Polestar.md>)
 - [polestar of my life](<polestar of my life.md>)
 
 ## [November 10th, 2020](<November 10th, 2020.md>)

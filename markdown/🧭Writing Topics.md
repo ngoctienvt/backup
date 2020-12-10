@@ -1,6 +1,8 @@
 - Wisdom
     - [[understanding before solving]]
     - [[the fifth force - will-power]]
+- Coaching
+    - [[What a coach expert at?]]
 - Personal Development
     - [[Learning to care about other people unconditionally]]
     - [[How to self-development effectively?]]

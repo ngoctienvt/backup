@@ -365,6 +365,9 @@ Lập kế hoạch áp dụng
 ## [Articles - Concrete vs abstract thinking](<Articles - Concrete vs abstract thinking.md>)
 - Tags: [Articles](<Articles.md>), [level of thinking](<level of thinking.md>), [TBR](<TBR.md>) #[🌱Instructional Design](<🌱Instructional Design.md>)
 
+## [December 10th, 2020](<December 10th, 2020.md>)
+- [🌱Instructional Design](<🌱Instructional Design.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - [Workshop Design](<Workshop Design.md>) [🌱Instructional Design](<🌱Instructional Design.md>)
 

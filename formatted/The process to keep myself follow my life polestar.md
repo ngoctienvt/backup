@@ -18,6 +18,6 @@
     - and trusting the process
 
 # Backlinks
-## [Life Polestar](<Life Polestar.md>)
+## [My Life Polestar](<My Life Polestar.md>)
 - [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
 

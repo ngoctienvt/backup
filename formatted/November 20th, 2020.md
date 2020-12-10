@@ -10,7 +10,7 @@
         - While projects will be about make sure me to move forward certain unfolding direction and develop myself over the course - it will be leverage my process or system goal
         - and while I keep doing good on improving my process or system goal, my vision and purpose in life start to clearer to see how my life is unfolding. 
 
-It's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [Life Polestar](<Life Polestar.md>) that will help me align my goal/projects/tasks and actions in a way that serve my life purpose when I aware of it. [alignment](<alignment.md>)  
+It's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [My Life Polestar](<My Life Polestar.md>) that will help me align my goal/projects/tasks and actions in a way that serve my life purpose when I aware of it. [alignment](<alignment.md>)  
     - And the level of my review will be based on these level of focus [reflection](<reflection.md>) [horizons of reflection](<horizons of reflection.md>)
         -  a daily review will be more about what I did today, and what I noticed about myself, or what's emerging - noticing what's emerging
         - while a weekly review is about project levels. It's about collecting what I want to do, to learn - capturing what's emerging to work on

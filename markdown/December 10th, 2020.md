@@ -4,4 +4,45 @@
     - Competent to proficient is when a coach start to develop their intuition about what's important to focus on, what they need to focus on at the moment, but they will miss sometimes, and still focus on the wrong things.
     - Proficient to expert is when a coach start to clearly know what's important that need to focus on, but they haven't feel flow about the process to go deeper inside of it, or make sure what's important is maintain. They will start to learn about the way to uncover what's important.
     - Expert and above is when a coach still continue to learn, refine and expand their skills and knowledge, everything always have room for growth.
+- I start to clearer that __what I want to teach__ is not just about [[🌱PKDS - Personal Knowledge Development System]], but it's actually about a way to master something that we interest on. [[🌱Training Course - Effortless mastery]]
+    - On this process, we will learn and create __results as a by-product__ of our learning and serving. For example,
+        - Competent is when we start to create certain products that can go publish and serve a bit of value
+        - Proficient is when we start to be able to not just do, 
+            - but have a deep knowledge that can write blog articles about certain block of knowledge to__ teach other people__
+        - Expert is when we can write a book that condense our knowledge about that subject.
+    - My definition about master and expert is not just someone who can perform well, but can also simplify and explain it in a concise and easy to understand way. [[mastery definiton]]
+- I also see more clear that what the coach is good at not about how to solve the problems, but about [[What a coach expert at?]]
+    - Seeing what's the perception that distort the client view
+    - Understanding the truth that 
+        - most of our problems are made-up problems 
+            - based on our limited thoughts, beliefs, and unhandle emotions.
+    - Able to craft questions that are customized, concise, and direct to help clients 
+        - explore themselves deeply
+        - provoke their creativity 
+        - break their limited thinking and beliefs
+- What are skills or areas that I'm nurturing my mastery on [[My mastery journey]]
+    - I noticed that my mastery journey and what I want to go deeply about is support other people to have a strong foundation inside themselves, so that they can face any challenges on the journey on earth with a right attitude and in an effective way. [[My Life Pupose]]
+    - [[My Areas of Focus]]
+        - Coaching - competent
+        - Spiritual - competent
+        - Training/ Facilitating/ Teaching - novice
+            - Instructional Design - novice
+        - Thinking/ Self-mastery - advance beginner
+            - Writing - novice
+- With my training about coaching, I noticed that it will have different levels [[My Training Courses]]
+    - A course for people to become competent at coaching - the first 100 hours
+        - This course will only focus to serve people who truly want to become a coach as a main goal
+            - not for person who want to know, or solve their problems. 
+    - A course for people to coach at deeper level and become proficient at coaching - The next 400 hours
+    - A course for people who want to become a expert at coaching and above - (not yet/ I'm not able to handle this yet)
+- [[🌱Instructional Design]]
+    - When design my own workshop, it's important that my [[training principles]] is not just about helping them to learn knowledge about that specific topics
+        - But around 20-30% about that will also cover their learning about themselves, as this is much more valuable and much more impactful that I could help them. [[zoom-out point of view]]
+            - This learning will related to the topic that I'm training though, so it's not my personal intention, but actually my expansion for supporting them to learn in an sustainable way
+- [[Level of expertise]] factors
+    - How far and how high one can see? 
+    - How fluid and comfort (flow) one can perform
+    - How deep one can work on
+    - How impact one can create
+    - How precise one can focus on what's matter
     - 

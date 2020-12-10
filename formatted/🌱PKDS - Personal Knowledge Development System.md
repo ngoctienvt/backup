@@ -6,6 +6,9 @@
 - [PKDS - Personal Knowledge Development System terminology](<PKDS - Personal Knowledge Development System terminology.md>)
 
 # Backlinks
+## [December 10th, 2020](<December 10th, 2020.md>)
+- I start to clearer that __what I want to teach__ is not just about [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>),
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
@@ -37,6 +40,9 @@
 ## [TODO](<TODO.md>)
 - Developing [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
+- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
+
+## [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
 ## [🏡Home Maps](<🏡Home Maps.md>)

@@ -1,9 +1,9 @@
-- ### Horizons of Focus
-    - ### Life Pupose - [living from the place of surrender](<living from the place of surrender.md>) 
+- ### [My Life Polestar](<My Life Polestar.md>)
+    - ### [My Life Pupose](<My Life Pupose.md>) - [living from the place of surrender](<living from the place of surrender.md>) 
         - purpose - enjoy every moment of the time on earth
             - evolution [soul evolution](<soul evolution.md>)
             - contribution [serving the demand of reality](<serving the demand of reality.md>)
-    - ### Areas of Focus
+    - ### [My Areas of Focus](<My Areas of Focus.md>)
         - student-centered trainer
             - spiritual teacher
             - coach trainer
@@ -18,7 +18,7 @@
                 - Manage active projects and tasks
                 - Ensure projects and daily activities that direct me on the right track - areas of focus
             - Life Management
-                - Ensuring that I am living on the right track to my [Life Polestar](<Life Polestar.md>)
+                - Ensuring that I am living on the right track to my [My Life Polestar](<My Life Polestar.md>)
         - [Daily Workflow MOC](<Daily Workflow MOC.md>) - daily activities
             - repeat tasks
                 - yoga and strolling - energy management
