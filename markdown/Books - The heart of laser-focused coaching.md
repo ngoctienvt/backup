@@ -35,9 +35,19 @@
                     - The client naturally creates their own forward movement from a highly motivated perspective. 
                         - From the literal first question, more profound, insightful coaching is underway.
                     - Coach knows how to create and demonstrate a collaborative relationship by providing context for questions and pertinent reflection.
-                    - (Page 20). 
-                    - (Page 20). 
-                    - (Page 19). 
-                    - (Page 19). 
-                - (Page 19). 
-                - (Page 19). 
+                        - It’s not about focusing on solving the problematic situation because the solution is actually a by-product. 
+                        - Trying to get to a solution or action plan before exploring the client’s thinking, behavior, ideas, and values is the same as asking an inappropriate question such as “How much money do you make?”
+                - Most people think coaching is about helping clients. While we do help them, that is not our aim in Laser-Focused Coaching. 
+                    - __Our role is to shine a light on something our client cannot see for themselves. __
+                        - And with that light, clients discover things they couldn’t see before, thus helping becomes the by-product .
+        - CONVENTIONAL COACHING VERSUS LASERFOCUSED COACHING
+            - The most common approach to coaching usually follows a learned formula or model to solve a problem.
+                -  The focus is on action and results, making sure the client takes specific steps before the next session. 
+                - Typical coaching starts with accepting at face value what the client shares. 
+                    - Emphasis is frequently placed on agreeing on the outcome the client requests from the beginning, and then working toward that. 
+                    - The coach typically assists the client in designing an action, and then manages accountability. 
+                - With this type of coaching, the coach can feel pressure to perform and find solutions to be seen as worthy. 
+                    - Often the coach fails to realize that they are not responsible for any outcome, and consequently gathers more information than is actually needed.
+                        - This focus on collecting data prevents efficient and more meaningful coaching.
+                - While the client might seem temporarily pleased, neither the coach nor the client realizes how much more could have come from the coaching had the underlying issue been addressed at the root.
+            - Transformational Coaching or 

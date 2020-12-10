@@ -48,5 +48,11 @@
 - I felt so much relax and able to release many things inside myself while watching movies Garden of Words. It helped me to realize what's the natural possible behavior to let other things emerge by itself. [emergence](<emergence.md>).
     - The relationship in the movies is nurtured and blossomed so natural without forcing to happen between 2 sides. Because they mainly work on themselves while prevent ourselves to follow our personal needs or personal emotions. [true relationship](<true relationship.md>) occurs when we let it happen by itself and let go of our personal needs. 
 - Somehow there will be a ratio for how to move up [Level of expertise](<Level of expertise.md>) like 50-30-20 or 60-30-10. It will help me to not force myself to reach the end, but rather let the picture slowly emerge and form by itself. [🌱Natural Progression](<🌱Natural Progression.md>)
-- 
+- [My end goals](<My end goals.md>)
+    - I want to have a relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) so that I could take care of her.
+        - I want to take care of her so that I could learn to truly how to have an unconditional relationship with a person
+            - I want to learn to have an unconditional relationship so that I could grow beyond myself and serve life.
+                - I want to grow beyond myself and serve life selflessly because it’s meaningful, and it is the highest thing that I can do in my life.
+- I'm so wonder that how I will wonder references or long-content from articles or books. I want to keep them as materials for writing, but I'm fear that it will create cluster on my linked references. [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
+    - I think that I could clean up the references to the related content and transform them totally into my knowledge, I'm completely absorb the knowledge of other person or of the reality, and then from that, my own expression will be emerge and it's about me express myself back to reality. So I don't have to fear about copy other person anymore, because it's gone through a transmuting process from me.
 - 

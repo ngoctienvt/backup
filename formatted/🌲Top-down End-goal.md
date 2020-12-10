@@ -1,7 +1,7 @@
 - Related: [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 - The role of [🌲Top-down End-goal](<🌲Top-down End-goal.md>) is 
     - gaining clarity about direction and big picture that emerge from [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-        - [personal end goals](<personal end goals.md>) 
+        - [My end goals](<My end goals.md>) 
         - Seeing big picture or the direction [big picture thinking](<big picture thinking.md>)
     - align things to serve the end goal or purpose effectively [on the right track](<on the right track.md>)
     - creating space for exploring, experiment and learning without the fear of being wrong

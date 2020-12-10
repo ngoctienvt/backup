@@ -1,6 +1,5 @@
 - Learning and doing exercises for [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>)
 - Continue work on take note [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
-- Start to take note 2 chapters of [Books - The heart of laser focus coaching](<Books - The heart of laser focus coaching.md>)
 - Meditate on my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) and how a [true relationship](<true relationship.md>) will look life for me?
 
 # Backlinks

@@ -17,6 +17,9 @@
     - Buổi 1: Điều gì mình có thể count on bản thân mà không phải là 1 biến?
 
 # Backlinks
+## [December 10th, 2020](<December 10th, 2020.md>)
+- I want to have a relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
+
 ## [December 6th, 2020](<December 6th, 2020.md>)
 - I feel that's my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 

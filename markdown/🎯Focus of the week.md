@@ -1,4 +1,3 @@
 - Learning and doing exercises for [[Courses - Design Lean Workshop]]
 - Continue work on take note [[Courses - Living from the place of surrender]]
-- Start to take note 2 chapters of [[Books - The heart of laser focus coaching]]
 - Meditate on my relationship with [[@Nguyễn Mỹ Linh]] and how a [[true relationship]] will look life for me?

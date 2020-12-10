@@ -26,6 +26,9 @@
 ## [How to self-development effectively?](<How to self-development effectively?.md>)
 - [end goal](<end goal.md>)
 
+## [My end goals](<My end goals.md>)
+- Current [end goal](<end goal.md>)
+
 ## [November 12th, 2020](<November 12th, 2020.md>)
 - End goal drive the approach. Approach drive the method. Method drive the process. And process drive tool selection [end goal](<end goal.md>)
 
@@ -63,9 +66,6 @@
 - [end goal](<end goal.md>)
 
 - [trust](<trust.md>) and [connection](<connection.md>) are essential to create [optimal conditions](<optimal conditions.md>) for the emergence of [end goal](<end goal.md>)
-
-## [personal end goals](<personal end goals.md>)
-- Current [end goal](<end goal.md>)
 
 ## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goal](<end goal.md>)
