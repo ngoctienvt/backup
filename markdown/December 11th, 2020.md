@@ -116,7 +116,7 @@ Còn để phát triển tiếp ở cấp độ cao hơn, người học cần t
 - I noticed that I have a fear of bad samskaras that comeback to me. I still treat samskaras differently based on their nature of vibrations that come to me. [[discrimination]]
 - I wonder how I will handle my training courses creation process. It's seem to be a little bit clustering and hard to visualize with Roam Research. I feel that I still need to do visualize my process work by hand-writing, and only take note the results on Roam Research. [[🌱Workflow ]]
 - I felt so much personal emotions inside myself that need to release today. 
-    - It's about invite people to my workshop and not feel that they respect it. 
+    - It's about invite people to my workshop and not feel that they respect or recognize my effort/ my work.
     - It's about I feel that something can help other people, but it feels showing myself instead of helping them unconditionally.It's a fear of being judge and also [[fear of being misunderstood]].
     - I also feel confuse about what's best to help that person in that case, because the best method is not neccessary what's suitable most in the moment. [[raise the moments]]
     - 

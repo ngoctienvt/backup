@@ -99933,8 +99933,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607700091024,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607700091024,
-            "string": "It's about invite people to my workshop and not feel that they respect it. ",
+            "edit-time": 1607701994938,
+            "string": "It's about invite people to my workshop and not feel that they respect or recognize my effort/ my work.",
             "uid": "qdZd5AddD"
           },
           {
@@ -100060,6 +100060,68 @@
     "title": "Opening activities"
   },
   {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607701778490,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607701781014,
+            "string": "Lead by example",
+            "uid": "aDrXRxP2B"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607701781007,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607701793248,
+            "string": "Repetition - familiarity - mere exposure",
+            "uid": "dSLPZlnvL"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607701769752,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607701778512,
+        "string": "Impactful way",
+        "uid": "SFn0BAztU"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607701802496,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607701859469,
+            "string": "Avoid provoke thinking and analyzing in early stage",
+            "uid": "AbaOqWwj7"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607701859463,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607701920084,
+            "string": " Clear and focus message",
+            "uid": "HSolhFmIK"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607701920073,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607701928589,
+            "string": "Easy to understand and relate",
+            "uid": "oeotiHoqd"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607701793237,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607701797789,
+        "string": "Note",
+        "uid": "szJxVhUuv"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1607657760395,
     "edit-email": "ngoctienvt@gmail.com",
