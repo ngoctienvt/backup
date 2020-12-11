@@ -155,6 +155,20 @@ https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/
     - [[Bloom's taxonomy]]
         - New bloom's - remove synthesis, add creating as last level
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FFIKUy2-ffy.png?alt=media&token=c4d08854-f103-4fb8-8b53-f415bb8321d4)
+        - Design objectives (thiết kế nội dung) are listing knowledge or information that participant need to be able to complete the tasks.
+            - Results are list of knowledge or information that need to teach.
+        - Đánh giá 
+            - tự phân tích đưa ra được đặc điểm của bản thân
+            - kiểm chứng đặc điểm của người khác
+        - Task là hoạt động cần làm. Objective là hiểu biết nội tại cần thiết để làm được hoạt động.
+            - Task là outcome cần, objective là kiến thức để làm được outcome.
+            - Task trước, outcome sau.
+            - Reality đi trước, không phải personal needs
+        - Những điều người học cần biết để làm được điều này là gì?
+        - Kiến thức này sẽ giúp họ làm được điều gì?
+        - [[Krathwohl’s Affective Taxonomy]]
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkZTItUDPQy.png?alt=media&token=4f6754d1-d64d-4e93-9ff6-04c2d7360937)
+            - 
 - ---
 - Group activities
     - Clarify foggy contents
