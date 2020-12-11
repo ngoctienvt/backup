@@ -99656,6 +99656,74 @@
         ],
         "string": "[[Krathwohl\u2019s Affective Taxonomy]]",
         "uid": "RkG5QeEkD"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "5SRsPhI2V"
+          },
+          {
+            ":block/uid": "EWDKM5A0V"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607681765031,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607681783565,
+            "string": "It will also provoke what needs to be clear or resolve. ",
+            "uid": "XN0DgkESL"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607681561451,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607681672428,
+        "refs": [
+          {
+            "uid": "5SRsPhI2V"
+          },
+          {
+            "uid": "EWDKM5A0V"
+          }
+        ],
+        "string": "I noticed that when I set a project for the next step with an external commitment, it helps to secure my direct because my mind can't help anything except helping me to work towards it. [[external force]] and [[external commitment]] like this will be a good way to overcome the scatter mind and the consciousness.",
+        "uid": "HXo5lfFra"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "C5iNut_ax"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607681791280,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607682026654,
+        "refs": [
+          {
+            "uid": "C5iNut_ax"
+          }
+        ],
+        "string": "I noticed that I have a fear of bad samskaras that comeback to me. I still treat samskaras differently based on their nature of vibrations that come to me. [[discrimination]]",
+        "uid": "TkItu06gA"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607682026650,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607682026650,
+        "string": "",
+        "uid": "X4IiVaQ3J"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607681672425,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607681672425,
+        "string": "",
+        "uid": "R6tKGq62g"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -99733,5 +99801,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1607657760396,
     "title": "Krathwohl\u2019s Affective Taxonomy"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607681640291,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607681640292,
+    "title": "external commitment"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607682026655,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607682026656,
+    "title": "discrimination"
   }
 ]

@@ -111,3 +111,8 @@ Ví dụ: Xây dựng nếp sống “không rác thải độc hại” và tru
 Như bạn có thể thấy, cấp độ 4 và 5 là những cấp độ cần trải nghiệm thực tế trong cuộc sống cá nhân, và cần thời gian rất dài để thực hành, chiêm nghiệm, điều chỉnh thì mới có thể tiếp thu một giá trị mới theo như mô tả ở hai cấp độ này. Vì vậy, trong một workshop ngắn ngày, theo kinh nghiệm của mình, người học chỉ có thể đạt được đến cấp độ 3 là “Nhận giá trị” và một phần của cấp độ 4 ở mức độ “biến thành khái niệm” bằng cách so sánh giá trị đó với những giá trị hiện tại.
 
 Còn để phát triển tiếp ở cấp độ cao hơn, người học cần tự vận hành hoặc cần được hỗ trợ tiếp trong cuộc sống (sau khi workshop kết thúc) thì mới có thể thực sự sống với giá trị mới.
+- I noticed that when I set a project for the next step with an external commitment, it helps to secure my direct because my mind can't help anything except helping me to work towards it. [external force](<external force.md>) and [external commitment](<external commitment.md>) like this will be a good way to overcome the scatter mind and the consciousness.
+    - It will also provoke what needs to be clear or resolve. 
+- I noticed that I have a fear of bad samskaras that comeback to me. I still treat samskaras differently based on their nature of vibrations that come to me. [discrimination](<discrimination.md>)
+- 
+- 
