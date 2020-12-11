@@ -141,23 +141,19 @@ https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/
                     - Put participants into a specific situation, so it helps to lead to the situation that facilitator want students focus on.
                     - Deliver information by stories which help students to remember easier
                     - These benefits are not apply for "how-to" video, but for situation video.
-            - With activities have emotion evolve,
-
-Với mỗi hoạt động nào có yếu tố cảm xúc (ví dụ như video vừa rồi), việc thu hoạch cảm xúc ngay lập tức sẽ giúp người tham gia dễ dàng đúc kết được bài học. Trong tâm lý của một người bình thường, bài học sẽ xuất hiện nhiều nhất khi có cảm xúc mạnh xuất hiện.
-
-Thay vì để cho mọi người tự do chia sẻ câu trả lời, hoạt động này yêu cầu mọi người chọn cảm xúc trong một danh sách đã có sẵn. Điều này sẽ hỗ trợ cho người tham gia dễ dàng chia sẻ hơn, bởi vì không phải ai cũng có từ điển cảm xúc phong phú.
-
-Điều này cũng giúp người điều phối dễ dàng phỏng vấn và thảo luận cùng với mọi người vì đã có sẵn thông tin của người chia sẻ và cảm xúc tương ứng.
-        - 4- Ông bố đang muốn dạy hai người con điều gì?
-
-Sau khi thu hoạch cảm xúc, đây là bước thu hoạch bài học trong ngữ cảnh của video. Khi thu hoạch cho một hoạt động cụ thể, thì phần này nhằm thu hoạch bài học trong ngữ cảnh của hoạt động đó.
-
-Nếu hỏi câu hỏi này ngay sau khi xem video xong, người tham gia có thể sẽ bối rối vì ngay lúc đó tâm trí vẫn còn đang tập trung vào video và cảm xúc xuất hiện trong quá trình xem. Sau khi thu hoạch cảm xúc rồi, người tham gia mới có thể bước ra khỏi ngữ cảnh đó để nhìn lại và nêu ra bài học.
-        - 5- Có thể ứng dụng những điều này vào việc thiết kế chương trình như thế nào?
-
-Sau khi liệt kê các bài học trong ngữ cảnh của hoạt động (video), thì đây là bước liên tưởng tới tình huống thực tế, cụ thể hơn là tình huống mà người điều phối muốn người tham gia ứng dụng được bài học.
-
-Những bước thu hoạch "đệm" (thu hoạch cảm xúc, thu hoạch bài học trong ngữ cảnh của video) sẽ giúp người tham gia dễ dàng đúc kết được bài học trong tình huống thực tế.
+                - "Share 2 outstanding emotions of two children"
+                    - With activities have emotion involve, harvest emotions immediately will help students learn.
+                        - For examples, an activity that require participants to choose 2 emotions from a list of emotions.
+                - "What dad want to teach the children?"
+                    - After havest emotions, this is a step to harvest the lesson in that situation of the video.
+                    - If ask this question immediately after watch Video, participants can feel confuse, because their mind still focus on the video and the emotions emerge.
+                - "How to apply the lesson to design a workshop?"
+                    - After harvest lesson based on the situation of the activity, this step is about link to real life situation.
+                - The step to harvest an emotional activities
+                    - Do activities
+                    - Harvest emotions
+                    - Harvest lessons in the situation of the activities
+                    - Expanded learning to real life situation
         - 6- Hoạt động "luộc trứng"
 
 Đây được gọi là một dạng "làm mẫu" (demo).
