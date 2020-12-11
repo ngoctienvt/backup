@@ -99710,11 +99710,21 @@
         "uid": "TkItu06gA"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "nvt-ENO46"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607682026650,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607682026650,
-        "string": "",
+        "edit-time": 1607684924317,
+        "refs": [
+          {
+            "uid": "nvt-ENO46"
+          }
+        ],
+        "string": "I wonder how I will handle my training courses creation process. It's seem to be a little bit clustering and hard to visualize with Roam Research. I feel that I still need to do visualize my process work by hand-writing, and only take note the results on Roam Research. [[\ud83c\udf31Workflow ]]",
         "uid": "X4IiVaQ3J"
       },
       {

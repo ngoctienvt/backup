@@ -114,5 +114,5 @@ Còn để phát triển tiếp ở cấp độ cao hơn, người học cần t
 - I noticed that when I set a project for the next step with an external commitment, it helps to secure my direct because my mind can't help anything except helping me to work towards it. [external force](<external force.md>) and [external commitment](<external commitment.md>) like this will be a good way to overcome the scatter mind and the consciousness.
     - It will also provoke what needs to be clear or resolve. 
 - I noticed that I have a fear of bad samskaras that comeback to me. I still treat samskaras differently based on their nature of vibrations that come to me. [discrimination](<discrimination.md>)
-- 
+- I wonder how I will handle my training courses creation process. It's seem to be a little bit clustering and hard to visualize with Roam Research. I feel that I still need to do visualize my process work by hand-writing, and only take note the results on Roam Research. [🌱Workflow ](<🌱Workflow .md>)
 - 
