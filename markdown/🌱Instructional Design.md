@@ -160,7 +160,7 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
     - Types of training activities
         - While You Wait
 Hoạt động được sử dụng trước giờ bắt đầu chương trình, tạo điều kiện để người học chủ động tương tác ngay khi bước vào lớp học.
-        - Opener: Hoạt động dùng để mở đầu buổi học, thường xoay quanh các mục đích:
+        - [[Opening activities]]: Hoạt động dùng để mở đầu buổi học, thường xoay quanh các mục đích:
             - Get used to tools/ techniques
             - Set up the principles for class
             - Share information about ourselves
