@@ -134,6 +134,13 @@
             - The list down process will focus on the participant, not focus on what the trainer will teach.
         - "Boil egg" activities
 https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/edit?usp=sharing
+            - 6- Boil egg activities - demo activites
+                - Use pictures to let participants choice, so that they will have a feeling of free-choice and will more engage.
+                - Do together with everyone, and emphasizes what need to care when doing tasks analysis
+                - This type of demo activities will bring people to situation, and have their own learning in different aspects of activities.
+                    - Main lesson for tasks analysis
+                        - Simple task in head because we did it doesn't mean it simple to describe details for another person who know nothing about it
+                        - If the goal and the target participant is not clear, tasks analysis will be very complicated
         - [[Opening activities]]
             - Video https://www.youtube.com/watch?v=yM6B0k3E25I&ab_channel=ConnectionCoach
                 - Benefits of video:
@@ -154,51 +161,26 @@ https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/
                     - Harvest emotions
                     - Harvest lessons in the situation of the activities
                     - Expanded learning to real life situation
-        - 6- Hoạt động "luộc trứng"
-
-Đây được gọi là một dạng "làm mẫu" (demo).
-
-Tụi mình sử dụng hình ảnh để mọi người lựa chọn, đây là một cách để tạo cảm giác tự do cho người học, để cho người học quyết định mình sẽ làm gì trong lớp học.
-
-Sau đó tụi mình cùng mọi người thực hiện các bước để mô tả quá trình một người luộc trứng, và trong quá trình đó, tụi mình nhấn mạnh những điểm cần lưu ý trong lúc phân tích nhiệm vụ.
-
-Cách làm demo kiểu này sẽ giúp mọi người đưa mình vào tình huống, và vỡ ra nhiều điểm, đối với mỗi người lại vỡ ra những điểm khác nhau. Nếu mình cho mọi người "lý thuyết" về các bước phân tích nhiệm vụ thì sẽ không vỡ ra được các điểm đó, vì nó không có tình huống cụ thể.
-
-Các điểm mọi người nhận ra là:
-- Một nhiệm vụ tưởng đơn giản trong suy nghĩ của mình (vì mình đã làm được nó) nhưng thực ra lại cần mô tả rất chi tiết vì người học chưa làm được nhiệm vụ đó
-- Nếu mục tiêu quá sơ sài, không đủ chi tiết, thì quá trình phân tích nhiệm vụ sẽ rất cồng kềnh, phức tạp
-- Nếu đối tượng tập trung không rõ ràng, thì quá trình phân tích nhiệm vụ cũng sẽ cồng kềnh
-        - 7- Điền vào chỗ trống để định nghĩa quá trình "phân tích nhiệm vụ"
-
-Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình này, thì bước định nghĩa này giúp mọi người bắt đầu tư duy về nó, ở tầng "biết" nó là gì. Buổi sắp tới, tụi mình sẽ cùng mọi người đi qua các bậc tư duy này, và mọi người sẽ hiểu tại sao chúng ta phải dẫn dắt người học qua từng bậc tư duy một cách từ từ, thay vì nhảy ngay lập tức lên bậc cao.
-        - 8- Những điều nên làm / không nên làm trong quá trình phân tích nhiệm vụ (task analysis) là gì?
-
-Đây là thu hoạch cho hoạt động demo "Luộc trứng" nói trên. Mục đích của hoạt động demo là để cho mọi người nắm được quá trình phân tích nhiệm vụ và các nguyên lý của nó. Phần này để thu hoạch cho phần "nguyên lý", nó yêu cầu mọi người phân tích và đánh giá những gì mình vừa trải qua.
-        - 9- Bốn (04) bước để phân tích nhiệm vụ (task analysis) là gì?
-
-Đây là thu hoạch cho "quá trình phân tích nhiệm vụ". Dạng hoạt động này đã được thực hiện trong các buổi học trước rồi.
-        - 10- Thực hành "phân tích nhiệm vụ"
-
-Quá trình thực hành này được thực hiện theo phương pháp "Project-based learning", tức là người học sẽ tự hoàn thành một dự án nhỏ của riêng mình.
-
-"Dự án" trong buổi học chính là 1 mục tiêu trong workshop của ba học viên.
-
-Lưu ý rằng tụi mình (2 người điều phối) cũng cần tham gia vào các nhóm để dẫn dắt quá trình phân tích nhiệm vụ. Nếu không thì kết quả có thể sẽ không được như ý.
-
-Cách làm này gọi là "scaffolding" (tạm dịch là: quá trình hỗ trợ). Từ đầu, người điều phối có thể hỗ trợ nhiều bằng cách tham gia trực tiếp và đặt nhiều câu hỏi (mức độ hỗ trợ cao). Sự hỗ trợ này giảm dần theo thời gian. Đến khi người tham gia có thể tự làm được thì người điều phối chỉ cần có mặt, mà giảm dần sự hỗ trợ, và chỉ can thiệp khi thực sự cần thiết. Cuối cùng khi kết thúc chương trình, sự hỗ trợ giảm đến mức tối thiểu để người tham gia có thể tự hoàn thành nhiệm vụ của mình sau chương trình.
-        - 11- Thu hoạch sau hoạt động thực hành
-
-Hoạt động thu hoạch rất quan trọng sau mỗi lần demo, hoặc thực hành một điều gì đó, hoặc tham gia một hoạt động có "aha moment" nào đó. Bởi vì quá trình thực hành sẽ giúp mọi người nhận ra những bài học khác nhau, nên quá trình thu hoạch sẽ giúp toàn bộ các bài học được nêu ra cho toàn bộ mọi người cùng biết.
-
-Có nhiều cách để thực hiện phần thu hoạch này. Ở đây tụi mình thực hiện cách đơn giản nhất là chia sẻ tự do. Tuy nhiên, có nhiều cách khác giúp tương tác cao hơn và đào sâu hơn nữa. Chương trình sẽ có 1 buổi tập trung nhiều vào các cách thu hoạch hiệu quả.
-        - 12- Tổng kết bằng hoạt động "Square, Circle, Triangle"
-
-Ba nội dung chia sẻ để tổng kết là:
-- Những điều bạn đã biết và được củng cố sau buổi ngày hôm nay về quá trình phân tích nhiệm vụ (task analysis)
-- Những câu hỏi bạn vẫn còn thắc mắc sau buổi ngày hôm nay về quá trình phân tích nhiệm vụ (task analysis)
-- 3 bài học quan trọng mà bạn có được sau buổi hôm nay về quá trình phân tích nhiệm vụ (task analysis)
-
-Quá trình tổng kết một buổi học có "câu hỏi vẫn còn thắc mắc" là một bước khảo sát nhanh, để người điều phối kịp thời điều chỉnh các phần tiếp theo để giải quyết các thắc mắc đó.
+        - Fill into space to define "Tasks analysis" process
+            - This step to define definition will help people start to think about it as "know" level
+        - What should/ shouldn't do when doing tasks analysis
+            - Harvest activities for "boil egg" activities
+            - Help people grab the tasks analysis process and its principle
+            - It requires people to analyze and evaluate what they just gone through.
+        - Project-based learning 
+            - People will execute a small project for them
+            - The project in this case is a goal of workshop of 3 students
+            - Facilitators also need to attend to the process
+                - This is called "scaffolding" - helping process.
+                    - Facilitator will support direct by involve and ask questions (high support level). 
+                    - Then reduce over time and only involve when necessary. 
+                    - At the end, the support will reduce to lowest so that students can complete by themselves.
+        - Harvest after practices
+            - This is important after demo, practice, or an activities that have "aha moments".
+        - Summarize by "Square, Circle, Triangle" activities
+            - Square - what you knew and are reinforced
+            - Circle - What you still not clear (fast survey)
+            - Triangle - Top 3 important lessons that you have for yourself
 - Group activities
     - Clarify foggy contents
     - Resolve remaining questions
