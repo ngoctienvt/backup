@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 11th, 2020](<December 11th, 2020.md>)
+- I also feel confuse about what's best to help that person in that case, because the best method is not neccessary what's suitable most in the moment. [raise the moments](<raise the moments.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - Tools are what we have to use, not what we have to attach with. Without clarity but only attachments, we will have a tendency to protect our tools or false self, rather than harmony and raise the reality. [raise the moments](<raise the moments.md>)
 

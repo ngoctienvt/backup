@@ -68009,16 +68009,24 @@
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607428305587,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607428316144,
-                            "string": "Activity",
+                            "edit-time": 1607698719496,
+                            "string": "Objective",
                             "uid": "JawGyWeOB"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607698719492,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607698723772,
+                            "string": "Objective",
+                            "uid": "VtHln-tQZ"
                           }
                         ],
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1607428298398,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607428298398,
-                        "string": "Task",
+                        "edit-time": 1607698740010,
+                        "string": "Task/ Outcome",
                         "uid": "U4lXb1c2W"
                       },
                       {
@@ -68027,16 +68035,24 @@
                             "create-email": "ngoctienvt@gmail.com",
                             "create-time": 1607428316402,
                             "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1607428322035,
-                            "string": "Activity",
+                            "edit-time": 1607698727312,
+                            "string": "Objective",
                             "uid": "z0TuW_nZf"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1607698727309,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1607698729063,
+                            "string": "Objective",
+                            "uid": "J6qcPYEzL"
                           }
                         ],
                         "create-email": "ngoctienvt@gmail.com",
                         "create-time": 1607428299376,
                         "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1607428299376,
-                        "string": "Task",
+                        "edit-time": 1607698744473,
+                        "string": "Task/ Outcome",
                         "uid": "ohn3Ghoa0"
                       }
                     ],
@@ -99912,12 +99928,66 @@
         "uid": "X4IiVaQ3J"
       },
       {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607700091024,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607700091024,
+            "string": "It's about invite people to my workshop and not feel that they respect it. ",
+            "uid": "qdZd5AddD"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "3EqMwUEdW"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607700104585,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607700151674,
+            "refs": [
+              {
+                "uid": "3EqMwUEdW"
+              }
+            ],
+            "string": "It's about I feel that something can help other people, but it feels showing myself instead of helping them unconditionally.It's a fear of being judge and also [[fear of being misunderstood]].",
+            "uid": "cKjEOUUiX"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Acqp9iLLi"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607681672425,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607700104592,
+            "refs": [
+              {
+                "uid": "Acqp9iLLi"
+              }
+            ],
+            "string": "I also feel confuse about what's best to help that person in that case, because the best method is not neccessary what's suitable most in the moment. [[raise the moments]]",
+            "uid": "R6tKGq62g"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607700101265,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607700101265,
+            "string": "",
+            "uid": "VMwDelPYG"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607681672425,
+        "create-time": 1607700087764,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607681672425,
-        "string": "",
-        "uid": "R6tKGq62g"
+        "edit-time": 1607700087764,
+        "string": "I felt so much personal emotions inside myself that need to release today. ",
+        "uid": "tJDu8wNj_"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

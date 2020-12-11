@@ -114,10 +114,12 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
     - Overall goal
         - Major goal
             - Module
-                - Task
-                    - Activity
-                - Task
-                    - Activity
+                - Task/ Outcome
+                    - Objective
+                    - Objective
+                - Task/ Outcome
+                    - Objective
+                    - Objective
             - Module
                 - Task
                     - Activity
