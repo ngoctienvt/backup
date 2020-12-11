@@ -69684,6 +69684,11 @@
         "uid": "ItVQ8klLo"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "wDoLal-sL"
+          }
+        ],
         "children": [
           {
             "children": [
@@ -69702,6 +69707,40 @@
             "edit-time": 1607152388576,
             "string": "An important principle in training",
             "uid": "WhqYkIfiK"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606914034320,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606914043456,
+            "string": "Student-centric",
+            "uid": "NsUz2q13e"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606979976161,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606979997035,
+                "string": "Flexible on acitivites and the way delivering",
+                "uid": "Ul8rR2ZM_"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606979997030,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606980000361,
+                "string": "Fixed on goals",
+                "uid": "kPImYCjxM"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606979958522,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606979971198,
+            "string": "Flexible based on students level, progress",
+            "uid": "mC2C3FlEd"
           },
           {
             "children": [
@@ -69749,8 +69788,13 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607153662126,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607153665983,
-        "string": "Training principles",
+        "edit-time": 1607675287426,
+        "refs": [
+          {
+            "uid": "wDoLal-sL"
+          }
+        ],
+        "string": "[[training principles]]",
         "uid": "-3WC5HR_Z"
       },
       {
@@ -69806,6 +69850,80 @@
         ],
         "string": "[[Principle for learning]]",
         "uid": "_ocu6-tZY"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "3h8-NesnO"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606918710334,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606979867280,
+                "string": "expert about design a workshop",
+                "uid": "wRXlmnSWa"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606918704468,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606918710337,
+            "string": "Instructional Designer",
+            "uid": "Pz0gzvM0t"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606918734167,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606979888362,
+                "string": "knowledge-expert",
+                "uid": "6BVHbmV5U"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606918718856,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606918733209,
+            "string": "SME - Subject-matter expert ",
+            "uid": "OsuWEbHY4"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1606979890775,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1606979894921,
+                "string": "teaching-expert",
+                "uid": "qZ1K6uzrI"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1606918749938,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1606918756709,
+            "string": "Trainer - Facilitator",
+            "uid": "oBV8JHcpi"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1606979751299,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607049341899,
+        "refs": [
+          {
+            "uid": "3h8-NesnO"
+          }
+        ],
+        "string": "3 roles for creating and delivering a training effectively [[Training roles]]",
+        "uid": "O2PLUEAVp"
       },
       {
         "children": [
@@ -87211,306 +87329,6 @@
     "children": [
       {
         "children": [
-          {
-            "children": [
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "5ZGV3dyUV"
-                  }
-                ],
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "children": [
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606919266382,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606919271723,
-                            "string": "m\u1ee5c ti\u00eau",
-                            "uid": "0ZJ68jbqR"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606919271719,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606919285651,
-                            "string": "nguy\u00ean t\u1eafc ",
-                            "uid": "bSij38Zcp"
-                          }
-                        ],
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606913946039,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606914019932,
-                        "string": "Kh\u1ea3o s\u00e1t nhu c\u1ea7u h\u1ecdc vi\u00ean -> x\u00e2y d\u1ef1ng m\u1ee5c ti\u00eau \u0111\u00e0o t\u1ea1o",
-                        "uid": "MY1b-fZLX"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606979673418,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979700632,
-                    "string": "Analyse",
-                    "uid": "Ok6KQYJiQ"
-                  },
-                  {
-                    "children": [
-                      {
-                        "children": [
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606916604994,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606916609110,
-                            "string": "T\u00ecm hi\u1ec3u nhi\u1ec7m v\u1ee5 v\u00e0 m\u1ee5c ti\u00eau",
-                            "uid": "hI8ldMvfM"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606916621845,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606916626421,
-                            "string": "L\u1ef1a ch\u1ecdn v\u00e0 s\u1eafp x\u1ebfp n\u1ed9i dung",
-                            "uid": "sVzkLyN--"
-                          }
-                        ],
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606914019928,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606914034323,
-                        "string": "Thi\u1ebft k\u1ebf khung ch\u01b0\u01a1ng tr\u00ecnh (modules, outcomes)",
-                        "uid": "sAwoic5ie"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606979700628,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979702145,
-                    "string": "Design",
-                    "uid": "8TByvP_UU"
-                  },
-                  {
-                    "children": [
-                      {
-                        "children": [
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606914057658,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606914068419,
-                            "string": "Phong c\u00e1ch ng\u01b0\u1eddi thi\u1ebft k\u1ebf",
-                            "uid": "b52Zz0fTV"
-                          },
-                          {
-                            "create-email": "ngoctienvt@gmail.com",
-                            "create-time": 1606914068414,
-                            "edit-email": "ngoctienvt@gmail.com",
-                            "edit-time": 1606914082906,
-                            "string": "Xu h\u01b0\u1edbng h\u1ecdc t\u1eadp c\u1ee7a h\u1ecdc vi\u00ean",
-                            "uid": "nl4nAkkPc"
-                          }
-                        ],
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606914043448,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606914057663,
-                        "string": "Thi\u1ebft k\u1ebf n\u1ed9i dung chi ti\u1ebft",
-                        "uid": "OGnirIfAr"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606979702140,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979711173,
-                    "string": "Development",
-                    "uid": "lNqwT4RKz"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606979711169,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979712639,
-                    "string": "Implement",
-                    "uid": "KPUuQmqP9"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606979908938,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979913282,
-                        "string": "Participants",
-                        "uid": "A1KzOQINR"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606979913277,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979920212,
-                        "string": "Workshop",
-                        "uid": "qdwXgnndw"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606979712636,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979714549,
-                    "string": "Evaluate",
-                    "uid": "oN-Z3W0Bf"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606979664627,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607049299575,
-                "refs": [
-                  {
-                    "uid": "5ZGV3dyUV"
-                  }
-                ],
-                "string": "[[ADDIE model]]",
-                "uid": "zrB_4N3eb"
-              },
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "3h8-NesnO"
-                  }
-                ],
-                "children": [
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606918710334,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979867280,
-                        "string": "expert about design a workshop",
-                        "uid": "wRXlmnSWa"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606918704468,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606918710337,
-                    "string": "Instructional Designer",
-                    "uid": "Pz0gzvM0t"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606918734167,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979888362,
-                        "string": "knowledge-expert",
-                        "uid": "6BVHbmV5U"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606918718856,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606918733209,
-                    "string": "SME - Subject-matter expert ",
-                    "uid": "OsuWEbHY4"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606979890775,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979894921,
-                        "string": "teaching-expert",
-                        "uid": "qZ1K6uzrI"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606918749938,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606918756709,
-                    "string": "Trainer - Facilitator",
-                    "uid": "oBV8JHcpi"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606979751299,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607049341899,
-                "refs": [
-                  {
-                    "uid": "3h8-NesnO"
-                  }
-                ],
-                "string": "3 roles for creating and delivering a training effectively [[Training roles]]",
-                "uid": "O2PLUEAVp"
-              },
-              {
-                ":block/refs": [
-                  {
-                    ":block/uid": "wDoLal-sL"
-                  }
-                ],
-                "children": [
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606914034320,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606914043456,
-                    "string": "Student-centric",
-                    "uid": "NsUz2q13e"
-                  },
-                  {
-                    "children": [
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606979976161,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606979997035,
-                        "string": "Flexible on acitivites and the way delivering",
-                        "uid": "Ul8rR2ZM_"
-                      },
-                      {
-                        "create-email": "ngoctienvt@gmail.com",
-                        "create-time": 1606979997030,
-                        "edit-email": "ngoctienvt@gmail.com",
-                        "edit-time": 1606980000361,
-                        "string": "Fixed on goals",
-                        "uid": "kPImYCjxM"
-                      }
-                    ],
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1606979958522,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1606979971198,
-                    "string": "Flexible based on students level, progress",
-                    "uid": "mC2C3FlEd"
-                  }
-                ],
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1606918756704,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607049365977,
-                "refs": [
-                  {
-                    "uid": "wDoLal-sL"
-                  }
-                ],
-                "string": "[[training principles]]",
-                "uid": "gsubTcxoe"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1606979662149,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1606979664630,
-            "string": "Main contents",
-            "uid": "iSNyIvtiZ"
-          },
           {
             "children": [
               {

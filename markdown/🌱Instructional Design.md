@@ -316,9 +316,13 @@ Lập kế hoạch áp dụng
             - Which is hidden lesson in this picture about the need analysis process?
         - Summarize the session with "Stop-Start-Continue"
             - It's helpful for a session with lots of lessons and principles about a topic
-- Training principles
+- [[training principles]]
     - An important principle in training
         - After the workshop, participant can only do what they directly do in the program.
+    - Student-centric
+    - Flexible based on students level, progress
+        - Flexible on acitivites and the way delivering
+        - Fixed on goals
     - Level of thinking
         - Understanding
         - Comparing
@@ -329,6 +333,13 @@ Lập kế hoạch áp dụng
         - [https://pickerwheel.com/tools/random-team-generator/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpickerwheel.com%2Ftools%2Frandom-team-generator%2F%3Ffbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)
     - 
 - [[Principle for learning]]
+- 3 roles for creating and delivering a training effectively [[Training roles]]
+    - Instructional Designer
+        - expert about design a workshop
+    - SME - Subject-matter expert 
+        - knowledge-expert
+    - Trainer - Facilitator
+        - teaching-expert
 - Components of a design workshop process
     - ![Displaying S1 - General view of ID.png](https://drive.google.com/thumbnail?id=1bsUq1KcYiMvM334Qjf91p-Dm2hHnJfej&authuser=0&sz=w1813-h915)
     - Analysis of target group
