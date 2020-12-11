@@ -151,6 +151,11 @@ https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/
             - Square - what you knew and are reinforced
             - Circle - What you still not clear (fast survey)
             - Triangle - Top 3 important lessons that you have for yourself
+- Session 5 - Selecting contents to deliver
+    - [[Bloom's taxonomy]]
+        - New bloom's - remove synthesis, add creating as last level
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FFIKUy2-ffy.png?alt=media&token=c4d08854-f103-4fb8-8b53-f415bb8321d4)
+- ---
 - Group activities
     - Clarify foggy contents
     - Resolve remaining questions

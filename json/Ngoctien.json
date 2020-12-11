@@ -88695,6 +88695,60 @@
       {
         "children": [
           {
+            ":block/refs": [
+              {
+                ":block/uid": "yKEQSXdY4"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607689492730,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607689521287,
+                "string": "New bloom's - remove synthesis, add creating as last level",
+                "uid": "K0Su1A6M8"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607689643230,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607689649253,
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FFIKUy2-ffy.png?alt=media&token=c4d08854-f103-4fb8-8b53-f415bb8321d4)",
+                "uid": "VIxjZEYYA"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607687140877,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607689189012,
+            "refs": [
+              {
+                "uid": "yKEQSXdY4"
+              }
+            ],
+            "string": "[[Bloom's taxonomy]]",
+            "uid": "1u1Hi9eTt"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607687029888,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607687137897,
+        "string": "Session 5 - Selecting contents to deliver",
+        "uid": "M0diRqxu2"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607687053757,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607687069433,
+        "string": "---",
+        "uid": "lRf522QUA"
+      },
+      {
+        "children": [
+          {
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607083784161,
             "edit-email": "ngoctienvt@gmail.com",
