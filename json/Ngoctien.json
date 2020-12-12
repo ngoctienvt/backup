@@ -41644,11 +41644,73 @@
         "uid": "qndv2Ua8F"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "nvt-ENO46"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "t_Xwlj5Hq"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607791219644,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607791246018,
+            "refs": [
+              {
+                "uid": "t_Xwlj5Hq"
+              }
+            ],
+            "string": "The ratio of [[level of thinking]] and general daily activities ",
+            "uid": "dFbgn0qk2"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "t_Xwlj5Hq"
+              },
+              {
+                ":block/uid": "qCYaC9OBE"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607791246690,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607791310746,
+            "refs": [
+              {
+                "uid": "t_Xwlj5Hq"
+              },
+              {
+                "uid": "qCYaC9OBE"
+              }
+            ],
+            "string": "The [[level of thinking]] of the topic that I'm working on. Sometimes I'm trying to work on high level without building bottom level. This need to balance and execute properly to match with [[\ud83c\udf31Progressive Development Approach]]",
+            "uid": "Eijr34azZ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607791310954,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607791310954,
+            "string": "",
+            "uid": "aLdlzmFH7"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607789645145,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607789645145,
-        "string": "",
+        "edit-time": 1607791219651,
+        "refs": [
+          {
+            "uid": "nvt-ENO46"
+          }
+        ],
+        "string": "[[\ud83c\udf31Workflow ]] My workflow ratio will have 2 main components",
         "uid": "ojF0QMVe7"
       }
     ],

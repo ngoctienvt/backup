@@ -39,6 +39,9 @@
 ## [Course - Productivity Masterclass - The Pilot, The Plane and The Engineer](<Course - Productivity Masterclass - The Pilot, The Plane and The Engineer.md>)
 - project lists use the concept of the slow burn - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
+## [December 12th, 2020](<December 12th, 2020.md>)
+- The [level of thinking](<level of thinking.md>) of the topic that I'm working on. Sometimes I'm trying to work on high level without building bottom level. This need to balance and execute properly to match with [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
+
 ## [December 4th, 2020](<December 4th, 2020.md>)
 - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 

@@ -76,6 +76,9 @@
 ## [December 11th, 2020](<December 11th, 2020.md>)
 - I wonder how I will handle my training courses creation process. It's seem to be a little bit clustering and hard to visualize with Roam Research. I feel that I still need to do visualize my process work by hand-writing, and only take note the results on Roam Research. [🌱Workflow ](<🌱Workflow .md>)
 
+## [December 12th, 2020](<December 12th, 2020.md>)
+- [🌱Workflow ](<🌱Workflow .md>)
+
 ## [November 17th, 2020](<November 17th, 2020.md>)
 - I felt that my [🌱Workflow ](<🌱Workflow .md>)
 

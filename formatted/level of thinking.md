@@ -20,6 +20,10 @@
 ## [December 12th, 2020](<December 12th, 2020.md>)
 - My own taxonomy will be a bit different with Bloom's [level of thinking](<level of thinking.md>)
 
+- The ratio of [level of thinking](<level of thinking.md>)
+
+- The [level of thinking](<level of thinking.md>)
+
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [level of thinking](<level of thinking.md>)
 

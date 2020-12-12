@@ -63,4 +63,7 @@
     -  “scaffolding” is used to describe the process of learning incrementally. 
     - Once the student has mastered the higher-level verbs, the scaffold can be “removed” and new skills can be built up from that point. 
 - I can clearly see that I'm building a bridge with reality and true end goal [[bridging]]. I also can start to really understand more what's [[closing the gap]] actually is.
-- 
+- [[🌱Workflow ]] My workflow ratio will have 2 main components
+    - The ratio of [[level of thinking]] and general daily activities 
+    - The [[level of thinking]] of the topic that I'm working on. Sometimes I'm trying to work on high level without building bottom level. This need to balance and execute properly to match with [[🌱Progressive Development Approach]]
+    - 
