@@ -5,6 +5,9 @@
 
 - Do work at the same time create the feeling of productive, but not actually. [getting in touch with reality](<getting in touch with reality.md>)
 
+## [December 12th, 2020](<December 12th, 2020.md>)
+- My mind is starting to clearer and much more clarity about [true relationship](<true relationship.md>), [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>), [getting in touch with reality](<getting in touch with reality.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - It's really about [getting in touch with reality](<getting in touch with reality.md>)
 

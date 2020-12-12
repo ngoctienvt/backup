@@ -1,3 +1,9 @@
 - [[Horizons of Mastery]]
     - [[Level of expertise]]
+        - [[Bloom's taxonomy]]
+        - [[Krathwohl’s Affective Taxonomy]]
+    - Components of expertise
+        - Skills
+        - Knowledge
+        - Ability to simplify
 - [[🌱PKDS - Personal Knowledge Development System]]

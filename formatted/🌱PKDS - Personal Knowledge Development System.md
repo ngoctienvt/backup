@@ -11,6 +11,9 @@
 
 - I'm so wonder that how I will wonder references or long-content from articles or books. I want to keep them as materials for writing, but I'm fear that it will create cluster on my linked references. [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
+## [December 12th, 2020](<December 12th, 2020.md>)
+- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 

@@ -12,6 +12,9 @@
     - [level of thinking](<level of thinking.md>)
 
 # Backlinks
+## [December 12th, 2020](<December 12th, 2020.md>)
+- My [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
+
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - I will need some [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 

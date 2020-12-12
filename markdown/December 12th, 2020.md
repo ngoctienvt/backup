@@ -1,0 +1,14 @@
+- [[weekly reflection]]
+    - Highlights of the week:
+        - My mind is starting to clearer and much more clarity about [[true relationship]], [[🌱Training Course - Effortless mastery]], [[getting in touch with reality]]
+        - Many new concepts that I learned this week help me to concrete my thinking and knowledge much more. This next week will be an exciting week to know what they will emerge when I'm deepen my understanding about them, and connect them together.
+        - I feel so much peaceful and happy now as I can see that's I'm becoming better each day, each week, and I can let go more and more stuff inside of my heart over time.
+        - I also noticed that last week my health was heavily impacted due to I feel hard to sleep. I will work more on this on the next week so that's I could use my bed time better and effective. [[energy management]]
+        - I learned that [[end goal]] is very important, because if we focus to means goal, we may never reach the end goal, because we work indirectly to get it. And because we work indirectly, we put more condition for ourselves to get our end goals. 
+        - I learned that I'm not good at interacting with people in daily life situation, I'm favor meaningful conversations rather than simply sharing the joy with each other. [[true relationship]]
+        - I start to see the relationship between [[Level of expertise]] and [[Bloom's taxonomy]] as in order to move up level of expertise, we will need to work more on analyze, evaluate and creation stage.
+            - [[🌱PKDS - Personal Knowledge Development System]] serve as a way to solidify our creation to work more on later.
+        - My [[Life's Guiding Principles MOC]] is also that I will not force things to happen, but focus on myself and let things happen naturally. For example, I will develop and do my main work, instead of trying to persuade or attach with other people for something that I think will good for them.
+- [[🌱Training Course - Effortless mastery]]
+    - My visualization image is a container that holds piece off information that wait for me to analyze and create my own knowledge. [[knowledge storage]]
+    - 
