@@ -41187,6 +41187,254 @@
             "edit-time": 1607761659851,
             "string": "There will be different elements on each stage",
             "uid": "dII_Rn9K3"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "t_Xwlj5Hq"
+              }
+            ],
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607781555774,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607781573103,
+                    "string": "The word to describe is describe what happens for that person on that stage.",
+                    "uid": "0tWmoTAjU"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607781599549,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607781687588,
+                    "string": "My approach for learning is not skip the foundation to reach the end goal soon, but rather build them up slowly, but ideally, I will create a way that help people to learn at multiple stages at once (Capstone Project), instead of move up level by level.",
+                    "uid": "gZJqz8ex5"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607779623478,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607779711073,
+                "string": "My taxonomy also about different levels of human thinking level",
+                "uid": "J9RjnIFpM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607779711071,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607779784066,
+                "string": "The first level is Knowing which people simply learn and accumulate their knowledge around certain topics",
+                "uid": "X8kneVQwW"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607779763448,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607779911054,
+                "string": "The second level is Understanding which people start to form their own mental concept (personal keywords) based on their knowing about the topics",
+                "uid": "kC5-KZWJg"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607779911175,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780082175,
+                "string": "The third level is Applying which people start to apply and learn",
+                "uid": "t3HbbxRXk"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607782247337,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607782249149,
+                    "string": "the requirement is simply to gather and organise information, as well as understand it.",
+                    "uid": "WIULa5e2H"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607781754394,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607782086002,
+                "string": "The 4th level is Integrating which people analyze what they accumulated so far and formed their own structure - Higher-order of thinking which requires Abstract thinking",
+                "uid": "1n7_w4v85"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607782272269,
+                        "string": "Compare two individual pieces of music and find their musical similarities (Analyse)",
+                        "uid": "jurSuXMF4"
+                      },
+                      {
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607782272269,
+                        "string": "Recommend ways of combining these two songs (Evaluate)",
+                        "uid": "xPeXArYXs"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607782233952,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607782236115,
+                    "string": " the focus of learning outcomes at the level of Evaluate is on the student\u2019s ability to make informed decisions and suggestions based on a given set of information. ",
+                    "uid": "ars82UL_y"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780082172,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607781812567,
+                "string": "The 5th level is Evaluating which is breaking things down and understand every components and interactions deeply so that we could go from Competent to Proficiency ",
+                "uid": "hRj-gbBxn"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607782349807,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607782355195,
+                    "string": "Result in some kind of tangible outcome",
+                    "uid": "0irNXl9Tr"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780105646,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607781767969,
+                "string": "The 6th level is Creating which people start to have their own system and complete it eventually by themselves, and create their own personal stuff based on this",
+                "uid": "NjPPHabM6"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607779588598,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607779732699,
+            "refs": [
+              {
+                "uid": "t_Xwlj5Hq"
+              }
+            ],
+            "string": "My own taxonomy will be a bit different with Bloom's [[level of thinking]]",
+            "uid": "Mv1NRs5Gs"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "fmfgeT0iK"
+              }
+            ],
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607780157615,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607780973585,
+                    "string": "In this stage, I focus on read and tag to start to form my knowledge networks ",
+                    "uid": "tHWktrtfn"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780947441,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780947441,
+                "string": "In novice, people simply read and know",
+                "uid": "tXzuRtSzz"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607780924591,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607780997306,
+                    "string": "In this stage, I mainly take note about my practices, my insights, my new understanding so it will gather and condense my expertise.",
+                    "uid": "i6rjFpj7u"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780185582,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780215240,
+                "string": "In beginner, people start to see the relation between what they know in certain context",
+                "uid": "etI4xtIBq"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607780885302,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607780920133,
+                    "string": "In this stage, I will start to nurture and form my knowledge networks about that topics",
+                    "uid": "f8vim_csM"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780215237,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780248033,
+                "string": "In competent stage, people are good at apply what they learned but still rule-based and not much their own stuff yet",
+                "uid": "gHyUcQLe0"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607780833566,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607780854999,
+                    "string": "In this stage, I will go up and down abstract and concrete level to fill the picture clearly",
+                    "uid": "hnvC9lds8"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780248030,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780296081,
+                "string": "In proficient stage, people start to be able to instinctually know what's important which comes from their own analyze about what they gone through and Integrate it to themselves.",
+                "uid": "HNSAWROqh"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607780858328,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607780883344,
+                    "string": "In this stage, I will mainly practice more and accumulate more lessons so that I could become better and better.",
+                    "uid": "iKWVhmYgW"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780296079,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780354006,
+                "string": "In expert stage, people start to create their own method of doing things, personalized it, and they do not just instinctually know what's important, but also how to do it.",
+                "uid": "K0fT_oRxL"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607780143583,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607780157618,
+            "refs": [
+              {
+                "uid": "fmfgeT0iK"
+              }
+            ],
+            "string": "Somehow [[Level of expertise]] will also relate to this",
+            "uid": "49k6q-PiH"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -41200,6 +41448,176 @@
         ],
         "string": "I noticed that with [[Bloom's taxonomy]]",
         "uid": "Ne4_851VD"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "tiM0FKYzY"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607780547142,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607780557304,
+            "string": "Roam Research for thoughts processing",
+            "uid": "VBmCtorAC"
+          },
+          {
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "gIEvSKwv8"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607781065103,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607781090711,
+                "refs": [
+                  {
+                    "uid": "gIEvSKwv8"
+                  }
+                ],
+                "string": "Milanote also seems be a good place for me to keep my end goals and what's require to focus on - [[focus management]]",
+                "uid": "bl2EBI3c4"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607780557301,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607780589089,
+            "string": "Milanote and Notability could be for link ideas and visual it so that I could see the connections easier.",
+            "uid": "WmIk1qUxO"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607780589390,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607780641122,
+            "string": "Notion for publish stuff that need to have proper decorate and storage.",
+            "uid": "-oF757Ln7"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607780523321,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607780544891,
+        "refs": [
+          {
+            "uid": "tiM0FKYzY"
+          }
+        ],
+        "string": "I start to see more clearly about the [[workplace]] for my thinking is",
+        "uid": "-K23Sna3B"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "7wTL5gzW4"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607780721616,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607780734704,
+            "string": "One of its aspect is finding our end goals",
+            "uid": "rJeWMJQfo"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607780734701,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607780746752,
+            "string": "Finding what we need to reach our end goals",
+            "uid": "TV-CkHX2V"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780746749,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780795846,
+                "string": "how to move us forward it consistently",
+                "uid": "q5PEjyEdu"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780788886,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780802573,
+                "string": "how to overcome the stuck",
+                "uid": "lTJY2noNF"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607780805069,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607780821107,
+                "string": "how to handle what distract us out of our roads",
+                "uid": "HotnnHGNi"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607780795842,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607780795842,
+            "string": "And start to think about ",
+            "uid": "nnZQo-00f"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607780700745,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607780721618,
+        "refs": [
+          {
+            "uid": "7wTL5gzW4"
+          }
+        ],
+        "string": "[[getting in touch with reality]] ",
+        "uid": "A_0dFTBZN"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "AJ-Jlvy4j"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607781994967,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607781996412,
+            "string": " \u201cscaffolding\u201d is used to describe the process of learning incrementally. ",
+            "uid": "jM92rpWDR"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607781997501,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607782008268,
+            "string": "Once the student has mastered the higher-level verbs, the scaffold can be \u201cremoved\u201d and new skills can be built up from that point.",
+            "uid": "Aw8DuL0db"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607781962072,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607781968902,
+        "refs": [
+          {
+            "uid": "AJ-Jlvy4j"
+          }
+        ],
+        "string": "[[\ud83c\udf31Instructional Design]] ",
+        "uid": "J2563QX35"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",

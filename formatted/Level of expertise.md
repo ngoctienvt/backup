@@ -30,6 +30,8 @@
 ## [December 12th, 2020](<December 12th, 2020.md>)
 - I start to see the relationship between [Level of expertise](<Level of expertise.md>)
 
+- Somehow [Level of expertise](<Level of expertise.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - I also noticed that [Level of expertise](<Level of expertise.md>)
 

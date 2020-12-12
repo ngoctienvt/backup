@@ -21,3 +21,44 @@
         - Creating maybe natural with emergence, but can also actively create with different strategies
         - Analyzing will have different ways of analyze. 
         - The difference between applying and understanding is applying is about reality situation, understanding maybe only on simulated situation or classrom situation
+    - My own taxonomy will be a bit different with Bloom's [[level of thinking]]
+        - My taxonomy also about different levels of human thinking level
+            - The word to describe is describe what happens for that person on that stage.
+            - My approach for learning is not skip the foundation to reach the end goal soon, but rather build them up slowly, but ideally, I will create a way that help people to learn at multiple stages at once (Capstone Project), instead of move up level by level.
+        - The first level is Knowing which people simply learn and accumulate their knowledge around certain topics
+        - The second level is Understanding which people start to form their own mental concept (personal keywords) based on their knowing about the topics
+        - The third level is Applying which people start to apply and learn
+        - The 4th level is Integrating which people analyze what they accumulated so far and formed their own structure - Higher-order of thinking which requires Abstract thinking
+            - the requirement is simply to gather and organise information, as well as understand it.
+        - The 5th level is Evaluating which is breaking things down and understand every components and interactions deeply so that we could go from Competent to Proficiency 
+            -  the focus of learning outcomes at the level of Evaluate is on the student’s ability to make informed decisions and suggestions based on a given set of information. 
+                - Compare two individual pieces of music and find their musical similarities (Analyse)
+                - Recommend ways of combining these two songs (Evaluate)
+        - The 6th level is Creating which people start to have their own system and complete it eventually by themselves, and create their own personal stuff based on this
+            - Result in some kind of tangible outcome
+    - Somehow [[Level of expertise]] will also relate to this
+        - In novice, people simply read and know
+            - In this stage, I focus on read and tag to start to form my knowledge networks 
+        - In beginner, people start to see the relation between what they know in certain context
+            - In this stage, I mainly take note about my practices, my insights, my new understanding so it will gather and condense my expertise.
+        - In competent stage, people are good at apply what they learned but still rule-based and not much their own stuff yet
+            - In this stage, I will start to nurture and form my knowledge networks about that topics
+        - In proficient stage, people start to be able to instinctually know what's important which comes from their own analyze about what they gone through and Integrate it to themselves.
+            - In this stage, I will go up and down abstract and concrete level to fill the picture clearly
+        - In expert stage, people start to create their own method of doing things, personalized it, and they do not just instinctually know what's important, but also how to do it.
+            - In this stage, I will mainly practice more and accumulate more lessons so that I could become better and better.
+- I start to see more clearly about the [[workplace]] for my thinking is
+    - Roam Research for thoughts processing
+    - Milanote and Notability could be for link ideas and visual it so that I could see the connections easier.
+        - Milanote also seems be a good place for me to keep my end goals and what's require to focus on - [[focus management]]
+    - Notion for publish stuff that need to have proper decorate and storage.
+- [[getting in touch with reality]] 
+    - One of its aspect is finding our end goals
+    - Finding what we need to reach our end goals
+    - And start to think about 
+        - how to move us forward it consistently
+        - how to overcome the stuck
+        - how to handle what distract us out of our roads
+- [[🌱Instructional Design]] 
+    -  “scaffolding” is used to describe the process of learning incrementally. 
+    - Once the student has mastered the higher-level verbs, the scaffold can be “removed” and new skills can be built up from that point.
