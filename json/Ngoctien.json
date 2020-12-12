@@ -41148,11 +41148,57 @@
         "uid": "4_f9_umAG"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "yKEQSXdY4"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607761660042,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607761684397,
+                "string": "Creating maybe natural with emergence, but can also actively create with different strategies",
+                "uid": "V7VpPoKkV"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607761684394,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607761697658,
+                "string": "Analyzing will have different ways of analyze. ",
+                "uid": "EYTG9mz1t"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607761890798,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607761986739,
+                "string": "The difference between applying and understanding is applying is about reality situation, understanding maybe only on simulated situation or classrom situation",
+                "uid": "VvpwUtjZu"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607761650045,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607761659851,
+            "string": "There will be different elements on each stage",
+            "uid": "dII_Rn9K3"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607761294818,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607761294818,
-        "string": "",
+        "edit-time": 1607761650048,
+        "refs": [
+          {
+            "uid": "yKEQSXdY4"
+          }
+        ],
+        "string": "I noticed that with [[Bloom's taxonomy]]",
         "uid": "Ne4_851VD"
       }
     ],
@@ -83833,6 +83879,866 @@
     "title": "expanded learning"
   },
   {
+    "children": [
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607761766948,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607761768073,
+        "string": "![Introduction to Bloom's Revised Taxonomy](https://i0.wp.com/www.niallmcnulty.com/wp-content/uploads/2019/09/ICTZA4.5.jpg?resize=1024%2C474&ssl=1)",
+        "uid": "ovWP1wsZS"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762125634,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762126087,
+            "string": "https://larryferlazzo.edublogs.org/2009/05/25/the-best-resources-for-helping-teachers-use-blooms-taxonomy-in-the-classroom/",
+            "uid": "jsKK-Tljy"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762132059,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762132976,
+            "string": "https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/",
+            "uid": "BAvPLVjXG"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762132972,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762152806,
+            "string": "https://www.getsmarter.com/blog/research-hub/unpacking-blooms-taxonomy-part-1/",
+            "uid": "O8ug91Iht"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607762122132,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607762125637,
+        "string": "Resources",
+        "uid": "SKkaYT6Wx"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762490291,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762490327,
+                    "string": "Locating knowledge in long-term memory that is consistent with presented material",
+                    "uid": "2--NQREoD"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762490291,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762538027,
+                "string": "Recognizing (Identifying)",
+                "uid": "INzrjtGmd"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762490291,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762490327,
+                    "string": "Retrieving relevant knowledge from long-term memory",
+                    "uid": "rk2squWWg"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762490291,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762545870,
+                "string": "Recalling (Retrieving)",
+                "uid": "gPwEbWuCu"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762490291,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762529743,
+            "string": "Remember - Retrieve knowledge from long-term memory",
+            "uid": "rGaZ2nQmJ"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607762517195,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607762517219,
+                        "string": "Clarifying",
+                        "uid": "XUwNkedtI"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607762517195,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607762517219,
+                        "string": "Paraphrasing",
+                        "uid": "GWjIQhA1t"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607762517195,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607762517219,
+                        "string": "Representing",
+                        "uid": "5chb5artb"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1607762517195,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1607762517220,
+                        "string": "Translating",
+                        "uid": "yy-KYR7Dt"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762584453,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762593710,
+                    "string": "Alternatives name",
+                    "uid": "7UhOaCUGG"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Changing from one form of representation to another",
+                    "uid": "mlRqq5iF5"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762517195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762563037,
+                "string": "Interpreting ",
+                "uid": "r9Y8aeKdv"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Illustrating",
+                    "uid": "HeuCWt5Ov"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Instantiating",
+                    "uid": "uAZU3oySH"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Finding a specific example or illustration of a concept or principle",
+                    "uid": "M1BIIeBkp"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762517195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762517220,
+                "string": "Exemplifying",
+                "uid": "d54-HbSw-"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Categorizing",
+                    "uid": "Z_cMSWLmy"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Subsuming",
+                    "uid": "5xyCTYQkp"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Determining that something belongs to a category",
+                    "uid": "Rmgtary19"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762517195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762517220,
+                "string": "Classifying",
+                "uid": "gxAvqDQHV"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Abstracting",
+                    "uid": "Pqt-XKBmR"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Generalizing",
+                    "uid": "APf8u3r8I"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Abstracting a general theme or major point(s)",
+                    "uid": "BiEs9Algf"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762517195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762517220,
+                "string": "Summarizing",
+                "uid": "UzzhJCvFp"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Concluding",
+                    "uid": "KxJpKwc6u"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Extrapolating",
+                    "uid": "rnVX1ZrVC"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Interpolating",
+                    "uid": "E1gWSdcGI"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517220,
+                    "string": "Predicting",
+                    "uid": "uTLUrpw1o"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517221,
+                    "string": "Drawing a logical conclusion from presented information",
+                    "uid": "ROLP49VwM"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762517195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762517220,
+                "string": "Inferring",
+                "uid": "FbY7639jM"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517221,
+                    "string": "Contrasting",
+                    "uid": "mijje9ds5"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517221,
+                    "string": "Mapping",
+                    "uid": "1D1KaB_BX"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517221,
+                    "string": "Matching",
+                    "uid": "f3lWzf-tU"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517221,
+                    "string": "Detecting correspondences between two ideas, objects, and the like",
+                    "uid": "3DJILP6Mt"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762517195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762517221,
+                "string": "Comparing",
+                "uid": "gLh_2rtrn"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517221,
+                    "string": "Constructing models",
+                    "uid": "X0H4bCF8C"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762517195,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762517221,
+                    "string": "Constructing a cause and effect model of a system",
+                    "uid": "lWgIvU9Mq"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762517195,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762517221,
+                "string": "Explaining",
+                "uid": "-HthTdI-h"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762517195,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762552738,
+            "string": "Understand- Construct meaning from instructional messages, including oral, written, and graphic communication",
+            "uid": "KcsnbhVqr"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762663986,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762663995,
+                    "string": "Executing",
+                    "uid": "4JiDMvG6C"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762663986,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762663995,
+                    "string": "Carrying out",
+                    "uid": "Gh7tS3X4J"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762663986,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762663995,
+                "string": "Applying a procedure to a familiar task",
+                "uid": "LTBIQQvZT"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762663986,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762663995,
+                    "string": "Implementing",
+                    "uid": "Ml8mxP6bF"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762663986,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762663995,
+                    "string": "Using",
+                    "uid": "yUeo7mbZ6"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762663986,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762663995,
+                    "string": "Applying a procedure to an unfamiliar task",
+                    "uid": "_q6GltQwi"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762663986,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762663995,
+                "string": "Applying a procedure to a familiar task",
+                "uid": "tGBL60M2z"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762663986,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762663995,
+            "string": "Apply",
+            "uid": "1lWsfl1T4"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689183,
+                    "string": "Discriminating",
+                    "uid": "STAWlchC5"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689183,
+                    "string": "Distinguishing",
+                    "uid": "vndJQoIiO"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689183,
+                    "string": "Focusing",
+                    "uid": "9fay4_3_S"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689183,
+                    "string": "Selecting",
+                    "uid": "_392Jm_Fl"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689183,
+                    "string": "Distinguishing relevant from irrelevant parts or important from unimportant parts of presented material",
+                    "uid": "UuPebzT0G"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762689170,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762689183,
+                "string": "Differentiating",
+                "uid": "PE_XSy5jy"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689183,
+                    "string": "Finding coherence",
+                    "uid": "ZeiMAafb9"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689184,
+                    "string": "Integrating",
+                    "uid": "SJpSTVd6c"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689184,
+                    "string": "Outlining",
+                    "uid": "I4U3wqsCJ"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689184,
+                    "string": "Parsing",
+                    "uid": "p8q0ZpcR7"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689184,
+                    "string": "Structuring",
+                    "uid": "pOlPfYnG6"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689184,
+                    "string": "Determining how elements fit or function within a structure",
+                    "uid": "CPSu8G78a"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762689170,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762689183,
+                "string": "Organizing",
+                "uid": "qSdpS7oub"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689184,
+                    "string": "Deconstructing",
+                    "uid": "TK7Dzrz4_"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762689170,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762689184,
+                    "string": "Determine a point of view, bias, values, or intent underlying presented material",
+                    "uid": "VWGJgU-xX"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762689170,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762689184,
+                "string": "Attributing",
+                "uid": "e8BOa4LU4"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762689170,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762700997,
+            "string": "Analyze - Break material into its constituent parts and determine how the parts relate to one another and to an overall structure or purpose",
+            "uid": "pkaeOdc53"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762721393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762721403,
+                    "string": "Coordinating",
+                    "uid": "Z_5SLVD9D"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762721393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762721403,
+                    "string": "Detecting",
+                    "uid": "MbAjmwPlt"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762721393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762721403,
+                    "string": "Monitoring",
+                    "uid": "g5xzaie7U"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762721393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762721403,
+                    "string": "Testing",
+                    "uid": "MviXCHYPr"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762721393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762721403,
+                    "string": "Detecting inconsistencies or fallacies within a process or product; determining whether a process or product has internal consistency; detecting the effectiveness of a procedure as it is being implemented",
+                    "uid": "Lvt9QteyJ"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762721393,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762721403,
+                "string": "Checking",
+                "uid": "WpCF3HlLN"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762721393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762721403,
+                    "string": "Judging",
+                    "uid": "kFRcCTAPv"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762721393,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762721403,
+                    "string": "Detecting inconsistencies between a product and external criteria; determining whether a product has external consistency; detecting the appropriateness of a procedure for a given problem",
+                    "uid": "Wm7O-4jzp"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762721393,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762721403,
+                "string": "Critiquing",
+                "uid": "pbV3h9h5V"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762721393,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762727931,
+            "string": "Evaluate - Make judgments based on criteria and standards",
+            "uid": "rFs94QR5x"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762792057,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762792065,
+                    "string": "Hypothesizing",
+                    "uid": "GsxrzNjI3"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762792057,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762792065,
+                    "string": "Coming up with alternative hypotheses based on criteria",
+                    "uid": "U16hM1prb"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762792057,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762792065,
+                "string": "Generating",
+                "uid": "3xBE3IP28"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762792057,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762792065,
+                    "string": "Designing",
+                    "uid": "2AnjumemW"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762792057,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762792065,
+                    "string": "Devising a procedure for accomplishing some task",
+                    "uid": "yJPr9abvr"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762792057,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762792065,
+                "string": "Planning",
+                "uid": "_fF9H7qaF"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762792057,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762792065,
+                    "string": "Constructing",
+                    "uid": "eOBdKdiw4"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1607762792057,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1607762792065,
+                    "string": "Inventing a product",
+                    "uid": "ER4otFqJe"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762792057,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762792065,
+                "string": "Producing",
+                "uid": "ffrS2ikRy"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762792057,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762797165,
+            "string": "Create - Put elements together to form a coherent or functional whole; reorganize elements into a new pattern or structure",
+            "uid": "DygfLU7Xt"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607762757637,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607762762541,
+        "string": "Bloom's taxonomy",
+        "uid": "MxsVFHqZT"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762827641,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762827652,
+                "string": "The basic elements students must know to be acquainted with a discipline or solve problems in it",
+                "uid": "_aqn3I-3_"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762827641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762827652,
+            "string": "Factual Knowledge",
+            "uid": "rzA-WRErx"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762827641,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762827653,
+                "string": "The interrelationships among the basic elements within a larger structure that enable them to function together",
+                "uid": "u5fIVVL4m"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762827641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762827652,
+            "string": "Conceptual Knowledge",
+            "uid": "Do2WvnIoa"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762827641,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762827653,
+                "string": "How to do something, methods of inquiry, and criteria for using skills, algorithms, techniques, and methods",
+                "uid": "NF-G05nLx"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762827641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762827653,
+            "string": "Procedural Knowledge",
+            "uid": "dCH7rI-S0"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607762827641,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607762827653,
+                "string": "Knowledge of cognition in general as well as awareness and knowledge of one\u2019s own cognition",
+                "uid": "Z-jElGVEy"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607762827641,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607762827653,
+            "string": "Metacognitive Knowledge",
+            "uid": "UFAOdNjfY"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607762792057,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607762792065,
+        "string": "The Knowledge Dimension",
+        "uid": "dHguzmxQ0"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606469349808,
     "edit-email": "ngoctienvt@gmail.com",

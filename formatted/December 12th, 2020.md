@@ -16,4 +16,8 @@
         - I want is easier to come from our samskaras (lower-self or lower-thought) that serve the personal self rather than come from the witness consciouss and higher-thought that nurture over time to serve the reality.
 - While we focus on the tools or the way, we easily lost ourselves and operate ourselves around it, but this is a limited way to live life. Always aim to true [end goal](<end goal.md>) will ensure that we always focus on the right thing, and require us to grow, learn, adapt properly with the unfolding reality instead.
     - Start with limitless consciousness, end with limitless end goal.
-- 
+- I noticed that with [Bloom's taxonomy](<Bloom's taxonomy.md>)
+    - There will be different elements on each stage
+        - Creating maybe natural with emergence, but can also actively create with different strategies
+        - Analyzing will have different ways of analyze. 
+        - The difference between applying and understanding is applying is about reality situation, understanding maybe only on simulated situation or classrom situation
