@@ -133,10 +133,17 @@ https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/
                     - Expanded learning to real life situation
         - Fill into space to define "Tasks analysis" process
             - This step to define definition will help people start to think about it as "know" level
+            - 
+        - 7- Điền vào chỗ trống để định nghĩa quá trình "phân tích nhiệm vụ"
+
+Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình này, thì bước định nghĩa này giúp mọi người bắt đầu tư duy về nó, ở tầng "biết" nó là gì. Buổi sắp tới, tụi mình sẽ cùng mọi người đi qua các bậc tư duy này, và mọi người sẽ hiểu tại sao chúng ta phải dẫn dắt người học qua từng bậc tư duy một cách từ từ, thay vì nhảy ngay lập tức lên bậc cao.
         - What should/ shouldn't do when doing tasks analysis
             - Harvest activities for "boil egg" activities
             - Help people grab the tasks analysis process and its principle
             - It requires people to analyze and evaluate what they just gone through.
+        - 8- Những điều nên làm / không nên làm trong quá trình phân tích nhiệm vụ (task analysis) là gì?
+
+Đây là thu hoạch cho hoạt động demo "Luộc trứng" nói trên. Mục đích của hoạt động demo là để cho mọi người nắm được quá trình phân tích nhiệm vụ và các nguyên lý của nó. Phần này để thu hoạch cho phần "nguyên lý", nó yêu cầu mọi người phân tích và đánh giá những gì mình vừa trải qua.
         - Project-based learning 
             - People will execute a small project for them
             - The project in this case is a goal of workshop of 3 students
@@ -145,6 +152,9 @@ https://docs.google.com/document/d/1BV5EMnpXf7cVWR3gdm9NMgUIby1XNxMYOUoDjAVQULA/
                     - Facilitator will support direct by involve and ask questions (high support level). 
                     - Then reduce over time and only involve when necessary. 
                     - At the end, the support will reduce to lowest so that students can complete by themselves.
+        - 9- Bốn (04) bước để phân tích nhiệm vụ (task analysis) là gì?
+
+Đây là thu hoạch cho "quá trình phân tích nhiệm vụ". Dạng hoạt động này đã được thực hiện trong các buổi học trước rồi.
         - Harvest after practices
             - This is important after demo, practice, or an activities that have "aha moments".
         - Summarize by "Square, Circle, Triangle" activities
