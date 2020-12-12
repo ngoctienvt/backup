@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 12th, 2020](<December 12th, 2020.md>)
+- I can clearly see that I'm building a bridge with reality and true end goal [bridging](<bridging.md>).
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - •	easy to access and check with - link to the existing messenger or email is also good for important notifications [bridging](<bridging.md>)
 

@@ -61,4 +61,6 @@
         - how to handle what distract us out of our roads
 - [[🌱Instructional Design]] 
     -  “scaffolding” is used to describe the process of learning incrementally. 
-    - Once the student has mastered the higher-level verbs, the scaffold can be “removed” and new skills can be built up from that point.
+    - Once the student has mastered the higher-level verbs, the scaffold can be “removed” and new skills can be built up from that point. 
+- I can clearly see that I'm building a bridge with reality and true end goal [[bridging]]. I also can start to really understand more what's [[closing the gap]] actually is.
+- 

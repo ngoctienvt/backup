@@ -41602,8 +41602,8 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1607781997501,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607782008268,
-            "string": "Once the student has mastered the higher-level verbs, the scaffold can be \u201cremoved\u201d and new skills can be built up from that point.",
+            "edit-time": 1607789594055,
+            "string": "Once the student has mastered the higher-level verbs, the scaffold can be \u201cremoved\u201d and new skills can be built up from that point. ",
             "uid": "Aw8DuL0db"
           }
         ],
@@ -41618,6 +41618,38 @@
         ],
         "string": "[[\ud83c\udf31Instructional Design]] ",
         "uid": "J2563QX35"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "A1bUjNqHW"
+          },
+          {
+            ":block/uid": "FXrxPp1dr"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607789594045,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607789645147,
+        "refs": [
+          {
+            "uid": "A1bUjNqHW"
+          },
+          {
+            "uid": "FXrxPp1dr"
+          }
+        ],
+        "string": "I can clearly see that I'm building a bridge with reality and true end goal [[bridging]]. I also can start to really understand more what's [[closing the gap]] actually is.",
+        "uid": "qndv2Ua8F"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607789645145,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607789645145,
+        "string": "",
+        "uid": "ojF0QMVe7"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
