@@ -3,6 +3,9 @@
 ## [Areas for an surrender life](<Areas for an surrender life.md>)
 - [serving the demand of reality](<serving the demand of reality.md>)
 
+## [December 12th, 2020](<December 12th, 2020.md>)
+- My intention to [serving the demand of reality](<serving the demand of reality.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I also learned in today that I don't have to worry about what I need to do, as long as I'm keep raising my energy to higher center, it will do its work instead of me. I will just need to be myself most of the time. [choiceless](<choiceless.md>) [serving the demand of reality](<serving the demand of reality.md>)
 

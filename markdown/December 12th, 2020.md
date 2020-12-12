@@ -11,4 +11,9 @@
         - My [[Life's Guiding Principles MOC]] is also that I will not force things to happen, but focus on myself and let things happen naturally. For example, I will develop and do my main work, instead of trying to persuade or attach with other people for something that I think will good for them.
 - [[🌱Training Course - Effortless mastery]]
     - My visualization image is a container that holds piece off information that wait for me to analyze and create my own knowledge. [[knowledge storage]]
-    - 
+- My intention to [[serving the demand of reality]] is helping people aim higher instead of helping them avoid what they don't way or achieve what they want.
+    - Want is a word that easily to be misunderstood, I want to help a way to rephrase this properly. [[Want]]
+        - I want is easier to come from our samskaras (lower-self or lower-thought) that serve the personal self rather than come from the witness consciouss and higher-thought that nurture over time to serve the reality.
+- While we focus on the tools or the way, we easily lost ourselves and operate ourselves around it, but this is a limited way to live life. Always aim to true [[end goal]] will ensure that we always focus on the right thing, and require us to grow, learn, adapt properly with the unfolding reality instead.
+    - Start with limitless consciousness, end with limitless end goal.
+- 

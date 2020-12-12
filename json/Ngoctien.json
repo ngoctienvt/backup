@@ -41057,14 +41057,6 @@
             ],
             "string": "My visualization image is a container that holds piece off information that wait for me to analyze and create my own knowledge. [[knowledge storage]]",
             "uid": "rdLekGdJS"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607736073016,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607736073016,
-            "string": "",
-            "uid": "AAINXkJKF"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -41078,6 +41070,90 @@
         ],
         "string": "[[\ud83c\udf31Training Course - Effortless mastery]]",
         "uid": "9kiVVymsg"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "upZCb4IZ3"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "IGFxPtCJv"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607761043779,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607761135808,
+                "string": "I want is easier to come from our samskaras (lower-self or lower-thought) that serve the personal self rather than come from the witness consciouss and higher-thought that nurture over time to serve the reality.",
+                "uid": "AB8NzY2ZP"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607761014962,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607761043782,
+            "refs": [
+              {
+                "uid": "IGFxPtCJv"
+              }
+            ],
+            "string": "Want is a word that easily to be misunderstood, I want to help a way to rephrase this properly. [[Want]]",
+            "uid": "v9CpEoUAk"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607736073016,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607761014966,
+        "refs": [
+          {
+            "uid": "upZCb4IZ3"
+          }
+        ],
+        "string": "My intention to [[serving the demand of reality]] is helping people aim higher instead of helping them avoid what they don't way or achieve what they want.",
+        "uid": "AAINXkJKF"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ikmJJLQsz"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607761314668,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607761350037,
+            "string": "Start with limitless consciousness, end with limitless end goal.",
+            "uid": "DAH0RVC1q"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607761135937,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607761307222,
+        "refs": [
+          {
+            "uid": "ikmJJLQsz"
+          }
+        ],
+        "string": "While we focus on the tools or the way, we easily lost ourselves and operate ourselves around it, but this is a limited way to live life. Always aim to true [[end goal]] will ensure that we always focus on the right thing, and require us to grow, learn, adapt properly with the unfolding reality instead.",
+        "uid": "4_f9_umAG"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607761294818,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607761294818,
+        "string": "",
+        "uid": "Ne4_851VD"
       }
     ],
     "edit-email": "ngoctienvt@gmail.com",
@@ -100492,5 +100568,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1607736073023,
     "title": "knowledge storage"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1607761043784,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1607761043785,
+    "title": "Want"
   }
 ]
