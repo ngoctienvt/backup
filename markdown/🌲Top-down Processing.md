@@ -1,7 +1,7 @@
 - Related: [[🌱Progressive Development Approach]]
 - The role of [[🌲Top-down Processing]] is 
     - gaining clarity about direction and big picture that emerge from [[🌲Bottom-up Emergence]]
-        - [[My end goals]] 
+        - [[🌱My End Goals]] 
         - Seeing big picture or the direction [[big picture thinking]]
     - align things to serve the end goal or purpose effectively [[on the right track]]
     - creating space for exploring, experiment and learning without the fear of being wrong

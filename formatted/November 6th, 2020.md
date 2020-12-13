@@ -1,8 +1,8 @@
 - 
-- Now today I will work on what will be my process to achieve my [My end goals](<My end goals.md>) by closing the gap progressively and not feel stuck.
+- Now today I will work on what will be my process to achieve my [🌱My End Goals](<🌱My End Goals.md>) by closing the gap progressively and not feel stuck.
     - The [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) is about how I could create [optimal conditions](<optimal conditions.md>) and [design for emergence](<design for emergence.md>) of wisdom. 
     - 
-- It seems like my process to achieve my [My end goals](<My end goals.md>) are
+- It seems like my process to achieve my [🌱My End Goals](<🌱My End Goals.md>) are
     - Identify - What is my end goal
     - Reason - Why I want to achieve this goal
     - Diagnose 

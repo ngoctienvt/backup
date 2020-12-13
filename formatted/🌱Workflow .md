@@ -16,7 +16,7 @@
         - Process-oriented
             - The goal is not that much important here. It's about the process that always keeps me moving forward on the right track, and never gets lost or gets stuck.
         - Focus on what matters
-            - The idea is generating better-self everyday, everytime and every moments. As long as I can do this, I will be sure to always have a better life. [My end goals](<My end goals.md>)
+            - The idea is generating better-self everyday, everytime and every moments. As long as I can do this, I will be sure to always have a better life. [🌱My End Goals](<🌱My End Goals.md>)
         - Task-breakdown 
         - Clear [horizons of focus](<horizons of focus.md>)
             - unattachment centering 
@@ -57,7 +57,7 @@
                             - Listing the expanding questions
                                 - Exploring or resolving the expanding questions
                     - Writing to clarify thoughts process, thinking effectively, identify unanswered questions, consolidating 
-                    -  [My end goals](<My end goals.md>)
+                    -  [🌱My End Goals](<🌱My End Goals.md>)
                     - writing morning page for narrowing today focus
             - Project activities
                 - doing project or scheduled tasks like translating, coaching, training, also for serving the reality

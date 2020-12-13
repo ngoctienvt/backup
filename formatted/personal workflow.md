@@ -20,9 +20,6 @@
     - Logical loop
 
 # Backlinks
-## [My end goals](<My end goals.md>)
-- I want to developing a [personal workflow](<personal workflow.md>)
-
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 - So in order to make this creation process is smoother and not overwhelming, we need to learn to divide the tasks and use tools properly so that they become a wonderful [personal workflow](<personal workflow.md>)
 
@@ -34,6 +31,9 @@
 
 ## [personal workflow](<personal workflow.md>)
 - What woul be my [personal workflow](<personal workflow.md>)
+
+## [🌱My End Goals](<🌱My End Goals.md>)
+- I want to developing a [personal workflow](<personal workflow.md>)
 
 ## [🌱Workflow ](<🌱Workflow .md>)
 - [personal workflow](<personal workflow.md>)
