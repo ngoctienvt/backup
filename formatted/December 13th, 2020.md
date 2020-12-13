@@ -1,3 +1,3 @@
-- Today I will focus on integrating my thoughts about [[🌱Instructional Design]]
+- Today I will focus on integrating my thoughts about [🌱Instructional Design](<🌱Instructional Design.md>)
     - Also merge and clarify my thoughts around level of expertise and my own Bloom's with the verb as well.
     - 

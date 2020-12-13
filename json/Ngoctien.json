@@ -101995,6 +101995,44 @@
     "title": "Want"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "AJ-Jlvy4j"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607830093608,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607830119807,
+            "string": "Also merge and clarify my thoughts around level of expertise and my own Bloom's with the verb as well.",
+            "uid": "nAxxFfKJZ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607830119802,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607830119802,
+            "string": "",
+            "uid": "HDrkLdDZv"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607830069804,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607830093613,
+        "refs": [
+          {
+            "uid": "AJ-Jlvy4j"
+          }
+        ],
+        "string": "Today I will focus on integrating my thoughts about [[\ud83c\udf31Instructional Design]]",
+        "uid": "2cl810kNx"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1607820899959,
     "edit-email": "ngoctienvt@gmail.com",

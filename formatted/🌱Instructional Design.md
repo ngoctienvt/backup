@@ -384,6 +384,9 @@ Lập kế hoạch áp dụng
 ## [December 12th, 2020](<December 12th, 2020.md>)
 - [🌱Instructional Design](<🌱Instructional Design.md>)
 
+## [December 13th, 2020](<December 13th, 2020.md>)
+- Today I will focus on integrating my thoughts about [🌱Instructional Design](<🌱Instructional Design.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - [Workshop Design](<Workshop Design.md>) [🌱Instructional Design](<🌱Instructional Design.md>)
 
