@@ -22,13 +22,33 @@
         - So that I could teach other people how to develop themselves naturally
             - I want to teach other people how to develop themselves naturally so that I could feel meaning about myself
     - I want to have a relationship with Mỹ Linh
-        - 
+        - So that I could support her to navigate through her life and bring joy to her life
+            - I want to... so that I could feel meaning about myself
+        - So that I could feel better inside
     - I want to play board game
+        - So that I could experience new things
+            - I want to experience new things so that I could grow from that
+                - I want to grow so that I could feel wholer
     - I want to have a workflow
+        - So that I could work effectively
+            - I want to work effectively so that I could serve reality better
+                - I want to serve reality better so that I could feel better inside
     - I want to have more money
+        - So that I could feel more secure
+            - I want to feel more secure so that I can feel better inside
     - I want to have sex
+        - So that I could feel better inside
     - I want to solve my relationship with my parents
+        - So that my parents feel better
+            - I want my parents feel better so that I could feel much more connect without fear and being imposed
+                - I want to feel ... so that I could enjoy my time with my parents
+                    - I want to enjoy my time with my parents so I could have a meaningful time on earth
+                        - I want to have a meaningful time on earth so this journey is worthy.
     - I want to create a coach training
+        - So that I could teach people to become a coach
+        - I want to teach people to become a coach so we could help more people
+            - I want we could help more people so the world is a better place
+                - I want to make the world is a better place so we can enjoy the time on earth together
     - I want to create a spiritual training
     - I want to become a blogger
     - I want to write and share my knowledge
