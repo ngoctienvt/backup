@@ -1,5 +1,5 @@
 - [[🌱Progressive Development Approach]]
-    - [[🌲Top-down End-goal]]
+    - [[🌲Top-down Processing]]
     - [[🌲Bottom-up Emergence]]
 - [[🌱Personal Knowledge Development cycle]]
 - ---

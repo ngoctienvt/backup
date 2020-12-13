@@ -1,4 +1,4 @@
-- [🌲Top-down End-goal](<🌲Top-down End-goal.md>) is the way of approach life by getting to the absolute truth or high truth and then working to evolve soul enough to be able to live that truth or to fully understand and live that truth. However, it's easy to get trap in the [intellectual gratification](<intellectual gratification.md>).
+- [🌲Top-down Processing](<🌲Top-down Processing.md>) is the way of approach life by getting to the absolute truth or high truth and then working to evolve soul enough to be able to live that truth or to fully understand and live that truth. However, it's easy to get trap in the [intellectual gratification](<intellectual gratification.md>).
     - research
     - training
     - [absolute truth of life](<absolute truth of life.md>) 
@@ -7,7 +7,7 @@
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>), the soul will easily get distracted and live in a sleep state or accept the lower life.
     - meditation
     - [coaching](<coaching.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) that complement each other to help the soul evolve and live the truth as [🌱Natural Progression](<🌱Natural Progression.md>) as possible.
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Processing](<🌲Top-down Processing.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down Processing](<🌲Top-down Processing.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) that complement each other to help the soul evolve and live the truth as [🌱Natural Progression](<🌱Natural Progression.md>) as possible.
     - This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>) process to evolve the soul.
     - This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) also have 3 important point:
         - Intention

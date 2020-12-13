@@ -1,3 +1,6 @@
 - Today I will focus on integrating my thoughts about [[🌱Instructional Design]]
     - Also merge and clarify my thoughts around level of expertise and my own Bloom's with the verb as well.
-    - 
+- I noticed that this period of time is when I'm starting to learn to shift my focus on working [[🌲Top-down Processing]] and [[getting in touch with reality]]. This will help me to not focus too much on my thoughts, but rather reality instead. 
+    - The fact that I let myself open is helpful for learning, but it's hinder my ability to serve the reality.
+    -  The word Top-down Processing is better than Top-down End goals, because I can work at any level I want, and solidfy from that level downward, but remain open for later.
+    - My focus will be on my list of current processing and let other stuff emerge by itself, let it teach me, and I will process them later.

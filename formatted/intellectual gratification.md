@@ -4,5 +4,5 @@
 - [intellectual gratification](<intellectual gratification.md>)
 
 ## [life](<life.md>)
-- [🌲Top-down End-goal](<🌲Top-down End-goal.md>) is the way of approach life by getting to the absolute truth or high truth and then working to evolve soul enough to be able to live that truth or to fully understand and live that truth. However, it's easy to get trap in the [intellectual gratification](<intellectual gratification.md>).
+- [🌲Top-down Processing](<🌲Top-down Processing.md>) is the way of approach life by getting to the absolute truth or high truth and then working to evolve soul enough to be able to live that truth or to fully understand and live that truth. However, it's easy to get trap in the [intellectual gratification](<intellectual gratification.md>).
 

@@ -61,9 +61,9 @@
 ## [life](<life.md>)
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Processing](<🌲Top-down Processing.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Processing](<🌲Top-down Processing.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down Processing](<🌲Top-down Processing.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
 ## [network note-taking](<network note-taking.md>)
 - My usage of network note-taking will be based on [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) with the main approach is [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
@@ -83,6 +83,6 @@
 
 - [being coaching](<being coaching.md>) in a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
-## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
+## [🌲Top-down Processing](<🌲Top-down Processing.md>)
 - gaining clarity about direction and big picture that emerge from [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 

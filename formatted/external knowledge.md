@@ -5,6 +5,6 @@
 
 - [external knowledge](<external knowledge.md>)
 
-## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
+## [🌲Top-down Processing](<🌲Top-down Processing.md>)
 - [external knowledge](<external knowledge.md>)
 

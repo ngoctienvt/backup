@@ -9,7 +9,7 @@
         - enjoy the process and let the result emerge
         - [circular process](<circular process.md>) and [continuous process](<continuous process.md>) that focused on
             - process and end goal 
-                - [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
+                - [🌲Top-down Processing](<🌲Top-down Processing.md>)
             - integration instead of separation
     - Design [optimal conditions](<optimal conditions.md>) for emergence
         - [design for emergence](<design for emergence.md>)
@@ -22,7 +22,7 @@
     - Once you can see the shape, then you can think about its character.
     -  [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) for merging with the experiences
         - to create [optimal conditions](<optimal conditions.md>) for the emergence of new insights, ideas, solutions, creations in a natural way 
-    -  [🌲Top-down End-goal](<🌲Top-down End-goal.md>) for focusing myself to certain direction
+    -  [🌲Top-down Processing](<🌲Top-down Processing.md>) for focusing myself to certain direction
         - [Evergreen notes](<Evergreen notes.md>)
 - Usages
     - way of living
@@ -66,7 +66,7 @@
 - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Processing](<🌲Top-down Processing.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
 - This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
@@ -81,7 +81,7 @@
 - My usage of network note-taking will be based on [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
 ## [starting point](<starting point.md>)
-- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [🌲Top-down End-goal](<🌲Top-down End-goal.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
+- The [starting point](<starting point.md>) of everything is established a solidify [basic foundation](<basic foundation.md>) so that I can come back at any time. The role of a basic foundation is to establish a [🌲Top-down Processing](<🌲Top-down Processing.md>), a broad viewpoint that includes things I want to work on. It would help to set me a [truth compass](<truth compass.md>) to come back when I feel lost or to expand myself based on the experience that I gained. [life flow](<life flow.md>) [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
 ## [true happiness](<true happiness.md>)
 - seeking and living the truth on a [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
@@ -94,6 +94,6 @@
 
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) is an approach that a part of [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 
-## [🌲Top-down End-goal](<🌲Top-down End-goal.md>)
+## [🌲Top-down Processing](<🌲Top-down Processing.md>)
 - Related: [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
 

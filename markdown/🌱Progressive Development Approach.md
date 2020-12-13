@@ -9,7 +9,7 @@
         - enjoy the process and let the result emerge
         - [[circular process]] and [[continuous process]] that focused on
             - process and end goal 
-                - [[🌲Top-down End-goal]]
+                - [[🌲Top-down Processing]]
             - integration instead of separation
     - Design [[optimal conditions]] for emergence
         - [[design for emergence]]
@@ -22,7 +22,7 @@
     - Once you can see the shape, then you can think about its character.
     -  [[🌲Bottom-up Emergence]] for merging with the experiences
         - to create [[optimal conditions]] for the emergence of new insights, ideas, solutions, creations in a natural way 
-    -  [[🌲Top-down End-goal]] for focusing myself to certain direction
+    -  [[🌲Top-down Processing]] for focusing myself to certain direction
         - [[Evergreen notes]]
 - Usages
     - way of living

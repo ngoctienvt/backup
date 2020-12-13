@@ -1,7 +1,7 @@
 - letting go [personal agenda](<personal agenda.md>) that related to [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 - developing or centering my coaching on [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) instead of top-down approach.
     - making [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) the central of my coaching skills
-        - [🌲Top-down End-goal](<🌲Top-down End-goal.md>) is a supplement for help me to on the right track.
+        - [🌲Top-down Processing](<🌲Top-down Processing.md>) is a supplement for help me to on the right track.
 - learning to use [powerful questions](<powerful questions.md>) to support clients stretch themselves to close the gap with their end goals [closing the gap](<closing the gap.md>)
 - integrating between [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) and strecth clients to [closing the gap](<closing the gap.md>)
 

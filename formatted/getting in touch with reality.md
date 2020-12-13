@@ -10,6 +10,9 @@
 
 - [getting in touch with reality](<getting in touch with reality.md>)
 
+## [December 13th, 2020](<December 13th, 2020.md>)
+- I noticed that this period of time is when I'm starting to learn to shift my focus on working [🌲Top-down Processing](<🌲Top-down Processing.md>) and [getting in touch with reality](<getting in touch with reality.md>).
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - It's really about [getting in touch with reality](<getting in touch with reality.md>)
 

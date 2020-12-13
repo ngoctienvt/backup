@@ -98,5 +98,5 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 
 - [soul evolution](<soul evolution.md>)
 
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Processing](<🌲Top-down Processing.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>)
 

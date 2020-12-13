@@ -108,7 +108,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 - [🌱Natural Progression](<🌱Natural Progression.md>)
 
 ## [life](<life.md>)
-- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down End-goal](<🌲Top-down End-goal.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) that complement each other to help the soul evolve and live the truth as [🌱Natural Progression](<🌱Natural Progression.md>)
+- [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Processing](<🌲Top-down Processing.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down Processing](<🌲Top-down Processing.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) that complement each other to help the soul evolve and live the truth as [🌱Natural Progression](<🌱Natural Progression.md>)
 
 - [🌱Natural Progression](<🌱Natural Progression.md>)
 
