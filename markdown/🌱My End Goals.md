@@ -21,6 +21,7 @@
     - I want to create a training about PKDS - expertise
         - So that I could teach other people how to develop themselves naturally
             - I want to teach other people how to develop themselves naturally so that I could feel meaning about myself
+            - So that I can enjoy the time on earth
     - I want to have a relationship with Mỹ Linh
         - So that I could support her to navigate through her life and bring joy to her life
             - I want to... so that I could feel meaning about myself
@@ -29,6 +30,7 @@
         - So that I could experience new things
             - I want to experience new things so that I could grow from that
                 - I want to grow so that I could feel wholer
+                    - I want to feel whoer so that I could feel better inside and always higher
     - I want to have a workflow
         - So that I could work effectively
             - I want to work effectively so that I could serve reality better
@@ -51,14 +53,31 @@
                 - I want to make the world is a better place so we can enjoy the time on earth together
     - I want to create a spiritual training
     - I want to become a blogger
-    - I want to write and share my knowledge
+        - So that I could share my knowledge
+            - I want to share my knowledge so that I could help people to become better
+                - So that we can enjoy the time on earth together
     - I want to let go all stuff inside of me
+        - So that I can always feel good inside
     - I want to feel peace and free
+        - So that I can enjoy my time on earth
     - I want to gain weight
+        - So that I can have better health
+            - I want to have better health so that I can enjoy my time on earth
     - I want to buy a iMac
+        - So that I can experience new things
+            - So that I can have a meaningful time on earth
     - I want to able to be myself, and not let my habit-formed will drive my behavior
+        - So that I can be myself and direct my life in a way that I want
+            - So that I could enjoy my time on earth
     - I want to serve the reality
+        - So that I can payback and raise the moments
+            - So that I can enjoy my time on earth
     - I want to become a mature man
+        - So that I can take care people I care about
+            - So that we can enjoy the time on earth together
     - I want to learn to have a proper interaction with other people
+        - So that I can have a better experience with other people and enjoy the time on earth together
     - I want to become a Master Coach
+        - So that I can support people better
+            - So that we can enjoy the time on earth together
 - 
