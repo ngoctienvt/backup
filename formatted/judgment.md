@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 14th, 2020](<December 14th, 2020.md>)
+- I also feel that I have judgement for people who are too much focus on the practices, or the techniques. [judgment](<judgment.md>)
+
 ## [December 7th, 2020](<December 7th, 2020.md>)
 - I felt uncomfortable and judge my teammates as a burden when they don't active as I expect. I felt that it's better to do alone instead of having to chase them. But actually, I realize that I need to be my best part first. When I'm doing my part, it will help them to engage the process easier. [judgment](<judgment.md>)
 

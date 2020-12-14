@@ -102844,12 +102844,96 @@
         "uid": "x2a2Xph3c"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "Lo8n8yBBF"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607957027196,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607957152489,
+                "string": "Because the pre-given intention will be not cover everything, most of the time each moment will be different.",
+                "uid": "ZowbRt5tV"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607957862430,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607957895706,
+            "string": "There is no best thing, but rather what serve the moment most based on my best effort is everything, not my pre-conceived ideas or methods.",
+            "uid": "vylPXeZQs"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "6-CRlmUjZ"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607957152485,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607957182980,
+            "refs": [
+              {
+                "uid": "6-CRlmUjZ"
+              }
+            ],
+            "string": "I also feel that I have judgement for people who are too much focus on the practices, or the techniques. [[judgment]]",
+            "uid": "JlNEXgJdQ"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Acqp9iLLi"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607957286670,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607957356056,
+            "refs": [
+              {
+                "uid": "Acqp9iLLi"
+              }
+            ],
+            "string": "My development is at the end, I will remove all of the techniques, let it merge inside of myself and present with each moments or each different situation to have the best what I could do to [[raise the moments]].",
+            "uid": "-6lwRBRR3"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607947175234,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607947175234,
-        "string": "",
+        "edit-time": 1607957860638,
+        "refs": [
+          {
+            "uid": "Lo8n8yBBF"
+          }
+        ],
+        "string": "Today I learned that I'm very focus on what's the intention that we are giving on, but these pre-intentions are not the highest thing. The highest thing is always on people, not the process or what're given. [[\ud83c\udf31focus on what matters]]. And what's effective in my belief is not need to attach and work on the situation, because the person who really need it will come to me that way naturally. The moment maybe is not need it yet. ",
         "uid": "uqqs2uf5s"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "5FlByrIkB"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607957356052,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607958099383,
+        "refs": [
+          {
+            "uid": "5FlByrIkB"
+          }
+        ],
+        "string": "I noticed that do like the script is easy, but work on out of script is like walking on the unknown. This is where I'm not sure about script anymore, but then I increase fear instead. [[embrace the unknown]]",
+        "uid": "18rqV7mRU"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
