@@ -102821,9 +102821,35 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607940192584,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607940192584,
-        "string": "",
+        "edit-time": 1607946758943,
+        "string": " The How part is quite of a mess now, I will work on it tomorrow. The expect outcome is I can start to clear the fog, and put the priority in order.",
         "uid": "33YvcVTGM"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Whgo0BQz2"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607946758940,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607947220508,
+        "refs": [
+          {
+            "uid": "Whgo0BQz2"
+          }
+        ],
+        "string": "I have a little bit consider about using noun and verb. While noun is helpful for describe topic, it isn't helpful for provide direction and action. So if I use noun, it will need to be follow up with clear purpose and action.\n\nIf not, I will not have clarity in my head but rather keep the fog remain. [[execution]]",
+        "uid": "x2a2Xph3c"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1607947175234,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1607947175234,
+        "string": "",
+        "uid": "uqqs2uf5s"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
