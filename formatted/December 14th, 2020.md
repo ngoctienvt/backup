@@ -12,3 +12,10 @@ If not, I will not have clarity in my head but rather keep the fog remain. [exec
     - I also feel that I have judgement for people who are too much focus on the practices, or the techniques. [judgment](<judgment.md>)
     - My development is at the end, I will remove all of the techniques, let it merge inside of myself and present with each moments or each different situation to have the best what I could do to [raise the moments](<raise the moments.md>).
 - I noticed that do like the script is easy, but work on out of script is like walking on the unknown. This is where I'm not sure about script anymore, but then I increase fear instead. [embrace the unknown](<embrace the unknown.md>)
+- Tomorrow I will create a course for Huyen and Thy learn about Bottom-up Learning through Reading/ Grouping with tag/ Synthesis
+    - The goal of the workshop is they understand the way that we can collect and merge things into our own knowledge naturally.
+    - Tasks anlysis
+        - Taking note of key ideas / insights / knowledge
+        - Formulate tag and group them with tag
+        - Synthesize what collected to form own knowledge
+- From interaction with other people, I noticed that there are many things that I'm still have attachment with, and it's influence my ways of interact with new things in life. I feel that's it's better to always keep myself empty and let the moment do itself, if it's require certain things from me actively, then it's my time to express. If not, it's better to merge with the moment and dance with it naturally. [unattachment centering](<unattachment centering.md>)
