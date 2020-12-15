@@ -6,7 +6,7 @@
         - I want to develop myself in a sustainable way so that I will not lost myself and suffer, but rather evolve from the journey on earth.
     - I want to learn to share my work for the world in a helpful manner, so that I could contribute to this wonderful world.
     - I want to becoming the master at a variety of tools to support the development of other people in different ways - self-mastery, so that I could contribute to this wonderful world
-- Listing
+- # Listing
     - I want to condense my knowlege about Coaching
         - So that I could Coaching better
             - I want to Coaching better so that I could serve the reality better
@@ -22,24 +22,18 @@
         - So that I could teach other people how to develop themselves naturally
             - I want to teach other people how to develop themselves naturally so that I could feel meaning about myself
             - So that I can enjoy the time on earth
-    - I want to have a relationship with Mỹ Linh
-        - So that I could support her to navigate through her life and bring joy to her life
-            - I want to... so that I could feel meaning about myself
-        - So that I could feel better inside
     - I want to play board game
         - So that I could experience new things
             - I want to experience new things so that I could grow from that
                 - I want to grow so that I could feel wholer
                     - I want to feel whoer so that I could feel better inside and always higher
-    - I want to have a workflow
+    - I want to have a workflow/ routines
         - So that I could work effectively
             - I want to work effectively so that I could serve reality better
                 - I want to serve reality better so that I could feel better inside
     - I want to have more money
         - So that I could feel more secure
             - I want to feel more secure so that I can feel better inside
-    - I want to have sex
-        - So that I could feel better inside
     - I want to solve my relationship with my parents
         - So that my parents feel better
             - I want my parents feel better so that I could feel much more connect without fear and being imposed
