@@ -39,6 +39,9 @@
 ## [December 14th, 2020](<December 14th, 2020.md>)
 - Today I learned that I'm very focus on what's the intention that we are giving on, but these pre-intentions are not the highest thing. The highest thing is always on people, not the process or what're given. [🌱focus on what matters](<🌱focus on what matters.md>).
 
+## [December 15th, 2020](<December 15th, 2020.md>)
+- There will be general of what's truly matter that is about the person and the moment, not what I think or what pre-schedule [🌱focus on what matters](<🌱focus on what matters.md>).
+
 ## [December 9th, 2020](<December 9th, 2020.md>)
 - My point of focus should be different about the different stage of working [🌱focus on what matters](<🌱focus on what matters.md>)
 
