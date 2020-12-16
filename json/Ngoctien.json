@@ -91225,22 +91225,6 @@
                 "uid": "AtfByguRj"
               },
               {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607694478619,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607694487736,
-                "string": "Nh\u1eefng \u0111i\u1ec1u ng\u01b0\u1eddi h\u1ecdc c\u1ea7n bi\u1ebft \u0111\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u n\u00e0y l\u00e0 g\u00ec?",
-                "uid": "VBHO11IQd"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1607694487733,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1607694507590,
-                "string": "Ki\u1ebfn th\u1ee9c n\u00e0y s\u1ebd gi\u00fap h\u1ecd l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u g\u00ec?",
-                "uid": "q5xR1i-BC"
-              },
-              {
                 ":block/refs": [
                   {
                     ":block/uid": "HNONT7dce"
@@ -91254,14 +91238,6 @@
                     "edit-time": 1607695772140,
                     "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkZTItUDPQy.png?alt=media&token=4f6754d1-d64d-4e93-9ff6-04c2d7360937)",
                     "uid": "XbklTlqsx"
-                  },
-                  {
-                    "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1607695776189,
-                    "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1607695776189,
-                    "string": "",
-                    "uid": "wakMfWFki"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
@@ -91275,6 +91251,14 @@
                 ],
                 "string": "[[Krathwohl\u2019s Affective Taxonomy]]",
                 "uid": "YOqLgUWve"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607695776189,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1607695776189,
+                "string": "",
+                "uid": "wakMfWFki"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -91288,13 +91272,277 @@
             ],
             "string": "[[Bloom's taxonomy]]",
             "uid": "1u1Hi9eTt"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607694478619,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607694487736,
+            "string": "Nh\u1eefng \u0111i\u1ec1u ng\u01b0\u1eddi h\u1ecdc c\u1ea7n bi\u1ebft \u0111\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u n\u00e0y l\u00e0 g\u00ec?",
+            "uid": "VBHO11IQd"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607694487733,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607694507590,
+            "string": "Ki\u1ebfn th\u1ee9c n\u00e0y s\u1ebd gi\u00fap h\u1ecd l\u00e0m \u0111\u01b0\u1ee3c \u0111i\u1ec1u g\u00ec?",
+            "uid": "q5xR1i-BC"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608084387043,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608084491904,
+            "string": "Tasks analysis is listing all of steps a person need to do to complete big goal in real life situation, not classrom situation.",
+            "uid": "ZKcT-QK29"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608084475113,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608084532391,
+            "string": "Objective analysis is look at classrom situation, and analyze what a person will go through and resolve in the class to complete tasks.",
+            "uid": "YwlYda7Pt"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608084588746,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608084681872,
+                    "string": "This kind of fast question is Interactive Lecture activities. It helps people focus on content and keyword, and increase their thinking level from \"know\" to \"understand\" or \"analyze.",
+                    "uid": "B1ObTOJ-s"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608084647718,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608084647718,
+                "string": "Using poll to look back where we are - ",
+                "uid": "kICivFlU_"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608084717432,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608084776840,
+                    "string": "Card Sort -> know",
+                    "uid": "fBIi2ItvK"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608084724826,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608084773256,
+                    "string": "Example on \"boil egg\" activities as illustration for each level. -> from know to understand",
+                    "uid": "qmzhBByvl"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608084784746,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608084825807,
+                    "string": "Demo \"lu\u1ed9c khoai\" -> bring Bloom to a specific context -> easier to understand and apply",
+                    "uid": "Ugz5GS046"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608084868880,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608084961078,
+                            "string": "Objectives design is a process to identify the information a person need to know to be able to complete the tasks.",
+                            "uid": "fK4UznrkC"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608084903266,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608084984295,
+                            "string": "The results of objectives design is the knowledge that need to teach on the program.",
+                            "uid": "YC02IDw1P"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608084854458,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608084868884,
+                        "string": "Definition testing",
+                        "uid": "H8VADD4tP"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608084840235,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608084854461,
+                    "string": " Test \"understand\" level before going to \"apply\"",
+                    "uid": "sJ12Omt5n"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608085022793,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608085070337,
+                        "string": "\"Apply\" what \"understand\" in the pre-given context to similar context.",
+                        "uid": "VqTwZKnEC"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608085000403,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608085022722,
+                    "string": "\"Boil egg\" group activities ",
+                    "uid": "o-NKZP278"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608084705456,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608084716652,
+                "string": "Learning about Bloom's taxonomy",
+                "uid": "HVbzkSvf8"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608085078369,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608085101025,
+                "string": "The difference between \"tasks\" and \"objective\" - analyze level",
+                "uid": "IlZtAW1ym"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608085106402,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608085157010,
+                "string": "What \"should\" and \"shouldn't on objective design - evaluate level. Creating level will be for personal exercises.",
+                "uid": "VEWMWIopw"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "HNONT7dce"
+                  }
+                ],
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608085224802,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608085236729,
+                    "string": "Write down all of ways to deliver the above message. ",
+                    "uid": "yQMxtFHzI"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608085166505,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608085220905,
+                "refs": [
+                  {
+                    "uid": "HNONT7dce"
+                  }
+                ],
+                "string": "Using message \"keep kitchen clean\" to lead to another knowledge [[Krathwohl\u2019s Affective Taxonomy]].",
+                "uid": "Za2jQbNRt"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "HNONT7dce"
+                  }
+                ],
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608085279409,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608085303696,
+                    "string": "Example from \"boil egg\" to **understand**",
+                    "uid": "DzJRmXoPh"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608085307073,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608085464723,
+                    "string": "What are expressions coressponding to Affective level about \"Workshop online still have effective interaction\"? - hidden agenda - Let prople bring up by themselves",
+                    "uid": "d5RGVS_N6"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608085249097,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608085301712,
+                "refs": [
+                  {
+                    "uid": "HNONT7dce"
+                  }
+                ],
+                "string": "Another card sort to **know **about [[Krathwohl\u2019s Affective Taxonomy]]",
+                "uid": "Y-kwXFEIr"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608085464720,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608085511192,
+                "string": "Summarize: choose and complete 3 sentences regard to 3 stage of Bloom",
+                "uid": "j5h0J-bjI"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608085535104,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608085599752,
+                "string": "The sequences of activites are to help people level up their level of thinking, if they are already level up before the activities happen, then that activities are not needed anymore.",
+                "uid": "vY4AdDvGg"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608084547612,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608084578733,
+            "string": "The objective of session 5 is let participants design the contents for workshop.",
+            "uid": "fD4ymrGnJ"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608085643831,
+            "string": "",
+            "uid": "383vL_ez5"
+          },
+          {
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608085640528,
+            "string": "",
+            "uid": "XtwNMDepN"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608084332725,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608084333761,
+            "string": "****",
+            "uid": "C0iFT3KK4"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607687029888,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607687137897,
-        "string": "Session 5 - Selecting contents to deliver",
+        "edit-time": 1608084370852,
+        "string": "Session 5 - Selecting contents to deliver - Establish basic structure of the workshop",
         "uid": "M0diRqxu2"
       },
       {

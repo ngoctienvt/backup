@@ -161,7 +161,7 @@ Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình n�
             - Square - what you knew and are reinforced
             - Circle - What you still not clear (fast survey)
             - Triangle - Top 3 important lessons that you have for yourself
-- Session 5 - Selecting contents to deliver
+- Session 5 - Selecting contents to deliver - Establish basic structure of the workshop
     - [Bloom's taxonomy](<Bloom's taxonomy.md>)
         - New bloom's - remove synthesis, add creating as last level
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FFIKUy2-ffy.png?alt=media&token=c4d08854-f103-4fb8-8b53-f415bb8321d4)
@@ -174,11 +174,38 @@ Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình n�
             - Task là outcome cần, objective là kiến thức để làm được outcome.
             - Task trước, outcome sau.
             - Reality đi trước, không phải personal needs
-        - Những điều người học cần biết để làm được điều này là gì?
-        - Kiến thức này sẽ giúp họ làm được điều gì?
         - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FkZTItUDPQy.png?alt=media&token=4f6754d1-d64d-4e93-9ff6-04c2d7360937)
-            - 
+        - 
+    - Những điều người học cần biết để làm được điều này là gì?
+    - Kiến thức này sẽ giúp họ làm được điều gì?
+    - Tasks analysis is listing all of steps a person need to do to complete big goal in real life situation, not classrom situation.
+    - Objective analysis is look at classrom situation, and analyze what a person will go through and resolve in the class to complete tasks.
+    - The objective of session 5 is let participants design the contents for workshop.
+        - Using poll to look back where we are - 
+            - This kind of fast question is Interactive Lecture activities. It helps people focus on content and keyword, and increase their thinking level from "know" to "understand" or "analyze.
+        - Learning about Bloom's taxonomy
+            - Card Sort -> know
+            - Example on "boil egg" activities as illustration for each level. -> from know to understand
+            - Demo "luộc khoai" -> bring Bloom to a specific context -> easier to understand and apply
+            -  Test "understand" level before going to "apply"
+                - Definition testing
+                    - Objectives design is a process to identify the information a person need to know to be able to complete the tasks.
+                    - The results of objectives design is the knowledge that need to teach on the program.
+            - "Boil egg" group activities 
+                - "Apply" what "understand" in the pre-given context to similar context.
+        - The difference between "tasks" and "objective" - analyze level
+        - What "should" and "shouldn't on objective design - evaluate level. Creating level will be for personal exercises.
+        - Using message "keep kitchen clean" to lead to another knowledge [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>).
+            - Write down all of ways to deliver the above message. 
+        - Another card sort to **know **about [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+            - Example from "boil egg" to **understand**
+            - What are expressions coressponding to Affective level about "Workshop online still have effective interaction"? - hidden agenda - Let prople bring up by themselves
+        - Summarize: choose and complete 3 sentences regard to 3 stage of Bloom
+        - The sequences of activites are to help people level up their level of thinking, if they are already level up before the activities happen, then that activities are not needed anymore.
+    - 
+    - 
+    - ****
 - ---
 - Group activities
     - Clarify foggy contents
