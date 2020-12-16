@@ -203,9 +203,15 @@ Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình n�
             - What are expressions coressponding to Affective level about "Workshop online still have effective interaction"? - hidden agenda - Let prople bring up by themselves
         - Summarize: choose and complete 3 sentences regard to 3 stage of Bloom
         - The sequences of activites are to help people level up their level of thinking, if they are already level up before the activities happen, then that activities are not needed anymore.
-    - 
-    - 
-    - ****
+- Session 6
+    - Cấu trúc của một buổi học
+        - Mở đầu
+            - Tạo không gian cho chương trình diễn ra hiệu quả
+        - Phần chính
+            - Cho người học thể hiện những gì đã biết
+                - Lấp đầy
+        - Thu hoạch
+            - Đan xen phần chính và thu hoạch
 - ---
 - Group activities
     - Clarify foggy contents

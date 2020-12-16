@@ -91516,26 +91516,6 @@
             "edit-time": 1608084578733,
             "string": "The objective of session 5 is let participants design the contents for workshop.",
             "uid": "fD4ymrGnJ"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608085643831,
-            "string": "",
-            "uid": "383vL_ez5"
-          },
-          {
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608085640528,
-            "string": "",
-            "uid": "XtwNMDepN"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1608084332725,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608084333761,
-            "string": "****",
-            "uid": "C0iFT3KK4"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -91544,6 +91524,88 @@
         "edit-time": 1608084370852,
         "string": "Session 5 - Selecting contents to deliver - Establish basic structure of the workshop",
         "uid": "M0diRqxu2"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608123524258,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608123564550,
+                    "string": "T\u1ea1o kh\u00f4ng gian cho ch\u01b0\u01a1ng tr\u00ecnh di\u1ec5n ra hi\u1ec7u qu\u1ea3",
+                    "uid": "wGAx1Ahp1"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608123555506,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608123558250,
+                "string": "M\u1edf \u0111\u1ea7u",
+                "uid": "Y5ayZFaHR"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608123532195,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608123535541,
+                        "string": "L\u1ea5p \u0111\u1ea7y",
+                        "uid": "O35jglMUz"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608123526298,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608123532199,
+                    "string": "Cho ng\u01b0\u1eddi h\u1ecdc th\u1ec3 hi\u1ec7n nh\u1eefng g\u00ec \u0111\u00e3 bi\u1ebft",
+                    "uid": "u3F7QgC2g"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608123564547,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608123569020,
+                "string": "Ph\u1ea7n ch\u00ednh",
+                "uid": "X5-a_GxSi"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608123792827,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608123799376,
+                    "string": "\u0110an xen ph\u1ea7n ch\u00ednh v\u00e0 thu ho\u1ea1ch",
+                    "uid": "Ny3vlbf7v"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608123572674,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608123792832,
+                "string": "Thu ho\u1ea1ch",
+                "uid": "G6wVKn3oH"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608123550636,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608123555509,
+            "string": "C\u1ea5u tr\u00fac c\u1ee7a m\u1ed9t bu\u1ed5i h\u1ecdc",
+            "uid": "xOyMdP-Pe"
+          }
+        ],
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608123524262,
+        "string": "Session 6",
+        "uid": "383vL_ez5"
       },
       {
         "create-email": "ngoctienvt@gmail.com",
