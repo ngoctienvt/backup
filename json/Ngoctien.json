@@ -103287,6 +103287,36 @@
     "title": "December 15th, 2020"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "fmfgeT0iK"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608087447464,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608087517678,
+            "string": "In order to learn any skill in a systematic way, it's important to notice main sub-skills that need to focus on as a strong general foundation. There will be some specific skill for certain usages and these skills need to be practice in their own context instead.",
+            "uid": "jrr5FeomQ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608087401885,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608087447467,
+        "refs": [
+          {
+            "uid": "fmfgeT0iK"
+          }
+        ],
+        "string": "[[Level of expertise]]",
+        "uid": "mHTlqE1B2"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1608080001482,
     "edit-email": "ngoctienvt@gmail.com",

@@ -1,2 +1,2 @@
-- [[Level of expertise]]
+- [Level of expertise](<Level of expertise.md>)
     - In order to learn any skill in a systematic way, it's important to notice main sub-skills that need to focus on as a strong general foundation. There will be some specific skill for certain usages and these skills need to be practice in their own context instead.

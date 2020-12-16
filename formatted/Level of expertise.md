@@ -32,6 +32,9 @@
 
 - Somehow [Level of expertise](<Level of expertise.md>)
 
+## [December 16th, 2020](<December 16th, 2020.md>)
+- [Level of expertise](<Level of expertise.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - I also noticed that [Level of expertise](<Level of expertise.md>)
 
