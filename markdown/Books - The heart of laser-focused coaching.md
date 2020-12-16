@@ -109,5 +109,98 @@
                         - and ascertain how they would like to feel instead.
                         - This helps them discover what thoughts or ideas are in the way of that.
 - ## Part II - The beginning
-- ### Chapter 2 - The laser-focused mindset
-- 
+- ### Chapter 2 - The laser-focused mindset [[Maintains Presence]] [[Embodies a Coaching Mindset]]
+    - Everything begins with the right mindset and it’s just as important as the actual coaching. [[Embodies a Coaching Mindset]]
+        - In coaching, it is the ability to presence of the coach
+    - Key elements for developing true coaching presence [[Coaching Presence key elements]]
+        - [[Be empty]] [[trust the process]]
+            - Blank Slate
+                - a completely objective person without expectations of any kind,
+                    - someone free of preconceived ideas about what is coming or what “should” happen.
+                    - They are flexible, open to whatever shows up, and able to move in whatever direction is needed
+                - The reason for this mindset is to allow them to be authentic and natural, which in turn releases the inclination to perform or be brilliant in order to be effective.
+                    - __Trying to be brilliant gets in the way of good listening and creating a true breakthrough for your client.__
+            - Not Knowing 
+                - Coming to the conversation not knowing anything and trusting that whatever you need to know will show up. 
+                - If you have preconceived notions or concerns about how your session will turn out, you will be concerned with doing everything right.
+                - Be willing to be wrong about any attitude or belief. 
+                    - You might ask a question that is totally off base, yet it could allow your client to see the situation clearly. A question that seems off base is not an error. 
+                    - Instead, it shows that you’re curious and could even lead to clarity for your client.
+                - __Success comes from letting go of the need to provide value or reach a specific outcome.__
+                - 3 important trust
+                    - Trust in the process of coaching. 
+                    - Trust in your client. 
+                    - Trust in yourself
+                        - IT ALL BEGINS WITH YOU
+                            - No matter how seasoned or brilliant a coach is, there will still be moments of having no idea where the conversation is going.
+                            - The difference for experienced coaches is that they know they can trust the process and the idea of not knowing isn’t uncomfortable.
+                            - The key to meaningful coaching is to let go of these moments of not knowing and trust yourself, your client, and the process. 
+                                - While it might seem counterintuitive, part of trusting in the process is about
+                                    - trusting that what you have learned will show up naturally, 
+                                    - and that no matter how doubtful you are, it will turn out well.
+                            - Some coaches feel like they have “imposter syndrome.” They believe they don’t provide enough value to make a significant difference or warrant getting paid.
+                                - It’s important to know that you bring great value to your client 
+                                    - when you listen, 
+                                    - ask questions about who they are, 
+                                    - and then help them work with that information.
+                            - __Learn to trust yourself — no matter what.__
+        - YOUR PRESENCE AS A COACH [[coaching presence]]
+            - To be presence means to focus on what you're hearing
+                - As long as you’re open, non-judgmental, curious about the person, undistracted, and focused on listening to what is said and what is not said, you are present.
+                - When you speak with your client, it’s important to be fully conscious and create a spontaneous relationship. Be open, flexible, and appear confident even when you don’t feel that way. [[spontaenous]]
+                - As a coach, there will be times in the conversation when your own thoughts will be distracting, confusing, or filled with doubt. Notice those thoughts and return your attention to listening to your client. [[regain presence]]
+                    - As you gain more experience using transformational techniques, those doubts and lack of trust in the process begin to melt away.
+                    - If you find yourself becoming anxious because you don’t know where the conversation is going, refocus on deep listening and ask your client what is needed. For example, you can simply ask, “What would be most helpful at this point?”
+                - Think of it like a movie with a sudden plot twist that takes you by surprise. [[emergence child-like mindset]]
+                    - It’s the same when your client is telling a story that is familiar; you have to be prepared for a twist so you can remain connected. 
+                    - Masterful coaching means that at any moment in the conversation you have absolutely, positively no clue where the conversation will end up; you are simply following the client’s responses to your questions.
+        - LET GO OF THE FORMULAS
+            - Masterful coaching does not have an explicit formula or model. Instead, it’s organic in nature as you respond naturally to what your client offers. [[Listens Actively]]
+            - It’s important that the conversation is flowing, organic, and natural. 
+                - Don’t use industry jargon; you should never need to explain a word or expression to your client. Use everyday language, just as you would with a friend over lunch.
+            - Great questions arise from great listening, they don’t arise from a list. [[Listens Actively]]
+                - You are responding to what your client presents instead of making them respond to what you present.
+            - In a masterful coaching session, awareness is created constantly, consistently, and throughout the conversation. [[Evokes awareness]]
+                - It is often described as coming in waves. 
+                - The client’s awareness can come from your: 
+                    - Reflection (your interpretation) 
+                    - A challenging question 
+                    - An observation 
+                    - Intuition 
+                    - Silence 
+                    - Feedback provided by the coach
+                - rely on being present, attuning to your client, and following the trail of breadcrumbs they leave for you.
+                    - the “ahas!” come in small, subtle waves that build over the course of the conversation.
+        - BE FRIENDLY, NOT FRIENDS 
+            - As a coach, you are a professional, objective outsider with permission to be direct.
+            - how do you stay friendly and not become a friend? 
+                - Focus the conversation on your client, not on you. 
+                    - When you do this well, you don’t get sucked into their emotions or the details about their situation. 
+                    - In general, don’t bring your experiences or opinions into the conversation unless they’re based on something your client shared, no matter how tempting it might be.
+                - Remain professional with your client. [[coach proferssional boundary]]
+                    - Avoid looking to them to fulfill your personal needs, such as the need to socialize, to be liked, to be praised, etc. 
+                    - Refrain from agreeing with them or comparing yourself to their situation, as this can get in the way of your role as the objective listener. 
+                    - Even if you strongly identify with them or have had a similar experience, use what you learned from your situation to question them without mentioning how you learned it.
+                - Friendly means staying objective and enjoying your client. It doesn’t mean sharing and commiserating the way friends do.
+        - BE YOUR OWN COACH FIRST [[Live Deeply]]
+            - Becoming truly masterful is to work on your own problems.
+                - That doesn’t necessarily mean solving them completely; it means continually working on your personal development and growth.
+                - use your clients’ challenges as a springboard for working on areas you need to focus on.
+                    - For instance, if your client is challenged by boundaries, it’s an opportunity to look at your own boundaries and note where some work might be needed.
+        - YOUR EGO AND THE USE OF “I” [[Coach from the soul, not the ego]]
+            - It’s important to __keep the word I out of the coaching conversation__ as much as possible. 
+                - Your client doesn’t need your advice or to hear about something that worked for you.
+            - __You may right, but your client is always right.__ [[Embodies a Coaching Mindset]]
+                - For example, your client states, “The grass is purple.” Instead of contradicting them, ask the question “What has you coming to that conclusion?” In other words, don’t make them wrong or set up barriers.
+                - Letting them explain doesn’t mean you agree with them. 
+                    - It means you respect their different point of view. 
+                    - Give them the space to explore their ideas so that you get closer to the root of their beliefs and stories.
+            - Our work as coaches is to be of service. [[Embodies a Coaching Mindset]]
+                - If we try to help or fix them, we are making a judgment that the person is broken. 
+                - Helping and fixing lead only in one direction; they are draining, and they keep us from serving the dream in other people. 
+                - They imply that we don’t trust the person’s potential and that we have more expertise. 
+                - A good message for your clients is “Your life matters.” 
+                    - We want them to understand that who we are is as important as what we do.
+            - The coach’s focus is to be of service and to serve clients from our soul and not from our ego.
+                - When you’re able to come to session with presence, an open mind, and a commitment to remaining neutral, your clients flourish. 
+                    - They feel more comfortable exploring their deeply held beliefs and perceptions because they know you won’t judge them or force them into anything.

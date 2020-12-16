@@ -101342,21 +101342,1019 @@
         "uid": "D_2o1E9vb"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "Nl3ypV-is"
+          },
+          {
+            ":block/uid": "S042PQ_BK"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Nl3ypV-is"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608102758166,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608102772596,
+                "string": "In coaching, it is the ability to presence of the coach",
+                "uid": "Lu8jIX_AE"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608102757047,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608104225519,
+            "refs": [
+              {
+                "uid": "Nl3ypV-is"
+              }
+            ],
+            "string": "Everything begins with the right mindset and it\u2019s just as important as the actual coaching. [[Embodies a Coaching Mindset]]",
+            "uid": "uCNBmZO92"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "79FRbEXVT"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "q8mgWmmzz"
+                  },
+                  {
+                    ":block/uid": "7znSZdkqW"
+                  }
+                ],
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608102828672,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608102828674,
+                            "string": "someone free of preconceived ideas about what is coming or what \u201cshould\u201d happen.",
+                            "uid": "XnK_lj0Vi"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608102856390,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608102856390,
+                            "string": "They are flexible, open to whatever shows up, and able to move in whatever direction is needed",
+                            "uid": "8GRlKqau7"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608102821792,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608102821797,
+                        "string": "a completely objective person without expectations of any kind,",
+                        "uid": "djHgdnwgd"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608102874255,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608102879650,
+                            "string": "__Trying to be brilliant gets in the way of good listening and creating a true breakthrough for your client.__",
+                            "uid": "pNP07wmls"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608102853719,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608102859705,
+                        "string": "The reason for this mindset is to allow them to be authentic and natural, which in turn releases the inclination to perform or be brilliant in order to be effective.",
+                        "uid": "5jDBA0na6"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608104312595,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104313918,
+                    "string": "Blank Slate",
+                    "uid": "OV9SOAUPi"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608102921391,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608102921391,
+                        "string": "Coming to the conversation not knowing anything and trusting that whatever you need to know will show up. ",
+                        "uid": "Gw8hXeW1D"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608102914488,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608102946155,
+                        "string": "If you have preconceived notions or concerns about how your session will turn out, you will be concerned with doing everything right.",
+                        "uid": "ixxs5DxoE"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608102952332,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608102952332,
+                            "string": "You might ask a question that is totally off base, yet it could allow your client to see the situation clearly. A question that seems off base is not an error. ",
+                            "uid": "lSWrcX0ml"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608102947136,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608102952335,
+                            "string": "Instead, it shows that you\u2019re curious and could even lead to clarity for your client.",
+                            "uid": "Phhi0P2qm"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608102949199,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608102949199,
+                        "string": "Be willing to be wrong about any attitude or belief. ",
+                        "uid": "GFMNfzqKy"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608102962591,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608102965914,
+                        "string": "__Success comes from letting go of the need to provide value or reach a specific outcome.__",
+                        "uid": "n2ZhRbfy0"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103010510,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103010510,
+                            "string": "Trust in the process of coaching. ",
+                            "uid": "0x2o12-UR"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103012509,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103012509,
+                            "string": "Trust in your client. ",
+                            "uid": "qFweRaJzw"
+                          },
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1608103049207,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1608103049212,
+                                    "string": "No matter how seasoned or brilliant a coach is, there will still be moments of having no idea where the conversation is going.",
+                                    "uid": "nZiiOddIO"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1608103056471,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1608103056476,
+                                    "string": "The difference for experienced coaches is that they know they can trust the process and the idea of not knowing isn\u2019t uncomfortable.",
+                                    "uid": "5EGx6BoIS"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "children": [
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1608103089179,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1608103089179,
+                                            "string": "trusting that what you have learned will show up naturally, ",
+                                            "uid": "H8GD7TMBq"
+                                          },
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1608103073703,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1608103089181,
+                                            "string": "and that no matter how doubtful you are, it will turn out well.",
+                                            "uid": "v3bzs1bnA"
+                                          }
+                                        ],
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1608103085887,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1608103085887,
+                                        "string": "While it might seem counterintuitive, part of trusting in the process is about",
+                                        "uid": "Z2jAXfu3C"
+                                      }
+                                    ],
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1608103076808,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1608103076808,
+                                    "string": "The key to meaningful coaching is to let go of these moments of not knowing and trust yourself, your client, and the process. ",
+                                    "uid": "_CqwvSYKe"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "children": [
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1608103147816,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1608103147816,
+                                            "string": "when you listen, ",
+                                            "uid": "umbjn9gRh"
+                                          },
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1608103149405,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1608103149405,
+                                            "string": "ask questions about who they are, ",
+                                            "uid": "ZdOxUVT32"
+                                          },
+                                          {
+                                            "create-email": "ngoctienvt@gmail.com",
+                                            "create-time": 1608103135096,
+                                            "edit-email": "ngoctienvt@gmail.com",
+                                            "edit-time": 1608103149407,
+                                            "string": "and then help them work with that information.",
+                                            "uid": "-ymBNPmp8"
+                                          }
+                                        ],
+                                        "create-email": "ngoctienvt@gmail.com",
+                                        "create-time": 1608103146007,
+                                        "edit-email": "ngoctienvt@gmail.com",
+                                        "edit-time": 1608103146007,
+                                        "string": "It\u2019s important to know that you bring great value to your client ",
+                                        "uid": "o4-0gz5BU"
+                                      }
+                                    ],
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1608103113559,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1608103113564,
+                                    "string": "Some coaches feel like they have \u201cimposter syndrome.\u201d They believe they don\u2019t provide enough value to make a significant difference or warrant getting paid.",
+                                    "uid": "eSttnR7Vk"
+                                  },
+                                  {
+                                    "create-email": "ngoctienvt@gmail.com",
+                                    "create-time": 1608103200407,
+                                    "edit-email": "ngoctienvt@gmail.com",
+                                    "edit-time": 1608103212514,
+                                    "string": "__Learn to trust yourself \u2014 no matter what.__",
+                                    "uid": "8EVHwqZ8y"
+                                  }
+                                ],
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608103039664,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608103039669,
+                                "string": "IT ALL BEGINS WITH YOU",
+                                "uid": "DO880GseJ"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103007766,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103012512,
+                            "string": "Trust in yourself",
+                            "uid": "UPzyXDemf"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103001883,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103005027,
+                        "string": "3 important trust",
+                        "uid": "gLl6md3Yj"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608102874255,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104299599,
+                    "string": "Not Knowing ",
+                    "uid": "rjmy_x-sj"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608102801839,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608104330743,
+                "refs": [
+                  {
+                    "uid": "q8mgWmmzz"
+                  },
+                  {
+                    "uid": "7znSZdkqW"
+                  }
+                ],
+                "string": "[[Be empty]] [[trust the process]]",
+                "uid": "5OAlC7lFy"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "YdaA6oKTR"
+                  }
+                ],
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103268025,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103268030,
+                        "string": "As long as you\u2019re open, non-judgmental, curious about the person, undistracted, and focused on listening to what is said and what is not said, you are present.",
+                        "uid": "vJhbqerfc"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "mEUOyjioF"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103291607,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104377685,
+                        "refs": [
+                          {
+                            "uid": "mEUOyjioF"
+                          }
+                        ],
+                        "string": "When you speak with your client, it\u2019s important to be fully conscious and create a spontaneous relationship. Be open, flexible, and appear confident even when you don\u2019t feel that way. [[spontaenous]]",
+                        "uid": "hDY9frqXa"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "iaYFDr5rE"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103351806,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103351808,
+                            "string": "As you gain more experience using transformational techniques, those doubts and lack of trust in the process begin to melt away.",
+                            "uid": "KTXFJGp4R"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103365847,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103378323,
+                            "string": "If you find yourself becoming anxious because you don\u2019t know where the conversation is going, refocus on deep listening and ask your client what is needed. For example, you can simply ask, \u201cWhat would be most helpful at this point?\u201d",
+                            "uid": "ZSdjnIzHj"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103332330,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104388438,
+                        "refs": [
+                          {
+                            "uid": "iaYFDr5rE"
+                          }
+                        ],
+                        "string": "As a coach, there will be times in the conversation when your own thoughts will be distracting, confusing, or filled with doubt. Notice those thoughts and return your attention to listening to your client. [[regain presence]]",
+                        "uid": "70_b4CdMi"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "dT6nRb99E"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103426128,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103426128,
+                            "string": "It\u2019s the same when your client is telling a story that is familiar; you have to be prepared for a twist so you can remain connected. ",
+                            "uid": "gB_rXRfoW"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103417295,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103426131,
+                            "string": "Masterful coaching means that at any moment in the conversation you have absolutely, positively no clue where the conversation will end up; you are simply following the client\u2019s responses to your questions.",
+                            "uid": "SXxomtnvG"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103422385,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104454714,
+                        "refs": [
+                          {
+                            "uid": "dT6nRb99E"
+                          }
+                        ],
+                        "string": "Think of it like a movie with a sudden plot twist that takes you by surprise. [[emergence child-like mindset]]",
+                        "uid": "d8eIs-Zxk"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103180607,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608103260693,
+                    "string": "To be presence means to focus on what you're hearing",
+                    "uid": "fVQHem4Ic"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608103180607,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608104348615,
+                "refs": [
+                  {
+                    "uid": "YdaA6oKTR"
+                  }
+                ],
+                "string": "YOUR PRESENCE AS A COACH [[coaching presence]]",
+                "uid": "HW0R6mGYN"
+              },
+              {
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "krTm43NY3"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103451472,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104490169,
+                    "refs": [
+                      {
+                        "uid": "krTm43NY3"
+                      }
+                    ],
+                    "string": "Masterful coaching does not have an explicit formula or model. Instead, it\u2019s organic in nature as you respond naturally to what your client offers. [[Listens Actively]]",
+                    "uid": "584wtEqQe"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103484391,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103486719,
+                        "string": "Don\u2019t use industry jargon; you should never need to explain a word or expression to your client. Use everyday language, just as you would with a friend over lunch.",
+                        "uid": "BrKpDz0p1"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103486714,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608103486714,
+                    "string": "It\u2019s important that the conversation is flowing, organic, and natural. ",
+                    "uid": "NIxjX1a_E"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "krTm43NY3"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103550199,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103550201,
+                        "string": "You are responding to what your client presents instead of making them respond to what you present.",
+                        "uid": "xVslV2SUx"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103500607,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104476869,
+                    "refs": [
+                      {
+                        "uid": "krTm43NY3"
+                      }
+                    ],
+                    "string": "Great questions arise from great listening, they don\u2019t arise from a list. [[Listens Actively]]",
+                    "uid": "vbWdt6gWf"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "M-ltbpNYT"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103579382,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103579382,
+                        "string": "It is often described as coming in waves. ",
+                        "uid": "BMw3g_WOk"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103589038,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103589038,
+                            "string": "Reflection (your interpretation) ",
+                            "uid": "gQG1eSfbF"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103590719,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103590719,
+                            "string": "A challenging question ",
+                            "uid": "8CA-uwiMW"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103594607,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103594607,
+                            "string": "An observation ",
+                            "uid": "rmxrIw-km"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103592896,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103594609,
+                            "string": "Intuition ",
+                            "uid": "5LDK0rk-D"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103598402,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103598402,
+                            "string": "Silence ",
+                            "uid": "RnBkJBZOp"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103572838,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103598405,
+                            "string": "Feedback provided by the coach",
+                            "uid": "deuGtwPxs"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103585535,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103585535,
+                        "string": "The client\u2019s awareness can come from your: ",
+                        "uid": "tGRShRlxB"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103654967,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103654972,
+                            "string": "the \u201cahas!\u201d come in small, subtle waves that build over the course of the conversation.",
+                            "uid": "mxRVtrxZH"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103630504,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103630512,
+                        "string": "rely on being present, attuning to your client, and following the trail of breadcrumbs they leave for you.",
+                        "uid": "0oPOc_Yd3"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103576846,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104496638,
+                    "refs": [
+                      {
+                        "uid": "M-ltbpNYT"
+                      }
+                    ],
+                    "string": "In a masterful coaching session, awareness is created constantly, consistently, and throughout the conversation. [[Evokes awareness]]",
+                    "uid": "fZ_2wt6RH"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608103443743,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608103443747,
+                "string": "LET GO OF THE FORMULAS",
+                "uid": "Q3ulgf5aU"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103686487,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608103686492,
+                    "string": "As a coach, you are a professional, objective outsider with permission to be direct.",
+                    "uid": "RAn3Y5JrA"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103723239,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103723239,
+                            "string": "When you do this well, you don\u2019t get sucked into their emotions or the details about their situation. ",
+                            "uid": "vYE4i2YDM"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103714927,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103723242,
+                            "string": "In general, don\u2019t bring your experiences or opinions into the conversation unless they\u2019re based on something your client shared, no matter how tempting it might be.",
+                            "uid": "pu8KShoTX"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103719592,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103719592,
+                        "string": "Focus the conversation on your client, not on you. ",
+                        "uid": "ejVB6sZqG"
+                      },
+                      {
+                        ":block/refs": [
+                          {
+                            ":block/uid": "WDWCPXHRW"
+                          }
+                        ],
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103782919,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103782919,
+                            "string": "Avoid looking to them to fulfill your personal needs, such as the need to socialize, to be liked, to be praised, etc. ",
+                            "uid": "HjOBxvyU8"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103785639,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103785639,
+                            "string": "Refrain from agreeing with them or comparing yourself to their situation, as this can get in the way of your role as the objective listener. ",
+                            "uid": "VL9UY0Agi"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103779593,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103785642,
+                            "string": "Even if you strongly identify with them or have had a similar experience, use what you learned from your situation to question them without mentioning how you learned it.",
+                            "uid": "mfqsOjX5O"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103761136,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104619261,
+                        "refs": [
+                          {
+                            "uid": "WDWCPXHRW"
+                          }
+                        ],
+                        "string": "Remain professional with your client. [[coach proferssional boundary]]",
+                        "uid": "f2CMRBH7U"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103808983,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103808987,
+                        "string": "Friendly means staying objective and enjoying your client. It doesn\u2019t mean sharing and commiserating the way friends do.",
+                        "uid": "nwGpDqogG"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103717483,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608103717483,
+                    "string": "how do you stay friendly and not become a friend? ",
+                    "uid": "h0Cq9mr1s"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608103675103,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608104506730,
+                "string": "BE FRIENDLY, NOT FRIENDS ",
+                "uid": "uKR8iCtcn"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "07Lb0vXGc"
+                  }
+                ],
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103853287,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103853291,
+                        "string": "That doesn\u2019t necessarily mean solving them completely; it means continually working on your personal development and growth.",
+                        "uid": "3uHPt2-sB"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608103903559,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608103903564,
+                            "string": "For instance, if your client is challenged by boundaries, it\u2019s an opportunity to look at your own boundaries and note where some work might be needed.",
+                            "uid": "biCGMQhOD"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103890671,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103890676,
+                        "string": "use your clients\u2019 challenges as a springboard for working on areas you need to focus on.",
+                        "uid": "VyUS0Ei7F"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103842303,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608103856332,
+                    "string": "Becoming truly masterful is to work on your own problems.",
+                    "uid": "b86FO0KYv"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608103830174,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608104582988,
+                "refs": [
+                  {
+                    "uid": "07Lb0vXGc"
+                  }
+                ],
+                "string": "BE YOUR OWN COACH FIRST [[Live Deeply]]",
+                "uid": "uamWR04qM"
+              },
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "AM5J38wph"
+                  }
+                ],
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103932687,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103934827,
+                        "string": "Your client doesn\u2019t need your advice or to hear about something that worked for you.",
+                        "uid": "Fpdzm5H8h"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103934825,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608103947739,
+                    "string": "It\u2019s important to __keep the word I out of the coaching conversation__ as much as possible. ",
+                    "uid": "Z1rJfHzBJ"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Nl3ypV-is"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608103986834,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608103993175,
+                        "string": "For example, your client states, \u201cThe grass is purple.\u201d Instead of contradicting them, ask the question \u201cWhat has you coming to that conclusion?\u201d In other words, don\u2019t make them wrong or set up barriers.",
+                        "uid": "y6RD2vQmT"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608104020103,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608104020103,
+                            "string": "It means you respect their different point of view. ",
+                            "uid": "20wkdjoVn"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608104012703,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608104020106,
+                            "string": "Give them the space to explore their ideas so that you get closer to the root of their beliefs and stories.",
+                            "uid": "BN1C7ywJ8"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608104017529,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104017529,
+                        "string": "Letting them explain doesn\u2019t mean you agree with them. ",
+                        "uid": "K_QwsaHpS"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608103961338,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104659119,
+                    "refs": [
+                      {
+                        "uid": "Nl3ypV-is"
+                      }
+                    ],
+                    "string": "__You may right, but your client is always right.__ [[Embodies a Coaching Mindset]]",
+                    "uid": "oOTkDeDru"
+                  },
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "Nl3ypV-is"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608104066423,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104066423,
+                        "string": "If we try to help or fix them, we are making a judgment that the person is broken. ",
+                        "uid": "qghKVZY9P"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608104070784,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104070784,
+                        "string": "Helping and fixing lead only in one direction; they are draining, and they keep us from serving the dream in other people. ",
+                        "uid": "UI9reuKhj"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608104074671,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104074671,
+                        "string": "They imply that we don\u2019t trust the person\u2019s potential and that we have more expertise. ",
+                        "uid": "uuYb_OLyY"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608104045495,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608104078768,
+                            "string": "We want them to understand that who we are is as important as what we do.",
+                            "uid": "T3BuSYuqf"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608104078765,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104078765,
+                        "string": "A good message for your clients is \u201cYour life matters.\u201d ",
+                        "uid": "Ncq84D7jZ"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608104062656,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104678318,
+                    "refs": [
+                      {
+                        "uid": "Nl3ypV-is"
+                      }
+                    ],
+                    "string": "Our work as coaches is to be of service. [[Embodies a Coaching Mindset]]",
+                    "uid": "gsP9cBZtI"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608104130839,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608104156191,
+                            "string": "They feel more comfortable exploring their deeply held beliefs and perceptions because they know you won\u2019t judge them or force them into anything.",
+                            "uid": "zSWHh_KZD"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608104144522,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608104144522,
+                        "string": "When you\u2019re able to come to session with presence, an open mind, and a commitment to remaining neutral, your clients flourish. ",
+                        "uid": "3HUTyU8zh"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608104102887,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608104105184,
+                    "string": "The coach\u2019s focus is to be of service and to serve clients from our soul and not from our ego.",
+                    "uid": "gyL-vnIwI"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608103917431,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608104652158,
+                "refs": [
+                  {
+                    "uid": "AM5J38wph"
+                  }
+                ],
+                "string": "YOUR EGO AND THE USE OF \u201cI\u201d [[Coach from the soul, not the ego]]",
+                "uid": "ln3_3E9fF"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608102757047,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608104240131,
+            "refs": [
+              {
+                "uid": "79FRbEXVT"
+              }
+            ],
+            "string": "Key elements for developing true coaching presence [[Coaching Presence key elements]]",
+            "uid": "0HB3Xr_-j"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607619543533,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607619567870,
+        "edit-time": 1608104734432,
         "heading": 3,
-        "string": "Chapter 2 - The laser-focused mindset",
+        "refs": [
+          {
+            "uid": "Nl3ypV-is"
+          },
+          {
+            "uid": "S042PQ_BK"
+          }
+        ],
+        "string": "Chapter 2 - The laser-focused mindset [[Maintains Presence]] [[Embodies a Coaching Mindset]]",
         "uid": "0Andqf2wR"
-      },
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607619569192,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607619569192,
-        "string": "",
-        "uid": "-drwA-dDT"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -103302,6 +104300,48 @@
             "edit-time": 1608087517678,
             "string": "In order to learn any skill in a systematic way, it's important to notice main sub-skills that need to focus on as a strong general foundation. There will be some specific skill for certain usages and these skills need to be practice in their own context instead.",
             "uid": "jrr5FeomQ"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608102499625,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608102587130,
+                "string": "Knowledge - the level of understanding - clarity",
+                "uid": "CJ4ihUBgH"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608102546599,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608102595178,
+                "string": "Skills level - how deep I can reach ",
+                "uid": "Gg4o63MaM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608102569793,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608102609428,
+                "string": "The proficiency - flow/ nature level",
+                "uid": "DJkebcFwc"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608102609425,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608102628580,
+                "string": "Creativity - the ability to expand and develop",
+                "uid": "EbYkdVtBT"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608102483127,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608102499629,
+            "string": "Besides that, some important components are",
+            "uid": "nhxDBv2Of"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -103322,5 +104362,61 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1608080001482,
     "title": "December 16th, 2020"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104240133,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104240139,
+    "title": "Coaching Presence key elements"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104296541,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104296542,
+    "title": "Be empty"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104377686,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104377688,
+    "title": "spontaenous"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104388439,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104388440,
+    "title": "regain presence"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104454715,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104454716,
+    "title": "emergence child-like mindset"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104582990,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104582997,
+    "title": "Live Deeply"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104619263,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104619264,
+    "title": "coach proferssional boundary"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608104652160,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608104652160,
+    "title": "Coach from the soul, not the ego"
   }
 ]
