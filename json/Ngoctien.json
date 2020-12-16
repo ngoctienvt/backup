@@ -104478,14 +104478,6 @@
             ],
             "string": "[[@Nguy\u1ec5n M\u1ef9 Linh]] is the person that I want to take care. I'm not totally know why, but I just feel that we have certain special connection, but in the past, I love her because my own needs. But now I just want to take care, support and go through this life together with her. Her happiness is my happiness.",
             "uid": "ojX8ANsNd"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1608117342133,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608117342133,
-            "string": "",
-            "uid": "d5ZknBbin"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -104499,6 +104491,60 @@
         ],
         "string": "I noticed that I'm developing myself in the direction that's taking care of person important with me. It's not my personal needs, it's just that in this journey on earth, there are limited people I can take care with my current ability. And I want to take care them. [[My Life Polestar]]",
         "uid": "b8QUJK-h8"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "CvpeuLZEf"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608117342133,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608119150092,
+        "refs": [
+          {
+            "uid": "CvpeuLZEf"
+          }
+        ],
+        "string": "[[unattachment centering]] is learning to keep the inner environments clean and clear.",
+        "uid": "d5ZknBbin"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "Ex0PdI3mD"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608120012707,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608120013785,
+            "string": "https://carlyanderson.com/coaching-verbally-expressive-clients",
+            "uid": "7_Ak-ZKlf"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608120013780,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608120013780,
+            "string": "",
+            "uid": "eHKQG9OqY"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608119991984,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608120012711,
+        "refs": [
+          {
+            "uid": "Ex0PdI3mD"
+          }
+        ],
+        "string": "[[Articles - Coaching verbally expressive clients]]",
+        "uid": "dJ5hYJQoN"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -104562,5 +104608,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1608104652160,
     "title": "Coach from the soul, not the ego"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608120012711,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608120012712,
+    "title": "Articles - Coaching verbally expressive clients"
   }
 ]

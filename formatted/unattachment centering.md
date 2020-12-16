@@ -41,6 +41,9 @@
 ## [December 14th, 2020](<December 14th, 2020.md>)
 - From interaction with other people, I noticed that there are many things that I'm still have attachment with, and it's influence my ways of interact with new things in life. I feel that's it's better to always keep myself empty and let the moment do itself, if it's require certain things from me actively, then it's my time to express. If not, it's better to merge with the moment and dance with it naturally. [unattachment centering](<unattachment centering.md>)
 
+## [December 16th, 2020](<December 16th, 2020.md>)
+- [unattachment centering](<unattachment centering.md>)
+
 ## [December 3rd, 2020](<December 3rd, 2020.md>)
 - It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [Who am I](<Who am I.md>) [unattachment centering](<unattachment centering.md>)
 
