@@ -104453,6 +104453,52 @@
         ],
         "string": "[[end goal]]",
         "uid": "zt3NpGNyK"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "gsHyJ6_EP"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "UcKrvUeVa"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608117235174,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608117364524,
+            "refs": [
+              {
+                "uid": "UcKrvUeVa"
+              }
+            ],
+            "string": "[[@Nguy\u1ec5n M\u1ef9 Linh]] is the person that I want to take care. I'm not totally know why, but I just feel that we have certain special connection, but in the past, I love her because my own needs. But now I just want to take care, support and go through this life together with her. Her happiness is my happiness.",
+            "uid": "ojX8ANsNd"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608117342133,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608117342133,
+            "string": "",
+            "uid": "d5ZknBbin"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608117121197,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608117235177,
+        "refs": [
+          {
+            "uid": "gsHyJ6_EP"
+          }
+        ],
+        "string": "I noticed that I'm developing myself in the direction that's taking care of person important with me. It's not my personal needs, it's just that in this journey on earth, there are limited people I can take care with my current ability. And I want to take care them. [[My Life Polestar]]",
+        "uid": "b8QUJK-h8"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
