@@ -104355,6 +104355,104 @@
         ],
         "string": "[[Level of expertise]]",
         "uid": "mHTlqE1B2"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "YdaA6oKTR"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608111346228,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608111355506,
+            "string": "There is an object that distract you",
+            "uid": "dQjyfuTle"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608111355503,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608111360378,
+            "string": "There is you that being distract",
+            "uid": "QxTDfcr3a"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608111360375,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608111389735,
+            "string": "There is you that believe that being distract and follow the distraction is normal",
+            "uid": "_Xz3BKpnV"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608111341427,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608111346232,
+        "refs": [
+          {
+            "uid": "YdaA6oKTR"
+          }
+        ],
+        "string": "[[coaching presence]]",
+        "uid": "1UJT3kRMO"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "ikmJJLQsz"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608112274719,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608112286650,
+                "string": "The desire to have experiences",
+                "uid": "HaQvKyjq_"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608112286648,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608112301137,
+                "string": "The desire for unconditional happiness",
+                "uid": "2EIoLeoyM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608112301131,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608112319210,
+                "string": "The desire for sharing unconditional happiness with other people",
+                "uid": "n6ZzyDqvx"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608112262175,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608112383449,
+            "string": "There are 3 main end goals that a soul will have",
+            "uid": "N-feRsSH-"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608112249740,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608112262178,
+        "refs": [
+          {
+            "uid": "ikmJJLQsz"
+          }
+        ],
+        "string": "[[end goal]]",
+        "uid": "zt3NpGNyK"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

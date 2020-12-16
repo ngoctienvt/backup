@@ -5,3 +5,12 @@
         - Skills level - how deep I can reach 
         - The proficiency - flow/ nature level
         - Creativity - the ability to expand and develop
+- [coaching presence](<coaching presence.md>)
+    - There is an object that distract you
+    - There is you that being distract
+    - There is you that believe that being distract and follow the distraction is normal
+- [end goal](<end goal.md>)
+    - There are 3 main end goals that a soul will have
+        - The desire to have experiences
+        - The desire for unconditional happiness
+        - The desire for sharing unconditional happiness with other people

@@ -25,6 +25,9 @@
 
 - While we focus on the tools or the way, we easily lost ourselves and operate ourselves around it, but this is a limited way to live life. Always aim to true [end goal](<end goal.md>)
 
+## [December 16th, 2020](<December 16th, 2020.md>)
+- [end goal](<end goal.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [ ] I want to clean my goal cluster, so that they become [end goal](<end goal.md>)
 
