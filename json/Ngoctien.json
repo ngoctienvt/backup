@@ -96035,144 +96035,226 @@
   {
     "children": [
       {
-        ":block/refs": [
-          {
-            ":block/uid": "S9_DF1TvJ"
-          }
-        ],
         "children": [
           {
+            ":block/refs": [
+              {
+                ":block/uid": "S9_DF1TvJ"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168409123,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168488174,
+                "string": "People who only have knowledge and know about the topic or area that was mentioned.",
+                "uid": "QX2AjuRhz"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607235685855,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168463066,
+                "string": "V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi \u0111\u1ecdc s\u00e1ch hay xem video v\u1ec1 l\u00e0m b\u00e1nh, nh\u01b0ng ch\u01b0a bao gi\u1edd l\u00e0m b\u00e1nh.",
+                "uid": "5WVRx8FOq"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607235685855,
+            "create-time": 1607323794665,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607235685855,
-            "string": "Novice (m\u1edbi ho\u00e0n to\u00e0n): Ng\u01b0\u1eddi h\u1ecdc kh\u00f4ng c\u00f3 kinh nghi\u1ec7m th\u1ef1c t\u1ebf v\u1ec1 ch\u1ee7 \u0111\u1ec1, kh\u00f4ng c\u00f3 ki\u1ebfn th\u1ee9c v\u1ec1 l\u0129nh v\u1ef1c \u0111ang \u0111\u01b0\u1ee3c \u0111\u1ec1 c\u1eadp t\u1edbi ho\u1eb7c ch\u1ec9 c\u00f3 ki\u1ebfn th\u1ee9c qua s\u00e1ch v\u1edf. V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi \u0111\u1ecdc s\u00e1ch hay xem video v\u1ec1 l\u00e0m b\u00e1nh, nh\u01b0ng ch\u01b0a bao gi\u1edd l\u00e0m b\u00e1nh.",
-            "uid": "5WVRx8FOq"
+            "edit-time": 1608168409126,
+            "refs": [
+              {
+                "uid": "S9_DF1TvJ"
+              }
+            ],
+            "string": "[[The Novice Stage]]",
+            "uid": "aab36Phnk"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "SHV9N3w0S"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168470813,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168485740,
+                "string": "People who start to learn and practice about the topic.",
+                "uid": "Ba5GhDNtL"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168493161,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168535057,
+                "string": "They start to notice popular situation, common components but don't have top-down point-of-view yet.",
+                "uid": "xNrrbJvHK"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168602388,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168619247,
+                "string": "They can work on components, but not overall process.",
+                "uid": "_jVq5JXmM"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607235695537,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168546693,
+                "string": "V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi bi\u1ebft nh\u00e0o b\u1ed9t, bi\u1ebft \u0111\u00e1nh tr\u1ee9ng, nh\u01b0ng ch\u01b0a bao gi\u1edd tham gia v\u00e0o qu\u00e1 tr\u00ecnh l\u00e0m b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i.",
+                "uid": "VNGTW_rAH"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323798190,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323810039,
+            "refs": [
+              {
+                "uid": "SHV9N3w0S"
+              }
+            ],
+            "string": "[[The Advanced Beginner Stage]]",
+            "uid": "fFQken1V3"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "06rRvX8yd"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168562763,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168671662,
+                "string": "People who start to able to see the tasks in a big picture with specific goal. ",
+                "uid": "orcl5UY1H"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168595132,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168655642,
+                "string": "They can manage most of the tasks and start to learn to handle complex situation.",
+                "uid": "muiOw3Ltd"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607235700355,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168649588,
+                "string": "V\u00ed d\u1ee5: l\u00fac n\u00e0y m\u1ed9t ng\u01b0\u1eddi \u0111\u00e3 c\u00f3 th\u1ec3 t\u1ef1 l\u00e0m m\u1ed9t c\u00e1i b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i, theo \u0111\u00fang quy tr\u00ecnh, l\u00e0m \u0111\u00fang c\u00e1c b\u01b0\u1edbc, m\u1eb7c d\u00f9 v\u1eabn c\u1ea7n \u00fd ki\u1ebfn c\u1ed1 v\u1ea5n c\u1ee7a ng\u01b0\u1eddi th\u00e0nh th\u1ee5c h\u01a1n m\u00ecnh khi g\u1eb7p kh\u00f3 kh\u0103n; c\u00f3 th\u1ec3 m\u1ed9t v\u00e0i b\u01b0\u1edbc c\u1ea7n s\u1ef1 tinh t\u1ebf trong k\u1ef9 thu\u1eadt th\u00ec v\u1eabn ch\u01b0a l\u00e0m \u0111\u01b0\u1ee3c, ch\u1eb3ng h\u1ea1n nh\u01b0 trang tr\u00ed b\u00e1nh sao cho ngh\u1ec7 thu\u1eadt.",
+                "uid": "J0H0hF-li"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323822564,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323827272,
+            "refs": [
+              {
+                "uid": "06rRvX8yd"
+              }
+            ],
+            "string": "[[The Competent Stage]]",
+            "uid": "iw-dyn9hA"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "inS-KP3eO"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168660210,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168712675,
+                "string": "On this stage, people can look at top-down point-of-view and intuitively know what's truly matter that needs to focus on at the situation.",
+                "uid": "ddGED5fcW"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607235702128,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168721019,
+                "string": "V\u00ed d\u1ee5: l\u00fac n\u00e0y, m\u1ed9t ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 th\u00e0nh th\u1ea1o c\u00e1c b\u01b0\u1edbc l\u00e0m b\u00e1nh v\u00e0 c\u00f3 th\u1ec3 thay \u0111\u1ed5i c\u00e1c b\u01b0\u1edbc m\u1ed9t c\u00e1ch tinh t\u1ebf \u0111\u1ec3 b\u00e1nh ngon h\u01a1n, c\u00f3 th\u1ec3 c\u1eaft gi\u1ea3m quy tr\u00ecnh n\u1ebfu \u0111i\u1ec1u ki\u1ec7n kh\u00f4ng cho ph\u00e9p.",
+                "uid": "fKvML2Rl0"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323827263,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323835333,
+            "refs": [
+              {
+                "uid": "inS-KP3eO"
+              }
+            ],
+            "string": "[[The Proficient Stage]]",
+            "uid": "HnBjy3BUg"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "gmBIaKy8d"
+              }
+            ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168725566,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168770631,
+                "string": "People can grab situation through intuition, and also clearly know how to handle the situation.",
+                "uid": "bdWNt3jnF"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608168786972,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168800596,
+                "string": "They can also start to develop their own way of working.",
+                "uid": "t4c5UiL_9"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1607235676738,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608168780211,
+                "string": "V\u00ed d\u1ee5: l\u00fac n\u00e0y, ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 c\u00f3 b\u00ed quy\u1ebft ri\u00eang c\u1ee7a m\u00ecnh \u0111\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c b\u00e1nh ngon m\u00e0 ng\u01b0\u1eddi kh\u00e1c kh\u00f4ng bi\u1ebft, v\u00e0 c\u00f3 th\u1ec3 s\u00e1ng t\u1ea1o \u0111\u01b0\u1ee3c c\u00f4ng th\u1ee9c l\u00e0m b\u00e1nh c\u1ee7a ri\u00eang m\u00ecnh.",
+                "uid": "fZdhuwcn4"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1607323835325,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1607323838829,
+            "refs": [
+              {
+                "uid": "gmBIaKy8d"
+              }
+            ],
+            "string": "[[The Expert Stage]]",
+            "uid": "YbG3dNZ2m"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607323794665,
+        "create-time": 1608168385325,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607323798206,
-        "refs": [
-          {
-            "uid": "S9_DF1TvJ"
-          }
-        ],
-        "string": "[[The Novice Stage]]",
-        "uid": "aab36Phnk"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "SHV9N3w0S"
-          }
-        ],
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607235695537,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607235695537,
-            "string": "(Advanced) Beginner (b\u1eaft \u0111\u1ea7u th\u1ef1c h\u00e0nh): L\u01b0u \u00fd l\u00e0 m\u1ed9t s\u1ed1 t\u00e0i li\u1ec7u s\u1eed d\u1ee5ng thu\u1eadt ng\u1eef \u201cBeginner\u201d, m\u1ed9t s\u1ed1 t\u00e0i li\u1ec7u s\u1eed d\u1ee5ng thu\u1eadt ng\u1eef \u201cAdvanced Beginner\u201d, th\u1ef1c ch\u1ea5t hai thu\u1eadt ng\u1eef n\u00e0y m\u00f4 t\u1ea3 c\u00f9ng m\u1ed9t c\u1ea5p b\u1eadc. L\u00fac n\u00e0y, ng\u01b0\u1eddi h\u1ecdc b\u1eaft \u0111\u1ea7u nh\u1eadn bi\u1ebft \u0111\u01b0\u1ee3c nh\u1eefng t\u00ecnh hu\u1ed1ng ph\u1ed5 bi\u1ebfn, nh\u1eefng th\u00e0nh ph\u1ea7n th\u01b0\u1eddng g\u1eb7p c\u1ee7a l\u0129nh v\u1ef1c nh\u01b0ng kh\u00f4ng c\u00f3 c\u1ea5u tr\u00fac t\u1ed5ng qu\u00e1t. Ng\u01b0\u1eddi h\u1ecdc c\u00f3 th\u1ec3 \u0111\u1ea3m nhi\u1ec7m m\u1ed9t ph\u1ea7n ho\u1eb7c b\u01b0\u1edbc nh\u1ecf trong to\u00e0n b\u1ed9 nhi\u1ec7m v\u1ee5 l\u1edbn, nh\u01b0ng ch\u01b0a c\u00f3 c\u00e1i nh\u00ecn \u0111\u1ea7y \u0111\u1ee7 v\u1ec1 nhi\u1ec7m v\u1ee5 l\u1edbn. V\u00ed d\u1ee5: m\u1ed9t ng\u01b0\u1eddi bi\u1ebft nh\u00e0o b\u1ed9t, bi\u1ebft \u0111\u00e1nh tr\u1ee9ng, nh\u01b0ng ch\u01b0a bao gi\u1edd tham gia v\u00e0o qu\u00e1 tr\u00ecnh l\u00e0m b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i.",
-            "uid": "VNGTW_rAH"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607323798190,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607323810039,
-        "refs": [
-          {
-            "uid": "SHV9N3w0S"
-          }
-        ],
-        "string": "[[The Advanced Beginner Stage]]",
-        "uid": "fFQken1V3"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "06rRvX8yd"
-          }
-        ],
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607235700355,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607235700355,
-            "string": "Competent (\u0111\u1ee7 n\u0103ng l\u1ef1c): B\u1eaft \u0111\u1ea7u nh\u00ecn nh\u1eadn c\u00e1c nhi\u1ec7m v\u1ee5 trong m\u1ed9t t\u1ed5ng th\u1ec3 c\u00f3 m\u1ee5c ti\u00eau chung, c\u00f3 th\u1ec3 \u0111\u1ea3m nhi\u1ec7m ph\u1ea7n l\u1edbn c\u00e1c nhi\u1ec7m v\u1ee5, x\u1eed l\u00fd \u0111\u01b0\u1ee3c nh\u1eefng t\u00ecnh hu\u1ed1ng ph\u1ee9c t\u1ea1p. V\u00ed d\u1ee5: l\u00fac n\u00e0y m\u1ed9t ng\u01b0\u1eddi \u0111\u00e3 c\u00f3 th\u1ec3 t\u1ef1 l\u00e0m m\u1ed9t c\u00e1i b\u00e1nh t\u1eeb \u0111\u1ea7u t\u1edbi cu\u1ed1i, theo \u0111\u00fang quy tr\u00ecnh, l\u00e0m \u0111\u00fang c\u00e1c b\u01b0\u1edbc, m\u1eb7c d\u00f9 v\u1eabn c\u1ea7n \u00fd ki\u1ebfn c\u1ed1 v\u1ea5n c\u1ee7a ng\u01b0\u1eddi th\u00e0nh th\u1ee5c h\u01a1n m\u00ecnh khi g\u1eb7p kh\u00f3 kh\u0103n; c\u00f3 th\u1ec3 m\u1ed9t v\u00e0i b\u01b0\u1edbc c\u1ea7n s\u1ef1 tinh t\u1ebf trong k\u1ef9 thu\u1eadt th\u00ec v\u1eabn ch\u01b0a l\u00e0m \u0111\u01b0\u1ee3c, ch\u1eb3ng h\u1ea1n nh\u01b0 trang tr\u00ed b\u00e1nh sao cho ngh\u1ec7 thu\u1eadt.",
-            "uid": "J0H0hF-li"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607323822564,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607323827272,
-        "refs": [
-          {
-            "uid": "06rRvX8yd"
-          }
-        ],
-        "string": "[[The Competent Stage]]",
-        "uid": "iw-dyn9hA"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "inS-KP3eO"
-          }
-        ],
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607235702128,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607235702128,
-            "string": "Proficient (th\u00e0nh th\u1ee5c): Nh\u00ecn nh\u1eadn t\u00ecnh hu\u1ed1ng nh\u01b0 m\u1ed9t b\u1ee9c tranh to\u00e0n c\u1ea3nh thay v\u00ec c\u00e1c th\u00e0nh ph\u1ea7n nh\u1ecf c\u1ed9ng l\u1ea1i, c\u00f3 th\u1ec3 t\u1ef1 v\u1eadn h\u00e0nh m\u00e0 kh\u00f4ng c\u1ea7n ai c\u1ed1 v\u1ea5n, ra quy\u1ebft \u0111\u1ecbnh nhanh ch\u00f3ng. V\u00ed d\u1ee5: l\u00fac n\u00e0y, m\u1ed9t ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 th\u00e0nh th\u1ea1o c\u00e1c b\u01b0\u1edbc l\u00e0m b\u00e1nh v\u00e0 c\u00f3 th\u1ec3 thay \u0111\u1ed5i c\u00e1c b\u01b0\u1edbc m\u1ed9t c\u00e1ch tinh t\u1ebf \u0111\u1ec3 b\u00e1nh ngon h\u01a1n, c\u00f3 th\u1ec3 c\u1eaft gi\u1ea3m quy tr\u00ecnh n\u1ebfu \u0111i\u1ec1u ki\u1ec7n kh\u00f4ng cho ph\u00e9p.",
-            "uid": "fKvML2Rl0"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607323827263,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607323835333,
-        "refs": [
-          {
-            "uid": "inS-KP3eO"
-          }
-        ],
-        "string": "[[The Proficient Stage]]",
-        "uid": "HnBjy3BUg"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "gmBIaKy8d"
-          }
-        ],
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1607235676738,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1607235703357,
-            "string": "Expert (chuy\u00ean gia): Nh\u00ecn nh\u1eadn t\u00ecnh hu\u1ed1ng qua tr\u1ef1c gi\u00e1c v\u00e0 n\u1eafm b\u1eaft ch\u00ednh x\u00e1c ngu\u1ed3n g\u1ed1c c\u1ee7a v\u1ea5n \u0111\u1ec1, nh\u00ecn nh\u1eadn \u0111\u01b0\u1ee3c b\u1ee9c tranh to\u00e0n c\u1ea3nh v\u00e0 c\u1ea3 nh\u1eefng ph\u01b0\u01a1ng \u00e1n kh\u00e1c v\u1ec1 nh\u1eefng g\u00ec c\u00f3 th\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c \u0111\u1ec3 gi\u1ea3i quy\u1ebft v\u1ea5n \u0111\u1ec1. V\u00ed d\u1ee5: l\u00fac n\u00e0y, ng\u01b0\u1eddi l\u00e0m b\u00e1nh \u0111\u00e3 c\u00f3 b\u00ed quy\u1ebft ri\u00eang c\u1ee7a m\u00ecnh \u0111\u1ec3 l\u00e0m \u0111\u01b0\u1ee3c b\u00e1nh ngon m\u00e0 ng\u01b0\u1eddi kh\u00e1c kh\u00f4ng bi\u1ebft, v\u00e0 c\u00f3 th\u1ec3 s\u00e1ng t\u1ea1o \u0111\u01b0\u1ee3c c\u00f4ng th\u1ee9c l\u00e0m b\u00e1nh c\u1ee7a ri\u00eang m\u00ecnh.",
-            "uid": "fZdhuwcn4"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1607323835325,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607323838829,
-        "refs": [
-          {
-            "uid": "gmBIaKy8d"
-          }
-        ],
-        "string": "[[The Expert Stage]]",
-        "uid": "YbG3dNZ2m"
+        "edit-time": 1608168395921,
+        "string": "Level of expertise",
+        "uid": "ZocBUabbE"
       },
       {
         ":block/refs": [
@@ -102417,6 +102499,609 @@
         ],
         "string": "Chapter 2 - The laser-focused mindset [[Maintains Presence]] [[Embodies a Coaching Mindset]]",
         "uid": "0Andqf2wR"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169555913,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169583247,
+                "string": "Our minds take us away from pure listening. It\u2019s natural to fill in the blanks, or have ideas that are not relevant or true, all while someone is talking.",
+                "uid": "LtW_0dQI_"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169567271,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169567271,
+                    "string": "You might miss important information. ",
+                    "uid": "OXMM8kg93"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169569080,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169569080,
+                    "string": "You can lose patience and want to jump right to a solution. ",
+                    "uid": "POtyrulKO"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169578563,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169578563,
+                    "string": "You could feel embarrassed that you haven\u2019t really been listening deeply and want to say something you think is brilliant to prove that you\u2019ve been paying attention after all. ",
+                    "uid": "8yybmS-S2"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169562489,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169578568,
+                    "string": "You could get distracted and go off on a tangent.",
+                    "uid": "CkycO4XUs"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169565138,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169565138,
+                "string": "When you\u2019re not really listening: ",
+                "uid": "34O4Tdfyv"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608169634799,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608169634799,
+                        "string": "Does she want to work on this, or she is just venting? ",
+                        "uid": "T2u20_Iqi"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608169637367,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608169637367,
+                        "string": "Where did this come from? ",
+                        "uid": "LcrsgpA1X"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608169640327,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608169640327,
+                        "string": "How does this fit with what we talked about last week? ",
+                        "uid": "teDv3qYZs"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608169643757,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608169643757,
+                        "string": "Oh, gosh, my mom does the same thing! It\u2019s so annoying. ",
+                        "uid": "Kvx6Qxn3-"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169632639,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169632639,
+                    "string": "Many coaches will start to think things like: ",
+                    "uid": "NRrPQ7mmP"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169625785,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169643759,
+                    "string": "All of these thoughts drive your attention away from Suzanne and make it difficult to listen deeply.",
+                    "uid": "sW9c5w8P2"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169629944,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169629944,
+                "string": "Suzanne comes to the session complaining bitterly about her mother. She says her mother calls her every morning, during the workday, and every evening. She laments that she really wants her mother to stop calling so often. ",
+                "uid": "OSQKJ3kUk"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169658713,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169658719,
+                "string": "What is important is that you learn to notice your wandering thoughts, stop them, and then refocus your attention back to listening.",
+                "uid": "7fRuAfXiw"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608169533066,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608169533073,
+            "string": "WHAT GETS IN THE WAY OF DEEP LISTENING?",
+            "uid": "vHctf-A6W"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169685715,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169685724,
+                "string": "The definition of data is information without any editorial or opinion.",
+                "uid": "mPMDSR5wD"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169745818,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169745818,
+                    "string": "Think about your first impressions when meeting someone new. Suppose someone rubs you the wrong way; you\u2019ve already \u201cbanked\u201d a judgment or opinion about them. ",
+                    "uid": "qljRv4SZt"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608169788508,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608169796326,
+                            "string": "That initial data should be simply information with no interpretation. But when Louise becomes a client, and another situation reminds you of this one, you can now go deeper into determining whether or not there is a pattern.",
+                            "uid": "4iK1KT7iR"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608169796314,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608169796314,
+                        "string": "Louise, a potential client, contacts you through email. She asks you to call her but doesn\u2019t provide a phone number. The omission could be immediately stored as \u201ccareless,\u201d \u201coverwhelmed,\u201d or \u201canxious,\u201d but it could have simply been an oversight. ",
+                        "uid": "oBtIX44J-"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608169874645,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608169874645,
+                            "string": "Pay attention \u2014 you\u2019re already collecting important data. ",
+                            "uid": "L58NgqDEL"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608169878257,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608169878257,
+                            "string": "Without getting hooked or making any judgment, once the relationship is underway you can address this when/if you hear him launching into details before you\u2019ve had a chance to ask what he wants to focus on for the session. ",
+                            "uid": "d_Y1yodQs"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608169851275,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608169894728,
+                            "string": "The first time you hear a client imply they have given up what they want for the sake of some else\u2019s happiness, it\u2019s data. But when you hear it again or there is evidence as they continue, it becomes __data in context that can be questioned__.",
+                            "uid": "oK1ejYGRD"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608169864699,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608169864699,
+                        "string": "Richard, another potential client, contacts you by telephone. He introduces himself, and then before you have a chance to set up an appointment to speak with him, he is talking nonstop about his frustration at work. When he finally takes a breath, he starts asking all sorts of questions about coaching, how much it costs, etc. ",
+                        "uid": "DzRwyf_qi"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169740083,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169745821,
+                    "string": "In coaching especially, you want to take the data and remain completely neutral and detached; it\u2019s just information to be stored.",
+                    "uid": "efSW7sJHS"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169742944,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169742944,
+                "string": "Ascertaining data in your initial contact is extremely helpful over time. ",
+                "uid": "R3As73pTb"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169928254,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169947254,
+                "string": "To maintain neutrality and foster transformation, it\u2019s important to accept anything you learn about your client as simply data and recall it when it\u2019s relevant.",
+                "uid": "CH2GqpuxZ"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170025136,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170078981,
+                            "string": "A client might say, \u201c__I\u2019m having a really horrible time with my boss today,__ but I want to talk about my situation with my mother.\u201d",
+                            "uid": "2IvApG9jK"
+                          },
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608170193531,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608170193531,
+                                "string": "\u201cI can hear how frustrating this must be with your director, and I also heard that you don\u2019t often ask for help. What is that about?\u201d ",
+                                "uid": "00MX3jRxW"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608170196153,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608170196153,
+                                "string": "Ben responded, \u201cI don\u2019t want to be seen as a bad guy, and I\u2019m not convinced that these are problems that need to be talked about.\u201d ",
+                                "uid": "3wkw4vQXy"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608170198833,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608170198833,
+                                "string": "The coach then asked, \u201cWhat might be the connection between not wanting to be seen as a bad guy and the situation with your director?\u201d ",
+                                "uid": "7ggWzgE5I"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608170202240,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608170202240,
+                                "string": "Ben replied, \u201cI\u2019ve always been told that I should keep the peace and not rock the boat.\u201d",
+                                "uid": "cBLJQU9u_"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608170190576,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608170202244,
+                                "string": " The conversation continued until Ben realized that this old message wasn\u2019t serving him in all situations.",
+                                "uid": "7DJycLqLH"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170062659,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170132070,
+                            "string": "Ben, a VP, recently hired a coach. At the coaching session he said, \u201c__I don\u2019t often ask for help.__ Here\u2019s my situation. I\u2019m having problems with one of my direct reports(a director). He doesn\u2019t seem to understand instructions, and I\u2019m finding that I have to follow up far more than is appropriate. I feel like I\u2019m wasting so much valuable time making sure he completes things and does them correctly. At this point, my frustration level is boiling over. \u201d",
+                            "uid": "FDO9Wy6d7"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170009777,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170137115,
+                        "string": "__People bring things up for a reason.__ Perhaps it\u2019s just something they want to get off their chest or it could be something disturbing them, impacting the other topic they want to discuss.",
+                        "uid": "RMKDyb6xq"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170158019,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170158028,
+                        "string": "There\u2019s a reason behind EVERYTHING a client shares in a coaching session.",
+                        "uid": "Jtqy3akyW"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608169986243,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608169986253,
+                    "string": "When your client makes an offhand comment, it shouldn\u2019t be ignored. Question it, and if they say it\u2019s not important, you can move on.",
+                    "uid": "BplQmrr8m"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608169962803,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608169962811,
+                "string": "EXPLORE OFFHAND COMMENTS",
+                "uid": "4BJ66ULPG"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170235025,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170235031,
+                    "string": "Maintaining neutrality is perhaps the most difficult, but also one of the most important aspects, and it\u2019s at the core of being a true professional.",
+                    "uid": "xAX0Y7lUP"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608170317953,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608170317953,
+                                "string": "For example, let\u2019s say your client has been talking for quite a long time without pause. Instead of trying to make them see that their behavior is impacting you, or sharing your frustration (even unconsciously, such as in the emotion behind your words).",
+                                "uid": "ytUTMrTuv"
+                              },
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608170306496,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608170319594,
+                                "string": "You might say something like \u201cI\u2019ve been listening to you for a long time now, and there is so much detail it\u2019s really hard to stay focused. What do you think when you hear this?\u201d",
+                                "uid": "a9CGQ9VHo"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170255761,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170278628,
+                            "string": "See your sharing as simply a point to be made .",
+                            "uid": "OKkd9owzc"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170344136,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170344141,
+                            "string": "This approach allows you to just share what you noticed and then give the choice of response to your client. It presents factual, objective information \u2014 the data \u2014 and allows them to decide where to go next.",
+                            "uid": "h7USbJpY5"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170274184,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170274184,
+                        "string": "The key is that whatever you share and whatever you question cannot have a \u201ccharge,\u201d meaning it should have no emotion or opinion behind it. ",
+                        "uid": "1YhYlna9s"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170258674,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170258674,
+                    "string": "Where is the line between authentic response and neutrality? ",
+                    "uid": "PrwgJoDcL"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170419640,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170419640,
+                        "string": "Approach each coaching conversation as a fresh blank slate. ",
+                        "uid": "_-hZHfS4n"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170462873,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170462880,
+                            "string": "For example, you might recall something stated in a prior conversation that seems to contradict what they\u2019re saying now.",
+                            "uid": "ayHZfr6GR"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170413632,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170419644,
+                        "string": "If needed, you can go back to your databank and ask a question about something you observed over time or heard in a prior conversation, but only if that seems appropriate in the moment.",
+                        "uid": "ZmAPIsipP"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170416249,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170416249,
+                    "string": "How do you balance all the data you\u2019ve gathered about your client and still show up completely neutral?",
+                    "uid": "ctClTWHPG"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608170212019,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608170221545,
+                "string": "MAINTAIN NEUTRALITY",
+                "uid": "nbhWN50o7"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170497049,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170497049,
+                    "string": "1) Why are they telling me this?",
+                    "uid": "mwOQlfqeu"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170481530,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170498558,
+                    "string": "2) What\u2019s making this a problem for this person?",
+                    "uid": "8-vc9mN3p"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170545963,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170545963,
+                            "string": "Focus on your client, not the story being shared ",
+                            "uid": "lxtF9ngBV"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170548952,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170548952,
+                            "string": "Recognize their emotional state while learning how they think and process information ",
+                            "uid": "UqpCkT9nv"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170550967,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170550967,
+                            "string": "Stay curious without being nosey about the details ",
+                            "uid": "4nMsRo7Kk"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170553351,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170553351,
+                            "string": "Listen for what is not being said or what is underneath the words ",
+                            "uid": "TyOHpuyKs"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608170535954,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608170553353,
+                            "string": "Discover opportunities to ask questions that expand your client\u2019s thinking",
+                            "uid": "UxnyqcEO9"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170543744,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170543744,
+                        "string": "They will help you: ",
+                        "uid": "bPuTF2g6B"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170540386,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170540386,
+                    "string": "They are designed to help you be more curious about the person, sustain your focus, and really listen to understand what the underlying problem or \u201cfaulty thinking\u201d is for your client. ",
+                    "uid": "JE2vXsdyO"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170590937,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170590945,
+                        "string": "Imagine if the coach was curious and wondered why Jerry was so invested in an argument that didn\u2019t involve him? What was his point in going into so much detail? Thinking about \u201cWhy is he telling me this?\u201d and \u201cWhat is making this a problem for him?\u201d could have led to questions to help Jerry explore the feelings, threats, or issues the argument created for him.",
+                        "uid": "H6xZ8DuCz"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170590937,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170590945,
+                        "string": "(Page 41). ",
+                        "uid": "imKWCq8cH"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170570914,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170570919,
+                    "string": "Jerry told an involved story about an argument between two of his coworkers during a staff meeting. He spoke about the intensity between the two of them and how each one would not back down on their point of view. He mentioned that when people tried to intervene, they ignored them and kept arguing.",
+                    "uid": "bCYdD-FrH"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170615721,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170615721,
+                        "string": "The coach said, \u201cIt sounds like very deep disappointment and seems like a person who put all of their eggs in one basket. What comes up hearing that?\u201d ",
+                        "uid": "46eMPeT-t"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170620791,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170620791,
+                        "string": "Patricia was silent for quite some time before saying, \u201cYou are right and hearing that, I realize I didn\u2019t plan well at all for something so important to me.\u201d ",
+                        "uid": "tve5YAzSp"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170602777,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170620794,
+                        "string": "By the end of the conversation, Patricia felt empowered and altered her negative, limited trajectory, and planned to consult with her CPA and get creative accounting advice. (Soon after, she was able to cobble the funds together to fulfill her dream.)",
+                        "uid": "-eyCLot-2"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608170649160,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608170649166,
+                        "string": "If I had asked, \u201cWhat will it mean for you to give up your dream?\u201d it may have led to a downward spiral because I was buying into the story that Patricia messed up and can\u2019t do what she really wants.",
+                        "uid": "czJRnFlGU"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608170607426,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608170607426,
+                    "string": "Patricia was hoping to go on a medical mission. In fact, it had been her long-term dream. She said, \u201cI\u2019ve been counting on funds from a real estate deal to provide the financing. However, after all of the unexpected transaction fees, I received only about ten percent of what I had calculated. I\u2019m so devastated, and I think I have to give up on my dream.\u201d ",
+                    "uid": "QHpbNbjTb"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608170491472,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608170491472,
+                "string": "HOLD IN MIND TWO CRITICAL QUESTIONS ",
+                "uid": "ejYqU-Juu"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608169662005,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608169671798,
+            "string": "COLLECT DATA",
+            "uid": "3--OHvtBC"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608169499608,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608169510866,
+        "heading": 3,
+        "string": "Chapter 3 - Listen with new intent",
+        "uid": "EKkkDbcQi"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -104640,6 +105325,9 @@
       {
         ":block/refs": [
           {
+            ":block/uid": "krTm43NY3"
+          },
+          {
             ":block/uid": "f44sEutNT"
           }
         ],
@@ -104904,13 +105592,16 @@
           }
         ],
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1608166370995,
+        "edit-time": 1608167212911,
         "refs": [
+          {
+            "uid": "krTm43NY3"
+          },
           {
             "uid": "f44sEutNT"
           }
         ],
-        "string": "[Coaching verbally expressive clients \u2013 ICF Credentialing Coach | Mentor Coach | Coach to the Coaches | Carly Anderson, MCC |](https://carlyanderson.com/coaching-verbally-expressive-clients) #[[Roam-Highlights]]",
+        "string": "[Coaching verbally expressive clients \u2013 ICF Credentialing Coach | Mentor Coach | Coach to the Coaches | Carly Anderson, MCC |](https://carlyanderson.com/coaching-verbally-expressive-clients) #[[Roam-Highlights]] [[Listens Actively]]",
         "uid": "beFuRa8Ci"
       }
     ],
@@ -104971,6 +105662,24 @@
         ],
         "string": "Today I will have a chat with [[@Nguy\u1ec5n M\u1ef9 Linh]]. And I want to take less time to talk about myself, but rather relax, conscious at the moment and let myself embrace her. And let my inner shakti do the work to take care of her, respect her, give her space for growth.",
         "uid": "RoIRpQgYp"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "t_Xwlj5Hq"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608167419220,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608167490302,
+        "refs": [
+          {
+            "uid": "t_Xwlj5Hq"
+          }
+        ],
+        "string": "I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [[level of thinking]]",
+        "uid": "2gQQJAQVs"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

@@ -24,6 +24,9 @@
 
 - The [level of thinking](<level of thinking.md>)
 
+## [December 17th, 2020](<December 17th, 2020.md>)
+- I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [level of thinking](<level of thinking.md>)
+
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [level of thinking](<level of thinking.md>)
 

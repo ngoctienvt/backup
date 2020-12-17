@@ -1,13 +1,23 @@
-- [[The Novice Stage]]
-    - Novice (mới hoàn toàn): Người học không có kinh nghiệm thực tế về chủ đề, không có kiến thức về lĩnh vực đang được đề cập tới hoặc chỉ có kiến thức qua sách vở. Ví dụ: một người đọc sách hay xem video về làm bánh, nhưng chưa bao giờ làm bánh.
-- [[The Advanced Beginner Stage]]
-    - (Advanced) Beginner (bắt đầu thực hành): Lưu ý là một số tài liệu sử dụng thuật ngữ “Beginner”, một số tài liệu sử dụng thuật ngữ “Advanced Beginner”, thực chất hai thuật ngữ này mô tả cùng một cấp bậc. Lúc này, người học bắt đầu nhận biết được những tình huống phổ biến, những thành phần thường gặp của lĩnh vực nhưng không có cấu trúc tổng quát. Người học có thể đảm nhiệm một phần hoặc bước nhỏ trong toàn bộ nhiệm vụ lớn, nhưng chưa có cái nhìn đầy đủ về nhiệm vụ lớn. Ví dụ: một người biết nhào bột, biết đánh trứng, nhưng chưa bao giờ tham gia vào quá trình làm bánh từ đầu tới cuối.
-- [[The Competent Stage]]
-    - Competent (đủ năng lực): Bắt đầu nhìn nhận các nhiệm vụ trong một tổng thể có mục tiêu chung, có thể đảm nhiệm phần lớn các nhiệm vụ, xử lý được những tình huống phức tạp. Ví dụ: lúc này một người đã có thể tự làm một cái bánh từ đầu tới cuối, theo đúng quy trình, làm đúng các bước, mặc dù vẫn cần ý kiến cố vấn của người thành thục hơn mình khi gặp khó khăn; có thể một vài bước cần sự tinh tế trong kỹ thuật thì vẫn chưa làm được, chẳng hạn như trang trí bánh sao cho nghệ thuật.
-- [[The Proficient Stage]]
-    - Proficient (thành thục): Nhìn nhận tình huống như một bức tranh toàn cảnh thay vì các thành phần nhỏ cộng lại, có thể tự vận hành mà không cần ai cố vấn, ra quyết định nhanh chóng. Ví dụ: lúc này, một người làm bánh đã thành thạo các bước làm bánh và có thể thay đổi các bước một cách tinh tế để bánh ngon hơn, có thể cắt giảm quy trình nếu điều kiện không cho phép.
-- [[The Expert Stage]]
-    - Expert (chuyên gia): Nhìn nhận tình huống qua trực giác và nắm bắt chính xác nguồn gốc của vấn đề, nhìn nhận được bức tranh toàn cảnh và cả những phương án khác về những gì có thể làm được để giải quyết vấn đề. Ví dụ: lúc này, người làm bánh đã có bí quyết riêng của mình để làm được bánh ngon mà người khác không biết, và có thể sáng tạo được công thức làm bánh của riêng mình.
+- Level of expertise
+    - [[The Novice Stage]]
+        - People who only have knowledge and know about the topic or area that was mentioned.
+        - Ví dụ: một người đọc sách hay xem video về làm bánh, nhưng chưa bao giờ làm bánh.
+    - [[The Advanced Beginner Stage]]
+        - People who start to learn and practice about the topic.
+        - They start to notice popular situation, common components but don't have top-down point-of-view yet.
+        - They can work on components, but not overall process.
+        - Ví dụ: một người biết nhào bột, biết đánh trứng, nhưng chưa bao giờ tham gia vào quá trình làm bánh từ đầu tới cuối.
+    - [[The Competent Stage]]
+        - People who start to able to see the tasks in a big picture with specific goal. 
+        - They can manage most of the tasks and start to learn to handle complex situation.
+        - Ví dụ: lúc này một người đã có thể tự làm một cái bánh từ đầu tới cuối, theo đúng quy trình, làm đúng các bước, mặc dù vẫn cần ý kiến cố vấn của người thành thục hơn mình khi gặp khó khăn; có thể một vài bước cần sự tinh tế trong kỹ thuật thì vẫn chưa làm được, chẳng hạn như trang trí bánh sao cho nghệ thuật.
+    - [[The Proficient Stage]]
+        - On this stage, people can look at top-down point-of-view and intuitively know what's truly matter that needs to focus on at the situation.
+        - Ví dụ: lúc này, một người làm bánh đã thành thạo các bước làm bánh và có thể thay đổi các bước một cách tinh tế để bánh ngon hơn, có thể cắt giảm quy trình nếu điều kiện không cho phép.
+    - [[The Expert Stage]]
+        - People can grab situation through intuition, and also clearly know how to handle the situation.
+        - They can also start to develop their own way of working.
+        - Ví dụ: lúc này, người làm bánh đã có bí quyết riêng của mình để làm được bánh ngon mà người khác không biết, và có thể sáng tạo được công thức làm bánh của riêng mình.
 - [[How to Go from Novice to Expert]]
 - Resources
     - ![Displaying S2 - Novice to Expert 2.jpg](https://drive.google.com/thumbnail?id=108oF3-S2xQOBUK0I5vK7jm0GA29IxZUW&authuser=0&sz=w1813-h915)

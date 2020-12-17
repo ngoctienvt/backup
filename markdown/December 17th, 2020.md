@@ -3,3 +3,4 @@
 - What I need to focus on is not myself, my career, or the person, I need to focus on release my internal stuff so that I don't have to protect these personal stuff, and put the people I care about above them.
 - Last night, I dream and notice that I want to win and hate to lose, this is because I'm so identified with my need of recognition but forget that's what's important is the person, not my stuff.
 - Today I will have a chat with [[@Nguyễn Mỹ Linh]]. And I want to take less time to talk about myself, but rather relax, conscious at the moment and let myself embrace her. And let my inner shakti do the work to take care of her, respect her, give her space for growth.
+- I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [[level of thinking]]

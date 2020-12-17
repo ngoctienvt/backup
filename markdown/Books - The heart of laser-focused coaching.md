@@ -204,3 +204,72 @@
             - The coach’s focus is to be of service and to serve clients from our soul and not from our ego.
                 - When you’re able to come to session with presence, an open mind, and a commitment to remaining neutral, your clients flourish. 
                     - They feel more comfortable exploring their deeply held beliefs and perceptions because they know you won’t judge them or force them into anything.
+- ### Chapter 3 - Listen with new intent
+    - WHAT GETS IN THE WAY OF DEEP LISTENING?
+        - Our minds take us away from pure listening. It’s natural to fill in the blanks, or have ideas that are not relevant or true, all while someone is talking.
+        - When you’re not really listening: 
+            - You might miss important information. 
+            - You can lose patience and want to jump right to a solution. 
+            - You could feel embarrassed that you haven’t really been listening deeply and want to say something you think is brilliant to prove that you’ve been paying attention after all. 
+            - You could get distracted and go off on a tangent.
+        - Suzanne comes to the session complaining bitterly about her mother. She says her mother calls her every morning, during the workday, and every evening. She laments that she really wants her mother to stop calling so often. 
+            - Many coaches will start to think things like: 
+                - Does she want to work on this, or she is just venting? 
+                - Where did this come from? 
+                - How does this fit with what we talked about last week? 
+                - Oh, gosh, my mom does the same thing! It’s so annoying. 
+            - All of these thoughts drive your attention away from Suzanne and make it difficult to listen deeply.
+        - What is important is that you learn to notice your wandering thoughts, stop them, and then refocus your attention back to listening.
+    - COLLECT DATA
+        - The definition of data is information without any editorial or opinion.
+        - Ascertaining data in your initial contact is extremely helpful over time. 
+            - Think about your first impressions when meeting someone new. Suppose someone rubs you the wrong way; you’ve already “banked” a judgment or opinion about them. 
+            - In coaching especially, you want to take the data and remain completely neutral and detached; it’s just information to be stored.
+                - Louise, a potential client, contacts you through email. She asks you to call her but doesn’t provide a phone number. The omission could be immediately stored as “careless,” “overwhelmed,” or “anxious,” but it could have simply been an oversight. 
+                    - That initial data should be simply information with no interpretation. But when Louise becomes a client, and another situation reminds you of this one, you can now go deeper into determining whether or not there is a pattern.
+                - Richard, another potential client, contacts you by telephone. He introduces himself, and then before you have a chance to set up an appointment to speak with him, he is talking nonstop about his frustration at work. When he finally takes a breath, he starts asking all sorts of questions about coaching, how much it costs, etc. 
+                    - Pay attention — you’re already collecting important data. 
+                    - Without getting hooked or making any judgment, once the relationship is underway you can address this when/if you hear him launching into details before you’ve had a chance to ask what he wants to focus on for the session. 
+                    - The first time you hear a client imply they have given up what they want for the sake of some else’s happiness, it’s data. But when you hear it again or there is evidence as they continue, it becomes __data in context that can be questioned__.
+        - To maintain neutrality and foster transformation, it’s important to accept anything you learn about your client as simply data and recall it when it’s relevant.
+        - EXPLORE OFFHAND COMMENTS
+            - When your client makes an offhand comment, it shouldn’t be ignored. Question it, and if they say it’s not important, you can move on.
+                - __People bring things up for a reason.__ Perhaps it’s just something they want to get off their chest or it could be something disturbing them, impacting the other topic they want to discuss.
+                    - A client might say, “__I’m having a really horrible time with my boss today,__ but I want to talk about my situation with my mother.”
+                    - Ben, a VP, recently hired a coach. At the coaching session he said, “__I don’t often ask for help.__ Here’s my situation. I’m having problems with one of my direct reports(a director). He doesn’t seem to understand instructions, and I’m finding that I have to follow up far more than is appropriate. I feel like I’m wasting so much valuable time making sure he completes things and does them correctly. At this point, my frustration level is boiling over. ”
+                        - “I can hear how frustrating this must be with your director, and I also heard that you don’t often ask for help. What is that about?” 
+                        - Ben responded, “I don’t want to be seen as a bad guy, and I’m not convinced that these are problems that need to be talked about.” 
+                        - The coach then asked, “What might be the connection between not wanting to be seen as a bad guy and the situation with your director?” 
+                        - Ben replied, “I’ve always been told that I should keep the peace and not rock the boat.”
+                        -  The conversation continued until Ben realized that this old message wasn’t serving him in all situations.
+                - There’s a reason behind EVERYTHING a client shares in a coaching session.
+        - MAINTAIN NEUTRALITY
+            - Maintaining neutrality is perhaps the most difficult, but also one of the most important aspects, and it’s at the core of being a true professional.
+            - Where is the line between authentic response and neutrality? 
+                - The key is that whatever you share and whatever you question cannot have a “charge,” meaning it should have no emotion or opinion behind it. 
+                    - See your sharing as simply a point to be made .
+                        - For example, let’s say your client has been talking for quite a long time without pause. Instead of trying to make them see that their behavior is impacting you, or sharing your frustration (even unconsciously, such as in the emotion behind your words).
+                        - You might say something like “I’ve been listening to you for a long time now, and there is so much detail it’s really hard to stay focused. What do you think when you hear this?”
+                    - This approach allows you to just share what you noticed and then give the choice of response to your client. It presents factual, objective information — the data — and allows them to decide where to go next.
+            - How do you balance all the data you’ve gathered about your client and still show up completely neutral?
+                - Approach each coaching conversation as a fresh blank slate. 
+                - If needed, you can go back to your databank and ask a question about something you observed over time or heard in a prior conversation, but only if that seems appropriate in the moment.
+                    - For example, you might recall something stated in a prior conversation that seems to contradict what they’re saying now.
+        - HOLD IN MIND TWO CRITICAL QUESTIONS 
+            - 1) Why are they telling me this?
+            - 2) What’s making this a problem for this person?
+            - They are designed to help you be more curious about the person, sustain your focus, and really listen to understand what the underlying problem or “faulty thinking” is for your client. 
+                - They will help you: 
+                    - Focus on your client, not the story being shared 
+                    - Recognize their emotional state while learning how they think and process information 
+                    - Stay curious without being nosey about the details 
+                    - Listen for what is not being said or what is underneath the words 
+                    - Discover opportunities to ask questions that expand your client’s thinking
+            - Jerry told an involved story about an argument between two of his coworkers during a staff meeting. He spoke about the intensity between the two of them and how each one would not back down on their point of view. He mentioned that when people tried to intervene, they ignored them and kept arguing.
+                - Imagine if the coach was curious and wondered why Jerry was so invested in an argument that didn’t involve him? What was his point in going into so much detail? Thinking about “Why is he telling me this?” and “What is making this a problem for him?” could have led to questions to help Jerry explore the feelings, threats, or issues the argument created for him.
+                - (Page 41). 
+            - Patricia was hoping to go on a medical mission. In fact, it had been her long-term dream. She said, “I’ve been counting on funds from a real estate deal to provide the financing. However, after all of the unexpected transaction fees, I received only about ten percent of what I had calculated. I’m so devastated, and I think I have to give up on my dream.” 
+                - The coach said, “It sounds like very deep disappointment and seems like a person who put all of their eggs in one basket. What comes up hearing that?” 
+                - Patricia was silent for quite some time before saying, “You are right and hearing that, I realize I didn’t plan well at all for something so important to me.” 
+                - By the end of the conversation, Patricia felt empowered and altered her negative, limited trajectory, and planned to consult with her CPA and get creative accounting advice. (Soon after, she was able to cobble the funds together to fulfill her dream.)
+                - If I had asked, “What will it mean for you to give up your dream?” it may have led to a downward spiral because I was buying into the story that Patricia messed up and can’t do what she really wants.
