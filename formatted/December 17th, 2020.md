@@ -22,6 +22,9 @@
 - [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
     - The role of [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) is nurture and gather necessary materials, especially the quality one.
     - The role [🌲Top-down Processing](<🌲Top-down Processing.md>) is making products from the materials gathered, while nurture new things for new products or projects.
+        - The importance on this is focus on who I can truly serve and serve in my best as possible for these audiences. Maybe I can serve more later but do in my ability first and let things unfold.
     - This is a circle of learning that we become better at create better products over time by improving the quality of materials as well as the skills to create quality products.
-    - It's important to release the fear of waste because there is nothing waste. It's all serving for the learning and development process, while contributing to the world as the same time.
-        - We are all on a part of a big kindergarten that's the main purpose for us are learning. 
+- It's important to release the fear of waste because there is nothing waste. It's all serving for the learning and development process, while contributing to the world as the same time. [fear of waste](<fear of waste.md>)
+    - We are all on a part of a big kindergarten that's the main purpose for us are learning. Therefore, we have the right to be wrong, to be ineffective, to be waste, as long as we can learn and grow. Of course, sometimes we have pressure to learn faster and need to be creative, but anyway, there are nothing wrong, only lessons in the end.
+    - The reason is there are too many misleading beliefs that took us the right to be ourselves and to be do the main learning purpose. It creates unnecessary fear and boundaries that leads us further what we truly meant to be. [false belief](<false belief.md>)
+- 

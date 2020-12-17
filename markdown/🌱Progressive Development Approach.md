@@ -1,5 +1,6 @@
-- ### Progressive Development Approach
+- # Progressive Development Approach
     - an approach for natural and effortless personal and professional development
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F5f2iATDWpV.jpg?alt=media&token=4ea68d8a-2dc4-4cd3-b157-13780c42e444)
 - ### Why?
     - stress-free
     - [[sustainable development]]

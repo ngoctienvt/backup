@@ -4720,23 +4720,6 @@
     "title": "Morning Rituals MOC"
   },
   {
-    "children": [
-      {
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1601994992854,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1601994992854,
-        "string": "",
-        "uid": "-VGNRaLfj"
-      }
-    ],
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1600126420005,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1601995004298,
-    "title": "Untitled"
-  },
-  {
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1600127540088,
     "edit-email": "ngoctienvt@gmail.com",
@@ -20652,15 +20635,23 @@
             "edit-time": 1606821961232,
             "string": "an approach for natural and effortless personal and professional development",
             "uid": "isKAIZ2U6"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608191086869,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608191106076,
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F5f2iATDWpV.jpg?alt=media&token=4ea68d8a-2dc4-4cd3-b157-13780c42e444)",
+            "uid": "wGxjb0dwP"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1606821961229,
+        "create-time": 1608191047846,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1606821961229,
-        "heading": 3,
+        "edit-time": 1608191084990,
+        "heading": 1,
         "string": "Progressive Development Approach",
-        "uid": "G20xVEtYi"
+        "uid": "zn6YGjgQw"
       },
       {
         "children": [
@@ -51993,201 +51984,11 @@
           {
             "children": [
               {
-                ":block/refs": [
-                  {
-                    ":block/uid": "N3IZVMRoO"
-                  },
-                  {
-                    ":block/uid": "A_IXvgdUz"
-                  },
-                  {
-                    ":block/uid": "-xz4aFCFJ"
-                  },
-                  {
-                    ":block/uid": "ABfy9oc0_"
-                  },
-                  {
-                    ":block/uid": "pR9MXRL4p"
-                  },
-                  {
-                    ":block/uid": "hWpxKtro1"
-                  },
-                  {
-                    ":block/uid": "_We76aJqw"
-                  },
-                  {
-                    ":block/uid": "ErWnUq85L"
-                  },
-                  {
-                    ":block/uid": "qcpWbcTwI"
-                  },
-                  {
-                    ":block/uid": "dtOQCydx7"
-                  },
-                  {
-                    ":block/uid": "QuDCJrDWV"
-                  },
-                  {
-                    ":block/uid": "mqRhD_ZoS"
-                  },
-                  {
-                    ":block/uid": "VemtkNt_Y"
-                  },
-                  {
-                    ":block/uid": "EWOrzci2j"
-                  },
-                  {
-                    ":block/uid": "KCzOb1XAS"
-                  },
-                  {
-                    ":block/uid": "3f6GcM95q"
-                  },
-                  {
-                    ":block/uid": "U_srBLhwH"
-                  },
-                  {
-                    ":block/uid": "fap_eCR8k"
-                  },
-                  {
-                    ":block/uid": "keZcqcUdI"
-                  },
-                  {
-                    ":block/uid": "YoJCBai6K"
-                  },
-                  {
-                    ":block/uid": "eFsNdiH0W"
-                  },
-                  {
-                    ":block/uid": "KBj8S8h_K"
-                  },
-                  {
-                    ":block/uid": "w_Ev3qkcg"
-                  },
-                  {
-                    ":block/uid": "q1X2k5yhk"
-                  },
-                  {
-                    ":block/uid": "8dprzXcN3"
-                  },
-                  {
-                    ":block/uid": "PvinGqMPZ"
-                  },
-                  {
-                    ":block/uid": "P18YrKwp-"
-                  },
-                  {
-                    ":block/uid": "4mLOVH6wX"
-                  },
-                  {
-                    ":block/uid": "Al6Xhjrg7"
-                  },
-                  {
-                    ":block/uid": "NYAxKyO8m"
-                  },
-                  {
-                    ":block/uid": "i3z1KZigl"
-                  }
-                ],
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1603984816460,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1603984817445,
-                "refs": [
-                  {
-                    "uid": "N3IZVMRoO"
-                  },
-                  {
-                    "uid": "A_IXvgdUz"
-                  },
-                  {
-                    "uid": "-xz4aFCFJ"
-                  },
-                  {
-                    "uid": "ABfy9oc0_"
-                  },
-                  {
-                    "uid": "pR9MXRL4p"
-                  },
-                  {
-                    "uid": "hWpxKtro1"
-                  },
-                  {
-                    "uid": "_We76aJqw"
-                  },
-                  {
-                    "uid": "ErWnUq85L"
-                  },
-                  {
-                    "uid": "qcpWbcTwI"
-                  },
-                  {
-                    "uid": "dtOQCydx7"
-                  },
-                  {
-                    "uid": "QuDCJrDWV"
-                  },
-                  {
-                    "uid": "mqRhD_ZoS"
-                  },
-                  {
-                    "uid": "VemtkNt_Y"
-                  },
-                  {
-                    "uid": "EWOrzci2j"
-                  },
-                  {
-                    "uid": "KCzOb1XAS"
-                  },
-                  {
-                    "uid": "3f6GcM95q"
-                  },
-                  {
-                    "uid": "U_srBLhwH"
-                  },
-                  {
-                    "uid": "fap_eCR8k"
-                  },
-                  {
-                    "uid": "keZcqcUdI"
-                  },
-                  {
-                    "uid": "YoJCBai6K"
-                  },
-                  {
-                    "uid": "eFsNdiH0W"
-                  },
-                  {
-                    "uid": "KBj8S8h_K"
-                  },
-                  {
-                    "uid": "w_Ev3qkcg"
-                  },
-                  {
-                    "uid": "q1X2k5yhk"
-                  },
-                  {
-                    "uid": "8dprzXcN3"
-                  },
-                  {
-                    "uid": "PvinGqMPZ"
-                  },
-                  {
-                    "uid": "P18YrKwp-"
-                  },
-                  {
-                    "uid": "4mLOVH6wX"
-                  },
-                  {
-                    "uid": "Al6Xhjrg7"
-                  },
-                  {
-                    "uid": "NYAxKyO8m"
-                  },
-                  {
-                    "uid": "i3z1KZigl"
-                  }
-                ],
-                "string": "h1,\nh2,\nh3,\nh4,\nh5,\nh6 {\n    font-family: \"Lato\", sans-serif;\n    font-size: 3em;\n}\ndiv,\ntextarea {\n    font-weight: 400;\n    color: #3F4758;\n    font-size: 1.002em;\n}\n.roam-block-container {\n    max-width: 1200px;\n}\n\n.rm-block-text {\n    max-width: 1200px;\n}\n\n.rm-pomodoro {\n    background: #fff !important;\n    color: #ff4747 !important;\n    padding: 4px 14px;\n    line-height: 2em;\n    font-weight: 600;\n    border-radius: 2em;\n    border: 1px solid #ff474770;\n}\n\n.rm-pomodoro {\n    background: #ff6956 !important;\n    color: #fff !important;\n    padding: 4px 14px;\n    line-height: 2em;\n    font-weight: 600;\n    border-radius: 2em;\n    border: 1px solid #ed5845;\n}\n\n.rm-pomodoro::first-letter {\n  margin-right: 8px;\n}\n\n.rm-query {\n    border: 0.5px solid #e4e9ec;\n    border-radius: 5px;\n    \n}\n\n.rm-query .rm-query-title {\n    background-color: #f7f8f8;\n    padding: 0.8em;\n    color: #d1dbe2;\n    font-size: 80%;\n}\n\n.rm-reference-main.rm-query-content {\n    padding: 0.8em;\n}\n\n.rm-reference-main .rm-reference-item .rm-block-text {\n    font-size: 90%;\n}\n\n.rm-ref-page-view-title span {\n    \n}\n\n.rm-reference-main .rm-reference-item .controls {\n    margin-left: -1em;\n}\n\n.rm-ref-page-view {\n    padding: 0.4em 0.2em;\n}\n\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page {\n    padding: 6px;\n}\n\ndiv.flex-v-box.starred-pages-wrapper > div.flex-h-box > span {\n    font-size: 14px !important;\n    opacity: 80%;\n    letter-spacing: 0.04em;\n}\n\ndiv.roam-sidebar-container.noselect > div > div {\n    font-size: 14px !important;\n    letter-spacing: 0.03em;\n    \n}\n\n#block-input {\n    background: white;\n}\n\n.roam-body #block-input > span > div {\n    padding: 6px 24px;\n    background: white;\n}\n\nspan.bp3-icon-small.bp3-icon-star {\n    display: none;\n    visibility: hidden;\n}\n\n.roam-block {\n    max-width: 850px;\n}\n\n#right-sidebar > div {\n    background-color: #f7f8fa;\n    border-left: 1px solid #e9ebef;\n}\n.controls .simple-bullet-outer .simple-bullet-inner {\n    background-color: #e5e9f2;\n}\n.block-border-left {\n    border-left: 1px solid #f3f6f7;\n}\n.kanban-board {\n    background-color: #fff;\n}\n.kanban-card {\n    background-color: white;\n    margin: 8px;\n    box-shadow: 0px 1px 2px #9eb3c0a8;\n    padding: 10px;\n    border-radius: 2px;\n    line-height: 1.3em;\n}\n.kanban-title {\n    text-align: center;\n    font-weight: 600;\n    font-size: 1.1em;\n    opacity: 80%;\n    color: #485f6f;\n    padding-top: 8px;\n    border-bottom: 1px solid #c5d1d8;\n}\n.kanban-column {\n    background-color: #e7eff3;\n    margin: 0px 4px 0px 4px;\n    padding: 4px;\n    min-width: 200px;\n    border-radius: 3px;\n}\n\n\n.rm-block-ref::before {\n    content: '';\n    display: inline-block;\n    width: 2px;\n    border-radius: 40px;\n    height: 12px;\n    background: #ff913c;\n    margin-right: 8px;\n}\n.rm-block-ref {\n    border-bottom: none;\n    font-size: 1em;\n    color: #515e70;\n}\n.rm-block-ref:hover {\n    background: none;\n    cursor: pointer;\n}\n.checkmark {\n    background: #fff;\n}\n.check-container input:checked ~ .checkmark {\n    background: #33bdea;\n}\n.check-container input:checked ~ .checkmark:after {\n    border-color: #fff;\n}\n.rm-reference-item {\n    margin-top: 8px;\n    border-radius: 6px;\n    border: 1px solid #e4e9ee;\n    margin-right: 8px;\n    flex: 1 1 100%;\n    word-break: break-word;\n    background-color: #f7f9fb;\n    padding: 8px;\n}\n\n.rm-level2 {\n    font-size: 1.5em;\n}\n.rm-level3 {\n    color: #939aae;\n    font-weight: 400;\n    font-size: 1.3em;\n}\n.rm-page-ref {\n    color: #9aabd0;\n}\n\n__/* Change the link color for references */__ \n\n.rm-page-ref-link-color {\n    color: #2980b9;\n    font-weight: 600;\n}\n\n__/* Change the link color in queries */__\n\na {\n    color: #8e44ad;\n}\n.intercom-app,\n.intercom-launcher-frame,\n#intercom-container {\n    display: none !important;\n}\n.roam-body .roam-app .roam-sidebar-container {\n    background-color: white;\n    border-right: 1px #eee solid;\n}\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page,\n.roam-body .roam-app .roam-sidebar-container > * {\n    opacity: 80%;\n    box-shadow: none;\n}\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .starred-pages-wrapper .starred-pages .page:hover,\n.roam-body .roam-app .roam-sidebar-container .roam-sidebar-content .log-button:hover {\n    background: white;\n    color: black;\n    opacity: 100%;\n}\n#buffer.tall {\n    height: calc(100vh - 50px) !important;\n}\n.check-container {\n    padding-right: 4px;\n}\nspan.rm-page-ref {\n    border-radius: 2px;\n    padding-left: 1px;\n    padding-right: 1px;\n}\n.content span.rm-page-ref {\n    padding: 4px 1px 1px;\n    __/* required for fixing azo */__\n}\n.center-proj {\n    text-align: center;\n}",
+                "edit-time": 1608190066769,
+                "string": "",
                 "uid": "pGJiwbGC1"
               }
             ],
@@ -53642,223 +53443,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1603980252235,
     "title": "on the right track"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "485f6f"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "ff474770"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "eee"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "3F4758"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "9aabd0"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "ff6956"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "e4e9ec"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "block-input"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "c5d1d8"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "right-sidebar"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "ff913c"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "f7f8f8"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817465,
-    "title": "d1dbe2"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817466,
-    "title": "8e44ad"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817467,
-    "title": "e5e9f2"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817467,
-    "title": "buffer"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817467,
-    "title": "e7eff3"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817467,
-    "title": "f7f9fb"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817467,
-    "title": "939aae"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817467,
-    "title": "33bdea"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817467,
-    "title": "f3f6f7"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "2980b9"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "e9ebef"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "ed5845"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "e4e9ee"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "intercom-container"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "f7f8fa"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "fff"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "ff4747"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "9eb3c0a8"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603984817447,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603984817468,
-    "title": "515e70"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -105878,6 +105462,16 @@
                 ":block/uid": "-RkDlXRIe"
               }
             ],
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608190705216,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608190783616,
+                "string": "The importance on this is focus on who I can truly serve and serve in my best as possible for these audiences. Maybe I can serve more later but do in my ability first and let things unfold.",
+                "uid": "9ZExCHYyY"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1608189537077,
             "edit-email": "ngoctienvt@gmail.com",
@@ -105897,24 +105491,6 @@
             "edit-time": 1608189646320,
             "string": "This is a circle of learning that we become better at create better products over time by improving the quality of materials as well as the skills to create quality products.",
             "uid": "5977E1CAJ"
-          },
-          {
-            "children": [
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1608189780649,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1608189815459,
-                "string": "We are all on a part of a big kindergarten that's the main purpose for us are learning. ",
-                "uid": "OzLz-XOnP"
-              }
-            ],
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1608189646628,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608189705072,
-            "string": "It's important to release the fear of waste because there is nothing waste. It's all serving for the learning and development process, while contributing to the world as the same time.",
-            "uid": "sWdXwxtxq"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
@@ -105928,6 +105504,60 @@
         ],
         "string": "[[\ud83c\udf31Progressive Development Approach]]",
         "uid": "zbD0hrRt2"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "dUZWjzB2B"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189780649,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189909239,
+            "string": "We are all on a part of a big kindergarten that's the main purpose for us are learning. Therefore, we have the right to be wrong, to be ineffective, to be waste, as long as we can learn and grow. Of course, sometimes we have pressure to learn faster and need to be creative, but anyway, there are nothing wrong, only lessons in the end.",
+            "uid": "OzLz-XOnP"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "xzeqDo4gr"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189948412,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608190046687,
+            "refs": [
+              {
+                "uid": "xzeqDo4gr"
+              }
+            ],
+            "string": "The reason is there are too many misleading beliefs that took us the right to be ourselves and to be do the main learning purpose. It creates unnecessary fear and boundaries that leads us further what we truly meant to be. [[false belief]]",
+            "uid": "UVotOti4x"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608189646628,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608189936449,
+        "refs": [
+          {
+            "uid": "dUZWjzB2B"
+          }
+        ],
+        "string": "It's important to release the fear of waste because there is nothing waste. It's all serving for the learning and development process, while contributing to the world as the same time. [[fear of waste]]",
+        "uid": "sWdXwxtxq"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608190020028,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608190020028,
+        "string": "",
+        "uid": "BUcY98Na_"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -105949,5 +105579,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1608189270949,
     "title": "My Personal Mission Statement"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608189936453,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608189936455,
+    "title": "fear of waste"
   }
 ]
