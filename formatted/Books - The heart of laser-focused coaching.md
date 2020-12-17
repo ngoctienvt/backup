@@ -315,3 +315,53 @@
                 - In the prior example, the client provided the emotion: freaked out, and she shared ways she feels uncertain about her future. An appropriate empathy statement could be, “I get how all of this is freaking you out and that it’s a lot of uncertainty to deal with all at once.”
             - Your voice, tone, and pace matter . Especially when emotion is evident, it’s crucial to let the client know that you empathize and understand the reason for the emotion by “normalizing” their feelings.
                 - To empathize, identify one or two primary emotions and reflect that information. 
+            - Imagine the scenario above if the coach went directly to, “What outcome do you want from this conversation?”
+                - This is an example of a “naked,” nonresponsive question that is completely inappropriate. 
+                - It not only ignores what the client said and the feeling behind her words, but also asks her to define an outcome while she’s in an emotional state.
+                - A masterful empathic response might be: “It sounds as though you’ve been blindsided and are understandably upset. What would be helpful in our conversation?”
+                - (Page 45). 
+            - (Page 45). 
+            - The empathy demonstrates that you understand and when you ask the follow-up question, it is an invitation for them to choose what they want.
+                - Instead of “fixing” the client or going into problem-solving, consider that the client may not want anything other than 
+                    - an opportunity to vent and will feel as though they have permission to do so 
+        - CREATE A SAFE AND TRUSTING SPACE
+            - Clients reveal more information when they feel a sense of trust and safety. If they have any doubt or hesitation, they will likely hold back. It is the role of the coach to create a safe space and a trusting environment.
+            - To accomplish this safe and trusting environment, keep in mind that the relationship is more important than the results. 
+                - Yes, results are important, but working with human beings with complex thoughts, feelings, and experiences has to be uppermost in our minds. 
+                - With a focus on the relationship and letting go of a strong need for results, deeper trust is created, more can be revealed, and clients go far beyond their initial intention.
+            - [Coaching examples](<Coaching examples.md>)
+                - Erica initially came for coaching because she was unhappy in her job. During our coaching engagement, not only did she change jobs twice, she eventually opened up her own studio. She went from dating to marriage to starting a family. The relationship deepened over a period of several years and went far beyond her initial reason for coaching. 
+                - Melissa came to the call sounding quite upset and immediately shared that she was unexpectedly pregnant. She said she hadn’t told her husband or parents yet but had to tell someone. All I did was stay present and let her know I was there. She didn’t come for any result as much as wanting to process and be heard. Without many words from me, she said she felt my empathy and connection. Several months later, she shared that because of our coaching relationship, she knew she could trust me to hold the space for her .
+            - Sometimes, coaching is only about the relationship and respecting the client’s humanity.
+        - PLAY DUMB TO BE SMART
+            - If you approach coaching as though you’re the expert and you know what’s best for your client, not only are you not being a coach, but you’re also dismissing your client’s wisdom. 
+                - In fact, the more you can demonstrate curiosity and your desire to understand who your client is, the better your coaching will be.
+            - It is imperative to be willing to be wrong about any attitude or belief. Phrases such as “I’m a little confused” or “I may be wrong, but it seems as though…” not only invite your client to share better information but also demonstrate that you are the outside, objective listener that you should be. 
+                - If you put something out there and you’re wrong, so what? 
+                - As long as you get new data, that’s what is important. 
+                - Coaching is not about being right or wrong; it’s about getting to the truth for your client. 
+                - In fact, if you say or guess incorrectly when sharing something, they’re happy to share the accurate information. It can actually spur them to share more.
+        - AFFIRM VERSUS ACKNOWLEDGE
+            - To properly acknowledge our client, providing some context is helpful.
+                - Acknowledging: “Thanks for sharing that information.” 
+                - Affirming: “Thanks for sharing that information because it helps me better understand your mindset.” 
+                - The distinction is that, when affirming, we are being specific and providing context .
+                - 
+            - [Coaching examples](<Coaching examples.md>)
+                - Josh, a client who was dating a lot, told me a story about a woman who called about going out again, and I noticed a change in how he responded. 
+                    - I said, “What I’m really hearing is that the way you handled this particular conversation is so different from how you would’ve handled it six months ago. It’s just showing how much progress you’ve made and how far you’ve come. What do you think about that?” 
+                    - Josh replied, “Wow, this is getting easier for me. I didn’t realize I was improving. That’s so cool.” He was appreciative of my noting that he had made progress.
+        - DISTINGUISH: TELLING VERSUS DISCOVERING
+            - When is it appropriate to tell your client something you know versus letting them figure it out for themselves? 
+                - When emotion is involved, it’s best for your client to discover. When they discover the answer for themselves, it has more meaning, more value, and leads to a permanent change. And if the discovery is about them and who they are, only they know the answer.
+                - When it’s a fact, a greater truth, or a direct observation, tell it. 
+                    - By “a greater truth” I mean something universally accepted as true by most people but not a fact. 
+                    - In these situations, don’t frustrate your client by asking them questions to force a discovery. Instead, say what you know and question how they receive it by asking something like “What do you think?”
+                    - Here are some examples of greater truths: 
+                        - It’s harder to find a job during an economic downturn. 
+                        - Women talk with friends to create bonds. 
+                        - Men identify strongly with their jobs/careers/work. 
+                        - Some people are content with the status quo and have no interest in changing. 
+                        - People have a tendency to confuse selfish with self-care.
+- ### Chapter 4 - SETTING THE FOUNDATION
+    - 
