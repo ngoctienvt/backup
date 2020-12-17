@@ -51154,13 +51154,13 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1604198646323,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604198991611,
+                    "edit-time": 1608211829409,
                     "refs": [
                       {
                         "uid": "bLXVe1rP0"
                       }
                     ],
-                    "string": "Either samskaras are emerged by themselves, or triggered by the unfolding moments, our job is take time to relax and release. This is about handling the accumulated stuff. [[mature samskaras]]",
+                    "string": "Either samskaras are emerged by themselves, or triggered by the unfolding moments, our job is take time to relax and release. This is about handling the accumulated stuff. [[stored samskaras]]",
                     "uid": "JQOeF7fpY"
                   },
                   {
@@ -51172,13 +51172,13 @@
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1604198705163,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1604198996024,
+                    "edit-time": 1608211850033,
                     "refs": [
                       {
                         "uid": "z3QzmEyIC"
                       }
                     ],
-                    "string": "Second is not putting more stuff everyday, because one small samskara can be a source to accumulate many other samskara. [[immature samskaras]]",
+                    "string": "Second is not putting more stuff everyday, because one small samskara can be a source to accumulate many other samskara. [[initial samskaras]]",
                     "uid": "C6SdqQf24"
                   }
                 ],
@@ -53488,15 +53488,15 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604198976864,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604198996024,
-    "title": "immature samskaras"
+    "edit-time": 1608211850033,
+    "title": "initial samskaras"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1604198988404,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1604198991611,
-    "title": "mature samskaras"
+    "edit-time": 1608211829409,
+    "title": "stored samskaras"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -102903,6 +102903,16 @@
                     "uid": "3qj8wFgPv"
                   },
                   {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608214813990,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608214813998,
+                        "string": "Silence is especially necessary after your client answers a provocative question. Just wait; they might be emotional or most likely still thinking even after giving an initial response. They may need a lot of space before being asked another question.",
+                        "uid": "SqITJPpbE"
+                      }
+                    ],
                     "create-email": "ngoctienvt@gmail.com",
                     "create-time": 1608206920430,
                     "edit-email": "ngoctienvt@gmail.com",
@@ -102912,11 +102922,71 @@
                   },
                   {
                     "create-email": "ngoctienvt@gmail.com",
-                    "create-time": 1608206819198,
+                    "create-time": 1608214825755,
                     "edit-email": "ngoctienvt@gmail.com",
-                    "edit-time": 1608206928942,
-                    "string": "",
-                    "uid": "aH2o2a1TH"
+                    "edit-time": 1608214862287,
+                    "string": "Question/answer/question/answer -> question/ silence/ answer/ silence... let clients fill in the space",
+                    "uid": "odSlontZT"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608214924085,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608214924085,
+                        "string": "For example, a coach asks a client, \u201cWhat are you afraid of?\u201d and the client answers, \u201cThat I will never be okay.\u201d ",
+                        "uid": "2jSFaU8dQ"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608214928020,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608214928020,
+                        "string": "If the coach asks any question right after that, it creates a disconnect because the client\u2019s response was particularly deep. ",
+                        "uid": "UZ47_tLOl"
+                      },
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608214935788,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608214935788,
+                            "string": " Your client may require an enormous amount of space to think and digest. ",
+                            "uid": "v8JOLThqu"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608214941281,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608214941281,
+                            "string": "Any question would take them out of that space and bring them back into their mind. ",
+                            "uid": "emqZR1sIc"
+                          },
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608214918098,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608214941284,
+                            "string": "In this instance it\u2019s crucial to wait for the client to speak first.",
+                            "uid": "CYuYFYLlV"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608214933196,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608214933196,
+                        "string": "If the client answers, \u201cI don\u2019t know,\u201d it\u2019s possible they don\u2019t. But more often than not, they do know but may not want to say it aloud or they need time to think and digest their thoughts.",
+                        "uid": "rHu0eEz4E"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608214894747,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608214894753,
+                    "string": "Even after your client responds \u201cI don\u2019t know\u2026\u201d after a thinking question, it\u2019s still advisable to stay quiet and see if that simply means they don\u2019t want to answer, are afraid to answer, or really need to think about the answer.",
+                    "uid": "EZRSF4Gq0"
                   }
                 ],
                 "create-email": "ngoctienvt@gmail.com",
@@ -102925,6 +102995,60 @@
                 "edit-time": 1608206497911,
                 "string": "USE SILENCE REGULARLY",
                 "uid": "ZsG6Esqdh"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608214968756,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608214972463,
+                        "string": "Then I heard the coach parrot: I hear that you\u2019re really upset that you just found out that your husband is cheating on you and you\u2019re not sure if you should tell the children and you\u2019re not sure what this is going to mean for you. Did I get that right?",
+                        "uid": "_T6G-cxsI"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608215024938,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608215048942,
+                        "string": "In the prior example, the client provided the emotion: freaked out, and she shared ways she feels uncertain about her future. An appropriate empathy statement could be, \u201cI get how all of this is freaking you out and that it\u2019s a lot of uncertainty to deal with all at once.\u201d",
+                        "uid": "60mKxq5FL"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608214972460,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608214972460,
+                    "string": "Client: I\u2019m totally freaked out! I just found out that my husband cheated on me and I don\u2019t know what I\u2019m going to do. I don\u2019t know if I should tell my children what\u2019s going on, and I don\u2019t know if this means I\u2019m going to get divorced! ",
+                    "uid": "hSUswTIFB"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608215048940,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608215048940,
+                        "string": "To empathize, identify one or two primary emotions and reflect that information. ",
+                        "uid": "1ww0C7poR"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608215000226,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608215000232,
+                    "string": "Your voice, tone, and pace matter . Especially when emotion is evident, it\u2019s crucial to let the client know that you empathize and understand the reason for the emotion by \u201cnormalizing\u201d their feelings.",
+                    "uid": "wr4cGgpjR"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608214949879,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608214959297,
+                "string": "BE EMPATHETIC",
+                "uid": "r67qme3vk"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -105808,11 +105932,21 @@
         "uid": "sWdXwxtxq"
       },
       {
+        ":block/refs": [
+          {
+            ":block/uid": "-d--5U1su"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1608190020028,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1608190020028,
-        "string": "",
+        "edit-time": 1608211802311,
+        "refs": [
+          {
+            "uid": "-d--5U1su"
+          }
+        ],
+        "string": "I feel so angry and uncomfortable when being imposed and judged by other people. It's make me feel not safe and unrespected. This is a big lesson that I need to handle, because I will meet these situations more in the future. This is also a chance for become a truly mature man. [[samskaras]]",
         "uid": "BUcY98Na_"
       }
     ],

@@ -11,6 +11,9 @@
 ## [December 15th, 2020](<December 15th, 2020.md>)
 - Today I noticed that I still have many samskaras going inside of me when I'm teaching or supporting other people. I still have many attachments and expectations about how thing should happen. This is a big time for me to learn to let go all of these [samskaras](<samskaras.md>),
 
+## [December 17th, 2020](<December 17th, 2020.md>)
+- I feel so angry and uncomfortable when being imposed and judged by other people. It's make me feel not safe and unrespected. This is a big lesson that I need to handle, because I will meet these situations more in the future. This is also a chance for become a truly mature man. [samskaras](<samskaras.md>)
+
 ## [December 3rd, 2020](<December 3rd, 2020.md>)
 - Last night dream, I had so much fear and limit myself under the rules of society. I noticed that's I also had a tendency to try to gain benefits for myself, instead of thinking in a way that's not for my personal self, but for reality. [samskaras](<samskaras.md>)
 

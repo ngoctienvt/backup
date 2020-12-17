@@ -300,4 +300,18 @@
                         - Coach: What did that comment mean for you?
                         - Client: Hmm, I hadn’t thought about what it meant. [The Hmm or if there’s silence before responding is a clue to stay quiet even longer.] I guess it means that she’s waiting for me to address the issue first. [Allow silence again. ] Although as I think about it, I’m not sure that is my place. After all….”
             - The last thing you want to do is disrupt your client’s thinking. It’s like having a fabulous dream and the alarm goes off; it immediately interrupts the dream and there is no going back. If your client thinks there’s too much silence, they’ll let you know.
-            - 
+                - Silence is especially necessary after your client answers a provocative question. Just wait; they might be emotional or most likely still thinking even after giving an initial response. They may need a lot of space before being asked another question.
+            - Question/answer/question/answer -> question/ silence/ answer/ silence... let clients fill in the space
+            - Even after your client responds “I don’t know…” after a thinking question, it’s still advisable to stay quiet and see if that simply means they don’t want to answer, are afraid to answer, or really need to think about the answer.
+                - For example, a coach asks a client, “What are you afraid of?” and the client answers, “That I will never be okay.” 
+                - If the coach asks any question right after that, it creates a disconnect because the client’s response was particularly deep. 
+                - If the client answers, “I don’t know,” it’s possible they don’t. But more often than not, they do know but may not want to say it aloud or they need time to think and digest their thoughts.
+                    -  Your client may require an enormous amount of space to think and digest. 
+                    - Any question would take them out of that space and bring them back into their mind. 
+                    - In this instance it’s crucial to wait for the client to speak first.
+        - BE EMPATHETIC
+            - Client: I’m totally freaked out! I just found out that my husband cheated on me and I don’t know what I’m going to do. I don’t know if I should tell my children what’s going on, and I don’t know if this means I’m going to get divorced! 
+                - Then I heard the coach parrot: I hear that you’re really upset that you just found out that your husband is cheating on you and you’re not sure if you should tell the children and you’re not sure what this is going to mean for you. Did I get that right?
+                - In the prior example, the client provided the emotion: freaked out, and she shared ways she feels uncertain about her future. An appropriate empathy statement could be, “I get how all of this is freaking you out and that it’s a lot of uncertainty to deal with all at once.”
+            - Your voice, tone, and pace matter . Especially when emotion is evident, it’s crucial to let the client know that you empathize and understand the reason for the emotion by “normalizing” their feelings.
+                - To empathize, identify one or two primary emotions and reflect that information. 

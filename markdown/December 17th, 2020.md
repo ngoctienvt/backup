@@ -27,4 +27,4 @@
 - It's important to release the fear of waste because there is nothing waste. It's all serving for the learning and development process, while contributing to the world as the same time. [[fear of waste]]
     - We are all on a part of a big kindergarten that's the main purpose for us are learning. Therefore, we have the right to be wrong, to be ineffective, to be waste, as long as we can learn and grow. Of course, sometimes we have pressure to learn faster and need to be creative, but anyway, there are nothing wrong, only lessons in the end.
     - The reason is there are too many misleading beliefs that took us the right to be ourselves and to be do the main learning purpose. It creates unnecessary fear and boundaries that leads us further what we truly meant to be. [[false belief]]
-- 
+- I feel so angry and uncomfortable when being imposed and judged by other people. It's make me feel not safe and unrespected. This is a big lesson that I need to handle, because I will meet these situations more in the future. This is also a chance for become a truly mature man. [[samskaras]]

@@ -5,8 +5,8 @@
     - [[higher-hanging fruit]] is the samskaras that after we let go, we still need to learn to interact properly with the unfolding moments.
     - For [[living from the place of surrender]], it is 24/7, 
         - the first part is always about [[letting go]]
-            - Either samskaras are emerged by themselves, or triggered by the unfolding moments, our job is take time to relax and release. This is about handling the accumulated stuff. [[mature samskaras]]
-            - Second is not putting more stuff everyday, because one small samskara can be a source to accumulate many other samskara. [[immature samskaras]]
+            - Either samskaras are emerged by themselves, or triggered by the unfolding moments, our job is take time to relax and release. This is about handling the accumulated stuff. [[stored samskaras]]
+            - Second is not putting more stuff everyday, because one small samskara can be a source to accumulate many other samskara. [[initial samskaras]]
         - the second part is learning to [[serving the demand of reality]]
     - The most important thing is not about [[understanding the truth]], it is about the [[desire]] to live the truth itself. Without the willingness, everything is just like water off a duck's back. And the soul will asleep in the sea of samskaras. [[desire to live the higher life]]
 - I also noticed that I have a big expectation for people to truly awake and truly consider what they want to do with their life. Even though this expectation is good, but it's not really what I want. Because I don't want to put my pressure or expectation into other people, instead of that, I just want to support and empower them, so that they could awake and make their own choice. [[tough love]] [[unattachment empowering]] 
