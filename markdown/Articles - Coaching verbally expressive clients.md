@@ -1,0 +1,41 @@
+- [Coaching verbally expressive clients – ICF Credentialing Coach | Mentor Coach | Coach to the Coaches | Carly Anderson, MCC |](https://carlyanderson.com/coaching-verbally-expressive-clients) #[[Roam-Highlights]]
+    - **You may have heard the term ‘verbal processor,’ and it’s normal for clients to verbalize in order to “process” their thoughts out loud.**
+    - **Yet coaches often become confused, get lost in the details, or unable to hold all the “threads” of their verbally expressive client.** Their default habit is to interrupt the client, either by speaking over the client, or speaking “small words and sounds” to slow down or interrupt the client. Small words and sounds include “Yeah!” “Okay!” “Ahhhh” “Hmmmm!” “Alright!” This coach behavior tends to shift attention to the coach, stop the client, and can have the coach feel more “in control” of the conversation.
+    - Examine your (Coaching) Presence for beliefs about how long you believe a client “should” speak for
+        - **Our Presence informs our Listening.** What we are present to, and what we believe we need to do to be a successful coach has a causal effect on the approach we take. There’s also how we are taught to coach a client.
+        - Partner with your client to inquire such as, “What would you like me to listen for as you process your thoughts verbally?”
+    - From one thread to another and then another and another…
+        - What if the client was weaving a rich tapestry, and the coach skill was to understand how this client was weaving the threads together in their unique way for them, about them?
+    - The potential cost of interrupting the client
+        - **Often it’s the coach lack of developed skills that causes the coach to default to an easy option; to interrupt the client or cut the client short from fully expressing themselves.**
+        - **Every time the coach interrupts their client, has the possibility of lowering trust the client feels with their coach.**
+        - **Whenever we interrupt someone, or speak over them, on some level we are conveying that what I have to say, is more important than what you are saying.**
+    - Skillful ways to listen to a verbally expressive client
+        - The number one coaching skill is to shift how you are listening to the client and listen from multiple perspectives. First, silently observe the client and your internal responses. After internally processing the “incoming data” from your client, there are ways to respond which I’ll overview further below.
+        - The key shift is to listening both deeply and curiously, while simultaneously distancing self to listening from a “bird’s eye” perspective. Silently notice how the client’s way of communicating is “flowing through you.”
+            - Become super curious about how this client is expressing themselves, as if this was the most exquisite “creature” you’ve ever encountered.
+            - Shift how you are listening, from listening to every word, to more global or holistic listening of the types of words the client is using.
+            - Are they self-reflective in use of words? More internally or externally focused? Using positive language? Negative language? Are they self-critical? Other critical? Is their way of speaking metaphorical, visual, logical, emotional, linear, conceptual?
+            - Without judgment, silently notice how the client way of expressing themselves is impacting you. Are you feeling confused? If so, what’s confusing you? Is it the volume of words, or the speed of their speaking? Are they sharing as if reporting about themselves in their situation? Or are they expressing emotions they are feeling, or others are experiencing?
+            - Silently notice specific words, phrases, metaphors or expressions the client is repeatedly using.
+            - Silently notice how your body is responding. Are you breathing more shallow? Is your heart seeming to beat faster? What are you doing with your arms? Legs? Is your body settled, or unsettled in some way?
+            - Silently notice your emotions. Are you feeling anxious? Afraid? Concerned? Excited?
+            - Silently notice any judgments you are making about your client as they speak.
+            - Silently notice any judgments you are making about yourself as your client speaks.
+    - Skillful ways to respond verbally to the client
+        - I'll use the example of client wants as their session outcome to “be prepared to meet with my peers tomorrow to review two candidates for the position we’re filling in our department.”
+            - As you were speaking, there were some words you kept repeating which were…. (then say the words without interpreting what they might mean to you. Let the client do the work.)
+            - There was a lot you just shared, yet you used a metaphor that seemed to have some emotional impact on you, which was (then say the metaphor as simply as possible without interpreting what that mean to you. Let the client do the work.)
+            - As you were speaking, I heard your words, yet the biggest impact was an emotion I’m sensing. Before I share that, what emotion are you aware of? (let the client share first, then you can share your emotion, without judgment).
+            - Out of all that you just shared, what relates to your desired outcome for this coaching session of (being prepared to meet with your peers tomorrow)?
+            - From all you just said, what are the key points that relate to your desired session outcome of (being prepared to meet with your peers tomorrow?)
+            - From all you just shared, if you bottom line the important points you most wanted to convey to me, what are they?
+            - That seems like an impactful story you just told. What’s the learning you can take from that story?
+    - Skillful ways to interrupt your coaching client
+        - The bottom line; any time you interrupt the client (or speak over the client), be conscious of the potential impact on the client of lowered trust in you as their coach.
+        - Generally, I recommend coaches “listen and learn” for a few coaching sessions before designing any interruption of the client. You want to become super curious about how this client is expressing themselves. Often in a first or second coaching session, clients may not have had someone listen to them, so they say a lot.
+        - Then as the client and coach become more comfortable in their relationship and begin to build some trust together, then the coach can “re-contract” with their client about possibly interrupting them.
+    - In Closing…
+        - **It’s the skills of the coach that most often need upgrading, so the coach is more capable of engaging effectively with a verbally expressive client. **
+        - “Being heard is so close to being loved that for the average person, they are indistinguishable.” David Augsburger
+        - “My life has been a tapestry of rich and royal hue, an everlasting vision of an ever changing view.” Carole King
