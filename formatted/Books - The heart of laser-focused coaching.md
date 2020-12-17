@@ -273,3 +273,31 @@
                 - Patricia was silent for quite some time before saying, “You are right and hearing that, I realize I didn’t plan well at all for something so important to me.” 
                 - By the end of the conversation, Patricia felt empowered and altered her negative, limited trajectory, and planned to consult with her CPA and get creative accounting advice. (Soon after, she was able to cobble the funds together to fulfill her dream.)
                 - If I had asked, “What will it mean for you to give up your dream?” it may have led to a downward spiral because I was buying into the story that Patricia messed up and can’t do what she really wants.
+        - [Language in Coaching](<Language in Coaching.md>)
+            - SPEAK CLIENT'S LANGUAGE
+                - There are instances in which this can feel uncomfortable or strange. Even though that may be the case, it’s helpful for the client to use their vocabulary so __they don’t have to interpret what you’re saying__ or asking. 
+                    - For example, if they use the word photograph and your word is picture, use their word. 
+                    - If they use the expression “out of pocket,” and your tendency is to substitute “unavailable,” hold in your mind that you’re partnering with your client and that it is most effective to use their language even if it feels unnatural. 
+                - This also helps your client feel heard and understood.
+                - (Page 42). 
+            - ELIMINATE JARGON — IT ISN’T UNIVERSAL
+                - My overall rule of thumb is that I should never have to explain a word or expression to a client.
+                - Coaching is supposed to sound like an everyday conversation with the exceptions of the 80/20 dialogue rule and the sharing of personal information.
+                - For example
+                    - “What do you have to lean in to?” instead of “What could be the opportunity?”
+                    - “Who do you have to be?” instead of “What are some characteristics you would like to see in yourself?”
+                    - “How do you need to show up?” instead of “What do you need to do to prepare for the conversation?” or “What do you want people to notice about you?
+                    - Using "belief" instead of "thoughts" or "ideas"
+        - USE SILENCE REGULARLY
+            - Silence is one of the most important tools in the coaching tool kit and the one least effectively used. 
+                - It means not only being silent after you ask your question, but also staying silent after your client initially answers your question.
+                - Let people process their thinking externally or internally, especially the internal one.
+                    -  The client might just be taking a pause in their thinking and their wheels are still turning. A masterful coach should be able to decipher the fact that thinking is still going on despite hearing a preliminary response, and the client still needs even more thinking time. It’s better to err on the side of caution and stay quiet.
+            - The only time it’s okay to ask another question right after your client responds is when you simply asked for fact information rather than stimulated the client to think, as with a question like, “What day did that happen?”
+            - __Wait for the client to speak first no matter how difficult or uncomfortable it is to stay quiet.__
+                - This is especially true after a question that makes your client think, because they may not be finished answering even though they have replied. Allow even more time in this case, even though they seem to be finished.
+                    - An example: 
+                        - Coach: What did that comment mean for you?
+                        - Client: Hmm, I hadn’t thought about what it meant. [The Hmm or if there’s silence before responding is a clue to stay quiet even longer.] I guess it means that she’s waiting for me to address the issue first. [Allow silence again. ] Although as I think about it, I’m not sure that is my place. After all….”
+            - The last thing you want to do is disrupt your client’s thinking. It’s like having a fabulous dream and the alarm goes off; it immediately interrupts the dream and there is no going back. If your client thinks there’s too much silence, they’ll let you know.
+            - 
