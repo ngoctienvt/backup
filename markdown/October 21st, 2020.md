@@ -45,7 +45,7 @@ compassion and caring for other people in an [[helpful manner]].
 - I have a [[judgment]] for people who are mostly cared for
 themselves only and have thought make me believe that they don't even care
 about other people without really checking this first. [[perception]]
-- [[thought process]] [[truth compass]] [[coaching language]] want is an easy to misunderstand word. It's a word that can be soul-guidance or ego-guidance. I want to have a word that making more hard boundary to imply soul-guidance. [[generated language]]
+- [[thought process]] [[truth compass]] [[coaching language]] want is an easy to misunderstand word. It's a word that can be soul-guidance or ego-guidance. I want to have a word that making more hard boundary to imply soul-guidance. [[generative language]]
     - So actually it's not really about the word, it's about what state the soul in when receiving the question. [[state of being]] If the state is identified with samskaras, emotions, thoughts, then the answer will reveal these identified objects rather what the soul will want when it's free.
 - [[tough love]] I want to develop a [[mature]] tough love that fully impersonal and not be attach with any method, solution, desire, but rather base on [[compassion]].
 - What I want when finding a centralized messenger system is

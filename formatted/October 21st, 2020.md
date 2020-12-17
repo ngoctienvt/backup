@@ -45,7 +45,7 @@ compassion and caring for other people in an [helpful manner](<helpful manner.md
 - I have a [judgment](<judgment.md>) for people who are mostly cared for
 themselves only and have thought make me believe that they don't even care
 about other people without really checking this first. [perception](<perception.md>)
-- [thought process](<thought process.md>) [truth compass](<truth compass.md>) [coaching language](<coaching language.md>) want is an easy to misunderstand word. It's a word that can be soul-guidance or ego-guidance. I want to have a word that making more hard boundary to imply soul-guidance. [generated language](<generated language.md>)
+- [thought process](<thought process.md>) [truth compass](<truth compass.md>) [coaching language](<coaching language.md>) want is an easy to misunderstand word. It's a word that can be soul-guidance or ego-guidance. I want to have a word that making more hard boundary to imply soul-guidance. [generative language](<generative language.md>)
     - So actually it's not really about the word, it's about what state the soul in when receiving the question. [state of being](<state of being.md>) If the state is identified with samskaras, emotions, thoughts, then the answer will reveal these identified objects rather what the soul will want when it's free.
 - [tough love](<tough love.md>) I want to develop a [mature](<mature.md>) tough love that fully impersonal and not be attach with any method, solution, desire, but rather base on [compassion](<compassion.md>).
 - What I want when finding a centralized messenger system is

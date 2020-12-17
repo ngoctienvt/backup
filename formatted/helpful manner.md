@@ -3,7 +3,7 @@
     - One is I need to evolve myself enough to not let the samskaras controlled me [soul evolution](<soul evolution.md>)
         - [unattachment centering](<unattachment centering.md>) to hold myself above any samskaras so that I will not react but release instead
     - Second is after this evolve and learning process, I will handle the situation with a [support attitude](<support attitude.md>)
-        - [generated language](<generated language.md>) to shift the tendency to resist and cling to learn in a much enjoyable, meaningful way
+        - [generative language](<generative language.md>) to shift the tendency to resist and cling to learn in a much enjoyable, meaningful way
         - [unattachment](<unattachment.md>) with any personal agenda, personal needs and only work to unconditionally serve the reality
 - 
 
@@ -15,7 +15,7 @@
 - I felt that I'm extremely hard to want people to live the higher truth, but I'm lacking the [helpful manner](<helpful manner.md>)
 
 ## [October 11th, 2020](<October 11th, 2020.md>)
-Instead of looking at I'm not enough because this is the fact already, I can use [generated language](<generated language.md>) to support myself on a [helpful manner](<helpful manner.md>)
+Instead of looking at I'm not enough because this is the fact already, I can use [generative language](<generative language.md>) to support myself on a [helpful manner](<helpful manner.md>)
 
 ## [October 16th, 2020](<October 16th, 2020.md>)
 - I still feel that I want to mention to her a bit about how she defines herself based on the result as this would help her to improve her self awareness. My way is sharing my observation and ask for permission so that let her check her willingness to look deeper. [helpful manner](<helpful manner.md>)

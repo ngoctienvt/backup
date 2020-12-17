@@ -4,7 +4,7 @@
     - [x] Working with samskaras
     - [x] Working with [🌱Natural Progression](<🌱Natural Progression.md>) concept
     - [x] Working with the way I want to support the evolution process of other souls with an [unattachment](<unattachment.md>) attitude.
-    - [x] Working with [generated language](<generated language.md>)
+    - [x] Working with [generative language](<generative language.md>)
 - I just had a [fear](<fear.md>) about the destruction of my ipad.
 - I noticed that I want to improve my [voice](<voice.md>) and in order to do this effectively, I want to able to listen to my [true voice](<true voice.md>). 
     - The method that I find currently is using two thick boards to cover my ears. I will try it and then find how I can improve this because I feel that I need to use physical energy to do it. [way to hear self-voice](<way to hear self-voice.md>)

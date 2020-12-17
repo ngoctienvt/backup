@@ -6,7 +6,7 @@
 ## [external expressions](<external expressions.md>)
 - [truth-oriented](<truth-oriented.md>)
 
-## [generated language](<generated language.md>)
+## [generative language](<generative language.md>)
 -  [reality-oriented](<reality-oriented.md>) and [truth-oriented](<truth-oriented.md>)
 
 ## [life](<life.md>)

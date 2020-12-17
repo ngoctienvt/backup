@@ -19,7 +19,7 @@
     - 
     - "{{[[DONE]]}} How to use [[Roam Research]] to evolve my mind effectively"
     - {{[[DONE]]}} Releasing the samskaras about the need for attention and recognition, [[fear]] and nurture [[self-fulfilled]]
-    - {{[[DONE]]}} Start to work on [[generated language]]
+    - {{[[DONE]]}} Start to work on [[generative language]]
     - {{[[DONE]]}} Start to work on [[intention]]
     - 
 - [[self-fulfilled]] is learn to release the blockages, the urges that want to solve the inner problem with short-term external solutions and able to fulfill myself with all that personal need. The keyword is to [[learn]] how to [[work at the root]] and not satisfy with the [[temporary solutions]]. It requires the attitude to see what's really work and what's just a short-term solutions. 

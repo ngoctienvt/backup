@@ -3,6 +3,6 @@
     - One is I need to evolve myself enough to not let the samskaras controlled me [[soul evolution]]
         - [[unattachment centering]] to hold myself above any samskaras so that I will not react but release instead
     - Second is after this evolve and learning process, I will handle the situation with a [[support attitude]]
-        - [[generated language]] to shift the tendency to resist and cling to learn in a much enjoyable, meaningful way
+        - [[generative language]] to shift the tendency to resist and cling to learn in a much enjoyable, meaningful way
         - [[unattachment]] with any personal agenda, personal needs and only work to unconditionally serve the reality
 - 

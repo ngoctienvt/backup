@@ -1,5 +1,5 @@
 
 # Backlinks
-## [generated language](<generated language.md>)
+## [generative language](<generative language.md>)
 - triggers are the [stepping stones](<stepping stones.md>)
 

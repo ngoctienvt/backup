@@ -5,7 +5,7 @@
 - Complementing [complement](<complement.md>)
 
 ## [October 11th, 2020](<October 11th, 2020.md>)
-Instead of looking at I'm not enough because this is the fact already, I can use [generated language](<generated language.md>) to support myself on a [helpful manner](<helpful manner.md>) are this helps me to realize my [imperfection](<imperfection.md>) or [deficiency](<deficiency.md>) that I could learn to [complement](<complement.md>)
+Instead of looking at I'm not enough because this is the fact already, I can use [generative language](<generative language.md>) to support myself on a [helpful manner](<helpful manner.md>) are this helps me to realize my [imperfection](<imperfection.md>) or [deficiency](<deficiency.md>) that I could learn to [complement](<complement.md>)
 
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - I am [complement](<complement.md>)
@@ -22,6 +22,6 @@ Instead of looking at I'm not enough because this is the fact already, I can use
 ## [October 9th, 2020](<October 9th, 2020.md>)
 I have certain thoughts about learning karate, but it's actually not about I want to learn martial arts, it's about I want to let myself become not just soft but also hard as well. [complement](<complement.md>).
 
-## [generated language](<generated language.md>)
+## [generative language](<generative language.md>)
 - triggers are the [stepping stones](<stepping stones.md>) for [complement](<complement.md>)
 

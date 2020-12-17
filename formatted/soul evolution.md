@@ -84,7 +84,7 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 ## [The Pilot MOC](<The Pilot MOC.md>)
 - evolution [soul evolution](<soul evolution.md>)
 
-## [generated language](<generated language.md>)
+## [generative language](<generative language.md>)
 - growth language is the type of language that support the [soul evolution](<soul evolution.md>)
 
 ## [helpful manner](<helpful manner.md>)
