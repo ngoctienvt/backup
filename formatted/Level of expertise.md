@@ -48,6 +48,8 @@
 ## [December 17th, 2020](<December 17th, 2020.md>)
 - The way a person develop their [Level of expertise](<Level of expertise.md>)
 
+- I had some notions about designing a process or a sequence of activities to level up my expertise by myself. It will need the combination of [level of thinking](<level of thinking.md>) and [Level of expertise](<Level of expertise.md>).
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - I also noticed that [Level of expertise](<Level of expertise.md>)
 

@@ -14,3 +14,14 @@
     - From ambiguous to clear and clarity
     - From verbose to concrete and concise
 - I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [level of thinking](<level of thinking.md>)
+- I had some notions about designing a process or a sequence of activities to level up my expertise by myself. It will need the combination of [level of thinking](<level of thinking.md>) and [Level of expertise](<Level of expertise.md>). [self-learning](<self-learning.md>)
+    - It's like I know what's require to come up to the next step, so I come to the next step and design what's needed to help me come to that step through certain practices.
+    - This approach will help me to focus and aim to the right direction, instead of let myself learn freely and just let them develop naturally all the time.
+    - There will be certain levels that it's helpful to develop naturally like Beginner to the early of Competent. Or from scatter thoughts and knowledge to the point that it requires me to synthesize and integrate.
+    - I also noticed that it's very important for me to develop [My Personal Mission Statement](<My Personal Mission Statement.md>) that helps me to focus on what I want to do from a top-down point of view, instead of just going around all the tools and knowledge like now. Because there will be no end for bottom-up, a certain top-down is helpful for contributing and deepening my expertise.
+- [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>)
+    - The role of [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) is nurture and gather necessary materials, especially the quality one.
+    - The role [🌲Top-down Processing](<🌲Top-down Processing.md>) is making products from the materials gathered, while nurture new things for new products or projects.
+    - This is a circle of learning that we become better at create better products over time by improving the quality of materials as well as the skills to create quality products.
+    - It's important to release the fear of waste because there is nothing waste. It's all serving for the learning and development process, while contributing to the world as the same time.
+        - We are all on a part of a big kindergarten that's the main purpose for us are learning. 

@@ -105762,16 +105762,172 @@
           }
         ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1608167419220,
+        "create-time": 1608188917205,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1608167490302,
+        "edit-time": 1608188918010,
         "refs": [
           {
             "uid": "t_Xwlj5Hq"
           }
         ],
         "string": "I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [[level of thinking]]",
-        "uid": "2gQQJAQVs"
+        "uid": "NSt_43F7s"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "t_Xwlj5Hq"
+          },
+          {
+            ":block/uid": "vexrslpIU"
+          },
+          {
+            ":block/uid": "fmfgeT0iK"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189034514,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189114620,
+            "string": "It's like I know what's require to come up to the next step, so I come to the next step and design what's needed to help me come to that step through certain practices.",
+            "uid": "8RMPWF-AR"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189114614,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189157924,
+            "string": "This approach will help me to focus and aim to the right direction, instead of let myself learn freely and just let them develop naturally all the time.",
+            "uid": "OiRyHyfBZ"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189157920,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189226486,
+            "string": "There will be certain levels that it's helpful to develop naturally like Beginner to the early of Competent. Or from scatter thoughts and knowledge to the point that it requires me to synthesize and integrate.",
+            "uid": "5tBbUiYvL"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "6ZcaAh5Cd"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189226710,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189507785,
+            "refs": [
+              {
+                "uid": "6ZcaAh5Cd"
+              }
+            ],
+            "string": "I also noticed that it's very important for me to develop [[My Personal Mission Statement]] that helps me to focus on what I want to do from a top-down point of view, instead of just going around all the tools and knowledge like now. Because there will be no end for bottom-up, a certain top-down is helpful for contributing and deepening my expertise.",
+            "uid": "atuOvfawK"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608188927174,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608189053236,
+        "refs": [
+          {
+            "uid": "t_Xwlj5Hq"
+          },
+          {
+            "uid": "vexrslpIU"
+          },
+          {
+            "uid": "fmfgeT0iK"
+          }
+        ],
+        "string": "I had some notions about designing a process or a sequence of activities to level up my expertise by myself. It will need the combination of [[level of thinking]] and [[Level of expertise]]. [[self-learning]]",
+        "uid": "gRv0Ca5CE"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "qCYaC9OBE"
+          }
+        ],
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "WEzJ78YCg"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189512095,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189537081,
+            "refs": [
+              {
+                "uid": "WEzJ78YCg"
+              }
+            ],
+            "string": "The role of [[\ud83c\udf32Bottom-up Emergence]] is nurture and gather necessary materials, especially the quality one.",
+            "uid": "RWM5g-4Js"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "-RkDlXRIe"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189537077,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189602187,
+            "refs": [
+              {
+                "uid": "-RkDlXRIe"
+              }
+            ],
+            "string": "The role [[\ud83c\udf32Top-down Processing]] is making products from the materials gathered, while nurture new things for new products or projects.",
+            "uid": "5i9x9fyjA"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189602183,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189646320,
+            "string": "This is a circle of learning that we become better at create better products over time by improving the quality of materials as well as the skills to create quality products.",
+            "uid": "5977E1CAJ"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608189780649,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608189815459,
+                "string": "We are all on a part of a big kindergarten that's the main purpose for us are learning. ",
+                "uid": "OzLz-XOnP"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608189646628,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608189705072,
+            "string": "It's important to release the fear of waste because there is nothing waste. It's all serving for the learning and development process, while contributing to the world as the same time.",
+            "uid": "sWdXwxtxq"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608189507781,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608189512098,
+        "refs": [
+          {
+            "uid": "qCYaC9OBE"
+          }
+        ],
+        "string": "[[\ud83c\udf31Progressive Development Approach]]",
+        "uid": "zbD0hrRt2"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -105786,5 +105942,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1608166370992,
     "title": "Roam-Highlights"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608189270947,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608189270949,
+    "title": "My Personal Mission Statement"
   }
 ]

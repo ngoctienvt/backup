@@ -29,6 +29,9 @@
 ## [December 13th, 2020](<December 13th, 2020.md>)
 - I noticed that this period of time is when I'm starting to learn to shift my focus on working [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
+## [December 17th, 2020](<December 17th, 2020.md>)
+- The role [🌲Top-down Processing](<🌲Top-down Processing.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down Processing](<🌲Top-down Processing.md>)
 

@@ -27,6 +27,8 @@
 ## [December 17th, 2020](<December 17th, 2020.md>)
 - I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [level of thinking](<level of thinking.md>)
 
+- I had some notions about designing a process or a sequence of activities to level up my expertise by myself. It will need the combination of [level of thinking](<level of thinking.md>)
+
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [level of thinking](<level of thinking.md>)
 
