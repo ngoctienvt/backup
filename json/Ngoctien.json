@@ -105666,6 +105666,98 @@
       {
         ":block/refs": [
           {
+            ":block/uid": "fmfgeT0iK"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608178745176,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608178775726,
+            "string": "Creating a space for their skill development",
+            "uid": "5iazUSjQ2"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608178775720,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608178813535,
+            "string": "Deepen their skill on that space",
+            "uid": "RsAO8Wwk6"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608178783803,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608178789518,
+            "string": "Expand gradually",
+            "uid": "5nDdcVfU5"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608178851604,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608178857060,
+            "string": "From general to context",
+            "uid": "zV4JSWMLt"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608178858105,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608178875476,
+            "string": "From low perspective to high perspective",
+            "uid": "gVLmor_yX"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608178875473,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608178895427,
+            "string": "From surface understanding to deep understanding",
+            "uid": "LebLT4nIj"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608179101274,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608179109740,
+            "string": "From practice to master to show the work",
+            "uid": "qOitakv7D"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608179125970,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608179143674,
+            "string": "From ambiguous to clear and clarity",
+            "uid": "IgNEaKP0a"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608179143667,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608179154204,
+            "string": "From verbose to concrete and concise",
+            "uid": "j51QZZkMf"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608178718537,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608178745180,
+        "refs": [
+          {
+            "uid": "fmfgeT0iK"
+          }
+        ],
+        "string": "The way a person develop their [[Level of expertise]] is start with",
+        "uid": "asjQjpH4y"
+      },
+      {
+        ":block/refs": [
+          {
             ":block/uid": "t_Xwlj5Hq"
           }
         ],
