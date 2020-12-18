@@ -29,8 +29,3 @@
     - The reason is there are too many misleading beliefs that took us the right to be ourselves and to be do the main learning purpose. It creates unnecessary fear and boundaries that leads us further what we truly meant to be. [[false belief]]
 - I feel so angry and uncomfortable when being imposed and judged by other people. It's make me feel not safe and unrespected. This is a big lesson that I need to handle, because I will meet these situations more in the future. This is also a chance for become a truly mature man. [[samskaras]]
 - I noticed that I'm not fully take responsible for my life yet. I'm still see that I'm looking for other people to help me solve my problems. it's may helpful at times, but I want that I can take responsibilities for my inner world, not depend on other people. 
-- [[generative language]] 
-    - Can you see something if you don't have a word for it?
-    - Or can you see something better if you have a word for it
-- In coaching, it's very important to help people reshape the "words" they are using, after their internal transformation process happen [[coaching language]]
-    - busy -> fully optimized

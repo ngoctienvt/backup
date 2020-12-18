@@ -15,6 +15,6 @@
     - What are my workshop goals based on my desire and their needs?
 
 # Backlinks
-## [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>)
+## [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)
 - [Questions to clarify typical participant and goals of the workshop?](<Questions to clarify typical participant and goals of the workshop?.md>)
 

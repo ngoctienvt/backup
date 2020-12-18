@@ -1,4 +1,4 @@
-- Learning and doing exercises for [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>)
+- Learning and doing exercises for [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)
 - Continue work on take note [Courses - Living from the place of surrender](<Courses - Living from the place of surrender.md>)
 - Meditate on my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) and how a [true relationship](<true relationship.md>) will look life for me?
 

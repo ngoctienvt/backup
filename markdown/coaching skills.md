@@ -10,7 +10,7 @@ where they are]]
         - [[coaching questions]] need to base on what we listen instead of just throw them in the air.
             - the power of coaching questions based on how deep we are able to listen
 - 
-- [[coaching presence]]
+- [[Maintains Presence]]
     - [[unattachment centering]]
 - [[Listens Actively]]
     - [[hold the space]]

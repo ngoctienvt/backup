@@ -1,1 +1,12 @@
 - [[my quotes]] Do the best you can until you become better. Then when you become better, do another best.
+- [[Courses - Extraordinary by design - Mindvalley]]
+- [[🎬Courses - Be Extraordinary - Mindvalley]]
+- I want to become a person who attach with nothing and unshakable centering inside myself.
+- [[Maintains Presence]]
+    - Our presence is informed by
+        - Our beliefs
+        - Our inner environments
+        - Our ability to maintain focus and center
+- My practice for [[Segment Intending]] will be focus on my morning first, then afternoon, and lastly, evening.
+- I noticed that my [[fear of missing out]] is appear when I noticed that super.so change their pricing. It's my chance for learn to embrace that's life will give me what I truly want when I really need it, so just keep let go and trust the process, instead of let the samskaras run my life.
+- I feel so happy that I can talk more casual with [[@Nguyễn Mỹ Linh]]. I hope that my presence is helpful for her.

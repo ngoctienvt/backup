@@ -5,7 +5,7 @@
         - Skills level - how deep I can reach 
         - The proficiency - flow/ nature level
         - Creativity - the ability to expand and develop
-- [[coaching presence]]
+- [[Maintains Presence]]
     - There is an object that distract you
     - There is you that being distract
     - There is you that believe that being distract and follow the distraction is normal

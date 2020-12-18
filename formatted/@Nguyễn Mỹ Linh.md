@@ -26,6 +26,9 @@
 ## [December 17th, 2020](<December 17th, 2020.md>)
 - Today I will have a chat with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>).
 
+## [December 18th, 2020](<December 18th, 2020.md>)
+- I feel so happy that I can talk more casual with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>).
+
 ## [December 6th, 2020](<December 6th, 2020.md>)
 - I feel that's my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 

@@ -10,7 +10,7 @@ where they are]]
         - [coaching questions](<coaching questions.md>) need to base on what we listen instead of just throw them in the air.
             - the power of coaching questions based on how deep we are able to listen
 - 
-- [coaching presence](<coaching presence.md>)
+- [Maintains Presence](<Maintains Presence.md>)
     - [unattachment centering](<unattachment centering.md>)
 - [Listens Actively](<Listens Actively.md>)
     - [hold the space](<hold the space.md>)

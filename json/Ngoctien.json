@@ -34487,7 +34487,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "YdaA6oKTR"
+            ":block/uid": "S042PQ_BK"
           }
         ],
         "children": [
@@ -34513,13 +34513,13 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1603934311298,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1603934315199,
+        "edit-time": 1608283126947,
         "refs": [
           {
-            "uid": "YdaA6oKTR"
+            "uid": "S042PQ_BK"
           }
         ],
-        "string": "[[coaching presence]]",
+        "string": "[[Maintains Presence]]",
         "uid": "49lD4Ptwt"
       },
       {
@@ -50013,7 +50013,7 @@
                 ":block/uid": "6FtgImeu-"
               },
               {
-                ":block/uid": "YdaA6oKTR"
+                ":block/uid": "S042PQ_BK"
               }
             ],
             "children": [
@@ -50105,7 +50105,7 @@
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1603934072641,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1603934227306,
+            "edit-time": 1608283126947,
             "refs": [
               {
                 "uid": "-d--5U1su"
@@ -50114,10 +50114,10 @@
                 "uid": "6FtgImeu-"
               },
               {
-                "uid": "YdaA6oKTR"
+                "uid": "S042PQ_BK"
               }
             ],
-            "string": "So learning to enjoy the moment in front of me without the [[personal needs]] to change it so that it will be make me feel good is the most important thing to develop my [[coaching presence]]. \n\nI will be presence myself to interact with them as a whole, not to use them to interact with my inner [[samskaras]].",
+            "string": "So learning to enjoy the moment in front of me without the [[personal needs]] to change it so that it will be make me feel good is the most important thing to develop my [[Maintains Presence]]. \n\nI will be presence myself to interact with them as a whole, not to use them to interact with my inner [[samskaras]].",
             "uid": "U86R6pU6N"
           }
         ],
@@ -51936,13 +51936,6 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1603933956154,
     "title": "perfect"
-  },
-  {
-    "create-email": "ngoctienvt@gmail.com",
-    "create-time": 1603934191912,
-    "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1603934191914,
-    "title": "coaching presence"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -84230,13 +84223,13 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607135206521,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607135446407,
+        "edit-time": 1608276218361,
         "refs": [
           {
             "uid": "_nCRVm8zv"
           }
         ],
-        "string": "Learning and doing exercises for [[Courses - Design Lean Workshop]]",
+        "string": "Learning and doing exercises for [[\ud83c\udfacCourses - Design Lean Workshop]]",
         "uid": "Os3kkv7qO"
       },
       {
@@ -91989,8 +91982,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1606834127712,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1606834127712,
-    "title": "Courses - Design Lean Workshop"
+    "edit-time": 1608276218361,
+    "title": "\ud83c\udfacCourses - Design Lean Workshop"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -99263,7 +99256,7 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1607427497663,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1607852559154,
+        "edit-time": 1608276218361,
         "refs": [
           {
             "uid": "-RkDlXRIe"
@@ -99275,7 +99268,7 @@
             "uid": "_nCRVm8zv"
           }
         ],
-        "string": "It's really about [[getting in touch with reality]] and [[\ud83c\udf32Top-down Processing]] that I'm learning from this [[Courses - Design Lean Workshop]]. The reason is it's about I'm getting connect with the participants and clarify how I want to support them based on their needs. ",
+        "string": "It's really about [[getting in touch with reality]] and [[\ud83c\udf32Top-down Processing]] that I'm learning from this [[\ud83c\udfacCourses - Design Lean Workshop]]. The reason is it's about I'm getting connect with the participants and clarify how I want to support them based on their needs. ",
         "uid": "40z3y_Iak"
       },
       {
@@ -101407,7 +101400,7 @@
               {
                 ":block/refs": [
                   {
-                    ":block/uid": "YdaA6oKTR"
+                    ":block/uid": "S042PQ_BK"
                   }
                 ],
                 "children": [
@@ -101523,13 +101516,13 @@
                 "create-email": "ngoctienvt@gmail.com",
                 "create-time": 1608103180607,
                 "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1608104348615,
+                "edit-time": 1608283126947,
                 "refs": [
                   {
-                    "uid": "YdaA6oKTR"
+                    "uid": "S042PQ_BK"
                   }
                 ],
-                "string": "YOUR PRESENCE AS A COACH [[coaching presence]]",
+                "string": "YOUR PRESENCE AS A COACH [[Maintains Presence]]",
                 "uid": "HW0R6mGYN"
               },
               {
@@ -103528,8 +103521,8 @@
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1607499882068,
     "edit-email": "ngoctienvt@gmail.com",
-    "edit-time": 1607499882069,
-    "title": "Books - The heart of laser-focused coaching"
+    "edit-time": 1608276130588,
+    "title": "\ud83d\udcdaBooks - The heart of laser-focused coaching"
   },
   {
     "create-email": "ngoctienvt@gmail.com",
@@ -105527,7 +105520,7 @@
       {
         ":block/refs": [
           {
-            ":block/uid": "YdaA6oKTR"
+            ":block/uid": "S042PQ_BK"
           }
         ],
         "children": [
@@ -105559,13 +105552,13 @@
         "create-email": "ngoctienvt@gmail.com",
         "create-time": 1608111341427,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1608111346232,
+        "edit-time": 1608283126947,
         "refs": [
           {
-            "uid": "YdaA6oKTR"
+            "uid": "S042PQ_BK"
           }
         ],
-        "string": "[[coaching presence]]",
+        "string": "[[Maintains Presence]]",
         "uid": "1UJT3kRMO"
       },
       {
@@ -106413,70 +106406,6 @@
         "edit-time": 1608217624404,
         "string": "I noticed that I'm not fully take responsible for my life yet. I'm still see that I'm looking for other people to help me solve my problems. it's may helpful at times, but I want that I can take responsibilities for my inner world, not depend on other people. ",
         "uid": "MmL8o_yIx"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "9cTqkWrSg"
-          }
-        ],
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1608223845967,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608223881840,
-            "string": "Can you see something if you don't have a word for it?",
-            "uid": "8Zc3K4Mby"
-          },
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1608223883816,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608224200435,
-            "string": "Or can you see something better if you have a word for it",
-            "uid": "bXAfucaPA"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1608223881824,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1608224186247,
-        "refs": [
-          {
-            "uid": "9cTqkWrSg"
-          }
-        ],
-        "string": "[[generative language]] ",
-        "uid": "QR9hIxnrT"
-      },
-      {
-        ":block/refs": [
-          {
-            ":block/uid": "LOrgg02dy"
-          }
-        ],
-        "children": [
-          {
-            "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1608224236763,
-            "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608224241690,
-            "string": "busy -> fully optimized",
-            "uid": "MAC0lC3D6"
-          }
-        ],
-        "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1608224204849,
-        "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1608224267939,
-        "refs": [
-          {
-            "uid": "LOrgg02dy"
-          }
-        ],
-        "string": "In coaching, it's very important to help people reshape the \"words\" they are using, after their internal transformation process happen [[coaching language]]",
-        "uid": "CnWKPg3HR"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -106532,6 +106461,158 @@
         ],
         "string": "[[my quotes]] Do the best you can until you become better. Then when you become better, do another best.",
         "uid": "tUSaMaMox"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "lwSmoFNrZ"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608275718393,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608275725454,
+        "refs": [
+          {
+            "uid": "lwSmoFNrZ"
+          }
+        ],
+        "string": "[[Courses - Extraordinary by design - Mindvalley]]",
+        "uid": "8uaGBOBaM"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "JouzvsU2X"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608275737433,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608276229154,
+        "refs": [
+          {
+            "uid": "JouzvsU2X"
+          }
+        ],
+        "string": "[[\ud83c\udfacCourses - Be Extraordinary - Mindvalley]]",
+        "uid": "kj_kaG-GD"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608275761201,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608275796550,
+        "string": "I want to become a person who attach with nothing and unshakable centering inside myself.",
+        "uid": "Qf_bZoNHW"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "S042PQ_BK"
+          }
+        ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608283090946,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608283093484,
+                "string": "Our beliefs",
+                "uid": "Pnj3J-X_U"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608283093476,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608283101018,
+                "string": "Our inner environments",
+                "uid": "ur-q33BIC"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608283101013,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608283108891,
+                "string": "Our ability to maintain focus and center",
+                "uid": "_SqbG_ZOM"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608283076190,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608283090951,
+            "string": "Our presence is informed by",
+            "uid": "DV17pClBj"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608275846633,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608283126947,
+        "refs": [
+          {
+            "uid": "S042PQ_BK"
+          }
+        ],
+        "string": "[[Maintains Presence]]",
+        "uid": "HYHD2UE8e"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "asUD60la9"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608283188611,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608283219784,
+        "refs": [
+          {
+            "uid": "asUD60la9"
+          }
+        ],
+        "string": "My practice for [[Segment Intending]] will be focus on my morning first, then afternoon, and lastly, evening.",
+        "uid": "n0VzlHPnA"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "VtiPCnNwA"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608283219781,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608283301953,
+        "refs": [
+          {
+            "uid": "VtiPCnNwA"
+          }
+        ],
+        "string": "I noticed that my [[fear of missing out]] is appear when I noticed that super.so change their pricing. It's my chance for learn to embrace that's life will give me what I truly want when I really need it, so just keep let go and trust the process, instead of let the samskaras run my life.",
+        "uid": "hK2Tlkk9L"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "UcKrvUeVa"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608283301949,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608283342514,
+        "refs": [
+          {
+            "uid": "UcKrvUeVa"
+          }
+        ],
+        "string": "I feel so happy that I can talk more casual with [[@Nguy\u1ec5n M\u1ef9 Linh]]. I hope that my presence is helpful for her.",
+        "uid": "6PfqnOyy7"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -106539,5 +106620,463 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1608252907337,
     "title": "December 18th, 2020"
+  },
+  {
+    "children": [
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608276581990,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608276598188,
+            "string": "Become unshakeable centering inside myself",
+            "uid": "DwrJNNBQD"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608276598181,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608276638959,
+            "string": "Unattachment with everything and establish a new way of connection",
+            "uid": "u7koiA2Xd"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608276672393,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608276683790,
+            "string": "Intentional in life",
+            "uid": "HLdrGJLUP"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608276576322,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608276581994,
+        "string": "My End Goal for this course",
+        "uid": "8XYz0KCI9"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608275863830,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276539384,
+                "string": "Learn to questions society's rules",
+                "uid": "4rLObQ76V"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608275880047,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608275885140,
+                "string": "Learn to develop intuition",
+                "uid": "1Z3ZH8_VQ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608275885135,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276564550,
+                "string": "Develop the ability to bend reality",
+                "uid": "iE9oo2Wop"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608275928793,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608275953529,
+                    "string": "Are you doing what you are __meant__ to do in this world?",
+                    "uid": "XySlfZCfH"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608275893679,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608275907622,
+                "string": "You become extraordinary by serving the world.",
+                "uid": "j_v8zLYIW"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608275853759,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608275863836,
+            "string": "Welcome to Extraordinary quest",
+            "uid": "eTCXrGZ1x"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608276004728,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276015221,
+                "string": "We are all living in the Culturescape",
+                "uid": "K0J-hgXWs"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608276245896,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276267514,
+                    "string": "We inherit behaviors through contagion (mimic) and not rational choice",
+                    "uid": "qvRS6ZhHO"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608276267504,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276277933,
+                    "string": "Listen to your soul to do what lights you up",
+                    "uid": "jDS8ogBC6"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608276277929,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276301888,
+                    "string": "Brules are the rules we take on from our outside environment",
+                    "uid": "KJ0mLsAaU"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608276015215,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276025017,
+                "string": "Brules - limiting rules imposed by culture",
+                "uid": "TyIsIVHO4"
+              },
+              {
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9cTqkWrSg"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608223845967,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608276082181,
+                        "string": "Can you see something if you don't have a word for it?",
+                        "uid": "8Zc3K4Mby"
+                      },
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608223883816,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608276082181,
+                        "string": "Or can you see something better if you have a word for it",
+                        "uid": "bXAfucaPA"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608223881824,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276082181,
+                    "refs": [
+                      {
+                        "uid": "9cTqkWrSg"
+                      }
+                    ],
+                    "string": "[[generative language]] ",
+                    "uid": "QR9hIxnrT"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608276025012,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276035996,
+                "string": "Language shapes how we experience the world",
+                "uid": "7Qm4jeOsL"
+              },
+              {
+                "children": [
+                  {
+                    ":block/refs": [
+                      {
+                        ":block/uid": "LOrgg02dy"
+                      }
+                    ],
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608224236763,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608276082181,
+                        "string": "busy -> fully optimized",
+                        "uid": "MAC0lC3D6"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608224204849,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276082181,
+                    "refs": [
+                      {
+                        "uid": "LOrgg02dy"
+                      }
+                    ],
+                    "string": "In coaching, it's very important to help people reshape the \"words\" they are using, after their internal transformation process happen [[coaching language]]",
+                    "uid": "CnWKPg3HR"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608276035990,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276041220,
+                "string": "Use words that empower you",
+                "uid": "XGnJ1qXTN"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608275999667,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608276004733,
+            "string": "The cognitive revolution",
+            "uid": "_Yf0pgFhx"
+          },
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608276318114,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276371678,
+                "string": "> \"If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking. \" - Richard Buckminster Fuller",
+                "uid": "k1Fer0SXB"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608276438112,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276450461,
+                    "string": "Reality is not absolute. You make it up all the time.",
+                    "uid": "6NEeOwPtX"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608276450455,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276463599,
+                    "string": "Replace outdated Models of Reality with new ones.",
+                    "uid": "Sja3Jpt1a"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608276463592,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276478339,
+                    "string": "When you change your Models, everything in your life change.",
+                    "uid": "5PcfMYvrE"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608276373271,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276417318,
+                "string": "Beliefs are our mind's hardware - Models of Reality",
+                "uid": "9L29jtQTk"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608276493986,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608276517394,
+                    "string": "Examine and improve your Systems continuously.",
+                    "uid": "FtDWMF29p"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608276393519,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608276422836,
+                "string": "Daily practices are our mind's software - Systems for living",
+                "uid": "SwFxRWx7U"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608276307584,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608276318124,
+            "string": "Consciousness Engineering",
+            "uid": "OV9knHZpb"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608275752090,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608275853766,
+        "string": "Warm up",
+        "uid": "TbR4cTxY7"
+      },
+      {
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608276711081,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608277019617,
+            "string": "Different tools applies to different levels of consciousness",
+            "uid": "H5oL6FFhF"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608277234450,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608277237711,
+                    "string": "Life happen to you",
+                    "uid": "kJ7PajL3J"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608277294479,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608277298348,
+                    "string": "Obeying the rules",
+                    "uid": "5piQtyubY"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608277119975,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608277184975,
+                    "string": "Tradition is peer pressure from dead people",
+                    "uid": "ai3quk-wY"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608278073678,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608278117676,
+                "string": "ABout living in the Culturescape, following Brules and being suceptible to peer pressure",
+                "uid": "zuXXm1OVg"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608277114504,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608277119980,
+            "string": "Level 1 - The Victim Stage",
+            "uid": "hIvPgfcL8"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608277216350,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608277242486,
+                    "string": "Life happen from you",
+                    "uid": "I0SQbOuuk"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608278126744,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608278142142,
+                "string": "About questioning the rules and seeing the world as bendable",
+                "uid": "njz31zMHz"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608277801395,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608277807144,
+                    "string": "Direct your brain on what to focus on",
+                    "uid": "zsx9MgTKh"
+                  },
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608277807135,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608277973425,
+                    "string": "Perfect days make perfect weeks makes perfect month makes perfect year",
+                    "uid": "YgnD0RA6N"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608277628403,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608277635102,
+                "string": "Segment Intending exercise",
+                "uid": "11L47HZ4B"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608277209947,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608277216355,
+            "string": "Level 2 - The Awakening Stage",
+            "uid": "13B05UWEq"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608277973410,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608278054197,
+            "string": "Level 3 - Recoding Inner World Stage",
+            "uid": "ARGLWfA7j"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608278054190,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608278063447,
+            "string": "Level 4 - Becoming Extraordinary",
+            "uid": "zyPIqJods"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608278064103,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608278064103,
+            "string": "",
+            "uid": "0KpLpCCJl"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608276422831,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608276711098,
+        "string": "The four level of consciousness",
+        "uid": "FIt4HWoRn"
+      }
+    ],
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608275750365,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608276229154,
+    "title": "\ud83c\udfacCourses - Be Extraordinary - Mindvalley"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608283200994,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608283200995,
+    "title": "Segment Intending"
   }
 ]

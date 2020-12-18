@@ -99,9 +99,6 @@
         - Knowledge of cognition in general as well as awareness and knowledge of one’s own cognition
 
 # Backlinks
-## [Courses - Design Lean Workshop](<Courses - Design Lean Workshop.md>)
-- [Bloom's taxonomy](<Bloom's taxonomy.md>)
-
 ## [December 11th, 2020](<December 11th, 2020.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
@@ -114,5 +111,8 @@
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
 ## [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>)
+- [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
+## [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 

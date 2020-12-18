@@ -1,0 +1,48 @@
+- My End Goal for this course
+    - Become unshakeable centering inside myself
+    - Unattachment with everything and establish a new way of connection
+    - Intentional in life
+- Warm up
+    - Welcome to Extraordinary quest
+        - Learn to questions society's rules
+        - Learn to develop intuition
+        - Develop the ability to bend reality
+        - You become extraordinary by serving the world.
+            - Are you doing what you are __meant__ to do in this world?
+    - The cognitive revolution
+        - We are all living in the Culturescape
+        - Brules - limiting rules imposed by culture
+            - We inherit behaviors through contagion (mimic) and not rational choice
+            - Listen to your soul to do what lights you up
+            - Brules are the rules we take on from our outside environment
+        - Language shapes how we experience the world
+            - [[generative language]] 
+                - Can you see something if you don't have a word for it?
+                - Or can you see something better if you have a word for it
+        - Use words that empower you
+            - In coaching, it's very important to help people reshape the "words" they are using, after their internal transformation process happen [[coaching language]]
+                - busy -> fully optimized
+    - Consciousness Engineering
+        - > "If you want to teach people a new way of thinking, don't bother trying to teach them. Instead, give them a tool, the use of which will lead to new ways of thinking. " - Richard Buckminster Fuller
+        - Beliefs are our mind's hardware - Models of Reality
+            - Reality is not absolute. You make it up all the time.
+            - Replace outdated Models of Reality with new ones.
+            - When you change your Models, everything in your life change.
+        - Daily practices are our mind's software - Systems for living
+            - Examine and improve your Systems continuously.
+- The four level of consciousness
+    - Different tools applies to different levels of consciousness
+    - Level 1 - The Victim Stage
+        - ABout living in the Culturescape, following Brules and being suceptible to peer pressure
+            - Life happen to you
+            - Obeying the rules
+            - Tradition is peer pressure from dead people
+    - Level 2 - The Awakening Stage
+        - About questioning the rules and seeing the world as bendable
+            - Life happen from you
+        - Segment Intending exercise
+            - Direct your brain on what to focus on
+            - Perfect days make perfect weeks makes perfect month makes perfect year
+    - Level 3 - Recoding Inner World Stage
+    - Level 4 - Becoming Extraordinary
+    - 

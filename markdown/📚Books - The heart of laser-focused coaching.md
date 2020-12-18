@@ -4,10 +4,10 @@
 - ### Chapter 1 - The foundational for laser-focused coaching
     - Becoming a masterful coach
         - Things we already know about coaching
-            - Coaching general understanding [What is coaching?](<What is coaching?.md>)
+            - Coaching general understanding [[What is coaching?]]
                 - Coaching emphasizes experiencing the present moment and shifting perspective and viewpoint. 
                     - Unlike some types of therapy, it doesn’t focus deeply on the past. The emphasis is on what is possible in the present looking toward the future.
-                -  Coaching involves forming a partnership with your client to help them move forward in ways that are authentically satisfying. [Coaching partnering](<Coaching partnering.md>)
+                -  Coaching involves forming a partnership with your client to help them move forward in ways that are authentically satisfying. [[Coaching partnering]]
                     -  Satisfaction can come from resolving situations, dilemmas, conflicts, and concerns, and from figuring out how to create, grow, and expand.
                 -  Coaching is about finding a way to change what isn’t working or improving on something that is working. 
                     - It addresses desires, problems, or situations in the present.
@@ -16,7 +16,7 @@
                     - Through coaching, a client can achieve their vision (what they want in life) by breaking it down into smaller, more manageable steps. Each conversation moves the client closer to what they really want.
                     - Talking with a friend can be helpful, but coaching offers undistracted listening that is non-judgmental, trusting, honest, and exceptionally objective
                 - A coach is a resource with a large tool kit for assisting clients in developing and pursuing their vision, so they achieve positive and permanent results. 
-            - The coaching process can be broken down into three simple and easy steps: [coaching process](<coaching process.md>)
+            - The coaching process can be broken down into three simple and easy steps: [[coaching process]]
                 - 1. Identify the ideas, thoughts, or beliefs that keep your client from getting what they want. 
                 - 2. Help them shift their perspective so that they can feel good about themselves and move forward. 
                 - 3. Help them capitalize on their strengths to achieve fulfillment and their full potential.
@@ -25,17 +25,17 @@
                     -  Become more self-aware 
                     - Discover what is keeping them “stuck” 
                     - Create more prosperity, balance, and fulfillment in their life and/or work
-        - [Transformational Coaching](<Transformational Coaching.md>) approach
+        - [[Transformational Coaching]] approach
             - Major distinctions with general coaching
-                - The coach truly focuses on the client — who the person is, what they think is true, how they behave, and what they value. [focus on the client as a whole](<focus on the client as a whole.md>) [coach the who](<coach the who.md>)
-                - The coach is able to completely release the need to perform or prove their value. [releasing personal needs](<releasing personal needs.md>)
+                - The coach truly focuses on the client — who the person is, what they think is true, how they behave, and what they value. [[focus on the client as a whole]] [[coach the who]]
+                - The coach is able to completely release the need to perform or prove their value. [[releasing personal needs]]
                     - As opposed to focusing on results, the intention is on purposeful exploration leading organically to long-term transformation that affects all areas of a client’s life.
                     - The client naturally creates their own forward movement from a highly motivated perspective. 
                         - From the literal first question, more profound, insightful coaching is underway.
-                - Coach knows how to create and demonstrate a collaborative relationship by providing context for questions and pertinent reflection. [Coaching partnering](<Coaching partnering.md>)
+                - Coach knows how to create and demonstrate a collaborative relationship by providing context for questions and pertinent reflection. [[Coaching partnering]]
                     - It’s not about focusing on solving the problematic situation because the solution is actually a by-product. 
                     - Trying to get to a solution or action plan before exploring the client’s thinking, behavior, ideas, and values is the same as asking an inappropriate question such as “How much money do you make?”
-                - Most people think coaching is about helping clients. While we do help them, that is not our aim in Laser-Focused Coaching.  [What is coaching?](<What is coaching?.md>)
+                - Most people think coaching is about helping clients. While we do help them, that is not our aim in Laser-Focused Coaching.  [[What is coaching?]]
                     - __Our role is to shine a light on something our client cannot see for themselves. __
                         - And with that light, clients discover things they couldn’t see before, thus helping becomes the by-product .
         - CONVENTIONAL COACHING VERSUS LASERFOCUSED COACHING
@@ -48,41 +48,41 @@
                     - Often the coach fails to realize that they are not responsible for any outcome, and consequently gathers more information than is actually needed.
                         - This focus on collecting data prevents efficient and more meaningful coaching.
                 - While the client might seem temporarily pleased, neither the coach nor the client realizes how much more could have come from the coaching had the underlying issue been addressed at the root.
-            - [Transformational Coaching](<Transformational Coaching.md>) or Laser-focused Coaching
-                - relies on understanding the person, not their situation or problem. [coach the who](<coach the who.md>)
+            - [[Transformational Coaching]] or Laser-focused Coaching
+                - relies on understanding the person, not their situation or problem. [[coach the who]]
                     - emphasizes coaching the “who” and separating the “who” from the client’s “story” or situation.
-                - A major distinction is that the __coach doesn’t automatically accept the client’s words as the truth, __because most of what we hear is likely that person’s perception of what is true. [discerning truth from perception](<discerning truth from perception.md>)
+                - A major distinction is that the __coach doesn’t automatically accept the client’s words as the truth, __because most of what we hear is likely that person’s perception of what is true. [[discerning truth from perception]]
                     - Learning how to distinguish truth from perception is the foundation of Laser-Focused Coaching.
                     -  It’s about uncovering the misconceptions to reveal the client’s own truth rather than what’s true for someone else .
-                - Questions posed are consistently provocative and challenge the client’s thinking, [Evokes awareness](<Evokes awareness.md>) [powerful questions](<powerful questions.md>)
+                - Questions posed are consistently provocative and challenge the client’s thinking, [[Evokes awareness]] [[powerful questions]]
                     - while delving into the real meaning of what they’re about: their thinking, behavior, ideas, and values.
-                - Laser-Focused Coaching is about going deeper, not broader; that is, getting to the bottom line efficiently and effectively. [🌱Natural Progression](<🌱Natural Progression.md>)
+                - Laser-Focused Coaching is about going deeper, not broader; that is, getting to the bottom line efficiently and effectively. [[🌱Natural Progression]]
                     - It’s based on deep curiosity and respect for the uniqueness of another human being. 
                     - It’s not formulaic, but rather organic and natural. 
-                - Laser-Focused Coaching refers to a specific coaching process to  [Transformational Coaching](<Transformational Coaching.md>)
+                - Laser-Focused Coaching refers to a specific coaching process to  [[Transformational Coaching]]
                     - quickly identify a greater truth 
                     - and provide information that can create an immediate change.
-                - Coaching is never routine, and your client’s life is changed in profound ways. [Why Transformational Coaching is effective?](<Why Transformational Coaching is effective?.md>)
+                - Coaching is never routine, and your client’s life is changed in profound ways. [[Why Transformational Coaching is effective?]]
                     - This isn’t because you have laid out a path for results. 
                         - It is because you have the skills to 
                             - listen in a unique way, 
                             - ask thought-provoking questions that expand their thinking, 
                             - and discover subconscious ideas that might be preventing progress.
                     - You offer a completely neutral, safe environment for them to determine their path in an organic way. 
-                    - __The coach explores with the client until it becomes evident what the person really needs. __ [🌱Natural Progression](<🌱Natural Progression.md>)
+                    - __The coach explores with the client until it becomes evident what the person really needs. __ [[🌱Natural Progression]]
                         - The initial exploration eclipses homing in on the agreement.
                         - Because the coaching goes deep, your client naturally 
                             - creates their own action(s) 
                             - and is highly motivated to create 
                                 - their own supportive environment to sustain the action(s) they have chosen.
-                    - Laser-Focused Coaching allows a client to: [Benefits of Transformational Coaching](<Benefits of Transformational Coaching.md>)
+                    - Laser-Focused Coaching allows a client to: [[Benefits of Transformational Coaching]]
                         - Move beyond perceived obstacles 
                         - Discover what they really want and need (which often is not the initial desire they voiced)
                         - Realize a new perspective in thinking that is so powerful they can’t go back to their original thinking 
                         - Learn the art of surrounding themselves with people who truly support them 
                         - Organically design their own plan for creating their desired experiences and outcomes 
                         - Achieve meaningful, consistent results that are long-lasting and impact other aspects of their life
-                - Example of the difference between conventional-coaching and transformational coaching [Coaching examples](<Coaching examples.md>)
+                - Example of the difference between conventional-coaching and transformational coaching [[Coaching examples]]
                     - Leah came to her coaching session and said, “I feel vulnerable about my situation and it’s difficult to share this.” She then launched into, “I want to talk about my daughter and the problems she’s having on her swim team. I’m not sure if I should have her coached privately by an outside person or have the swim team coach work with her.”
                         - Conventional Approach
                             - “Thanks for sharing. What would be a good outcome for our conversation?” 
@@ -103,17 +103,17 @@
                                     - Then the coach acknowledged Leah’s concern and asked a question specifically addressing her — not the daughter or the decision. 
                                         - “What’s making you feel vulnerable…?”
                                     - In Leah’s case, it might have been that she believed her child’s progress was a reflection of her own worth. Perhaps Leah struggled in school and is triggered by painful memories. Or it might have been some other reason entirely.
-                    - The aim of a Laser-Focused coaching session is [Goals of Transformational Coaching](<Goals of Transformational Coaching.md>)
+                    - The aim of a Laser-Focused coaching session is [[Goals of Transformational Coaching]]
                         - to understand the client, 
                         - explore what is troubling about their situation 
                         - and ascertain how they would like to feel instead.
                         - This helps them discover what thoughts or ideas are in the way of that.
 - ## Part II - The beginning
-- ### Chapter 2 - The laser-focused mindset [Maintains Presence](<Maintains Presence.md>) [Embodies a Coaching Mindset](<Embodies a Coaching Mindset.md>)
-    - Everything begins with the right mindset and it’s just as important as the actual coaching. [Embodies a Coaching Mindset](<Embodies a Coaching Mindset.md>)
+- ### Chapter 2 - The laser-focused mindset [[Maintains Presence]] [[Embodies a Coaching Mindset]]
+    - Everything begins with the right mindset and it’s just as important as the actual coaching. [[Embodies a Coaching Mindset]]
         - In coaching, it is the ability to presence of the coach
-    - Key elements for developing true coaching presence [Coaching Presence key elements](<Coaching Presence key elements.md>)
-        - [Be empty](<Be empty.md>) [trust the process](<trust the process.md>)
+    - Key elements for developing true coaching presence [[Coaching Presence key elements]]
+        - [[Be empty]] [[trust the process]]
             - Blank Slate
                 - a completely objective person without expectations of any kind,
                     - someone free of preconceived ideas about what is coming or what “should” happen.
@@ -144,23 +144,23 @@
                                     - ask questions about who they are, 
                                     - and then help them work with that information.
                             - __Learn to trust yourself — no matter what.__
-        - YOUR PRESENCE AS A COACH [coaching presence](<coaching presence.md>)
+        - YOUR PRESENCE AS A COACH [[Maintains Presence]]
             - To be presence means to focus on what you're hearing
                 - As long as you’re open, non-judgmental, curious about the person, undistracted, and focused on listening to what is said and what is not said, you are present.
-                - When you speak with your client, it’s important to be fully conscious and create a spontaneous relationship. Be open, flexible, and appear confident even when you don’t feel that way. [spontaenous](<spontaenous.md>)
-                - As a coach, there will be times in the conversation when your own thoughts will be distracting, confusing, or filled with doubt. Notice those thoughts and return your attention to listening to your client. [regain presence](<regain presence.md>)
+                - When you speak with your client, it’s important to be fully conscious and create a spontaneous relationship. Be open, flexible, and appear confident even when you don’t feel that way. [[spontaenous]]
+                - As a coach, there will be times in the conversation when your own thoughts will be distracting, confusing, or filled with doubt. Notice those thoughts and return your attention to listening to your client. [[regain presence]]
                     - As you gain more experience using transformational techniques, those doubts and lack of trust in the process begin to melt away.
                     - If you find yourself becoming anxious because you don’t know where the conversation is going, refocus on deep listening and ask your client what is needed. For example, you can simply ask, “What would be most helpful at this point?”
-                - Think of it like a movie with a sudden plot twist that takes you by surprise. [emergence child-like mindset](<emergence child-like mindset.md>)
+                - Think of it like a movie with a sudden plot twist that takes you by surprise. [[emergence child-like mindset]]
                     - It’s the same when your client is telling a story that is familiar; you have to be prepared for a twist so you can remain connected. 
                     - Masterful coaching means that at any moment in the conversation you have absolutely, positively no clue where the conversation will end up; you are simply following the client’s responses to your questions.
         - LET GO OF THE FORMULAS
-            - Masterful coaching does not have an explicit formula or model. Instead, it’s organic in nature as you respond naturally to what your client offers. [Listens Actively](<Listens Actively.md>)
+            - Masterful coaching does not have an explicit formula or model. Instead, it’s organic in nature as you respond naturally to what your client offers. [[Listens Actively]]
             - It’s important that the conversation is flowing, organic, and natural. 
                 - Don’t use industry jargon; you should never need to explain a word or expression to your client. Use everyday language, just as you would with a friend over lunch.
-            - Great questions arise from great listening, they don’t arise from a list. [Listens Actively](<Listens Actively.md>)
+            - Great questions arise from great listening, they don’t arise from a list. [[Listens Actively]]
                 - You are responding to what your client presents instead of making them respond to what you present.
-            - In a masterful coaching session, awareness is created constantly, consistently, and throughout the conversation. [Evokes awareness](<Evokes awareness.md>)
+            - In a masterful coaching session, awareness is created constantly, consistently, and throughout the conversation. [[Evokes awareness]]
                 - It is often described as coming in waves. 
                 - The client’s awareness can come from your: 
                     - Reflection (your interpretation) 
@@ -177,25 +177,25 @@
                 - Focus the conversation on your client, not on you. 
                     - When you do this well, you don’t get sucked into their emotions or the details about their situation. 
                     - In general, don’t bring your experiences or opinions into the conversation unless they’re based on something your client shared, no matter how tempting it might be.
-                - Remain professional with your client. [coach proferssional boundary](<coach proferssional boundary.md>)
+                - Remain professional with your client. [[coach proferssional boundary]]
                     - Avoid looking to them to fulfill your personal needs, such as the need to socialize, to be liked, to be praised, etc. 
                     - Refrain from agreeing with them or comparing yourself to their situation, as this can get in the way of your role as the objective listener. 
                     - Even if you strongly identify with them or have had a similar experience, use what you learned from your situation to question them without mentioning how you learned it.
                 - Friendly means staying objective and enjoying your client. It doesn’t mean sharing and commiserating the way friends do.
-        - BE YOUR OWN COACH FIRST [Live Deeply](<Live Deeply.md>)
+        - BE YOUR OWN COACH FIRST [[Live Deeply]]
             - Becoming truly masterful is to work on your own problems.
                 - That doesn’t necessarily mean solving them completely; it means continually working on your personal development and growth.
                 - use your clients’ challenges as a springboard for working on areas you need to focus on.
                     - For instance, if your client is challenged by boundaries, it’s an opportunity to look at your own boundaries and note where some work might be needed.
-        - YOUR EGO AND THE USE OF “I” [Coach from the soul, not the ego](<Coach from the soul, not the ego.md>)
+        - YOUR EGO AND THE USE OF “I” [[Coach from the soul, not the ego]]
             - It’s important to __keep the word I out of the coaching conversation__ as much as possible. 
                 - Your client doesn’t need your advice or to hear about something that worked for you.
-            - __You may right, but your client is always right.__ [Embodies a Coaching Mindset](<Embodies a Coaching Mindset.md>)
+            - __You may right, but your client is always right.__ [[Embodies a Coaching Mindset]]
                 - For example, your client states, “The grass is purple.” Instead of contradicting them, ask the question “What has you coming to that conclusion?” In other words, don’t make them wrong or set up barriers.
                 - Letting them explain doesn’t mean you agree with them. 
                     - It means you respect their different point of view. 
                     - Give them the space to explore their ideas so that you get closer to the root of their beliefs and stories.
-            - Our work as coaches is to be of service. [Embodies a Coaching Mindset](<Embodies a Coaching Mindset.md>)
+            - Our work as coaches is to be of service. [[Embodies a Coaching Mindset]]
                 - If we try to help or fix them, we are making a judgment that the person is broken. 
                 - Helping and fixing lead only in one direction; they are draining, and they keep us from serving the dream in other people. 
                 - They imply that we don’t trust the person’s potential and that we have more expertise. 
@@ -273,7 +273,7 @@
                 - Patricia was silent for quite some time before saying, “You are right and hearing that, I realize I didn’t plan well at all for something so important to me.” 
                 - By the end of the conversation, Patricia felt empowered and altered her negative, limited trajectory, and planned to consult with her CPA and get creative accounting advice. (Soon after, she was able to cobble the funds together to fulfill her dream.)
                 - If I had asked, “What will it mean for you to give up your dream?” it may have led to a downward spiral because I was buying into the story that Patricia messed up and can’t do what she really wants.
-        - [Language in Coaching](<Language in Coaching.md>)
+        - [[Language in Coaching]]
             - SPEAK CLIENT'S LANGUAGE
                 - There are instances in which this can feel uncomfortable or strange. Even though that may be the case, it’s helpful for the client to use their vocabulary so __they don’t have to interpret what you’re saying__ or asking. 
                     - For example, if they use the word photograph and your word is picture, use their word. 
@@ -329,7 +329,7 @@
             - To accomplish this safe and trusting environment, keep in mind that the relationship is more important than the results. 
                 - Yes, results are important, but working with human beings with complex thoughts, feelings, and experiences has to be uppermost in our minds. 
                 - With a focus on the relationship and letting go of a strong need for results, deeper trust is created, more can be revealed, and clients go far beyond their initial intention.
-            - [Coaching examples](<Coaching examples.md>)
+            - [[Coaching examples]]
                 - Erica initially came for coaching because she was unhappy in her job. During our coaching engagement, not only did she change jobs twice, she eventually opened up her own studio. She went from dating to marriage to starting a family. The relationship deepened over a period of several years and went far beyond her initial reason for coaching. 
                 - Melissa came to the call sounding quite upset and immediately shared that she was unexpectedly pregnant. She said she hadn’t told her husband or parents yet but had to tell someone. All I did was stay present and let her know I was there. She didn’t come for any result as much as wanting to process and be heard. Without many words from me, she said she felt my empathy and connection. Several months later, she shared that because of our coaching relationship, she knew she could trust me to hold the space for her .
             - Sometimes, coaching is only about the relationship and respecting the client’s humanity.
@@ -347,7 +347,7 @@
                 - Affirming: “Thanks for sharing that information because it helps me better understand your mindset.” 
                 - The distinction is that, when affirming, we are being specific and providing context .
                 - 
-            - [Coaching examples](<Coaching examples.md>)
+            - [[Coaching examples]]
                 - Josh, a client who was dating a lot, told me a story about a woman who called about going out again, and I noticed a change in how he responded. 
                     - I said, “What I’m really hearing is that the way you handled this particular conversation is so different from how you would’ve handled it six months ago. It’s just showing how much progress you’ve made and how far you’ve come. What do you think about that?” 
                     - Josh replied, “Wow, this is getting easier for me. I didn’t realize I was improving. That’s so cool.” He was appreciative of my noting that he had made progress.

@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Books - The heart of laser-focused coaching](<Books - The heart of laser-focused coaching.md>)
-- [Be empty](<Be empty.md>) [trust the process](<trust the process.md>)
-
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - I felt a little worry about this morning. I felt that I tend to put pressure on myself too much to not do the things wrong [self-pressure](<self-pressure.md>). There is a fear that I don't do things effectively and there is also a mistrust on other people abilities to develop their own uniqueness and their own learning. [trust the process](<trust the process.md>).
 
@@ -31,4 +28,7 @@
 
 ## [interests](<interests.md>)
 - [🌱Natural Progression](<🌱Natural Progression.md>)  - non-resistance, [Flow State MOC](<Flow State MOC.md>), merging, cleaning, [trust the process](<trust the process.md>)
+
+## [📚Books - The heart of laser-focused coaching](<📚Books - The heart of laser-focused coaching.md>)
+- [Be empty](<Be empty.md>) [trust the process](<trust the process.md>)
 
