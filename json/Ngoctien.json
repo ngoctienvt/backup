@@ -106566,17 +106566,69 @@
             ":block/uid": "asUD60la9"
           }
         ],
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284224073,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284246635,
+                "string": "I could wake up and feel so energetic",
+                "uid": "89hgSK1Ws"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284235972,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284259267,
+                "string": "I could know clearly what I want to do this morning",
+                "uid": "xG5N0dP_n"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284259257,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284267334,
+                "string": "I could focus on the work I'm intent to do",
+                "uid": "plmHYLoH6"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284267321,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284340741,
+                "string": "I could keep myself focus and not let myself be distracted to do lower stuff.",
+                "uid": "zAPsJCYFy"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284351229,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284369144,
+                "string": "I could feel joy, happiness, and let go all of my pain, tired.",
+                "uid": "xhdc-yfBm"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608284246628,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608284246628,
+            "string": "It would be nice if ",
+            "uid": "y1SEFh0y3"
+          }
+        ],
         "create-email": "ngoctienvt@gmail.com",
-        "create-time": 1608283188611,
+        "create-time": 1608284222697,
         "edit-email": "ngoctienvt@gmail.com",
-        "edit-time": 1608283219784,
+        "edit-time": 1608284223328,
         "refs": [
           {
             "uid": "asUD60la9"
           }
         ],
         "string": "My practice for [[Segment Intending]] will be focus on my morning first, then afternoon, and lastly, evening.",
-        "uid": "n0VzlHPnA"
+        "uid": "bRE7AwcXd"
       },
       {
         ":block/refs": [
@@ -107034,6 +107086,24 @@
             "uid": "13B05UWEq"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284301873,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284314919,
+                "string": "About understanding that you're a spiritual being and start to explore the world inside",
+                "uid": "pLTJZ2ZrA"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608283549450,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608283555497,
+                "string": "Inspiration leads to intention",
+                "uid": "bXr2XwPfv"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1608277973410,
             "edit-email": "ngoctienvt@gmail.com",
@@ -107042,6 +107112,106 @@
             "uid": "ARGLWfA7j"
           },
           {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608278064103,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284322893,
+                "string": "giving back to the world",
+                "uid": "0KpLpCCJl"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608283942406,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608283967404,
+                "string": "\"Your life is not about you. It's about the lives of everyone else you touch.\" - Neale Donald Walsch",
+                "uid": "d8SNAC_Ea"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608284371310,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608284395967,
+                        "string": "When I start to coaching other people, and start to understand deeply about them.",
+                        "uid": "1WQ2R7mQD"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608284126436,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608284141334,
+                    "string": "A sense of connectedness - compassion for all life",
+                    "uid": "rVgC7QmUA"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608284396287,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608284406734,
+                        "string": "When I intuitively follow my inner inspiration",
+                        "uid": "rbjYTs57N"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608284130093,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608284147657,
+                    "string": "Tapped into your intuition",
+                    "uid": "yoeIDAcuG"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608284407021,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608284426397,
+                        "string": "When I start to form my intention and my direction of life about how I want to navigate my life into",
+                        "uid": "FyL4qyxHr"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608284147646,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608284154316,
+                    "string": "Inspiration drives your intention",
+                    "uid": "AwK40y4CR"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608284427733,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608284444046,
+                        "string": "When things start to come to me, give me the right thing for the right time.",
+                        "uid": "5DeB3O9Lj"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608284154311,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608284159375,
+                    "string": "Luck is on your side",
+                    "uid": "3c8PYXQ_U"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284121599,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284126449,
+                "string": "Qualities of level 4",
+                "uid": "U8VmHdUlj"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
             "create-time": 1608278054190,
             "edit-email": "ngoctienvt@gmail.com",
@@ -107050,12 +107220,132 @@
             "uid": "zyPIqJods"
           },
           {
+            "children": [
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608285377934,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608285391095,
+                    "string": "A mind expanded doesn't shrink back",
+                    "uid": "epjuV6bW6"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284771740,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284794253,
+                "string": "Transformation is a perspective shift - Irreversible shift",
+                "uid": "lyGluIBoY"
+              },
+              {
+                "children": [
+                  {
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608285708397,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608285713461,
+                    "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2Fq1XHjHO3IV.png?alt=media&token=453c3655-6175-4e2f-a674-7d002d45e9e5)",
+                    "uid": "t7RFdYXfC"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608284978968,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608284988407,
+                            "string": "Wounding can lead to a great insight",
+                            "uid": "Ty8SPbWPH"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608284916572,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608284932093,
+                        "string": "\"The wound is where the light enter you.\" -  Rumi",
+                        "uid": "NB8Y9FK1o"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608284852411,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608284882235,
+                    "string": "Disorienting dilemma - suffering",
+                    "uid": "tS2u47nuM"
+                  },
+                  {
+                    "children": [
+                      {
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608285014567,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608285018261,
+                        "string": "The Yoda effect",
+                        "uid": "GH9RLKi5u"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "create-email": "ngoctienvt@gmail.com",
+                                "create-time": 1608285167041,
+                                "edit-email": "ngoctienvt@gmail.com",
+                                "edit-time": 1608285182411,
+                                "string": "When you prioritize your ROSE, everything else in your life grows",
+                                "uid": "5pSltV4ft"
+                              }
+                            ],
+                            "create-email": "ngoctienvt@gmail.com",
+                            "create-time": 1608285136989,
+                            "edit-email": "ngoctienvt@gmail.com",
+                            "edit-time": 1608285146387,
+                            "string": "Rate of self evolution - ROSE",
+                            "uid": "zJ7x2VT7e"
+                          }
+                        ],
+                        "create-email": "ngoctienvt@gmail.com",
+                        "create-time": 1608285096564,
+                        "edit-email": "ngoctienvt@gmail.com",
+                        "edit-time": 1608285136996,
+                        "string": "Deliberate transformation ",
+                        "uid": "EO44nVn_v"
+                      }
+                    ],
+                    "create-email": "ngoctienvt@gmail.com",
+                    "create-time": 1608284884342,
+                    "edit-email": "ngoctienvt@gmail.com",
+                    "edit-time": 1608284895558,
+                    "string": "Evolved Meaning Schema over time - wisdom",
+                    "uid": "nq4bb1fmH"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608284847660,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608284852426,
+                "string": "What causes the shift?",
+                "uid": "CbSjJ-aEl"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608285321733,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608285341128,
+                "string": "Evening exercise: \"The magic I witnessed today...\"",
+                "uid": "9131f-Tpc"
+              }
+            ],
             "create-email": "ngoctienvt@gmail.com",
-            "create-time": 1608278064103,
+            "create-time": 1608284730630,
             "edit-email": "ngoctienvt@gmail.com",
-            "edit-time": 1608278064103,
-            "string": "",
-            "uid": "0KpLpCCJl"
+            "edit-time": 1608284742850,
+            "string": "What is transformation?",
+            "uid": "FlZPD3CGe"
           }
         ],
         "create-email": "ngoctienvt@gmail.com",

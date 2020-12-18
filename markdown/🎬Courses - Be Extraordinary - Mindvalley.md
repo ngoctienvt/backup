@@ -44,5 +44,31 @@
             - Direct your brain on what to focus on
             - Perfect days make perfect weeks makes perfect month makes perfect year
     - Level 3 - Recoding Inner World Stage
+        - About understanding that you're a spiritual being and start to explore the world inside
+        - Inspiration leads to intention
     - Level 4 - Becoming Extraordinary
-    - 
+        - giving back to the world
+        - "Your life is not about you. It's about the lives of everyone else you touch." - Neale Donald Walsch
+        - Qualities of level 4
+            - A sense of connectedness - compassion for all life
+                - When I start to coaching other people, and start to understand deeply about them.
+            - Tapped into your intuition
+                - When I intuitively follow my inner inspiration
+            - Inspiration drives your intention
+                - When I start to form my intention and my direction of life about how I want to navigate my life into
+            - Luck is on your side
+                - When things start to come to me, give me the right thing for the right time.
+    - What is transformation?
+        - Transformation is a perspective shift - Irreversible shift
+            - A mind expanded doesn't shrink back
+        - What causes the shift?
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2Fq1XHjHO3IV.png?alt=media&token=453c3655-6175-4e2f-a674-7d002d45e9e5)
+            - Disorienting dilemma - suffering
+                - "The wound is where the light enter you." -  Rumi
+                    - Wounding can lead to a great insight
+            - Evolved Meaning Schema over time - wisdom
+                - The Yoda effect
+                - Deliberate transformation 
+                    - Rate of self evolution - ROSE
+                        - When you prioritize your ROSE, everything else in your life grows
+        - Evening exercise: "The magic I witnessed today..."

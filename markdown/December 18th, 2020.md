@@ -8,5 +8,11 @@
         - Our inner environments
         - Our ability to maintain focus and center
 - My practice for [[Segment Intending]] will be focus on my morning first, then afternoon, and lastly, evening.
+    - It would be nice if 
+        - I could wake up and feel so energetic
+        - I could know clearly what I want to do this morning
+        - I could focus on the work I'm intent to do
+        - I could keep myself focus and not let myself be distracted to do lower stuff.
+        - I could feel joy, happiness, and let go all of my pain, tired.
 - I noticed that my [[fear of missing out]] is appear when I noticed that super.so change their pricing. It's my chance for learn to embrace that's life will give me what I truly want when I really need it, so just keep let go and trust the process, instead of let the samskaras run my life.
 - I feel so happy that I can talk more casual with [[@Nguyễn Mỹ Linh]]. I hope that my presence is helpful for her.
