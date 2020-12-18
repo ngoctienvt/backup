@@ -1,0 +1,1 @@
+- [[my quotes]] Do the best you can until you become better. Then when you become better, do another best.

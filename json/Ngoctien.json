@@ -106514,6 +106514,26 @@
     "title": "Language in Coaching"
   },
   {
+    "children": [
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "xQpx0ymYt"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608260508411,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608260530056,
+        "refs": [
+          {
+            "uid": "xQpx0ymYt"
+          }
+        ],
+        "string": "[[my quotes]] Do the best you can until you become better. Then when you become better, do another best.",
+        "uid": "tUSaMaMox"
+      }
+    ],
     "create-email": "ngoctienvt@gmail.com",
     "create-time": 1608252907336,
     "edit-email": "ngoctienvt@gmail.com",
