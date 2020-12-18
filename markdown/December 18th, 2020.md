@@ -16,3 +16,10 @@
         - I could feel joy, happiness, and let go all of my pain, tired.
 - I noticed that my [[fear of missing out]] is appear when I noticed that super.so change their pricing. It's my chance for learn to embrace that's life will give me what I truly want when I really need it, so just keep let go and trust the process, instead of let the samskaras run my life.
 - I feel so happy that I can talk more casual with [[@Nguyễn Mỹ Linh]]. I hope that my presence is helpful for her.
+- [[coaching effectiveness evaluation]]
+    - Relevance
+    - Satisfaction
+    - Level of energy
+    - Emotions
+    - Impact - Transformation - irreversible or Transaction - temporary
+    - It's also important to evaluate after sesion and middle of coaching process (evaluate continuous)

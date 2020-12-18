@@ -373,6 +373,12 @@ Lập kế hoạch áp dụng
         - a standard model for participants follow and model
     - Implementation
     - Evaluation
+- How to evaluate the effectiveness of a workshop
+    - ARCS model
+        - Attention
+        - Relevance
+        - Confidence
+        - Satisfaction
 
 # Backlinks
 ## [Articles - Concrete vs abstract thinking](<Articles - Concrete vs abstract thinking.md>)

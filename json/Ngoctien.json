@@ -71308,6 +71308,58 @@
         "edit-time": 1607233723106,
         "string": "Components of a design workshop process",
         "uid": "5DsAGXKew"
+      },
+      {
+        "children": [
+          {
+            "children": [
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608300398575,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608300400100,
+                "string": "Attention",
+                "uid": "gA95cx3AU"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608300400095,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608300403236,
+                "string": "Relevance",
+                "uid": "dQnepWRPg"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608300403230,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608300407460,
+                "string": "Confidence",
+                "uid": "IJQlSJc-S"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608300407454,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608300410871,
+                "string": "Satisfaction",
+                "uid": "gpQPdfrQ_"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608300391536,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608300398580,
+            "string": "ARCS model",
+            "uid": "HbPe1_uv5"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608300378804,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608300391540,
+        "string": "How to evaluate the effectiveness of a workshop",
+        "uid": "EI6LkMOsK"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -106665,6 +106717,74 @@
         ],
         "string": "I feel so happy that I can talk more casual with [[@Nguy\u1ec5n M\u1ef9 Linh]]. I hope that my presence is helpful for her.",
         "uid": "6PfqnOyy7"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "B5eg3rPBy"
+          }
+        ],
+        "children": [
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608300479222,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608300482221,
+            "string": "Relevance",
+            "uid": "4mxIJA3Y9"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608300482216,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608300488169,
+            "string": "Satisfaction",
+            "uid": "9L0R6sMGp"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608300488161,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608300500404,
+            "string": "Level of energy",
+            "uid": "mA-TOeR2L"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608300500397,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608300513073,
+            "string": "Emotions",
+            "uid": "dr1NCFp5S"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608300657905,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608300673572,
+            "string": "Impact - Transformation - irreversible or Transaction - temporary",
+            "uid": "NH2_IjxWE"
+          },
+          {
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608300615675,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608300652687,
+            "string": "It's also important to evaluate after sesion and middle of coaching process (evaluate continuous)",
+            "uid": "FjukBZ3-x"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608300462066,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608300479227,
+        "refs": [
+          {
+            "uid": "B5eg3rPBy"
+          }
+        ],
+        "string": "[[coaching effectiveness evaluation]]",
+        "uid": "Vq2VpX-LL"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -107368,5 +107488,12 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1608283200995,
     "title": "Segment Intending"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608300479228,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608300479228,
+    "title": "coaching effectiveness evaluation"
   }
 ]
