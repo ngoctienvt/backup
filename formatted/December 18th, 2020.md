@@ -24,4 +24,4 @@
     - Impact - Transformation - irreversible or Transaction - temporary
     - It's also important to evaluate after sesion and middle of coaching process (evaluate continuous)
 - I noticed that it must more fun when interacting and learning from each other sometimes. Having person to discuss with will also create more insights and realization for myself.
-- I felt that maybe I'm overwhelm [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) with information as I don't know how 
+- I felt that maybe I'm overwhelm [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) with information as I don't know much about her way of learning and receiving information yet. Or her way of want to be care about. I will observe this more to understand her more.
