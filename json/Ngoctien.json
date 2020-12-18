@@ -106785,6 +106785,32 @@
         ],
         "string": "[[coaching effectiveness evaluation]]",
         "uid": "Vq2VpX-LL"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608304716280,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608304764753,
+        "string": "I noticed that it must more fun when interacting and learning from each other sometimes. Having person to discuss with will also create more insights and realization for myself.",
+        "uid": "ind6udJhi"
+      },
+      {
+        ":block/refs": [
+          {
+            ":block/uid": "UcKrvUeVa"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608305103222,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608305119252,
+        "refs": [
+          {
+            "uid": "UcKrvUeVa"
+          }
+        ],
+        "string": "I felt that maybe I'm overwhelm [[@Nguy\u1ec5n M\u1ef9 Linh]] with information as I don't know how ",
+        "uid": "RjvQIJ5w-"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
