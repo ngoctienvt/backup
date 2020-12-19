@@ -108098,14 +108098,6 @@
                 ],
                 "string": "[[Segment Intending]]",
                 "uid": "lSLozc1pQ"
-              },
-              {
-                "create-email": "ngoctienvt@gmail.com",
-                "create-time": 1608371086587,
-                "edit-email": "ngoctienvt@gmail.com",
-                "edit-time": 1608371086587,
-                "string": "",
-                "uid": "rvixXg1DJ"
               }
             ],
             "create-email": "ngoctienvt@gmail.com",
@@ -108127,6 +108119,14 @@
         "edit-time": 1608371054535,
         "string": "My meditation practices",
         "uid": "5c3-0ul1o"
+      },
+      {
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608371086587,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608378038836,
+        "string": "I noticed my ",
+        "uid": "rvixXg1DJ"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",

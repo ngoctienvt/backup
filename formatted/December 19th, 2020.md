@@ -19,4 +19,4 @@
     - [unselective gratitude](<unselective gratitude.md>) nurture inner inspiration and gratefulness
     - [undistracted intention](<undistracted intention.md>) direct my attention into what I truly want, not what my mind want
         - [Segment Intending](<Segment Intending.md>)
-        - 
+- I noticed my 
