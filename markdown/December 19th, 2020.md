@@ -1,2 +1,16 @@
 - In order to be truly spiritual, I need to give up all of my personal desires, but it doesn't meant that I have to feel guilty for having money, status... Because they are just the tools that will support me to change the world. They're just like my health, my mind... The greater tools comes with greater responsibilities. I need to learn to be able to handle the tools, so that's I can do my real impersonal work for reality, like Michael Singer did.
-- 
+- The reverse gap
+    - I became so much mature on emotions
+    - I became much clearer about my life purposes and my life end goals
+    - I know how to live harmony with life and the practice to reach that.
+    - I became much more freer with my desires and my personal needs
+    - I became better at supporting other people
+    - I became much more productive comparing to before.
+    - I developed some good habits like yoga weekly, walking sometimes, and meditation daily.
+    - I let go many stuff that drive me and start to truly orient myself instead.
+    - Experiences
+        - Learning Living from the place of surrender
+    - Growth
+        - Practice meditation, let go of inner samskaras/ trigger
+    - Meaning
+        - Sharing what I learnt for people around me, and see their attitude about life changes over time

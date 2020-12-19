@@ -83,6 +83,13 @@
             - The Reverse Gap
                 - Tying happiness to your future breaks your flow
                 - How has you improved as an individual from who you were 5 years ago?
+        - How happiness happens?
+            - Happiness from experiences - the experiences that give good vibrations
+            - Happiness from growth - the evolution of the soul from the experiences
+            - Happiness from meaning - we are a part of a whole - so help others is actually help ourselves
+                - The parenthood paradox
+            - Hedonic adaptation
+                - 
     - Vision for the future
     - The 4 states of mind
         - Work and play become one
