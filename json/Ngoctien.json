@@ -108035,6 +108035,98 @@
         "edit-time": 1608359231463,
         "string": "The reverse gap",
         "uid": "TmVGM-ZGF"
+      },
+      {
+        "children": [
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "CvpeuLZEf"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608371054531,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608371196098,
+            "refs": [
+              {
+                "uid": "CvpeuLZEf"
+              }
+            ],
+            "string": "[[unattachment centering]] letting go",
+            "uid": "YiLsiJd6k"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "Mq-wuuh42"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608371058877,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608371208428,
+            "refs": [
+              {
+                "uid": "Mq-wuuh42"
+              }
+            ],
+            "string": "[[unselective gratitude]] nurture inner inspiration and gratefulness",
+            "uid": "T4mojtqB6"
+          },
+          {
+            ":block/refs": [
+              {
+                ":block/uid": "EXhdSjNwu"
+              }
+            ],
+            "children": [
+              {
+                ":block/refs": [
+                  {
+                    ":block/uid": "asUD60la9"
+                  }
+                ],
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608371080996,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608371086593,
+                "refs": [
+                  {
+                    "uid": "asUD60la9"
+                  }
+                ],
+                "string": "[[Segment Intending]]",
+                "uid": "lSLozc1pQ"
+              },
+              {
+                "create-email": "ngoctienvt@gmail.com",
+                "create-time": 1608371086587,
+                "edit-email": "ngoctienvt@gmail.com",
+                "edit-time": 1608371086587,
+                "string": "",
+                "uid": "rvixXg1DJ"
+              }
+            ],
+            "create-email": "ngoctienvt@gmail.com",
+            "create-time": 1608371071478,
+            "edit-email": "ngoctienvt@gmail.com",
+            "edit-time": 1608371231147,
+            "refs": [
+              {
+                "uid": "EXhdSjNwu"
+              }
+            ],
+            "string": "[[undistracted intention]] direct my attention into what I truly want, not what my mind want",
+            "uid": "tAoB15J-D"
+          }
+        ],
+        "create-email": "ngoctienvt@gmail.com",
+        "create-time": 1608371050879,
+        "edit-email": "ngoctienvt@gmail.com",
+        "edit-time": 1608371054535,
+        "string": "My meditation practices",
+        "uid": "5c3-0ul1o"
       }
     ],
     "create-email": "ngoctienvt@gmail.com",
@@ -108217,5 +108309,19 @@
     "edit-email": "ngoctienvt@gmail.com",
     "edit-time": 1608356028115,
     "title": "Board Game rule learning process"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608371071483,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608371071484,
+    "title": "unselective gratitude"
+  },
+  {
+    "create-email": "ngoctienvt@gmail.com",
+    "create-time": 1608371081001,
+    "edit-email": "ngoctienvt@gmail.com",
+    "edit-time": 1608371081001,
+    "title": "undistracted intention"
   }
 ]

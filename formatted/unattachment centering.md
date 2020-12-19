@@ -44,6 +44,9 @@
 ## [December 16th, 2020](<December 16th, 2020.md>)
 - [unattachment centering](<unattachment centering.md>)
 
+## [December 19th, 2020](<December 19th, 2020.md>)
+- [unattachment centering](<unattachment centering.md>)
+
 ## [December 3rd, 2020](<December 3rd, 2020.md>)
 - It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [Who am I](<Who am I.md>) [unattachment centering](<unattachment centering.md>)
 
