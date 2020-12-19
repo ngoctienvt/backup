@@ -89,7 +89,17 @@
             - Happiness from meaning - we are a part of a whole - so help others is actually help ourselves
                 - The parenthood paradox
             - Hedonic adaptation
-                - 
+        - Practicing gratitude creates an evelated state of happiness
+            - Gratitude support the process of digest the experiences/stored samskaras for our soul evolution
+            - Gratitude is the fertilizer
+            - How to practice gratitude?
+                - Gratitude for what happened
+                - Do gratitude before segment intending
+            - The 3 pillars of gratitude
+                - Professional life
+                - Personal life
+                - Yourself - be grateful for who you are as person and as a soul
+            - It’s not the size of the object of gratitude, but the feelings instead.
     - Vision for the future
     - The 4 states of mind
         - Work and play become one
