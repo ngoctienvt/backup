@@ -72,6 +72,24 @@
                     - Rate of self evolution - ROSE
                         - When you prioritize your ROSE, everything else in your life grows
         - Evening exercise: "The magic I witnessed today..."
+- The Ultimate State of Human Existence
+    - Happiness in the now
+    - Vision for the future
+    - The 4 states of mind
+        - Work and play become one
+        - The paradox of intention
+            - "You must have goals. But your happiness can't be tied to these goals. You must be happy before you attain them." - Sandra Anne Taylor
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FFvQGeRlVhj.png?alt=media&token=b837eb54-5264-4695-9711-3f4a24a25c10)
+        - Bending reality
+            - A mental state of mind in which you are pulled forward by big goals, yet happy where you are now. It creates a feeling of growth and a feeling of being lucky because it often appears as if magic is in your life and the Universe has your back.
+        - Blisscipline - Discipline of bliss
+- The buddha and the badass
+    - Egolessness
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F7CR0E9QfTP.png?alt=media&token=9c369454-1248-4926-bdc0-f3a31a6268ae)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F_UNuvOQRDN.png?alt=media&token=43631fd5-6674-4fc0-890e-7eb9ce2ff64b)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FgK_S1sfNrt.png?alt=media&token=d67ada02-433a-4b3d-a62e-a66f817a98eb)
+    - The world needs people who shake the world
+    - "Power without love is reckless and abusive, and love without power is sentimental and anemic. Power at its best is love implementing the demands of justice, and justice at its best is power correcting everything that stands against love." - Martin Luther King Jr.
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
