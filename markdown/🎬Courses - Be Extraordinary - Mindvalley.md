@@ -74,6 +74,15 @@
         - Evening exercise: "The magic I witnessed today..."
 - The Ultimate State of Human Existence
     - Happiness in the now
+        - Blisscipline - Discipline of bliss
+            - Positive intelligence - the ratio of positive thoughts versus negative thoughts
+            - The "If-Then" model of happiness - "What-if" Michael SInger
+                - chasing well is like chasing horizon, when you're getting there, it will extend
+                    - ![The Horizon and the Central Nervous System | cranial intelligence blog](https://cranialintelligence.files.wordpress.com/2010/04/ged-horizon-pic1.jpg)
+            - spontaneous expression of our well-being
+            - The Reverse Gap
+                - Tying happiness to your future breaks your flow
+                - How has you improved as an individual from who you were 5 years ago?
     - Vision for the future
     - The 4 states of mind
         - Work and play become one
@@ -82,7 +91,6 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FFvQGeRlVhj.png?alt=media&token=b837eb54-5264-4695-9711-3f4a24a25c10)
         - Bending reality
             - A mental state of mind in which you are pulled forward by big goals, yet happy where you are now. It creates a feeling of growth and a feeling of being lucky because it often appears as if magic is in your life and the Universe has your back.
-        - Blisscipline - Discipline of bliss
 - The buddha and the badass
     - Egolessness
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F7CR0E9QfTP.png?alt=media&token=9c369454-1248-4926-bdc0-f3a31a6268ae)

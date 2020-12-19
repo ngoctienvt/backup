@@ -1,0 +1,19 @@
+- What are the end outcomes for learning Board Game rules?
+    - Understand clearly how a game occurs
+    - Knowing how to teach the main components first and fill-in the detail when playing
+    - Knowing the fun factors
+    - Able to connect the game with the theme
+- What are the steps to learn a boardgame rule?
+    - Understanding how the game is played
+        - Understanding components
+        - Understanding the flow of the game
+            - Reading rulebooks
+            - Watching Youtube video
+        - Play test
+            - Setting up board game
+        - 
+- What are the steps to make the game fun and meaningful?
+    - Identify fun factors
+    - Connect the action of the game with the theme
+- What are the steps to teach the game effectively and interestingly?
+    - Identify the process to teach the game
