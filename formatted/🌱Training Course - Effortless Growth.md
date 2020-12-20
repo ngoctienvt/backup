@@ -1,26 +1,4 @@
-- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
-    - Broad
-        - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-        - [unselective gratitude](<unselective gratitude.md>)
-    - Deep
-        - [🌲Top-down Processing](<🌲Top-down Processing.md>)
-        - [Horizons of Mastery](<Horizons of Mastery.md>)
-            - [Level of expertise](<Level of expertise.md>)
-                - [Bloom's taxonomy](<Bloom's taxonomy.md>)
-                - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
-            - Components of expertise
-                - Skills
-                - Knowledge
-                - Ability to simplify
 - [Effortless Growth](<Effortless Growth.md>)
-- [Horizons of Mastery](<Horizons of Mastery.md>)
-    - [Level of expertise](<Level of expertise.md>)
-        - [Bloom's taxonomy](<Bloom's taxonomy.md>)
-        - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
-    - Components of expertise
-        - Skills
-        - Knowledge
-        - Ability to simplify
 - 
 
 # Backlinks
@@ -39,6 +17,8 @@
 - One course is about personal development which is about helping other people to build their foundation for self-development [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 
 - The first one will be [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>),
+
+- It's feel that things are much clearer after today talkshow, I see much more clearly what I will do on my [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>).
 
 ## [Training MOC](<Training MOC.md>)
 - [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)

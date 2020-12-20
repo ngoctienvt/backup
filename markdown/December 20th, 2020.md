@@ -8,3 +8,31 @@
             - My growth now is quite good, but it's rather spontaneous and broad, and the focus is blurry. I'm lacking the element of focus.
         - After that, [[Training Course - Living from the place of surrender]] will be for supporting other people to realize who they truly are, what the world truly is, and what life should really be. This will awake them and make them start to nurture their being in a truly right way.
         - Finally, for people who are yearn to support other in the deepest and personal way, [[Training Course - Master the Art of Coaching]] is for them. When they already who they are, know what they want, and able to listen to their inner knowing, it will reduce the chance that's they come to coach training for personal growth, but rather for what it's really means. -> Create people who want to support other people in a deepest and personal way. 
+- It's feel that things are much clearer after today talkshow, I see much more clearly what I will do on my [[🌱Training Course - Effortless Growth]].
+    - It will be about answer few important questions?
+        - What are our end goals? Why? - the end for our focus
+        - What we need to do to achieve our end goals? - our role on the current play
+        - How we do them effectively? - personal way of learning
+- I noticed that I start to withdraw more out of the public and work silently now. It will help me to nurture my higherself and let go of my egoself, while I'm building my expertise on that time and focusing to support my people.
+- Lãnh đạo là giúp 1 đoàn người vượt qua 1 khoảng cách thời gian. 
+- Tầm nhìn? Do tự học mà ra. Học để có khả năng serve để có happiness from serving because we are one.
+- Thực học khác sự học.
+- Đạo nghề, đạo sống, đạo học.
+- Bổ sung thay vì phản bác.
+- Sự học khai phóng và sự học chuyên môn.
+- Learn to know. Learn to live. Learn to be.
+- Nhân loại đi về phía văn minh, 
+- On the job, peer, in class training
+- Đặt sự dạy của người khâc vào trong sự học của mình.
+- Giành lấy quyền làm ra chính mình,
+- Dạy là giúp cho người khâc học, hay giúp họ dạy chín họ.
+- Sự dạy là để hỗ trợ cho sự học của người khác.
+- Phưong pháp học
+- Học để làm gì
+- Mục tiêu nằm trong tầm nhìn
+- Tầm nhìn của mình là gì?
+- Tầm nhìn đó nằm trong End Goal gì?
+- Sâch, internet, từ người giỏi, hỏi để vỡ, 
+- 2W1h
+- Phương pháp hình thành dựa trên nguyên lý
+- Sau này có vui không?

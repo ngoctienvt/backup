@@ -6,6 +6,3 @@
 ## [Effortless Growth](<Effortless Growth.md>)
 - [unselective gratitude](<unselective gratitude.md>)
 
-## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
-- [unselective gratitude](<unselective gratitude.md>)
-
