@@ -10,7 +10,12 @@
 ## [December 11th, 2020](<December 11th, 2020.md>)
 - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
 
-## [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>)
+## [Effortless Growth](<Effortless Growth.md>)
+- [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+
 - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
 
 ## [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)

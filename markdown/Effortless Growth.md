@@ -1,0 +1,26 @@
+- Components:
+- What a person will need to have an effortless growth?
+    - Focus on the right direction
+        - [[end goal]] and means goal
+    - Move to that direction in an effective way
+        - [[Segment Intending]]
+    - Grow themselves in a sustainable and continuous way
+        - [[🌱PKDS - Personal Knowledge Development System]]
+            - Broad
+                - [[🌲Bottom-up Emergence]]
+                - [[unselective gratitude]]
+            - Deep
+                - [[🌲Top-down Processing]]
+                - [[Horizons of Mastery]]
+                    - [[Level of expertise]]
+                        - [[Bloom's taxonomy]]
+                        - [[Krathwohl’s Affective Taxonomy]]
+                    - Components of expertise
+                        - Skills
+                        - Knowledge
+                        - Ability to simplify
+        - feedback and reflect system
+    - Let go what hold them back
+        - Coaching
+        - [[Training Course - Living from the place of surrender]]
+        - 

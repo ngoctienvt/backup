@@ -37,6 +37,9 @@
 
 - By work from a top-down view, it provokes more things inside of me and requires me to put more energy to process it, because they are not emergence, but actually force to appear instead. It's good if the pictures are somehow connected to each other and just need to clarify. So [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
+## [Effortless Growth](<Effortless Growth.md>)
+- [🌲Top-down Processing](<🌲Top-down Processing.md>)
+
 ## [November 29th, 2020](<November 29th, 2020.md>)
 - I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
@@ -69,6 +72,9 @@
 - [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
 -  [🌲Top-down Processing](<🌲Top-down Processing.md>)
+
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
 ## [🌲Top-down Processing](<🌲Top-down Processing.md>)
 - The role of [🌲Top-down Processing](<🌲Top-down Processing.md>)

@@ -31,6 +31,9 @@
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [ ] I want to clean my goal cluster, so that they become [end goal](<end goal.md>)
 
+## [Effortless Growth](<Effortless Growth.md>)
+- [end goal](<end goal.md>)
+
 ## [How to self-development effectively?](<How to self-development effectively?.md>)
 - [end goal](<end goal.md>)
 
@@ -77,4 +80,7 @@
 
 ## [🌱focus on what matters](<🌱focus on what matters.md>)
 - [tools](<tools.md>) or [method](<method.md>) are just a means to make the process of achieving [end goal](<end goal.md>)
+
+## [🎬Courses - Be Extraordinary - Mindvalley](<🎬Courses - Be Extraordinary - Mindvalley.md>)
+- [end goal](<end goal.md>)
 

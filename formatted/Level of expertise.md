@@ -56,6 +56,9 @@
 ## [December 9th, 2020](<December 9th, 2020.md>)
 - truy căn tố nguyên so that we could go from competent to proficient [Level of expertise](<Level of expertise.md>)
 
+## [Effortless Growth](<Effortless Growth.md>)
+- [Level of expertise](<Level of expertise.md>)
+
 ## [How to Go from Novice to Expert](<How to Go from Novice to Expert.md>)
 - [Level of expertise](<Level of expertise.md>)
 
@@ -65,6 +68,8 @@
 ## [🌱Instructional Design](<🌱Instructional Design.md>)
 - [Level of expertise](<Level of expertise.md>)
 
-## [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>)
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [Level of expertise](<Level of expertise.md>)
+
 - [Level of expertise](<Level of expertise.md>)
 

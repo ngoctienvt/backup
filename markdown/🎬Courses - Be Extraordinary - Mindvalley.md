@@ -101,6 +101,9 @@
                 - Yourself - be grateful for who you are as person and as a soul
             - It’s not the size of the object of gratitude, but the feelings instead.
     - Vision for the future
+        - need versus want
+        - [[end goal]]
+        - [[means goal]]
     - The 4 states of mind
         - Work and play become one
         - The paradox of intention

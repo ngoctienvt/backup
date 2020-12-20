@@ -17,6 +17,9 @@
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
+## [Effortless Growth](<Effortless Growth.md>)
+- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
+
 ## [How to self-development effectively?](<How to self-development effectively?.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
@@ -47,7 +50,7 @@
 
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
-## [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>)
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
 ## [🏡Home Maps](<🏡Home Maps.md>)

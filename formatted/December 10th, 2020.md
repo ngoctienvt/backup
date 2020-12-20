@@ -4,7 +4,7 @@
     - Competent to proficient is when a coach start to develop their intuition about what's important to focus on, what they need to focus on at the moment, but they will miss sometimes, and still focus on the wrong things.
     - Proficient to expert is when a coach start to clearly know what's important that need to focus on, but they haven't feel flow about the process to go deeper inside of it, or make sure what's important is maintain. They will start to learn about the way to uncover what's important.
     - Expert and above is when a coach still continue to learn, refine and expand their skills and knowledge, everything always have room for growth.
-- I start to clearer that __what I want to teach__ is not just about [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>), but it's actually about a way to master something that we interest on. [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>)
+- I start to clearer that __what I want to teach__ is not just about [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>), but it's actually about a way to master something that we interest on. [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
     - On this process, we will learn and create __results as a by-product__ of our learning and serving. For example,
         - Competent is when we start to create certain products that can go publish and serve a bit of value
         - Proficient is when we start to be able to not just do, 

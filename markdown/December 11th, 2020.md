@@ -1,4 +1,4 @@
-- I noticed that it's better to read a book through first, before care about note-taking. Because I will miss a lot of experience and enjoy the process when I'm focus on note-taking first. [[🌱Training Course - Effortless mastery]]
+- I noticed that it's better to read a book through first, before care about note-taking. Because I will miss a lot of experience and enjoy the process when I'm focus on note-taking first. [[🌱Training Course - Effortless Growth]]
 - [[Bloom's taxonomy]]
     - http://livelovelearn.education/KnowledgeBase/2017/08/18/blooms-taxonomy/
     - ![Displaying S3 - Cấp độ tư duy của Bloom.png](https://drive.google.com/thumbnail?id=16FxosBdaLKRLAnl8JqfLSj29FYDAv2OG&authuser=0&sz=w1813-h915)

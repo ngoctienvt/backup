@@ -34,6 +34,9 @@
 ## [December 4th, 2020](<December 4th, 2020.md>)
 - It will also help to practice [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
+## [Effortless Growth](<Effortless Growth.md>)
+- [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
 
@@ -78,6 +81,9 @@
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
 -  [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
 ## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)

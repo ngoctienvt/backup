@@ -107,10 +107,15 @@
 
 - I noticed that with [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
+## [Effortless Growth](<Effortless Growth.md>)
+- [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
 ## [level of thinking](<level of thinking.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
-## [🌱Training Course - Effortless mastery](<🌱Training Course - Effortless mastery.md>)
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
 ## [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)
