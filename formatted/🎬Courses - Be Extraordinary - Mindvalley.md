@@ -102,8 +102,26 @@
             - It’s not the size of the object of gratitude, but the feelings instead.
     - Vision for the future
         - need versus want
-        - [end goal](<end goal.md>)
-        - [means goal](<means goal.md>)
+        - The differences between following our heart and following our mind are
+            - Following our mind are following what the mind think that will help me to achieve what I want, so that's it will help to open my heart
+            - Following our heart are directly work on what will open my heart
+        - Skipping the means allow your mind to find better ways to reach your end goals.
+        - [end goal](<end goal.md>) a soul have a direction that it want to go on
+            - Following your heart
+            - About feelings
+            - By focusing on the end goal, we trust ourselves to guide us to a place where are meant to be
+            - types of end goal
+                - Life End Goal
+                - End Goal that we focus on certain specific thing
+                - end goal that what we truly want for others
+                - end goa that what we truly want for ourselves
+        - [means goal](<means goal.md>)  
+            - Have a "so" in them
+            - Conform to "Brules"
+            - If we follow the means goal, the more we grow, the higher the chance we become depress and feel hard to breakout.
+            - By focusing on means goal, we could derail ourselves to what we truly want
+        - The 3 most important questions
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FlvEwwD5he6.png?alt=media&token=fad7652c-dea9-4a0f-8de7-0c00c1890953)
     - The 4 states of mind
         - Work and play become one
         - The paradox of intention
