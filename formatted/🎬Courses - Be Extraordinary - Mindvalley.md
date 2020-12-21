@@ -160,6 +160,33 @@
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FgK_S1sfNrt.png?alt=media&token=d67ada02-433a-4b3d-a62e-a66f817a98eb)
     - The world needs people who shake the world
     - "Power without love is reckless and abusive, and love without power is sentimental and anemic. Power at its best is love implementing the demands of justice, and justice at its best is power correcting everything that stands against love." - Martin Luther King Jr.
+- Being unfuckwithable
+    - We attached to the feeling, not the person or things
+    - To be unfuckwithable means to be grateful for who you are
+        - Nothing can shake us or hook us
+        - Immune to critisim or praise and fueled by our own inner happiness
+    - Self-fueled goals
+        - Choose self-fueled goals
+            - Examples
+                - I am always surrounded and feel inner love
+                - I am learning and growing everyday
+                - Everyday I have chances to raise the moments in front of me
+                - I am reflecting myself every single day
+        - Add emotion words to the goals
+            - Every single day
+            - Always
+            - I am...
+        - Check question: If you were homeless, could you still attain these goals?
+    - Unfuckwithability
+        - Replacing Fear with Courage
+        - Replacing dependent goals with independent goals
+        - Replacing seeking fuel goals with self-fueled goals
+    - Hole to Whole
+        - Human beings crave to be validated from other people
+        - Eye gazing exercise
+            - Look our eyes in the mirror
+            - Say repeatedly "I love you"
+            - Do when brush our teeths
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
