@@ -6,3 +6,11 @@
             - My mission somehow is about directly leading people to live a higher life, so that's indirectly, they will support other people and contribute back to the world.
             - We also have a good time together which relates to the experiences that I want to have.
         - It's start to clearer for me after I writing this, so I will consider and make a little bit adjustment for the way I think about my end goals.
+- I started to develop my personal mission and my mission for what I want to serve the world. It starts to clearer and my growth start to become more focus and center. This week I will focus about this aspect to direct my attention on.
+    - Mission is the guidance for me to aim and go forward. Growth is what I will need to work on, so that I can have enough ability to complete my mission. 
+        - And what I have or experiences are the by-products or what will naturally when I focus on my growth and serve my mission. 
+- trăn trở
+- nguệch ngoạc
+- 
+- vuông vức
+- học hành
