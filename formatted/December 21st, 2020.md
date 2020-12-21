@@ -9,8 +9,3 @@
 - I started to develop my personal mission and my mission for what I want to serve the world. It starts to clearer and my growth start to become more focus and center. This week I will focus about this aspect to direct my attention on.
     - Mission is the guidance for me to aim and go forward. Growth is what I will need to work on, so that I can have enough ability to complete my mission. 
         - And what I have or experiences are the by-products or what will naturally when I focus on my growth and serve my mission. 
-- trăn trở
-- nguệch ngoạc
-- 
-- vuông vức
-- học hành
