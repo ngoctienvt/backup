@@ -100,7 +100,7 @@
                 - Personal life
                 - Yourself - be grateful for who you are as person and as a soul
             - It’s not the size of the object of gratitude, but the feelings instead.
-    - Vision for the future
+    - [Vision for the future](<Vision for the future.md>)
         - need versus want
         - The differences between following our heart and following our mind are
             - Following our mind are following what the mind think that will help me to achieve what I want, so that's it will help to open my heart
@@ -122,8 +122,29 @@
             - If we follow the means goal, the more we grow, the higher the chance we become depress and feel hard to breakout.
             - By focusing on means goal, we could derail ourselves to what we truly want
         - The 3 most important questions
+            - A blueprint for the soul
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FlvEwwD5he6.png?alt=media&token=fad7652c-dea9-4a0f-8de7-0c00c1890953)
-            - The experiences itself is enough, not to attain anything behind or beyond that.
+            - Experience live to fullest
+                - The experiences itself is enough, not to attain anything behind or beyond that.
+            - Growth as a goal
+                - To be able to live the experiences, how do I have to grow? Or become?
+                - Make growth become the number 1 priority
+                - Our job is to grow and maintain a high Rate of Self Evolution
+                - Steps
+                    - Look back experiences list
+                    - Identify weak areas
+                    - Fill in growth column
+                        - Intellectual
+                        - Emotional
+                        - Character
+                    - Establish Growth Time 
+            - Get a mission, not a carrer
+                - Odds of manifesting are greater when you visualize people benefiting
+                - How am I going to contribute to the world?
+                    - Direct giving
+                    - Showing up as your best self
+                        - Kind, gentle, happiness, peace...
+                    - Career can be our contribution
             - Money is just a facilitator towards your end goals.
     - The 4 states of mind
         - Work and play become one
