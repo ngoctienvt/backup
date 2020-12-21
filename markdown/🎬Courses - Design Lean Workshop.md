@@ -212,6 +212,20 @@ Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình n�
                 - Lấp đầy
         - Thu hoạch
             - Đan xen phần chính và thu hoạch
+- Session 9 
+    - 4F approach
+        - Facts - Establish the context
+            - Share observations
+        - Feelings are the bridge between facts and findings/lessons
+            - Adjust state of feelings
+        - Findings - Find the gap between the experiences and what expected - and how to fill in the gap that's not fill yet
+            - Limit in the activites and not expand yet
+            - Fill in the gaps - If do again, what you want to do different?
+            - Change word "lesson" into "specific context"
+        - Future - expanded learning (expand new context, change context) - learning transfer 
+            - Similar contexts in real life?
+            - New context/ What if?
+            - What's next?
 - ---
 - Group activities
     - Clarify foggy contents

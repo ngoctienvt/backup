@@ -19,6 +19,9 @@
 ## [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>)
 - I will work on to have my own synthesis and condensing process first. It will need to solve few big [Expanding questions](<Expanding questions.md>)
 
+## [December 21st, 2020](<December 21st, 2020.md>)
+- Asking in context is important for support other people thinking processs [Facilitates Client Growth](<Facilitates Client Growth.md>) [Expanding questions](<Expanding questions.md>)
+
 ## [Expanding questions](<Expanding questions.md>)
 - "I will work on to have my own synthesis and condensing process first. It will need to solve few big [Expanding questions](<Expanding questions.md>)"
 
