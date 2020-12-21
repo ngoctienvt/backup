@@ -17,7 +17,7 @@
             - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) 
         - building grounded [basic foundation](<basic foundation.md>)
             - [starting point](<starting point.md>)
-        - flexibility with [contextual mastery](<contextual mastery.md>) and different direction of development (convergence/divergence)
+        - flexibility with [contextual management](<contextual management.md>) and different direction of development (convergence/divergence)
     - [🌱focus on what matters](<🌱focus on what matters.md>)
 - ### Core methods
     - Once you can see the shape, then you can think about its character.

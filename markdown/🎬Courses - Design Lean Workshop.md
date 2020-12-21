@@ -213,7 +213,7 @@ Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình n�
         - Thu hoạch
             - Đan xen phần chính và thu hoạch
 - Session 9 
-    - 4F approach
+    - [[4F Debrief Framework]]
         - Facts - Establish the context
             - Share observations
         - Feelings are the bridge between facts and findings/lessons

@@ -9,9 +9,16 @@
 - I started to develop my personal mission and my mission for what I want to serve the world. It starts to clearer and my growth start to become more focus and center. This week I will focus about this aspect to direct my attention on.
     - Mission is the guidance for me to aim and go forward. Growth is what I will need to work on, so that I can have enough ability to complete my mission. 
         - And what I have or experiences are the by-products or what will naturally when I focus on my growth and serve my mission. 
-- Asking in context is important for support other people thinking processs [[Facilitates Client Growth]] [[Expanding questions]]
+- Asking in context is important for support other people thinking processs [[Facilitates Client Growth]] [[Expanding questions]] [[4F Debrief Framework]]
     - Facts? What are your lessons after this coaching?
     - Feelings? How do you feel about them?
     - Findings? What are your new findings
     - Future? Expanded Learning and Moving Forward
 - What's happen and what's not happen? [[interesting concepts]]
+- I felt that I learned so much from each session from this workshop. It taught me so many interesting things in a deep way. 
+    - My main realization is context is very important and manage the contexts is an important skill that I need to develop. [[contextual management]]. It's helpful for providing clarity and focus, while it could be expand slowly or dig deeply depend on the direction, so that a person can learn in a much effective way. [[Facilitates Client Growth]]
+        - My [[coaching review session]] need to be design based on this principle, so that my clients can harvest the most from our journey. I will work on this tomorrow.
+            - Facts -> Feelings -> Insights -> Future
+            - Theme -> Top lessons in context -> Similar context -> Expanded learning -> Next step
+            - What are highlights? -> Success Factors -> Next step
+- [[Expertise Funnel]] or [[Training Funnel]] is an important concept for me to develop my skills and train other people.

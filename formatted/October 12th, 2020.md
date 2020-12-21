@@ -2,7 +2,7 @@
 - I start to learn how to operate myself to [oneness](<oneness.md>) instead of the old way [separation](<separation.md>). For example, 
     - how I could use Roam Research without the need to create [hard border](<hard border.md>) for different things?
     - how I could think life as [oneness](<oneness.md>) without the need to separate them to work, life, love, family...?
-    - One of the way that emerge inside of me now is [contextual mastery](<contextual mastery.md>). Look think in context instead of separation. Because everything is connected, just in a different context. 
+    - One of the way that emerge inside of me now is [contextual management](<contextual management.md>). Look think in context instead of separation. Because everything is connected, just in a different context. 
 
 This kind of way of seeing life is shifting from [separation](<separation.md>) to moment, to [situational context](<situational context.md>).
 - The feelings that inside of me merge to each other instead of splitting feel so good. [self-fulfilled](<self-fulfilled.md>)

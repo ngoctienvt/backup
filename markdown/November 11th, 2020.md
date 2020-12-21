@@ -1,4 +1,4 @@
-- [[contextual mastery]] is about learning how to see the uniqueness of everything, every moment, every situation or person. [[uniqueness]]
+- [[contextual management]] is about learning how to see the uniqueness of everything, every moment, every situation or person. [[uniqueness]]
 - [[types of information block]] could be break into
     - concepts or ideas
     - contextual usages

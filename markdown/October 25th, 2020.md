@@ -40,4 +40,4 @@
     - https://fortelabs.co/
     - https://www.nateliason.com/blog
 - Not every experience I have that I want to store as information blocks, I will need to think a bit about this, so that I can use my time effectively and not have the [[fear of missing out]].
-- a [[deeper understanding]] is built on the connections of context that help to build up [[contextual mastery]].
+- a [[deeper understanding]] is built on the connections of context that help to build up [[contextual management]].

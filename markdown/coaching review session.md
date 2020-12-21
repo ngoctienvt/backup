@@ -1,0 +1,6 @@
+- The goal of the review sesion
+    - Have a zoom-out point of view to reflect the whole journey
+    - Identify key transformation for self-validation
+    - Identify key learnings for expand into other areas
+    - Identify success factors for further replication
+    - Identify client's way of learning, way of development, way of thinking,...

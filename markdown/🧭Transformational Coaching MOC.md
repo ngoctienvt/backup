@@ -8,12 +8,12 @@
 - What are key factors that affect the level of coaching?
     - How deep we can listen
     - How far we know about what's possible
-- The target of the coaching
+- ### The target of the coaching
     - Coach the problem
     - [[coach the who]]
     - Coach the being
 - [[Coaching examples]]
-- Core competencies
+- ### Core competencies
     - [[Coaching partnering]]
     - Target Competencies
         - [[Demonstrates Ethical Practice]]
@@ -21,6 +21,7 @@
         - [[Maintains Presence]]
         - [[Listens Actively]]
         - [[Evokes awareness]]
+            - Powerful questions to reveal the gap
     - Structural Competencies
         - [[Establishes and Maintains Agreements]]
     - Output Competencies
