@@ -106,6 +106,7 @@
             - Following our mind are following what the mind think that will help me to achieve what I want, so that's it will help to open my heart
             - Following our heart are directly work on what will open my heart
         - Skipping the means allow your mind to find better ways to reach your end goals.
+        - Let the means unfold on their own and focus on the end goals
         - [[end goal]] a soul have a direction that it want to go on
             - Following your heart
             - About feelings
@@ -122,6 +123,8 @@
             - By focusing on means goal, we could derail ourselves to what we truly want
         - The 3 most important questions
             - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FlvEwwD5he6.png?alt=media&token=fad7652c-dea9-4a0f-8de7-0c00c1890953)
+            - The experiences itself is enough, not to attain anything behind or beyond that.
+            - Money is just a facilitator towards your end goals.
     - The 4 states of mind
         - Work and play become one
         - The paradox of intention
