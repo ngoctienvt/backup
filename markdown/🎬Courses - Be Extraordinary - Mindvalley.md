@@ -206,3 +206,13 @@
                 - Desire to __fix__ it - fixation obsession
                 - Create a __vision__ that makes the problem obsolete
                 - Let go the inner samskaras that make the event become problems and create a new vision based on the event 
+- Becoming unrealistic
+    - We are not simply human being, we are spiritual being with intuition, support of the universe
+    - Being realistic is a flaw
+        - "Realism is nothing more than a socially acceptable form of pessimism. The people with the most consistent track records of success don't think in terms of what is. They think in terms of __what could be__."
+    - How to become unrealistic
+        - 50% of your goal should have a 50% chance of failure
+            - Permissible for you to fail
+        - Ensure 50% of your goals are challenging
+            - You should only be __achieving 70-80%__ of your goals
+        - Do these goals scare me a little and excite me a lot?

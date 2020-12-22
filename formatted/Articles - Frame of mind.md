@@ -1,0 +1,34 @@
+- [Frames of Mind. The four ways we view any subject. | by Kelcey | Medium](https://medium.com/@karpetheday/frames-of-mind-468fd20e5435) #[Roam-Highlights](<Roam-Highlights.md>)
+    - ## Abstract or Concrete
+        - Everything (object, person, situation) is simultaneously an individual and member of a larger group.
+        - Everything has its own spectrum of characteristics. On the left end, there are common characteristics it shares with all of existence. This side of the spectrum is a more abstract representation. On the right end, there are unique characteristics. This side is a more concrete representation. As we move from right to left on the spectrum, the subject loses individuality, as unique characteristics are omitted.
+        - A spectrum of focus moving from abstraction to concreteness.
+        - For example, Lasagne can be reduced to Ribbon-cut pasta, pasta, Italian food, food, and stuff. Each point has a different level of distinction and clarity.
+        - Attention is directing the mind to a subject. Focus is directing the mind to a single subject. When thinking about a subject, we select the level of focus. As focus increases, we move from abstract to concrete; from general commonalities of the group to the specific unique features of the individual.
+    - ## Change through Focus
+        - Through focus we perceive a clear representation of how a subject currently is, which also indicates how it is __not__.
+        - How it is not, represents the space for change. The contrast defines the possibilities for transformation, or even better, creation.
+        - Once the possibilities are clear, we pick a preference. To achieve the preference, we craft a plan, determining the necessary parts and actions. Once we have everything, we produce the preference. After production, we have a new perspective and we’re back to the initial focus stage. This is the natural process of how we direct any change.
+    - ## Acceptance or Rejection
+        - Emotion, acts as an internal feedback tool, measuring the gap between the current state of a characteristic and our preferred state.
+        - Emotion measures according to our focus. If we are focused on a single characteristic of a subject, emotion responds to that characteristic and not the others that have been omitted.
+        - We have the ability to perceive subjects in our environment, but also, through imagination, we’re able to focus on subjects that don’t exist or are not present. Therefore, we can control how we feel __at all times__.
+    - ## The Four Frames
+        - If we intersect the focal and emotional ranges, we produce the graph below. Y-axis represents the emotional range, and X-axis represents focal range.
+        - ![Image for post](https://miro.medium.com/max/1600/1*EBW3DdnRdg70c4EC6viPAw.jpeg)
+        - “Y” = degrees of Yes (acceptance). “F” = degrees of focus.
+        - The graph below represents the total ways in which we view any subject: (1)abstract/concrete and (2) accept/reject. These 4 options create a simple matrix, illustrated by the quadrants below. Each quadrant represents a frame of mind used to view a subject. We are constantly using one of the four frames.
+        - __Abstract-Rejection__
+        - Some people view him in the lower left quadrant, which is abstract-rejection; they refuse to see all of his unique characteristics, and choose to focus on the traits that lump him into categories they may find unacceptable (black, rapper, celebrity, egotist, or male chauvinist).
+        - __Abstract-Acceptance__
+        - People who view him in the upper left quadrant, abstact-acceptance, refuse to see all of his unique characteristics and choose to focus on the traits that lump him into categories they may find acceptable (ambitious, creative, courageous, rich, American, or always evolving).
+        - __Concrete-Rejection__
+        - Those who view him in the lower right quadrant, concrete-rejection, focus on the very specific characteristics, that are unique to Kanye, that they find unacceptable (the shape of his beard, tone of his voice, his timing or choice of words about George Bush).
+        - __Concrete-Acceptance__
+        - Lastly, people who view him in the upper-right quadrant, concrete-acceptance, give their complete attention to the very specific characteristics that they love about Kanye (The attention to detail he paid to the __Glow-in-the-Dark __Tour, the samples he used in __My Beautiful Dark Twisted Fantasy,__ his Philanthropic efforts__).__
+        - When chronically viewing the world through this frame, we feel powerful due to an abundance of choice. We feel unstoppable, extremely clear, competent, confident, passionate, appreciative, happy, and completely in control of our experience. This is when serendipity, inspiration, creation, and innovation happen. Things just seem to get better, and better.
+    - ## Dissect and Select
+        - I refer to the abstract-rejection quadrant as “The Cycle,” and the concrete-acceptance quadrant as “The Zone.” How do we move from “The Cycle” to “The Zone?” There are two simple steps: (1) Dissect and (2) Select.
+        - Dissect means to divide a subject into parts and examine the details.
+        - Select means to pick a preference from the range of parts, based on emotional feedback.
+        - __If you have any thoughts or questions, I can be reached at kelcey33@gmail.com .__

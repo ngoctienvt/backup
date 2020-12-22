@@ -1,11 +1,12 @@
 - concrete and abstract thinking
     - [horizons of focus](<horizons of focus.md>)
     - clarity mind versus cloudy mind
+- Types of thinking
+    - concrete thinking - literal thinking- based on five senses
+    - abstract thinking - based on intellectual mind
+        - The more abstract, the more it loses indivuality and context
 - zoom-in and zoom-out point of view
     - down to earth vs head in the clouds
-- improvement versus innovation
-    - incremental versus transformational
-    - transactional versus transformational
 - example
     - example and concept
     - coach the problem, the person, the being
@@ -28,6 +29,9 @@
 - I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [level of thinking](<level of thinking.md>)
 
 - I had some notions about designing a process or a sequence of activities to level up my expertise by myself. It will need the combination of [level of thinking](<level of thinking.md>)
+
+## [December 22nd, 2020](<December 22nd, 2020.md>)
+- [level of thinking](<level of thinking.md>)
 
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [level of thinking](<level of thinking.md>)

@@ -1,11 +1,12 @@
 - concrete and abstract thinking
     - [[horizons of focus]]
     - clarity mind versus cloudy mind
+- Types of thinking
+    - concrete thinking - literal thinking- based on five senses
+    - abstract thinking - based on intellectual mind
+        - The more abstract, the more it loses indivuality and context
 - zoom-in and zoom-out point of view
     - down to earth vs head in the clouds
-- improvement versus innovation
-    - incremental versus transformational
-    - transactional versus transformational
 - example
     - example and concept
     - coach the problem, the person, the being

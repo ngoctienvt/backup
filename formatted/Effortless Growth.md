@@ -26,6 +26,13 @@
         - 
 
 # Backlinks
+## [December 22nd, 2020](<December 22nd, 2020.md>)
+- With today work, I see more clearly a picture about my life polestar [Effortless Growth](<Effortless Growth.md>)
+
+- While I'm focusing on these main things, when I'm gradually master each of them and no need to focus on them much, I can just take them out and replace with new things, because I'm already become one with them, and this map is helping me to focus on my next grow and next contribution. [Effortless Growth](<Effortless Growth.md>)
+
+- I noticed that the way I work on my end goals is different with Vishen. [Effortless Growth](<Effortless Growth.md>)
+
 ## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 - [Effortless Growth](<Effortless Growth.md>)
 

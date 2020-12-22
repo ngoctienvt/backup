@@ -8,3 +8,47 @@
     - I have the end goal/ measure of success
     - I have some works I want to do
     - I am lacking of the ideal picture about how everything will happen when I reach the end goal
+- With today work, I see more clearly a picture about my life polestar [Effortless Growth](<Effortless Growth.md>)
+    - It starts with Life End Goals
+        - Enjoy the journey on earth 
+            - Experiences
+            - Growth from experiences
+        - Enjoy the journey on earth together 
+            - Contribution
+    - Then I need to clarify about the MISSION that I want to take on - which is what I need to do or achieve to meet the end goal
+    - Then I need to clarify WHO I NEED TO BECOME so that I am able to complete the MISSION - this is about what I need to grow or develop myself into so that I will be capable of complete the MISSION
+        - This will have
+            - spiritual being
+            - expertise human being
+            - productive human being
+    - Then I need to clarify what SKILLS or ABILITIES I need to develop so that I can become WHO I NEED TO BECOME.
+        - This will have sub-skills and major-skills
+    - Then I need to clarify what I need to have these SKILLS - Growing Zone - Level of expertise - HOW
+    - By connecting the whole things together, it will act as a navigation map for me to maintain my focus and stretch myself continuously to satisfy the next level.
+        - What is still lacking on the picture?
+            - The system to manage the whole system
+                - Manage the direction
+                - Manage the grow
+                    - Focus
+                    - Execution
+                    - Upgrade
+    - While I'm focusing on these main things, when I'm gradually master each of them and no need to focus on them much, I can just take them out and replace with new things, because I'm already become one with them, and this map is helping me to focus on my next grow and next contribution. [Effortless Growth](<Effortless Growth.md>)
+        - The only remain is end goal
+        - While the mission, who I need to become... can always change over time.
+- [Type of goals](<Type of goals.md>)
+    - End goals
+    - Means goals
+    - Self-fueled goals
+    - Unrealistic goals
+    - Set-a-side or self-fulfilled goals
+- I noticed that the way I work on my end goals is different with Vishen. [Effortless Growth](<Effortless Growth.md>)
+    - The way Vishen approach are there are many end goals. So we can have many end goals as possible. And they are may not related to each other.
+    - My view are there are only 2-3 end goals that we have in life. 
+        - But there will be more smaller goals which acts as milestones or conditions that need to fulfill to help me come closer to these end goals.
+            - But of course, I can always make these milestones goals challanging and exciting, so that I can focus on. 
+        - The goals that feel unrelated are set-a-side goal that I could get it on the way I come to my end goals because they will be in my reach and give me the unique experiences.
+- [level of thinking](<level of thinking.md>)
+    - Abstract to concrete
+        - From general to contextual
+        - From theory to example
+        - From knowledge to application
