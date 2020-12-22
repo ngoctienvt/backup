@@ -32,6 +32,9 @@
 ## [December 17th, 2020](<December 17th, 2020.md>)
 - The role [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
+## [December 22nd, 2020](<December 22nd, 2020.md>)
+- There will be a middle way between [🌲Top-down Processing](<🌲Top-down Processing.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down Processing](<🌲Top-down Processing.md>)
 

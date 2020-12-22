@@ -15,7 +15,8 @@
         - What has you change that you can't comeback to the way you before?
     - Identify feelings
         - What are your feelings about the journey that you have gone through?
-        - What make you have these feelings
+        - What make you have these feelings?
+        - What are your energy level comparing to the beginning?
     - Identify insights
         - What are 3 main lessons?
         - What you notice about your way of working? growing?

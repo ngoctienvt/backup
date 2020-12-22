@@ -31,6 +31,9 @@
 ## [December 17th, 2020](<December 17th, 2020.md>)
 - The role of [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
+## [December 22nd, 2020](<December 22nd, 2020.md>)
+- There will be a middle way between [🌲Top-down Processing](<🌲Top-down Processing.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
+
 ## [December 4th, 2020](<December 4th, 2020.md>)
 - It will also help to practice [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 

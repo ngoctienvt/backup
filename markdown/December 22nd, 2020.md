@@ -1,0 +1,3 @@
+- There will be a middle way between [[🌲Top-down Processing]] and [[🌲Bottom-up Emergence]]. It is integration zone. So these things don't need to be linear, but rather a 3 separate phase instead.
+- High energy level is the indicator of the heart that are open with shakti, while low energy level is the indicator of a closed heart. Energy is a much better indicator than feelings. [[the state of the heart]] [[measure of success]]
+- 
