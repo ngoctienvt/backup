@@ -218,10 +218,24 @@
         - Do these goals scare me a little and excite me a lot?
 - Taking action and Meditation
     - Baby steps and Moonshots
-        - What if how doesn't matter?
+        - What if how doesn't matter? 
+            - Don't focus on How, focus on What
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F-SNcOONqAU.png?alt=media&token=2b56880d-0188-4d89-9bd2-dba657814d4a)
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FOsGGX4HVkO.png?alt=media&token=7fc2d487-f1fa-496f-93c2-d5efc1a3e2a5)
-    - 
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FOsGGX4HVkO.png?alt=media&token=7fc2d487-f1fa-496f-93c2-d5efc1a3e2a5)
+        - "As long as you are __learning__ and __taking steps forward__, you are on the right track" - Larry Page
+        - The most __powerful action__ you can take towards your goals comes from __sitting still__
+    - Passive vs Active meditation
+        - Active meditation is about using your mind to __shift the world__
+            - Turn problem into project
+            - Take action towards the goals
+        - The basic of meditation
+            - A transcendent practice - enter an altered state
+        - Meditation techniques
+            - Alpha trigger
+                - Visualization the 3-2-1 countdown
+                - The deepening exercise
+                    - Head-to-toe deepening
+                    - 10-to-1 countdown
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
