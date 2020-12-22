@@ -187,6 +187,25 @@
             - Look our eyes in the mirror
             - Say repeatedly "I love you"
             - Do when brush our teeths
+        - "I am enough" affirmations
+- Reframing failures
+    - Pain as a prerequisite for growth
+        - "What if pain are god wake you up from the wrong direction?"
+        - Your pain might be the breadcumbs to your mission
+            - ![Bread Crumbs Along the Path of Life: Brenden, Sally, Brenden, Stefanie:  9780997295726: Amazon.com: Books](https://images-na.ssl-images-amazon.com/images/I/71VOQnLzfVL.jpg)
+        - What were the Kensho moments in your life where god was guiding you towards your mission?
+        - From suffering, we sometimes find our 
+            - mission 
+            - values
+            - discover who we are meant to be 
+        - "When meaning is given to suffering, it ceases to become suffering." - Viktor Frankl
+        - The energy redirection technique
+            - Turn the problem into a __project__
+            - 3 basic response to a problem
+                - Frustration - break happiness in the now and connection with the universal intellectual
+                - Desire to __fix__ it - fixation obsession
+                - Create a __vision__ that makes the problem obsolete
+                - Let go the inner samskaras that make the event become problems and create a new vision based on the event 
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)

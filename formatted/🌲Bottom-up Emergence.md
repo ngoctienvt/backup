@@ -87,9 +87,6 @@
 
 -  [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
-## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
-- [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-
 ## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
