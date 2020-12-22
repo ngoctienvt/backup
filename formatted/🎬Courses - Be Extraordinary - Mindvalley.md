@@ -216,6 +216,12 @@
         - Ensure 50% of your goals are challenging
             - You should only be __achieving 70-80%__ of your goals
         - Do these goals scare me a little and excite me a lot?
+- Taking action and Meditation
+    - Baby steps and Moonshots
+        - What if how doesn't matter?
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F-SNcOONqAU.png?alt=media&token=2b56880d-0188-4d89-9bd2-dba657814d4a)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FOsGGX4HVkO.png?alt=media&token=7fc2d487-f1fa-496f-93c2-d5efc1a3e2a5)
+    - 
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
