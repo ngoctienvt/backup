@@ -1,4 +1,26 @@
+- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
+    - Broad
+        - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+        - [unselective gratitude](<unselective gratitude.md>)
+    - Deep
+        - [🌲Top-down Processing](<🌲Top-down Processing.md>)
+        - [Horizons of Mastery](<Horizons of Mastery.md>)
+            - [Level of expertise](<Level of expertise.md>)
+                - [Bloom's taxonomy](<Bloom's taxonomy.md>)
+                - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+            - Components of expertise
+                - Skills
+                - Knowledge
+                - Ability to simplify
 - [Effortless Growth](<Effortless Growth.md>)
+- [Horizons of Mastery](<Horizons of Mastery.md>)
+    - [Level of expertise](<Level of expertise.md>)
+        - [Bloom's taxonomy](<Bloom's taxonomy.md>)
+        - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+    - Components of expertise
+        - Skills
+        - Knowledge
+        - Ability to simplify
 - 
 
 # Backlinks

@@ -13,6 +13,11 @@
 ## [Effortless Growth](<Effortless Growth.md>)
 - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
 
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+
+- [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+
 ## [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)
 - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
 
