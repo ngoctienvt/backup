@@ -1,6 +1,27 @@
-- The goal of the review sesion
-    - Have a zoom-out point of view to reflect the whole journey
-    - Identify key transformation for self-validation
-    - Identify key learnings for expand into other areas
-    - Identify success factors for further replication
-    - Identify client's way of learning, way of development, way of thinking,...
+- The purpose of the review sesion - a learning lesson
+    - Helping clients to to have a zoom-out point of view so that they could learn about themselves deeply and use them for their next journey. As well as identify the gaps that haven't been closed and see if there is anything that need to do about it.
+        - Identify the gaps that haven't filled yet
+        - Identify key transformation - reinforcement
+    - Expand their learning
+        - Identify key learnings for expand into other areas
+        - Identify client's way of learning, way of development, way of thinking,...
+    - Replicate for future and next steps
+        - Identify success factors for further replication
+        - What will be your ideal next step?
+- How
+    - Start with facts
+        - What are the theme of the journey? 
+        - What have? What haven't?
+        - What has you change that you can't comeback to the way you before?
+    - Identify feelings
+        - What are your feelings about the journey that you have gone through?
+        - What make you have these feelings
+    - Identify insights
+        - What are 3 main lessons?
+        - What you notice about your way of working? growing?
+            - What are your success factors? 
+            - What are your learning styles? Working styles?
+        - How you can replicate these insights into other aspects of your life?
+    - Next step
+        - What will be your ideal next step?
+        - 

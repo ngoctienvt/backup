@@ -1,3 +1,7 @@
+- Top-down process
+    - Why?
+    - What?
+    - How?
 - Writing process
     - Outlining
     - Drafting
