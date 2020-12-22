@@ -1,4 +1,8 @@
 - There will be a middle way between [🌲Top-down Processing](<🌲Top-down Processing.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). It is integration zone. So these things don't need to be linear, but rather a 3 separate phase instead.
+    - The roles of these 3 things are very different and need to be clearly distinct, so our mind can clear about that
+        - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) serve for learning and growing, it's about accumulate the neccessary quality ingredients for level up later
+        - [🌲Top-down Processing](<🌲Top-down Processing.md>) serve for experimenting and creating certain results based on the current ability. It is not about perfection, but about doing the best for having more quality ingredients for level up later.
+        - [integration](<integration.md>) is where the level up that's truly happen before going for the next big projects.
 - High energy level is the indicator of the heart that are open with shakti, while low energy level is the indicator of a closed heart. Energy is a much better indicator than feelings. [the state of the heart](<the state of the heart.md>) [measure of success](<measure of success.md>)
 - I noticed that there's a gap inside of me that haven't able to connect my end goals with what I want to do now about what I want to impact to the world. 
     - I have the end goal/ measure of success

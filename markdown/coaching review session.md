@@ -1,22 +1,19 @@
-- The purpose of the review sesion - a learning lesson
-    - Helping clients to to have a zoom-out point of view so that they could learn about themselves deeply and use them for their next journey. As well as identify the gaps that haven't been closed and see if there is anything that need to do about it.
-        - Identify the gaps that haven't filled yet
+- The purpose of the review sesion - a reflect, harvest and expand learning lesson
+    - Helping clients to to have a zoom-out point of view so that they could learn about themselves deeply and use them for their next journey. 
         - Identify key transformation - reinforcement
-    - Expand their learning
-        - Identify key learnings for expand into other areas
-        - Identify client's way of learning, way of development, way of thinking,...
-    - Replicate for future and next steps
-        - Identify success factors for further replication
-        - What will be your ideal next step?
+        - Expand their learning
+            - Identify key learnings for expand into other areas
+            - Identify client's way of learning, way of development, way of thinking,...
+        - Replicate for future and next steps
+            - Identify success factors for further replication
+            - What will be your ideal next step?
+    - Identify the gaps that haven't filled yet
 - How
     - Start with facts
         - What are the theme of the journey? 
         - What have? What haven't?
-        - What has you change that you can't comeback to the way you before?
     - Identify feelings
-        - What are your feelings about the journey that you have gone through?
         - What make you have these feelings?
-        - What are your energy level comparing to the beginning?
     - Identify insights
         - What are 3 main lessons?
         - What you notice about your way of working? growing?
@@ -25,4 +22,22 @@
         - How you can replicate these insights into other aspects of your life?
     - Next step
         - What will be your ideal next step?
-        - 
+- Tasks analysis
+    - Reflecting facts and feelings about what have/ haven't 
+        - Identify the theme
+        - What has you change that you can't comeback to the way you before?
+        - What are your feelings about the journey that you have gone through?
+        - What are your energy level comparing to the beginning?
+    - Reflect insights of the sessions
+        - Identify key learnings
+        - Expand and apply key learnings into life
+    - Reflect insights about the clients as a whole
+        - Identify success factors
+        - Identify the way of working/ learning styles
+        - Expand and apply these learnings into life
+    - Gap and Future
+        - Identify the gap
+            - What we not achieve?
+            - What are the remaining blockages?
+        - Identify the next steps
+        - Offering needed support
