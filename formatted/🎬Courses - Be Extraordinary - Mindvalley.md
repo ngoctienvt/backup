@@ -241,7 +241,13 @@
         - Distinguish internal and external ones
         - Clarity of vision
         - Positive happy state
-    - 
+    - The ganzfeld test
+    - The 5 types of intuition
+        - Warning system
+        - Connection
+        - Inspiration
+        - Support
+        - Higher Purpose
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
