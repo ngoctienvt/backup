@@ -490,6 +490,9 @@ Nếu thực hiện trong lớp trực tiếp, bạn có thể dùng xí ngầu 
 13- Tổng kết buổi học bằng chính những hình ảnh mọi người đã chọn ở phần trước: Chọn một hình ảnh đại diện cho bài học lớn nhất mà bạn nhận được sau buổi hôm nay
 
 Việc sử dụng chung một tài liệu (trong trường hợp này là chung một bộ hình ảnh) cho hai phần khác nhau sẽ khiến người học cảm thấy được sự liên kết đầu - cuối, khiến buổi học có cảm giác đầy đủ.
+- Session 10
+    - Viết rubric trong giai đoạn phân tích nhiệm vụ
+        - Đánh giá cái gì thì dạy dựa trên cái đó (Teaching based on expected outcome)
 - ---
 - Group activities
     - Clarify foggy contents
