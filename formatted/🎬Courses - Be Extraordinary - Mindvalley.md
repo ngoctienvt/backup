@@ -236,6 +236,12 @@
                 - The deepening exercise
                     - Head-to-toe deepening
                     - 10-to-1 countdown
+- Using intuition
+    - Intuition is the compass
+        - Distinguish internal and external ones
+        - Clarity of vision
+        - Positive happy state
+    - 
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
