@@ -333,7 +333,6 @@ Lập kế hoạch áp dụng
 - Tools
     - Tools to split group
         - [https://pickerwheel.com/tools/random-team-generator/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpickerwheel.com%2Ftools%2Frandom-team-generator%2F%3Ffbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)
-    - 
 - [Principle for learning](<Principle for learning.md>)
 - 3 roles for creating and delivering a training effectively [Training roles](<Training roles.md>)
     - Instructional Designer
