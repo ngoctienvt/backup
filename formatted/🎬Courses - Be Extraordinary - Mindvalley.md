@@ -238,7 +238,7 @@
                     - 10-to-1 countdown
 - Using intuition
     - Intuition is the compass
-        - Distinguish internal and external ones
+        - Ability to distinguish internal and external ideas 
         - Clarity of vision
         - Positive happy state
     - The ganzfeld test
@@ -248,6 +248,12 @@
         - Inspiration
         - Support
         - Higher Purpose
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FKlgowP4tZ0.png?alt=media&token=f396f45c-a091-4c85-9b30-a1b6bdb6b603)
+    - Intuition for guidance
+        - Our logical only knows the answer that it learned based on the tiny experiences it has, not universal but it thinks it is universal.
+        - Clearing the garbage technique
+            - The more relaxed you are, the better the quality of intuitive impulse
+            - Bring yourself to present awareness
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
