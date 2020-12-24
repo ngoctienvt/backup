@@ -364,4 +364,128 @@
                         - Some people are content with the status quo and have no interest in changing. 
                         - People have a tendency to confuse selfish with self-care.
 - ### Chapter 4 - SETTING THE FOUNDATION
-    - 
+    - THE OPENING QUESTION
+        - The very first question a coach asks their client when starting the conversation should immediately imply that this is a professional conversation with a purpose.
+            - Since coaches should not have an agenda, refrain from asking your client for an update at the start.
+                - Suppose your last conversation centered around his search for a new job. But in this conversation, the client is in deep distress after finding out he has a serious medical condition. 
+                - Chances are he will want to talk about his medical condition and not his job search. Therefore, allow him to first share what he wants to discuss, and if appropriate, ask at another point in the conversation for an update on the job search issue. 
+                - Besides, a client’s initial story often includes an update, or it becomes evident during the conversation.
+        - Clients have a tendency to share every detail that comes to mind. 
+            - If your opening questions are, “What do you want to talk about?” or “How has your week been?”, you are effectively inviting a detailed story 
+                - that can easily move the interaction from a professional coaching conversation to idle chit-chat that lacks focus and intent.
+        - Here’s an example of a strong opening question: 
+            - “In our time together, what can we focus on that will [bring you value / be of importance / make a difference]?” 
+            - If they respond, “I don’t know,” keep in mind that this response basically means they don’t have a “story of the week,” are hesitant to bring up what is really going on for them, or lack something specific that stands out for discussion. You then have options:
+                - You can ask them to remember why they came for coaching in the first place. 
+                - You can ask what progress they have made since the beginning of the engagement and what still needs to change. 
+                - You can say that there have to be aspects of their life that aren’t exactly as they would like, and then ask what would make sense to discuss.
+            - Whether or not the client has a specified topic ready, many of their overall patterns and behaviors are still present. This means that there is always something to explore.
+        - 
+    - THE CLIENT STORY
+        - Your client typically launches into their story following your tactful opening question. Listening from your helicopter view, you should be able to synthesize it into something strictly about your client. 
+            - Separate the story from who the person is and how they think or behave.
+                - The story: My boss told me in private that he is leaving the company, and I want to tell my teammates even though I know it’s wrong. 
+                    - The person: What is making it hard for you to stay quiet about this? 
+                - The story : I want to clean up the clutter in my office. 
+                    - The person : What’s makes clutter a problem for you? or What makes it important to address at this time? 
+                - The story: I need to make a decision as to whether to stay in this department or move to a different one in the company. 
+                    - The person: What makes it a difficult decision? or What would help you know what to do? 
+                - The story: I’m getting frustrated with my boyfriend who is always late and often backs out of things at the last minute. 
+                    - The person : What’s making this a problem for you? or What’s allowing you to accept this behavior?
+        - We want to avoid questioning the story because that leads us down a rabbit hole that goes in circles, and we won’t get new information that helps us get to the client’s truth. 
+            - The object of your questions is to keep the conversation moving forward by getting a better understanding of what’s really going on with the person.
+        - (Page 52). 
+    - THE FIRST QUESTION AFTER THE CLIENT’S STORY
+        - The first question you ask after the client’s initial story can be the most important question of the entire conversation.
+            - Your exploration process should always supersede your desire to arrive at a solution.
+            - It’s important to keep in mind that reflection — that is, “reflecting” your interpretation of the client’s information back to them, particularly after their opening story — is critical. 
+                - They just shared information and want to feel heard and understood.
+                - To build trust and rapport, the first step should be to reflect in your own words what your client said, followed by a short, open, and broad question. Reflection is not parroting, but rather includes an interpretation on your part.
+            - Rather than checking your client’s story by asking a closed question that they can answer with a yes or no, it’s prudent to move right into an open question. 
+                - Your first question should lead away from the story and toward understanding the person, thereby deepening the conversation immediately.
+                    - Weak questions
+                        - More often than not, some of the weaker first questions I hear from newer coaches are: “What do you want as an outcome of this conversation?”
+                        - If possible, avoid: “I hear that your boss is giving you a hard time and you need to figure out if you want to stay in this job. Did I get that right?”
+                            - Asking this “yes or no” question makes it seem as though the coach doesn’t know what to ask and/or needs to confirm hearing every word.
+                        - “Tell me more about the relationship with your boss.”
+                            - This question will likely invite more about the story rather than help you understand more about the person.
+                    - Strong questions
+                        - “It seems as though you are contemplating leaving based on your relationship with your boss. What might be helpful in making this decision?”
+                        - Or “What’s important about addressing the prospect of leaving at this time?” 
+                        - These questions are about the client, move the conversation forward, and will provide useful data to explore what’s underneath the problem.
+                    - If your client shares something extremely vague, it can be helpful to ask for an example so you can get a better understanding of what they’re saying. 
+                    - Or, you could simply ask, “What would be helpful in this conversation?” 
+                        - If at any point you’re not 100 percent clear about what they mean, it’s crucial that you ask for clarification; however, in doing so, it’s prudent to begin with, “Just for clarification….”
+                            - If you don’t fully understand them, the coaching cannot move forward because the focus is cloudy.
+                    - Sometimes your client will only provide a concept such as, “I’m having trouble making decisions.”
+                        - Asking for an example might yield data that implies it’s not really about decision-making at all but rather a fear of sharing a decision they already made.
+            - Two important self-asking question
+                - 1) Why are they telling me this? 
+                    - This question (never to be articulated) helps you listen more acutely to your client, separate the details from the person, and continue to be curious about what motivated them to choose what they shared .
+                - 2) What’s making this a problem for this person? 
+                    - Not every person presents a similar response to a challenge. It’s your job to understand why this particular person has this particular challenge 
+when someone else wouldn’t have it.
+            - If your client wants to make a decision, it’s important to first understand: what’s behind making the decision, why now, and what is making it a difficult decision for them? 
+                - Masterful coaching moves along layer by layer, piece by piece, in partnership with the client. 
+                    - It’s not about listing the pros and cons of the decision they need to make; they have likely already done that. 
+                    - It’s about exploring and understanding your client, their motives, their thinking, and their behavior. 
+                    - Gathering more details about the decision or their situation isn’t helpful in understanding the deeper considerations of motive, thought processes, and behavior.
+            - [Coaching examples](<Coaching examples.md>)
+                - Scott begins his coaching session saying, 
+                    - “My aunt and uncle passed away about a year ago and I inherited their house. I’ve noticed lately that I used to always be punctual. Lately I find myself always late, and it’s really bothering me. 
+                    - I’m hoping in this conversation we can look at time management and how I can get back to being on time.”
+                - Two seemingly unrelated topics are mentioned. (Why is he telling me this?)
+                    - Address both topics 
+                        - “I understand that you want to look at time management and this new pattern of being late, and I’m wondering — what does it mean for you to have inherited this house?”
+                    - Be careful of diving too deep too fast.
+                        - “What do you suppose could be the relationship between the house and the lateness?”
+                        - Scott wouldn’t even have thought about any connection.
+                        - (Page 55). 
+                        - (Page 55). 
+                    - (Page 55). 
+                    - (Page 55). 
+                - (Page 55). 
+                - (Page 55). 
+    - SUPPORT THE CLIENT’S AGENDA, NOT YOUR OWN
+        - Coaches often inadvertently set the agenda, particularly when their client offers more than one possibility.
+            - For example, [bad coaching examples](<bad coaching examples.md>)
+                - when the client says, “I would like to discuss my father. I also want to talk about my job,” 
+                - and the coach asks, “What is it about your father you want to talk about?” 
+                - The coach has made a choice for the client instead of allowing the client to choose the path they want to take.
+        - A coach can also set the agenda by asking a leading question or making a request. 
+            - A leading question seeks an answer that is obvious or certain and has an expected response. [bad coaching examples](<bad coaching examples.md>)
+                - An example of a leading question is “Who has control here?” 
+                - There’s an implied “right” answer since only the client has control instead of asking a truly open question such as “What do you want to do about the situation?”
+        - Without sufficient context, a request can also become the coach’s agenda. 
+            - “Would you be willing to try this exercise?” is a leading question because the chances of your client saying no are slim to none.
+            - If you believe an exercise might be helpful, it’s important to provide context. 
+                - Give an explanation as to the purpose of the exercise and why it’s useful so your client has this information before making a commitment.
+            - There are some requests that could go against the grain. 
+                - “Close your eyes” isn’t okay for many people. 
+                - However, when you say, “There’s an exercise that could help you view your situation differently. It involves closing your eyes. Are you comfortable with that?” 
+                - Framing the request this way prepares your client to answer honestly.
+        - It’s important to allow the client to set the agenda but it’s also your role to keep the conversation focused and moving forward.
+            - if you lead by following (use what the client has offered as the basis for your question), you aren’t hijacking the agenda.
+            - 
+    - THE AGREEMENT
+        - The agreement is the point in the conversation where you and the client agree on what the focus will be and what outcome makes sense.
+        - “What do you want to focus on?” during the conversation is one of timing.
+            -  When looking at the specific situation, and the client’s long-term plan, this is a tricky and oftentimes contentious point.
+            - Sometimes that question needs to come well into the conversation, allowing time for a specific and appropriate direction for the coaching to become apparent. 
+                - Pushing for a response early on only causes frustration.
+        - Within the first ten minutes or so of a conversation there is usually a natural place to say, 
+            - “Based on where we are, what would be helpful for the rest of this conversation?” 
+            - or “What will be most helpful at this point?”
+        - The agreement needs to go deeper than the answer to one simple question.
+            - Because the agreement is so vital to the conversation, it requires further exploration. 
+                - There are several questions that can help to solidify the agreement, such as: 
+                    - What is important about accomplishing X? 
+                    - What is significant about X? 
+                    - What do you think would be helpful to achieve X? 
+                    - What will help you know that you have achieved X? 
+                    - What will X look like once you achieve it?
+        - It’s important to remember that both you and your client must be clear about the purpose of the coaching. 
+            - If at any time it seems as though the conversation is veering in a different direction, it’s imperative to start the agreement process again.
+        - [Coaching Session examples](<Coaching Session examples.md>) Page 58 - The heart of laser-focused coaching (conventional vs transformational coaching)
+        - 
+- ### Chapter 5 - THE ART OF THE QUESTION
