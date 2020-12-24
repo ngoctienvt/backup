@@ -19,4 +19,10 @@
             - The first one is approach like Vishen that just write everything we feel that we want to do without connecting them to a specific end goal, but rather a categorize
             - The second one is approach like me that write down based on the end goal that I identify before
         - The third one is write end goal, choose mission, and choose what need to complete the mission
-        - 
+- The insight come to me is practice more instead of just thinking. The [Quantum Jumping meditation](<Quantum Jumping meditation.md>) really helps me realize that's I'm not sure about how I could truly look like and become, because of that, I can't the gap between the me in the now and the me in that state, it makes my vision is blurry and not clear, and not inspire me to move forward. I will practice more about this so I can constantly embrace new me.
+    - What is my ideal self I want to become?
+    - What does the life of my ideal self look like?
+    - What is his behavior and way of thinking?
+    - What is the quality that he developed?  
+- I felt so annoy and disturb when the other people not behave as my intention, this makes me feel frustrated and angry, but it's not their fault. It's my uncomfortable for things not happen the way I want, and I don't like this feeling when I'm directing interact with the moments. I should be grateful that's Huyền is helping me to go through these. This is a very big lesson for me to learn to harmony and interact properly with the moments in realtime [real time interaction](<real time interaction.md>) [samskaras](<samskaras.md>)
+- 

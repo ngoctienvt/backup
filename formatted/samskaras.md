@@ -14,6 +14,9 @@
 ## [December 17th, 2020](<December 17th, 2020.md>)
 - I feel so angry and uncomfortable when being imposed and judged by other people. It's make me feel not safe and unrespected. This is a big lesson that I need to handle, because I will meet these situations more in the future. This is also a chance for become a truly mature man. [samskaras](<samskaras.md>)
 
+## [December 24th, 2020](<December 24th, 2020.md>)
+- I felt so annoy and disturb when the other people not behave as my intention, this makes me feel frustrated and angry, but it's not their fault. It's my uncomfortable for things not happen the way I want, and I don't like this feeling when I'm directing interact with the moments. I should be grateful that's Huyền is helping me to go through these. This is a very big lesson for me to learn to harmony and interact properly with the moments in realtime [real time interaction](<real time interaction.md>) [samskaras](<samskaras.md>)
+
 ## [December 3rd, 2020](<December 3rd, 2020.md>)
 - Last night dream, I had so much fear and limit myself under the rules of society. I noticed that's I also had a tendency to try to gain benefits for myself, instead of thinking in a way that's not for my personal self, but for reality. [samskaras](<samskaras.md>)
 

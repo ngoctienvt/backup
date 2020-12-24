@@ -254,6 +254,9 @@
         - Clearing the garbage technique
             - The more relaxed you are, the better the quality of intuitive impulse
             - Bring yourself to present awareness
+    - Intuition as inspiration
+        - Your intuition guides you into the __right how__, once you give your mind a target
+        - Quantum jumping = intuition + manifesting
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
