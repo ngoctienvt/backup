@@ -2,6 +2,7 @@
     - ## Abstract or Concrete
         - Everything (object, person, situation) is simultaneously an individual and member of a larger group.
         - Everything has its own spectrum of characteristics. On the left end, there are common characteristics it shares with all of existence. This side of the spectrum is a more abstract representation. On the right end, there are unique characteristics. This side is a more concrete representation. As we move from right to left on the spectrum, the subject loses individuality, as unique characteristics are omitted.
+        - ![Image for post](https://miro.medium.com/max/1600/1*rjsSzqwy1DL4qclGeGlQkQ.jpeg)
         - A spectrum of focus moving from abstraction to concreteness.
         - For example, Lasagne can be reduced to Ribbon-cut pasta, pasta, Italian food, food, and stuff. Each point has a different level of distinction and clarity.
         - Attention is directing the mind to a subject. Focus is directing the mind to a single subject. When thinking about a subject, we select the level of focus. As focus increases, we move from abstract to concrete; from general commonalities of the group to the specific unique features of the individual.
@@ -18,6 +19,9 @@
         - ![Image for post](https://miro.medium.com/max/1600/1*EBW3DdnRdg70c4EC6viPAw.jpeg)
         - “Y” = degrees of Yes (acceptance). “F” = degrees of focus.
         - The graph below represents the total ways in which we view any subject: (1)abstract/concrete and (2) accept/reject. These 4 options create a simple matrix, illustrated by the quadrants below. Each quadrant represents a frame of mind used to view a subject. We are constantly using one of the four frames.
+        - ![Image for post](https://miro.medium.com/max/1600/1*iwDqE9LHec8mFfiPCv4baQ.jpeg)
+        - For example, let’s view a popular subject, Kanye West, through the four frames.
+        - ![Image for post](https://miro.medium.com/max/1600/1*5lccbVlPnurPkPidPbomtA.jpeg)
         - __Abstract-Rejection__
         - Some people view him in the lower left quadrant, which is abstract-rejection; they refuse to see all of his unique characteristics, and choose to focus on the traits that lump him into categories they may find unacceptable (black, rapper, celebrity, egotist, or male chauvinist).
         - __Abstract-Acceptance__

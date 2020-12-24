@@ -257,3 +257,12 @@
     - Intuition as inspiration
         - Your intuition guides you into the __right how__, once you give your mind a target
         - Quantum jumping = intuition + manifesting
+    - Creating your invisible counsellor
+        - [[The boardroom technique]]
+            - Choosing your counsellor
+                - Michael Singer
+                - Vishen Lakhiani
+                - Nguyễn Mỹ Linh
+                - Bill Gates
+                - Chérie Carter-Scott
+            - 

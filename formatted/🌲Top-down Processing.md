@@ -78,6 +78,9 @@
 
 -  [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [🌲Top-down Processing](<🌲Top-down Processing.md>)
+
 ## [🌲Top-down Processing](<🌲Top-down Processing.md>)
 - The role of [🌲Top-down Processing](<🌲Top-down Processing.md>)
 

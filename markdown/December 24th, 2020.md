@@ -27,4 +27,4 @@
 - I felt so annoy and disturb when the other people not behave as my intention, this makes me feel frustrated and angry, but it's not their fault. It's my uncomfortable for things not happen the way I want, and I don't like this feeling when I'm directing interact with the moments. I should be grateful that's Huyền is helping me to go through these. This is a very big lesson for me to learn to harmony and interact properly with the moments in realtime [[real time interaction]] [[samskaras]]
 - I felt that I become better at facilitating the training session for one session. I need to review and work on this more, but the approach to do good for 1 person is a perfect place for me to practice and learn from this. It's small enough so that I can do [[Rapid Prototyping]] and learn fast from this. 
     - It helps me to fill my lack of expertise and grows me much faster than just thinking and work alone.
-    - 
+- [[The boardroom technique]] I start to create my boardroom, and just start to get used to each other first. Before we actually do something. But it's a great start. I feel happy that I can have them as my cousellors to help me navigate through life.

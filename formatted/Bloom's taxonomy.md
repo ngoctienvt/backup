@@ -113,6 +113,11 @@
 ## [level of thinking](<level of thinking.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
+## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+- [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
+- [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
 ## [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 

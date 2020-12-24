@@ -486,6 +486,7 @@ when someone else wouldn’t have it.
                     - What will X look like once you achieve it?
         - It’s important to remember that both you and your client must be clear about the purpose of the coaching. 
             - If at any time it seems as though the conversation is veering in a different direction, it’s imperative to start the agreement process again.
-        - [Coaching Session examples](<Coaching Session examples.md>) Page 58 - The heart of laser-focused coaching (conventional vs transformational coaching)
+        - Jean: I have this situation — as you already know, I broke up with my boyfriend about six months ago and it completely caught me off guard. He sent me an email about three weeks ago saying he’s coming back to town and wants to get together for coffee. It took me a while to figure out — do I want to go or not? — but I let him know that it would be fine. And then he never emailed me again, and I’m sitting here, I have all of his stuff still in my house, and I don’t know what to do with it. Here’s the conventional approach with Jean: Coach : Hi, how’re you doing? Jean: I’m doing pretty okay . Coach : Jean, what can we talk about today? Jean: (above story) Coach : So you want to figure out what to do with all his stuff. What kind of outcome do you want from this conversation? Jean: I want clarity to know what the right thing to do is after six months. Coach : Why do you think you want to know about the right thing? Jean: Well, because I sort of feel responsible for giving it back. On the other hand, he’s kind of a jerk and I still have a lot of resentment. Coach : How will you know that we figured out what you need in this conversation?
+        - (Page 58). 
         - 
 - ### Chapter 5 - THE ART OF THE QUESTION
