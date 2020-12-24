@@ -1,0 +1,22 @@
+- I am become better at creating boundaries and not easy on other people. It's neccessary to make them responsible for their growth, not me. 
+- I will make a clarify session with [@Dương Thị Huyền](<@Dương Thị Huyền.md>) to help her
+    - Find her ideal client persona
+    - Identify what's her mission
+    - What she use coaching as a tool to support Who to able to What
+    - In order to do the above mission, what she will need to display on her blog
+- It looks like the way I work with end goals are different
+    - The similarity is they all have the same end goals
+    - The differences are
+        - The first one identify what I need to achieve or do so that I could reach the end goals
+        - The second one split our life end goals into 3 different aspects
+            - Growth as a goal
+            - Contribute/ Meaning -> Get a mission, not a career
+            - Experinces 
+        - The last one is focusing on what mission we want to do base on the end goal, and in order to complete the mission, who we need to become.
+    - I am not very clear about the purpose of clarify these things, so they kind of mix up and not have a systematic structure yet.
+        - With the first one, I can simply know what I need to do with a broad perspective so that I can gradually reach my goal
+        - WIth the second part, there are two ways of approach
+            - The first one is approach like Vishen that just write everything we feel that we want to do without connecting them to a specific end goal, but rather a categorize
+            - The second one is approach like me that write down based on the end goal that I identify before
+        - The third one is write end goal, choose mission, and choose what need to complete the mission
+        - 
