@@ -341,7 +341,7 @@ Trò chơi này có các bước như sau:
 - Trò chơi kết thúc khi (1) hết giờ, hoặc (2) một đội không còn thành viên nào sống sót, hoặc (3) một đội hết câu hỏi để hỏi. Lúc đó, đội nào còn nhiều thành viên hơn thì thắng cuộc.
 
 Mọi người có thể kéo dài và thực hiện phần "chuẩn bị câu hỏi" một cách cẩn thận hơn, để đảm bảo thành viên trong nhóm thực sự nhìn lại nội dung và chuẩn bị câu hỏi.
-    - 4- Hai dạng đánh giá kết quả [Ways to evaluate](<Ways to evaluate.md>)
+    - 4- Hai dạng đánh giá kết quả [Ways to assess students ](<Ways to assess students .md>)
 
 Dạng đánh giá kết quả tập trung vào nắm bắt kiến thức, nội dung (knowledge) và dạng đánh giá kết quả tập trung vào sản phẩm, hành động, nhiệm vụ làm được (performance). Và mỗi cấp độ của Bloom cũng tương ứng với một hoặc cả hai dạng đánh giá kết quả này.
         - 5- Thảo luận về cách đánh giá theo các cấp độ của Bloom
