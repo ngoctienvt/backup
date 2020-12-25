@@ -265,7 +265,11 @@
                 - Nguyễn Mỹ Linh
                 - Bill Gates
                 - Chérie Carter-Scott
-            - 
+- Thoughts creating reality
+    - Bending reality
+        - Believing that you are lucky, make you lucky
+        - The mental screen
+        - 
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
