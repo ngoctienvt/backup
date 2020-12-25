@@ -211,38 +211,11 @@ Trước khi yêu cầu mọi người phân tích sâu hơn về quá trình n�
         - Thu hoạch
             - Đan xen phần chính và thu hoạch
 - Session 7
-    - THIẾT KẾ WORKSHOP TINH GỌN - TỔNG KẾT BUỔI 7
-
-Xin chào cả nhà, buổi học số 7 với chủ đề "Thiết kế hoạt động chi tiết cho workshop" đã hoàn tất. Từ những buổi trước, chúng ta đã có được nội dung của workshop, bao gồm những bài học, học phần lớn, và nội dung cụ thể mà chúng ta muốn truyền đạt cho người học, cùng với kết quả người học có thể đạt được sau mỗi bài học. Buổi 6 tập trung vào cách thức truyền đạt nội dung đó.
-
-Đường link vào Jamboard và các tài liệu mình sử dụng trong buổi học ở đây nhé: 
-https://jamboard.google.com/d/1mBXq_1ws8jZ0dW7JunOu2GKCzGUor6gseOcvEq6Qmuc/edit?usp=sharing
-
-Và đây là video ghi hình buổi học: https://www.youtube.com/watch?v=G-7udPGQ3F0&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=7&ab_channel=ConnectionCoach
-
-Mục tiêu lớn nhất của buổi 6 là cho mọi người những dạng hoạt động chính và một phương pháp để thiết kế những hoạt động giúp truyền tải nội dung hiệu quả nhất.
-
-1- Trước khi bắt đầu, hoạt động "While you wait" (WUW) tụi mình mời mọi người tham gia là hoạt động "kể chuyện nối tiếp".
-
-2- Nhìn lại lịch trình
-
-Do có một buổi đặc biệt nên lịch trình của khóa học có thay đổi. Mọi người nhớ xem lại trang 1 của tài liệu Jam để nắm rõ nhé.
-
-3- Các nguyên tắc giúp người trưởng thành học tập hiệu quả
-
-Đây là hoạt động dạng "textra" và "structured sharing" kết hợp với nhau.
-
-Textra là dạng hoạt động yêu cầu người học cùng nhau xử lý một tài liệu chữ, theo hướng dẫn của người điều phối. Structured Sharing là dạng hoạt động yêu cầu người học thảo luận theo nhóm, với cấu trúc thảo luận và đúc kết cho trước.
-
-Textra có thể sử dụng với nội dung "chuẩn", ví dụ như kiến thức từ chuyên gia, quy trình từ tổ chức... được viết thành tài liệu chuẩn mực. Các tài liệu có thể đã được chọn lọc (ví dụ như tài liệu tụi mình gửi cho mọi người) hoặc chưa được chọn lọc (ví dụ: sách, bài viết tạp chí, website...). Các yêu cầu cho người học xử lý thường là tìm ra, đúc kết một điểm nào đó trong một tổng thể lớn thay vì xử lý toàn bộ tổng thể, rồi cùng chia sẻ với những người khác để tìm hiểu các phần khác nhau của tổng thể. Hiệu quả của hoạt động phụ thuộc vào tài liệu có được đóng khung cẩn thận hay không, và yêu cầu có rõ ràng hay không.
-
-Structured Sharing có thể sử dụng với nội dung mang tính quan điểm, ý kiến, kinh nghiệm cá nhân của người tham gia. Trong đó, các thông tin được chia sẻ theo một cấu trúc được dẫn dắt bởi câu hỏi hoặc đề mục lớn, mà người tham gia sẽ trả lời hoặc hoàn thành cùng nhau. Hiệu quả của hoạt động phụ thuộc vào các câu hỏi hoặc đề mục đưa ra, các câu hỏi cần rõ ràng, đơn giản, tập trung, tránh người tham gia hiểu theo nhiều nghĩa khác nhau.
-
-4- Cấu trúc của một buổi học
-
-Đây là một ví dụ khác của "Structured Sharing", trong đó mỗi nhóm thảo luận về một "đề mục" là một phần của buổi học. Nếu mọi người chưa có chút kinh nghiệm nào về đào tạo, thì phần này nên được thực hiện bằng cách khác (ví dụ: xử lý tài liệu - textra, hoặc xử lý các cụm thông tin nhỏ - Items Processing). Vì mọi người đã có kinh nghiệm về đào tạo, nên hoạt động này nên được thực hiện theo cách "Structured Sharing" để lấy kinh nghiệm của mọi người.
-
-5- Sắp xếp các hoạt động đã từng thực hiện trong chương trình vào bảng
+    - Textra là dạng hoạt động yêu cầu người học cùng nhau xử lý một tài liệu chữ, theo hướng dẫn của người điều phối. [[Textra game]]
+        - Textra có thể sử dụng với nội dung "chuẩn", ví dụ như kiến thức từ chuyên gia, quy trình từ tổ chức... được viết thành tài liệu chuẩn mực. Các tài liệu có thể đã được chọn lọc (ví dụ như tài liệu tụi mình gửi cho mọi người) hoặc chưa được chọn lọc (ví dụ: sách, bài viết tạp chí, website...). Các yêu cầu cho người học xử lý thường là tìm ra, đúc kết một điểm nào đó trong một tổng thể lớn thay vì xử lý toàn bộ tổng thể, rồi cùng chia sẻ với những người khác để tìm hiểu các phần khác nhau của tổng thể. Hiệu quả của hoạt động phụ thuộc vào tài liệu có được đóng khung cẩn thận hay không, và yêu cầu có rõ ràng hay không.
+    - Structured Sharing là dạng hoạt động yêu cầu người học thảo luận theo nhóm, với cấu trúc thảo luận và đúc kết cho trước. [[Structured sharing activity]]
+        - Structured Sharing có thể sử dụng với nội dung mang tính quan điểm, ý kiến, kinh nghiệm cá nhân của người tham gia. Trong đó, các thông tin được chia sẻ theo một cấu trúc được dẫn dắt bởi câu hỏi hoặc đề mục lớn, mà người tham gia sẽ trả lời hoặc hoàn thành cùng nhau. Hiệu quả của hoạt động phụ thuộc vào các câu hỏi hoặc đề mục đưa ra, các câu hỏi cần rõ ràng, đơn giản, tập trung, tránh người tham gia hiểu theo nhiều nghĩa khác nhau.
+    - 5- Sắp xếp các hoạt động đã từng thực hiện trong chương trình vào bảng [[Item processing activities]]
 
 Đây là hoạt động dạng "Items Processing", trong đó người học sẽ cùng nhau xử lý những thông tin nhỏ, ngắn, theo trình tự. Trong hoạt động này, thông tin đưa ra là "các hoạt động mà mọi người trải nghiệm từ đầu tới giờ", và thông tin nữa là "các dạng hoạt động" gồm 7 dạng. Mọi người được yêu cầu xử lý và sắp xếp các hoạt động vào các dạng.
 
@@ -253,82 +226,13 @@ Nếu có thêm thời gian, tụi mình còn có thể yêu cầu mọi ngườ
 Items Processing yêu cầu người tham gia xử lý các thông tin ngắn đó theo một trình tự nào đó, để ra được một kết quả. Trình tự đó sẽ được dẫn dắt từng bước để dần đạt được kết quả đó. Hiệu quả của hoạt động phụ thuộc vào việc thông tin có được đưa ra rõ ràng hay không, và trình tự có phù hợp, dễ thực hiện hay không.
 
 Một ví dụ khác của "Items Processing" chính là hoạt động "Card Sort" mà mọi người trải qua mấy lần, ví dụ như: sắp xếp các cấp độ tư duy Bloom theo đúng trình tự, sau đó sắp xếp các mô tả cho đúng cấp độ, và sau đó viết ra các ví dụ cho từng cấp độ.
-
-6- Trong tình huống nào thì nên sử dụng dạng hoạt động này
-
-Cho 4 dạng hoạt động: framegame, practical activity, insightful activity, debriefing.
-
-Đây cũng là một hoạt động dạng "Structured Sharing".
-
-Phần lớn Framegame thường được sử dụng khi nội dung mang tính tư duy, kiến thức, ít yếu tố cảm xúc. Các framegame khác nhau có thể đưa người tham gia lên các tầng tư duy khác nhau. Ví dụ: Textra hoặc Items Processing có thể đưa người tham gia lên tầng biết, hiểu. Nếu có kèm thực hành thì có thể đưa lên tầng ứng dụng. Sau đó Structured Sharing có thể đưa người tham gia lên tầng phân tích, đánh giá. Framegame phù hợp với tất cả các dạng thông tin (Facts, Concepts, Principles, Procedures), miễn là người học được đưa lên một tầng tư duy nào đó.
-
-Practical activity là các hoạt động mang tính thực hành, phù hợp nhất với những quy trình, nguyên tắc (Procedures, Principles). Trong đó, người tham gia nên được xem demo trước, xử lý demo đó, và làm theo. Phần xử lý demo có thể ứng dụng framegame để thực hiện.
-
-Insightful activity là các hoạt động có bài học cụ thể, theo chủ đề, ví dụ: bài học về lắng nghe, lãnh đạo, cảm xúc... Và một hoạt động thường chỉ giúp bộc lộ ra một vài bài học. Nếu muốn có bài học khác thì phải sử dụng hoạt động khác. Các bài học này thường được lộ ra khi người học có cảm xúc. Như vậy, đặc thù của hoạt động Insightful activity là "trải nghiệm có cảm xúc". Và sau mỗi hoạt động này, người điều phối luôn cần thu hoạch cho hoạt động để người tham gia đúc kết được bài học. Hoạt động Insightful activity phù hợp nhất với dạng thông tin Concepts (khái niệm) và Principles (nguyên tắc), vì các dạng thông tin này cần trải nghiệm mới có thể hiểu sâu hơn được. Ví dụ: một chương trình đào tạo về EQ mà chỉ có thảo luận, phân tích, chia sẻ bằng các framegame thì có thể không hiệu quả, vì EQ là một khái niệm cần trải nghiệm. Như vậy, người thiết kế cần sử dụng hoạt động nào đó cho mọi người trải nghiệm có cảm xúc cho nội dung EQ này.
-
-Debriefing là các hoạt động giúp thu hoạch bài học từ các hoạt động còn lại. Và quá trình thu hoạch nên được dẫn dắt từ từ, qua từng giai đoạn, thì người học mới có thể đúc kết được bài học sâu sắc.
-
-7- Đặc điểm của các dạng Framegame
-
-Mỗi nhóm được sắp xếp để đọc và đúc kết về 2 dạng framegame trong danh sách 8 dạng. Đây là một ví dụ khác của hoạt động dạng Textra.
-
-8- Các dạng thông tin Facts, Concepts, Procedures, Principles
-
-Nếu mọi người muốn tìm hiểu thêm về các dạng thông tin, mọi người có thể đọc ở đây nhé: https://www.unlockit.com/wp-content/uploads/five_content_types.pdf
-
-Đây là một ví dụ cho "Interactive Lecture". Trong đó, tụi mình giải thích và diễn giải về 4 dạng thông tin này. Tuy  nhiên, trước mỗi phần diễn giải, tụi mình cho mọi người làm bài trắc nghiệm đơn giản.
-
-Ngoài cách làm trắc nghiệm, mọi người còn có thể dùng các hoạt động ngắn khác, chỉ cần vài phút, để người tham gia cùng nhau xử lý thông tin vừa được nghe, hoặc chia sẻ về thông tin sắp được nghe.
-
-Nếu phần thuyết giảng nhiều, các hoạt động ngắn này nên diễn ra thường xuyên, ví dụ 10 phút một lần nếu làm trực tiếp, hoặc khi làm online thì dưới 5 phút một lần.
-
-9- Thực hành thiết kế hoạt động cho một nội dung bất kỳ
-
-Phần thực hành ngắn này giúp mọi người kết nối toàn bộ các nội dung trong buổi học lại ở mức "ứng dụng", bởi vì từ đầu buổi học tới lúc này, mọi người vẫn đang ở mức "hiểu". Mặc dù mức ứng dụng này vẫn chưa hoàn chỉnh vì thời gian không cho phép.
-
-10- Điều mới mẻ bạn nhận ra trong quá trình thiết kế vừa rồi là gì?
-
-Đây là phần thu hoạch cho phần thực hành, nằm trong nhóm hoạt động dạng "debriefing".
-
-11- Stop - Start - Continue
-
-Đây là hoạt động dạng "Closer".
+    - Phần lớn Framegame thường được sử dụng khi nội dung mang tính tư duy, kiến thức, ít yếu tố cảm xúc. Các framegame khác nhau có thể đưa người tham gia lên các tầng tư duy khác nhau. Ví dụ: Textra hoặc Items Processing có thể đưa người tham gia lên tầng biết, hiểu. Nếu có kèm thực hành thì có thể đưa lên tầng ứng dụng. Sau đó Structured Sharing có thể đưa người tham gia lên tầng phân tích, đánh giá. Framegame phù hợp với tất cả các dạng thông tin (Facts, Concepts, Principles, Procedures), miễn là người học được đưa lên một tầng tư duy nào đó. [[Framegame]]
+    - Practical activity là các hoạt động mang tính thực hành, phù hợp nhất với những quy trình, nguyên tắc (Procedures, Principles). Trong đó, người tham gia nên được xem demo trước, xử lý demo đó, và làm theo. Phần xử lý demo có thể ứng dụng framegame để thực hiện. [[Practical activity]]
+    - Insightful activity là các hoạt động có bài học cụ thể, theo chủ đề, ví dụ: bài học về lắng nghe, lãnh đạo, cảm xúc... Và một hoạt động thường chỉ giúp bộc lộ ra một vài bài học. Nếu muốn có bài học khác thì phải sử dụng hoạt động khác. Các bài học này thường được lộ ra khi người học có cảm xúc. Như vậy, đặc thù của hoạt động Insightful activity là "trải nghiệm có cảm xúc". Và sau mỗi hoạt động này, người điều phối luôn cần thu hoạch cho hoạt động để người tham gia đúc kết được bài học. Hoạt động Insightful activity phù hợp nhất với dạng thông tin Concepts (khái niệm) và Principles (nguyên tắc), vì các dạng thông tin này cần trải nghiệm mới có thể hiểu sâu hơn được. Ví dụ: một chương trình đào tạo về EQ mà chỉ có thảo luận, phân tích, chia sẻ bằng các framegame thì có thể không hiệu quả, vì EQ là một khái niệm cần trải nghiệm. Như vậy, người thiết kế cần sử dụng hoạt động nào đó cho mọi người trải nghiệm có cảm xúc cho nội dung EQ này. [[Insightful activity]]
+    - Debriefing là các hoạt động giúp thu hoạch bài học từ các hoạt động còn lại. Và quá trình thu hoạch nên được dẫn dắt từ từ, qua từng giai đoạn, thì người học mới có thể đúc kết được bài học sâu sắc. [[Debriefing activity]]
+    - 11- Stop - Start - Continue [[Closer activity]]
 - Session 8
-    - THIẾT KẾ WORKSHOP TINH GỌN - TỔNG KẾT BUỔI THỰC HÀNH 2
-
-Xin chào cả nhà, Buổi thực hành 2 do Nhóm 2 thực hiện đã hoàn tất. Nhóm 2 đã chọn một tình huống làm chủ đề chính, và từ đó đào sâu để cùng tìm cách tiếp cận tình huống đó. Tình huống nhóm đã chọn là: Là người thiết kế, bạn được yêu cầu thiết kế một chương trình mà bạn không hề có kiến thức và kinh nghiệm liên quan tới chủ đề đó. 
-
-Đường link vào Jamboard sử dụng trong buổi học ở đây nhé: 
-
-https://jamboard.google.com/d/1UGu9TCP2x1XzNHNBvCWb7adNu1wzTfwhC_bDEmX_4tY/edit?usp=sharing
-
-Đường link vào tài liệu gồm các câu hỏi để hỗ trợ quá trình thiết kế chương trình ở đây:
-
-https://docs.google.com/document/d/19ORpmGayTFDXI8f8H0zm4s1gyfPRU-z0wAw_jZeLleA/edit?usp=sharing
-
-Và đây là video ghi hình buổi học: https://www.youtube.com/watch?v=YHOVGwvfSHI&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=8&ab_channel=ConnectionCoach
-
-Mục đích của buổi thực hành này là: cùng đưa ra những bước tiếp cận cho tình huống nêu trên, từ đó đúc kết bài học dành cho người thiết kế.
-
-1- Trước khi bắt đầu, hoạt động "While you wait" (WUW) tụi mình mời mọi người thử tiêu tiền của Bill Gates.
-
-Đường link vào trò chơi đó: https://neal.fun/spend/
-
-2- Mở đầu bằng yêu cầu "Liệt kê nhiều nhất có thể các công việc mà bạn nghĩ mình cần phải làm" trong tình huống nêu trên.
-
-Đây là hoạt động dạng Items Processing, trong đó những thông tin mọi người liệt kê được ra chính là các "Items". Sau đó, bước "Processing" chính là yêu cầu đổi màu cho các công việc thực hiện trước khi thiết kế, và công việc trong bước thiết kế.
-
-Nếu có thêm thời gian, bước tiếp theo có thể là xếp nhóm các công việc lại và sắp xếp thành các nhóm công việc chính trước khi thiết kế. Phần thiết kế đã được đề cập trong chương trình này rồi, vì vậy phần trước khi thiết kế cũng cần được sắp xếp lại.
-
-Như vậy, mọi người có thể thấy là hoạt động dạng "Items Processing" thường sẽ có một tập hợp các thông tin ngắn, và người học được yêu cầu cùng xử lý các thông tin đó theo một cách nào đó để đúc kết được một nguyên lý, cấu trúc, bài học.
-
-3- Viết các câu hỏi "Who, How, What" để đào sâu cụ thể hơn
-
-Bước này nhằm "chunk down" (làm rõ, cụ thể hơn) những điều cần tìm hiểu. Đây là hoạt động dạng "Structured Sharing", trong đó cấu trúc chính là bảng câu hỏi trong Google Docs.
-
-Nếu quá trình xử lý ở bước trước có thể đưa ra được các nhóm công việc chính, thì cấu trúc của bước này còn có thể làm cụ thể hơn nữa bằng việc viết ra các câu hỏi cho từng nhóm công việc đó.
-
-4- Xếp hình
+    - 4- Xếp hình [[Insightful activity]]
 
 Yêu cầu rất đơn giản, mọi người cùng nhau xếp một tấm hình Jigsaw.
 
@@ -338,33 +242,15 @@ Hoạt động này cũng được xếp vào nhóm "Insightful Activity" vì sa
 
 Để đúc kết bài học liên quan tới một "quá trình, quy trình" nào đó, mọi người có thể sử dụng một quy trình tương tự nhưng đơn giản hơn nhiều để làm "ẩn dụ", từ đó có thể đúc kết ra bài học cho quy trình đơn giản này, và liên tưởng tới quy trình mà mình muốn đào sâu.
 
-5- Từ hoạt động vừa rồi, có những bài học gì bạn có thể áp dụng vào quá trình thiết kế chương trình
-
-Đây chính là phần thu hoạch của hoạt động vừa rồi, bằng cách liên tưởng và so sánh giữa trải nghiệm vừa có với quá trình thiết kế một chương trình.
-
-Trong quá trình chia sẻ, người điều phối đã đặt thêm một vài câu hỏi liên quan tới những chi tiết cụ thể trong hoạt động vừa rồi, để kích thích cho người tham gia có thể viết thêm các bài học mới.
-
-6- Chia sẻ về "Rapid Prototyping"
-
-7- Nhìn lại 3 hoạt động và đúc kết 3 bài học mà mình nhận ra
-
-Mọi người được gợi ý nhìn lại 3 hoạt động, và im lặng trong vài phút để có thể đúc kết bài học dễ dàng hơn.
-
-THU HOẠCH GIỮA CHƯƠNG TRÌNH
-
-Phần này tụi mình nhanh chóng đưa vào cuối trang Jamboard trong lúc mọi người đang chia sẻ.
-
-8- Thu hoạch cảm xúc trong buổi thực hành
+    - 8- Thu hoạch cảm xúc trong buổi thực hành [[Harvest emotion activity]]
 
 Việc thu hoạch cảm xúc sẽ giúp tháo gỡ và làm rõ những băn khoăn, khúc mắc vẫn còn tồn đọng trong buổi học. Có nhiều cách để thực hiện phần thu hoạch cảm xúc. Riêng phần này, tụi mình chọn "thang đo cảm xúc" vì muốn nhìn thấy sự khác biệt giữa cảm xúc của mọi người. Từ sự khác biệt này, những trải nghiệm đặc biệt sẽ dễ dàng được lộ ra (ví dụ như một người có một cảm xúc nào đó mà toàn bộ những người khác đều không có hoặc ngược lại).
-
-9- Chia sẻ về quá khứ, hiện tại, tương lai
+    - 9- Chia sẻ về quá khứ, hiện tại, tương lai [[Debriefing activity]]
 
 Đây là một hoạt động dạng "Graphic Game" và cũng là "Debriefing". Mọi người có thể thấy là một cách thực hiện (dùng hình ảnh) có thể được sử dụng cho nhiều phần khác nhau (mở đầu, truyền tải nội dung, thu hoạch, tổng kết).
 
 Nếu thực hiện trực tiếp, mọi người còn có thể cho người học giữ lại tấm hình để ghi nhớ bài học và ghi nhớ chương trình, như một món quà.
-
-10- Viết một lời nhắn nhủ cho học viên khóa sau để họ có thể chuẩn bị cho khóa học tốt hơn
+    - 10- Viết một lời nhắn nhủ cho học viên khóa sau để họ có thể chuẩn bị cho khóa học tốt hơn
 
 Thực chất tụi mình muốn mọi người tự viết ra lời nhắn nhủ cho riêng mình, nhưng nếu đưa ra yêu cầu đó thì suy nghĩ của mọi người sẽ không còn khách quan nữa.
 
@@ -383,51 +269,14 @@ Vì vậy, tụi mình yêu cầu mọi người viết ra lời nhắn nhủ ch
             - Similar contexts in real life?
             - New context/ What if?
             - What's next?
-    - THIẾT KẾ WORKSHOP TINH GỌN - TỔNG KẾT BUỔI 9
-
-Xin chào cả nhà, buổi học số 9 với chủ đề "Kết thúc workshop và thu hoạch" đã hoàn tất. Trong buổi này, tụi mình cùng mọi người trải qua những bước để thu hoạch cho hoạt động hoặc toàn bộ workshop nhờ mô hình 4F của Greenaway, và biết những cách có thể dùng để thực hiện phần thu hoạch một cách thú vị.
-
-Đường link vào Jamboard mình sử dụng trong buổi học ở đây nhé: 
-
-https://jamboard.google.com/d/1S4Aim9BX7TTQPdKm8LIpTCqF7hBVkZMxgugAWM0fRGA/edit?usp=sharing
-
-Còn đây là tài liệu cho hoạt động "Mở rộng bài học": https://docs.google.com/spreadsheets/d/1-jdXadZfY_dVUnLWd9O9QcILsiO6Xc-1dRxrBzObNEg/edit?usp=sharing
-
-Các infographic về dạng hoạt động, các bước thiết kế hoạt động, các bước thiết kế chương trình ở đây nhé: https://sites.google.com/view/savedaworld/resources
-
-Và đây là video ghi hình buổi học: https://www.youtube.com/watch?v=jDX3OOF7dCc&list=PLBILFK_Vy8ZxZmoVac2FKFvbbESQRG0s8&index=9&ab_channel=ConnectionCoach
-
-Đến lúc này, bạn đã có toàn bộ các công cụ để hoàn tất được nội dung và hoạt động cho workshop, sẵn sàng để chạy thử.
-
-1- Trước khi bắt đầu, hoạt động "While you wait" (WUW) là một cuộc thảo luận mở về việc "chọn giảng viên như thế nào".
-
-2- Chia sẻ nhanh:
-
-về câu nói của John Dewey “We do not learn from experience... we learn from reflecting on experience.”
-
-và về mô hình 4F's.
-
-Đây chỉ là dẫn nhập, nên tụi mình đi qua rất nhanh mà chưa đào sâu vội.
-
-3- Hoạt động "10 câu hỏi"
-
-Đây là một biến thể của một trò chơi rất phổ biến: https://en.wikipedia.org/wiki/Twenty_Questions
-
-Thông điệp tụi mình muốn làm nổi bật trong hoạt động này là quá trình làm việc giữa ID, SME, Trainer sẽ cần có sự hợp tác, thống nhất từ đầu, thì chương trình mới có hiệu quả được. Tuy nhiên, để làm nổi bật thông điệp này thì quá trình thu hoạch từ hoạt động sẽ cần được dẫn dắt từng bước.
-
-Vì thông điệp liên quan tới "thống nhất, hợp tác", vì vậy, trải nghiệm mọi người cần trải qua phải tạo ra sự khó khăn trong thống nhất, hợp tác thì bài học mới lộ ra được. Từ đó, tụi mình có những quyết định sau:
-- Gửi email riêng với thông tin được xáo trộn, điều này sẽ khiến mọi người khó thống nhất hơn
-- Cho toàn bộ mọi người cùng hỏi, điều này sẽ khiến hợp tác khó khăn (vì 9 người hỏi)
-
-4- Thu hoạch cảm xúc (Feelings)
+    - 4- Thu hoạch cảm xúc (Feelings) [[Harvest emotion activity]]
 
 Đây là một "Graphic Game" sử dụng cho thu hoạch. Thay vì gửi sẵn hình ảnh, tụi mình yêu cầu mọi người chọn trong một thư viện lớn hơn. Nếu muốn linh hoạt nữa thì người tham gia còn có thể được yêu cầu để chọn trong thư viện online ở các nguồn
 
 https://www.canva.com/https://unsplash.com/https://pixabay.com/https://www.pinterest.com/
 
 Nếu mình linh hoạt về nguồn thông tin thì mọi người có thể thấy rằng, trong rất nhiều trường hợp người điều phối không cần chuẩn bị trước thông tin, mà có thể yêu cầu người tham gia chuẩn bị ngay trong lớp học. Tất nhiên, việc này sẽ khó thực hiện từ đầu chương trình vì mọi người chưa quen nhau, và chỉ nên thực hiện và giữa hoặc cuối chương trình.
-
-5- Thu hoạch sự kiện (Facts)
+    - 5- Thu hoạch sự kiện (Facts) [[Harvest facts activity]]
 
 Dùng các hình ảnh trên để chia sẻ về cảm xúc, từ đó phần "Facts" có thể được thu hoạch bằng cách trả lời câu hỏi sau:
 
@@ -448,16 +297,14 @@ Ví dụ trong phần phỏng vấn, mình đã ghi lại các từ khóa sau v�
 - Làm rõ luật chơi
 
 Toàn bộ các từ này đều có thể dẫn tới bài học về sự thống nhất, hợp tác.
-
-6- Findings trong ngữ cảnh của hoạt động: Nếu được làm lại, bạn sẽ thực hiện hoạt động này khác đi như thế nào?
+    - 6- Findings trong ngữ cảnh của hoạt động: Nếu được làm lại, bạn sẽ thực hiện hoạt động này khác đi như thế nào? [[Harvest findings activity]]
 
 Finding (bài học) là quá trình đúc kết ra những cách, lưu ý, nhận định để lấp đầy khoảng cách giữa trạng thái hiện tại và trạng thái hoàn hảo.
 
 Nhờ quá trình phỏng vấn và ghi lại từ khóa, phần này mọi người tổng hợp lại những cách để "lấp đầy khoảng trống" trong ngữ cảnh của hoạt động vừa trải qua.
 
 Nếu không có bước này thì sẽ rất khó để đúc kết bài học trong thực tế. Bước đúc kết bài học trong ngữ cảnh của hoạt động sẽ giúp "bắc cầu" từ hoạt động tới thực tế.
-
-7- Findings trong ngữ cảnh thực tế, rộng hơn một chút: Làm cách nào để đặt câu hỏi nhằm khai thác thông tin từ người khác hiệu quả?
+        - 7- Findings trong ngữ cảnh thực tế, rộng hơn một chút: Làm cách nào để đặt câu hỏi nhằm khai thác thông tin từ người khác hiệu quả?
 
 Nếu định hướng cuối cùng của bài học là "sự hợp tác giữa ID, SME, Trainer", đây là bước đệm từ hoạt động về câu hỏi tới sự hợp tác này.
 
@@ -465,11 +312,11 @@ Nếu định hướng cuối cùng của bài học là "sự hợp tác giữa
 
 Các biến thể như vậy có thể giúp người tham gia nghĩ tới các tình huống khác. Nếu còn thêm thời gian, người điều phối có thể hỏi câu hỏi "Có những tình huống nào trong thực tế tương tự như tình huống này?" và liên tưởng bài học tới tình huống thực tế đó.
 
-9- Future: Bạn có thể áp dụng những bài học vừa rồi vào quá trình thiết kế chương trình như thế nào?
+    - 
+9- Future: Bạn có thể áp dụng những bài học vừa rồi vào quá trình thiết kế chương trình như thế nào? [[Future application]]
 
 Cuối cùng thì đích đến là "thiết kế chương trình". Sau khi mở rộng ra nhiều bài học ở nhiều tình huống mới, lúc này mọi người được tập trung vào một tình huống cụ thể.
-
-10- Future: Hoạt động mở rộng lời khuyên.
+        - 10- Future: Hoạt động mở rộng lời khuyên.
 
 Tụi mình lấy các bài học trong phần 9, dùng thuật toán ngẫu nhiên và yêu cầu mọi người mở rộng bài học đó thêm một lần nữa. Cách này sẽ giúp bài học càng mở rộng hơn nữa, và định hướng được hành động cuối cùng.
 
@@ -478,21 +325,33 @@ Có rất nhiều cách để mở rộng lời khuyên theo cách này. Phần 
 - Mở rộng lời khuyên bằng các hướng suy nghĩ mới, ví dụ "Lời khuyên này không phù hợp với...", "Lời khuyên này có thể thành vấn đề nếu...", "Lời khuyên này không hiệu quả nếu thiếu...", "Lời khuyên này phù hợp nhất với đối tượng..."
 
 Nếu thực hiện trong lớp trực tiếp, bạn có thể dùng xí ngầu (xúc xắc) và giới hạn ở 6 lời khuyên và 6 lời mở rộng.
-
-11- Cùng mọi người về 3 câu hỏi cho mỗi khía cạnh Facts, Feelings, Findings, Future.
-
-Đây là hoạt động điển hình theo dạng Structured Sharing.
-
-12- Mô hình thu hoạch 4F's thích hợp cho những tình huống nào?
-
-Đây là bước thu hoạch (Future) nhanh cho phần thảo luận về 4F's
-
-13- Tổng kết buổi học bằng chính những hình ảnh mọi người đã chọn ở phần trước: Chọn một hình ảnh đại diện cho bài học lớn nhất mà bạn nhận được sau buổi hôm nay
-
-Việc sử dụng chung một tài liệu (trong trường hợp này là chung một bộ hình ảnh) cho hai phần khác nhau sẽ khiến người học cảm thấy được sự liên kết đầu - cuối, khiến buổi học có cảm giác đầy đủ.
 - Session 10
     - Viết rubric trong giai đoạn phân tích nhiệm vụ
         - Đánh giá cái gì thì dạy dựa trên cái đó (Teaching based on expected outcome)
+    - 3- Trò chơi "Dodgeball Review" [[Review activity]]
+
+Những hoạt động reviewing (nhìn lại toàn bộ nội dung chương trình) nên được thực hiện thành trò chơi, bởi vì trò chơi sẽ giúp đưa yếu tố vui vẻ, hào hứng vào quá trình thường nhàm chán này.
+
+Trò chơi này có các bước như sau:
+- Hai đội viết ra các câu hỏi cùng câu trả lời nhằm kiểm tra mức độ nắm rõ nội dung đào tạo của đội kia. Viết được càng nhiều câu hỏi càng tốt.
+- Mỗi thành viên của đội này khi đến lượt của mình thì chọn một người của đội kia để hỏi. Ví dụ : A1 hỏi B1.
+- Nếu B1 trả lời đúng, thì A1 bị loại, và B1 dành quyền hỏi tiếp theo.
+- Nếu B1 trả lời sai, thì B1 bị loại, và A1 dành quyền hỏi tiếp theo.
+- (Đây là luật bổ sung) Nếu trong một vòng chơi của một người, người đó loại được một thành viên của đội kia thì có thể hồi sinh một người của đội mình.
+- Trò chơi kết thúc khi (1) hết giờ, hoặc (2) một đội không còn thành viên nào sống sót, hoặc (3) một đội hết câu hỏi để hỏi. Lúc đó, đội nào còn nhiều thành viên hơn thì thắng cuộc.
+
+Mọi người có thể kéo dài và thực hiện phần "chuẩn bị câu hỏi" một cách cẩn thận hơn, để đảm bảo thành viên trong nhóm thực sự nhìn lại nội dung và chuẩn bị câu hỏi.
+    - 4- Hai dạng đánh giá kết quả [[Ways to evaluate]]
+
+Dạng đánh giá kết quả tập trung vào nắm bắt kiến thức, nội dung (knowledge) và dạng đánh giá kết quả tập trung vào sản phẩm, hành động, nhiệm vụ làm được (performance). Và mỗi cấp độ của Bloom cũng tương ứng với một hoặc cả hai dạng đánh giá kết quả này.
+        - 5- Thảo luận về cách đánh giá theo các cấp độ của Bloom
+
+Đây là hoạt động dạng Structured Sharing, kết quả là các cách thức, công cụ để mọi người có thể sử dụng trong quá trình đánh giá kết quả của người tham gia.
+        - 6- Demo quá trình viết rubric và thực hành [[Practical activity]]
+
+Đây là hoạt động dạng Practical Activity. Viết Rubric là một bước quan trọng, cần thiết để biết được chất lượng cuối cùng mà mình muốn người học đạt được là mức độ nào, từ đó thiết kế chương trình để hướng tới chất lượng đó.
+
+Vì vậy Rubric nên được viết ra sớm, để chương trình có thể tập trung vào để "chỉ truyền tải những gì được dùng trong bảng đánh giá" (MUST-KNOW) thay vì đưa vào cả những nội dung liên quan nhưng không cần thiết vào lúc này (GOOD-TO-KNOW).
 - ---
 - Group activities
     - Clarify foggy contents
