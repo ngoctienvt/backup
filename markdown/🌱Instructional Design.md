@@ -1,3 +1,68 @@
+- General knowledge
+    - 3 roles for creating and delivering a training effectively [[Training roles]]
+        - Instructional Designer
+            - expert about design a workshop
+        - SME - Subject-matter expert 
+            - knowledge-expert
+        - Trainer - Facilitator
+            - teaching-expert
+    - Structure of a workshop
+        - Overall goal
+            - Major goal
+                - Module
+                    - Task/ Outcome
+                        - Objective
+                        - Objective
+                    - Task/ Outcome
+                        - Objective
+                        - Objective
+                - Module
+                    - Task
+                        - Activity
+                    - Task
+                        - Activity
+            - Major goal
+                - Module
+                    - Task
+                        - Activity
+                    - Task
+                        - Activity
+                - Module
+                    - Task
+                        - Activity
+                    - Task
+                        - Activity
+    - Components of a design workshop process
+        - ![Displaying S1 - General view of ID.png](https://drive.google.com/thumbnail?id=1bsUq1KcYiMvM334Qjf91p-Dm2hHnJfej&authuser=0&sz=w1813-h915)
+        - Analysis of target group
+            - analysis the potential participants of workshop
+            - the end goal is a description of "a typical particiant"
+        - Needs Analysis
+            - analyze the needs of the group
+            - the end goal is the needs that workshop need to cover, resolve, or change needed to adapt with participant needs.
+                - formulate the major goals of the workshop
+        - Tasks Analysis
+            - analyze the tasks that participants need to complete
+            - end goal is a description board of what participants need to DO to achieve the major goals
+        - Definition of Objectives
+            - Identify detail goals of the workshop
+            - end goal is outline of modules, lessons, and detail goals that participants need to COMPLETE to achieve major goals
+            - outline of the workshop
+        - Choice of a Teaching Strategy
+            - select a strategy to deliver the whole and parts of the workshop
+            - end goal is a general flow of workshops and general approach/strategy to deliver content
+        - Generation of Learning tasks
+            - build activities help participant to learn and complete goals
+            - end goal is detail activities that will occur during the workshop
+        - Choice of a delivery system
+            - select tools to deliver the contents
+            - end goal is materials, documents, tools to implement the workshop
+        - Design and Development of Learning Environments 
+            - the principle that an effective learning environment need to have
+        - Instructional Modelling
+            - a standard model for participants follow and model
+        - Implementation
+        - Evaluation
 - [[ADDIE model]] to design a workshop
     - Analyse
         - The general process for analysis step to design a workshop
@@ -103,278 +168,247 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
             - Improve the information about ideal participant and goals of the workshop
     - Design
         - Design major modules and learning out comes
+        - How to debrief a training session
+            - [[4F Debrief Framework]]
+                - Facts - Establish the context
+                    - Share observations
+                    - 5- Thu hoạch sự kiện (Facts) [[Harvest facts activity]]
+
+Dùng các hình ảnh trên để chia sẻ về cảm xúc, từ đó phần "Facts" có thể được thu hoạch bằng cách trả lời câu hỏi sau:
+
+- Cảm xúc của người kia là gì?
+- Điều gì khiến họ có cảm xúc đó?
+
+Trong quá trình chia sẻ lại cho cả nhóm biết, mình phỏng vấn tất cả mọi người. Và đây là lúc nghệ thuật "dẫn dắt câu chuyện" của người điều phối được vận dụng. Người điều phối sẽ cần thảo luận, lắng nghe, và làm sao để nổi bật lên một vài bài học chủ đạo trong chia sẻ của mọi người.
+
+Nếu người điều phối muốn làm nổi bật bài học gì thì ngay từ phần phỏng vấn này, người điều phối cần ghi lại một vài từ khóa hướng tới bài học đó.
+
+Ví dụ trong phần phỏng vấn, mình đã ghi lại các từ khóa sau vào Jamboard:
+- Lo chạy theo câu hỏi của người khác
+- Nên có ý kiến để thảo luận với nhau
+- Mỗi câu hỏi sẽ giúp mình sáng hơn
+- Teamwork, cần có tính liên kết
+- Sự hiểu giữa hai người khác nhau
+- Cầm chìa khóa mà không nhận ra
+- Làm rõ luật chơi
+
+Toàn bộ các từ này đều có thể dẫn tới bài học về sự thống nhất, hợp tác.
+                - Feelings are the bridge between facts and findings/lessons
+                    - Adjust state of feelings
+                - Findings - Find the gap between the experiences and what expected - and how to fill in the gap that's not fill yet
+                    - Limit in the activites and not expand yet
+                    - Fill in the gaps - If do again, what you want to do different?
+                    - Change word "lesson" into "specific context"
+                    - 6- Findings trong ngữ cảnh của hoạt động: Nếu được làm lại, bạn sẽ thực hiện hoạt động này khác đi như thế nào? [[Harvest findings activity]]
+
+Finding (bài học) là quá trình đúc kết ra những cách, lưu ý, nhận định để lấp đầy khoảng cách giữa trạng thái hiện tại và trạng thái hoàn hảo.
+
+Nhờ quá trình phỏng vấn và ghi lại từ khóa, phần này mọi người tổng hợp lại những cách để "lấp đầy khoảng trống" trong ngữ cảnh của hoạt động vừa trải qua.
+
+Nếu không có bước này thì sẽ rất khó để đúc kết bài học trong thực tế. Bước đúc kết bài học trong ngữ cảnh của hoạt động sẽ giúp "bắc cầu" từ hoạt động tới thực tế.
+                        - 7- Findings trong ngữ cảnh thực tế, rộng hơn một chút: Làm cách nào để đặt câu hỏi nhằm khai thác thông tin từ người khác hiệu quả?
+
+Nếu định hướng cuối cùng của bài học là "sự hợp tác giữa ID, SME, Trainer", đây là bước đệm từ hoạt động về câu hỏi tới sự hợp tác này.
+
+8- Findings (What If?) mở rộng tiếp ngữ cảnh, bằng cách nghĩ ra các biến thể để giúp mở rộng tình huống. 
+
+Các biến thể như vậy có thể giúp người tham gia nghĩ tới các tình huống khác. Nếu còn thêm thời gian, người điều phối có thể hỏi câu hỏi "Có những tình huống nào trong thực tế tương tự như tình huống này?" và liên tưởng bài học tới tình huống thực tế đó.
+
+                - Future - expanded learning (expand new context, change context) - learning transfer 
+                    - Similar contexts in real life?
+                    - New context/ What if?
+                    - What's next?
+                    - 9- Future: Bạn có thể áp dụng những bài học vừa rồi vào quá trình thiết kế chương trình như thế nào? [[Future application]]
+
+Cuối cùng thì đích đến là "thiết kế chương trình". Sau khi mở rộng ra nhiều bài học ở nhiều tình huống mới, lúc này mọi người được tập trung vào một tình huống cụ thể.
+                        - 10- Future: Hoạt động mở rộng lời khuyên.
+
+Tụi mình lấy các bài học trong phần 9, dùng thuật toán ngẫu nhiên và yêu cầu mọi người mở rộng bài học đó thêm một lần nữa. Cách này sẽ giúp bài học càng mở rộng hơn nữa, và định hướng được hành động cuối cùng.
+
+Có rất nhiều cách để mở rộng lời khuyên theo cách này. Phần mở rộng có thể là:
+- Ứng dụng trong tình huống cụ thể
+- Mở rộng lời khuyên bằng các hướng suy nghĩ mới, ví dụ "Lời khuyên này không phù hợp với...", "Lời khuyên này có thể thành vấn đề nếu...", "Lời khuyên này không hiệu quả nếu thiếu...", "Lời khuyên này phù hợp nhất với đối tượng..."
+
+Nếu thực hiện trong lớp trực tiếp, bạn có thể dùng xí ngầu (xúc xắc) và giới hạn ở 6 lời khuyên và 6 lời mở rộng.
+        - Training activities
+            - Purpose of training activities
+                - participant connection
+                    - grouping
+                - [[focus management]]
+                    - [[two-way interaction]]
+                    - In offline, it could take longer to introduce program. In online; it needs to be shorter to maintain focus with more interactions.
+                        - This leads to online could be longer than offline, because content could be delivered slower.
+                    - [[focus-priming]]
+                    - [[gain-attention]]
+                - [[ice-breaking]]
+                - learning to use tools
+                - [[guided thinking]]
+                - [[hidden agenda]]
+            - Training strategy
+                - Progressive level up thinking
+                    - Limit number of the answers
+                - Metaphors questions for [[guided thinking]] to avoid the gap of thinking too big
+                - Priority [[generative-instructional strategy]] instead of [[supplantive-instructional strategy]]
+                    - participant create their own contents
+                - Maintain the flow of learning 
+                    - Link activities
+                        - Results of above activities are input or foundation the next activities.
+            - Types of training activities
+                - While You Wait
+Hoạt động được sử dụng trước giờ bắt đầu chương trình, tạo điều kiện để người học chủ động tương tác ngay khi bước vào lớp học.
+                - [[Opening activities]]: Hoạt động dùng để mở đầu buổi học, thường xoay quanh các mục đích:
+                    - Get used to tools/ techniques
+                    - Set up the principles for class
+                    - Share information about ourselves
+                    - Collaborate to solve problems
+                - Insightful activity
+Hoạt động chứa đựng các bài học quan trọng, giúp người tham gia hiểu rõ các khái niệm phức tạp (về mặt logic), hay nhấn mạnh tầm quan trọng (về mặt cảm xúc). Hoạt động này luôn cần được thu hoạch sau khi trải qua.
+                    - 4- Xếp hình [[Insightful activity]]
+
+Yêu cầu rất đơn giản, mọi người cùng nhau xếp một tấm hình Jigsaw.
+
+Hoạt động này là dạng "Graphic Game", trong đó mọi người được xử lý hình ảnh. Có 2 cách xử lý hình ảnh này: một là quá trình xếp hình, hai là ý nghĩa của hình ảnh sau khi xếp được.
+
+Hoạt động này cũng được xếp vào nhóm "Insightful Activity" vì sau hoạt động, người học có thể đúc kết ra những bài học cụ thể từ quá trình trải nghiệm, liên quan tới chủ đề.
+
+Để đúc kết bài học liên quan tới một "quá trình, quy trình" nào đó, mọi người có thể sử dụng một quy trình tương tự nhưng đơn giản hơn nhiều để làm "ẩn dụ", từ đó có thể đúc kết ra bài học cho quy trình đơn giản này, và liên tưởng tới quy trình mà mình muốn đào sâu.
+
+                    - Insightful activity là các hoạt động có bài học cụ thể, theo chủ đề, ví dụ: bài học về lắng nghe, lãnh đạo, cảm xúc... Và một hoạt động thường chỉ giúp bộc lộ ra một vài bài học. Nếu muốn có bài học khác thì phải sử dụng hoạt động khác. Các bài học này thường được lộ ra khi người học có cảm xúc. Như vậy, đặc thù của hoạt động Insightful activity là "trải nghiệm có cảm xúc". Và sau mỗi hoạt động này, người điều phối luôn cần thu hoạch cho hoạt động để người tham gia đúc kết được bài học. Hoạt động Insightful activity phù hợp nhất với dạng thông tin Concepts (khái niệm) và Principles (nguyên tắc), vì các dạng thông tin này cần trải nghiệm mới có thể hiểu sâu hơn được. Ví dụ: một chương trình đào tạo về EQ mà chỉ có thảo luận, phân tích, chia sẻ bằng các framegame thì có thể không hiệu quả, vì EQ là một khái niệm cần trải nghiệm. Như vậy, người thiết kế cần sử dụng hoạt động nào đó cho mọi người trải nghiệm có cảm xúc cho nội dung EQ này. [[Insightful activity]]
+                - Framegame
+Hoạt động mang tính cấu trúc cao, dễ dàng tuỳ chỉnh với nhiều loại nội dung khác nhau. Loại hoạt động này tạo ra các tương tác kích thích người học suy nghĩ và chia sẻ.
+                    - Phần lớn Framegame thường được sử dụng khi nội dung mang tính tư duy, kiến thức, ít yếu tố cảm xúc. Các framegame khác nhau có thể đưa người tham gia lên các tầng tư duy khác nhau. Ví dụ: Textra hoặc Items Processing có thể đưa người tham gia lên tầng biết, hiểu. Nếu có kèm thực hành thì có thể đưa lên tầng ứng dụng. Sau đó Structured Sharing có thể đưa người tham gia lên tầng phân tích, đánh giá. Framegame phù hợp với tất cả các dạng thông tin (Facts, Concepts, Principles, Procedures), miễn là người học được đưa lên một tầng tư duy nào đó. [[Framegame]]
+                    - Sắp xếp các hoạt động đã từng thực hiện trong chương trình vào bảng [[Item processing activities]]
+                        - Items Processing yêu cầu người tham gia xử lý các thông tin ngắn đó theo một trình tự nào đó, để ra được một kết quả. Trình tự đó sẽ được dẫn dắt từng bước để dần đạt được kết quả đó. Hiệu quả của hoạt động phụ thuộc vào việc thông tin có được đưa ra rõ ràng hay không, và trình tự có phù hợp, dễ thực hiện hay không.
+
+Một ví dụ khác của "Items Processing" chính là hoạt động "Card Sort" mà mọi người trải qua mấy lần, ví dụ như: sắp xếp các cấp độ tư duy Bloom theo đúng trình tự, sau đó sắp xếp các mô tả cho đúng cấp độ, và sau đó viết ra các ví dụ cho từng cấp độ.
+                    - Structured Sharing là dạng hoạt động yêu cầu người học thảo luận theo nhóm, với cấu trúc thảo luận và đúc kết cho trước. [[Structured sharing activity]]
+                        - Structured Sharing có thể sử dụng với nội dung mang tính quan điểm, ý kiến, kinh nghiệm cá nhân của người tham gia. Trong đó, các thông tin được chia sẻ theo một cấu trúc được dẫn dắt bởi câu hỏi hoặc đề mục lớn, mà người tham gia sẽ trả lời hoặc hoàn thành cùng nhau. Hiệu quả của hoạt động phụ thuộc vào các câu hỏi hoặc đề mục đưa ra, các câu hỏi cần rõ ràng, đơn giản, tập trung, tránh người tham gia hiểu theo nhiều nghĩa khác nhau.
+                    - Textra là dạng hoạt động yêu cầu người học cùng nhau xử lý một tài liệu chữ, theo hướng dẫn của người điều phối. [[Textra game]]
+                        - Textra có thể sử dụng với nội dung "chuẩn", ví dụ như kiến thức từ chuyên gia, quy trình từ tổ chức... được viết thành tài liệu chuẩn mực. Các tài liệu có thể đã được chọn lọc (ví dụ như tài liệu tụi mình gửi cho mọi người) hoặc chưa được chọn lọc (ví dụ: sách, bài viết tạp chí, website...). Các yêu cầu cho người học xử lý thường là tìm ra, đúc kết một điểm nào đó trong một tổng thể lớn thay vì xử lý toàn bộ tổng thể, rồi cùng chia sẻ với những người khác để tìm hiểu các phần khác nhau của tổng thể. Hiệu quả của hoạt động phụ thuộc vào tài liệu có được đóng khung cẩn thận hay không, và yêu cầu có rõ ràng hay không.
+                    - [[Examples of Framegame]]
+                - Debriefing game
+Hoạt động sử dụng cho phần thu hoạch sau hoạt động, hoặc tổng kết cuối chương trình.
+Loại hoạt động này giúp người tham gia chia sẻ lại những gì đã diễn ra, cảm xúc, bài học, và những gì họ sẽ áp dụng được trong thực tế.
+                    - 4- Thu hoạch cảm xúc (Feelings) [[Harvest emotion activity]]
+
+Đây là một "Graphic Game" sử dụng cho thu hoạch. Thay vì gửi sẵn hình ảnh, tụi mình yêu cầu mọi người chọn trong một thư viện lớn hơn. Nếu muốn linh hoạt nữa thì người tham gia còn có thể được yêu cầu để chọn trong thư viện online ở các nguồn
+
+https://www.canva.com/https://unsplash.com/https://pixabay.com/https://www.pinterest.com/
+
+Nếu mình linh hoạt về nguồn thông tin thì mọi người có thể thấy rằng, trong rất nhiều trường hợp người điều phối không cần chuẩn bị trước thông tin, mà có thể yêu cầu người tham gia chuẩn bị ngay trong lớp học. Tất nhiên, việc này sẽ khó thực hiện từ đầu chương trình vì mọi người chưa quen nhau, và chỉ nên thực hiện và giữa hoặc cuối chương trình.
+                    - 9- Chia sẻ về quá khứ, hiện tại, tương lai [[Debriefing activity]]
+
+Đây là một hoạt động dạng "Graphic Game" và cũng là "Debriefing". Mọi người có thể thấy là một cách thực hiện (dùng hình ảnh) có thể được sử dụng cho nhiều phần khác nhau (mở đầu, truyền tải nội dung, thu hoạch, tổng kết).
+
+Nếu thực hiện trực tiếp, mọi người còn có thể cho người học giữ lại tấm hình để ghi nhớ bài học và ghi nhớ chương trình, như một món quà.
+                    - 8- Thu hoạch cảm xúc trong buổi thực hành [[Harvest emotion activity]]
+
+Việc thu hoạch cảm xúc sẽ giúp tháo gỡ và làm rõ những băn khoăn, khúc mắc vẫn còn tồn đọng trong buổi học. Có nhiều cách để thực hiện phần thu hoạch cảm xúc. Riêng phần này, tụi mình chọn "thang đo cảm xúc" vì muốn nhìn thấy sự khác biệt giữa cảm xúc của mọi người. Từ sự khác biệt này, những trải nghiệm đặc biệt sẽ dễ dàng được lộ ra (ví dụ như một người có một cảm xúc nào đó mà toàn bộ những người khác đều không có hoặc ngược lại).
+                    - Debriefing là các hoạt động giúp thu hoạch bài học từ các hoạt động còn lại. Và quá trình thu hoạch nên được dẫn dắt từ từ, qua từng giai đoạn, thì người học mới có thể đúc kết được bài học sâu sắc. [[Debriefing activity]]
+                - Practical activity
+Hoạt động giúp người học thực hành những điều vừa được học và nhận phản hồi về kết quả để tiếp tục hoàn thiện.
+                    - Practical activity là các hoạt động mang tính thực hành, phù hợp nhất với những quy trình, nguyên tắc (Procedures, Principles). Trong đó, người tham gia nên được xem demo trước, xử lý demo đó, và làm theo. Phần xử lý demo có thể ứng dụng framegame để thực hiện. [[Practical activity]]
+                - Closer: Hoạt động dùng để kết thúc chương trình, thường bao gồm các mục đích:
+Nhắc lại nội dung đã học
+Điểm lại các bài học quan trọng
+Lập kế hoạch áp dụng
+Ăn mừng
+                    - 11- Stop - Start - Continue [[Closer activity]]
+                - guided thinking activities
+                    - Write a statement for picture to gain participant focus about the topic
+                - While you wait acitivities
+                    - Simple question 
+                        - What movie you watch again and again?
+                        - What's your least favorite part-time job?...
+                    - Purpose
+                        - Have something to focus on
+                        - Start to create connection between people
+                    - Characteristic
+                        - Simple to do
+                        - When do online, do on video call or chat box
+                        - Not time-consuming, few second for a task
+                        - Visible for everyone at once
+                    - Note
+                        - Avoiding push energy to high level and create unnecessary distractions
+                        - It's purpose is to help focus, not to stimulate emotions 
+                - learning to use tools activities
+                    - Getting used to Jamboard activities
+                        - Write down name letters and organize them into words related to workshop
+                - steps activities
+                    - How
+                        - Request students to list specific number of steps to complete certain tasks based on students' own experience.
+                    - Purpose
+                        - survey participant current approach
+                        - bring out a standard process
+                - write down questions to dig deep activity
+                - Listing and choosing activities
+                    - How
+                        - First is listing,
+                            - As a facilitator, you have what principle for your program?
+                            - This is to wear a facilitator hat.
+                        -  Second is choosing.
+                            - As a participants, you want program ensure which principle?
+                            - This is to wear the participant hat.
+                    - Purpose
+                        - Select topics to focus
+                        - Select helpful way to apply knowledge
+                        - Select types of homework that students want to do
+                - introducing workshop activity
+                    - [[generative-instructional strategy]]
+                    - Then introducing workshop when participants have some knowledge
+                - completing sentences activity
+                    - How
+                        - Today I feel...
+                        - In this program, I will focus on... to...
+                    - Purpose
+                        - It helps participants to focus into what's matter and valuable
+                - Brainstorming activities
+                    - What characteristic of participant that you want to know?
+                    - Ways to synthesize
+                        - Group ideas 
+                        - Vote best ideas
+                        - Use scales or criteria list
+                        - Or use the next activities to group it
+                -  [[Item processing activities]] - Card Sort
+                    - Process given information
+                    - Bring level of thinking from "know" to "understand
+                    - Give a example about a familiar context
+                - Short-summarize activity
+                    - Note: We need to have an activity to guide the participant learning, so that they could complete this activity easier
+                        - What "should" and "shouldn't" while describe characteristics of ideal participant
+                        - Before that, there is an activity for the group leader "What did you notice while describe your ideal participant's characteristics?"
+                - Message-sending activity
+                    - Which is hidden lesson in this picture about the need analysis process?
+                - Summarize the session with "Stop-Start-Continue"
+                    - It's helpful for a session with lots of lessons and principles about a topic
     - Development
         - Personal style
         - Students way of learning
     - Implement
     - Evaluate
+        - [[Ways to assess students]]
+        - How to evaluate the effectiveness of a workshop
+            - ARCS model
+                - Attention
+                - Relevance
+                - Confidence
+                - Satisfaction
         - Participants 
         - Workshop
-- Structure of a workshop
-    - Overall goal
-        - Major goal
-            - Module
-                - Task/ Outcome
-                    - Objective
-                    - Objective
-                - Task/ Outcome
-                    - Objective
-                    - Objective
-            - Module
-                - Task
-                    - Activity
-                - Task
-                    - Activity
-        - Major goal
-            - Module
-                - Task
-                    - Activity
-                - Task
-                    - Activity
-            - Module
-                - Task
-                    - Activity
-                - Task
-                    - Activity
-- Training activities
-    - Purpose of training activities
-        - participant connection
-            - grouping
-        - [[focus management]]
-            - [[two-way interaction]]
-            - In offline, it could take longer to introduce program. In online; it needs to be shorter to maintain focus with more interactions.
-                - This leads to online could be longer than offline, because content could be delivered slower.
-            - [[focus-priming]]
-            - [[gain-attention]]
-        - [[ice-breaking]]
-        - learning to use tools
-        - [[guided thinking]]
-        - [[hidden agenda]]
-    - Training startegy
-        - Progressive level up thinking
-            - Limit number of the answers
-        - Metaphors questions for [[guided thinking]] to avoid the gap of thinking too big
-        - Priority [[generative-instructional strategy]] instead of [[supplantive-instructional strategy]]
-            - participant create their own contents
-        - Maintain the flow of learning 
-            - Link activities
-                - Results of above activities are input or foundation the next activities.
-    - Types of training activities
-        - While You Wait
-Hoạt động được sử dụng trước giờ bắt đầu chương trình, tạo điều kiện để người học chủ động tương tác ngay khi bước vào lớp học.
-        - [[Opening activities]]: Hoạt động dùng để mở đầu buổi học, thường xoay quanh các mục đích:
-            - Get used to tools/ techniques
-            - Set up the principles for class
-            - Share information about ourselves
-            - Collaborate to solve problems
-        - Insightful activity
-Hoạt động chứa đựng các bài học quan trọng, giúp người tham gia hiểu rõ các khái niệm phức tạp (về mặt logic), hay nhấn mạnh tầm quan trọng (về mặt cảm xúc). Hoạt động này luôn cần được thu hoạch sau khi trải qua.
-        - Framegame
-Hoạt động mang tính cấu trúc cao, dễ dàng tuỳ chỉnh với nhiều loại nội dung khác nhau. Loại hoạt động này tạo ra các tương tác kích thích người học suy nghĩ và chia sẻ.
-            - BOARD GAME
-                - Bạn đang tham gia một workshop về chủ đề “Sáng tạo trong giải quyết vấn đề”. Bạn nhận được một bản mô tả ngắn gọn về 6 bước của quá trình sáng tạo và chuẩn bị tham gia một boardgame có tên THIRTY STEPS để khám phá chi tiết từng bước của quá trình này.
-                - Bạn cùng 3 người chơi khác ngồi trước 1 bàn game. Bàn này có 30 ô, kéo dài từ START tới FINISH. Mỗi người chơi chọn 1 vật đại diện cho mình và tất cả cùng đặt vào ô START để bắt đầu.
-                - Một trong những người chơi xào bộ thẻ trong trò chơi lên và chia cho mỗi người chơi 10 thẻ bài. Mỗi thẻ chứa một nội dung (chiến lược, chiến thuật, hành vi, suy nghĩ, hoặc kết quả) liên quan đến một trong 6 bước của quá trình sáng tạo. Trong lượt chơi đầu tiên, bạn được yêu cầu chọn ra những thẻ bài có liên quan đến bước 1 của quá trình sáng tạo. Khi đến lượt của mình, bạn lần lượt đọc lên thẻ bài được chọn. Cứ sau mỗi thẻ bài được đọc, nếu không có ai phản biện, bạn được quyền đổ xúc sắc và di chuyển số bước tương ứng trên bàn game. Sau đó bạn lại tiếp tục đọc thẻ bài tiếp theo.
-                - Trong trường hợp có người phản biện, bạn sẽ tranh biện với người phản biện. Nếu bạn và người kia đều không thể thuyết phục nhau, cả hai được quyền dùng trợ giúp: “XEM ĐÁP ÁN” để nhận được câu trả lời đúng. Đối chiếu với đáp án, nếu bạn là người đúng, người phản biện sẽ bị lui lại 2 ô, và bạn được quyền đổ xúc sắc để đi tiếp. Nếu bạn sai, bạn sẽ lui lại 2 ô và người phản biện sẽ được quyền đổ xúc sắc để đi tiếp.
-                - Cứ vậy, sau khi bạn lần lượt đọc hết toàn bộ các thẻ bài có liên quan đến bước 1 của quá trình sáng tạo thì đến người chơi tiếp theo lặp lại tương tự. Quá trình này lặp lại cho đến khi toàn bộ người chơi đọc hết các thẻ bài của mình trong bước 1 của quá trình. Game lặp lại cho đến khi đi hết 6 bước của quá trình sáng tạo. Trong quá trình di chuyển, trên bàn cờ sẽ có những ô “CƠ HỘI” - có thể cộng thêm cho bạn một số bước tiến, yêu cầu lùi lại, hoặc tráo đổi vật đại diện với người khác.
-                - Bạn chiến thắng trò chơi này khi là người đầu tiên chạm đến ô FINISH. Một biến thể khác, game này có thể chơi trong thời gian giới hạn, trong tình huống này, người chơi nào đi được xa nhất (tới ô FINISH) sẽ là người chiến thắng.
-                - ![](https://lh4.googleusercontent.com/BgOtki2P6XletHc1UqLbXwQDuOA-44lPWHHEdKFAyvhZ4T_FNLEzlFjxWbZYq9aPXYYz9JQFiK5D25t20C4eL-hOdG-873MHRtjmvg7Ty7e7tM-XcjbG6_jXPJkVk0R_gHV8oeFS)
-            - CARD GAME
-                - Bạn đang tham gia một buổi đào tạo về thuyết đa trí thông minh. Sonia là người điều phối của buổi này. Cô ấy có một phần trình bày ngắn về 7 loại trí thông minh. Để giúp bạn hiểu rõ hơn về cách phân loại 7 nhóm trí thông minh này, Sonia mời bạn tham gia một card game, trong đó yêu cầu bạn xem qua các thẻ có liên quan đến các loại trí thông minh khác nhau và nhiệm vụ của bạn là xác định đúng loại trí thông minh mà thẻ đó thuộc về. Để làm mẫu, cô ấy gửi cho bạn thử một thẻ bài có chứa nội dung thuộc một trong 7 loại trí thông minh cùng với một con số nhận dạng để bạn xem qua. Sonia giải thích rằng trò này tương tự với trò Crazy Eights. Nhưng bởi vì bạn chưa từng chơi game đó, nên bạn chờ đợi phần hướng dẫn của Sonia.
-                - Bạn chơi cùng với 4 người chơi khác. Một người trong nhóm xào bộ thẻ bài lên và chia 8 thẻ bài cho mỗi người chơi. Mục tiêu của trò chơi là loại bỏ hết 8 thẻ bài trong tay bạn. Người chia bài đặt phần thẻ bài chưa chia hết úp mặt xuống, nhưng lá bài trên cùng sẽ ngửa mặt lên và đặt nó ra giữa bàn chơi. Đây sẽ là thẻ bài đầu tiên được đưa ra, người chơi sẽ lần lượt loại bỏ các thẻ bài trên tay mình bằng cách đưa ra thẻ bài có con số cao hơn. Thẻ bài mà bạn loại bỏ sẽ phải thoả 1 trong những tiêu chí sau: Nội dung trên thẻ phải trùng với nội dung của thẻ bài vừa được đưa ra; hoặc con số cuối cùng trên thẻ bài phải giống với con số cuối cùng của thẻ bài vừa được đưa ra.
-                - Bạn bắt đầu đi lượt đầu tiên mà không cần suy nghĩ nhiều vì con số trên thẻ bài của bạn là 18 và con số của thẻ bài đầu tiên là 78. Thẻ bài mà bạn vừa bỏ ra chứa một nội dung liên quan đến trí thông minh âm nhạc. Người chơi tiếp theo bỏ ra một thẻ bài cũng có chứa nội dung liên quan đến trí thông minh âm nhạc. Trong khi những người chơi khác đang tiếp tục, bạn xem lại các thẻ bài của mình và quyết định sắp xếp nó theo tập hợp các dạng trí thông minh khác nhau. Khi lại đến lượt của bạn, bạn đưa ra một thẻ bài liên quan đến trí thông minh nội tâm. Patti, người chơi tiếp theo, không có tấm thẻ bài nào phù hợp để bỏ ra. Cô ấy phải rút thêm lá bài từ bộ bài còn lại, mỗi lần 1 thẻ, cho đến khi tìm ra 1 thẻ bài phù hợp để đi tiếp. Patti thêm các thẻ bài cô ấy đã rút được vào số thẻ bài mình đang có. Một lát sau, Marla giải thích thêm rằng, nếu thẻ bài của bạn vừa khớp nội dung với trí thông minh, vừa có trùng con số cuối cùng với thẻ bài vừa được đưa ra, bạn có quyền chọn thêm bất kì thẻ bài trên tay của bạn để bỏ ra. Marla bỏ thêm 1 thẻ bài liên quan đến trí thông minh về logic. Patti tiếp tục bỏ ra lá bài cũng liên quan đến trí thông minh về logic. Chuck thử thách cô ấy, anh nói rằng nội dung của thẻ bài đó không thuộc về trí thông minh logic. Bạn quyết định kiểm tra lại phần hướng dẫn của game, và phát hiện rằng Chuck nói đúng, và Patti đã sai. Patti phải rút lên lại thẻ bài của mình, và phải nhận thêm 1 thẻ bài khác từ Chuck - người đã chỉ ra lỗi sai.
-                - Cuối cùng, Chuck là người chiến thắng khi không còn thẻ bài nào trên tay.  Tuy nhiên, trò chơi vẫn tiếp tục với những người chơi còn lại. Trò chơi kết thúc khi tìm ra người thứ hai hết thẻ bài.
-            - GRAPHIC GAME
-                - Trong một webinar gần đây về chủ đề “Sự tin cậy (trust)”, chúng tôi sử dụng 4 tấm ảnh:
-                - ![](https://lh3.googleusercontent.com/40KwmHd30Snn4_NcSaCGuPime4zeOpiSHGn8ZJ4ZXvOfJefc0PSeTh2CMeCX4Ba2XwDgRMJ07u7Z0bpI2C40aQchJiSd2thdQZFi1G5Iwm4xEgNCwZt_6ZjGpSQEPDGl3yF2x2TK)
-                - và đề nghị người tham gia bình chọn đâu là tấm ảnh thể hiện sự tin cậy cao nhất và thấp nhất.
-                - Tấm ảnh được nhiều người bình chọn nhất là: cắt tóc.
-                - Lý giải của người tham gia cho mối liên hệ giữa cắt tóc và sự tin cậy là:
-                    - Tập trung vào người khác
-                    - Cho người đó biết chuyện gì đang xảy ra
-                    - Có đầy đủ công cụ cần thiết
-                    - Có năng lực phù hợp để làm công việc đó
-                    - Tuân thủ nguyên tắc: không làm đau người khác
-                    - Thể hiện được tính cách cá nhân của bạn (thông qua tạo kiểu)
-                    - Tăng thêm giá trị cho người khác
-                    - Bảo vệ người khác
-                - Tấm ảnh được ít người chọn nhất là: bánh răng lăn, và đây là lý giải:
-                    - Phải chính xác
-                    - Phải có khả năng dự đoán được
-                    - Làm việc một cách nhất quán
-                    - Điều chỉnh theo nhu cầu của người dùng
-                    - Phải là chính hãng
-                    - Luôn uy tín trong chất lượng
-                    - Luôn được kết nối
-                    - Luôn được điều chỉnh
-            - GAME SHOW
-                - Bạn đã trải qua 3 ngày mệt nhọc trong một workshop về quản lý dự án. Vào 4 giờ chiều ngày Thứ Sáu, Alexa, người điều phối workshop, đang chuẩn bị sẵn sàng để bật một đoạn phim để tổng kết chương trình. Bạn gào lên trong thâm tâm mình vì bạn biết chắc chắn đây sẽ là một bài thuyết giảng gồm rất nhiều thuật ngữ chuyên môn khó hiểu. Vì vậy bạn thấy rất bất ngờ và thoải mái khi nhận ra đoạn phim đó lại mô tả cấu trúc của một trò chơi truyền hình nổi tiếng.
-                - Trò chơi bắt đầu khi 3 thí sinh xuất hiện (Ann, Bob, và Carl). Họ đứng đằng sau bục, mỗi người có một nút ấn. Bảng điểm ở trên bục của mỗi người đang ở mốc 0 điểm. Với tiếng vỗ tay từ khán giả, Alexa xuất hiện trên màn hình làm người dẫn chương trình. Trên màn hình bây giờ có một bảng 6 cột và 5 hàng, tổng cộng là 30 ô. Sáu cột có các đề mục chính là những lĩnh vực trong quản lý dự án: phạm vi dự án, quản lý thời gian, ngân sách, quản lý chất lượng, truyền đạt thông tin, và quản lý rủi ro. Những ô trong mỗi cột có các mức điểm tương ứng với các câu hỏi ở 5 mức độ khó khác nhau: 100, 200, 300, 400, và 500 điểm. Ann là thí sinh đầu tiên đã chọn câu hỏi 100 điểm cho mục ngân sách. Một câu hỏi hiện ra trên màn hình, và Alexa đọc câu hỏi: “Tên của phương pháp dự trù chi phí mà sử dụng thông tin chi phí thực tế của một dự án tương tự đã hoàn tất?” Bob là thí sinh đầu tiên ấn nút và anh ta được trả lời câu hỏi này “Dự trù ngân sách tương tự.” Alexa tuyên bố rằng đây là câu trả lời chính xác và bảng điểm của Bob bây giờ đang đổi thành 100 điểm. Bob được quyền chọn câu hỏi tiếp theo bằng cách chọn lĩnh vực và điểm số.
-                - Trò chơi tiếp tục với những thí sinh bấm nút và trả lời. Nếu câu trả lời chính xác, thí sinh đó được điểm tương ứng và bảng điểm của họ được cập nhật với số điểm mới được cộng thêm vào. Nếu câu trả lời không chính xác hoặc thí sinh lưỡng lự quá lâu khi trả lời, điểm số đó sẽ bị trừ đi khỏi điểm tổng của họ. Trò chơi tiếp diễn, bạn và những bạn học khác trong lớp ngày càng hào hứng và bắt đầu hô vang câu trả lời, trước khi những thí sinh trên màn hình trả lời.
-                - Khi vòng đầu tiên kết thúc, ba thí sinh có điểm số khá ngang bằng: 2000, 2200, và 1900 điểm. Vòng 2 của trò chơi được thực hiện theo cách giống hệt như vòng 1, nhưng số điểm được nhân đôi (từ 200 tới 1000 điểm), và những chủ đề khác nhau được đưa ra: ước lượng thời gian hoạt động của dự án, xây dựng kế hoạch cho dự án, sắp xếp trình tự hoạt động, xây dựng lịch trình, định lượng rủi ro, và kế hoạch thu mua. Khi vòng 2 kết thúc, Carl dẫn đầu với tổng điểm là 8300. Điểm của Bob là 5200, và Ann thụt lùi với 3400 điểm do một chuỗi những câu trả lời nhanh nhảu và không chính xác.
-                - Vòng cuối cùng của trò chơi chỉ có 1 câu hỏi từ một chủ đề mới (Vòng đời của một dự án). Trước khi câu hỏi được đưa ra, ba thí sinh đặt cược số điểm bằng chính một phần điểm của mình. Sau khi Alexa đọc câu hỏi, những thí sinh có 30 giây để viết ra câu trả lời của mình. Cả ba thí sinh đều trả lời đúng. Cả Ann và Bob đã đặt cược toàn bộ số điểm của mình, và cuối cùng họ có 6800 điểm và 10400 điểm. Carl đặt cược 2101 điểm và anh đã giành thắng lợi chung cuộc với 10401 điểm, chỉ hơn Bob 1 điểm!
-                - Khi trò chơi kết thúc, bạn nhận ra rằng những câu hỏi và câu trả lời này chính là một cách tổng kết workshop không hề nhàm chán và mệt mỏi chút nào.
-            - INTERACTIVE LECTURE
-                - Bạn đang tham gia một buổi học về bán hàng cho khách hàng Châu Á. Bạn ngờ rằng đây sẽ là một bài diễn giảng rất nhàm chán, nhưng người giảng viên, Vandana, đã khiến cho bạn bất ngờ khi cô ấy đưa cho mỗi người một tờ Bingo, có một bảng gồm 5 hàng ngang, 5 hàng dọc, và trong 25 ô trống đó có những từ khóa. Jill ngồi cạnh bạn, và bạn để ý thấy các từ khóa trong bảng của cô ấy khác các từ khóa của bạn. Vandana giải thích rằng những tấm bảng Bingo này có câu trả lời cho những câu hỏi mà cô ấy sẽ đặt ra trong suốt bài thuyết trình của mình.
-                - Vandana bắt đầu bài thuyết trình bằng cách chỉ ra rằng “Châu Á” là một cách dán nhãn quá rộng, và sau đó cô ấy bắt đầu mô tả những loại người Châu Á khác nhau. Cô ấy nói về điểm giống nhau và khác nhau giữa những nhóm người này. Sau 10 phút, một tiếng chuông báo hiệu vang lên, và Vandana dừng bài thuyết trình lại - ngay giữa câu nói của mình. Cô ấy thông báo rằng bây giờ sẽ có câu hỏi ngắn, và đọc ra: “Những người đến từ Ấn Độ tặng quà cho nhau trong dịp lễ nào?” Vandana muốn mọi người nhìn lại bảng Bingo của mình và đánh dấu vào câu trả lời đúng. Từ bài thuyết trình, bạn lờ mờ nhớ ra rằng tên của dịp lễ đó bắt đầu bằng chữ D. Nhìn vào bảng của bạn, bạn nhận ra rằng Diwali là câu trả lời đúng và đánh dấu vào nó. Sau khi thời gian dừng kết thúc, Vandana đưa ra câu trả lời chính xác và nói với những ai đã chọn câu trả lời đó đánh một dấu đậm hơn vào ô vuông có câu trả lời. Vandana lại hỏi một câu tiếp theo: “Quốc gia Châu Á nào có tỷ lệ người có bằng cấp cao nhất trong số những người nhập cư vào Hoa Kỳ từ quốc gia đó?”
-                - Sau khi hỏi 7 câu hỏi, Vandana lại quay lại bài thuyết trình của mình, tiếp tục từ chỗ cô ấy đã dừng lại. Trong lần đặt câu hỏi tiếp theo, John đã hô vang: “BINGO!” và tuyên bố rằng anh ấy đã có 5 ô vuông được đánh dấu trên một đường thẳng. Vandana chúc mừng anh ấy, và nói với anh ấy hãy tiếp tục chơi để xem ai có nhiều ô vuông đúng nhất sau buổi học.
-            - ITEMS PROCESSING
-                - Bạn và các thành viên trong nhóm đang tham gia một buổi đào tạo có tên “Đạt được tầm nhìn của bạn”. Bạn không hề có ý niệm gì về nội dung của buổi học, và bạn càng hoang mang hơn khi Patti, người điều phối workshop, bắt đầu buổi học với một hoạt động có tên gọi là TENSES (Mốc thời gian).
-                - Patti đưa cho mỗi người một tờ giấy gồm 10 dòng kẻ. Cô ấy nói rằng, “Hãy nghĩ về những hoạt động liên quan tới công việc mà bạn đã làm hôm qua. Viết xuống 10 hoạt động như vậy, sử dụng những từ hoặc câu ngắn, ví dụ như tham gia buổi họp nhân viên, hoặc nộp bảng hoàn trả kinh phí.” Bạn bắt đầu danh sách của mình bằng câu “Tham gia buổi họp đánh giá chất lượng công việc” bởi vì đó là điều đáng nhớ nhất xảy ra vào hôm qua. Bạn tiếp tục thêm các câu như “Buổi họp và ăn trưa cùng với John.”
-                - Khi mọi người đều hoàn tất, Patti tiếp tục: “Tôi muốn mọi người sắp xếp các hoạt động này xem nó đang ở thì quá khứ, hiện tại, hay tương lai. Để tôi giải thích thêm: Ví dụ, nếu tôi đã ăn trưa cùng với người khách hàng để xin thứ lỗi vì đã trễ thời hạn, đó là hoạt động liên quan tới quá khứ. Nếu tôi ăn trưa để bàn về kế hoạch cho quý tiếp theo, đó là về tương lai. Còn nếu tôi ăn trưa với khách hàng chỉ đơn giản là muốn trò chuyện với họ, đó là về hiện tại. Khi bạn đã quyết định xem thời gian của hoạt động đó là gì, hãy cho hoạt động đó 1 điểm nếu nó hướng về quá khứ, 5 điểm nếu nó hướng tới hiện tại, và 9 điểm nếu nó hướng tới tương lai. Tất nhiên, bạn có thể sẽ có những hoạt động không hoàn toàn nằm trong 1 mốc thời gian. Lúc đó hãy dùng các số điểm từ 1 tới 3 cho hoạt động về quá khứ, từ 4 tới 6 cho hoạt động ở hiện tại, và 7 tới 9 cho hoạt động tới tương lai.”
-                - Bạn quay lại danh sách của mình và bắt đầu với hoạt động đánh giá chất lượng công việc. Lẽ ra nó phải nói về mục tiêu tương lai, nhưng sếp và bạn đã dành phần lớn thời gian nêu ra và tranh cãi về hành vi trong quá khứ của bạn. Vì vậy bạn cho nó 2 điểm. Bạn tiếp tục với những hoạt động khác trong danh sách.
-                - Patti tiếp tục công bố bước tiếp theo: Cô ấy muốn bạn cộng điểm lại và chia cho 10. Khi bạn làm xong, bạn thấy số điểm trung bình của mình là 3.1. Patti giải thích rằng số điểm này chính là mốc thời gian mà bạn đang vận hành chủ yếu hàng ngày - quá khứ, hiện tại, hay tương lai. Bạn thấy khó chịu vì bạn luôn muốn trở thành một người hướng tới tương lai, nhưng điểm trung bình lại chỉ ra rằng bạn chỉ sống trong quá khứ.
-                - Trước khi bạn kịp quay lại danh sách và sửa điểm, Patti muốn bạn xác định 3 việc quan trọng nhất trong danh sách đó. Điểm số của những hoạt động này đều nằm trong khoảng 6 tới 8 điểm. Chứng tỏ phần lớn những hoạt động quan trọng của bạn đều hướng tới tương lai. Sau đó Patti yêu cầu bạn xác định 3 hoạt động mất thời gian nhất. Bạn thấy rằng bạn đã dành phần lớn thời gian nhìn về quá khứ. Patti lúc này lại yêu cầu bạn xác định 3 hoạt động tạo hứng thú nhất trong danh sách này. Đó là những hoạt động liên quan tới hiện tại và tương lai.
-                - Patti công bố rằng cô ấy sẽ chuyển tiếp tới một hoạt động nhóm. Bạn đang lo lắng về việc phải chia sẻ suy nghĩ thầm kín của mình cho người khác. May mắn thay, Patti muốn cả nhóm xác định và xử lý những hoạt động của nhóm trong tháng vừa qua.
-            - STRUCTURED SHARING
-                - Bạn được gửi đến tham gia một buổi đào tạo về lãnh đạo và bạn ngờ rằng đó là một buổi thuyết giáo nhàm chán về những tố chất của lãnh đạo. Bạn thấy rất bất ngờ khi Vince, người giảng viên, công bố rằng mọi người sẽ cùng chơi một trò chơi có tên “Giỏi nhất và tệ nhất”.
-                - Vince yêu cầu bạn (và những người khác) nghĩ về 3 hình tượng cho những người lãnh đạo giỏi nhất. Bạn có thể nghĩ tới bất cứ ai trong quá khứ hay hiện tại, giả tưởng hay người thật, nam hay nữ, nhưng ít nhất một trong những người đó đã có ảnh hưởng tới cuộc đời của bạn. Bạn đã chọn Stephen Hawking, Đức mẹ Teresa, và ông của bạn. Sau một thời gian yên lặng, Vince tiếp tục yêu cầu bạn nghĩ tới 3 người lãnh đạo tệ nhất - những người đã được đưa lên vị trí lãnh đạo nhưng đã thất bại thảm hại. Bạn rất muốn đưa ra tên của 3 vị tổng thống Mỹ, nhưng cuối cùng bạn nêu tên của Adolf Hitler và hai người quản lý cũ của bạn.
-                - Vince yêu cầu mọi người chia cặp, và lần lượt chia sẻ lựa chọn của mình cho bạn học, và giải thích tại sao bạn chọn đó là người lãnh đạo giỏi nhất và tệ nhất. Bạn bắt cặp với Jan và có một cuộc hội thoại rất thú vị. Sau đó, Vince yêu cầu bạn và người bắt cặp với bạn đưa ra một danh sách những tố chất cần có của người lãnh đạo.
-                - Sau một thời gian nữa, Vince mời bạn và tất cả mọi người cùng đưa ra những tố chất của người lãnh đạo và viết lên một tờ giấy. Cùng với thông tin do mọi người đưa ra, anh ấy xếp những tố chất này vào 9 lĩnh vực khác nhau. Sau đó anh ấy giới thiệu một cách ngắn gọn về “khả năng quản trị” và “chính trực” là 2 trong số những tố chất không có trong danh sách này.
-            - TEXTRA GAME
-                - Trong một workshop về quản lý chất lượng, Vince, người điều phối, giới thiệu ngắn gọn về cách dùng bảng Pareto. Anh ấy tiếp tục phát cho mỗi người 2 tờ tài liệu. Tài liệu của bạn giải thích cách thiết kế một bảng tích lũy từ bảng tần suất, trong khi tài liệu của Joan lại giải thích cách vẽ đường Pareto ở ngay trên biểu đồ thanh. Vince nhắc lại rằng mỗi người nhận được tài liệu khác nhau, và yêu cầu mỗi người hãy đọc và xử lý thông tin trên mỗi tài liệu. Tài liệu của bạn giả định rằng bạn đã có bảng thông tin sơ khai (mà bạn không biết cách làm bảng đó) và giải thích cách cộng lại những tần suất khác nhau thành một số tích lũy tổng. Bạn đọc tài liệu và hoàn tất một vài bài tập thực hành.
-                - Bây giờ Vince sắp xếp mọi người vào nhóm 5 người. Mỗi người trong nhóm đã hoàn tất 1 bước trong quá trình lập biểu đồ Pareto. Vince chưa cho nhóm những dữ liệu chưa được sắp xếp về lời phàn nàn của khách hàng liên quan tới 9 sản phẩm, và yêu cầu người tham gia thiết kế một biểu đồ Pareto. Bạn không biết bắt đầu thế nào, nhưng Ann trong nhóm của bạn đã hoàn tất bước 1. Cô ấy bắt đầu sắp xếp những lời phàn nàn vào một bảng, giải thích những gì cô ấy đang làm. Khi cô ấy hoàn tất bước này, bạn nhận ra bạn cũng có thể ứng dụng bước của bạn vào bảng đó và tạo một cột gồm những tần suất được tích lũy lại. Bạn giải thích những gì bạn đang làm khi bạn tính toán tần suất tích lũy. Khi bạn làm xong, Shane sử dụng bảng đó để vẽ ra một biểu đồ thanh, rõ ràng đây là bước tiếp theo của hoạt động. Cuối cùng, nhóm của bạn hoàn tất biểu đồ Pareto cùng sự tham gia của tất cả mọi người. Sau khi bạn hoàn thành bài tập đầu tiên, Vince lại đưa ra một bộ dữ liệu cho bài tập 2, yêu cầu mọi người cùng học từ nhau. Bạn thấy mừng vì mình đã để tâm tới toàn bộ các bước, bởi vì hoạt động tiếp theo hóa ra lại là một cuộc thi xem ai là người thiết lập được biểu đồ Pareto nhanh nhất. Bạn đứng thứ 2 trong cuộc thi này.
-                - Trong hoạt động này, mỗi người tự học những bước khác nhau từ tài liệu được giao và làm việc theo nhóm để dạy và học từ nhau.
-            - DEBRIEFING GAME
-                - Bạn là một trong số 30 nhân viên tham gia vào buổi thảo luận hôm nay. Bạn làm việc trong một công ty dược phẩm và gần đây được sát nhập với một công ty Châu Âu. Bạn để ý thấy rằng một nửa số người tham gia hôm nay là từ một công ty khác. Cho đến giờ bạn vẫn còn cảm thấy không thoải mái về sự kiện sát nhập đột ngột này và bạn thật sự không biết làm cách nào để tương tác với những “người khác”.
-                - Lori là người điều phối hôm nay. Cô chào đón mọi người một cách ngắn gọn, và đề nghị mọi người dành chút thời gian để nghĩ về việc sát nhập của công ty. Nghe có vẻ không phải là cách hay để bắt đầu, nhưng bạn vẫn cho phép mình đi theo những gì sẽ diễn ra. Sau vài phút, Lori phát 1 handout, trên handout có 16 từ: giận dữ, cảm thấy bị phản bội, bị thử thách, hoang mang, tính hợp tác, bùng nổ, đam mê, phấn khích, mở rộng, toàn cầu, phát triển, vô tư, tích cực, quyền lực, không chắc chắn, không được thông báo. Cô ấy đề nghị mọi người nhìn qua các từ trên handout và khoanh tròn 3 từ mô tả chính xác những điều họ nghĩ/cảm thấy khi sát nhập. Bạn xem qua danh sách các từ và khoanh tròn ngay 2 từ: “cảm thấy bị phản bội” và “không được thông báo”. Cần thêm một chút thời gian để nhìn lại, bạn miễn cưỡng khoanh tròn từ “toàn cầu”.
-                - Sau khi chờ một lúc, để mọi người khoanh tròn, Lori thu thập lại handout từ tất cả mọi người (mà không nhìn vào chúng) và thay thế chúng bằng một handout khác tương tự nhưng chưa được đánh dấu. Giờ cô ấy đề nghị bạn và những người khác dự đoán rằng đâu là 3 từ được tất cả mọi người trong phòng chọn nhiều nhất, bằng cách đánh số 1 - 2 - 3 lên các từ đó trên handout. Bạn nhận ra rằng rất nhiều đồng nghiệp của bạn có thể cũng sẽ khoanh tròn các từ tương tự bạn, nhưng bạn không chắc chắn lắm về những “người khác”. Có thể họ cảm thấy tích cực và phấn khích bởi ý tưởng sát nhập này. Trong khi bạn vẫn đang cân nhắc về những nghịch lý này, bạn thấy Lori đang làm gì đó với những handout đã đánh dấu trước đó và máy tính.
-                - Sau một vài phút, Lori kiểm tra để chắc chắn rằng tất cả đều đã đưa ra dự đoán của mình. Vì muốn giữ bí mật cho mọi người về các phản hồi của họ, cô giải thích rằng cô sẽ không yêu cầu mọi người tiết lộ những gì mình đã dự đoán. Thay vào đó, cô sẽ đi một lượt qua danh sách, và chỉ ra có bao nhiêu người đã chọn từ đó. Lori tạo nên không khí hồi hộp khi đọc lên các từ, và trước khi thông báo số lượng người đã chọn. “Cảm thấy bị phản bội” chính là từ có nhiều người khoanh tròn nhất - 28 người. Điều này gây ngạc nhiên lớn với bạn, rằng những “người khác” cũng đang cảm thấy hệt như những gì bạn nghĩ.
-                - Sau khi thông báo về kết quả, Lori thực hiện một phần thảo luận về nguyên nhân của các cảm xúc tiêu cực và làm cách nào để tổ chức mới - chính là từng cá nhân trong căn phòng này - có thể giảm thiểu và thay thế bằng một cảm xúc khác tích cực hơn.
-        - Debriefing game
-Hoạt động sử dụng cho phần thu hoạch sau hoạt động, hoặc tổng kết cuối chương trình.
-Loại hoạt động này giúp người tham gia chia sẻ lại những gì đã diễn ra, cảm xúc, bài học, và những gì họ sẽ áp dụng được trong thực tế.
-        - Practical activity
-Hoạt động giúp người học thực hành những điều vừa được học và nhận phản hồi về kết quả để tiếp tục hoàn thiện.
-        - Closer: Hoạt động dùng để kết thúc chương trình, thường bao gồm các mục đích:
-Nhắc lại nội dung đã học
-Điểm lại các bài học quan trọng
-Lập kế hoạch áp dụng
-Ăn mừng
-        - guided thinking activities
-            - Write a statement for picture to gain participant focus about the topic
-        - While you wait acitivities
-            - Simple question 
-                - What movie you watch again and again?
-                - What's your least favorite part-time job?...
-            - Purpose
-                - Have something to focus on
-                - Start to create connection between people
-            - Characteristic
-                - Simple to do
-                - When do online, do on video call or chat box
-                - Not time-consuming, few second for a task
-                - Visible for everyone at once
-            - Note
-                - Avoiding push energy to high level and create unnecessary distractions
-                - It's purpose is to help focus, not to stimulate emotions 
-        - learning to use tools activities
-            - Getting used to Jamboard activities
-                - Write down name letters and organize them into words related to workshop
-        - steps activities
-            - How
-                - Request students to list specific number of steps to complete certain tasks based on students' own experience.
-            - Purpose
-                - survey participant current approach
-                - bring out a standard process
-        - write down questions to dig deep activity
-        - Listing and choosing activities
-            - How
-                - First is listing,
-                    - As a facilitator, you have what principle for your program?
-                    - This is to wear a facilitator hat.
-                -  Second is choosing.
-                    - As a participants, you want program ensure which principle?
-                    - This is to wear the participant hat.
-            - Purpose
-                - Select topics to focus
-                - Select helpful way to apply knowledge
-                - Select types of homework that students want to do
-        - introducing workshop activity
-            - [[generative-instructional strategy]]
-            - Then introducing workshop when participants have some knowledge
-        - completing sentences activity
-            - How
-                - Today I feel...
-                - In this program, I will focus on... to...
-            - Purpose
-                - It helps participants to focus into what's matter and valuable
-        - Brainstorming activities
-            - What characteristic of participant that you want to know?
-            - Ways to synthesize
-                - Group ideas 
-                - Vote best ideas
-                - Use scales or criteria list
-                - Or use the next activities to group it
-        -  [[Item processing activities]] - Card Sort
-            - Process given information
-            - Bring level of thinking from "know" to "understand
-            - Give a example about a familiar context
-        - Short-summarize activity
-            - Note: We need to have an activity to guide the participant learning, so that they could complete this activity easier
-                - What "should" and "shouldn't" while describe characteristics of ideal participant
-                - Before that, there is an activity for the group leader "What did you notice while describe your ideal participant's characteristics?"
-        - Message-sending activity
-            - Which is hidden lesson in this picture about the need analysis process?
-        - Summarize the session with "Stop-Start-Continue"
-            - It's helpful for a session with lots of lessons and principles about a topic
-- [[training principles]]
-    - An important principle in training
-        - After the workshop, participant can only do what they directly do in the program.
-    - Student-centric
-    - Flexible based on students level, progress
-        - Flexible on acitivites and the way delivering
-        - Fixed on goals
-    - Level of thinking
-        - Understanding
-        - Comparing
-        - Analytic
-        - Evaluating
+- Principles need to concern when design a workshop
+    - [[Principle for learning]]
+    - [[training principles]]
+        - An important principle in training
+            - After the workshop, participant can only do what they directly do in the program.
+        - Student-centric
+        - Flexible based on students level, progress
+            - Flexible on acitivites and the way delivering
+            - Fixed on goals
+        - Level of thinking
+            - Understanding
+            - Comparing
+            - Analytic
+            - Evaluating
 - Tools
     - Tools to split group
         - [https://pickerwheel.com/tools/random-team-generator/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpickerwheel.com%2Ftools%2Frandom-team-generator%2F%3Ffbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)
-- [[Principle for learning]]
-- 3 roles for creating and delivering a training effectively [[Training roles]]
-    - Instructional Designer
-        - expert about design a workshop
-    - SME - Subject-matter expert 
-        - knowledge-expert
-    - Trainer - Facilitator
-        - teaching-expert
-- Components of a design workshop process
-    - ![Displaying S1 - General view of ID.png](https://drive.google.com/thumbnail?id=1bsUq1KcYiMvM334Qjf91p-Dm2hHnJfej&authuser=0&sz=w1813-h915)
-    - Analysis of target group
-        - analysis the potential participants of workshop
-        - the end goal is a description of "a typical particiant"
-    - Needs Analysis
-        - analyze the needs of the group
-        - the end goal is the needs that workshop need to cover, resolve, or change needed to adapt with participant needs.
-            - formulate the major goals of the workshop
-    - Tasks Analysis
-        - analyze the tasks that participants need to complete
-        - end goal is a description board of what participants need to DO to achieve the major goals
-    - Definition of Objectives
-        - Identify detail goals of the workshop
-        - end goal is outline of modules, lessons, and detail goals that participants need to COMPLETE to achieve major goals
-        - outline of the workshop
-    - Choice of a Teaching Strategy
-        - select a strategy to deliver the whole and parts of the workshop
-        - end goal is a general flow of workshops and general approach/strategy to deliver content
-    - Generation of Learning tasks
-        - build activities help participant to learn and complete goals
-        - end goal is detail activities that will occur during the workshop
-    - Choice of a delivery system
-        - select tools to deliver the contents
-        - end goal is materials, documents, tools to implement the workshop
-    - Design and Development of Learning Environments 
-        - the principle that an effective learning environment need to have
-    - Instructional Modelling
-        - a standard model for participants follow and model
-    - Implementation
-    - Evaluation
-- How to evaluate the effectiveness of a workshop
-    - ARCS model
-        - Attention
-        - Relevance
-        - Confidence
-        - Satisfaction
