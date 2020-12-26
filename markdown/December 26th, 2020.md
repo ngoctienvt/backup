@@ -12,4 +12,4 @@
 - When playing [[Spirit Island]], I learned that though the end goal is winning the game
     - The condition to win the game is changing throughout my play. And I need to pay attention to the [[win condition]]. Because it will be what I need to focus on, not about how effectively I can each turn, because at the end, the goal is win. 
         - If I focus on the effectiveness, I will easily lose sight the chance to win the game, though it's obvious. This is a big lesson to focus on the end goal and the condition to achieve the end goal, because the end goal maybe the same, but the condition to achieve it will be change accordingly.
-        - 
+- [[Daily Stories]] The story of today is I have a casual walk with a feeling of peaceful deep inside of me, and it makes me can become much more deeply center.
