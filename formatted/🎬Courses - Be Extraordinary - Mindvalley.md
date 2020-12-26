@@ -269,6 +269,16 @@
     - Bending reality
         - Believing that you are lucky, make you lucky
         - The mental screen
+- The power of clarity
+    - Principles of manifesting
+        - Know exactly what you want - Clarity
+            - By knowing what you do not want, you gain clarity on what you do want
+        - Don't worry about the how - Forget the how
+    - Speak to your subconscious mind based on symbolism
+    - Creative visualization nuances
+        - 1. See what you do not way. Break it away.
+        - 2. See what you do want. Make it vivid.
+        - 3. End with: "Let this or something better happen."
         - 
 
 # Backlinks
