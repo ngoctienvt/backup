@@ -9,3 +9,7 @@
     - The key for handling this zone is about FOCUS, CLARITY and GROWTH.
 - I am learning to not put the truth into other head, but rather be a falictitator that provide space and guidance, so that we can explore and learn together. I'm not an instructor, but rather a part of the group. I'm not teaching, but rather a facilitator and learner at the same time. This is partnerning growth. [[partnering]]
 - We could have a [[Vision for the future]] but our focus is on where we are and what's our next step. [[Presence in the now]]
+- When playing [[Spirit Island]], I learned that though the end goal is winning the game
+    - The condition to win the game is changing throughout my play. And I need to pay attention to the [[win condition]]. Because it will be what I need to focus on, not about how effectively I can each turn, because at the end, the goal is win. 
+        - If I focus on the effectiveness, I will easily lose sight the chance to win the game, though it's obvious. This is a big lesson to focus on the end goal and the condition to achieve the end goal, because the end goal maybe the same, but the condition to achieve it will be change accordingly.
+        - 
