@@ -4,3 +4,6 @@
 - I started to want to develop some [[learning group]] will help me to practice instructional design and build my training program, help me gain expertise. 
     - The main group I can think about now is a coaching group.
 - I noticed that not sure why but I want to take care [[@Nguyễn Mỹ Linh]]. She's important to me, that's all I know. I don't care much about my sexual desire when think about her. I even feel uncomfortable because our interests are quite different to each other.
+- After today leisure walk, I realized that I'm shifting myself to happiness from growth. This is the most satisfy and in our will, and the meaning of living type of happiness. It's a healthy type of happiness that based on why we come to the earth and have the chance for experiences. [[true happiness]]
+- I noticed that I'm on the time that clarity about the [[end goal]] and get my feet on the ground. It's about learning to handle the blurry zone between where we are and our end goal. [[closing the gap]] [[handling the gap]]
+    - The key for handling this zone is about FOCUS, CLARITY and GROWTH.

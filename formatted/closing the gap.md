@@ -14,6 +14,9 @@
 ## [December 12th, 2020](<December 12th, 2020.md>)
 - I can clearly see that I'm building a bridge with reality and true end goal [bridging](<bridging.md>). I also can start to really understand more what's [closing the gap](<closing the gap.md>)
 
+## [December 26th, 2020](<December 26th, 2020.md>)
+- I noticed that I'm on the time that clarity about the [end goal](<end goal.md>) and get my feet on the ground. It's about learning to handle the blurry zone between where we are and our end goal. [closing the gap](<closing the gap.md>)
+
 ## [October 2nd, 2020](<October 2nd, 2020.md>)
 And if I got stuck in 1 process, I can always come back to the first level so that I will be able to prepare the materials needed for later work without feeling distressed and overwhelming. The idea here is we create a [🌱Natural Progression](<🌱Natural Progression.md>) way to [closing the gap](<closing the gap.md>)
 

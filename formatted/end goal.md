@@ -28,6 +28,9 @@
 ## [December 16th, 2020](<December 16th, 2020.md>)
 - [end goal](<end goal.md>)
 
+## [December 26th, 2020](<December 26th, 2020.md>)
+- I noticed that I'm on the time that clarity about the [end goal](<end goal.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - [ ] I want to clean my goal cluster, so that they become [end goal](<end goal.md>)
 

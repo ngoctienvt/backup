@@ -6,6 +6,9 @@
 - 
 
 # Backlinks
+## [December 26th, 2020](<December 26th, 2020.md>)
+- After today leisure walk, I realized that I'm shifting myself to happiness from growth. This is the most satisfy and in our will, and the meaning of living type of happiness. It's a healthy type of happiness that based on why we come to the earth and have the chance for experiences. [true happiness](<true happiness.md>)
+
 ## [October 10th, 2020](<October 10th, 2020.md>)
 - [true happiness](<true happiness.md>)
 
