@@ -1,0 +1,6 @@
+- Last week I felt that I started to have a new activity that is very helpful. It's about interactive lecture and discussion. This helps me to write more thoughts and do the next step externally, and let things unfold outside. It's much more helpful than I keep the big thing inside of my head, and feel too big to resolve. It's much better to write down for getting clarity and put everything on table, so it will not take my cognitive load. [[Focus on babystep]]
+    - It's also helpful that with 2 people, I don't need to focus on many things alone, but the tasks can be share and it generates much better results.
+    - It also helps me realize that I'm not good at [[real time interaction]] and easily feel stress and disturbe inside. This is a very big lesson for me, as if I can't presence and relax, I will force things to happen and become manipulative.
+- I started to want to develop some [[learning group]] will help me to practice instructional design and build my training program, help me gain expertise. 
+    - The main group I can think about now is a coaching group.
+- I noticed that not sure why but I want to take care [[@Nguyễn Mỹ Linh]]. She's important to me, that's all I know. I don't care much about my sexual desire when think about her. I even feel uncomfortable because our interests are quite different to each other.
