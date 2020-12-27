@@ -13,8 +13,30 @@
             - It's about unconditional love, unconditional serving, self-lessness, centering, clarity, about things that greater than us, contribute for the reality/ the world.
             - It's about the pull of our lower-self are still there, but we are not pulled by them anymore, we are grounded and unattached enough so that it couldn't pull us. 
                 - Our focus is now on the higher things instead of lower things, on what we want to focus on instead of being distracted. [undistracted intention](<undistracted intention.md>)
-- What could I do will bring me towards becoming a [Productive Human Being](<Productive Human Being.md>)
+- What could I do will bring me towards becoming a [Productive Spiritual Being](<Productive Spiritual Being.md>)
     - Visualize more
     - Clarity more
     - Embrace more new identity / Let go the inner disturbances
+- The process to connect our current self and the end goals [end goal](<end goal.md>) [life navigation map](<life navigation map.md>)
+    - Identify clearly the life end goals
+    - Identify what we need to complete the end goals
+    - Identify who we need to become to able to complete the above conditions
+        - Clarify the person we need to become in some important aspects
+            - Inner state
+                - How we feel
+                - What is the shift in our identity comparing to now (characteristics)
+                - How our soul is at that moment
+            - Behaviors
+                - What we do
+            - The environment
+        - Identify the mission that person will take on as a project for growth and contribution
+        - Describe this in detail
+    - Identify what is the baby steps we need to do now so that we can embrace the new identity
+    - Build personal system to ensure that's we always 
+        - focus on the end goals, 
+        - embracing the new identity, letting go the resistance or inner stuffs
+        - and always take the needed steps on daily basis
+- [life navigation map](<life navigation map.md>)
+    - The reason why we need to break down the [end goal](<end goal.md>) is because it's hard to connect ourselves to something that are too big and not clear.
+        - By breaking down, we break it to small parts so that we can easier to visualize and embrace them in context.
     - 
