@@ -279,7 +279,9 @@
         - 1. See what you do not way. Break it away.
         - 2. See what you do want. Make it vivid.
         - 3. End with: "Let this or something better happen."
-        - 
+- The power of resonance
+    - Shift your identity
+    - Identity shift
 
 # Backlinks
 ## [December 18th, 2020](<December 18th, 2020.md>)
