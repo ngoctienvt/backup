@@ -13,4 +13,8 @@
             - It's about unconditional love, unconditional serving, self-lessness, centering, clarity, about things that greater than us, contribute for the reality/ the world.
             - It's about the pull of our lower-self are still there, but we are not pulled by them anymore, we are grounded and unattached enough so that it couldn't pull us. 
                 - Our focus is now on the higher things instead of lower things, on what we want to focus on instead of being distracted. [[undistracted intention]]
-        - 
+- What could I do will bring me towards becoming a [[Productive Human Being]]
+    - Visualize more
+    - Clarity more
+    - Embrace more new identity / Let go the inner disturbances
+    - 

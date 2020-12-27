@@ -282,3 +282,13 @@
 - The power of resonance
     - Shift your identity
     - Identity shift
+- Amplifying the results
+    - Be happy before you attain the goal
+        - Do not attach to the outcome
+    - The law of expectancy
+        - True desire
+        - Trust that it's possible
+        - Revisualize the end results if needed
+    - Actions help you shift who you want to become
+        - Starting __as if__
+    - 
