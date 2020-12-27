@@ -39,4 +39,12 @@
 - [[life navigation map]]
     - The reason why we need to break down the [[end goal]] is because it's hard to connect ourselves to something that are too big and not clear.
         - By breaking down, we break it to small parts so that we can easier to visualize and embrace them in context.
-    - 
+- The teaching of Vishen is pretty clear and straightforward. It really helps me to clarity the how and what's happen, and how to bring my best self and best intention to the world. Though I will take time to create my own system and my own teachings, I feel really grateful for all the things that I learned and that happened to me.
+    - My ideal [[spiritual practices]] would be about the merging and surrender technique.
+        - And I will use the creative visualization techniques to clarify my end goals and who I need to become, what I will act, and how I will behave as a way to focus on the right thing.
+- I know that the course I want to teach next seems to big and I'm just on a beginner stage. But the direction is pretty clear for me, and all I need is to practice and clarify more, while let my own system emerge. This will be a life-changing course that I could teach based on my own life. I will learn to become much more truthful, authentic and vulnerable while creating this course. [[🌱Training Course - Effortless Growth]]
+    - My course will emphasize on self-lessness and growth instead of personal needs, so whatever we will want to do or achieve will for the sake of a meaningful end goal. 
+- I'm not so sure why but I love [[@Nguyễn Mỹ Linh]] so much that I want to overcome every challenge between us, so that we can be a happy couple that go through this life time together. We will share joy, happiness, challenges, and enjoy the journey together.
+- [[life navigation map]] the end goal and where we are now tend to be have a big gap. How we will meet our end goal is unlimited ways and we never know, but we can always know what we could do to achieve the end goal. And we can create some nearer target to reach the end goal. 
+    - As long as these directions are clear and ensure that we on the right track. 
+    - Then along the way, we will reflect sometimes and consider to change the focus or the how later.

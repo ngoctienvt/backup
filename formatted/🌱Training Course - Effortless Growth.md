@@ -42,6 +42,9 @@
 
 - It's feel that things are much clearer after today talkshow, I see much more clearly what I will do on my [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>).
 
+## [December 27th, 2020](<December 27th, 2020.md>)
+- I know that the course I want to teach next seems to big and I'm just on a beginner stage. But the direction is pretty clear for me, and all I need is to practice and clarify more, while let my own system emerge. This will be a life-changing course that I could teach based on my own life. I will learn to become much more truthful, authentic and vulnerable while creating this course. [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+
 ## [Training MOC](<Training MOC.md>)
 - [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 

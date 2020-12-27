@@ -1,5 +1,8 @@
 
 # Backlinks
+## [December 27th, 2020](<December 27th, 2020.md>)
+- My ideal [spiritual practices](<spiritual practices.md>)
+
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - My [spiritual practices](<spiritual practices.md>)
 

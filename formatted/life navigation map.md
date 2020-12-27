@@ -5,3 +5,5 @@
 
 - [life navigation map](<life navigation map.md>)
 
+- [life navigation map](<life navigation map.md>)
+

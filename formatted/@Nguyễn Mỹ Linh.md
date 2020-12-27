@@ -34,6 +34,9 @@
 ## [December 26th, 2020](<December 26th, 2020.md>)
 - I noticed that not sure why but I want to take care [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>).
 
+## [December 27th, 2020](<December 27th, 2020.md>)
+- I'm not so sure why but I love [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
+
 ## [December 6th, 2020](<December 6th, 2020.md>)
 - I feel that's my relationship with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 
