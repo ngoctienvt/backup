@@ -48,3 +48,5 @@
 - [life navigation map](<life navigation map.md>) the end goal and where we are now tend to be have a big gap. How we will meet our end goal is unlimited ways and we never know, but we can always know what we could do to achieve the end goal. And we can create some nearer target to reach the end goal. 
     - As long as these directions are clear and ensure that we on the right track. 
     - Then along the way, we will reflect sometimes and consider to change the focus or the how later.
+- I felt that I have a fear that my house will be rob and insecure. It's making me feel that the world could be a dangerous place to live with. But through the meditation, I noticed that we are all here to learn, and other people need to heal themselves, so that they can act with integrity. And I put my trust to bring the peace, heal, and forgiveness to the space around my home. I wish that everyone do the lower things could listen to their inner wisdom and live a higher life. [insecure](<insecure.md>)
+- 
