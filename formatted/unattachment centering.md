@@ -47,6 +47,9 @@
 ## [December 19th, 2020](<December 19th, 2020.md>)
 - [unattachment centering](<unattachment centering.md>)
 
+## [December 27th, 2020](<December 27th, 2020.md>)
+- Other thing I learned is the fourth chakra [Heart chakra](<Heart chakra.md>) is about letting go of the personal self, just like the lower chakra is letting go the sexual desire or the need for survival. [unattachment centering](<unattachment centering.md>)
+
 ## [December 3rd, 2020](<December 3rd, 2020.md>)
 - It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [Who am I](<Who am I.md>) [unattachment centering](<unattachment centering.md>)
 

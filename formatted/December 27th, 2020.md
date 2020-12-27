@@ -1,1 +1,16 @@
-- 
+- [Spirit Island](<Spirit Island.md>) could taught me about that even though the end goal is the same. In each different stage, there will be a different thing need to be focus on. [Focus on babystep](<Focus on babystep.md>)
+    - In early stage, the importance point is growing instead of focusing on how to win. The reason is as long as we grow, we will expand ourselves with more choices and more abilities to complete the things that we can't in the beginning. [From impossible to possible](<From impossible to possible.md>)
+        - #[my quotes](<my quotes.md>) With grow, we expand ourselves to more choices. What seems impossible will become possible along with our growth. 
+            - Our current level limit our imagination, so instead of focus on where we are, focus on where we want to be and what we need to grow instead.
+    - In the later stage, the strategy will start to form based on our abilities or strengths, this is where we consider how we could win the game, and focus on how to win the game. Or in the general term, how we will reach the end goal. 
+- In the last night when I hearing the teaching of Michael Singer, I learned that the experiences that I want to seek for experiences is how I would feel when I'm on later stage of chakra. [Happiness from experiences](<Happiness from experiences.md>)
+    - This is really the thing that's based on my higher-self, not based on my lower-self for its short-term pleasure. 
+    - There will be desire or want that comes from my higher-self, and this is what I need to follow, not what my lower-self determined. [true desire](<true desire.md>)
+        - True desire will not about control the world, but about surrender the inner world, so that we can experience the truth of the world.
+    - Other thing I learned is the fourth chakra [Heart chakra](<Heart chakra.md>) is about letting go of the personal self, just like the lower chakra is letting go the sexual desire or the need for survival. [unattachment centering](<unattachment centering.md>)
+        - It's not about being control by the sexual desire or survival, it's about how to handle them and not be controlled by them, but rather being center and have choices.
+        - It's the same for going to the 4th level. It's about not be controlled by the personal needs, but rather being and let the energy freely flow up to serve the reality, serve others instead of serve ourselves.
+            - It's about unconditional love, unconditional serving, self-lessness, centering, clarity, about things that greater than us, contribute for the reality/ the world.
+            - It's about the pull of our lower-self are still there, but we are not pulled by them anymore, we are grounded and unattached enough so that it couldn't pull us. 
+                - Our focus is now on the higher things instead of lower things, on what we want to focus on instead of being distracted. [undistracted intention](<undistracted intention.md>)
+        - 
