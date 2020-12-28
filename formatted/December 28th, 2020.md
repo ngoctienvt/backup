@@ -1,9 +1,9 @@
-- The reason why the [[🌱Training Course - Effortless Growth]] need to come to the world are
+- The reason why the [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>) need to come to the world are
     - Awaken people
     - Growth effortlessly and through learn instead of hard way
     - Love - surround the world with love instead of lower energy
     - In my course, I will make sure that we can let go our personal needs which come from the garbage that we can't handle, but focus on what we truly want, and this is serve the higher purpose - for us and for everyone
-- Through the [[Courses - Extraordinary by design - Mindvalley]], I grew my wisdom much better, and became more clarity about what I could do in the zone of How. I can also see myself connected better with my higher purpose. I became much more relax and trust the process easier. 
+- Through the [Courses - Extraordinary by design - Mindvalley](<Courses - Extraordinary by design - Mindvalley.md>), I grew my wisdom much better, and became more clarity about what I could do in the zone of How. I can also see myself connected better with my higher purpose. I became much more relax and trust the process easier. 
     - I feel that I am on the way to become extraordinary and live the life that's truly meaningful, not just for me but for other people benefit as well.
     - Active meditation
         - Surrender

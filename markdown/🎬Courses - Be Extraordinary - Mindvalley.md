@@ -291,4 +291,10 @@
         - Revisualize the end results if needed
     - Actions help you shift who you want to become
         - Starting __as if__
+- The 5 laws of programming
+    - 1. Forgive the past, both incidents and people
+    - 2. Respect the Golden rule.
+    - 3. Feel and think of other people benefitting.
+    - 4. It must be the best for everyone concerned.
+    - 5. It must be within the possibility area.
     - 
