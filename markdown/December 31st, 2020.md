@@ -1,0 +1,2 @@
+- [[Daily Worthy Stories]] Yesterday and today, I noticed that I feel hard for presence and simply listen what being shared to me. I felt that I can’t center and let things happen but trying to protect myself for being influence. 
+- 

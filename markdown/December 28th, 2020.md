@@ -13,5 +13,5 @@
         - Clearing the garbage technique
         - Quantum Jumping
         - The boardroom
-- [[Daily Stories]] Today, Tien noticed that he is very interesting to describe what's happening so that everyone can relate to that. He had no interest with resolve or engage with the situation, but rather show his knowledge and expand what we could discuss or talk about. [[personal preferences]]
+- [[Daily Worthy Stories]] Today, Tien noticed that he is very interesting to describe what's happening so that everyone can relate to that. He had no interest with resolve or engage with the situation, but rather show his knowledge and expand what we could discuss or talk about. [[personal preferences]]
     - He likes to expand and explore things rather than solving problem, but when he want to solve problem, it's more about his own personal needs, rather than truly connect with the person and the situation. 
