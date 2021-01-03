@@ -86,6 +86,9 @@
 ## [December 7th, 2020](<December 7th, 2020.md>)
 - I also notice that I will need to merge my [🌱My End Goals](<🌱My End Goals.md>)
 
+## [January 3rd, 2021](<January 3rd, 2021.md>)
+- Who I want to become to achieve my end goals [Who I need to become?](<Who I need to become?.md>) [🌱My End Goals](<🌱My End Goals.md>)
+
 ## [November 6th, 2020](<November 6th, 2020.md>)
 - Now today I will work on what will be my process to achieve my [🌱My End Goals](<🌱My End Goals.md>)
 

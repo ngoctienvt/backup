@@ -15,7 +15,7 @@
     - [[fleeting notes]] are notes that I write in daily pages. It is thoughts, review, emotions,... 
     - [[literature notes]] are notes that I write by taking note from resources like books, blogs, courses
     - [[permanent notes]] or [[Evergreen notes]] are notes that developed from [[fleeting notes]] and [[literature notes]]
-- Who I want to become to achieve my end goals
+- Who I want to become to achieve my end goals [[Who I need to become?]] [[🌱My End Goals]]
     - [[Master Coach]]
     - [[Productive Spiritual Being]]
     - [[Master Transformational Trainer]]
