@@ -269,7 +269,7 @@
     - Bending reality
         - Believing that you are lucky, make you lucky
         - The mental screen
-- The power of clarity
+- [The power of clarity](<The power of clarity.md>) [Creative Visualization technique](<Creative Visualization technique.md>)
     - Principles of manifesting
         - Know exactly what you want - Clarity
             - By knowing what you do not want, you gain clarity on what you do want

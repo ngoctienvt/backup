@@ -15,8 +15,15 @@
     - [fleeting notes](<fleeting notes.md>) are notes that I write in daily pages. It is thoughts, review, emotions,... 
     - [literature notes](<literature notes.md>) are notes that I write by taking note from resources like books, blogs, courses
     - [permanent notes](<permanent notes.md>) or [Evergreen notes](<Evergreen notes.md>) are notes that developed from [fleeting notes](<fleeting notes.md>) and [literature notes](<literature notes.md>)
-- Who I want to become to achieve my end goals [Who I need to become?](<Who I need to become?.md>) [🌱My End Goals](<🌱My End Goals.md>)
+- Who I want to become to achieve my end goals [Who I need to become?](<Who I need to become?.md>) [🌱My End Goals](<🌱My End Goals.md>) [Creative Visualization technique](<Creative Visualization technique.md>) [The power of clarity](<The power of clarity.md>)
     - [Master Coach](<Master Coach.md>)
+        - As a master coach, I can
+            - fully presence in the moment and not be influenced by my thoughts, emotions and sensations
+                - listen clients as a whole and pay attention to the who parts of my clients instead of drawing into the what parts
+                    - ask powerful but concise powerful questions to help clients process deeply
+            - comfortable with silence and give clients space for internal process and transformation
+            - let go all of my limiting beliefs and tiny knowingness to trust the miracle and the universe
+                - surrender myself fully into the unlimited possibilities that beyond my rational mind
     - [Productive Spiritual Being](<Productive Spiritual Being.md>)
     - [Master Transformational Trainer](<Master Transformational Trainer.md>)
     - Great Lover, Great Father, Great Son... Great Human Being
