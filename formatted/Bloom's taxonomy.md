@@ -110,6 +110,9 @@
 ## [Effortless Growth](<Effortless Growth.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
+## [January 3rd, 2021](<January 3rd, 2021.md>)
+- [Horizons of understanding](<Horizons of understanding.md>) is something that I want to develop to replace [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
 ## [level of thinking](<level of thinking.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 

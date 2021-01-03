@@ -303,3 +303,6 @@
 ## [December 18th, 2020](<December 18th, 2020.md>)
 - [🎬Courses - Be Extraordinary - Mindvalley](<🎬Courses - Be Extraordinary - Mindvalley.md>)
 
+## [January 3rd, 2021](<January 3rd, 2021.md>)
+- In the next week, I will clean up these accumulated feelings and experiences. I will start to comeback to practice what I learned so far from [🎬Courses - Be Extraordinary - Mindvalley](<🎬Courses - Be Extraordinary - Mindvalley.md>)
+

@@ -2,6 +2,9 @@
 - [attachment with objects](<attachment with objects.md>)
 
 # Backlinks
+## [January 3rd, 2021](<January 3rd, 2021.md>)
+- I realized that I still not able to fully presence in daily situation and I still have the tendency to force things happen or to try to make something happen like try to make other understand, instead of leaning back and centering on myself. Then deeply connect in a harmony way with reality and let things unfold and process by themselves. [attachment](<attachment.md>)
+
 ## [List of samskaras](<List of samskaras.md>)
 - [attachment](<attachment.md>)
 
