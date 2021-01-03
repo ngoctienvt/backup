@@ -37,7 +37,7 @@
                 - my uniqueness
             - and the unfolding process of reality
         - Have the ability to zoom-out and see big pictures easily
-- [master coach](<master coach.md>)
+- [Master Coach](<Master Coach.md>)
     - Two most important characteristics of a master coach
         - The level that they can listen
         - The level of they know that what's possible

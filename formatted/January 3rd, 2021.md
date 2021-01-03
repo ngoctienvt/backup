@@ -9,4 +9,15 @@
 - [Daily Worthy Stories](<Daily Worthy Stories.md>) 
     - Last night Tiến Lên Game. 4 đôi thông. Tứ quý. Anh Duy. 
     - Anh Duy. Feeling secure. Spiritual. Agreement with me. Coaching
-- 
+- What I want to experience will not be based on my personal needs to solve my inner problems, but rather to have the experience itself. [Happiness from experiences](<Happiness from experiences.md>)
+    - And for things that will need to have greater commitment, it will not just stop from that experiences but rather ready for everything will come up after that as well. Like becoming a father is an experience, but it will come with the responsibilities to be a good father. 
+- [types of note](<types of note.md>)
+    - [fleeting notes](<fleeting notes.md>) are notes that I write in daily pages. It is thoughts, review, emotions,... 
+    - [literature notes](<literature notes.md>) are notes that I write by taking note from resources like books, blogs, courses
+    - [permanent notes](<permanent notes.md>) or [Evergreen notes](<Evergreen notes.md>) are notes that developed from [fleeting notes](<fleeting notes.md>) and [literature notes](<literature notes.md>)
+- Who I want to become to achieve my end goals
+    - [Master Coach](<Master Coach.md>)
+    - [Productive Spiritual Being](<Productive Spiritual Being.md>)
+    - [Master Transformational Trainer](<Master Transformational Trainer.md>)
+    - Great Lover, Great Father, Great Son... Great Human Being
+    - 

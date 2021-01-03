@@ -59,6 +59,9 @@
 ## [How to self-development effectively?](<How to self-development effectively?.md>)
 - #[Evergreen notes](<Evergreen notes.md>)
 
+## [January 3rd, 2021](<January 3rd, 2021.md>)
+- [permanent notes](<permanent notes.md>) or [Evergreen notes](<Evergreen notes.md>)
+
 ## [November 18th, 2020](<November 18th, 2020.md>)
 - I'm quite good on the unifying stage, and it seems like a little bit ready to come to the next step, the step of writing and nurturing [Evergreen notes](<Evergreen notes.md>).
 
