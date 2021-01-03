@@ -13,3 +13,6 @@
 ## [December 31st, 2020](<December 31st, 2020.md>)
 - [Daily Worthy Stories](<Daily Worthy Stories.md>)
 
+## [January 3rd, 2021](<January 3rd, 2021.md>)
+- [Daily Worthy Stories](<Daily Worthy Stories.md>)
+

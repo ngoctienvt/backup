@@ -1,9 +1,12 @@
 - I have so much experiences and emotions that affect me strongly these last few days. I felt that I got triggered continuously and my relationship with my families is not good yet. I feel that I am being denied my effort for become better and solve my life. 
 - I realized that I still not able to fully presence in daily situation and I still have the tendency to force things happen or to try to make something happen like try to make other understand, instead of leaning back and centering on myself. Then deeply connect in a harmony way with reality and let things unfold and process by themselves. [attachment](<attachment.md>)
-- I noticed that I will need to develop my masculine energy that could be utilize in daily basis, so that I can always grounded, stable, unattach, and comfortable with things that come into my senses. [masculine energy](<masculine energy.md>)
+- I noticed that I will need to develop my masculine energy that could be utilize in daily basis, so that I can always grounded, stable, unattach, focus, clarity, and comfortable with things that come into my senses. [masculine energy](<masculine energy.md>)
 - Planning
     - In the next week, I will clean up these accumulated feelings and experiences. I will start to comeback to practice what I learned so far from [🎬Courses - Be Extraordinary - Mindvalley](<🎬Courses - Be Extraordinary - Mindvalley.md>) and start to have clarity about my vision.
     - I will also prepare for continue my [🌱Instructional Design](<🌱Instructional Design.md>) learning. I will need to condense my knowledge about this a bit more. 
 - I noticed that I feel much better and happy when I hear [@Thục Linh](<@Thục Linh.md>) show her gratefulness to me. I felt that I feel much better when being recognized or being helpful. It's not a bad thing, but it means that I still have some attachments for external things.
 - [Horizons of understanding](<Horizons of understanding.md>) is something that I want to develop to replace [Bloom's taxonomy](<Bloom's taxonomy.md>) so that I could have my own model about how a people develop their own understanding from external knowledge to internal knowledge, from understand a bit to understand deeply, from amateur to expert.
+- [Daily Worthy Stories](<Daily Worthy Stories.md>) 
+    - Last night Tiến Lên Game. 4 đôi thông. Tứ quý. Anh Duy. 
+    - Anh Duy. Feeling secure. Spiritual. Agreement with me. Coaching
 - 
