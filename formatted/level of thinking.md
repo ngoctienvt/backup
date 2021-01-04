@@ -33,6 +33,9 @@
 ## [December 22nd, 2020](<December 22nd, 2020.md>)
 - [level of thinking](<level of thinking.md>)
 
+## [January 4th, 2021](<January 4th, 2021.md>)
+- ways of thinking [level of thinking](<level of thinking.md>)
+
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [level of thinking](<level of thinking.md>)
 

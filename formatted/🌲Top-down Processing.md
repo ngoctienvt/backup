@@ -45,6 +45,9 @@
 ## [Effortless Growth](<Effortless Growth.md>)
 - [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
+## [January 4th, 2021](<January 4th, 2021.md>)
+- [focus](<focus.md>) [🌲Top-down Processing](<🌲Top-down Processing.md>)
+
 ## [November 29th, 2020](<November 29th, 2020.md>)
 - I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [🌲Top-down Processing](<🌲Top-down Processing.md>)
 

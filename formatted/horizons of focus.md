@@ -34,6 +34,9 @@
 
 - It's helpful to see the [horizons of focus](<horizons of focus.md>)
 
+## [January 4th, 2021](<January 4th, 2021.md>)
+- [horizons of focus](<horizons of focus.md>)
+
 ## [November 20th, 2020](<November 20th, 2020.md>)
 - I started to have a vertical structure about [level of thinking](<level of thinking.md>) related to [horizons of focus](<horizons of focus.md>),
 

@@ -29,4 +29,27 @@
     - My style of write: giáo sư
     - Wisdom specialist
 - [[Daily Worthy Stories]] A flash new awareness that my and other people hidden agenda hinder the process of communication and create conflict. - Tien and Duy
+- I noticed that the whole philosophy of my service for the world is helping people to live a higher life through a self-realization process. [[My Life Pupose]]
+    - Instead of teaching them the best way based on my limiting information, I help them to discover about themselves, learn to handle their own inner stuffs, and create their own way of executing based on some fundamental principles. [[fundamental principles]]
+        - These principles are about
+            - The characteristics of
+                - consciousness
+                    - free-will
+                    - focus
+                - mind
+                    - rendering
+                    - processing/ creating
+                - spiritual heart
+                    - emotions/ energy
+                - and physical body
+            - Learning styles
+                - ways of process information
+                - ways of learning
+                - ways of thinking [[level of thinking]]
+                    - convergent/ divergent
+                    - abstract/ concrete
+            - [[horizons of focus]]
+            - the relationship between consciousness and object of consciousness
+- [[focus]] [[🌲Top-down Processing]] By defining my purpose and my intention, I can focus my intention to impact other people deeply, awake them, create a shock in their awareness, so that from that shock, they awake.
+- Care is extremely important. Before helping other people to become better, showing that I care for them and accept them unconditionally is the most important thing. If they don't feel this, they will not trust me and let me come into their life. [[Cultivates trust and safety]]
 - 
