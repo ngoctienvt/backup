@@ -21,4 +21,10 @@
         - identification and disidentification
             - being and having
         - means goals and end goals
-- 
+- [Informative Professional Blogger](<Informative Professional Blogger.md>)
+    - The purpose of become a blogger is to
+        - share my understanding or wisdom
+        - deepen my understanding through writing process
+        - inspire other people to live in a higher way
+    - My style of write: giáo sư
+    - 
