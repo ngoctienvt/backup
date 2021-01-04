@@ -6,3 +6,6 @@
 ## [January 3rd, 2021](<January 3rd, 2021.md>)
 - [Productive Spiritual Being](<Productive Spiritual Being.md>)
 
+## [January 4th, 2021](<January 4th, 2021.md>)
+- I started to learn to truly appreciate and feel grateful about everything, just because they are giving me the experiences, that's enough. [unselective gratitude](<unselective gratitude.md>) [Productive Spiritual Being](<Productive Spiritual Being.md>).
+

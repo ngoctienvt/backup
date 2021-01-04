@@ -6,6 +6,9 @@
 ## [Effortless Growth](<Effortless Growth.md>)
 - [unselective gratitude](<unselective gratitude.md>)
 
+## [January 4th, 2021](<January 4th, 2021.md>)
+- I started to learn to truly appreciate and feel grateful about everything, just because they are giving me the experiences, that's enough. [unselective gratitude](<unselective gratitude.md>)
+
 ## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 - [unselective gratitude](<unselective gratitude.md>)
 

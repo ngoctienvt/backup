@@ -1,0 +1,12 @@
+- I started to learn to truly appreciate and feel grateful about everything, just because they are giving me the experiences, that's enough. [unselective gratitude](<unselective gratitude.md>) [Productive Spiritual Being](<Productive Spiritual Being.md>). 
+    - It's not easy but it's worth it, because there are many external things that I still refuse to accept like I still want to control how things should be do, and this is one of the main reason make me suffer. 
+        - It's about letting go of HOW things should be do
+        - Accepting everyone has their own process of development and current stage
+        - Recognizing that my personal needs is not logical 
+- I also notice that I'm not have my own learning process. [🌱My Learning Process](<🌱My Learning Process.md>)
+    - If I have someone guide me, I can simply follow and trust their lead.
+    - If I have to learn by my own, I will tend to think too much before actually touch the things. Sometimes it's helpful, sometimes it's not. And most of the time it's not efficient.
+    - I want to have a learning process that customized based on my strengths, cover my weaknesses, and suitable for most of the things I want to learn.
+        - The end goal is having a personal effective and efficient learning process.
+- We may all have the same end goals, but we will never have the same prefer and suitable way to reach the end goal. #[my quotes](<my quotes.md>)
+- 
