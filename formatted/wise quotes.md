@@ -12,3 +12,6 @@
 ## [Session 3 - The mind, part 1](<Session 3 - The mind, part 1.md>)
 - "When a thing can no longer offend you, it ceases to exist in the old way." #[wise quotes](<wise quotes.md>)
 
+## [🎬Courses - Super Brain - Jim Kwik](<🎬Courses - Super Brain - Jim Kwik.md>)
+- There is no magic pill, but there is magic process - Jim Kwik [wise quotes](<wise quotes.md>)
+

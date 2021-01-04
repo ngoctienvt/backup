@@ -1,0 +1,2 @@
+- There is no magic pill, but there is magic process - Jim Kwik [wise quotes](<wise quotes.md>)
+- 
