@@ -10,9 +10,10 @@
             - [My Training Courses](<My Training Courses.md>)
     - ### System
         - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
-        - [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
+        - [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
             - [Area of Focus](<Area of Focus.md>)
             - [Projects MOC](<Projects MOC.md>)
+            - [Creative Visualization technique](<Creative Visualization technique.md>)
 - ### Creation - Evergreen notes
     - [🧭Writing Topics](<🧭Writing Topics.md>)
     - [Evergreen notes](<Evergreen notes.md>)

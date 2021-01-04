@@ -10,7 +10,7 @@
         - {{[[TODO]]}} Reading Coach the person, not the problem
 - ## Projects [[Active]]
     - ### Small projects
-        - Building [[🧭Productivity System MOC ]]
+        - Building [[🧭Productivity System MOC]]
             - {{[[TODO]]}} Developing [[🌱Workflow ]]
                 - {{[[TODO]]}} Developing Goal, Task and Project management system in Roam Research
                 - {{[[TODO]]}} Merging daily workflow with GTD and PKDS

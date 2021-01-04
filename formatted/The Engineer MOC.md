@@ -30,6 +30,6 @@
 
 - [ ] Work on [The Engineer MOC](<The Engineer MOC.md>)
 
-## [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
+## [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 - [The Engineer MOC](<The Engineer MOC.md>)
 

@@ -6,3 +6,6 @@
 ## [🎬Courses - Be Extraordinary - Mindvalley](<🎬Courses - Be Extraordinary - Mindvalley.md>)
 - [The power of clarity](<The power of clarity.md>) [Creative Visualization technique](<Creative Visualization technique.md>)
 
+## [🏡Home Maps](<🏡Home Maps.md>)
+- [Creative Visualization technique](<Creative Visualization technique.md>)
+

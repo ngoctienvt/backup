@@ -10,7 +10,7 @@
         - [ ] Reading Coach the person, not the problem
 - ## Projects [Active](<Active.md>)
     - ### Small projects
-        - Building [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
+        - Building [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
             - [ ] Developing [🌱Workflow ](<🌱Workflow .md>)
                 - [ ] Developing Goal, Task and Project management system in Roam Research
                 - [ ] Merging daily workflow with GTD and PKDS

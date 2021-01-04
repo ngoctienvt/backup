@@ -10,9 +10,10 @@
             - [[My Training Courses]]
     - ### System
         - [[🌱PKDS - Personal Knowledge Development System]]
-        - [[🧭Productivity System MOC ]]
+        - [[🧭Productivity System MOC]]
             - [[Area of Focus]]
             - [[Projects MOC]]
+            - [[Creative Visualization technique]]
 - ### Creation - Evergreen notes
     - [[🧭Writing Topics]]
     - [[Evergreen notes]]

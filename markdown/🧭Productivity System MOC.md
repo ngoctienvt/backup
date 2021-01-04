@@ -1,0 +1,13 @@
+- # Resources
+- 
+- # Outline
+    - ### Digital Fluency
+    - ### Work Management
+        - [[The Pilot MOC]] - Ensure doing the right things
+            - [[🌱My End Goals]]
+            - [[Loops Managing]]
+        - [[🌱The Plane ]] - Doing
+            - [[🌱Workflow ]]
+        - [[The Engineer MOC]] - Ensure doing the things right
+            - [[🌱My Learning Process]]
+                - ### [[🌱PKDS - Personal Knowledge Development System]]

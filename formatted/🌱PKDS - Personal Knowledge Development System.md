@@ -56,6 +56,6 @@
 ## [🏡Home Maps](<🏡Home Maps.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
-## [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
+## [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 - ### [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 

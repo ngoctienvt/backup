@@ -54,6 +54,6 @@
 ## [November 24th, 2020](<November 24th, 2020.md>)
 - There are few things that determine how deep I live this life are [E: How deep I live my life?](<E: How deep I live my life?.md>) [The Pilot MOC](<The Pilot MOC.md>)
 
-## [🧭Productivity System MOC ](<🧭Productivity System MOC .md>)
+## [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 - [The Pilot MOC](<The Pilot MOC.md>)
 
