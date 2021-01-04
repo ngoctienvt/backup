@@ -12,3 +12,6 @@
 ## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 - [unselective gratitude](<unselective gratitude.md>)
 
+## [📚Books - Atomic Habits](<📚Books - Atomic Habits.md>)
+- The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it. [unselective gratitude](<unselective gratitude.md>)
+

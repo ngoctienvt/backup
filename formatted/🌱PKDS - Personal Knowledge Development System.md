@@ -50,6 +50,9 @@
 
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
+## [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
+- [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
+
 ## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 

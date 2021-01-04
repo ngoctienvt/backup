@@ -1,0 +1,34 @@
+- The structure of a life navigation map will roughly like this [[horizons of focus]]
+    - Life End Goals - the polestar that will direct our intention
+    - Who we need to become to able to complete our life end goals?
+    - Detail description of all of the characteristics of Who we need to become
+        - general context
+        - specific context
+    - The system or process we need to keep us forward Who we need to become
+        - Growth system
+            - Emotional
+            - Intellectual [[Horizons of Mastery]]
+                - [[Horizons of understanding]]
+                - Knowledge
+                    - [[🌱PKDS - Personal Knowledge Development System]]
+                        - Learning styles
+                - Skills
+            - Physical
+            - Spiritual
+        - Daily Workflow
+        - State of being
+    - Techniques
+        - [[Creative Visualization technique]]
+        - Meditation
+        - The boardroom
+        - Journaling
+        - Note-taking
+        - Deliberate practice
+    - The baby step we need to execute to bring us to Who we need to become
+- The challenges
+    - Personal needs
+    - Identification
+    - Hidden agenda
+    - Blind spots
+- How?
+    - 

@@ -1,0 +1,50 @@
+- Raw notes
+- ---
+- Chapter 1
+    - “the aggregation of marginal gains,” which was the philosophy of searching for a tiny margin of improvement in everything you do.
+        - if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.”
+    - Habits are the compound interest of self-improvement. 
+        - The same way that money multiplies through compound interest, the effects of your habits multiply as you repeat them. They seem to make little difference on any given day and yet the impact they deliver over the months and years can be enormous.
+        - Your outcomes are a lagging measure of your habits. 
+            - Your net worth is a lagging measure of your financial habits. Your weight is a lagging measure of your eating habits. Your knowledge is a lagging measure of your learning habits. Your clutter is a lagging measure of your cleaning habits. You get what you repeat.
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FXmTfQvG-xd.png?alt=media&token=82fe81e9-569e-4a06-9a7a-815ee53771ee)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F71JHOfbGSZ.png?alt=media&token=deac618d-b021-475b-8be4-5732dd95cac9)
+    - What’s the difference between systems and goals? 
+        - Goals are about the results you want to achieve. 
+        - Systems are about the processes that lead to those results. 
+            - If you’re a coach, your goal might be to win a championship. Your system is the way you recruit players, manage your assistant coaches, and conduct practice. 
+            - If you’re an entrepreneur, your goal might be to build a milliondollar business. Your system is how you test product ideas, hire employees, and run marketing campaigns. 
+            - If you’re a musician, your goal might be to play a new piece. Your system is how often you practice, how you break down and tackle difficult measures, and your method for receiving feedback from your instructor.
+        - Goals are good for setting a direction, but systems are best for making progress.
+- Chapter 2 - How your habits shape your identity
+    - Changing our habits is challenging for two reasons: 
+        - (1) we try to change the wrong thing and 
+        - (2) we try to change our habits in the wrong way.
+    - Three layers of behavior change
+        - The first layer is changing your outcomes. 
+            - This level is concerned with changing your results: losing weight, publishing a book, winning a championship. Most of the goals you set are associated with this level of change. 
+        - The second layer is changing your process.
+            - This level is concerned with changing your habits and systems: implementing a new routine at the gym, decluttering your desk for better workflow, developing a meditation practice. Most of the habits you build are associated with this level. 
+        - **The third and deepest layer is changing your identity. **
+            - This level is concerned with changing your beliefs: your worldview, your self-image, your judgments about yourself and others. Most of the beliefs, assumptions, and biases you hold are associated with this level.
+        - Outcomes are about what you get. Processes are about what you do. Identity is about what you believe.
+        - The problem is the direction of change.
+            - Imagine two people resisting a cigarette. 
+                - When offered a smoke, the first person says, “No thanks. I’m trying to quit.” It sounds like a reasonable response, but this person still believes they are a smoker who is trying to be something else. They are hoping their behavior will change while carrying around the same beliefs. 
+                - The second person declines by saying, “No thanks. I’m not a smoker.” It’s a small difference, but this statement signals a shift in identity. Smoking was part of their former life, not their current one. They no longer identify as someone who smokes.
+        - There are a set of beliefs and assumptions that shape the system, an identity behind the habits. 
+            - Behavior that is incongruent with the self will not last.
+            - The more pride you have in a particular aspect of your identity, the more motivated you will be to maintain the habits associated with it. [[unselective gratitude]]
+    - THE TWO-STEP PROCESS TO CHANGING YOUR IDENTITY
+        - Your identity is literally your “repeated beingness.”
+        - The process of building habits is actually the process of becoming yourself. 
+            - This is a gradual evolution. We do not change by snapping our fingers and deciding to be someone entirely new. We change bit by bit, day by day, habit by habit. We are continually undergoing microevolutions of the self.
+            - The most practical way to change who you are is to change what you do. 
+                - Each time you write a page, you are a writer. 
+                - Each time you practice the violin, you are a musician. 
+                - Each time you start a workout, you are an athlete. 
+                - Each time you encourage your employees, you are a leader.
+        - It is a simple two-step process: 
+            - 1. Decide the type of person you want to be. 
+            - 2. Prove it to yourself with small wins.
+                - It’s important to let your values, principles, and identity drive the loop rather than your results.

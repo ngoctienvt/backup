@@ -55,6 +55,9 @@
 ## [point of view](<point of view.md>)
 - point of view is the level or the direction of [horizons of focus](<horizons of focus.md>)
 
+## [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
+- The structure of a life navigation map will roughly like this [horizons of focus](<horizons of focus.md>)
+
 ## [🌱Workflow ](<🌱Workflow .md>)
 - [horizons of focus](<horizons of focus.md>)
 

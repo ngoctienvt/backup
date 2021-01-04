@@ -17,7 +17,7 @@
     - Visualize more
     - Clarity more
     - Embrace more new identity / Let go the inner disturbances
-- The process to connect our current self and the end goals [end goal](<end goal.md>) [life navigation map](<life navigation map.md>)
+- The process to connect our current self and the end goals [end goal](<end goal.md>) [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
     - Identify clearly the life end goals
     - Identify what we need to complete the end goals
     - Identify who we need to become to able to complete the above conditions
@@ -36,7 +36,7 @@
         - focus on the end goals, 
         - embracing the new identity, letting go the resistance or inner stuffs
         - and always take the needed steps on daily basis
-- [life navigation map](<life navigation map.md>)
+- [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
     - The reason why we need to break down the [end goal](<end goal.md>) is because it's hard to connect ourselves to something that are too big and not clear.
         - By breaking down, we break it to small parts so that we can easier to visualize and embrace them in context.
 - The teaching of Vishen is pretty clear and straightforward. It really helps me to clarity the how and what's happen, and how to bring my best self and best intention to the world. Though I will take time to create my own system and my own teachings, I feel really grateful for all the things that I learned and that happened to me.
@@ -45,7 +45,7 @@
 - I know that the course I want to teach next seems to big and I'm just on a beginner stage. But the direction is pretty clear for me, and all I need is to practice and clarify more, while let my own system emerge. This will be a life-changing course that I could teach based on my own life. I will learn to become much more truthful, authentic and vulnerable while creating this course. [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
     - My course will emphasize on self-lessness and growth instead of personal needs, so whatever we will want to do or achieve will for the sake of a meaningful end goal. 
 - I'm not so sure why but I love [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) so much that I want to overcome every challenge between us, so that we can be a happy couple that go through this life time together. We will share joy, happiness, challenges, and enjoy the journey together.
-- [life navigation map](<life navigation map.md>) the end goal and where we are now tend to be have a big gap. How we will meet our end goal is unlimited ways and we never know, but we can always know what we could do to achieve the end goal. And we can create some nearer target to reach the end goal. 
+- [🌱Life Navigation Map](<🌱Life Navigation Map.md>) the end goal and where we are now tend to be have a big gap. How we will meet our end goal is unlimited ways and we never know, but we can always know what we could do to achieve the end goal. And we can create some nearer target to reach the end goal. 
     - As long as these directions are clear and ensure that we on the right track. 
     - Then along the way, we will reflect sometimes and consider to change the focus or the how later.
 - I felt that I have a fear that my house will be rob and insecure. It's making me feel that the world could be a dangerous place to live with. But through the meditation, I noticed that we are all here to learn, and other people need to heal themselves, so that they can act with integrity. And I put my trust to bring the peace, heal, and forgiveness to the space around my home. I wish that everyone do the lower things could listen to their inner wisdom and live a higher life. [insecure](<insecure.md>)

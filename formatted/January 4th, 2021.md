@@ -9,4 +9,16 @@
     - I want to have a learning process that customized based on my strengths, cover my weaknesses, and suitable for most of the things I want to learn.
         - The end goal is having a personal effective and efficient learning process.
 - We may all have the same end goals, but we will never have the same prefer and suitable way to reach the end goal. #[my quotes](<my quotes.md>)
+- [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
+    - My view of Life Navigation Map is as a whole being, the breakdown is needed for clarity, but at the end, it's about BECOME ONE.
+- [📚Books - Atomic Habits](<📚Books - Atomic Habits.md>)
+- [training concepts](<training concepts.md>)
+    - Some of important concepts that I need to help students to understand are
+        - compound interests
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F14Kezbmdx7.png?alt=media&token=a2d9f59e-6fa0-47be-b0b5-6dfc79cb2c71)
+            - outcomes are always delayed - lagging
+            - This is about helping people to see life as a process rather than one-night success or one-night failure
+        - identification and disidentification
+            - being and having
+        - means goals and end goals
 - 
