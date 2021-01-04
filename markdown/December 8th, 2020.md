@@ -60,7 +60,7 @@
             - What they can't control?
         - Practicing to shift from what they can't to what they can
         - Review/ Lesson and next step
-- My [[spiritual practices]] now is about reducing my sense of self to attach only with my awareness and unattach with my thoughts, my feelings, and my body. [[identify with my awareness]] [[unattachment centering]]
+- My [[spiritual practices]] now is about reducing my sense of self to attach only with my awareness and unattach with my thoughts, my feelings, and my body. [[identify with my awareness]] [[🌱Unshakable Centering]]
     - By doing this, I could less control the reality, and just be myself. 
     - There will be less thing I have to protect with, but let go instead.
     - I could see the reality as it is easier, so that I could serve it better. 

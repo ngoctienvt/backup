@@ -16,4 +16,4 @@
         - The desire for sharing unconditional happiness with other people
 - I noticed that I'm developing myself in the direction that's taking care of person important with me. It's not my personal needs, it's just that in this journey on earth, there are limited people I can take care with my current ability. And I want to take care them. [My Life Polestar](<My Life Polestar.md>)
     - [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>) is the person that I want to take care. I'm not totally know why, but I just feel that we have certain special connection, but in the past, I love her because my own needs. But now I just want to take care, support and go through this life together with her. Her happiness is my happiness.
-- [unattachment centering](<unattachment centering.md>) is learning to keep the inner environments clean and clear.
+- [🌱Unshakable Centering](<🌱Unshakable Centering.md>) is learning to keep the inner environments clean and clear.

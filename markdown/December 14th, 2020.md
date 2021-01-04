@@ -18,4 +18,4 @@ If not, I will not have clarity in my head but rather keep the fog remain. [[exe
         - Taking note of key ideas / insights / knowledge
         - Formulate tag and group them with tag
         - Synthesize what collected to form own knowledge
-- From interaction with other people, I noticed that there are many things that I'm still have attachment with, and it's influence my ways of interact with new things in life. I feel that's it's better to always keep myself empty and let the moment do itself, if it's require certain things from me actively, then it's my time to express. If not, it's better to merge with the moment and dance with it naturally. [[unattachment centering]]
+- From interaction with other people, I noticed that there are many things that I'm still have attachment with, and it's influence my ways of interact with new things in life. I feel that's it's better to always keep myself empty and let the moment do itself, if it's require certain things from me actively, then it's my time to express. If not, it's better to merge with the moment and dance with it naturally. [[🌱Unshakable Centering]]

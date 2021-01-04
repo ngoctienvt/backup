@@ -1,5 +1,5 @@
 - My focus now will be about my [[coaching skills]]. 
-    - The skill will be focus on is [[unattachment centering]], so that I could feel comfortable with accepting the perfect people that in front of me. 
+    - The skill will be focus on is [[🌱Unshakable Centering]], so that I could feel comfortable with accepting the perfect people that in front of me. 
     - What I meant [[perfect]] here is not they are perfect as how I want so that I feel good and not feel disturbed inside. [[perfect]] here means that they are the perfect result of their past experiences, of all the forces that created the universe and they are perfect inside.
     - So learning to enjoy the moment in front of me without the [[personal needs]] to change it so that it will be make me feel good is the most important thing to develop my [[Maintains Presence]]. 
 

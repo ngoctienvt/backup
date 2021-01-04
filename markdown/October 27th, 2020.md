@@ -17,9 +17,9 @@ The only thing that will never change and will never lose is me - my witness con
                         - for my mind to support its memory and extract memory tasks
                         - for myself to work with clear instead of cluster information, with true instead of making information from my mind
             - [[contextual usages]]
-    - learning to [[unattachment centering]]
+    - learning to [[🌱Unshakable Centering]]
 - When meditation, I noticed that there is an important competency that my soul need to develop. It is ability to withdraw all of my attachment or connection with things that are not me. And I can connect with them as I want, not as they caught my attention. The name for this competency need to be display the capacity to fully unattached and ability to connect as I want.  [[trueself competency]]
-    - For the first capacity, it would be somehow about the state that I'm able to fully come back to myself. So it would be something related to the ability to centering. [[unattachment centering]] [[unattachment centering]] would be the temporary name for this competency.
+    - For the first capacity, it would be somehow about the state that I'm able to fully come back to myself. So it would be something related to the ability to centering. [[🌱Unshakable Centering]] [[🌱Unshakable Centering]] would be the temporary name for this competency.
     - The second part is about ability to connect as a choice, not as it caught my awareness. This is the opposite of [[distraction]], this is about ability to choose the point of focus. [[intentional focus]] would be the temporary name for this.
 - The path to come back to [[trueself]] is not easy because of all the clustering thoughts, emotions, and the identification with these things. So even though ultimately, it's about clearing these to reveal the trueself, the process will need to be start with many layers that the self is hangout with and comeback slowly by learning to detach with them and let go of them. [[being coaching's metaphor]]
     - Just like then sun and its relationship with sunlight, the sunlight is hangout on the earth, and in order to comeback to the sun, it will need to learn to leave the earth and find its way back slowly. 

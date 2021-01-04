@@ -20,7 +20,7 @@
         - the end goal - meaningful goal that focus on coaching the person instead of coaching the problems - the focus is person
         - focus on now and closing the gap
     - What would be helpful to become the core principles for my [[human development process]]
-        - [[unattachment centering]] - I'm the one who doing the work
+        - [[🌱Unshakable Centering]] - I'm the one who doing the work
         - progressive approach - focus on now and trust the process
             - process-oriented
         - universal process - [[truth compass]]

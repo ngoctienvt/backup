@@ -1,5 +1,5 @@
 - [conscientious dedication](<conscientious dedication.md>) - the competency to focus on the process to try one's best
-- [unattachment centering](<unattachment centering.md>) - the competency to focus all of awareness to the trueself and unattach with other external things
+- [🌱Unshakable Centering](<🌱Unshakable Centering.md>) - the competency to focus all of awareness to the trueself and unattach with other external things
 - [intentional focus](<intentional focus.md>) - the competency to choose the focus as the trueself want instead of being distracted
 
 # Backlinks

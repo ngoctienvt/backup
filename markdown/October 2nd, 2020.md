@@ -1,5 +1,5 @@
 - Last night I noticed that what I really means by [[true love]] is that I connect with the soul of my soulmate. Two consciousness connects to each other and I share to them my inner energy that I have. 
-    - I don't let my body, my mind, my urge controlling me, and take the right to fully manage them so that I won't need anything from her. [[unattachment centering]]
+    - I don't let my body, my mind, my urge controlling me, and take the right to fully manage them so that I won't need anything from her. [[🌱Unshakable Centering]]
     - I start to establish a connection between myself and her consciousness instead of her body, her behavior, her mind. [[soul connection]]
     - I maintain that connection so that we can experience each other soul and go deep to really understand each soul, instead just the things that the souls have [[deep connection]] and share the inner beauty that we got through spiritual practices. [[sharing]]
     - So from that deep connection, we have the full power to manage our lower-self and if we want to have more connections through our body, this is just a way that we experience things together while maintain that [[deep connection]]

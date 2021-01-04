@@ -38,6 +38,6 @@ let things be and raise it up naturally without any attachments. [living from th
 ## [interests](<interests.md>)
 - relationship - [true love](<true love.md>) [deep connection](<deep connection.md>) [unattachment](<unattachment.md>)
 
-## [unattachment centering](<unattachment centering.md>)
+## [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 - comfortable with [unattachment](<unattachment.md>)
 

@@ -1,6 +1,6 @@
 - My highest-looping process goal is soul evolution or generating higher-self every moment.
 - Current [end goal](<end goal.md>)
-    - I want to developing a way of living to nurture [unattachment centering](<unattachment centering.md>) to be able to be myself.
+    - I want to developing a way of living to nurture [🌱Unshakable Centering](<🌱Unshakable Centering.md>) to be able to be myself.
         - I want to developing a [personal workflow](<personal workflow.md>) or daily activities that support me to become better in a natural way in order to be the one who live my own life, instead of drowning and let my mind control
     - I want to developing a system and process for higher thinking and wisdom development, so I could develop myself sustainable.
         - I want to develop myself in a sustainable way so that I will not lost myself and suffer, but rather evolve from the journey on earth.

@@ -3,7 +3,7 @@
 - Today I will continue to focus on learn Effortless Output with Roam.
 - I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [[coaching goals]] [[the relationship between end goals and methods]]
     - Choose the [[end goal]] wisely
-        - For instance, make becoming a good [[spiritual practitioner]] at end goals. [[unattachment centering]]
+        - For instance, make becoming a good [[spiritual practitioner]] at end goals. [[🌱Unshakable Centering]]
             - Other things are methods, tests, feedbacks for that goal
             - Like becoming a lover, a parent, a friend, a son... as a [[road of trials]] for you to become a greater being
             - They are the [[by-product]] when you become a [[greater being]]. And as long as I focus myself to this end goals. I will eventually become better and will never be lost or wrong again, only better over time.
@@ -22,7 +22,7 @@
         - Step 4: Resurface [[compressed understanding]]
 - New awareness:: I noticed that I'm learning to keep myself away from grab or involve with my thoughts, emotions and my samskaras. 
 
-I'm on the process to learn to lean myself away from my inner stuff and my inner voice. I let them do what they needed even though without my involvement. [[unattachment centering]]
+I'm on the process to learn to lean myself away from my inner stuff and my inner voice. I let them do what they needed even though without my involvement. [[🌱Unshakable Centering]]
 - I also learn to create my own [[personal knowledge development]] system in a way that it fully makes sense to me.
 - 
 - 

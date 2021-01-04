@@ -1,7 +1,7 @@
 - helpful manner is a manner that focuses on raising the moments or the person in front of me in an [efficient](<efficient.md>) way instead of using them to satisfy my [personal needs](<personal needs.md>) or releasing my unhandled samskaras.
 - There are two parts of a helpful manner
     - One is I need to evolve myself enough to not let the samskaras controlled me [soul evolution](<soul evolution.md>)
-        - [unattachment centering](<unattachment centering.md>) to hold myself above any samskaras so that I will not react but release instead
+        - [🌱Unshakable Centering](<🌱Unshakable Centering.md>) to hold myself above any samskaras so that I will not react but release instead
     - Second is after this evolve and learning process, I will handle the situation with a [support attitude](<support attitude.md>)
         - [generative language](<generative language.md>) to shift the tendency to resist and cling to learn in a much enjoyable, meaningful way
         - [unattachment](<unattachment.md>) with any personal agenda, personal needs and only work to unconditionally serve the reality
@@ -39,7 +39,7 @@ compassion and caring for other people in an [helpful manner](<helpful manner.md
 I want to develop the combination between a [tough love](<tough love.md>) and [compassion](<compassion.md>) in a way that they merge with each other so I can coach with a tough love but let my compassion inspire the way. [helpful manner](<helpful manner.md>)
 
 ## [October 8th, 2020](<October 8th, 2020.md>)
-I also noticed I still have too much [attachment](<attachment.md>) for materials things. This makes me judge and felt uncomfortable with other people. Instead of [unattachment centering](<unattachment centering.md>) and resolving things on a [helpful manner](<helpful manner.md>),
+I also noticed I still have too much [attachment](<attachment.md>) for materials things. This makes me judge and felt uncomfortable with other people. Instead of [🌱Unshakable Centering](<🌱Unshakable Centering.md>) and resolving things on a [helpful manner](<helpful manner.md>),
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - I realized that I still not used to [acknowledge](<acknowledge.md>) and [honor](<honor.md>) the [effort](<effort.md>) of other people. I still have a tendency to focus on what's wrong instead of acknowledging, [abundance appreciation](<abundance appreciation.md>), and focus on what they did well.  [acknowledgment](<acknowledgment.md>) [helpful manner](<helpful manner.md>)

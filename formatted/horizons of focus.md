@@ -20,7 +20,7 @@
 - Personal point of focus
     - the bridge between shakti, consciousness, and the world by cleaning the blockages
         - [🌱Natural Progression](<🌱Natural Progression.md>)
-    - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>) are three quality that is my [horizons of focus](<horizons of focus.md>) currently.  
+    - [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [🌱Unshakable Centering](<🌱Unshakable Centering.md>) are three quality that is my [horizons of focus](<horizons of focus.md>) currently.  
 
 # Backlinks
 ## [Articles - A complete guide to tagging for personal knowledge management](<Articles - A complete guide to tagging for personal knowledge management.md>)
@@ -50,7 +50,7 @@
 
 - [purpose](<purpose.md>) is a high level [horizons of focus](<horizons of focus.md>)
 
-- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [unattachment centering](<unattachment centering.md>) are three quality that is my [horizons of focus](<horizons of focus.md>)
+- [humility](<humility.md>), [true love](<true love.md>). [inner clarity](<inner clarity.md>) and [🌱Unshakable Centering](<🌱Unshakable Centering.md>) are three quality that is my [horizons of focus](<horizons of focus.md>)
 
 ## [level of thinking](<level of thinking.md>)
 - [horizons of focus](<horizons of focus.md>)

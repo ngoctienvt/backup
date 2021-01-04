@@ -4,7 +4,7 @@
             - Always feeling fulfill, love, excitement, trust inside myself
                 - [cleaning the inner blockages](<cleaning the inner blockages.md>)
             - Able to embrace every single experience that the unfolding life giving to me
-                - [unattachment centering](<unattachment centering.md>)
+                - [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
                 - [abundance appreciation](<abundance appreciation.md>) for the fact that able to experience is enough
             - Learning and serving the reality
                 - value and service oriented attitude

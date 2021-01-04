@@ -3,7 +3,7 @@
     - Always feeling fulfill, love, excitement, trust inside myself [[self-fulfilled]]
         - [[cleaning the inner blockages]]
     - Able to embrace every single experience that the unfolding life giving to me [[integration]]
-        - [[unattachment centering]]
+        - [[🌱Unshakable Centering]]
         - [[abundance appreciation]] for the fact that able to experience is enough
     - Consistent learning and serving the reality impersonally
         - value and service oriented attitude

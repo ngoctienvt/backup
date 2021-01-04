@@ -15,7 +15,7 @@
     - Meaning
         - Sharing what I learnt for people around me, and see their attitude about life changes over time
 - My meditation practices
-    - [[unattachment centering]] letting go
+    - [[🌱Unshakable Centering]] letting go
     - [[unselective gratitude]] nurture inner inspiration and gratefulness
     - [[undistracted intention]] direct my attention into what I truly want, not what my mind want
         - [[Segment Intending]]

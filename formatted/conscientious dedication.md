@@ -6,6 +6,6 @@
 ## [trueself competency](<trueself competency.md>)
 - [conscientious dedication](<conscientious dedication.md>)
 
-## [unattachment centering](<unattachment centering.md>)
+## [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 - [conscientious dedication](<conscientious dedication.md>)
 

@@ -3,7 +3,7 @@
     - concrete thinking
     - letting go
     - take note the 3rd video
-- It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [Who am I](<Who am I.md>) [unattachment centering](<unattachment centering.md>)
+- It feels much more central when I'm keep reminding myself that's I'm living inside a human body that's living on a vast universe. [Who am I](<Who am I.md>) [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
     - This release me to the tiny stuff that I keep inside myself and nurture my courage and openness to the universe.
     - My personal self is so small comparing to what's possible in this universe.
 - I'm releasing more and more fear and anxiety inside of me now. I'm learning to embrace the world, the other people and learning to drop myself into the unlimited ocean of universe. 

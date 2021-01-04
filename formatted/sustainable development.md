@@ -13,7 +13,7 @@
 - [coaching reflection](<coaching reflection.md>) Today when I coach for [@Nguyễn Thúy Hằng](<@Nguyễn Thúy Hằng.md>), I felt so much relief and have more trust for myself, because I can see the result of my coaching that truly satisfy my desire for [sustainable development](<sustainable development.md>)
 
 ## [October 30th, 2020](<October 30th, 2020.md>)
-- I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy [unattachment centering](<unattachment centering.md>) over anything else. It's hard, it's challenging, and it requires me to use my own will power to keep myself detach with my mind and my emotions, but I can se that it's a highest thing that I can do for myself, and there is no cost, no time, no loss, just benefits, sustainable benefits. [sustainable development](<sustainable development.md>)
+- I felt quite hot when meditation but actually I can felt that I become better over time when I'm keep relax and release. I also noticed that at least I want to learn to enjoy [🌱Unshakable Centering](<🌱Unshakable Centering.md>) over anything else. It's hard, it's challenging, and it requires me to use my own will power to keep myself detach with my mind and my emotions, but I can se that it's a highest thing that I can do for myself, and there is no cost, no time, no loss, just benefits, sustainable benefits. [sustainable development](<sustainable development.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - Support long-term and accumulated interest development [sustainable development](<sustainable development.md>)

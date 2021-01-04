@@ -22,7 +22,7 @@
         - A specification of where graphics should be used and where text would be better.
         - Easy-to-scan formats and templates.
         - The incorporation of research results from many fields and the creation of an ongoing research program to keep the methodology current.
-- I'm on a stage that working on myself fully first. It started to have real results. [[unattachment centering]] is my highest priority at the moment. [[priority]]
+- I'm on a stage that working on myself fully first. It started to have real results. [[🌱Unshakable Centering]] is my highest priority at the moment. [[priority]]
     - coaching
     - spiritual
     - mind-training

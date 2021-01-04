@@ -1,3 +1,3 @@
 - [[conscientious dedication]] - the competency to focus on the process to try one's best
-- [[unattachment centering]] - the competency to focus all of awareness to the trueself and unattach with other external things
+- [[🌱Unshakable Centering]] - the competency to focus all of awareness to the trueself and unattach with other external things
 - [[intentional focus]] - the competency to choose the focus as the trueself want instead of being distracted

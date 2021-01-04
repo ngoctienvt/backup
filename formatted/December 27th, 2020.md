@@ -7,7 +7,7 @@
     - This is really the thing that's based on my higher-self, not based on my lower-self for its short-term pleasure. 
     - There will be desire or want that comes from my higher-self, and this is what I need to follow, not what my lower-self determined. [true desire](<true desire.md>)
         - True desire will not about control the world, but about surrender the inner world, so that we can experience the truth of the world.
-    - Other thing I learned is the fourth chakra [Heart chakra](<Heart chakra.md>) is about letting go of the personal self, just like the lower chakra is letting go the sexual desire or the need for survival. [unattachment centering](<unattachment centering.md>)
+    - Other thing I learned is the fourth chakra [Heart chakra](<Heart chakra.md>) is about letting go of the personal self, just like the lower chakra is letting go the sexual desire or the need for survival. [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
         - It's not about being control by the sexual desire or survival, it's about how to handle them and not be controlled by them, but rather being center and have choices.
         - It's the same for going to the 4th level. It's about not be controlled by the personal needs, but rather being and let the energy freely flow up to serve the reality, serve others instead of serve ourselves.
             - It's about unconditional love, unconditional serving, self-lessness, centering, clarity, about things that greater than us, contribute for the reality/ the world.

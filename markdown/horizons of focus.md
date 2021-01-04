@@ -20,4 +20,4 @@
 - Personal point of focus
     - the bridge between shakti, consciousness, and the world by cleaning the blockages
         - [[🌱Natural Progression]]
-    - [[humility]], [[true love]]. [[inner clarity]] and [[unattachment centering]] are three quality that is my [[horizons of focus]] currently.  
+    - [[humility]], [[true love]]. [[inner clarity]] and [[🌱Unshakable Centering]] are three quality that is my [[horizons of focus]] currently.  

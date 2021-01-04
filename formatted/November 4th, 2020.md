@@ -7,7 +7,7 @@
             - so that the inbox will SHOW what the thoughts truly about, 
             - and how should I tag things intentionally, so that's they will not cluster page?
             - What's the reason for me to tag freely before?
-- I'm on a [transition stage](<transition stage.md>) that shift myself from the imposing structure of social to comeback to [unattachment centering](<unattachment centering.md>) so that I could operate in a way that true harmony with reality, not society.
+- I'm on a [transition stage](<transition stage.md>) that shift myself from the imposing structure of social to comeback to [🌱Unshakable Centering](<🌱Unshakable Centering.md>) so that I could operate in a way that true harmony with reality, not society.
 - [my quotes](<my quotes.md>)
 [true harmony](<true harmony.md>) is the harmony between our true self and reality, not the ego self and society.
 - My [mindset](<mindset.md>) is now from the higher-self and the rest of the lower-self. 

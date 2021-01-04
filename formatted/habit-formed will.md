@@ -4,7 +4,7 @@
 - digital distraction  - [habit-formed will](<habit-formed will.md>)
 
 ## [November 1st, 2020](<November 1st, 2020.md>)
-- Meditation is mainly to practice [unattachment centering](<unattachment centering.md>) so that I could present and do my work, instead of letting my samskaras and my [habit-formed will](<habit-formed will.md>)
+- Meditation is mainly to practice [🌱Unshakable Centering](<🌱Unshakable Centering.md>) so that I could present and do my work, instead of letting my samskaras and my [habit-formed will](<habit-formed will.md>)
 
 ## [November 25th, 2020](<November 25th, 2020.md>)
 - Handling [habit-formed will](<habit-formed will.md>)

@@ -11,7 +11,7 @@ where they are]]
             - the power of coaching questions based on how deep we are able to listen
 - 
 - [Maintains Presence](<Maintains Presence.md>)
-    - [unattachment centering](<unattachment centering.md>)
+    - [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 - [Listens Actively](<Listens Actively.md>)
     - [hold the space](<hold the space.md>)
     - [empathetic understanding](<empathetic understanding.md>)

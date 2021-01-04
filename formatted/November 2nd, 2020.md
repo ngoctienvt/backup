@@ -3,7 +3,7 @@
 - Today I will continue to focus on learn Effortless Output with Roam.
 - I noticed that I also have tendency to look things at big picture and have a definitive solution instead of working step by step. [coaching goals](<coaching goals.md>) [the relationship between end goals and methods](<the relationship between end goals and methods.md>)
     - Choose the [end goal](<end goal.md>) wisely
-        - For instance, make becoming a good [spiritual practitioner](<spiritual practitioner.md>) at end goals. [unattachment centering](<unattachment centering.md>)
+        - For instance, make becoming a good [spiritual practitioner](<spiritual practitioner.md>) at end goals. [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
             - Other things are methods, tests, feedbacks for that goal
             - Like becoming a lover, a parent, a friend, a son... as a [road of trials](<road of trials.md>) for you to become a greater being
             - They are the [by-product](<by-product.md>) when you become a [greater being](<greater being.md>). And as long as I focus myself to this end goals. I will eventually become better and will never be lost or wrong again, only better over time.
@@ -22,7 +22,7 @@
         - Step 4: Resurface [compressed understanding](<compressed understanding.md>)
 - **[New awareness](<New awareness.md>):** I noticed that I'm learning to keep myself away from grab or involve with my thoughts, emotions and my samskaras. 
 
-I'm on the process to learn to lean myself away from my inner stuff and my inner voice. I let them do what they needed even though without my involvement. [unattachment centering](<unattachment centering.md>)
+I'm on the process to learn to lean myself away from my inner stuff and my inner voice. I let them do what they needed even though without my involvement. [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 - I also learn to create my own [personal knowledge development](<personal knowledge development.md>) system in a way that it fully makes sense to me.
 - 
 - 
