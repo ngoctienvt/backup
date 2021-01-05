@@ -1,5 +1,5 @@
 - Raw notes
-- ---
+- ~~Raw notes~~
 - Chapter 1
     - “the aggregation of marginal gains,” which was the philosophy of searching for a tiny margin of improvement in everything you do.
         - if you broke down everything you could think of that goes into riding a bike, and then improve it by 1 percent, you will get a significant increase when you put them all together.”
