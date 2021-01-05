@@ -15,5 +15,7 @@
         - I can just follow certain systems or rules that I derive based on my reflection which will support me to go through some complicated process. [[bandwith management]]
             - My bandwith for the moment will be focus on something that’s also important but for the moment only. The rest I will put for the system and rules as much as possible so that they will carry me on track naturally.
     - I learned that split tasks will help me reduce cognitive overload [[bandwith management]]. Juggling multiple things once time is not neccessary if I have choices.
+- I become much freer today due to many new insights and my practices.
+- [[Daily Worthy Stories]] Quế Hương. Release the need to be right. Focus on her.
 - 
 - 
