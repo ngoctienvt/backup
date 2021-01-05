@@ -1,2 +1,5 @@
 - Session 1
-- 
+    - Thiết kế cấu trúc - Instructional Design
+    - Thiết kế giao diện - Learing Experience Design
+        - Hiệu quả
+        - 
