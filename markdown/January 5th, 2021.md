@@ -1,0 +1,12 @@
+- I noticed that I can good at emergence and create ideas, but I'm currently feel struggle to work in a project or top-down way. That's why I feel that it's time for me to have a coach that can support me to work on some top-down goals.
+- My main work for today is 
+    - Work with [[@Dương Thị Huyền]] to clarify how a person navigate through life, what they need - the big picture and start to fill things in
+        - This is the work for create a personal system first, before work on training course
+            - About training, I feel that it would be better to break the big stuff to small workshop first, then train what I feel competent and comfortable to do first.  [[breakdown]]
+                - By fill in the knowledge for my tester, I can always invite them to join a full training course later to sharpen their knowledge and connect the pieces into big picture.
+                - This approach is helpful for me to build competent slowly without feeling drag and stressful, through this way, I can also help myself to have time to build competent on other aspect, while still teach what I good at the same time.
+                - The reason why I struggle to breakdown thing is because I fear that without a top-down point of view, people will easy lost themselves on the steps and what was taught, instead of remember that their way maybe completely different.
+    - Continue to read Atomic Habits to collect knowledge about identity and behavior shift
+    - Learn a session from Super Brain
+- My mind seems to be a little different, instead of simply find a way to solve it, it always wants to see the big picture, because it doesn't want to stop at just resolve the problems in front of it now.
+- 

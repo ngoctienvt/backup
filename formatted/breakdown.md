@@ -1,5 +1,8 @@
 
 # Backlinks
+## [January 5th, 2021](<January 5th, 2021.md>)
+- About training, I feel that it would be better to break the big stuff to small workshop first, then train what I feel competent and comfortable to do first.  [breakdown](<breakdown.md>)
+
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - When developing my [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>), I noticed that [breakdown](<breakdown.md>)
 

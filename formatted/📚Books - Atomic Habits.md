@@ -48,6 +48,50 @@
             - 1. Decide the type of person you want to be. 
             - 2. Prove it to yourself with small wins.
                 - It’s important to let your values, principles, and identity drive the loop rather than your results.
+- Chapter 3 - How to build better habits in 4 simple steps
+    - Thorndike described the learning process by stating, 
+        - “behaviors followed by satisfying consequences tend to be repeated and those that produce unpleasant consequences are less likely to be repeated.”
+    - Habits are mental shortcuts learned from experience. 
+        - In a sense, a habit is just a memory of the steps you previously followed to solve a problem in the past.
+        - Habits reduce cognitive load and free up mental capacity, so you can allocate your attention to other tasks. [benefits of habit](<benefits of habit.md>)
+            - With practice, the useless movements fade away and the useful actions get reinforced.
+    - Habits do not restrict freedom, they create it. 
+        - In fact, the people who don’t have their habits handled are often the ones with the least amount of freedom.
+        - It’s only by making the fundamentals of life easier that you can create the mental space needed for free thinking and creativity.
+        - Building habits in the present allows you to do more of what you want in the future.
+    - The process of building a habit can be divided into four simple steps: cue, craving, response, and reward.
+        - First, there is the cue. The cue triggers your brain to initiate a behavior. It is a bit of information that predicts a reward.
+            - Our prehistoric ancestors were paying attention to cues that signaled the location of primary rewards like food, water, and sex. 
+            - Today, we spend most of our time learning cues that predict secondary rewards like money and fame, power and status, praise and approval, love and friendship, or a sense of personal satisfaction.
+        - Cravings are the second step, and they are the motivational force behind every habit.
+            - What you crave is not the habit itself but the change in state it delivers. 
+                - You do not crave smoking a cigarette, you crave the feeling of relief it provides.
+                - You do not want to turn on the television, you want to be entertained.
+        - The third step is the response. The response is the actual habit you perform, which can take the form of a thought or an action.
+            - Whether a response occurs depends on 
+                - how motivated you are 
+                - and how much friction is associated with the behavior.
+        - Finally, the response delivers a reward. Rewards are the end goal of every habit.
+            - We chase rewards because they serve two purposes: 
+            - (1) they satisfy our craving
+                - the more immediate benefit is that rewards satisfy your craving to eat or to gain status or to win approval. At least for a moment, rewards deliver contentment and relief from craving.
+            - and (2) they teach us.
+                - rewards teach us which actions are worth remembering in the future.
+                - (Page 47). 
+    - We can split these four steps into two phases: 
+        - the problem phase 
+            - The problem phase includes the cue and the craving, and it is when you realize that something needs to change. 
+        - and the solution phase. 
+            - The solution phase includes the response and the reward, and it is when you take action and achieve the change you desire.
+    - THE FOUR LAWS OF BEHAVIOR CHANGE
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FF-OiDl0hCn.png?alt=media&token=fc244a93-6a8b-489e-a165-a8c671b184b3)
+        - Whenever you want to change your behavior, you can simply ask yourself: 
+            - 1. How can I make it obvious? 
+            - 2. How can I make it attractive? 
+            - 3. How can I make it easy? 
+            - 4. How can I make it satisfying?
+-  The 1st law - MAKE IT OBVIOUS
+    - Chapter 4 - The man who doesn't look right
 
 # Backlinks
 ## [January 4th, 2021](<January 4th, 2021.md>)
