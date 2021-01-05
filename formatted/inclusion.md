@@ -6,3 +6,6 @@
 ## [September 23rd, 2020](<September 23rd, 2020.md>)
 - People have the tendency to exclude others, to do things on their own, to not get support, to separate themselves with others. However, life is not about [exclusion](<exclusion.md>), but actually about learn to [inclusion](<inclusion.md>).
 
+## [true love](<true love.md>)
+- 4th Element: Upeksa 捨 (Equanimity) None discriminational love. [inclusion](<inclusion.md>)
+

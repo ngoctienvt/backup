@@ -11,7 +11,11 @@
     - things that related to that person like families, clothes, habits, favorites,...
 - [unattachment supporting](<unattachment supporting.md>)
     - challenging moments
-- 
+- Four Elements of True Love
+    - 1st Element: Maitu 慈 (Goodwill) By loving you, you still retain your freedom.
+    - 2nd Element: Karuna 悲 (Compassion) The capacity to understand the suffering, you are like the doctor, you don't have to suffer, help them not to suffer.
+    - 3rd Element: Mudita 喜 (Sympathetic joy) The joy that is shared by both of you. Be able to offer joy in your relationship.
+    - 4th Element: Upeksa 捨 (Equanimity) None discriminational love. [inclusion](<inclusion.md>)
 
 # Backlinks
 ## [November 27th, 2020](<November 27th, 2020.md>)
