@@ -9,4 +9,11 @@
     - Continue to read Atomic Habits to collect knowledge about identity and behavior shift
     - Learn a session from Super Brain
 - My mind seems to be a little different, instead of simply find a way to solve it, it always wants to see the big picture, because it doesn't want to stop at just resolve the problems in front of it now.
+- What did I learn today
+    - I learned that 80-20 is a very important principle that will help me release myself out of my hidden perfection or not enough needs
+    - I learned that I could do all of the neccessary things behind the scene, this will reduce significantly the requirement to be good at the moment.
+        - I can just follow certain systems or rules that I derive based on my reflection which will support me to go through some complicated process. [[bandwith management]]
+            - My bandwith for the moment will be focus on something that’s also important but for the moment only. The rest I will put for the system and rules as much as possible so that they will carry me on track naturally.
+    - I learned that split tasks will help me reduce cognitive overload [[bandwith management]]. Juggling multiple things once time is not neccessary if I have choices.
+- 
 - 
