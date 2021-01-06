@@ -9,6 +9,9 @@
 ## [January 5th, 2021](<January 5th, 2021.md>)
 - Work with [@Dương Thị Huyền](<@Dương Thị Huyền.md>)
 
+## [January 6th, 2021](<January 6th, 2021.md>)
+- Working with [@Dương Thị Huyền](<@Dương Thị Huyền.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - For [@Dương Thị Huyền](<@Dương Thị Huyền.md>),
 

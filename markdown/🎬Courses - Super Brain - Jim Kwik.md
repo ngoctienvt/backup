@@ -1,2 +1,16 @@
 - There is no magic pill, but there is magic process - Jim Kwik [[wise quotes]]
-- 
+- FAST
+    - F - Forget
+        - 3 things we need to forget
+            - What we know about a subject
+                - A beginner mind - clear the cup of knowledge to open with the experiences
+            - Situational things
+                - What you resist persists 
+                - Temporary put them aside
+            - Your limitations
+    - A - Active
+        - Our superbrain works not by consuming information, but by creating and co-creating it
+        - Learning is not a spectator sport
+    - S - State
+        - Information + Emotion = Long-term memory
+        - With great power comes great 

@@ -1,0 +1,13 @@
+- I feel my [restless](<restless.md>)ness is reduce recently, I can feel much more present and less stress, my inner disturbances is becoming smaller. 
+- Why I want to coach with [@Uông Duy Khánh](<@Uông Duy Khánh.md>) at this period of time? The reason is I feel that there are few things that's quite tough for me to do alone, and I feel hard to focus to do them in an intentional way. It's much easier for having a person to keep me focus and constantly move me forward what I want. 
+    - What I want to deal with is
+        - I want to be able to focus on a limiting top-down approach. I want to feel comfortable with limitation and see limitation as a way for growth. I want to not just go broad, but go deep and transform my own qualities even though it will require certain compression.
+            - I want to have a clear vision and clear system for my own life navigation and growth system. This is the most important top-down project that I want to complete for myself, and it will the fundamental block for the training course.
+        - I want to complete a big project about creating a training course that I really yearn for, and it will not based on me, but based on who I want to support. I want to give them as much as value as possible, and these values are not based on the knowledge, but based on how they ACTUALLY change and transform throughout the course. 
+            - I want them to be able to live totally different in a meaningful and effective way, or at least the direction is very clear for them to just go.
+        - I want to feel comfortable with moments, and handle any moments I interact with in the most harmony way. I want to transcend myself to a whole another level of being and interacting.
+- My today action
+    - Reading a chapter of the heart of laser-focused coaching
+    - Learning Super Brain
+    - Working with [@Dương Thị Huyền](<@Dương Thị Huyền.md>) about the Life Navigation Map next to clarify more things
+    - 
