@@ -490,3 +490,15 @@ when someone else wouldn’t have it.
         - (Page 58). 
         - 
 - ### Chapter 5 - THE ART OF THE QUESTION
+    - BE A REFLECTOR, NOT A PARROT
+        - [[Coaching examples]]
+            - Client: When my boss criticized me in front of the CEO, I was devastated. How could she do that to me after all I’ve done for her?
+                - Coach: When your boss criticized you in front of the CEO, you were devastated and wondered how she could do that after all you’ve done for her. How did you handle it?
+                - A seasoned coach reflects with less precision and includes empathy. Consider this response: “It makes sense that you were deeply upset when your boss threw you under the bus, especially since you go out of your way to help her. What might be helpful based on this?”
+        - Reflection can be thought of as encapsulating the essence , and if possible, the emotion of what your client shared.
+        - [[Benefits of reflection]]
+            - It’s important to establish rapport and trust. Reflection helps your client feel heard and understood. [[Cultivates trust and safety]]
+            - Sometimes the client is surprised that what they said came across the way you reflected it back to them thus opening up discussion opportunities. [[Evokes awareness]]
+            - It lets you and your client know you’re on the same page. [[Coaching partnering]]
+        - When you hear data from your client and reflect it back, you’re sharing your interpretation of the data,
+        - (Page 63). 

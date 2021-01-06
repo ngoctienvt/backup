@@ -8,6 +8,8 @@
 
 - Coach knows how to create and demonstrate a collaborative relationship by providing context for questions and pertinent reflection. [Coaching partnering](<Coaching partnering.md>)
 
+- It lets you and your client know you’re on the same page. [Coaching partnering](<Coaching partnering.md>)
+
 ## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - [Coaching partnering](<Coaching partnering.md>)
 

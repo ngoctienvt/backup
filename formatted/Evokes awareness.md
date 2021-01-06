@@ -8,6 +8,8 @@
 
 - In a masterful coaching session, awareness is created constantly, consistently, and throughout the conversation. [Evokes awareness](<Evokes awareness.md>)
 
+- Sometimes the client is surprised that what they said came across the way you reflected it back to them thus opening up discussion opportunities. [Evokes awareness](<Evokes awareness.md>)
+
 ## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - [Evokes awareness](<Evokes awareness.md>)
 
