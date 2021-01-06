@@ -11,6 +11,12 @@
 
 - [Coaching examples](<Coaching examples.md>)
 
+- [Coaching examples](<Coaching examples.md>)
+
+- [Coaching examples](<Coaching examples.md>)
+
+- [Coaching examples](<Coaching examples.md>)
+
 ## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
 - [Coaching examples](<Coaching examples.md>)
 

@@ -500,5 +500,95 @@ when someone else wouldn’t have it.
             - It’s important to establish rapport and trust. Reflection helps your client feel heard and understood. [[Cultivates trust and safety]]
             - Sometimes the client is surprised that what they said came across the way you reflected it back to them thus opening up discussion opportunities. [[Evokes awareness]]
             - It lets you and your client know you’re on the same page. [[Coaching partnering]]
-        - When you hear data from your client and reflect it back, you’re sharing your interpretation of the data,
-        - (Page 63). 
+        - When you hear data from your client and reflect it back, you’re sharing your interpretation of the data.
+            - If your interpretation isn’t accurate, your client will gladly supply the correct data. 
+            - It’s critical that you, as the coach, own your observation rather than declare it as truth for your client.
+                - Instead of saying, “You sound betrayed by your boss, right?”. 
+                - Own the observation as your interpretation and then check for agreement: “It seems there’s a feeling of being betrayed by your boss. What’s true about that?”
+        - Reflection creates clarity about what’s going on with your client, which is important because you don’t want to: 
+            - Take the wrong coaching path 
+            - Make assumptions or guesses about what’s going on with your client 
+            - Inadvertently create your own agenda
+            - Create a disconnect because your client doesn’t feel heard and understood
+            - (Page 64). 
+        - [[Coaching examples]] reflection
+            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2FeIkdG4tPss.png?alt=media&token=8e8466b5-f7b3-405c-8264-79bcef154810)
+        - Client-centered, empathetic reflection is powerful and is always followed by an open question to allow the client an opportunity to share their thoughts.
+        - 
+    - “NOSEY” CURIOSITY VERSUS COACHING CURIOSITY
+        - “Nosey” curiosity is when you’re asking a question for your benefit, not the client’s.
+            - It is when you’re curious about something the client already knows, so their answer is only for you and doesn’t move the conversation forward.
+        - True coaching curiosity addresses the client’s thoughts and feelings that provide relevant data that distinctly move the conversation forward.
+            - “What was it like for you when you heard that?”
+            - You never need the “back story” — the history or background.
+    - ASK “WHAT” QUESTIONS
+        - A “What” question becomes incredibly powerful when it forces the client to think about something in a new way, rather than tell you something they already know.
+            - “What” questions are open and look toward the future 
+                - (What do you…? What does that mean? What makes this important?), 
+            - Whereas “How” questions usually ask for a description or method 
+                - (How would you…? How is this important?) 
+            - While “Why” questions typically ask for justification 
+                - (Why did you…? Why would you…?).
+                -  Because the typical response to a “Why” question starts with “Because” and goes into the past, it can easily make your client feel defensive.
+            - [[Coaching examples]] 
+                - “Why did you choose this conference?” 
+                    - The response will likely begin with “Because” and will likely sound defensive. The question looks to the past and can sound judgmental. The response might be something like, “Because it seemed important for my career,” which you both already know; it doesn’t elicit any new data.
+                - “How did you choose this conference?”
+                    - The response will likely involve methodology: “I looked at the options and decided it was the only time I could leave my family,” or “I checked out the speakers and decided it would bring a lot of value.” Again, it doesn’t yield new data or move the conversation forward. “How” is better used near the end of a coaching conversation when you want to ascertain the method of how something will be accomplished or executed.
+                - “What do you expect to gain from this conference?” 
+                    - The response will yield relevant data, go into more depth, and generate forward thinking: “I’m hoping to meet people to do my joint venture project, to network and get new clients, and to get new information that will help me become more efficient at work.”
+        - When you question the situation, your client will go deeper into the story. When you question the person, you invite thinking.
+    - ASK OPEN-ENDED QUESTIONS
+        - ask powerful questions that move the conversation forward.
+        - The coach should never have to think. Rather ask open questions that force the client to do the thinking .
+            - Question: Did you think it was important? 
+            - Answer: Yes, somewhat. (or No, not really.) 
+            - Question: What was important to you about that? 
+            - Answer: It reminded me of something that happened a while ago that impacted my life. When I thought about it, I realized exactly what I need to do now with this situation.
+        - Coaches frequently say, “Say more about that,” or “Tell me more.” Both these expressions sound a bit like a command, and more often than not invite irrelevant details that don’t move the conversation forward. 
+            - If you feel compelled to ask for more, it’s far more invitational to ask, “What else can you say about that?”
+    - ADD CONTEXT TO QUESTIONS
+        - When you ask questions during coaching conversations, it’s often important to provide context, otherwise the question can sound like it’s coming from left field, can be perceived as judgmental, or just doesn’t make sense.
+            - While on vacation with a friend, I noticed he was folding a blanket in a strange way. I asked him, “Why are you folding the blanket that way?” 
+                - His reply: “I hate when you ask those kinds of questions!” After attempting to understand what that meant, and not getting a response, I had to let it go . 
+            - Later that evening, while in the midst of a meaningful conversation, he asked, “Marion, what’s your bra size?”
+                -  Totally taken aback, I asked why he would ask me that kind of question at that point in time. He replied, “So that you know what it feels like to get a question with no context.”
+            - If I had said, “I’m intrigued by the way you’re folding that blanket. I’ve never seen anyone do it that way. Where did you learn that?” I likely would have gotten a response.
+        - We have so much going on in our minds that we often don’t provide enough context, then just ask the questions. This is "naked" questions.
+        - Lead by following
+            - Use what the client just said as the lead into your question.
+            - “I had such a hard time with my coworker. She seemed irritated with me because I wouldn’t help her finish her project when I was just trying to get through my own work. Now I worry about having created problems in our relationship,” 
+                - The coach asks, “What do you want to do about it?” as opposed to 
+                    - “Working together every day makes the relationship important. What would you like to do about it? ”
+                - A client might say, “The report was so challenging, and I couldn’t figure out how to do it. It was too difficult for me.”
+                    - The coach asks, “What made it difficult?” 
+                    - Now the client thinks, “What was too difficult?” 
+                    - Clients rarely remember what they just said.
+                        - Instead of asking what made it difficult, ask “What made the report so difficult for you?”
+    - ASK SHORT AND BROAD QUESTIONS
+        - We don’t want to tie clients into choosing.
+            - If a client is concerned about the length of a presentation and the coach asks, 
+                - “Would you like it more if it was shorter or longer?” the client is now compelled to make a choice.
+            - Instead, if the question is totally open and thought-provoking, it might sound like, 
+                - “What impact does the length have to do with it?”
+        - Questions can also get too wordy and become diluted. 
+            - Compare a question such as 
+                - “What impact would you like to have on your boss when you hand in your project and show him how much you have accomplished?” to 
+                - “When handing in your project to your boss, what impact are you hoping to have?”
+        - The less specific the question, the better. 
+            - This allows the client to answer in whatever way comes to mind.
+        - [[Coaching examples]]
+            - Anne returned for coaching when she retired from her twenty-five years as a math teacher. She is pursuing her next career as a financial planner. She reports: “Despite my great qualifications, no one is responding to my resume, and I think it’s because they tend toward hiring men. I’ve read that being a woman in this field is a problem, but I’m not really sure if my gender is what is holding me back.” 
+                - The types of questions that I hear after this type of scenario are things like: 
+                    - “What has you choosing financial planning?”
+                    -  “How do you know that being a woman in this field is a problem?”
+                - Instead, a simple question such as “What do you think?” is short and broad. 
+                    - The question puts her doubts back on her because she’s isn’t sure that gender is the problem.
+                    - The question is so simple, but it has her thinking that there may be reasons besides gender rather than asking her to justify her choice or provide evidence of her hunch.
+            - Without realizing it, questions can come across as judgmental or contain an assumption. For example, “What bothers you most about that?” assumes the client is bothered.
+                - Instead consider, “What, if anything, bothers you the most?” 
+                    - Just adding “if anything” takes out any assumption of how the client is feeling.
+    - AVOID STACKED QUESTIONS
+        - Even if you don’t like your question, rather than stacking another one right after it, let it stick and allow the client to answer. 
+            - In this way, it will be easier for the client to stay in partnership with you. 
+            - Hold in mind that the client doesn’t distinguish between “great” and “mediocre” questions.
