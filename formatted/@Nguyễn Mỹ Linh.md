@@ -46,6 +46,9 @@
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 
+## [January 6th, 2021](<January 6th, 2021.md>)
+- [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
+
 ## [November 13th, 2020](<November 13th, 2020.md>)
 - Today has been an effective day, I clarified my work a lot, and seem like there will be new things for me to learn a new workshop tomorrow, I'm exciting about it. I also feel that the snowball is rolling. I want to share my joy with [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 

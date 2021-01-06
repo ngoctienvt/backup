@@ -10,4 +10,40 @@
     - Reading a chapter of the heart of laser-focused coaching
     - Learning Super Brain
     - Working with [[@Dương Thị Huyền]] about the Life Navigation Map next to clarify more things
-    - 
+- [[yearly review]]
+    - Year: 2020
+    - 😊Stuff I'm grateful for
+        - People
+            - [[@Thục Linh]]
+                - I feel grateful that she's always be nice to me and make me feel worthy. She's like a blessing on the earth.
+                - I feel grateful that I can know someone can appreciate other things so easily, and not feel hard to be touch like me
+            - [[@Nguyễn Mỹ Linh]]
+                - I feel grateful that she's always been a big part of my life. I don't really know why but she brought me so much special feelings that I hardly have with other peope.
+                - I feel grateful that she helped me to realize my weakness and my room for growth on coaching and interacting with people who's greatly different with me.
+            - [[@Dương Thị Huyền]]
+                - I feel grateful that she's making my life become much easier and less worrisome, so I can focus on the big thing that I concern with.
+                - I feel grateful that she's trusting me and following my path, even though we don't know where it will lead us to.
+            - My parents
+                - I feel grateful that my parents has always been caring about me. They also let go their inner disturbances to accept me to have the right to love the one I want. They give me room for my personal freedom, I know it's not easy for them, so I'm feel very thankful for that.
+            - 
+        - Experiences
+            - Coaching
+                - I feel grateful that through coaching, [[@Uông Duy Khánh]] helped me to grow significantly and realize many things important to me. He's helping me so much to go grow without me having to stress myself out.
+            - Learning ID
+                - I feel grateful that I learned a whole new specialize thing this year, and it's very important to support me to serve the world in a better and effective way. It taught me how to connect with the person in front of me and help them in their way, not in my way.
+            - Casual walk
+                - I feel grateful that I have the chance to take some casual walks that connect me with the universe and the bigger life around me. I can also in a care-free mind when I take these walks.
+        - Accomplishments
+            - Without truly plan, I taught 2 main classes this year
+                - 1 is coaching
+                - 2 is spiritual
+                - It's still have many things to improve, but at least I feel happy that I did it. It's the important thing that I want to do, and by teach these classes, I noticed that my life is become much more clarity about what's important to me and what I want to devote my life into.
+            - I also coach some people to grow significantly, and I felt so happy to see them grow and walk in their own journey now. 
+        - Things
+            - My current house - even though I feel it's a big burden into my shoulder, but it helps me grow significantly about the emotional part. It's also helping me to focus into what's important instead of worry on finding money.
+            - My PC/laptop/iPad - they are the things that I used everyday and they brought me so much experiences, knowledges, growth.
+        - Game changers
+            - Roam Research is the most meaning and game changer for me this year. It's solved the big thing of my life that how I can bottom-up my life in a sustainable way. It truly complements and creates big impact into my growth, and not just for the moment, but for long-term.
+            - ID is also changing the whole way I think about training and supporting other people in a much broader sense.
+            - Meditation has been the most important thing in my life now. It's the answer for everything in a sustainable way.
+        - 
