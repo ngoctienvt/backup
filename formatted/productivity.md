@@ -3,6 +3,9 @@
 ## [Area of Focus](<Area of Focus.md>)
 - [productivity](<productivity.md>)
 
+## [January 6th, 2021](<January 6th, 2021.md>)
+- [productivity](<productivity.md>)
+
 ## [Morning Rituals MOC](<Morning Rituals MOC.md>)
 - I want to live an [impactful life](<impactful life.md>) that have high [productivity](<productivity.md>)
 
