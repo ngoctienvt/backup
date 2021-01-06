@@ -15,3 +15,5 @@
 ## [🎬Courses - Super Brain - Jim Kwik](<🎬Courses - Super Brain - Jim Kwik.md>)
 - There is no magic pill, but there is magic process - Jim Kwik [wise quotes](<wise quotes.md>)
 
+- With great power comes great responsibilities [wise quotes](<wise quotes.md>)
+

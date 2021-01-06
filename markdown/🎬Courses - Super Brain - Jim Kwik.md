@@ -13,4 +13,10 @@
         - Learning is not a spectator sport
     - S - State
         - Information + Emotion = Long-term memory
-        - With great power comes great 
+        - With great power comes great responsibilities [[wise quotes]]
+            - With great responsibilities comes great power
+        - All learning is state dependent
+    - T - Teach
+        - Learn this quest as if you're going to teach with everyone
+        - When I teach something, I get to learn it twice.
+        - 
