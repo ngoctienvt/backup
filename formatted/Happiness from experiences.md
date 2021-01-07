@@ -6,3 +6,6 @@
 ## [January 3rd, 2021](<January 3rd, 2021.md>)
 - What I want to experience will not be based on my personal needs to solve my inner problems, but rather to have the experience itself. [Happiness from experiences](<Happiness from experiences.md>)
 
+## [January 7th, 2021](<January 7th, 2021.md>)
+- [Happiness from experiences](<Happiness from experiences.md>)
+

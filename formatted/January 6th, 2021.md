@@ -50,5 +50,3 @@
     - The same but more
     - Stop/ Start/ Continue
     - 80/20 principle
-- Today I start to feel that my life is coming a new page. The page about a whole new person emerging inside of me, the person that I want to become but not as a main character, but supplement character. Because I developed my main character enough now, so that I can integrate that new part into me without fearing losing myself.
-- 
