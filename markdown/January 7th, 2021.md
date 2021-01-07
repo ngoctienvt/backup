@@ -1,0 +1,10 @@
+- My today focus
+    - Learning Super Brain
+    - Work with [[@Dương Thị Huyền]] to develop more the PKDS system
+    - Take time to handle the new experiences from my teeth
+    - Start to work on my own [[🌱Life Navigation Map]]
+- I noticed that my training course about [[🌱Training Course - Effortless Growth]] will base on
+    - [[🌱Life Navigation Map]]
+    - Each components of the map will have different principles and techniques to focus on
+    - The whole map will have a system or process to handle the change and what emerge
+    - In the Action Board, this is the most complicated with many things going on

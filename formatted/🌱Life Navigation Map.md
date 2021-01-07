@@ -44,3 +44,8 @@
 ## [January 4th, 2021](<January 4th, 2021.md>)
 - [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
 
+## [January 7th, 2021](<January 7th, 2021.md>)
+- Start to work on my own [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
+
+- [🌱Life Navigation Map](<🌱Life Navigation Map.md>)
+
