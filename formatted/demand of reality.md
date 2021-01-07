@@ -11,7 +11,7 @@
 
 - [demand of reality](<demand of reality.md>)
 
-- There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)
+- There is an intersection between [🌱My Learning Styles](<🌱My Learning Styles.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)
 
 ## [October 6th, 2020](<October 6th, 2020.md>)
 - First, cleaning all of the inner [samskaras](<samskaras.md>). Then I will not have any personal thoughts, personal needs but replacing them with the fuel of inner energy, the evolution of soul, increasing capacity to handle things. It means that raising my soul equal to the [demand of reality](<demand of reality.md>).

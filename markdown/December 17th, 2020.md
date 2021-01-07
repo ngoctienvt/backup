@@ -14,7 +14,7 @@
     - From ambiguous to clear and clarity
     - From verbose to concrete and concise
 - I noticed that general is for low-level of understanding, while in high level, it's require given concext so that's people can learn from the context and then level up their own understanding. [[level of thinking]]
-- I had some notions about designing a process or a sequence of activities to level up my expertise by myself. It will need the combination of [[level of thinking]] and [[Level of expertise]]. [[self-learning]]
+- I had some notions about designing a process or a sequence of activities to level up my expertise by myself. It will need the combination of [[level of thinking]] and [[Level of expertise]]. [[🌱My Learning Styles]]
     - It's like I know what's require to come up to the next step, so I come to the next step and design what's needed to help me come to that step through certain practices.
     - This approach will help me to focus and aim to the right direction, instead of let myself learn freely and just let them develop naturally all the time.
     - There will be certain levels that it's helpful to develop naturally like Beginner to the early of Competent. Or from scatter thoughts and knowledge to the point that it requires me to synthesize and integrate.

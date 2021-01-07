@@ -11,7 +11,13 @@
 - [[Daily Worthy Stories]] Huyền. Park. Casual Walk. Pancake. Wonder if I should call her or not?
 - I’m not wrong with everyone. I’m only wrong with myself, because I’m not taking fully responsibilities for my growth and my state of being [[generative language]]
 - I noticed that there will be certain [[intrinsic qualities]] that based of my soul evolution, and from these qualities, I developed human learned abilities like languages, imagination, critical thinking, coaching...
+    - These intrinsic qualities are far more important than current knowledges, skills, external stuffs, money, what we gathered/ owned, techniques - learned stuff. 
 - My whole next life chapter is directing myself to the truth that I clarify, not based on my thoughts, because they are based on my inner state and this is varied and not reliable. [[truth-oriented]]
     - Through this I will be able to fully thrive and live fully, and know how to let go what is untruth or fear-based, and unblock true love, compassion and true wisdom.
     - Truth is not depend on what changes, but rather based on what always true and non-context (situation, people, things, beliefs, knowledges...) dependent.
-- 
+- There is a big major bridge or connection that hold the impersonal and personal part together perfectly is WHO WE ARE and WHAT WE WANT TO SERVE is INTER-DEPENDENT. [[inter-related]]
+    - This means that there are no perfect way to do anything, because there will always exist 2 variables, and one is totally varied from person to person. Just as how I think, my strengths, my tendencies, my consioucness, my ability levels are totally different with other people, and what I concern to serve is also based on my personal view, experiences, state of being so there will be never 2 people totally agree on the samething. [[individual uniqueness]]
+-  As I start to create how I tend to learn, I noticed that it will be effective if I could 'Create Fast, Test Often'. [[🌱My Learning Styles]]
+- [[Cultivates trust and safety]] [[Evokes awareness]] It's important to use clients language to recap, reflect, and show empathy to their situation. Then it's important to ask them provoking questions to bring them to higher-truth and what's possible beyond their current stage.
+    - It's like accepting the darkness and then inviting for seeking light.
+    - 

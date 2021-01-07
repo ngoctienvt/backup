@@ -3,6 +3,9 @@
 ## [Courses - The target approach - Coaching](<Courses - The target approach - Coaching.md>)
 - [Evokes awareness](<Evokes awareness.md>)
 
+## [January 7th, 2021](<January 7th, 2021.md>)
+- [Cultivates trust and safety](<Cultivates trust and safety.md>) [Evokes awareness](<Evokes awareness.md>)
+
 ## [📚Books - The heart of laser-focused coaching](<📚Books - The heart of laser-focused coaching.md>)
 - Questions posed are consistently provocative and challenge the client’s thinking, [Evokes awareness](<Evokes awareness.md>)
 

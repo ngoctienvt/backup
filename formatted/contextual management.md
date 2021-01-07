@@ -10,7 +10,7 @@
 - One of the way that emerge inside of me now is [contextual management](<contextual management.md>).
 
 ## [October 17th, 2020](<October 17th, 2020.md>)
-- There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual management](<contextual management.md>)
+- There is an intersection between [🌱My Learning Styles](<🌱My Learning Styles.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual management](<contextual management.md>)
 
 ## [October 25th, 2020](<October 25th, 2020.md>)
 - a [deeper understanding](<deeper understanding.md>) is built on the connections of context that help to build up [contextual management](<contextual management.md>).

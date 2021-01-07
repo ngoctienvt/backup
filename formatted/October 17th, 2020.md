@@ -70,8 +70,8 @@ not put the responsibility on them. [personal responsibilities](<personal respon
     - meaning - evolution
 - I felt kind of uncomfortable when playing with drift joy-con because it feels [inconvenient](<inconvenient.md>) and not meet the minimum standards that are not faulty. [personal standards](<personal standards.md>)
 - It seems like for buying necessary things. Half of the price that I feel comfortable to pay is a good way to make choice. [the middle way](<the middle way.md>)
-- There is an intersection between [self-learning](<self-learning.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual management](<contextual management.md>)
-    - [self-learning](<self-learning.md>) come to context with a [[bottom-up approach attitude.
+- There is an intersection between [🌱My Learning Styles](<🌱My Learning Styles.md>) and learning from the [external knowledge](<external knowledge.md>) is that it focuses on solving the current [demand of reality](<demand of reality.md>)  which is the current context. [contextual management](<contextual management.md>)
+    - [🌱My Learning Styles](<🌱My Learning Styles.md>) come to context with a [[bottom-up approach attitude.
     - [external knowledge](<external knowledge.md>) help to optimize the situation from a [[top-down approach
 - [From separation to union life](<From separation to union life.md>) [integration](<integration.md>) [🌱Natural Progression](<🌱Natural Progression.md>)
     - The societies split life into many different aspects

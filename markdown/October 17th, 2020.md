@@ -70,8 +70,8 @@ not put the responsibility on them. [[personal responsibilities]]
     - meaning - evolution
 - I felt kind of uncomfortable when playing with drift joy-con because it feels [[inconvenient]] and not meet the minimum standards that are not faulty. [[personal standards]]
 - It seems like for buying necessary things. Half of the price that I feel comfortable to pay is a good way to make choice. [[the middle way]]
-- There is an intersection between [[self-learning]] and learning from the [[external knowledge]] is that it focuses on solving the current [[demand of reality]]  which is the current context. [[contextual management]]
-    - [[self-learning]] come to context with a [[bottom-up approach attitude.
+- There is an intersection between [[🌱My Learning Styles]] and learning from the [[external knowledge]] is that it focuses on solving the current [[demand of reality]]  which is the current context. [[contextual management]]
+    - [[🌱My Learning Styles]] come to context with a [[bottom-up approach attitude.
     - [[external knowledge]] help to optimize the situation from a [[top-down approach
 - [[From separation to union life]] [[integration]] [[🌱Natural Progression]]
     - The societies split life into many different aspects
