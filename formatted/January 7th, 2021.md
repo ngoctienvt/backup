@@ -8,3 +8,5 @@
     - Each components of the map will have different principles and techniques to focus on
     - The whole map will have a system or process to handle the change and what emerge
     - In the Action Board, this is the most complicated with many things going on
+- [Daily Worthy Stories](<Daily Worthy Stories.md>) Huyền. Park. Casual Walk. Pancake. Wonder if I should call her or not?
+- 
