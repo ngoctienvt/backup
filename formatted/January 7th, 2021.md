@@ -9,4 +9,9 @@
     - The whole map will have a system or process to handle the change and what emerge
     - In the Action Board, this is the most complicated with many things going on
 - [Daily Worthy Stories](<Daily Worthy Stories.md>) Huyền. Park. Casual Walk. Pancake. Wonder if I should call her or not?
+- I’m not wrong with everyone. I’m only wrong with myself, because I’m not taking fully responsibilities for my growth and my state of being [generative language](<generative language.md>)
+- I noticed that there will be certain [intrinsic qualities](<intrinsic qualities.md>) that based of my soul evolution, and from these qualities, I developed human learned abilities like languages, imagination, critical thinking, coaching...
+- My whole next life chapter is directing myself to the truth that I clarify, not based on my thoughts, because they are based on my inner state and this is varied and not reliable. [truth-oriented](<truth-oriented.md>)
+    - Through this I will be able to fully thrive and live fully, and know how to let go what is untruth or fear-based, and unblock true love, compassion and true wisdom.
+    - Truth is not depend on what changes, but rather based on what always true and non-context (situation, people, things, beliefs, knowledges...) dependent.
 - 

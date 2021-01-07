@@ -14,6 +14,9 @@
     -  
 
 # Backlinks
+## [January 7th, 2021](<January 7th, 2021.md>)
+- I’m not wrong with everyone. I’m only wrong with myself, because I’m not taking fully responsibilities for my growth and my state of being [generative language](<generative language.md>)
+
 ## [October 11th, 2020](<October 11th, 2020.md>)
 - I noticed that my language about learning needs to change before I use words that describe "I still weak, still not strong enough". This way is basically saying that I'm not able to meet this challenge, but this is an unhelpful way of thinking because apparently, we aren't able to handle the challenge yet, so we are not enough for this. [generative language](<generative language.md>)
 
