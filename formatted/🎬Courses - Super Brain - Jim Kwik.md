@@ -20,3 +20,14 @@
         - Learn this quest as if you're going to teach with everyone
         - When I teach something, I get to learn it twice.
         - 
+- M.O.M can help you remember
+    - Motivation - why?
+        - h3 - head - heart - hands
+        - The reason I join this program is to use my mind in a better way, so that I can serve the world in a much effective way.
+            - I want to show people that I care about them, and learn to improve my attention, present.
+    - Observation
+        - The art of memory is the art of ATTENTION
+        - An incredible memory and a powerful presence come from being POWERFULLY PRESENT.
+        - Listen - Silence
+    -  Mechanics
+        - 
