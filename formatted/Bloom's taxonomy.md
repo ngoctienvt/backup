@@ -113,6 +113,9 @@
 ## [January 3rd, 2021](<January 3rd, 2021.md>)
 - [Horizons of understanding](<Horizons of understanding.md>) is something that I want to develop to replace [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
+## [January 8th, 2021](<January 8th, 2021.md>)
+- I learn about [Schema](<Schema.md>), a concept related to how I learn to day. And somehow about the approach of humanism [Kolb's experiential learning model](<Kolb's experiential learning model.md>) comparing to cognitive [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
 ## [level of thinking](<level of thinking.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 

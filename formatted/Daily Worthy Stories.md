@@ -25,3 +25,6 @@
 ## [January 7th, 2021](<January 7th, 2021.md>)
 - [Daily Worthy Stories](<Daily Worthy Stories.md>)
 
+## [January 8th, 2021](<January 8th, 2021.md>)
+- [Daily Worthy Stories](<Daily Worthy Stories.md>)
+

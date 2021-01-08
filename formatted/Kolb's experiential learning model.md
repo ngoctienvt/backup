@@ -24,6 +24,9 @@ Giai đoạn này có thể được thực hiện ở bước 9-Thực hành v�
 Ví dụ: sau khi thực hành và phản hồi (kết thúc giai đoạn cuối cùng của một vòng học hỏi), người học có thể sẽ được đưa vào một vòng học hỏi mới, trong đó quá trình trải nghiệm, chiêm nghiệm, tổng kết, và thực hành có thể diễn ra nhiều lần ở nhiều cấp độ dần dần sâu sắc hơn. Ở những vòng học hỏi mới, có thể kiến thức và trải nghiệm mới được thêm vào. Người thực hiện workshop có thể chia nhỏ nội dung, kiến thức, trải nghiệm thành nhiều phần, và mỗi phần tương đương với một vòng học hỏi theo 4 giai đoạn.
 
 # Backlinks
+## [January 8th, 2021](<January 8th, 2021.md>)
+- I learn about [Schema](<Schema.md>), a concept related to how I learn to day. And somehow about the approach of humanism [Kolb's experiential learning model](<Kolb's experiential learning model.md>)
+
 ## [Strategies to provide knowledge](<Strategies to provide knowledge.md>)
 - [Kolb's experiential learning model](<Kolb's experiential learning model.md>)
 

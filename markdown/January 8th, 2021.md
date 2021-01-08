@@ -1,0 +1,8 @@
+- I learn about [[Schema]], a concept related to how I learn to day. And somehow about the approach of humanism [[Kolb's experiential learning model]] comparing to cognitive [[Bloom's taxonomy]]
+    - I also learned that my definition about creation is more focus on create our new self rather than focus on the actual product [[creation process]]
+- I noticed that I feel uncomfortable when there are people say like I'm doing the wrong thing, and I feel being judged, and evoke the need to protect myself. I know that she has good purpose, it just I still haven't handle my inner triggers.
+- I noticed that I don't need to focus on everything, I just need to focus on few things, the rest I can use external support like guided meditation, system, habit, coaching to help me grow. [[personal development]]
+    - It seems like I have a belief that grow need to be based on my conscious behavior and intention, but it could be naturally based on the right system and right techniques.
+- [[Daily Worthy Stories]] Schema. Tuấn. Blind spots. Attachment with my tendency, way of learning.
+- 
+- 
