@@ -2,4 +2,11 @@
 
     - While I still sometimes stuck on the problem of the clients and not able to help them focus on themselves yet, and my coaching is not helping them to identify the room for change or what they want in a broad way yet. It's still rather limiting and not connected with a big picture. [[room for desire]] [[zoom-out point of view]]
     -  In order to know about why they want that, ask about now/reality, because there is something change of happen in reality lead to they want to work on that goal now. [[what happened now?]] as a way to find out WHY?
-- 
+- [[Daily Worthy Stories]] anh Khánh. Coaching. Strategy. Simple questions. Concise point of focus
+- [[Schema]] probably is the concept related to constant changing. While when reading Story Worthy, it gives me the idea that there will be some things that I need to start with the end in my, because they are based on truth or temporary level that worth sharing or teaching. [[start with the end in mind]]
+    - story-telling
+    - training - teaching
+    - writing may be both
+- The intention to help is good, but coaching is not about that intention. Coaching is about how to help others people to grow and achieve their goals in the most helpful and effective way. [[What is coaching?]]
+    - The questions is about: Is that helpful? How that's helpful? How could it more helpful?
+    - 

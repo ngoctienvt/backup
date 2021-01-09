@@ -4,3 +4,6 @@
 ## [January 8th, 2021](<January 8th, 2021.md>)
 - I learn about [Schema](<Schema.md>),
 
+## [January 9th, 2021](<January 9th, 2021.md>)
+- [Schema](<Schema.md>)
+
