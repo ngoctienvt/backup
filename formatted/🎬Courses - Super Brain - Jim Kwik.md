@@ -30,4 +30,7 @@
         - An incredible memory and a powerful presence come from being POWERFULLY PRESENT.
         - Listen - Silence
     -  Mechanics
+- The sun is up
+    - Basic association 
+        - A logical association between 2 things
         - 
