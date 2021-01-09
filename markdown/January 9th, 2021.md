@@ -9,4 +9,8 @@
     - writing may be both
 - The intention to help is good, but coaching is not about that intention. Coaching is about how to help others people to grow and achieve their goals in the most helpful and effective way. [[What is coaching?]]
     - The questions is about: Is that helpful? How that's helpful? How could it more helpful?
-- 2020 is a year that I 
+- 2020 is a year that my growth will be heavily happens on 
+    - the 2 last month
+    - when conflicts, big events happen - 3 and 6
+    - 
+    - 
