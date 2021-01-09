@@ -4,3 +4,4 @@
 - [[🌱Personal Knowledge Development cycle]]
 - ---
 - [[PKDS - Personal Knowledge Development System terminology]]
+- 
