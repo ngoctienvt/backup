@@ -1,6 +1,7 @@
 - Wisdom
     - [[understanding before solving]]
     - [[the fifth force - will-power]]
+    - [[The tools we use shape us]]
 - Coaching
     - [[What a coach expert at?]]
     - [[Why Transformational Coaching is effective?]]

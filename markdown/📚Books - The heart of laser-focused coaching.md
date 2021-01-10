@@ -27,7 +27,7 @@
                     - Create more prosperity, balance, and fulfillment in their life and/or work
         - [[Transformational Coaching]] approach
             - Major distinctions with general coaching
-                - The coach truly focuses on the client — who the person is, what they think is true, how they behave, and what they value. [[focus on the client as a whole]] [[coach the who]]
+                - The coach truly focuses on the client — who the person is, what they think is true, how they behave, and what they value. [[focus on the client as a whole]] [[Coach the person]]
                 - The coach is able to completely release the need to perform or prove their value. [[releasing personal needs]]
                     - As opposed to focusing on results, the intention is on purposeful exploration leading organically to long-term transformation that affects all areas of a client’s life.
                     - The client naturally creates their own forward movement from a highly motivated perspective. 
@@ -49,7 +49,7 @@
                         - This focus on collecting data prevents efficient and more meaningful coaching.
                 - While the client might seem temporarily pleased, neither the coach nor the client realizes how much more could have come from the coaching had the underlying issue been addressed at the root.
             - [[Transformational Coaching]] or Laser-focused Coaching
-                - relies on understanding the person, not their situation or problem. [[coach the who]]
+                - relies on understanding the person, not their situation or problem. [[Coach the person]]
                     - emphasizes coaching the “who” and separating the “who” from the client’s “story” or situation.
                 - A major distinction is that the __coach doesn’t automatically accept the client’s words as the truth, __because most of what we hear is likely that person’s perception of what is true. [[discerning truth from perception]]
                     - Learning how to distinguish truth from perception is the foundation of Laser-Focused Coaching.

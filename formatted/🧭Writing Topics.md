@@ -1,6 +1,7 @@
 - Wisdom
     - [understanding before solving](<understanding before solving.md>)
     - [the fifth force - will-power](<the fifth force - will-power.md>)
+    - [The tools we use shape us](<The tools we use shape us.md>)
 - Coaching
     - [What a coach expert at?](<What a coach expert at?.md>)
     - [Why Transformational Coaching is effective?](<Why Transformational Coaching is effective?.md>)

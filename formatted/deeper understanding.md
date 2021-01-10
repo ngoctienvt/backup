@@ -1,5 +1,8 @@
 
 # Backlinks
+## [January 10th, 2021](<January 10th, 2021.md>)
+- I also learned that my way of learning is understanding go first, but skills need to build and truly understand, rather than just explain what I know. The deep understanding comes from the context and the experiences that I manage to complete, not what I know about it. [deeper understanding](<deeper understanding.md>)
+
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - I felt so much fun when teaching and also [deeper understanding](<deeper understanding.md>)
 

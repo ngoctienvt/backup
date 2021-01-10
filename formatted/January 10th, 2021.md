@@ -1,0 +1,14 @@
+- [📝Coaching Review](<📝Coaching Review.md>)
+    - Today I noticed that it seems like I'm still coach the problem, but in a disguise of coaching the person.  [Coach the problem](<Coach the problem.md>)
+        - The whole point of [Coach the person](<Coach the person.md>) is not about changing beliefs, state of being, but it's about working on the root cause of what they are talking about. I will need to make more clear so that I noticed how I go off track and how I could learn to go on the right track again.
+    - In the next period of time, my whole understanding and point of view about [pure coaching](<pure coaching.md>) will need to revamp, in the time I comeback to the coaching that I truly want to do and not misunderstand it.
+        - The pure coaching will mainly focus on coach the person and require no need of tools but rather the internal human skills of the coach.
+    - I also learned that my way of learning is understanding go first, but skills need to build and truly understand, rather than just explain what I know. The deep understanding comes from the context and the experiences that I manage to complete, not what I know about it. [deeper understanding](<deeper understanding.md>)
+        - These things will not [explicit knowledge](<explicit knowledge.md>) but rather [implicit knowledge](<implicit knowledge.md>) or [tacit knowledge](<tacit knowledge.md>). 
+            - Because the knowledge coming from true skills and experiences will requires the inner transformation of my inner ecology system, not just the input that my mind have.
+- [Daily Worthy Stories](<Daily Worthy Stories.md>)
+    - Coaching anh Duy. Coach the problem. Try to be intellectual and be right. Missing the true skills. 
+    - I feel so much grateful to have the chance to go to listen to music of Vy Vy and the show of chị Lan. It's a new great experience that bring into my life. It's not totally comfortable at first, but it's interesting and memorable. 
+        - Because the show is about a composer that write music based on her feelings and the person related to her feelings. She has a hard way to go through her feelings and it's a repeatable pattern because she's not completely recognize that the main thing is what happened inside, not what happend outside.
+-  [The tools we use shape us](<The tools we use shape us.md>)
+    - Roam Research is truly the tool that help to shape and support me to become a better version of who I am in terms of thinking and productivity.

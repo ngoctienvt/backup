@@ -10,7 +10,7 @@
     - How far we know about what's possible
 - ### The target of the coaching
     - Coach the problem
-    - [coach the who](<coach the who.md>)
+    - [Coach the person](<Coach the person.md>)
     - Coach the being
 - [Coaching examples](<Coaching examples.md>)
 - ### Core competencies

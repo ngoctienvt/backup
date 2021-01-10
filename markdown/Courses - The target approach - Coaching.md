@@ -106,7 +106,7 @@
             - **Helps the client identify factors that influence current and future patterns** of behavior, thinking or emotion 
             - **Notices what is working for the client** to enhance client progress [[Success Factors]]
             - [[crafting customized coaching questions]]
-                - **Ask questions about the client,** such as their **way of thinking, values, needs, wants and beliefs** [[coach the who]]
+                - **Ask questions about the client,** such as their **way of thinking, values, needs, wants and beliefs** [[Coach the person]]
                 - **Asks questions** that help the client **explore beyond current thinking** 
                     - What's the emotion you have informing your action toward that person?
             - **Shares observations, insights and feelings, without attachment,** that have the potential to create new learning for the client [[unattachment observations]]
