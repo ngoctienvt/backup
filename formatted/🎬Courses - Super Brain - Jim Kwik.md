@@ -33,4 +33,16 @@
 - The sun is up
     - Basic association 
         - A logical association between 2 things
-        - 
+- 10 keys to unlock your superbrain
+    - Common sense is not common practice
+    - 1. A good brain diet
+        - blue-berry - brain-berry
+    - 2. Killing ANTs - automatic negative thoughts
+    - 3. Exercise
+    - 4. Brain nutrients
+    - 5. A positive peer group
+    - 6. Clean environment
+    - 7. Sleep
+    - 8. Brain protection
+    - 9. New learnings
+    - 10. Stress management

@@ -6,6 +6,7 @@
     - I also learned that my way of learning is understanding go first, but skills need to build and truly understand, rather than just explain what I know. The deep understanding comes from the context and the experiences that I manage to complete, not what I know about it. [deeper understanding](<deeper understanding.md>)
         - These things will not [explicit knowledge](<explicit knowledge.md>) but rather [implicit knowledge](<implicit knowledge.md>) or [tacit knowledge](<tacit knowledge.md>). 
             - Because the knowledge coming from true skills and experiences will requires the inner transformation of my inner ecology system, not just the input that my mind have.
+    - I also need to refine my view of working or doing is not a perfect result, but rather there is no end for it. The reason why I feel uncomfortable and not enough is because I have certain fears and expectations deep inside myself. [everything is in the process](<everything is in the process.md>)
 - [Daily Worthy Stories](<Daily Worthy Stories.md>)
     - Coaching anh Duy. Coach the problem. Try to be intellectual and be right. Missing the true skills. 
     - I feel so much grateful to have the chance to go to listen to music of Vy Vy and the show of chị Lan. It's a new great experience that bring into my life. It's not totally comfortable at first, but it's interesting and memorable. 
