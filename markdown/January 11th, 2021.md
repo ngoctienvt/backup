@@ -8,3 +8,31 @@
     - The purpose of learning is about
         - Happiness from growth
         - Happiness from services
+- [[Level of expertise]]
+    - To develop competence in an area of inquiry, students must: [[expertise components]]
+        - (a) have a deep foundation of factual knowledge, 
+        - (b) understand facts and ideas in the context of a conceptual framework, 
+            - Deep understanding of subject matter transforms factual information into usable knowledge.
+            - Geography can be used to illustrate the manner in which expertise is organized around principles that support understanding. 
+                - A student can learn to fill in a map by memorizing states, cities, countries, etc., and can complete the task with a high level of accuracy. 
+                    - But if the boundaries are removed, the problem becomes much more difficult. There are no concepts supporting the student’s information. 
+                - An expert who understands that borders often developed 
+                    - because natural phenomena (like mountains or water bodies) separated people,
+                    - and that large cities often arose in locations that allowed for trade (along rivers, large lakes, and at coastal ports) will easily outperform the novice. 
+                - The more developed the conceptual understanding of the needs of cities and the resource base that drew people to them, the more meaningful the map becomes. 
+                    - Students can become more expert if the geographical information they are taught is placed in the appropriate conceptual framework.
+            - organizing information into a conceptual framework allows for greater “transfer
+        - and (c) organize knowledge in ways that facilitate retrieval and application.
+    - Experts, regardless of the field, always draw on a richly structured information base; they are not just “good thinkers” or “smart people.” 
+        - The ability to plan a task, to notice patterns, to generate reasonable arguments and explanations, and to draw analogies to other problems are all more closely intertwined with factual knowledge than was once believed.
+- [[The learning journey]]
+    - [[self-learning]]
+        - A “metacognitive” approach to instruction can help students learn to take control of their own learning by defining learning goals and monitoring their progress in achieving them.
+- [[Books - How people learn II]]
+- [[Books - Improving Adult Literacy Instruction]]
+- [[Daily Worthy Stories]] How people learn. Personal Knowledge map. Accomplished Beginner. Density and quality of the map. How experts differ with novices?
+- Today I learned that the ability to think breadth is a big gift but as the same time the big hindrance for me to go depth. This is one of the most thing that I will need to change to suitable for the next stage of my life. [[E: How deep I live my life?]] [[Live Deeply]]
+- I noticed that I’m easy to exhaust myself why trying to help other people understand. I will need to develop a way to help other people learn in a much natural way and less feeling of exhausted. [[exhausting]]
+- I have the fear for animals, this is easy to disturb me.
+- Manage the [[🌱PKDS - Personal Knowledge Development System]] is probsbly the most important skill that I will develop this year, because it will help me to live life in a deep way and grow me much faster and more natural than ever.
+- 

@@ -395,20 +395,28 @@ Lập kế hoạch áp dụng
                 - Satisfaction
         - Participants 
         - Workshop
+- Educational psychology
+    - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+    - [Bloom's taxonomy](<Bloom's taxonomy.md>)
+    - [Schema](<Schema.md>)
+    - [Cognitive load](<Cognitive load.md>)
+    - [Information Processing model](<Information Processing model.md>)
 - Principles need to concern when design a workshop
     - [Principle for learning](<Principle for learning.md>)
     - [training principles](<training principles.md>)
-        - An important principle in training
-            - After the workshop, participant can only do what they directly do in the program.
+        - Depth of competency
+            - Teachers must teach some subject matter in depth, providing many examples in which the same concept is at work and providing a firm foundation of factual knowledge.
+                - test deep understanding rather than surface knowledge.
         - Student-centric
+            - Teachers must draw out and work with the preexisting understandings that their students bring with them.
+                - the teacher must actively inquire into students’ thinking, creating classroom tasks and conditions under which student thinking can be revealed. 
+                - Students’ initial conceptions then provide the foundation on which the more formal understanding of the subject matter is built.
         - Flexible based on students level, progress
             - Flexible on acitivites and the way delivering
             - Fixed on goals
-        - Level of thinking
-            - Understanding
-            - Comparing
-            - Analytic
-            - Evaluating
+        - [self-learning](<self-learning.md>) promoting
+            - The teaching of metacognitive skills should be integrated into the curriculum in a variety of subject areas.
+                - Developing strong metacognitive strategies and learning to teach those strategies in a classroom environment
 - Tools
     - Tools to split group
         - [https://pickerwheel.com/tools/random-team-generator/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpickerwheel.com%2Ftools%2Frandom-team-generator%2F%3Ffbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)

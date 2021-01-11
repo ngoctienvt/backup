@@ -24,6 +24,9 @@
 ## [How to self-development effectively?](<How to self-development effectively?.md>)
 - [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 
+## [January 11th, 2021](<January 11th, 2021.md>)
+- Manage the [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
+
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - When developing my [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>),
 

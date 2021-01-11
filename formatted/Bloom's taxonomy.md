@@ -119,6 +119,9 @@
 ## [level of thinking](<level of thinking.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 
+## [🌱Instructional Design](<🌱Instructional Design.md>)
+- [Bloom's taxonomy](<Bloom's taxonomy.md>)
+
 ## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 

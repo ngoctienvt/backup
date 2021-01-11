@@ -13,6 +13,9 @@
 ## [Effortless Growth](<Effortless Growth.md>)
 - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
 
+## [🌱Instructional Design](<🌱Instructional Design.md>)
+- [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
+
 ## [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 - [Krathwohl’s Affective Taxonomy](<Krathwohl’s Affective Taxonomy.md>)
 
