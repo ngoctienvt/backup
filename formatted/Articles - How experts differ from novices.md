@@ -1,0 +1,80 @@
+- [2 How Experts Differ from Novices | How People Learn: Brain, Mind, Experience, and School: Expanded Edition | The National Academies Press](https://www.nap.edu/read/9853/chapter/5[50](<50.md>)) #[Roam-Highlights](<Roam-Highlights.md>)
+    - We consider several key principles of experts’ knowledge and their potential implications for learning and instruction:
+        - Experts notice features and meaningful patterns of information that are not noticed by novices.
+        - Experts have acquired a great deal of content knowledge that is organized in ways that reflect a deep understanding of their subject matter.
+        - Experts’ knowledge cannot be reduced to sets of isolated facts or propositions but, instead, reflects contexts of applicability: that is, the knowledge is “conditionalized” on a set of circumstances.
+        - Experts are able to flexibly retrieve important aspects of their knowledge with little attentional effort.
+        - Though experts know their disciplines thoroughly, this does not guarantee that they are able to teach others.
+        - Experts have varying levels of flexibility in their approach to new situations.
+    - **MEANINGFUL PATTERNS OF INFORMATION**
+    - the same stimulus is perceived and understood differently, depending on the knowledge that a person brings to the situation.
+    - the chess masters would be more likely than the nonmasters to (a) think through all the possibilities before making a move (greater breadth of search) and (b) think through all the possible countermoves of the opponent for every move considered (greater depth of search).
+    - the chess masters considered possibilities for moves that were of higher quality than those considered by the lesser experienced players.
+    - Chess masters perceive chunks of meaningful information, which affects their memory for what they see.
+    - Lacking a hierarchical, highly organized structure for the domain, novices cannot use this chunking strategy.
+    - The idea that experts recognize features and patterns that are not noticed by novices is potentially important for improving instruction. When viewing instructional texts, slides, and videotapes, for example, the information noticed by novices can be quite different from what is noticed by experts
+    - Research on expertise suggests the importance of providing students with learning experiences that specifically enhance their abilities to recognize meaningful patterns of information
+    - **ORGANIZATION OF KNOWLEDGE**
+    - how experts’ knowledge is organized and how this affects their abilities to understand and represent problems.
+    - their knowledge is organized around core concepts or “big ideas” that guide their thinking about their domains.
+    - Experts usually mentioned the major principle(s) or law(s) that were applicable to the problem, together with a rationale for why those laws applied to the problem and how one could apply them
+    - competent beginners rarely referred to major principles and laws in physics; instead, they typically described which equations they would use and how those equations would be manipulated
+    - Experts’ thinking seems to be organized around big ideas in physics, such as Newton’s second law and how it would apply, while novices tend to
+    - Page 38
+    - Share
+    - Cite
+    - **Suggested Citation:**"2 How Experts Differ from Novices." National Research Council. 2000. __How People Learn: Brain, Mind, Experience, and School: Expanded Edition__. Washington, DC: The National Academies Press. doi: 10.17226/9853.
+    - ×
+    - Save
+    - Cancel
+    - perceive problem solving in physics as memorizing, recalling, and manipulating equations to get answers.
+    - Experts’ problem piles are arranged on the basis of the principles that can be applied to solve the problems; novices’ piles are arranged on the basis of the problems’ surface attributes.
+    - Experts appear to possess an efficient organization of knowledge with meaningful relations among related elements clustered into related units that are governed by underlying concepts and principles
+    - “knowing more” means having more conceptual chunks in memory, more relations or features defining each chunk, more interrelations among the chunks, and efficient methods for retrieving related chunks and procedures for applying these informational units in problem-solving contexts
+    - The fact that experts’ knowledge is organized around important ideas or concepts suggests that curricula should also be organized in ways that lead to conceptual understanding.
+    - a superficial coverage of many topics in the domain may be a poor way to help students develop the competencies that will prepare them for future learning and work.
+    - **CONTEXT AND ACCESS TO KNOWLEDGE**
+    - Experts have a vast [[[repertoire](<[[repertoire.md>)]] of knowledge that is relevant to their domain or discipline, but only a subset of that knowledge is relevant to any particular problem.
+    - experts’ knowledge is “conditionalized” —it includes a specification of the contexts in which it is useful
+    - Knowledge that is not conditionalized is often “inert” because it is not activated, even though it is relevant
+    - “Textbooks are much more explicit in enunciating the laws of mathematics or of nature than in saying anything about when these laws may be useful in solving problems” (Simon, 1980:92). It is left largely to students to generate the condition-action pairs required for solving novel problems.
+    - One way to help students learn about conditions of applicability is to assign word problems that require students to use appropriate concepts and formulas
+    - help teachers and students assess the degree to which the students’ knowledge is conditionalized.
+    - people need to know when and why it is appropriate to apply the maxim “too many cooks spoil the broth” versus “many hands make light work” or “he who hesitates is lost” versus “haste makes waste”
+    - **FLUENT RETRIEVAL**
+    - People’s abilities to retrieve relevant knowledge can vary from being “effortful” to “relatively effortless” (fluent) to “automatic”
+    - Fluent retrieval does not mean that experts always perform a task faster than novices. Because experts attempt to understand problems rather than to jump immediately to solution strategies, they sometimes take more time than novices
+    - Since the amount of information a person can attend to at any one time is limited (Miller, 1956), ease of processing some aspects of a task gives a person more capacity to attend to other aspects of the task
+    - Learning to drive a car provides a good example of fluency and automaticity. When first learning, novices cannot drive and simultaneously carry on a conversation. With experience, it becomes easy to do so.
+    - An important aspect of learning is to become fluent at recognizing problem types in particular domains—such as problems involving Newton’s second law or concepts of rate and functions—so that appropriate solutions can be easily retrieved from memory.
+    - **EXPERTS AND TEACHING**
+    - expertise can sometimes hurt teaching because many experts forget what is easy and what is difficult for students.
+    - The content knowledge necessary for expertise in a discipline needs to be differentiated from the pedagogical content knowledge that underlies effective teaching (Redish, 1996; Shulman, 1986, 1987). The latter includes information about typical difficulties that students encounter as they attempt to learn about a set of topics; typical paths students must traverse in order to achieve understanding; and sets of potential strategies for helping students overcome the difficulties that they encounter.
+    - Expert teachers know the kinds of difficulties that students are likely to face; they know how to tap into students’ existing knowledge in order to make new information meaningful; and they know how to assess their students’ progress
+    - Pedagogical content knowledge is an extremely important part of what teachers need to learn to be more effective.
+    - **ADAPTIVE EXPERTISE**
+    - An important question for educators is whether some ways of organizing knowledge are better at helping people remain flexible and adaptive to new situations than others.
+    - For example, contrast two types of Japanese sushi experts (Hatano and Inagaki, 1986): one excels at following a fixed recipe; the other has “adaptive expertise” and is able to prepare sushi quite creatively.
+    - These appear to be examples of two very different types of expertise, one that is relatively routinized and one that is flexible and more adaptable to external demands: experts have been characterized as being “merely skilled” versus “highly competent” or more colorfully as “artisans” versus “virtuosos”
+    - Artisan experts seek to identify the functions that their clients want automated; they tend to accept the problem and its limits as stated by the clients. They approach new problems as opportunities to use their existing expertise to do familiar tasks more efficiently.
+    - however, the virtuoso experts treat the client’s statement of the problem with respect, but consider it “a point for departure and exploration”
+    - The expert stepped back from his own initial interpretation and searched for a deeper understanding of the issues. As he read texts from this perspective, his understanding deepened, and he learned from the experience. After considerable work, the second historian was able to piece together an interpretive structure that brought him by the task’s end to where his more knowledgeable colleague had begun.
+    - An important characteristic exhibited by the history expert involves what is known as “metacognition” —the ability to monitor one’s current level of understanding and decide when it is not adequate.
+    - The ability to recognize the limits of one’s current knowledge, then take steps to remedy the situation, is extremely important for learners at all ages.
+    - Beliefs about what it means to be an expert can affect the degree to which people explicitly search for what they don’t know and take steps to improve the situation.
+    - The researchers and the teachers found it useful to replace their previous model of “answer-filled experts” with the model of “accomplished novices.”
+    - Accomplished novices are skilled in many areas and proud of their accomplishments, but they realize that what they know is minuscule compared to all that is potentially knowable.
+    - Adaptive experts are able to approach new situations flexibly and to learn throughout their lifetimes. They not only use what they have learned, they are metacognitive and continually question their current levels of expertise and attempt to move beyond them. They don’t simply attempt to do the same things more efficiently; they attempt to do things better.
+    - **CONCLUSION**
+    - a “given” problem situation is not really a given. Because of their ability to see patterns of meaningful information, experts begin problem solving at “a higher place”
+    - pattern recognition is an important strategy for helping students develop confidence and competence. These patterns provide triggering conditions for accessing knowledge that is relevant to a task.
+    - Instruction that enables students to see models of how experts organize and solve problems may be helpful.
+    - While experts possess a vast repertoire of knowledge, only a subset of it is relevant to any particular problem.
+    - information that is relevant to a task tends to be selectively retrieved
+    - People’s mental models of what it means to be an expert can affect the degree to which they learn throughout their lifetimes. A model that assumes that experts know all the answers is very different from a model of the accomplished novice, who is proud of his or her achievements and yet also realizes that there is much more to learn.
+    - Metacognition can help students develop personally relevant pedagogical content knowledge, analogous to the pedagogical content knowledge available to effective teachers (principle 5). In short, students need to develop the ability to teach themselves.
+
+# Backlinks
+## [January 11th, 2021](<January 11th, 2021.md>)
+- [Articles - How experts differ from novices](<Articles - How experts differ from novices.md>)
+
