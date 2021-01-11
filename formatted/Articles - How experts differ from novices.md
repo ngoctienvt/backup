@@ -19,15 +19,7 @@
     - their knowledge is organized around core concepts or “big ideas” that guide their thinking about their domains.
     - Experts usually mentioned the major principle(s) or law(s) that were applicable to the problem, together with a rationale for why those laws applied to the problem and how one could apply them
     - competent beginners rarely referred to major principles and laws in physics; instead, they typically described which equations they would use and how those equations would be manipulated
-    - Experts’ thinking seems to be organized around big ideas in physics, such as Newton’s second law and how it would apply, while novices tend to
-    - Page 38
-    - Share
-    - Cite
-    - **Suggested Citation:**"2 How Experts Differ from Novices." National Research Council. 2000. __How People Learn: Brain, Mind, Experience, and School: Expanded Edition__. Washington, DC: The National Academies Press. doi: 10.17226/9853.
-    - ×
-    - Save
-    - Cancel
-    - perceive problem solving in physics as memorizing, recalling, and manipulating equations to get answers.
+    - Experts’ thinking seems to be organized around big ideas in physics, such as Newton’s second law and how it would apply, while novices tend to perceive problem solving in physics as memorizing, recalling, and manipulating equations to get answers.
     - Experts’ problem piles are arranged on the basis of the principles that can be applied to solve the problems; novices’ piles are arranged on the basis of the problems’ surface attributes.
     - Experts appear to possess an efficient organization of knowledge with meaningful relations among related elements clustered into related units that are governed by underlying concepts and principles
     - “knowing more” means having more conceptual chunks in memory, more relations or features defining each chunk, more interrelations among the chunks, and efficient methods for retrieving related chunks and procedures for applying these informational units in problem-solving contexts
