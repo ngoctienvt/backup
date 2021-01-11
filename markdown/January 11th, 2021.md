@@ -1,1 +1,10 @@
 - [[Articles - How experts differ from novices]]
+- [[The learning journey]]
+    - The learning journey is about
+        - Knowing more
+        - Doing more
+        - Becoming more
+        - Self-becoming more
+    - The purpose of learning is about
+        - Happiness from growth
+        - Happiness from services

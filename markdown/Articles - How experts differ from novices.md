@@ -7,24 +7,30 @@
         - Though experts know their disciplines thoroughly, this does not guarantee that they are able to teach others.
         - Experts have varying levels of flexibility in their approach to new situations.
     - **MEANINGFUL PATTERNS OF INFORMATION**
-    - the same stimulus is perceived and understood differently, depending on the knowledge that a person brings to the situation.
-    - the chess masters would be more likely than the nonmasters to (a) think through all the possibilities before making a move (greater breadth of search) and (b) think through all the possible countermoves of the opponent for every move considered (greater depth of search).
-    - the chess masters considered possibilities for moves that were of higher quality than those considered by the lesser experienced players.
-    - Chess masters perceive chunks of meaningful information, which affects their memory for what they see.
-    - Lacking a hierarchical, highly organized structure for the domain, novices cannot use this chunking strategy.
+    - The same stimulus is perceived and understood differently, depending on the knowledge that a person brings to the situation.
+        - The chess masters would be more likely than the nonmasters to (a) think through all the possibilities before making a move (greater breadth of search) and (b) think through all the possible countermoves of the opponent for every move considered (greater depth of search).
+        - The chess masters considered possibilities for moves that were of higher quality than those considered by the lesser experienced players.
+            - Chess masters perceive chunks of meaningful information, which affects their memory for what they see.
+            - Lacking a hierarchical, highly organized structure for the domain, novices cannot use this chunking strategy.
     - The idea that experts recognize features and patterns that are not noticed by novices is potentially important for improving instruction. When viewing instructional texts, slides, and videotapes, for example, the information noticed by novices can be quite different from what is noticed by experts
-    - Research on expertise suggests the importance of providing students with learning experiences that specifically enhance their abilities to recognize meaningful patterns of information
+        - Research on expertise suggests the importance of providing students with learning experiences that specifically enhance their abilities to recognize meaningful patterns of information
     - **ORGANIZATION OF KNOWLEDGE**
     - how experts’ knowledge is organized and how this affects their abilities to understand and represent problems.
-    - their knowledge is organized around core concepts or “big ideas” that guide their thinking about their domains.
-    - Experts usually mentioned the major principle(s) or law(s) that were applicable to the problem, together with a rationale for why those laws applied to the problem and how one could apply them
-    - competent beginners rarely referred to major principles and laws in physics; instead, they typically described which equations they would use and how those equations would be manipulated
+        - their knowledge is organized around core concepts or “big ideas” that guide their thinking about their domains.
+            - Experts usually mentioned the major principle(s) or law(s) that were applicable to the problem, together with a rationale for why those laws applied to the problem and how one could apply them
+            - Competent beginners rarely referred to major principles and laws in physics; instead, they typically described which equations they would use and how those equations would be manipulated
     - Experts’ thinking seems to be organized around big ideas in physics, such as Newton’s second law and how it would apply, while novices tend to perceive problem solving in physics as memorizing, recalling, and manipulating equations to get answers.
-    - Experts’ problem piles are arranged on the basis of the principles that can be applied to solve the problems; novices’ piles are arranged on the basis of the problems’ surface attributes.
-    - Experts appear to possess an efficient organization of knowledge with meaningful relations among related elements clustered into related units that are governed by underlying concepts and principles
-    - “knowing more” means having more conceptual chunks in memory, more relations or features defining each chunk, more interrelations among the chunks, and efficient methods for retrieving related chunks and procedures for applying these informational units in problem-solving contexts
+        - Experts’ problem piles are arranged on the basis of the principles that can be applied to solve the problems; novices’ piles are arranged on the basis of the problems’ surface attributes.
+    - Experts appear to possess an efficient organization of knowledge with meaningful relations among related elements clustered into related units 
+        - that are governed by underlying concepts and principles
+        - “knowing more” means having more 
+            - conceptual chunks in memory, 
+            - relations or features defining each chunk, 
+            - interrelations among the chunks, 
+            - and efficient methods for retrieving related chunks
+            - and procedures for applying these informational units in problem-solving contexts
     - The fact that experts’ knowledge is organized around important ideas or concepts suggests that curricula should also be organized in ways that lead to conceptual understanding.
-    - a superficial coverage of many topics in the domain may be a poor way to help students develop the competencies that will prepare them for future learning and work.
+        - A superficial coverage of many topics in the domain may be a poor way to help students develop the competencies that will prepare them for future learning and work.
     - **CONTEXT AND ACCESS TO KNOWLEDGE**
     - Experts have a vast [[[[repertoire]]]] of knowledge that is relevant to their domain or discipline, but only a subset of that knowledge is relevant to any particular problem.
     - experts’ knowledge is “conditionalized” —it includes a specification of the contexts in which it is useful
