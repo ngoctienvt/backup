@@ -11,6 +11,18 @@
     - https://udlguidelines.cast.org/
 - It starts to clearer about how to teach other about [learning styles](<learning styles.md>)
     - It's about identify the main components of learning
+        - Phong cách tiếp nhận thông tin
+        - Phong cách xử lý thông tin
+        - Phong cách học hỏi
     - Then breakdown it and help people to see how they prefer to learn in each type of that components
     - Finally help them develop a system that suitable for their own self-learning process
+- I felt I learn so many things today and it's a little bit too much to digest for me.
+- I learned that it's important to create an effective [framework](<framework.md>) as this will be serve as the path that help me to guide my development, and I will change base on the change of the framework.
+- [Kolb's experiential learning model](<Kolb's experiential learning model.md>) seems like the model that suits me and will help me to learn faster than ever, as well as create my own learning process loop. [self-learning](<self-learning.md>)
+    - Because it's easy to loop and the creation in this model make sense for me and it is what I am focus on.
+    - I will need to take care and work more to complete my learning styles though, as it's a little bit limiting and not develop enough yet now.
+- [learning process](<learning process.md>)
+    - [Kolb's experiential learning model](<Kolb's experiential learning model.md>) 
+    - [Bloom's taxonomy](<Bloom's taxonomy.md>)
+- [Kindle Formatter](<Kindle Formatter.md>) https://kindle-formatter.vercel.app/
 - 
