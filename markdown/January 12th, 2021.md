@@ -1,0 +1,8 @@
+- I learned that the way we organize our knowledge is very important to help us reach expertise. Experts seem to organize their knowledge around big ideas and concepts that help to guide their thinking in order to understand first, then seek solutions later.
+    - Framework is also important as it will serve as a procedure that help an expert to solve things fast.
+-  [[Organization of knowledge]]
+    - Around big ideas or concepts to guide thinking
+    - Develop framework
+    - Hierachial
+    - Chunking-group
+    - Interrelated chunking-group

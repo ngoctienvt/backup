@@ -1,0 +1,9 @@
+- Get used to tools
+    - Zoom
+    - Jamboard
+- For sharing and creating workshop, use activity help to stimulate creativity
+    - Drawing
+    - Imagination
+    - Story-telling
+- For thinking, analyzing, evaluating workshop
+    - Thinking activity
