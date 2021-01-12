@@ -9,4 +9,8 @@
 - It feels so much easier to digest and absorb knowledge when I start to develop them into some simple frameworks. It's like a glue to connect things together.
 - [Universal Design for Learning framework](<Universal Design for Learning framework.md>)
     - https://udlguidelines.cast.org/
-    - 
+- It starts to clearer about how to teach other about [learning styles](<learning styles.md>)
+    - It's about identify the main components of learning
+    - Then breakdown it and help people to see how they prefer to learn in each type of that components
+    - Finally help them develop a system that suitable for their own self-learning process
+- 
