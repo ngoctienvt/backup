@@ -25,4 +25,4 @@
     - [Kolb's experiential learning model](<Kolb's experiential learning model.md>) 
     - [Bloom's taxonomy](<Bloom's taxonomy.md>)
 - [Kindle Formatter](<Kindle Formatter.md>) https://kindle-formatter.vercel.app/
-- 
+- [Daily Worthy Stories](<Daily Worthy Stories.md>) Purpose instead of means. Design courses. Room for growth. Assimilator.
