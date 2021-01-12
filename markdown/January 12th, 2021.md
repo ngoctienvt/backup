@@ -6,3 +6,5 @@
     - Hierachial
     - Chunking-group
     - Interrelated chunking-group
+- It feels so much easier to digest and absorb knowledge when I start to develop them into some simple frameworks. It's like a glue to connect things together.
+- 
