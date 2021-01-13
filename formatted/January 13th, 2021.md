@@ -22,4 +22,5 @@
             - your ability to work on that structure during the first pass.
     - ![](https://www.scotthyoung.com/blog/wp-content/uploads/2021/01/complex_blog.png)
     - ![](https://www.scotthyoung.com/blog/wp-content/uploads/2021/01/diverse-narrow_blog2.png)
-    - 
+- I noticed that the way we use our words determine that something is evidently exist without notice that it maybe comes from our mind instead. [impersonal language](<impersonal language.md>)
+    - Such of these words are failures, risks, problems, win, lose,... My next stage of life will need to rearrange my whole way of seeing the truth of the world rather than the madeup of my mind and the society.
