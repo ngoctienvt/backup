@@ -24,3 +24,31 @@
     - ![](https://www.scotthyoung.com/blog/wp-content/uploads/2021/01/diverse-narrow_blog2.png)
 - I noticed that the way we use our words determine that something is evidently exist without notice that it maybe comes from our mind instead. [[impersonal language]]
     - Such of these words are failures, risks, problems, win, lose,... My next stage of life will need to rearrange my whole way of seeing the truth of the world rather than the madeup of my mind and the society.
+- Những điều mình muốn mọi người học được về mô hình học hỏi của Kolb là
+    - Biết khái niệm
+    - Hiểu và có ví dụ
+    - Nhận thức được những điểm quan trọng trong mô hình
+        - Người học có thể bắt đầu từ điểm nào
+        - Người học có thể có sở thích bắt đầu ở một số điểm nhất định
+        - Để quy trình học hỏi được hiểu quả, người học cần có những gì
+            - Sự sẵn lòng tham gia trải nghiệm / hành động
+            - Nhìn lại từ trải nghiệm
+            - Có khả năng khái quát hóa tri thức
+            - Có khả năng tư duy phân tích và ra quyết định để ứng dụng vào thử nghiệm
+        - Ứng dụng vào trong thiết kế hoạt động
+            - Cho người học trải nghiệm cụ thể
+            - Giúp người học nhìn lại những gì đã xảy ra và debrief nó
+            - Khái quát hóa nó thành ý tưởng mới hoặc điều chỉnh ý tưởng cũ của mình
+                - Điều này thay đổi cách suy nghĩ của bạn như thế nào?
+                - Ảnh hưởng của điều này đến cách bạn thiết kế hoạt động?
+            - Ứng dụng vào ngữ cảnh mới
+- [[metacognitive]]
+    - 1) Knowledge of person variables refers to general knowledge about how human beings learn and process information, as well as individual knowledge of one's own learning processes. 
+    - 2) Task variables include knowledge about the nature of the task and what it will require of the individual.
+    -  3) knowledge about strategy variables include knowledge about ways to improve learning as well as conditional knowledge about when and where it is appropriate to use such strategies.
+    - For example
+        - When individuals engaged in the process of learning by reflective monitoring of the learning process they are going through, they can begin to understand important aspects of learning: 
+            - how they move through each stage of the learning cycle, 
+            - the way their unique learning style fits with how they are being taught,
+            - and the learning demands of what is being taught. 
+        - This comparison results in strategies for action that can be applied in their ongoing learning process.

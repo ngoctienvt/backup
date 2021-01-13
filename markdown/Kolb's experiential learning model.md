@@ -22,3 +22,4 @@ Sau đó, người học sẽ ứng dụng những gì vừa khám phá và tổ
 Giai đoạn này có thể được thực hiện ở bước 9-Thực hành và 10-Phản hồi trong cấu trúc của buổi học của Gagné. Một điều cần lưu ý là cấu trúc của Gagné đưa ra không có vòng lặp. Tuy nhiên, người thực hiện buổi học có thể xoay vòng, lặp lại, kết các các bước trong cấu trúc một cách linh hoạt. Và mô hình học hỏi từ trải nghiệm của Kolb là một cách phù hợp để tạo ra vòng lặp học hỏi đó.
 
 Ví dụ: sau khi thực hành và phản hồi (kết thúc giai đoạn cuối cùng của một vòng học hỏi), người học có thể sẽ được đưa vào một vòng học hỏi mới, trong đó quá trình trải nghiệm, chiêm nghiệm, tổng kết, và thực hành có thể diễn ra nhiều lần ở nhiều cấp độ dần dần sâu sắc hơn. Ở những vòng học hỏi mới, có thể kiến thức và trải nghiệm mới được thêm vào. Người thực hiện workshop có thể chia nhỏ nội dung, kiến thức, trải nghiệm thành nhiều phần, và mỗi phần tương đương với một vòng học hỏi theo 4 giai đoạn.
+- 
