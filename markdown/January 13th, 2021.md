@@ -25,6 +25,11 @@
 - I noticed that the way we use our words determine that something is evidently exist without notice that it maybe comes from our mind instead. [[impersonal language]]
     - Such of these words are failures, risks, problems, win, lose,... My next stage of life will need to rearrange my whole way of seeing the truth of the world rather than the madeup of my mind and the society.
 - Những điều mình muốn mọi người học được về mô hình học hỏi của Kolb là
+    - Sự khác nhau giữa Bloom và Kolb là Bloom là mô hình mà người dạy có thể dùng để thông qua đó giúp người học nâng cấp độ tư duy, nhưng Kolb lại khác, Kolb là mô hình mà người học sẽ trải nghiệm nhiều lần với nhiều trải nghiệm khác nhau để từ đó mà người học sẽ không ngừng mở rộng và làm sâu sắc hiểu biết và kỹ năng của bản thân.
+        - Bởi vậy nên nếu ứng dụng vào đào tạo thì mô hình Kolb sẽ giúp người học tự tạo ra quá trình học hỏi của bản thân để từ đó tự học nhiều hơn là đc hướng dẫn học.
+        - ví dụ như nếu dạy 1 người về thiết kế khoá học thì
+            - nếu dùng bloom sẽ là cho người học học từng khái niệm quan trọng để nâng dần cấp độ tư duy về thiết kế khoá học
+            - nếu dùng mô hình Kolb thì sẽ là để người học trải nghiệm thiết kế hoặc học lý thuyết, rồi sau đó sẽ là nhìn lại và khái quá hoá để xem sẽ ứng dụng vào thiết kế khoá học tiếp ntn. Và mô hình kolb sẽ cần người học được thực hành nhiều lần. Nên phù hợp nhiều với việc tự học hoặc những nội dung cần ít lý thuyết, mà thay vào đó là thực hành và cải tiến nhiều.
     - Biết khái niệm
     - Hiểu và có ví dụ
     - Nhận thức được những điểm quan trọng trong mô hình
@@ -42,6 +47,34 @@
                 - Điều này thay đổi cách suy nghĩ của bạn như thế nào?
                 - Ảnh hưởng của điều này đến cách bạn thiết kế hoạt động?
             - Ứng dụng vào ngữ cảnh mới
+    - Chuỗi hoạt động
+        - Mục đích:
+            - Giúp người học trải nghiệm mô hình Kolb - concrete experience
+                - Concrete experience - 20'
+                    - Framegame để có khái niệm cơ bản về mô hình Kolb 
+                    - Ví dụ về việc học tương tác có ý nghĩa trong mô hình Kolb
+                    - Chia nhóm để mô tả hoạt động người học sẽ làm trong nội dung "tương tác có ý nghĩa" với mỗi bước trong mô hình
+                        - Concrete experience 
+                            - Hoạt động có thể xảy ra là gì?
+                            - Cảm xúc có thể được khơi gợi ntn?
+                        - Reflective Observation
+                            - Biểu hiện của người học trong quá trình này là gì?
+                            - Những câu hỏi gì giúp người học nhìn lại trải nghiệm vừa trải qua?
+                        - Abstract Conceptualize
+                            - Biểu hiện của người học trong quá trình này là gì?
+                            - Những câu hỏi gì sẽ giúp người học khái quát hóa khái niệm?
+                        - Active Expermentation
+                            - Biểu hiện 
+                            - Hoạt động?
+                -  Reflective Observation 5'
+                    - Chọn câu hỏi để giúp debrief, có thể nhờ người học vote và lấy ra 3 câu hỏi cho quá trình này
+                - Abstract conceptualization 5' 
+                    - Liên hệ với Bloom's và từ đó rút ra được ideas/ new knowledge
+                - Active experimentation 5'
+                    - Lên kế hoạch ứng dụng
+            - Rút ra được bài học cho bản thân có được thông qua quá trình trải nghiệm
+                - Bạn học được gì sau buổi hôm nay?
+                - 
 - [[metacognitive]]
     - 1) Knowledge of person variables refers to general knowledge about how human beings learn and process information, as well as individual knowledge of one's own learning processes. 
     - 2) Task variables include knowledge about the nature of the task and what it will require of the individual.
@@ -53,3 +86,6 @@
             - and the learning demands of what is being taught. 
         - This comparison results in strategies for action that can be applied in their ongoing learning process.
 - Today I feel that I still have many inner disturbances and my thoughts or process of my thinking is still pretty complicated and overload. 
+- I notice that my way of thinking tend to mix up and have no clear framework to direct but try to do everything at the same time. This lead to it become unneccessary complicated and not context dependent, but too much generalize. [[way of thinking]]
+    -  I need to reframe my thinking that context mastery is far more important than having concepts. My way of thinking need to be output-driven rather than concept-driven.
+    - Concepts are just the materials that need to extract properly base on the output that I need to create or problems that I need to handle.
