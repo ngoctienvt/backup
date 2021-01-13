@@ -23,8 +23,8 @@
         - It also makes the students develop independent thinking and less rely on the trainer.
         - It makes the students expand themselves fearlessly and develop [growth mindset](<growth mindset.md>), which is excellent.
     - Ideally, I want to have a [training method](<training method.md>) that can:
-        - Support long-term and accumulated interest development [sustainable development](<sustainable development.md>) [productivity](<productivity.md>)
-        - Low floor, high ceiling. Easy to start, but paid off well. [productivity](<productivity.md>)
+        - Support long-term and accumulated interest development [sustainable development](<sustainable development.md>) [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
+        - Low floor, high ceiling. Easy to start, but paid off well. [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
         - Develop [independent competency](<independent competency.md>) in the students
         - Don't limit the creative and unlimited expanding direction of clients, but encourage them instead. [creative competency](<creative competency.md>)
         - The development of students depends on their own [intention](<intention.md>) and goals, and these things are not fixed but changed continuously. It means that they will not get stuck with the [tools](<tools.md>) or [trueself competency](<trueself competency.md>), but actually utilize or develop the [trueself competency](<trueself competency.md>) non-stop so that they will reach their [personal intention](<personal intention.md>)

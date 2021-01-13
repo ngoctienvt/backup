@@ -46,7 +46,7 @@
             - Roam Research is the most meaning and game changer for me this year. It's solved the big thing of my life that how I can bottom-up my life in a sustainable way. It truly complements and creates big impact into my growth, and not just for the moment, but for long-term.
             - ID is also changing the whole way I think about training and supporting other people in a much broader sense.
             - Meditation has been the most important thing in my life now. It's the answer for everything in a sustainable way.
-- [[productivity]]
+- [[🧭Productivity System MOC]]
     - The same but more
     - Stop/ Start/ Continue
     - 80/20 principle

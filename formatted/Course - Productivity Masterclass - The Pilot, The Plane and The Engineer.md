@@ -1,5 +1,5 @@
 - Link: https://www.skillshare.com/classes/Productivity-Masterclass-The-Pilot-The-Plane-and-The-Engineer/1036212713?via=user-profile
-- Tags: [Courses](<Courses.md>) [productivity](<productivity.md>) [learning](<learning.md>)
+- Tags: [Courses](<Courses.md>) #[🧭Productivity System MOC](<🧭Productivity System MOC.md>) [learning](<learning.md>)
 - ### [The Pilot MOC](<The Pilot MOC.md>)
     - Brain are for having ideas, not for storing ideas [efficient](<efficient.md>)
     - The pilot is about setting the intention for my life

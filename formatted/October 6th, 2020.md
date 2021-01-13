@@ -62,13 +62,13 @@ The way to do this is break things down and focus on 1 things at a time. For ins
     - Learning about the innate powers...
     - By setting up for success like reduce the difficult and focus on 1 to 2 concepts at a time, it's help to understand each things deeply and makes the learning experiences are not overwhelming and requires too much stretching, but put a fun factor and a deep sense of satisfy by able to evolve thanks to digest the experiences instead. 
 - [Book - How to take smart notes](<Book - How to take smart notes.md>)
-    - [psychology](<psychology.md>) [mere-exposure effect](<mere-exposure effect.md>) doing something many times makes us believe we have become good at it [productivity](<productivity.md>)
+    - [psychology](<psychology.md>) [mere-exposure effect](<mere-exposure effect.md>) doing something many times makes us believe we have become good at it [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
     - 
     - The differences between teachers and experts are teachers good at theory, but experts good at handling situation. The teachers follow structure, while the experts flow in the scenario. [mastery](<mastery.md>) 
     - Remembering are different with understanding. Things we understand are connected and have meaningful connections. [deeper understanding](<deeper understanding.md>)
     - [Zeigarnik effect](<Zeigarnik effect.md>) Open tasks occupy our short-term memory - until they are done. Tips: We don't have to finish, but rather write them down so trick our brains to stop thinking about them.
     - [Conditions for flow](<Conditions for flow.md>) 1. Break down tasks so they can finish in 1 go.2. Write down outcomes, including possible connections.
-    - The [externalization](<externalization.md>) of writing helps us to keep our work outside, and comeback whenever we want so our mind no need to keep them in mind like RAM. [mind-training](<mind-training.md>) [productivity](<productivity.md>) [writing](<writing.md>)
+    - The [externalization](<externalization.md>) of writing helps us to keep our work outside, and comeback whenever we want so our mind no need to keep them in mind like RAM. [mind-training](<mind-training.md>) [🧭Productivity System MOC](<🧭Productivity System MOC.md>) [writing](<writing.md>)
 
 This really helps to pick up the task where we at without the need to keep in our mind is a really way to use our [intellectual mind](<intellectual mind.md>) in a effective way.
 - 
@@ -79,4 +79,4 @@ This really helps to pick up the task where we at without the need to keep in ou
 It will be about what I feel right at the moment depending on my inner state at that time, so it will not fixed on truth, but rather fluid on situation but still based on the truth that I saw. [decision-making](<decision-making.md>) 
 
 The decision-making will be based on the whole thing available at that moment. [wholeness](<wholeness.md>) 
-- I will need to more clear about when I'm on and off my thinking activities as well, if not I will always a state of doing rather than completely being and come back to myself or fully enjoy the moment. [time management](<time management.md>) [productivity](<productivity.md>) 
+- I will need to more clear about when I'm on and off my thinking activities as well, if not I will always a state of doing rather than completely being and come back to myself or fully enjoy the moment. [time management](<time management.md>) [🧭Productivity System MOC](<🧭Productivity System MOC.md>) 

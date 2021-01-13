@@ -2,7 +2,7 @@
     - The chain of morning activities to start the [snowball effect](<snowball effect.md>)
 - ### Why I want to practice my morning rituals?
     - I want to practice to living a conscious life 
-    - I want to live an [impactful life](<impactful life.md>) that have high [productivity](<productivity.md>) and meaningful
+    - I want to live an [impactful life](<impactful life.md>) that have high [🧭Productivity System MOC](<🧭Productivity System MOC.md>) and meaningful
     - I want to use my time on earth in an effective manner instead of wasting it.
 - ### What hinders my practice for morning rituals?
     - not enough sleep

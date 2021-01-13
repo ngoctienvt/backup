@@ -19,7 +19,7 @@ It's about whether you are evolved and expand yourself enough to handle that tru
     - I felt that I'm naturally expanding and handling what's left inside of me that triggered everyday. I don't need to find it or wait until it becomes too much. 
     - I also felt that when I started to clean things, I'm becoming more and more energy inside that naturally moves me. I reduced the fear that I won't make anything meaningful for this life, because the fact that I learn things and improve my soul everyday is the best that I could do to be able to handle bigger [[demand of reality]]
     - The more I write, the more things integrate inside myself, and the more I feel I can ready to move to the next level as well. [[integration]]
-    - [[productivity]] for me 
+    - [[🧭Productivity System MOC]] for me 
         - is not to do more things but to fully learn things that already there. 
         - is not forcing but rather gaining understanding about the [[flow of life]] 
             - to guide ourselves naturally to that flow

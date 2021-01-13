@@ -1,0 +1,25 @@
+- In this new stage of life, I want to have a clear picture about [[🧭Productivity System MOC]]
+    - what I need to develop, 
+    - what's my current stage (my styles, strengths, tendencies),
+    - what I'm not comfortable with but it's important to have
+    - how I will focus on my attention and how I will develop myself - the learning journey
+        - the focus will be on serving the world, not about me expressing my ego
+    -  It's all about how I could let go my restlessness and my stressfulness or trying too much, so that I could just relax, do things slowly but still complete them in an effective way
+        - I need to have a room that in that room, I can casually complete what I need to do without worry too much. 
+        - There will be different stages of my growth, but whether what stages, I can always know what I need to focus on and have the clear how to complete it
+    - It's all about how I will manage the gap - the reality and the intention, because how I manage the gap now is based on my tendencies and maximize it, but it's not truly how things work [[gap management]]
+- My today focus
+    - Clarify the above picture
+    - Clarify my learning styles
+    - Think how I will want to design the activity that center on students
+        - My tendency is mostly about how I can think of, but it has no direction to navigate. Now it's my time to learn to use principles or boundaries to navigate my focus on.
+- [[Organization of knowledge]] should be a part of some end purposes, so that the knowledge is organized in a way that serve these purposes.
+    - For instance, if my purpose is to coach effectively, then my coaching knowledge need to be organize in a way that I can access them in a systematic way somehow so that I could coach better in the coaching session
+    - If my purpose is to write inspiring blog posts, then my notes need to be serve me to create these blog posts easily.
+    - The end point of learning is to have some kind of structure or [[framework]], so that when you receive certain inputs, you’re able to produce certain outputs.
+        - The right way to take notes, then depends on two factors: 
+            - the output that you want to create
+            - your ability to work on that structure during the first pass.
+    - ![](https://www.scotthyoung.com/blog/wp-content/uploads/2021/01/complex_blog.png)
+    - ![](https://www.scotthyoung.com/blog/wp-content/uploads/2021/01/diverse-narrow_blog2.png)
+    - 

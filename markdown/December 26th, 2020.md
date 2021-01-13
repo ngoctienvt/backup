@@ -5,7 +5,7 @@
     - The main group I can think about now is a coaching group.
 - I noticed that not sure why but I want to take care [[@Nguyễn Mỹ Linh]]. She's important to me, that's all I know. I don't care much about my sexual desire when think about her. I even feel uncomfortable because our interests are quite different to each other.
 - After today leisure walk, I realized that I'm shifting myself to happiness from growth. This is the most satisfy and in our will, and the meaning of living type of happiness. It's a healthy type of happiness that based on why we come to the earth and have the chance for experiences. [[true happiness]]
-- I noticed that I'm on the time that clarity about the [[end goal]] and get my feet on the ground. It's about learning to handle the blurry zone between where we are and our end goal. [[closing the gap]] [[handling the gap]]
+- I noticed that I'm on the time that clarity about the [[end goal]] and get my feet on the ground. It's about learning to handle the blurry zone between where we are and our end goal. [[closing the gap]] [[gap management]]
     - The key for handling this zone is about FOCUS, CLARITY and GROWTH.
 - I am learning to not put the truth into other head, but rather be a falictitator that provide space and guidance, so that we can explore and learn together. I'm not an instructor, but rather a part of the group. I'm not teaching, but rather a facilitator and learner at the same time. This is partnerning growth. [[partnering]]
 - We could have a [[Vision for the future]] but our focus is on where we are and what's our next step. [[Presence in the now]]
