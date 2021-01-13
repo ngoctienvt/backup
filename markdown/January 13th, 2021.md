@@ -52,3 +52,4 @@
             - the way their unique learning style fits with how they are being taught,
             - and the learning demands of what is being taught. 
         - This comparison results in strategies for action that can be applied in their ongoing learning process.
+- Today I feel that I still have many inner disturbances and my thoughts or process of my thinking is still pretty complicated and overload. 
