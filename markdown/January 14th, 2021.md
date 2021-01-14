@@ -1,0 +1,25 @@
+- I noticed in these recent meditations that
+    - I have a tendency to listen and involve with my mind when it talked about something that I'm interested on, especially thinking about creating something that's interesting. It feels hard for me to not be distracted by these interesting thoughts.
+    - Other thing is I noticed that my thoughts easily to be loop without an escape door. It doesn't have clear purpose and direction to guide it, so it keeps looping and I don't know how to end it.
+- For the activity that I want to let my classmates experience to learn about [[Kolb's experiential learning model]]
+    - The goals of the activities will be
+        - Teach my classmates how to apply the model into instructional design
+            - Helping my classmates to know about the model
+                - Definition
+                - Characteristics of each stage
+            - Understanding about the model
+            - Analyzing and evaluating how to apply into instructional design
+    - Stategy
+        - Using framegame to help my classmates know and understand about the models
+            - Understand about the definition
+                - Ví dụ về việc lái xe đạp
+                    - in the "concrete experience" stage, the learner physically interacts with the bike in the "here-and-now".[14] This experience forms "the basis for observation and reflection" and the learner has the opportunity to consider what is working or failing (reflective observation), and to think about ways to improve on the next attempt made at riding (abstract conceptualization). Every new attempt to ride is informed by a cyclical pattern of previous experience, thought and reflection (active experimentation).
+            - Understand about the characteristics of each stage
+            - Understanding what could be do in these stages
+            - Knowing how could apply into instructional design
+        - Using framegame to help them understand analyze and evaluate about the models
+            - Comparing the similarity and differences between Bloom's and Kolb's
+            - Comparing the strengths and weakness
+            - 
+    - Activities to reach above goals
+        - 

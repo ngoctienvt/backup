@@ -30,6 +30,9 @@ Ví dụ: sau khi thực hành và phản hồi (kết thúc giai đoạn cuối
 
 - [Kolb's experiential learning model](<Kolb's experiential learning model.md>)
 
+## [January 14th, 2021](<January 14th, 2021.md>)
+- For the activity that I want to let my classmates experience to learn about [Kolb's experiential learning model](<Kolb's experiential learning model.md>)
+
 ## [January 8th, 2021](<January 8th, 2021.md>)
 - I learn about [Schema](<Schema.md>), a concept related to how I learn to day. And somehow about the approach of humanism [Kolb's experiential learning model](<Kolb's experiential learning model.md>)
 
