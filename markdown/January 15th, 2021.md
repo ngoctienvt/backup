@@ -11,4 +11,17 @@
     - Mostly it will base on their beliefs, their perceptions, their way of seeing the world... if we take it as a truth and follow the path, we will be limit and maybe stuck together with them. 
     - Sometimes I feel restless as feeling the pressure to be able to see things fast, but gradually I notice that it's rather to pause and reflect, even it took more time but it's far more better than getting loss by trying to do too much.
 - I noticed that my mind tend to repeat the scenario many times as it is not secure for how things will happen. I felt quite worry and anxious about this, but I'm learning to accept that everything is just situations and experiences for me to grow. It's not about proving myself, it's about how I can grow and how can support others people by doing my best abilities at the moment.
+- I'm learning so much from today experiences.
+    - Learn about myself
+        - I still seems to easy to have split agendas and this is what makes me do not truly effective and not fully serve the moment in their best way - now I still tend to help them in how I think what's best.
+            - One of the reason is I am feel lazy to do more, I'm rather to have many experiences at once, and take time to digest them later. It's mean that my learning loop is not short, but quite a long loop. [[self-learning]] [[learning loop]]
+                - It would be better if I could shorten the learning loop, so that I can handle things much more effectively, and in a much more relax manner.
+            - I have the fear that I won't serve other best based on my abilities, but I have a wrong thinking. Because what best for them will not based on my thoughts, but based on reality.
+        - Evaluate myself too much and not see the meaning of other people existence
+        - Anyway, the good thing is I have a pretty strong thinking abilities and cognitive load. This is one of the most strengths of myself. However, it will need to get support from other abilities as well.
+    - Learn about an interesting models to help people [[self-learning]]. I will resolve more information about this later.
+    - Learn about [[🌱Instructional Design]]
+        - The content created from students should be resolve by them, not me.
+        - Acting more as a facilitator rather than an expert
+- [[Daily Worthy Stories]] Instructional Design. Activitiy. Split agendas. Competent to expert. Feel hard to slow.
 - 
