@@ -3,7 +3,7 @@
         - [[Kolb's experiential learning model]] is a good way for me to think about and start with.
             - There will be stage that I'm focusing on doing and experencing only, stage that I will look watch and see what happens, then there will be a stage I will use my mind to think.
             - This will free myself more of the addiction to use my mind only, and also help to increase my productivity as well as my well-being. 
-        - My mind also need to streamline to a path of clear output-oriented or have a clear intention to direct it. Without this, I will easily feel loss or just do the habit things and less things gradually build up, but it's not 
+        - My mind also need to streamline to a path of clear output-oriented or have a clear intention to direct it. Without this, I will easily feel loss or just do the habit things and less things gradually build up, but it's not the satisfied way to live life. It's living under capacities.
 - In tonight session, I will allow myself to be relax and focus on the experience, rather than worry about how things will happen. I will let myself fully see the session tonight as an learning experience where I and my groupmates learn to do better. It's about taking the experiences to become the better me, rather than trying to do things perfectly. 
     - This new way of seeing life will release my cognitive burden and live life as an journey much better.
     - I will do my best, but will let go of any expectations for what should happen. And appreciate all of the experiences that will happen, whether how it's turn out. As life is not about the end result, it's all about the journey and the experiences.
