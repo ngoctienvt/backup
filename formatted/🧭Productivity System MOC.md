@@ -22,6 +22,9 @@
 ## [January 13th, 2021](<January 13th, 2021.md>)
 - In this new stage of life, I want to have a clear picture about [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 
+## [January 16th, 2021](<January 16th, 2021.md>)
+- System to get the vision [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
+
 ## [January 6th, 2021](<January 6th, 2021.md>)
 - [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 

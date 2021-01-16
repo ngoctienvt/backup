@@ -6,6 +6,9 @@
 ## [December 14th, 2020](<December 14th, 2020.md>)
 If not, I will not have clarity in my head but rather keep the fog remain. [execution](<execution.md>)
 
+## [January 16th, 2021](<January 16th, 2021.md>)
+- Transition from now to desire picture - execution [execution](<execution.md>)
+
 ## [Workflow for an surrender life](<Workflow for an surrender life.md>)
 - [execution](<execution.md>)
 

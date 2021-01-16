@@ -1,0 +1,47 @@
+- [[My Personal Coaching Session]] 
+    - Session 1
+        - Facts - Finding - Insights
+            - What did I have from today coaching session?
+                - I clarify what I want to work on 
+                    - Vision [[My Life Polestar]]
+                        - In the vision, I get clarify on what I want to achieve
+                            - End goals that based on something more permanent, stable, and less change - not object dependent
+                                - A state of being - always feel joy, happiness, bless, love, peace, SATISFY - and not affected by emotions, external stimulus
+                                    - grow of awareness is a necessary thing or way need to happen to help me achieve the above state of being.
+                                - Create grow of awareness in others
+                                    - Directly through interaction
+                                    -  Helping them to build a system to grow themselves in a sustainable way
+                                    - Sống là một niềm cảm hứng - living as an inspiration
+                    - System to get the vision [[🧭Productivity System MOC]]
+                        - I learned that I'm not good at directly work on what I care about
+                            - I'm much more effective to handle my own thing through
+                                - Fully open and effective support through coaching of a coach that I can trust on
+                                    - Intellectual
+                                    - Skill
+                            - Through supporting other people to work on their own thing, I learn by somehow follow them along the path, and fill my information along the journey way them.
+                            - This insight opens me to see that I can create a system that can effectively help me create the path of self-evolution through prompt questions, open-end process...
+                    - Transition from now to desire picture - execution [[execution]]
+                        - From thinking focus to experience focus
+                        - From open loops to close loops with a trustable support system
+                - I noticed that the way anh Khánh coaching inspire me alot
+                    - He can objectively bring me out of the detail and help me to gain the big picture
+                    - His question is not problem-oriented, but rather supporting to help me clarify what I truly need to clarify so that I can progress next
+                    - He gives me a lot of room for self-thinking, self-processing, and self-talking so that he doesn't need too much unnesscary questions because I will talk about them by myself when I was given enough space.
+                    - He's not attached and have personal agendas while coaching, this helps him to fully focus on supporting me, instead of asking the questions that served him.
+                    - He can acknowledge people sincerely. This gives me the feelings of gain more confident and trust about myself and my own path. And sometimes, this is all what a client need.
+                - I also noticed that meditation is a good thing that needed to handle the step between experiences, feelings, and reflects before going into the generalization or conceptualization step. 
+                    - The reason is thinking need to happen after the absorbing or digesting stage finish.
+                    - [[catalyst]] is something that very important to help a person digest their experiences and feelings fully, this is much more important because if this is doing effectively, the generalization or thinking stage will happen much more natural and automatic.
+        - Feelings
+            - I feel satisfied about today coaching session. It helps me to progress a lot, because these are big questions that it will take much time for me to work on, and even though I work on myself, it will hard to gain the clarity as today coaching session.
+            - I feel grateful because I have someone who sincerely care about my growth and myself. I feel grateful for myself that trust on myself and allow myself to receive support when needed.
+            - I feel I grow so much and expand so much from today session as it is unstuck me and open me the whole new thing to process next.
+        - Futures
+            - I will meditate more about today session to fully absorb the experiences.
+            - I will process more things next based on today coaching session.
+            - I will learn more about coaching skills from Khánh from today session.
+        - Is there any thing left I want to clarify after today session?
+            - Probably there are still some feelings of excitement still linger about, it's the joy that I rarely have from truly growing and making progress.
+            - As well as the feelings of relief because my mind have the support it needed, so that it will not to feel overwhelm.
+- [[🌱focus on what matters]] 
+    - I also noticed that it's important to not try to do many things at once time, it's much better to break the intention into many parts and doing each parts completely and deeply. Everything need to go to serve that parts in the most effective way rather than spread things out or unintionally create distractions.

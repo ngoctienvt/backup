@@ -11,6 +11,9 @@
 ## [December 16th, 2020](<December 16th, 2020.md>)
 - I noticed that I'm developing myself in the direction that's taking care of person important with me. It's not my personal needs, it's just that in this journey on earth, there are limited people I can take care with my current ability. And I want to take care them. [My Life Polestar](<My Life Polestar.md>)
 
+## [January 16th, 2021](<January 16th, 2021.md>)
+- Vision [My Life Polestar](<My Life Polestar.md>)
+
 ## [November 20th, 2020](<November 20th, 2020.md>)
 It's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [My Life Polestar](<My Life Polestar.md>)
 
