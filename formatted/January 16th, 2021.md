@@ -47,4 +47,35 @@
     - I also noticed that it's important to not try to do many things at once time, it's much better to break the intention into many parts and doing each parts completely and deeply. Everything need to go to serve that parts in the most effective way rather than spread things out or unintionally create distractions. [serving the highlight](<serving the highlight.md>)
 - [Interactive Lectures](<Interactive Lectures.md>)
     - https://docs.google.com/document/d/1rhiyCuq1aKXJEFQIq4LPuHtgKwhLM8SmTRKnAUaO_dw/edit
-    - 
+    - **Các dạng hoạt động Interactive Lecture (Thiagi)**
+    - # **1. Review/tổng hợp bài học một cách chủ động (active review/summary)**
+        - **Best summarizes: **Người tham gia tổng hợp lại và trao đổi để tìm ra cái hay nhất trong từng đoạn thuyết giảng, sau đó chọn ra câu tổng hợp hay nhất.
+        - **Essences:** Người tham gia tổng hợp phần thuyết giảng trong 32 từ sau đó rút gọn lại dần (32 từ còn 16 từ, 16 từ còn 8 từ, 8 từ còn 4 từ, 4 từ còn 2 từ)
+        - **Superlatives: **Người tham gia viết ra ý quan trọng nhất sau khi nghe thuyết giảng - sau đó tổng hợp các ý quan trọng vừa viết ra thành các danh mục cho sẵn và chia sẻ các sắp xếp của mình (khó hiểu nhất; phổ biến nhất; buồn cười nhất; gây tranh cãi nhất; hấp dẫn nhất; đắt đỏ nhất; hiển nhiên nhất; tế nhị nhất; ngạc nhiên nhất; không phổ biến nhất). Sau khi đã chốt xong, người tham gia dựa vào các chia sẻ chèn thêm 1 danh mục mới và để mn sắp xếp vào và chia sẻ (ví dụ: khác biệt nhất trong các ý được liệt kê)
+        - **Thirty-Five: **người tham gia viết ra các ý quan trọng sau khi nghe thuyết giảng, sau đó bắt cặp chia sẻ và thống nhất cho điểm từ 1 số tổng (ví dụ cặp đôi sẽ có 10 điểm và hãy chấm cho 2 ý mà 2 người vừa chia sẻ), lặp lại thêm nhiều vòng trước khi kết thúc và đề nghị mọi người cùng chấm điểm và tạo ra 1 danh mục top 10 các ý có điểm cao nhất và thảo luận về nó.
+        - **Twos and Threes: **người tham gia nghe giảng, cùng lúc đó ghi chú lại các ý quan trọng, sau khi kết thúc nghe giảng, mỗi người sẽ viết ra 1 câu hỏi đóng hoặc chuẩn bị sẵn câu trả lời (assessment), và đi vòng quanh để gặp những người khác và trả lời câu hỏi, nhận được 1 điểm cho mỗi câu trả lời đúng. Sau đó làm tiếp vòng 3 là đặt 1 câu hỏi mở, và tạo thành nhóm 3 để hỏi và trả lời (câu trả lời nào sát hơn sẽ nhận được điểm cao hơn).
+        - **Words and Pictures:** người tham gia tổng kết bằng hình ảnh và bằng chữ viết, sau đó cho team bình chọn và phân tích ý nghĩa của nó.
+    - # **2. Các nhiệm vụ xen kẽ (Interspersed Tasks)**
+        - **Idea map** người thuyết giảng vừa trình bày vừa dừng lại để mọi người vẽ Mind map, sau đó đối chiếu với Mindmap mà người trình bày đã chuẩn bị.
+        - **Intelligent Interruptions** người thuyết giảng chuẩn bị sẵn 1 bộ các nhiệm vụ bao gồm câu hỏi hay tổng kết, sau đó vừa trình bày vừa dừng lại và đề nghị ngẫu nhiên người tham gia phản hồi theo các nhiệm vụ đó - có thể đa dạng nhiệm vụ và cách chuẩn bị nhiệm vụ, và cả cách lựa chọn.
+        - **Interactive Story:** kể 1 câu chuyện liên quan đến chủ đề đào tạo và đề nghị người tham gia phân tích nó theo từng phần.
+        - **Job Aid:** sử dụng Job Aid để làm rõ, thường liên quan đến nội dung mang tính quy trình/bước thực hiện; ví dụ: gửi một Job Aid gồm nhiều chi tiết, thông tin, phức tạp, người thuyết giảng sẽ trình bày, sau đó yêu cầu người tham gia đơn giản hóa lại Job Aid
+        - **Role Play: **trình bày nhanh nội dung, sau đó cho người tham gia đóng vai và có chuẩn bị sẵn các kịch bản hành động, lần lượt thay phiên nhau đóng vai sau đó phân tích những gì diễn ra.
+    - # **3. Lồng ghép câu đố (Integrated Quizzes)**
+        - **Bingo **- Sử dụng Bingo để tương tác với phần thuyết giảng
+        - **Crossword **- giải ô chữ cho các thông tin dạng factual
+        - **EG Hunt** - tìm ví dụ cho khái niệm vừa được nghe giảng
+        - **Team Quiz**: nhóm tạo câu hỏi (tương tự Twos and Threes) và đố lẫn nhau
+    - # **4. Đánh giá quá trình tiếp thu (Assessment - based learning) trước và sau phần thuyết giảng**
+        - **Confusion:** Người hướng dẫn trình bày nội dung, sau đó đề nghị người tham gia viết ra những điểm họ muốn làm rõ hơn. Mỗi người sẽ viết ra 2 điều trên thẻ, sau đó tráo đổi với nhau và cùng tìm ra câu trả lời
+        - **FAQs and Fakes:** Chuẩn bị sẵn 1 list các câu hỏi liên quan đến chủ đề, gửi đến mọi người (hoặc nhóm) và đề nghị họ viết ra các câu trả lời "fake", sau đó trộn lẫn các câu trả lời fake đó với câu trả lời thật của người hướng dẫn, và đề nghị người tham gia tìm ra câu trả lời thật. Giải thích và làm rõ sau khi mọi người đã có lựa chọn của mình.
+        - **Questionnaire Analysis:** làm các bài test và sau đó trình bày các kiến thức liên quan để người tham gia hiểu rõ(sau đó có thể test lại nếu cần)
+        - **Shouting match:** tranh biện được phân vai về chủ đề (bao gồm tích cực/tiêu cực hay các góc nhìn/quan điểm khác nhau)
+    - # **5. Người tham gia kiểm soát phạm vi và trình tự nội dung mà họ muốn (Participant control)**
+        - **Brainstorm:** đặt ra câu hỏi khảo sát hiểu biết của mọi người trước khi trình bày nó.
+        - **Fishbowl: **hướng dẫn và tương tác với một người, những người còn lại quan sát và có thể ra hiệu để tham gia bất kì lúc nào.
+        - **Item list:** Cho phép người tham gia chọn 1 trong các chủ đề (item) chuẩn bị sẵn và cùng làm rõ nó.
+        - **Press Conference: **Người tham gia đặt ra các câu hỏi, sau đó điều phối để phỏng vấn người hướng dẫn (như là một chuyên gia) để giúp mọi người tìm ra câu trả lời.
+    - # **6. Dạy lại cho người khác (Teamwork)**
+        - **Multilevel coaching:** Xác định những người có thể là chuyên gia (hoặc bạn sẽ dạy cho họ để trở thành chuyên gia) trong chủ đề sắp trình bày, sau đó đưa họ đi dạy lại cho những người khác
+        - **Team teaching:** Chia nhỏ chủ đề thành các phần có liên quan với nhau, gửi những phần rời rạc cho các nhóm và đề nghị họ đi quanh dạy lại cho nhau, trước khi ghép lại thành 1 bức tranh lớn
