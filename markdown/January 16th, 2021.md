@@ -45,4 +45,6 @@
             - As well as the feelings of relief because my mind have the support it needed, so that it will not to feel overwhelm.
 - [[🌱focus on what matters]] 
     - I also noticed that it's important to not try to do many things at once time, it's much better to break the intention into many parts and doing each parts completely and deeply. Everything need to go to serve that parts in the most effective way rather than spread things out or unintionally create distractions. [[serving the highlight]]
+- [[Interactive Lectures]]
+    - https://docs.google.com/document/d/1rhiyCuq1aKXJEFQIq4LPuHtgKwhLM8SmTRKnAUaO_dw/edit
     - 
