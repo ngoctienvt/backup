@@ -79,3 +79,5 @@
     - # **6. Dạy lại cho người khác (Teamwork)**
         - **Multilevel coaching:** Xác định những người có thể là chuyên gia (hoặc bạn sẽ dạy cho họ để trở thành chuyên gia) trong chủ đề sắp trình bày, sau đó đưa họ đi dạy lại cho những người khác
         - **Team teaching:** Chia nhỏ chủ đề thành các phần có liên quan với nhau, gửi những phần rời rạc cho các nhóm và đề nghị họ đi quanh dạy lại cho nhau, trước khi ghép lại thành 1 bức tranh lớn
+- It's been a long day with many experiences. I feel a little bit overload now, but I feel good about it.
+- 
