@@ -1,5 +1,8 @@
 
 # Backlinks
+## [January 17th, 2021](<January 17th, 2021.md>)
+- I feel that I want to focus base on what's the goal or an inner system that I want to develop first, and then develop them into a hierachial system rather than let them just be a spread non-hierachial and not linked knowledge. [deep connection](<deep connection.md>)
+
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - And if I want to connect with others deeply, I also need to just not see what's above the earth but understand what below it. [deep connection](<deep connection.md>)
 

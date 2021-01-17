@@ -34,14 +34,21 @@
     - Insights
         - What was your key takeaways?
         - How did insights will alter you in a postive way?
+        - What has already changed or started to change in you?
     - Abstract generalization
         - Why it worked?
         - How will this explain in a more general context?
         - What are the underlying principles?
 - Future
-    - How will you apply what you have learned?
-    - What has already changed or started to change in you?
-    - What choices do you have?
-    - How does it look to use the findings?
-    - What plan can you make for the future?
-    - What are your baby steps?
+    - Planning
+        - What you need to change/ to learn so that you can do better?
+        - What experiment you want to try next?
+        - What plan can you make for the future?
+        - What are your baby steps?
+        - How will you apply what you have learned?
+        - How does it look to use the findings?
+        - How could you apply what you learned to other contexts?
+    - When
+        - When will you do?
+    - Intention/ Measure of success
+        - How will you know that you test/ achieve/ complete/ know that you get what you want?

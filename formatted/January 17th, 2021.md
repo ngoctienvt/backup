@@ -21,4 +21,28 @@
         - Always have happiness, fulfillment, joy need me to focus on truly experiences by merging and letting go. Being a watcher, a witness conscious to know what happen. To truly simply see things rather than identify with things. [witness consciousness](<witness consciousness.md>)
         - The second step for making this life better is about conceptualize my knowledge, able to explain it in human language, form them to concepts or framework that could act as a mean or a way, a bridge to support other people. [bridging](<bridging.md>) [means](<means.md>)
         - And also the actual execution. This will be the mix of both, it's about serving the world the best as I can, but it's also about me having another experience to grow myself into.
+- I noticed that in order to know what's the right thing? It's very complicated and hard, because it will require try and learn. So it would be far more better if we know what's the wrong thing to do? And as long as we try and test outside of that zone, we are safe to grow. [zone of growing](<zone of growing.md>)
+    - For instance, as a coach, instead of having the right questions to ask
+        - It's better to let coach know what's the inappropriate questions, intentions, sources of questions, so that they can question their experiences and learn from that. 
+            - It's not about doing things right, it's about ability to learn to do better continuously when we fall to the below thing.
+            - It's not about always on the right track. It's about noticing how we get off track and learn from that, so that we can get back on the right track more often. [on the right track](<on the right track.md>)
+- [Having experiences](<Having experiences.md>) 
+    - For reading or absorbing experience, it felt not clear about how I will process in this stage. As sometimes, I feel that some materials are not needed to dig too much deep and it will very time-consuming and not effective.
+        - I need to have a clear boundary about how to handle the important materials and the materials that I can just experience or just simply take some notes about my thougths/ my insights and don't need to process more.
+        - The important materials are 
+            - Books that directly related to what I want to master and have a lot of knowledges that I need to conceptualize and digest.
+            -  Important concepts or knowledges that take time to digest
+                - Frameworks
+                - Principles/ rules
+            - These knowledges are the foundation map of knowledge that will help me to build up or expand my expertise in a significant way.
+        - The not-need-to-process-many-times materials
+            - Movies/ Films
+            - Short knowledge blog post
+            - Knowledge that compliment my internal knowledges
+            - These things I just need to take some notes when I already have my own inner knowledge system to fill them in.
+    - How I will process in this stage is also a big question
+        - I don't want to finish based on the constraint of the tools, like I have to finish a book, finish a long program...
+        - I feel that I want to focus base on what's the goal or an inner system that I want to develop first, and then develop them into a hierachial system rather than let them just be a spread non-hierachial and not linked knowledge. [deep connection](<deep connection.md>)
+- Methods/ tools/ techniques are means that what the mind think that they will help the mind to achieve something. And the most important of growth is clarify what something is, rather than losing on the tools and methods. [means](<means.md>) [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>) [true growth](<true growth.md>) [intentional](<intentional.md>) or purposeful
+- I noticed that I feel so disturb when I think that something I want to achieve may not be achieve. I still have some preferences and personal needs related to board game or physical stuffs. I need to work more on this.
 - 
