@@ -1,0 +1,67 @@
+- Mô hình này do Tiến sỹ Roger Greenaway thiết kế. Khi đi qua 4 bước của mô hình, người tham gia có thể đánh giá tình huống họ muốn nhìn lại một cách đa chiều, từ đó suy ngẫm về cách sử dụng những bài học họ đúc kết được cho một tình huống trong tương lai.
+- 4 F’s tương đương với:
+    - Facts (thực tiễn): Mô tả khách quan những gì đã diễn ra
+    - Feelings (cảm xúc): Phản ứng cảm xúc với tình huống đó
+    - Findings (bài học): Những bài học cụ thể mà bạn rút ra được từ tình huống
+    - Future (ứng dụng trong tương lai): Hệ thống hóa bài học đó để bạn có thể sử dụng nó trong tương lai
+- Trong mô hình nguyên bản, suy nghĩ không được đề cập tới. Tuy nhiên, để có thể nhìn lại trải nghiệm tốt hơn, bạn cũng có thể nhìn lại cả những suy nghĩ bạn có trong tâm trí khi trải nghiệm diễn ra. Nếu bạn muốn đưa cả suy nghĩ trong tình huống vào mô hình, nó có thể nằm trong phần Facts (thực tiễn) hoặc Feelings (cảm xúc), tập trung vào tình huống quá khứ. Còn phần Findings (bài học) và Future (ứng dụng) thường bao gồm những suy nghĩ tại thời điểm hiện tại và cần đa chiều hơn.
+- **Facts (thực tiễn)**
+    - Chữ cái F đầu tiên là Facts, đó là những gì thực sự xảy ra trong tình huống. Trong bước này, bạn nhìn nhận lại chuỗi sự kiện và những thời khắc quan trọng. Nếu bạn đang làm việc cùng một người khác, điều cần làm là giúp cả hai bên đồng thuận về những gì đã xảy ra. 
+    - Cần cẩn thận để thực tiễn không biến thành quan điểm cá nhân, ví dụ “Sau đó anh A làm điều sai trái” là quan điểm, còn “Sau đó anh A làm điều đó, và hệ quả của nó là…” là những gì xảy ra. [[discerning truth from perception]]
+    - __Những câu hỏi dẫn dắt:__
+        - Viết một bài phóng sự tin tức ngắn để nói về: Điều gì? Ai? Ở đâu? Lúc nào? (còn phần Tại sao? Bằng cách nào? nằm ở Findings)
+        - Có điều gì bất thường xảy ra? Có bất ngờ gì không?
+        - Có điều gì rất thường xuyên xảy ra?
+        - Điều gì đáng nhớ/khác biệt/thú vị nhất?
+        - Những điểm chuyển biến hoặc thời điểm quan trọng trong tình huống là gì?
+        - Điều gì xảy ra sau đó? Điều gì xảy ra ngay trước đó?
+        - Điều gì ảnh hưởng nhiều nhất tới thái độ và hành vi của bạn?
+        - Điều gì bạn mong muốn xảy ra nhưng đã không xảy ra?
+    - __Ví dụ về mô tả Facts đúng cách__
+        - Một khách hàng đến cửa hàng vào khoảng 4h chiều nay, lúc đó tôi đang ở cửa hàng một mình vì chị quản lý đang ra ngoài. Khách hàng đã phàn nàn về một sản phẩm cô ấy mua bị hỏng trước khi thời gian bảo hành kết thúc. Người khách hàng này nói rất to và còn mắng tôi. Mặc dù tôi chưa từng nhận sản phẩm lỗi bao giờ, nhưng tôi đã từng xem đồng nghiệp làm rồi. Tôi đã nói chuyện nhẹ nhàng với khách hàng và nói tôi sẽ giúp cô ấy xử lý vấn đề này. Và tôi đã làm như vậy.
+    - __Ví dụ về mô tả Facts sai cách__
+        - Ca làm việc tối qua ở nhà hàng rất đông khách. Lúc đó tôi phải phục vụ 5 nhóm khách lớn. Khi nhận gọi món, tôi nghĩ rằng mình có thể nhớ hết trong đầu, bởi vì tôi thường làm vậy khi nhà hàng có ít khách hơn. Nhưng hôm qua, tôi đã quên mất đồ uống cho một nhóm khách hàng, và tôi chỉ nhận ra sau đó 20 phút khi họ gọi tôi lại để nhắc nhở. Tôi đã quyết định cho họ đồ uống miễn phí, mà sếp tôi không hài lòng với quyết định này của tôi.
+- **Feelings (cảm xúc)**
+    - Ở đây, bạn có thể mô tả các cảm xúc trong tình huống. Cảm xúc có thể dẫn dắt để bạn hiểu tình huống sâu sắc hơn, từ đó bài học trở nên chắc chắn hơn, bám sát vào trải nghiệm.
+    - Điều dễ xảy ra ở đây là việc mô tả trở thành phán xét, đánh giá, vì vậy hãy chỉ mô tả cảm xúc. Cẩn thận để tránh nói “cảm thấy” thành một lời phán xét, ví dụ “Tôi cảm thấy họ đã làm sai rồi” hoặc “Tôi cảm giác rằng đó không phải là lựa chọn đúng”. Câu đầu là đánh giá một người khác. Còn câu sau là đánh giá lựa chọn của bản thân. Câu sau có thể chuyển thành “Tôi không tự tin với lựa chọn đó của mình”.
+    - __Những câu hỏi dẫn dắt:__
+        - Bạn có những cảm xúc, cảm giác nào?
+        - Tại thời điểm nào bạn cảm thấy gắn kết nhiều nhất hoặc ít nhất?
+        - Tại thời điểm nào bạn muốn bộc lộ hoặc kìm nén cảm xúc của mình nhiều nhất?
+        - Những điểm cao trào hoặc trùng xuống của bạn là gì?
+    - __Ví dụ về mô tả Feelings đúng cách__
+        - Thực ra tôi hơi sợ khi khách hàng rõ ràng đang nổi giận và bắt đầu mắng mỏ. Tôi mới vào làm, và tôi thấy khó xử vì mình không biết phải làm gì. Tôi đã cố gắng kìm nén các phản ứng của mình, bởi vì phản ứng tự nhiên của tôi sẽ là nổi giận và mắng lại khách hàng. Nhưng tôi đã kìm nén được và xử lý được vấn đề. Tôi thấy tự hào với điều này. Tôi không biết mình có thể làm được như vậy.
+    - __Ví dụ về mô tả Feelings sai cách__
+        - Tôi thấy thất vọng với bản thân mình. Tôi không dễ quên như vậy. Tôi cũng thấy xấu hổ khi khách hàng gọi tôi lại để nhắc nhở. Hình như họ cũng lưỡng lự mãi mới gọi tôi, có thể họ thấy không thoải mái khi gọi tôi, điều này lại càng làm tôi thấy có lỗi. Tôi tặng họ đồ uống miễn phí để giải tỏa cảm giác có lỗi này, và nó đã giúp tôi được phần nào.
+- **Findings (bài học)**
+    - Ở đây, bạn bắt đầu đào sâu và nhìn nhận tình huống để tìm ra ý nghĩa và đánh giá. Câu hỏi chủ đạo là “bằng cách nào / như thế nào” và “tại sao”.
+    - __Những câu hỏi dẫn dắt:__
+        - Tại sao điều này lại hiệu quả hoặc không hiệu quả?
+        - Tại sao bạn nhận vai trò đó?
+        - Tại sao bạn làm điều đó?
+        - Tại sao bạn không làm điều gì khác đi?
+        - …
+        - Cảm xúc của bạn đã ảnh hưởng tới những gì bạn nói và làm như thế nào?
+        - Làm cách nào mà bạn có được kết quả như trong tình huống này?
+        - …
+        - Có cơ hội nào bị bỏ lỡ? Có điều gì gây tiếc nuối?
+        - Bạn có muốn làm điều gì khác đi / nhiều hơn / ít hơn?
+        - Điều gì đáng học hỏi nhất / ít giá trị nhất?
+        - Có lời phản hồi / khen ngợi nào?
+        - Bạn nhận ra điều gì?
+    - __Ví dụ về mô tả Findings đúng cách__
+        - Tôi nghĩ lý do lớn nhất khiến tôi làm được là vì tôi đã không nổi giận với khách hàng. Tôi suýt nổi giận, nhưng tôi đã nhớ ra để hít một hơi thở sâu. Điều này đã cho tôi thêm thời gian suy nghĩ trước khi phản ứng lại. Nó cũng cho tôi nhớ lại các bước để xử lý việc trả lại hàng. Tập trung vào hơi thở đã thực sự giúp ích cho tôi. Tôi nhận thấy tình huống này thật đáng học hỏi, vì tôi giờ đã biết rằng mình có thể giữ bình tĩnh trong một tình huống áp lực như thế này.
+    - __Ví dụ về mô tả Findings sai cách__
+        - Tôi cho rằng lý do mình quên đồ uống là do tôi thường làm theo thói quen thay vì thay đổi theo tình huống thực tế. Tôi luôn tự hào vì mình chưa bao giờ cần ghi chép lại, nhưng thực tế thì ghi chép cũng chẳng có gì sai. Tôi thấy đáng tiếc vì trước đây tôi không nhận ra điều này. Sếp của tôi cũng bảo tôi chỉ cần dùng cuốn sổ nhỏ là đủ rồi. Tôi nhận ra rằng dựa dẫm quá nhiều vào thói quen có thể tạo ra cảm xúc tiêu cực và hậu quả cho bản thân và người khác.
+- **Future (ứng dụng cho tương lai)**
+    - Lúc này, bạn sử dụng bài học ở trên và cân nhắc xem có thể ứng dụng nó trong tương lai như thế nào.
+    - __Những câu hỏi dẫn dắt:__
+        - Bạn liên tưởng tới tình huống bạn sẽ sử dụng điều bạn vừa nhận ra như thế nào?
+        - Điều gì đã thay đổi?
+        - Bạn có những lựa chọn nào?
+        - Nếu ứng dụng những bài học này, kết quả gì sẽ xảy ra?
+        - Bạn có kế hoạch gì cho tương lai?
+    - __Ví dụ về mô tả Future đúng cách__
+        - Tôi nghĩ có hai điều tôi có thể đúc kết được từ tình huống này. Thứ nhất, tôi có thể coi đây là một ví dụ rằng tôi có thể làm được những nhiệm vụ mà tôi chưa chắc chắn. Điều đó sẽ cho tôi sự tự tin trong những tình huống mới. Thứ hai, việc hít thở sâu sẽ cho tôi thời gian chuẩn bị trước khi hành động. Tôi sẽ thực hành điều này mỗi khi gặp áp lực. Ví dụ khi tôi cãi nhau với người yêu. Có thể hít một hơi sâu sẽ khiến tôi kìm nén được khỏi mắng mỏ người yêu. Tôi muốn thử xem kết quả thế nào.
+    - __Ví dụ về mô tả Future sai cách__
+        - Trong tương lai, tôi sẽ ứng phó với tình huống tốt hơn. Giờ tôi đã biết là có những lúc tôi không nhớ được tất cả mọi thứ. Vì vậy, tôi sẽ phải sử dụng giấy ghi chú để ghi lại các món ăn khi nhà hàng đông khách. Tôi nghĩ bước đầu tôi sẽ để nó trong tạp dề bởi vì hiện tại tôi không có sổ ghi chép. Để thực tập việc sử dụng giấy, tôi sẽ bắt đầu ghi chép vào tối Thứ Sáu và Thứ Bảy, bất kể có đông khách hay không. Đó là những hôm nhà hàng thường đông khách. Còn những hôm khác thì tùy xem nhà hàng có đông khách hay không.

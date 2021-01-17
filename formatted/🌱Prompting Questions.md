@@ -1,0 +1,47 @@
+- Facts - What actually happened?
+    - Events
+        - What were highlights?
+        - What were lowlights?
+        - What was most memorable/ different/ interesting ?
+        - Did anything unexpected happen? Any surprises?
+        - Did anything very predictable happen?
+        - What were the turning points or critical moments?
+        - What happened next? What happened just before?
+        - What most influenced your attitude and behaviour?
+        - What didn't happen that you thought/hoped would happen?
+    - Thoughts
+        - What were your thoughts about that?
+        - What did you think at that moment?
+- Feelings 
+    - How do you feel now? (comparing to...)
+    - What are some of the feelings you experienced?
+    - At what point did you feel most or least involved?
+    - What other feelings present in the situation?
+    - What were your personal highs and lows?
+- Findings
+    - Find the gems and the gaps
+        - What was most / least valuable?
+        - What have you found out?
+        - What would you like to have done differently / more of / less of?
+    - Understanding
+        - Why 
+            - … did or didn’t it work? 
+            - …did you take on that role? 
+            - …did you do what you did? 
+            - …did you not do something else?
+        - How did your feelings influence what you said and did?
+        - How did you get the outcome that happened?
+    - Insights
+        - What was your key takeaways?
+        - How did insights will alter you in a postive way?
+    - Abstract generalization
+        - Why it worked?
+        - How will this explain in a more general context?
+        - What are the underlying principles?
+- Future
+    - How will you apply what you have learned?
+    - What has already changed or started to change in you?
+    - What choices do you have?
+    - How does it look to use the findings?
+    - What plan can you make for the future?
+    - What are your baby steps?

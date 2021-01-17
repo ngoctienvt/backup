@@ -169,7 +169,7 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
     - Design
         - Design major modules and learning out comes
         - How to debrief a training session
-            - [4F Debrief Framework](<4F Debrief Framework.md>)
+            - [4F Debrief Framework - Active Reviewing cycle](<4F Debrief Framework - Active Reviewing cycle.md>)
                 - Facts - Establish the context
                     - Share observations
                     - 5- Thu hoạch sự kiện (Facts) [Harvest facts activity](<Harvest facts activity.md>)
