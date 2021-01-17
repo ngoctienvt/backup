@@ -81,4 +81,6 @@
         - **Team teaching:** Chia nhỏ chủ đề thành các phần có liên quan với nhau, gửi những phần rời rạc cho các nhóm và đề nghị họ đi quanh dạy lại cho nhau, trước khi ghép lại thành 1 bức tranh lớn
 - It's been a long day with many experiences. I feel a little bit overload now, but I feel good about it.
 - I feel that walking on nature will help me to experience much easier, and less thing to distract me out of that stage. No iPad, no PC, no sleep,...
+- In today walk, I feel that I'm able to practice my ability to accept and handle experiences, rather than suppress or avoid it. I learn that I could skip the pain coming from the body and the limiting thoughts of my mind, because these are not the truth. 
+    - The truth is reality, not what I sense or think about.
 - 
