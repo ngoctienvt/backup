@@ -1,4 +1,4 @@
-- [[weekly reflection]]
+- [[📝Weekly Review]]
     - This week I start to clear my picture about productivity and my workflow, it's started to form the shape, but I need to take care important points and detail it.
     - The most important thing I leant this week is the [[horizon concept]]. It helped me to understand the different level of thinking and point of view clearer.
         - From abstract to concrete

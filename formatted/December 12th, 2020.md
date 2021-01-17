@@ -1,4 +1,4 @@
-- [weekly reflection](<weekly reflection.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights of the week:
         - My mind is starting to clearer and much more clarity about [true relationship](<true relationship.md>), [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>), [getting in touch with reality](<getting in touch with reality.md>)
         - Many new concepts that I learned this week help me to concrete my thinking and knowledge much more. This next week will be an exciting week to know what they will emerge when I'm deepen my understanding about them, and connect them together.

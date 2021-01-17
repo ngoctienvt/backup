@@ -1,7 +1,7 @@
 - I felt that I started to have a new whole door to explore and to learn from. It excites me but overwhelms me at the same time. The reason is I still have a tendency to rush through, to have now,... I start to rush myself to that dopamine, rather than being center and let things unfold slowly in a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 - 
 - 
-- [weekly reflection](<weekly reflection.md>) 
+- [📝Weekly Review](<📝Weekly Review.md>) 
     - My last week has been a week with new inspirations and directions. I started to feel that I will develop myself to become a thinker and a blogger to serve the world by my wisdom. I also find out something called [🌱Instructional Design](<🌱Instructional Design.md>) so that I could develop myself, and [learning facilitator](<learning facilitator.md>) to support other people learning effectively.
     - I noticed that my [🌱Unshakable Centering](<🌱Unshakable Centering.md>) is challenged because of many disturbances that emerge. I will spend most of my time today to work on this.
     - 

@@ -5,7 +5,7 @@
     - Second is plan how to tag
         - Daily journal tag
         - Reference tag
-- [[weekly reflection]] 
+- [[📝Weekly Review]] 
     - Highlights this week
         - Clarify and connect my horizons of focus
         - Develop the concept about abstract and concrete. 

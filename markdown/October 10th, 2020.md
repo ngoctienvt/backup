@@ -14,7 +14,7 @@ There is also a [[need for recognition]] that I haven't resolved fully yet. This
 To see the higher truth all the time and only keeps higher because you merge the experiences to each other. It's just actually become wholer and there will be no limit for that. The only limit is your ability to handle that level of truth. [[level of development]] 
 
 It's about whether you are evolved and expand yourself enough to handle that truth, and this is what we lived for. [[capacity to handle]] [[soul evolution]]
-- [[weekly reflection]] 10/10/2020
+- [[📝Weekly Review]] 10/10/2020
     - This week I felt that I started to get used to the way of natural living. I don't need to push myself too hard but my life still naturally moving forward, and I'm also able to aware what prevents myself to live that way as well. 
     - I felt that I'm naturally expanding and handling what's left inside of me that triggered everyday. I don't need to find it or wait until it becomes too much. 
     - I also felt that when I started to clean things, I'm becoming more and more energy inside that naturally moves me. I reduced the fear that I won't make anything meaningful for this life, because the fact that I learn things and improve my soul everyday is the best that I could do to be able to handle bigger [[demand of reality]]

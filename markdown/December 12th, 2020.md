@@ -1,4 +1,4 @@
-- [[weekly reflection]]
+- [[📝Weekly Review]]
     - Highlights of the week:
         - My mind is starting to clearer and much more clarity about [[true relationship]], [[🌱Training Course - Effortless Growth]], [[getting in touch with reality]]
         - Many new concepts that I learned this week help me to concrete my thinking and knowledge much more. This next week will be an exciting week to know what they will emerge when I'm deepen my understanding about them, and connect them together.

@@ -1,0 +1,15 @@
+- [📝Weekly Review](<📝Weekly Review.md>)
+    - It seems like I have a lot of experiences this week. I learned so much more things about myself.
+    - The highlight of the week is 
+        - I start to less feel restless and able to handle this more. 
+        - I also start to work on my intention, this is the most important part that will hold me on the right track, and influence my development in a significant way.
+    - My focus for next week
+        - Improving my coaching skills by listening the coaching session
+        - Clarify more about my vision
+            - Helping other to grow of awareness need to base on the principle that they have the right to choose, and learn to choose based on their own will is the most important thing for them.
+                - I can only provide the most supported space or environment that won't hinder their own free-will and choices.
+        - Clarify more about my system
+        - Continue to read Story Worthy
+        - Learn a bit about Super Brain
+    - I feel so grateful that I have all the support needed to have me grow and become better each day. I also feel grateful about myself for commit to do what I believe is good for me, and trust on myself. I also feel grateful that the universe is helping people around me. Everything is not needed to be my responsibilities on me only, it's the illusion of my ego.
+    - 

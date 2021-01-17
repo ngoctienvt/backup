@@ -10,7 +10,7 @@
     - Coaching will be for people who still have too much attachments for personal needs.
     - Mind-training for people who want to develop and use the intellectual part of the mind. It would also require spiritual teaching so that the process is completed.
     - Coaching -> spiritual teaching -> mind-training would be my ideal process for supporting others.
-- [[weekly reflection]] 
+- [[📝Weekly Review]] 
     - This week I have been focused on a few main [[samskaras]]: love, recognition, anger, and fear. My mind is becoming less and less stuffs when I write on Roam Research and they also started to condense in a much easier way.
     - I also feel that I want to work more on my body next week. [[physical body]] I will spend 2 days for doing a little bit of exercises that are Tuesday and Friday.
     - My [[coaching]] method is still not clear about the [[being coaching]]. I also want to work more on this. This approach is mainly focused on [[soul evolution]], not achieving the need of the mind. Being coaching will work more on helping the soul to dis-identify and start to pay attention to what really happens. Being coaching will also use [[generative language]] that formulate based on truth instead of personal perception.
