@@ -25,6 +25,9 @@
 ## [January 16th, 2021](<January 16th, 2021.md>)
 - System to get the vision [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 
+## [January 17th, 2021](<January 17th, 2021.md>)
+- I noticed that 2 things I want will be different steps of my work [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
+
 ## [January 6th, 2021](<January 6th, 2021.md>)
 - [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 

@@ -1,5 +1,8 @@
 
 # Backlinks
+## [January 17th, 2021](<January 17th, 2021.md>)
+- The second step for making this life better is about conceptualize my knowledge, able to explain it in human language, form them to concepts or framework that could act as a mean or a way, a bridge to support other people. [bridging](<bridging.md>) [means](<means.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - So what's important is to realize that the truth is there to be find out, but it does not belong to anyone. The [truth](<truth.md>) belong to itself, and everything else are just the [means](<means.md>)
 

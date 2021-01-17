@@ -12,4 +12,13 @@
         - Continue to read Story Worthy
         - Learn a bit about Super Brain
     - I feel so grateful that I have all the support needed to have me grow and become better each day. I also feel grateful about myself for commit to do what I believe is good for me, and trust on myself. I also feel grateful that the universe is helping people around me. Everything is not needed to be my responsibilities on me only, it's the illusion of my ego.
-    - 
+- I noticed that I still easy to have preferences for object of consciousness. Some objects make me feel good and I like that feelings. Some objects that I feel hard to handle need to be handle so that I won't be influence or control by it any more. [[deliberate practice]]
+    - The path to comeback to myself is not easy but simple. The point is it requires practice I grow myself to the point that I am stronger or higher than them. It's just like I know that I can walk doesn't mean that I can do it easily. It requires practice to be able to do that. And the practices will take time, effort, and even the good strategy for each different stage. 
+        - All I need to know is aware the state I am at, and develop a strategy to practice, and just keep practices until I come to the next level, or grow naturally.
+    - The point of becoming is actually not about achieving something external, it's about growing me to the point that I become that and can totally handle anything that makes me not that.
+- I still have a hard time to close my thinking process and focus on truly experience in the deepest way.
+    - I noticed that 2 things I want will be different steps of my work [[🧭Productivity System MOC]]
+        - Always have happiness, fulfillment, joy need me to focus on truly experiences by merging and letting go. Being a watcher, a witness conscious to know what happen. To truly simply see things rather than identify with things. [[witness consciousness]]
+        - The second step for making this life better is about conceptualize my knowledge, able to explain it in human language, form them to concepts or framework that could act as a mean or a way, a bridge to support other people. [[bridging]] [[means]]
+        - And also the actual execution. This will be the mix of both, it's about serving the world the best as I can, but it's also about me having another experience to grow myself into.
+- 
