@@ -57,14 +57,7 @@
 ## [being coaching](<being coaching.md>)
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
-- [coaching](<coaching.md>) is also a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-
-## [coaching reflection](<coaching reflection.md>)
-- developing or centering my coaching on [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-
-- making [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-
-- integrating between [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+- [🧭Coaching MOC](<🧭Coaching MOC.md>) is also a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
 ## [contextual linking](<contextual linking.md>)
 - the concept or ideas that I want to develop or resolve, so that I can understand this concept deeper to use [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
@@ -78,6 +71,13 @@
 
 ## [network note-taking](<network note-taking.md>)
 - My usage of network note-taking will be based on [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) with the main approach is [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
+
+## [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
+- developing or centering my coaching on [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+
+- making [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+
+- integrating between [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
 ## [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)

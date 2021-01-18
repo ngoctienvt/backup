@@ -52,7 +52,7 @@ inside.
     - languages - [[generating languages]]
     - behaviors - [[helpful manner]]
     - way of thinking
-- [[deep coaching]] In deep coaching, it's important to notice the intersection that makes clients going out instead of work on themselves. It's the part that they can't handle inside so they use outside to serve as a solution. [[reflection]]
+- [[Pure Coaching]] In deep coaching, it's important to notice the intersection that makes clients going out instead of work on themselves. It's the part that they can't handle inside so they use outside to serve as a solution. [[reflection]]
     - For instance, if a client want to have a higher salary, it's because there is a part inside of them that want to have a higher salary so that it will not feel uncomfortable or stuck inside.
     - Pointing to the right part is very important because it will [[evoke awareness]] that directly relate to what client need to deal with.
 - [[living in the present]] I have a sensation about building up this thing is like I connect with all of the earth that below me (past experiences, my accumulated self, my past journey...) that are integrated and easy to relate with. Then I will just continue to build up myself from that based on [[demand of reality]] instead of worrying about where I need to go to. [[bottom-up approach [[being mode]] 

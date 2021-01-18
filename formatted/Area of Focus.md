@@ -6,7 +6,7 @@
     - [🧭Productivity System MOC](<🧭Productivity System MOC.md>)
 - [work](<work.md>)
     - [training](<training.md>)
-    - [coaching](<coaching.md>)
+    - [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [life knowledges](<life knowledges.md>)
 
 # Backlinks

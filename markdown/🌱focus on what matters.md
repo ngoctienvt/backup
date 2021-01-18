@@ -27,7 +27,7 @@
 - right tools
     - [[support system]] to utilize external tools, so internal tools focus energy on what's important 
         - creating an [[Evergreen garden]] to support thoughts process and store personal knowledge [[workspace for intellectual mind]]
-        - [[coaching]]
+        - [[🧭Coaching MOC]]
 - momentum
     - [[setting up for success]] to create [[snowball]]
         - [[positive inner feedback loop]]

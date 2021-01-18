@@ -11,6 +11,6 @@
 
 - relies on understanding the person, not their situation or problem. [Coach the person](<Coach the person.md>)
 
-## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [Coach the person](<Coach the person.md>)
 

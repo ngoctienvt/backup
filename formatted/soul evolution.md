@@ -79,7 +79,7 @@ I don't want to force myself to meet that demand, but rather I will develop a na
 - We are all in the process of becoming. [soul evolution](<soul evolution.md>)
 
 ## [September 26th, 2020](<September 26th, 2020.md>)
-- My [coaching](<coaching.md>) method is still not clear about the [being coaching](<being coaching.md>). I also want to work more on this. This approach is mainly focused on [soul evolution](<soul evolution.md>),
+- My [🧭Coaching MOC](<🧭Coaching MOC.md>) method is still not clear about the [being coaching](<being coaching.md>). I also want to work more on this. This approach is mainly focused on [soul evolution](<soul evolution.md>),
 
 ## [The Pilot MOC](<The Pilot MOC.md>)
 - evolution [soul evolution](<soul evolution.md>)

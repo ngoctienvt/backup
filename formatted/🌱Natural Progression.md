@@ -136,6 +136,6 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 
 - __The coach explores with the client until it becomes evident what the person really needs. __ [🌱Natural Progression](<🌱Natural Progression.md>)
 
-## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [🌱Natural Progression](<🌱Natural Progression.md>)
 

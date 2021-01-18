@@ -37,7 +37,7 @@ Instead of looking at I'm not enough because this is the fact already, I can use
 - My language still haven't address to change it into a [generative language](<generative language.md>).
 
 ## [September 26th, 2020](<September 26th, 2020.md>)
-- My [coaching](<coaching.md>) method is still not clear about the [being coaching](<being coaching.md>). I also want to work more on this. This approach is mainly focused on [soul evolution](<soul evolution.md>), not achieving the need of the mind. Being coaching will work more on helping the soul to dis-identify and start to pay attention to what really happens. Being coaching will also use [generative language](<generative language.md>)
+- My [🧭Coaching MOC](<🧭Coaching MOC.md>) method is still not clear about the [being coaching](<being coaching.md>). I also want to work more on this. This approach is mainly focused on [soul evolution](<soul evolution.md>), not achieving the need of the mind. Being coaching will work more on helping the soul to dis-identify and start to pay attention to what really happens. Being coaching will also use [generative language](<generative language.md>)
 
 ## [September 27th, 2020](<September 27th, 2020.md>)
 - [x] Working with [generative language](<generative language.md>)

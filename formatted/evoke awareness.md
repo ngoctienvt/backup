@@ -1,8 +1,5 @@
 
 # Backlinks
-## [Coaching](<Coaching.md>)
-- [evoke awareness](<evoke awareness.md>)
-
 ## [October 17th, 2020](<October 17th, 2020.md>)
 - Pointing to the right part is very important because it will [evoke awareness](<evoke awareness.md>)
 

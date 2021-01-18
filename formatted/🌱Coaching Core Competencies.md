@@ -6,7 +6,7 @@ where they are]]
         - deep trust and connection
         - impersonal support
     - how to check our deep listening? 
-        - [coaching reflection](<coaching reflection.md>)
+        - [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
         - [coaching questions](<coaching questions.md>) need to base on what we listen instead of just throw them in the air.
             - the power of coaching questions based on how deep we are able to listen
 - 
@@ -18,11 +18,14 @@ where they are]]
 
 # Backlinks
 ## [October 27th, 2020](<October 27th, 2020.md>)
-- The most important [coaching skills](<coaching skills.md>)
+- The most important [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>)
 
 ## [October 29th, 2020](<October 29th, 2020.md>)
-- My focus now will be about my [coaching skills](<coaching skills.md>).
+- My focus now will be about my [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>).
 
 ## [October 9th, 2020](<October 9th, 2020.md>)
-- When I think about the coaching skills and how I could coach with a confident, I feel that the coaching skills are not separate skills to learn, actually the skills are all the tools needed but learning how to master each tools for different scenarios and situations is the key here. [coaching mastery](<coaching mastery.md>) [coaching skills](<coaching skills.md>)
+- When I think about the coaching skills and how I could coach with a confident, I feel that the coaching skills are not separate skills to learn, actually the skills are all the tools needed but learning how to master each tools for different scenarios and situations is the key here. [coaching mastery](<coaching mastery.md>) [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>)
+
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
+- ### [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>)
 

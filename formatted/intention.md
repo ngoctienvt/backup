@@ -34,7 +34,7 @@
 
 - disidentify and focus on what my intention want to really put on, instead of letting it distracted by the mind, the heart and the external world. The energy will be put to use on what's important instead of simply got caught by what the mind interested [intention](<intention.md>).
 
-- Recently I lost my ability to [deep coaching](<deep coaching.md>) and start to coach at surface level. I focus too much on my hidden agenda instead of clear about the [intention](<intention.md>)
+- Recently I lost my ability to [Pure Coaching](<Pure Coaching.md>) and start to coach at surface level. I focus too much on my hidden agenda instead of clear about the [intention](<intention.md>)
 
 - My main [intention](<intention.md>)
 

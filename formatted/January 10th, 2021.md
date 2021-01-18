@@ -1,7 +1,7 @@
 - [📝Coaching Review](<📝Coaching Review.md>)
     - Today I noticed that it seems like I'm still coach the problem, but in a disguise of coaching the person.  [Coach the problem](<Coach the problem.md>)
         - The whole point of [Coach the person](<Coach the person.md>) is not about changing beliefs, state of being, but it's about working on the root cause of what they are talking about. I will need to make more clear so that I noticed how I go off track and how I could learn to go on the right track again.
-    - In the next period of time, my whole understanding and point of view about [pure coaching](<pure coaching.md>) will need to revamp, in the time I comeback to the coaching that I truly want to do and not misunderstand it.
+    - In the next period of time, my whole understanding and point of view about [Pure Coaching](<Pure Coaching.md>) will need to revamp, in the time I comeback to the coaching that I truly want to do and not misunderstand it.
         - The pure coaching will mainly focus on coach the person and require no need of tools but rather the internal human skills of the coach.
     - I also learned that my way of learning is understanding go first, but skills need to build and truly understand, rather than just explain what I know. The deep understanding comes from the context and the experiences that I manage to complete, not what I know about it. [deeper understanding](<deeper understanding.md>)
         - These things will not [explicit knowledge](<explicit knowledge.md>) but rather [implicit knowledge](<implicit knowledge.md>) or [tacit knowledge](<tacit knowledge.md>). 

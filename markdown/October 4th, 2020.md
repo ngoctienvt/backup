@@ -23,7 +23,7 @@ I noticed that when I'm approaching things to train others, I like to work from 
     - Attending lectures or training program, reading books or articles, discussion with others and writing itself is all the means to discover the [[truth]]
     - So what's important is to realize that the truth is there to be find out, but it does not belong to anyone. The [[truth]] belong to itself, and everything else are just the [[means]] to understand more about the truth. 
     - I need to see things [[as a whole]] instead of separation and understand the process behind everything more deeply so I can use the [[means]] in an effective way, instead of lost in the [[tools]]. Because it's more important that the [[users]] learned how to use tools properly to gain [[deeper understanding]] about truth.
-- [[coaching reflection]] Last night coaching with Kỳ Anh, I felt that my energy and focus are quite low, I also lost in the mind that how coaching really works for me. It seems like I'm trying too hard and didn't let the coaching process really occurs naturally. I also really not hold what's the [[end goal]] that suitable for [[deep coaching]] to happen but rather just work mindlessly. 
+- [[🌱My Coaching Reflection]] Last night coaching with Kỳ Anh, I felt that my energy and focus are quite low, I also lost in the mind that how coaching really works for me. It seems like I'm trying too hard and didn't let the coaching process really occurs naturally. I also really not hold what's the [[end goal]] that suitable for [[Pure Coaching]] to happen but rather just work mindlessly. 
 
 Ideally, the [[coaching process]] will need to have these things:
     - a goal that address the true issues, hidden concerns, or what's significant instead of surface levels.

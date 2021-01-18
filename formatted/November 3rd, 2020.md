@@ -4,7 +4,7 @@
     - I feel that I want to support people who already have the desire, the willingness, only lack the ability to work on the right thing. [target clients](<target clients.md>)
     - Is there any my [personal agenda](<personal agenda.md>) here? Not much I think. Maybe a few expectations for compensation if it will succeed, or a little bit feeling good when able to support a person.
 - Each intention most of the time will have a certain amount of [personal needs](<personal needs.md>). To truly raise the moment and support them develop on their own perfect way, it's important to let go all of these personal needs, so that there will be nothing that I will do for my [lower-self](<lower-self.md>), and only to [serving the demand of reality](<serving the demand of reality.md>) instead.
-- [coaching reflection](<coaching reflection.md>) I felt that I'm still quite restless and not fully relax and let things happen. I still have a little bit of try to prove the effectiveness of coaching, instead of fully surrender myself to the moment and the person in front of me.
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) I felt that I'm still quite restless and not fully relax and let things happen. I still have a little bit of try to prove the effectiveness of coaching, instead of fully surrender myself to the moment and the person in front of me.
 - 
 - After taking a [surrender walk](<surrender walk.md>), I can truly zoom-out to see that life always happens by itself, not depend and own by anyone, any individual or creature. 
 

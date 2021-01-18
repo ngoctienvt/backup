@@ -51,9 +51,6 @@
 ## [November 29th, 2020](<November 29th, 2020.md>)
 - I noticed that a big topic can explore different aspects slowly, and don't need to focus to understand clearly at once. Just like a puzzle picture can be fill in slowly, depend of what's unfolding and my interests. [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
-## [coaching reflection](<coaching reflection.md>)
-- [🌲Top-down Processing](<🌲Top-down Processing.md>)
-
 ## [contextual linking](<contextual linking.md>)
 - the topics that includes the smaller topics, so that when I'm accumulated the information enough, I could see the pattern of them to use [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
@@ -72,6 +69,9 @@
 - After establishing a starting point, the next thing is about the [mastery](<mastery.md>) process. The process of mastery is what's I actually do in the [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
 - Synthesis things by a [🌲Top-down Processing](<🌲Top-down Processing.md>)
+
+## [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
+- [🌲Top-down Processing](<🌲Top-down Processing.md>)
 
 ## [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 - [🌲Top-down Processing](<🌲Top-down Processing.md>)

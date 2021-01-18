@@ -1,7 +1,7 @@
 - This morning I feel that I'm too tired and I just slept over and over again. It feels like I'm drowning but don't know how to get out of that. I'm not sure what would help me to remain conscious and get out of that stage. And what's the main reason for this? 
 
 It could be [physical energy](<physical energy.md>) but I feel tired even when I fall asleep, so something is more than that and would be about the way I recharge my energy [recharge](<recharge.md>) [energy management](<energy management.md>).
-- When I think about the coaching skills and how I could coach with a confident, I feel that the coaching skills are not separate skills to learn, actually the skills are all the tools needed but learning how to master each tools for different scenarios and situations is the key here. [coaching mastery](<coaching mastery.md>) [coaching skills](<coaching skills.md>) [contextual management](<contextual management.md>)
+- When I think about the coaching skills and how I could coach with a confident, I feel that the coaching skills are not separate skills to learn, actually the skills are all the tools needed but learning how to master each tools for different scenarios and situations is the key here. [coaching mastery](<coaching mastery.md>) [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>) [contextual management](<contextual management.md>)
 
 And in other to gain [contextual management](<contextual management.md>), learning the knowledge is not enough, practicing alone is not enough, it's about deep reflection to [deeper understanding](<deeper understanding.md>) and [union experiences](<union experiences.md>) that related to that situation so that we could embrace the skills fully on ourselves.
 

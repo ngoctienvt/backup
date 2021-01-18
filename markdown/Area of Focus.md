@@ -6,5 +6,5 @@
     - [[🧭Productivity System MOC]]
 - [[work]]
     - [[training]]
-    - [[coaching]]
+    - [[🧭Coaching MOC]]
 - [[life knowledges]]

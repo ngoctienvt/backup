@@ -74,7 +74,7 @@
 - [true freedom](<true freedom.md>) and [true happiness](<true happiness.md>) are what everyone want, every goal if I look deeply, it only based on two things [end goal](<end goal.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>) Last night coaching with Kỳ Anh, I felt that my energy and focus are quite low, I also lost in the mind that how coaching really works for me. It seems like I'm trying too hard and didn't let the coaching process really occurs naturally. I also really not hold what's the [end goal](<end goal.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) Last night coaching with Kỳ Anh, I felt that my energy and focus are quite low, I also lost in the mind that how coaching really works for me. It seems like I'm trying too hard and didn't let the coaching process really occurs naturally. I also really not hold what's the [end goal](<end goal.md>)
 
 - He also clear that the important is the [purpose](<purpose.md>) or the [end goal](<end goal.md>)
 

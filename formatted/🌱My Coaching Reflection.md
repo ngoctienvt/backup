@@ -7,63 +7,63 @@
 
 # Backlinks
 ## [November 19th, 2020](<November 19th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [November 29th, 2020](<November 29th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [November 30th, 2020](<November 30th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [November 3rd, 2020](<November 3rd, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [November 9th, 2020](<November 9th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 1st, 2020](<October 1st, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 26th, 2020](<October 26th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 27th, 2020](<October 27th, 2020.md>)
-where they are]] through the [coaching reflection](<coaching reflection.md>)
+where they are]] through the [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 28th, 2020](<October 28th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 29th, 2020](<October 29th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 30th, 2020](<October 30th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 5th, 2020](<October 5th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [October 7th, 2020](<October 7th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
-- [coaching reflection](<coaching reflection.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
-## [coaching skills](<coaching skills.md>)
-- [coaching reflection](<coaching reflection.md>)
+## [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 

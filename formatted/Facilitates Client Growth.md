@@ -10,6 +10,6 @@
 
 - My main realization is context is very important and manage the contexts is an important skill that I need to develop. [contextual management](<contextual management.md>). It's helpful for providing clarity and focus, while it could be expand slowly or dig deeply depend on the direction, so that a person can learn in a much effective way. [Facilitates Client Growth](<Facilitates Client Growth.md>)
 
-## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [Facilitates Client Growth](<Facilitates Client Growth.md>)
 

@@ -7,7 +7,7 @@
 - I felt tired today and feel that I need to [[recharge]] my energy first.
 - I noticed that I want to write a post about my [[coaching services]] so that I could get in touch and support with the suitable clients that need my help.
     - The coaching services will talk who is suitable for my services, who is not,...
-- [[@Nguyễn Mỹ Linh]] also made me realize that I have a tendency to work by [[top-down approach  too much, though it's work for quite certain of times. But there is time it's not. [[deep coaching]] 
+- [[@Nguyễn Mỹ Linh]] also made me realize that I have a tendency to work by [[top-down approach  too much, though it's work for quite certain of times. But there is time it's not. [[Pure Coaching]] 
 - 
 - I have a little bit [[worry]] about how logseq saves my notes, but I guess it will be fine and will test it more to refine this process.
 - 

@@ -16,7 +16,7 @@
 - a [deeper understanding](<deeper understanding.md>) is built on the connections of context that help to build up [contextual management](<contextual management.md>).
 
 ## [October 9th, 2020](<October 9th, 2020.md>)
-- When I think about the coaching skills and how I could coach with a confident, I feel that the coaching skills are not separate skills to learn, actually the skills are all the tools needed but learning how to master each tools for different scenarios and situations is the key here. [coaching mastery](<coaching mastery.md>) [coaching skills](<coaching skills.md>) [contextual management](<contextual management.md>)
+- When I think about the coaching skills and how I could coach with a confident, I feel that the coaching skills are not separate skills to learn, actually the skills are all the tools needed but learning how to master each tools for different scenarios and situations is the key here. [coaching mastery](<coaching mastery.md>) [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>) [contextual management](<contextual management.md>)
 
 And in other to gain [contextual management](<contextual management.md>),
 

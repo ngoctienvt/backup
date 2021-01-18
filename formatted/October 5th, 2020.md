@@ -9,7 +9,7 @@ This is really a big [life lessons](<life lessons.md>) for me about releasing al
     - [x] [energy management](<energy management.md>)
     - [x] condensing knowledge about deep coaching
 - 
-- [coaching reflection](<coaching reflection.md>) I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
 - [Expanding questions](<Expanding questions.md>) How to organize information in Roam Research?
 
 - Instead of thing how to organize Roam Research, it would be better if I find out how I can let the process build itself like how the life works. [self-evolving process](<self-evolving process.md>)

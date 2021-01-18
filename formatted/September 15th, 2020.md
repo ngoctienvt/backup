@@ -88,7 +88,7 @@ OK - [Binz](<Binz.md>) [funny](<funny.md>)
     - The lower level is mind understanding, which means I can understand the concept, but haven’t able to merge it into a part of my self. It’s still like the weapon that hold in my hand, instead of become a part of my body.
     - The lowest level is mind remembering, which means I can only know what it is but not actually able to comprehend it.
     - And the measure of success for understanding is how rich you understand and apply your understanding to real world [deeper understanding](<deeper understanding.md>) [real life application](<real life application.md>)
-- Recently I lost my ability to [deep coaching](<deep coaching.md>) and start to coach at surface level. I focus too much on my hidden agenda instead of clear about the [intention](<intention.md>) of [deep coaching](<deep coaching.md>).
+- Recently I lost my ability to [Pure Coaching](<Pure Coaching.md>) and start to coach at surface level. I focus too much on my hidden agenda instead of clear about the [intention](<intention.md>) of [Pure Coaching](<Pure Coaching.md>).
     - Deep coach is more about to go deeper inside themselves, to go deeper into the heart and less work at the mind or thought level. 
     - the process is mind -> emotion -> being and deep coach intention is nothing related to what the coach feel rights, but about helping clients to be able to go deeper into themselves.
     - the coach is only the person who guided them into that deepening process instead of working at the mind level.

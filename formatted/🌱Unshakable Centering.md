@@ -132,9 +132,6 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 ## [The process to keep myself follow my life polestar](<The process to keep myself follow my life polestar.md>)
 - [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
-## [coaching skills](<coaching skills.md>)
-- [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
-
 ## [helpful manner](<helpful manner.md>)
 - [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
@@ -148,6 +145,9 @@ I also noticed I still have too much [attachment](<attachment.md>) for materials
 - [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
 ## [trueself competency](<trueself competency.md>)
+- [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
+
+## [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>)
 - [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
 ## [🌱My End Goals](<🌱My End Goals.md>)

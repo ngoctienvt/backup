@@ -19,6 +19,9 @@ If we decide everything will make us happy, anything makes us not happy will be 
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - #[my quotes](<my quotes.md>)
 
+## [January 18th, 2021](<January 18th, 2021.md>)
+- Context is where mastery nutured. [my quotes](<my quotes.md>)
+
 ## [January 4th, 2021](<January 4th, 2021.md>)
 - We may all have the same end goals, but we will never have the same prefer and suitable way to reach the end goal. #[my quotes](<my quotes.md>)
 

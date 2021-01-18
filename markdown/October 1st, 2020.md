@@ -1,4 +1,4 @@
-- [[coaching reflection]] As today, I can feel that the coaching is effective due to the fact that I didn't start with what clients want to discuss, but rather explore to understand deeply first.
+- [[🌱My Coaching Reflection]] As today, I can feel that the coaching is effective due to the fact that I didn't start with what clients want to discuss, but rather explore to understand deeply first.
     - However, there are some moments that I feel I still explain too much instead of concise [[reflection]] and support clients to formulate their own [[understanding]].
     - I felt that I still in charge too much unnecessary. In fact, I want to support them to work on their own first, and only have some [[stand back support]] to help them facilitate their development. [[silence]]
 - I noticed that I have a big desire to support other people to become better and that makes me want to share I know, what I find out to support them. But sometimes I focus too much on the process of sharing and forget the [[end goal]] are not sharing, but how helpful they are with them and how they can utilize it to become better. [[helpful manner]]

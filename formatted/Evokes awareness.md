@@ -13,6 +13,6 @@
 
 - Sometimes the client is surprised that what they said came across the way you reflected it back to them thus opening up discussion opportunities. [Evokes awareness](<Evokes awareness.md>)
 
-## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [Evokes awareness](<Evokes awareness.md>)
 

@@ -30,7 +30,7 @@
 - I'm on the process to find a hard boundary for my way of storing information blocks. And as well as finding what will be included inside of it. [information block](<information block.md>)
 - In order to know [types of information block](<types of information block.md>), I need to know what is the [contextual usages](<contextual usages.md>) that I want to have first.
     - 
-- [coaching reflection](<coaching reflection.md>) Today coaching, I noticed that I'm not fully starting with where client at, but tend to start with where I'm at. This is not totally wrong, but it is ineffective because of my position should be supporter, not be a source of truth. [[meet people
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) Today coaching, I noticed that I'm not fully starting with where client at, but tend to start with where I'm at. This is not totally wrong, but it is ineffective because of my position should be supporter, not be a source of truth. [[meet people
 where they are]] 
 
 I felt that my coaching is not fully releasing myself and helping clients to shine their own way yet. I still feel I'm trying to do too much. 

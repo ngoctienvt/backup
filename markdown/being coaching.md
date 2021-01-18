@@ -1,2 +1,2 @@
 - [[🌲Bottom-up Emergence]]
-    - [[coaching]] is also a [[🌲Bottom-up Emergence]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]
+    - [[🧭Coaching MOC]] is also a [[🌲Bottom-up Emergence]] that have [[accumulated interest]] and coach also a person who create [[sustainable development]] by helping clients growing their [[trueself competency]] through their [[personal intention]]

@@ -3,4 +3,21 @@
     - However, good people have advantages that if they can develope their power properly and know clearly what’s right and wrong things to do. They can have the same power as bad guys. It’s just require them to integrate more things
     - Good people also gain trust and support from other people, because everyone has their own inner power that can only lead to the good thing in the end. So bad guys can have partners when they have the same purpose, but these purposes are personal and they can disappear anytime.
         - Good people based their purposes on something much more stable because they based on truth, universal things that we evolve into. So in the long run, good people can transform bad people to become their partners if done in a right way.
-- 
+- I feel very annoy and uncomfortable when people seems like not have proper preparation. I'm kind of care about how things need to prepare properly and don't like when it's not. I don't like to have to react in the moment.
+- When I had a walk, I noticed that it's not easy to always connect ourselves to the end goal [[My Life Polestar]]
+    - Sometimes there will be smaller things that we need to discuss.
+    - There will be a level above that we need to focus on
+    - Things will happen and there will external things that force us to focus on the end goal or make actions rather than have time to think through.
+- I also noticed that it would be much easier when I focus on break down a single coaching session into 3 parts: beginning, middle, and ending. [[Pure Coaching]]
+    - [[Begin of a coaching session]]
+        - Clarify client's concern
+        - Clarify the goals of the session - 
+        - Clarify the measure of success of the goals
+        - Clarify how clients know that they reach their measure of success
+    - This is the fundamental block of coaching session and it will be a place where we will need to learn to use our skills or abilities properly to handle it. 
+        - It will help to streamline our abilities into places rather than just as isolated skills.
+        - Context is where mastery nutured. [[my quotes]]
+- I need to learn to separate and draw the line between what's impersonal and what's personal, so that's I will not refuse other people but rather learn how to differentiate and deal with these 2 parts properly. [[inner clarity]] [[differentiate the impersonal and personal]]
+- I noticed that I want to ask Linh about how current stage. It's just that I feel I want to have a talk with her. I want to know more about her, connect more with her. For her sake? Or for my sake? The large part seems like still for my sake.
+    - I still feel quite alone, boring, not have clear purpose, want to connect with someone deeply rather than for other people sake.
+    - 

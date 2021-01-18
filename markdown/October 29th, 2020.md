@@ -1,4 +1,4 @@
-- My focus now will be about my [[coaching skills]]. 
+- My focus now will be about my [[🌱Coaching Core Competencies]]. 
     - The skill will be focus on is [[🌱Unshakable Centering]], so that I could feel comfortable with accepting the perfect people that in front of me. 
     - What I meant [[perfect]] here is not they are perfect as how I want so that I feel good and not feel disturbed inside. [[perfect]] here means that they are the perfect result of their past experiences, of all the forces that created the universe and they are perfect inside.
     - So learning to enjoy the moment in front of me without the [[personal needs]] to change it so that it will be make me feel good is the most important thing to develop my [[Maintains Presence]]. 
@@ -15,7 +15,7 @@ I will be presence myself to interact with them as a whole, not to use them to i
 - [[Articles - Start a blog]]
 - I also noticed that there is a big fear, a big limitation for me to go beyond myself to embrace the wholeness of the world when I think about going [[international]], going beyond my [[Vietnamese]] and drop myself to the ocean of the vast world that are separated unconsciously. [[wholeness]] [[beyond personal-self]]
 - [[Articles - My Information Operating System Part 3: Synthesizing]] [[Resources]]
-- [[coaching reflection]] Today when I coach for [[@Nguyễn Thúy Hằng]], I felt so much relief and have more trust for myself, because I can see the result of my coaching that truly satisfy my desire for [[sustainable development]] and not just work on the surface. 
+- [[🌱My Coaching Reflection]] Today when I coach for [[@Nguyễn Thúy Hằng]], I felt so much relief and have more trust for myself, because I can see the result of my coaching that truly satisfy my desire for [[sustainable development]] and not just work on the surface. 
     - My [[fear]] about trying to have the good result is shifting to [[trust the process]] by doing what feel right at the moment. I can always improve it later.
     - It's funny to see a [[coaching metaphor]] about the way of [[living without causing harm]] that I used to use before reappear again. Everyone have a hard time following their samskaras and cause them to live a life that make them smaller instead of expand themselves. [[self expanding]]
     - I still have a tendency to give advices though I'm not sure that it will necessary or not. The reason is because I have the [[need for perfect]]. And this need is to serve myself, not the person in front of me. [[perfect]] I want to let go this need for perfect, and embrace [[trust the process]] instead, because no one can plan their future, they grow continuously through experiences and new awareness.

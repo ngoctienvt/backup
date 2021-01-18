@@ -13,7 +13,7 @@
     - [[Coach the person]]
     - Coach the being
 - [[Coaching examples]]
-- ### Core competencies
+- ### [[🌱Coaching Core Competencies]]
     - [[Coaching partnering]]
     - Target Competencies
         - [[Demonstrates Ethical Practice]]

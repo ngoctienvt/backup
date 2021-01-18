@@ -8,7 +8,7 @@
 - [training](<training.md>)
 
 ## [interests](<interests.md>)
-- sharing and support other people - [coaching](<coaching.md>) [training](<training.md>)
+- sharing and support other people - [🧭Coaching MOC](<🧭Coaching MOC.md>) [training](<training.md>)
 
 ## [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 - [training](<training.md>)

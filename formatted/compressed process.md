@@ -57,7 +57,7 @@
 - The free up energy can now be use for creative and productive activities [compressed process](<compressed process.md>)
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
-- In [coaching](<coaching.md>), coach turn off [compressed process](<compressed process.md>)
+- In [🧭Coaching MOC](<🧭Coaching MOC.md>), coach turn off [compressed process](<compressed process.md>)
 
 - I feel that I accumulate a lot of thoughts and they even become some big paragraphs that I didn't even imagine from the beginning with.  [compressed process](<compressed process.md>)
 

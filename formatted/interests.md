@@ -5,7 +5,7 @@
     - [🌱Natural Progression](<🌱Natural Progression.md>)  - non-resistance, [Flow State MOC](<Flow State MOC.md>), merging, cleaning, [trust the process](<trust the process.md>) 
     - relationship - [true love](<true love.md>) [deep connection](<deep connection.md>) [unattachment](<unattachment.md>) [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
     - wisdom - [condensing and generative process](<condensing and generative process.md>) [writing](<writing.md>) [thinking](<thinking.md>) [reading](<reading.md>) [meditation](<meditation.md>)
-    - sharing and support other people - [coaching](<coaching.md>) [training](<training.md>) [youtuber](<youtuber.md>) [living life as an example](<living life as an example.md>)
+    - sharing and support other people - [🧭Coaching MOC](<🧭Coaching MOC.md>) [training](<training.md>) [youtuber](<youtuber.md>) [living life as an example](<living life as an example.md>)
     - funny and enjoy life - [comedy](<comedy.md>) [funny](<funny.md>) [experiences](<experiences.md>) [gaming](<gaming.md>) [entertainment](<entertainment.md>) [reading](<reading.md>)
 
 

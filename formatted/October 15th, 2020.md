@@ -2,7 +2,7 @@
 - I noticed that the experience that other people have with me is statically insignificant compared with the billions of moments that happen everywhere and the moments that happen for them when there is no me in there. This awareness helps me to release the [personal needs](<personal needs.md>) for taking too many unnecessary responsibilities in myself.
 
 My job is doing the best as I could, but not responsible for their life. They will be the ones who responsible for their life. [unattachment supporting](<unattachment supporting.md>)
-- When we are able to relax and fully lean back to the [seat of awareness](<seat of awareness.md>). We could have a [panorama view](<panorama view.md>) to see life in much broader and higher point of view. This [panorama view](<panorama view.md>) plus [helicopter view](<helicopter view.md>) are the core skills that any coach need to develop. [coaching](<coaching.md>)
+- When we are able to relax and fully lean back to the [seat of awareness](<seat of awareness.md>). We could have a [panorama view](<panorama view.md>) to see life in much broader and higher point of view. This [panorama view](<panorama view.md>) plus [helicopter view](<helicopter view.md>) are the core skills that any coach need to develop. [🧭Coaching MOC](<🧭Coaching MOC.md>)
 
 This helps us to see life in a much broader picture so that what we need to resolve clearly emerge on that space.  [design for emergence](<design for emergence.md>)
 - I felt that I'm learning to shift fully from [linear thinking](<linear thinking.md>) to [network thinking](<network thinking.md>) which release the roles of categories and embrace the roles of connections.

@@ -7,5 +7,5 @@
 - [accumulated interest](<accumulated interest.md>)
 
 ## [being coaching](<being coaching.md>)
-- [coaching](<coaching.md>) is also a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) that have [accumulated interest](<accumulated interest.md>)
+- [🧭Coaching MOC](<🧭Coaching MOC.md>) is also a [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) that have [accumulated interest](<accumulated interest.md>)
 

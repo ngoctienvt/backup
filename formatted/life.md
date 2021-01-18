@@ -6,11 +6,11 @@
     - Jhana yoga
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) is the way of approach life from the current starting point and working from that level to move up the [soul evolution](<soul evolution.md>) process in a natural way. However, if there is no [intention](<intention.md>), the soul will easily get distracted and live in a sleep state or accept the lower life.
     - meditation
-    - [coaching](<coaching.md>)
+    - [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [soul evolution](<soul evolution.md>) will need to work on both level to have a [intention](<intention.md>) to aim to from [🌲Top-down Processing](<🌲Top-down Processing.md>) and close the gap by [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>). This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) of [soul evolution](<soul evolution.md>) includes both [🌲Top-down Processing](<🌲Top-down Processing.md>) and [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) that complement each other to help the soul evolve and live the truth as [🌱Natural Progression](<🌱Natural Progression.md>) as possible.
     - This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) actually looks like how our brain behaves with interconnected but no rigid hierarchy and work like [merging](<merging.md>) process to evolve the soul.
     - This [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) also have 3 important point:
         - Intention
         - Available or accumulate
         - Now
-- [🌱Natural Progression](<🌱Natural Progression.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>) and the state of that soul, whether it is open enough to learn in the [coaching](<coaching.md>) way or requires shocking experience from [reality](<reality.md>), or need the [truth-oriented](<truth-oriented.md>) knowledge to process next.
+- [🌱Natural Progression](<🌱Natural Progression.md>) means that it depends on the [soul uniqueness](<soul uniqueness.md>) and the state of that soul, whether it is open enough to learn in the [🧭Coaching MOC](<🧭Coaching MOC.md>) way or requires shocking experience from [reality](<reality.md>), or need the [truth-oriented](<truth-oriented.md>) knowledge to process next.

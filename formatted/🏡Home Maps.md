@@ -5,7 +5,7 @@
     - [My Life Polestar](<My Life Polestar.md>)
         - [Spiritual MOC](<Spiritual MOC.md>)
     - Life Dharma
-        - [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+        - [🧭Coaching MOC](<🧭Coaching MOC.md>)
         - [Training MOC](<Training MOC.md>)
             - [My Training Courses](<My Training Courses.md>)
     - ### System

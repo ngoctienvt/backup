@@ -7,6 +7,6 @@
 
 - Laser-Focused Coaching refers to a specific coaching process to  [Transformational Coaching](<Transformational Coaching.md>)
 
-## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [Transformational Coaching](<Transformational Coaching.md>)
 

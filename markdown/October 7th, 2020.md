@@ -15,7 +15,7 @@ If we identified with our thoughts and believed this is normal, there is no thin
 - I thought that I'm very good at [[direct communication]], but it's not true. I'm only good at it when it directly related to me and I can't accept it, or when I feel safe enough to tell other person. 
 - This afternoon I start to practice [[nurturing the wake up state of consciousness]] more by cleaning the inner samskaras continuously. I feel good about this and start to become easier to conscious. And start to release the habit-formed will to asleep into identification and pulled out of [[seat of awareness]]
 - I felt a little hot inside due to the energy accumulated from playing games, not sure it's from external or internal but all I need to do is releasing them fully so I could prepare myself for an coaching session. Coaching is all about listening, about what I can hear and what I don't hear, and it's all about how can I hear them and understand them objectively. 
-- [[coaching reflection]] Tonight coaching with Hằng, I felt that I can focus and sure about the truth that I saw with more confident, though I still have a little bit tough and lack of [[compassion]]. 
+- [[🌱My Coaching Reflection]] Tonight coaching with Hằng, I felt that I can focus and sure about the truth that I saw with more confident, though I still have a little bit tough and lack of [[compassion]]. 
 
 I want to develop the combination between a [[tough love]] and [[compassion]] in a way that they merge with each other so I can coach with a tough love but let my compassion inspire the way. [[helpful manner]]
 

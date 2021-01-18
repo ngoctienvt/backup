@@ -31,7 +31,7 @@ And if I got stuck in 1 process, I can always come back to the first level so th
 ## [coaching process](<coaching process.md>)
 - [closing the gap](<closing the gap.md>)
 
-## [coaching reflection](<coaching reflection.md>)
+## [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 - learning to use [powerful questions](<powerful questions.md>) to support clients stretch themselves to close the gap with their end goals [closing the gap](<closing the gap.md>)
 
 - integrating between [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) and strecth clients to [closing the gap](<closing the gap.md>)

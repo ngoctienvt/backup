@@ -6,7 +6,7 @@
 
 # Backlinks
 ## [October 27th, 2020](<October 27th, 2020.md>)
-- The most important [coaching skills](<coaching skills.md>) is [Listens Actively](<Listens Actively.md>). It focuses us to understand the clients [as a whole](<as a whole.md>)
+- The most important [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>) is [Listens Actively](<Listens Actively.md>). It focuses us to understand the clients [as a whole](<as a whole.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - I need to see things [as a whole](<as a whole.md>)

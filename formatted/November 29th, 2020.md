@@ -11,6 +11,6 @@ The purpose of life is now, at the moment, not at somewhere that I need to find.
 Thoughts are what I need to let go or transcend continuously, not what I need to trust and sustain it. It needs to serve me, not I need to serve it.
 - The importance of [personal knowledge development](<personal knowledge development.md>) is the creating your own connections instead of learn from someone else. The connection that you created by yourself will be sustained by you, and evolved by you.
 - I need to re-thinking about my concept of [scheduling](<scheduling.md>). It will not be the period of time that I wait other people and waste my time on that period of time. I could just should 
-- [coaching reflection](<coaching reflection.md>) Today I learned that it's easier to support people to work on concrete examples first, instead of work on abstract level or too general that makes them feel hard to process. It's very important to connect with clients deeply, especially their way of being - their learning styles, their way of thinking,.. [client's way of being](<client's way of being.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) Today I learned that it's easier to support people to work on concrete examples first, instead of work on abstract level or too general that makes them feel hard to process. It's very important to connect with clients deeply, especially their way of being - their learning styles, their way of thinking,.. [client's way of being](<client's way of being.md>)
 - 
 - 

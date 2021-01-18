@@ -12,6 +12,6 @@
 
 - Our work as coaches is to be of service. [Embodies a Coaching Mindset](<Embodies a Coaching Mindset.md>)
 
-## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [Embodies a Coaching Mindset](<Embodies a Coaching Mindset.md>)
 

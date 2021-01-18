@@ -1,5 +1,5 @@
 
 # Backlinks
-## [coaching skills](<coaching skills.md>)
+## [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>)
 - [empathetic understanding](<empathetic understanding.md>)
 

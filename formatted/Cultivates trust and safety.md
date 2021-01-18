@@ -14,6 +14,6 @@
 ## [📚Books - The heart of laser-focused coaching](<📚Books - The heart of laser-focused coaching.md>)
 - It’s important to establish rapport and trust. Reflection helps your client feel heard and understood. [Cultivates trust and safety](<Cultivates trust and safety.md>)
 
-## [🧭Transformational Coaching MOC](<🧭Transformational Coaching MOC.md>)
+## [🧭Coaching MOC](<🧭Coaching MOC.md>)
 - [Cultivates trust and safety](<Cultivates trust and safety.md>)
 
