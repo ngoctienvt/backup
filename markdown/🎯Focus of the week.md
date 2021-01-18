@@ -1,3 +1,10 @@
-- Learning and doing exercises for [[🎬Courses - Design Lean Workshop]]
-- Continue work on take note [[Courses - Living from the place of surrender]]
-- Meditate on my relationship with [[@Nguyễn Mỹ Linh]] and how a [[true relationship]] will look life for me?
+- Improving my coaching skills by listening the coaching session
+- Clarify more about my vision [[My Life Polestar]]
+    - Helping other to grow of awareness need to base on the principle that they have the right to choose, and learn to choose based on their own will is the most important thing for them.
+        - I can only provide the most supported space or environment that won't hinder their own free-will and choices.
+- Clarify more about my system
+    - Work more on the general experience system
+    - Work more on the promting questions and abstract generalization stage
+        - Use Coaching and The laser focused coaching as practices
+- Note-taking about Story Worthy
+- Learn a bit about Super Brain

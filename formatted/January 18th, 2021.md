@@ -1,0 +1,5 @@
+- The difference of good guy and bad guy is [ Advantages of good people](< Advantages of good people.md>)
+    - The good people limit themselves by what they can and can’t do. This makes their abilities not properly develop, so bad people can have more strengths because they don’t care much about the results
+    - However, good people have advantages that if they can develope their power properly and know clearly what’s right and wrong things to do. They can have the same power as bad guys. It’s just require them to integrate more things
+    - Good people also gain trust and support from other people, because everyone has their own inner power that can only lead to the good thing in the end. So bad guys can have partners when they have the same purpose, but these purposes are personal and they can disappear anytime.
+        - Good people based their purposes on something much more stable because they based on truth, universal things that we evolve into. So in the long run, good people can transform bad people to become their partners if done in a right way.

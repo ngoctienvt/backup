@@ -333,6 +333,3 @@ Whole-to-Part
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - It's really about [getting in touch with reality](<getting in touch with reality.md>) and [🌲Top-down Processing](<🌲Top-down Processing.md>) that I'm learning from this [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>).
 
-## [🎯Focus of the week](<🎯Focus of the week.md>)
-- Learning and doing exercises for [🎬Courses - Design Lean Workshop](<🎬Courses - Design Lean Workshop.md>)
-

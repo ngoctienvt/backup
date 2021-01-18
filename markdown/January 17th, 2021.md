@@ -3,14 +3,7 @@
     - The highlight of the week is 
         - I start to less feel restless and able to handle this more. 
         - I also start to work on my intention, this is the most important part that will hold me on the right track, and influence my development in a significant way.
-    - My focus for next week
-        - Improving my coaching skills by listening the coaching session
-        - Clarify more about my vision
-            - Helping other to grow of awareness need to base on the principle that they have the right to choose, and learn to choose based on their own will is the most important thing for them.
-                - I can only provide the most supported space or environment that won't hinder their own free-will and choices.
-        - Clarify more about my system
-        - Continue to read Story Worthy
-        - Learn a bit about Super Brain
+    - My focus for next week [[🎯Focus of the week]]
     - I feel so grateful that I have all the support needed to have me grow and become better each day. I also feel grateful about myself for commit to do what I believe is good for me, and trust on myself. I also feel grateful that the universe is helping people around me. Everything is not needed to be my responsibilities on me only, it's the illusion of my ego.
 - I noticed that I still easy to have preferences for object of consciousness. Some objects make me feel good and I like that feelings. Some objects that I feel hard to handle need to be handle so that I won't be influence or control by it any more. [[deliberate practice]]
     - The path to comeback to myself is not easy but simple. The point is it requires practice I grow myself to the point that I am stronger or higher than them. It's just like I know that I can walk doesn't mean that I can do it easily. It requires practice to be able to do that. And the practices will take time, effort, and even the good strategy for each different stage. 

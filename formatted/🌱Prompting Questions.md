@@ -33,12 +33,13 @@
         - How did you get the outcome that happened?
     - Insights
         - What was your key takeaways?
-        - How did insights will alter you in a postive way?
+        - How did insights alter you in a postive way?
         - What has already changed or started to change in you?
     - Abstract generalization
         - Why it worked?
         - How will this explain in a more general context?
         - What are the underlying principles?
+        - What are frameworks that you can develop about it?
 - Future
     - Planning
         - What you need to change/ to learn so that you can do better?

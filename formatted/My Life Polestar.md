@@ -22,6 +22,9 @@ It's still unpredictable, but the road is much more clearer about who I am becom
 
 - Ensuring that I am living on the right track to my [My Life Polestar](<My Life Polestar.md>)
 
+## [🎯Focus of the week](<🎯Focus of the week.md>)
+- Clarify more about my vision [My Life Polestar](<My Life Polestar.md>)
+
 ## [🏡Home Maps](<🏡Home Maps.md>)
 - [My Life Polestar](<My Life Polestar.md>)
 
