@@ -6,6 +6,8 @@
 ## [January 17th, 2021](<January 17th, 2021.md>)
 - The second step for making this life better is about conceptualize my knowledge, able to explain it in human language, form them to concepts or framework that could act as a mean or a way, a bridge to support other people. [bridging](<bridging.md>)
 
+- I feel that my way of looking about coaching need to be redefine. And this is where I could start to bridge the gap between coaching and meditation. I will learn how a professional coach help a human being go through a coaching session. [bridging](<bridging.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - •	easy to access and check with - link to the existing messenger or email is also good for important notifications [bridging](<bridging.md>)
 

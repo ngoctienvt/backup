@@ -56,6 +56,9 @@
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - My [spiritual practices](<spiritual practices.md>) now is about reducing my sense of self to attach only with my awareness and unattach with my thoughts, my feelings, and my body. [identify with my awareness](<identify with my awareness.md>) [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
+## [January 17th, 2021](<January 17th, 2021.md>)
+- I feel that I’m starting to able to see things more impersonal way and this is very important for me to ground myself on, and not be shake by other people beliefs, actions, talks, perceptions, judgements,... [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 

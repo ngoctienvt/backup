@@ -20,4 +20,4 @@
 - I need to learn to separate and draw the line between what's impersonal and what's personal, so that's I will not refuse other people but rather learn how to differentiate and deal with these 2 parts properly. [[inner clarity]] [[differentiate the impersonal and personal]]
 - I noticed that I want to ask Linh about how current stage. It's just that I feel I want to have a talk with her. I want to know more about her, connect more with her. For her sake? Or for my sake? The large part seems like still for my sake.
     - I still feel quite alone, boring, not have clear purpose, want to connect with someone deeply rather than for other people sake.
-    - 
+- 
