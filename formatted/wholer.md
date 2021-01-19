@@ -7,7 +7,7 @@ Instead of looking at I'm not enough because this is the fact already, I can use
 - the shift from [exclusion](<exclusion.md>) to [inclusion](<inclusion.md>) attitude is very important because only by inclusion, the thing can become [wholer](<wholer.md>)
 
 ## [September 15th, 2020](<September 15th, 2020.md>)
-- [higher thought](<higher thought.md>) will [include](<include.md>) thay vì [exclude](<exclude.md>), nó khiến cho mọi thứ wholer thay vì phán xét và separation, bởi vì soul ngày một [wholer](<wholer.md>)
+- [higher thought](<higher thought.md>) will [inclusion](<inclusion.md>) thay vì [exclude](<exclude.md>), nó khiến cho mọi thứ wholer thay vì phán xét và separation, bởi vì soul ngày một [wholer](<wholer.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
 - Due to [dis-identification](<dis-identification.md>), they can start to improve their awareness and realize things that they never consider. Based on this awareness, they start to become [wholer](<wholer.md>)

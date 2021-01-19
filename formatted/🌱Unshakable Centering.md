@@ -59,6 +59,9 @@
 ## [January 17th, 2021](<January 17th, 2021.md>)
 - I feel that I’m starting to able to see things more impersonal way and this is very important for me to ground myself on, and not be shake by other people beliefs, actions, talks, perceptions, judgements,... [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
+## [January 19th, 2021](<January 19th, 2021.md>)
+- When I reading the manga, I noticed that it's very important to learn to hold ourselves on something high that can't be question and challenge by other people. It will ground our confident, [🌱Unshakable Centering](<🌱Unshakable Centering.md>).
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 

@@ -42,7 +42,7 @@
         -  For example, the highest understanding is to merge with the moments and become one with it, so it becomes a part of you or makes you wholer.
         - The [milestone practices](<milestone practices.md>) should be help them to start to be able to improve their understanding first, even not completely like merging. 
         - The method also need to help them to [disidentify](<disidentify.md>) with their mind slowly, as this is the [essential requirement](<essential requirement.md>) to be able to do the highest practices which is [merging](<merging.md>).
-        - The [milestone practices](<milestone practices.md>) will [include](<include.md>):
+        - The [milestone practices](<milestone practices.md>) will [inclusion](<inclusion.md>):
             - Support them to gain progress in the reward of the journey.
             - Support them to develop acquire [essential requirement](<essential requirement.md>) for next level of practice.
             -  

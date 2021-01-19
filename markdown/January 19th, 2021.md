@@ -1,0 +1,9 @@
+- I noticed that I start to learn how to merge the things I see together. Like people and context is not exclusive from the big picture, they are a part of big picture and what gives meaning to the picture. [[inclusion]]
+    - It's mean that even though I'm seeking for the big picture, I must see where the detail fit in instead of exclude them. It's learning to include rather than exclude. This requires not just understanding, but actually merging and transforming.
+- I also learned that my [[training method]] need to help people level up their knowledge map gradually. 
+    - For instance, I could let them draw mind map for what they learn
+    - Then slowly add more detail to the map, or merge the map with a bigger concept.
+    - This will also a big role for me to handle my learning process
+- When I reading the manga, I noticed that it's very important to learn to hold ourselves on something high that can't be question and challenge by other people. It will ground our confident, [[🌱Unshakable Centering]].
+    - This thing can be something visible like people if suitable, but gradually will need to expand and grow into something much more conceptual, soul-based, truth-based. And the bridge to come to this thing is not easy, it will require the ability to inclusion when we are challenged by other things.
+- 
