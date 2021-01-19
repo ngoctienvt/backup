@@ -1,0 +1,3 @@
+- [[🌱Training Course - Effortless Growth]]
+- [[Training Course - Master the Art of Coaching]]
+- [[Training Course - Living from the place of surrender]]

@@ -54,6 +54,9 @@
 ## [January 7th, 2021](<January 7th, 2021.md>)
 - I noticed that my training course about [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 
+## [My Training Courses](<My Training Courses.md>)
+- [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
+
 ## [Training MOC](<Training MOC.md>)
 - [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>)
 

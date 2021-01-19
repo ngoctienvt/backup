@@ -1,3 +1,4 @@
+- 
 
 # Backlinks
 ## [December 20th, 2020](<December 20th, 2020.md>)
@@ -6,6 +7,12 @@
 - After that, [Training Course - Living from the place of surrender](<Training Course - Living from the place of surrender.md>)
 
 ## [Effortless Growth](<Effortless Growth.md>)
+- [Training Course - Living from the place of surrender](<Training Course - Living from the place of surrender.md>)
+
+## [January 19th, 2021](<January 19th, 2021.md>)
+- [Training Course - Living from the place of surrender](<Training Course - Living from the place of surrender.md>)
+
+## [My Training Courses](<My Training Courses.md>)
 - [Training Course - Living from the place of surrender](<Training Course - Living from the place of surrender.md>)
 
 ## [Training MOC](<Training MOC.md>)

@@ -5,6 +5,9 @@
 
 - Finally, for people who are yearn to support other in the deepest and personal way, [Training Course - Master the Art of Coaching](<Training Course - Master the Art of Coaching.md>)
 
+## [My Training Courses](<My Training Courses.md>)
+- [Training Course - Master the Art of Coaching](<Training Course - Master the Art of Coaching.md>)
+
 ## [Training MOC](<Training MOC.md>)
 - [Training Course - Master the Art of Coaching](<Training Course - Master the Art of Coaching.md>)
 

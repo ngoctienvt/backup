@@ -7,7 +7,7 @@
 - When I reading the manga, I noticed that it's very important to learn to hold ourselves on something high that can't be question and challenge by other people. It will ground our confident, [[🌱Unshakable Centering]].
     - This thing can be something visible like people if suitable, but gradually will need to expand and grow into something much more conceptual, soul-based, truth-based. And the bridge to come to this thing is not easy, it will require the ability to inclusion when we are challenged by other things.
 - I learned much clearer about the begin part of a coaching session. 
-    - It's clearer abit related to checking the agreement
+    - It's clearer abit related to checking the agreement [[checking client's alignment between thoughts and feelings]]
         - It's important to check whether the agreement is what important for the clients - alignment between what they think is important and their feelings
 - [[types of information]]
     - [[concepts]] is something that in order to understand it, you have to understand children of it, and different with [[facts]] is you need to learn to understand, not simply remember or know is enough.
@@ -16,6 +16,11 @@
     - [[process]] explain how something happens and we don't involve
     - [[principles]] is something we need to do certain things in a better effective way
     - process helps to understand -> principles and procedures to apply
-- [[Structured sharing activity]] 
+- [[Structured-sharing activity]] 
     - Usage: 
         - Use to analyze and link with prior knowledge - analyze stage to prepare for evaluate
+- [[Training Course - Living from the place of surrender]]
+    - Today I learned that the goal of this program will not about helping people to comeback to theirselves.
+    - It's rather helping people to build foundational knowledge/ experiences and some self-realization to reinforce the knowledge, so that they can start the journey and practice by themselves.
+        - It's also need to create create some anchors through personal experiences to help them dissolve their perceptions or their mind, so they can get out of what they believed and comeback to the truth. [[anchoring]]
+- I feel pretty nervous when asking about something that maybe judge or change the way other people used to see me. I have a fear of being judged or misunderstanding.
