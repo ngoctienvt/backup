@@ -9,4 +9,13 @@
 - I learned much clearer about the begin part of a coaching session. 
     - It's clearer abit related to checking the agreement
         - It's important to check whether the agreement is what important for the clients - alignment between what they think is important and their feelings
-        - 
+- [[types of information]]
+    - [[concepts]] is something that in order to understand it, you have to understand children of it, and different with [[facts]] is you need to learn to understand, not simply remember or know is enough.
+        - Depend on the context - simply know is facts, need to understand is concept
+    - [[procedures]] we need to involve to do
+    - [[process]] explain how something happens and we don't involve
+    - [[principles]] is something we need to do certain things in a better effective way
+    - process helps to understand -> principles and procedures to apply
+- [[Structured sharing activity]] 
+    - Usage: 
+        - Use to analyze and link with prior knowledge - analyze stage to prepare for evaluate

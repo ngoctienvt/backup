@@ -27,3 +27,13 @@
     - Output Competencies
         - [[Cultivates trust and safety]]
         - [[Facilitates Client Growth]]
+- Coaching process
+    - The beginning
+        - Goals
+            - Clarify ALL of client's current concern
+            - Clarify goal of the session
+            - Clarify measure of success
+        - Purposes
+            - 
+    - The middle
+    - The ending

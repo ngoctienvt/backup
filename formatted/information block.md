@@ -13,10 +13,10 @@
     - Based on general function
         - [definition](<definition.md>) describes an idea or a concept
         - [meaning](<meaning.md>) what are the benefits of this?
-        - [procedure](<procedure.md>) steps by steps implementation
+        - [procedures](<procedures.md>) steps by steps implementation
         - [process](<process.md>) describe the flow of the activity
         - [function](<function.md>) usages of the concept
-        - [principle](<principle.md>) a rule telling what is the behind structure (what is allowed and what not)
+        - [principles](<principles.md>) a rule telling what is the behind structure (what is allowed and what not)
         - [information](<information.md>) detail information of the concept
 
 # Backlinks

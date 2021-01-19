@@ -27,6 +27,16 @@
     - Output Competencies
         - [Cultivates trust and safety](<Cultivates trust and safety.md>)
         - [Facilitates Client Growth](<Facilitates Client Growth.md>)
+- Coaching process
+    - The beginning
+        - Goals
+            - Clarify ALL of client's current concern
+            - Clarify goal of the session
+            - Clarify measure of success
+        - Purposes
+            - 
+    - The middle
+    - The ending
 
 # Backlinks
 ## [Area of Focus](<Area of Focus.md>)

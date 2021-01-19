@@ -76,7 +76,7 @@ where they are]] through the [🌱My Coaching Reflection](<🌱My Coaching Refle
     - [method](<method.md>) are the way that I actual use based on the context provided by [approach](<approach.md>). For above example, I can go by foot with a map. Or I can go by any other vehicles. I just need to develop the process to make sure I will reach my goal.
         - [techniques](<techniques.md>) are the way that I can improve for myself to execute the [method](<method.md>) in a better way. Like I develop a technique to go by foot without feel tired.
         - [activities](<activities.md>) are the action that I do to ensure I help me reach my goal, and it is develop based on the method.
-    - [principle](<principle.md>) are the rules that act like a filter to help me develop my [method](<method.md>), techniques and activities.
+    - [principles](<principles.md>) are the rules that act like a filter to help me develop my [method](<method.md>), techniques and activities.
 - 
     - 
         - progressive approach is based on the following criterion
