@@ -6,4 +6,7 @@
     - This will also a big role for me to handle my learning process
 - When I reading the manga, I noticed that it's very important to learn to hold ourselves on something high that can't be question and challenge by other people. It will ground our confident, [🌱Unshakable Centering](<🌱Unshakable Centering.md>).
     - This thing can be something visible like people if suitable, but gradually will need to expand and grow into something much more conceptual, soul-based, truth-based. And the bridge to come to this thing is not easy, it will require the ability to inclusion when we are challenged by other things.
-- 
+- I learned much clearer about the begin part of a coaching session. 
+    - It's clearer abit related to checking the agreement
+        - It's important to check whether the agreement is what important for the clients - alignment between what they think is important and their feelings
+        - 
