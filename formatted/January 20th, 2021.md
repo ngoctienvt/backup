@@ -13,5 +13,6 @@
                 - Without the clear picture about something that I want to achieve based on me - not my lower-self, I will be confuse when I'm acting based on what I truly want or acting based on being pulled.
 - I also noticed that I hate to see something that's not logical but I feel that it's intentional to manipulate my feelings rather than let it happens naturally. I don't like the feeling of being manipulate, and I have a quite strong resistance to it.
 - I also have a tendency to look back and regret, rather than focus on now, and possibilities for the future.
-- 
+- It's seem like that it's better to complete the whole session rather than seeing the half-part, so I will temporarily hold today work on coaching session for tomorrow.
+- Today I will work more on the end goal that left not process next week.
 - 
