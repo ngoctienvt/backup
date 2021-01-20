@@ -1,5 +1,5 @@
 -  If we want something, find it directly, don't find something to help you to have it temporarily. [[method]]
-- If we look outside, we see problems. If we look inside, we see the part we're unable to handle yet. [[seeing the truth of the world]]
+- If we look outside, we see problems. If we look inside, we see the part we're unable to handle yet. [[Surrend to the truth of the world]]
 - [[true freedom]]
     - [[way to find true freedom]]
         - The highest solution for inner problems is neither suppressing nor expressing but experiencing. 

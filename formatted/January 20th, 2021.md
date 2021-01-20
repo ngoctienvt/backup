@@ -1,3 +1,4 @@
+- 
 - My today focus
     - Working next about the knowledge organization
         - Draw by layers - đồ họa chồng lớp
@@ -15,4 +16,17 @@
 - I also have a tendency to look back and regret, rather than focus on now, and possibilities for the future.
 - It's seem like that it's better to complete the whole session rather than seeing the half-part, so I will temporarily hold today work on coaching session for tomorrow.
 - Today I will work more on the end goal that left not process next week.
-- 
+    - Today work remind me that it's important to work straight to the end and work on that backwards. It's also important to skip what I think should be happen, so that it removed unneccessary thoughts and beliefs.
+    - My goal for the [🌱Training Course - Effortless Growth](<🌱Training Course - Effortless Growth.md>) is about helping other people to
+        - Know what they truly want in their life
+        - Create their own way or system to consistently reach to their life end goals
+        - Integrate it into their daily life
+    - In order to support other people to able to do this, I need to manage to do it in my life first as I will be the one who examine the effectiveness of my approach. And it will also help me to develop my true competencies for this way of living life.
+- There are many samskaras and thoughts that I need to let go as I notice I still have a strong tendency to control life and people that stimulate me in the wrong way.
+- I also need to learn to connect deeper with other people and edit my way of thinking properly to match with that connection.
+- [Surrend to the truth of the world](<Surrend to the truth of the world.md>)
+    - I noticed that my perceptions has always distort and deduct the world to fit the mind. But it’s not the truth. It’s just reinforce me to my wrong way of thinking.
+    - In this new stage of life, I will learn to redirect my whole way of thinking to base on the truth of the world, not how I want to interpret it, so it makes me feel better.
+    - It’s about learning to truly surrend myself to the moments in front of me, they are not created by me, I have no right to control it. And it shouldn’t as my will but rather happen as how it should happen by itself. And my job is learning to have a healthy harmony relationship with it.
+    - 
+    - 

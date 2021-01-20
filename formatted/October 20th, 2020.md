@@ -2,7 +2,7 @@
     - All [fear](<fear.md>) is only real when we aren't able to handle and to realize what's really us.
 - What the soul wants is very different with what the ego wants. [Who's in charge my life?](<Who's in charge my life?.md>) [high intention](<high intention.md>)
 - I felt so much [refreshing](<refreshing.md>) after doing my yoga routine. I also learnt a lot of new things in the process of practising it.
-- When I stand on my rooftop, I could see the world not just as it is now, but as the result of accumulated past forces that make them as they are now. [seeing the truth of the world](<seeing the truth of the world.md>) [inter-related](<inter-related.md>)
+- When I stand on my rooftop, I could see the world not just as it is now, but as the result of accumulated past forces that make them as they are now. [Surrend to the truth of the world](<Surrend to the truth of the world.md>) [inter-related](<inter-related.md>)
 - I want to merge two words centering and establishing the seat of awareness to centering at the seat of awareness. Because centering is not clear enough, while establishing is the world that I'm not feel so much to connect with. [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 - There is a realization that in order to define what's right and what's not, the main point is who decides. And if I could always let my true self decide then I'm always on good shape, and also can be sure that I'm on the right track. [soul-guidance](<soul-guidance.md>) [truth compass](<truth compass.md>)
     - The [ego-guidance](<ego-guidance.md>) will base its ideas from separation, reaction, samskaras, the inner-disturbance, the past, results-oriented.
