@@ -31,3 +31,9 @@
     - 
 - [[What it means to be a develop soul]] and [[What it means to be an awakened human being]] will be 2 big questions that could help me to clarify the way I want to navigate in life.
 - [[choiceless awareness]] is a state that I want to surrend myself into. It’s a big lesson for me that consciousness is all about its unfolding potential, not about some choices to be made.
+    - It's the shift from 
+        - making to becoming
+        - choosing to emerging
+        - trying to make things happen to let things unfold its potential
+        - separating to including
+        - judging to exciting/ honoring
