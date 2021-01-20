@@ -1,3 +1,17 @@
 - My today focus
     - Working next about the knowledge organization
         - Draw by layers - đồ họa chồng lớp
+- I started to realize that I'm learning to use my life end goals as a way to help me let go all of my personal needs while keeping me doing the right thing as the same time.
+    - That's why it's very important to learn how to include other things and clarify it, as well as the relationship of it to my current stages, because it will act as a thing that I need to aim for, while I'm being seduced by the short-term satisfaction.
+    - I need to develop an [[alignment]] between now and between where I want to become, so that I will not derail myself out of the part unconsciously.
+        - Like I need to have a clear picture about how my romatic love relationship should be, so that I need to correct myself into that direction, even if it's hard. Because if I'm not clear about it, I will be easy to be distract and derail, and at the same time, reinforce myself to be easier to aim myself in the wrong direction.
+            - The main reasion is what I truly want is not clear, but what clear is what interested to give me short-term satisfaction now.
+        - My whole life need to be redefine and not act based on [[short-term pleasure]] but rather something higher than that, and this thing need to be reinforce and clear so that it will help me overcome the pull of short-term pleasure.
+            - One of the thing I could think about now is developing a deeper satisfaction between the current me and the one I want to become, and reinforce this deep satisfaction. When I manage to do this, it will act as a path to bring me out of the self-distracting stage now. [[true satisfaction]]
+                - [[true satisfaction]] is something that connect between me, my growth, and reality.
+                - [[short-term pleasure]] is something that I am be pulled by the pull of my lower-self which I should be handle to grow, rather than listen to it instead.
+                - Without the clear picture about something that I want to achieve based on me - not my lower-self, I will be confuse when I'm acting based on what I truly want or acting based on being pulled.
+- I also noticed that I hate to see something that's not logical but I feel that it's intentional to manipulate my feelings rather than let it happens naturally. I don't like the feeling of being manipulate, and I have a quite strong resistance to it.
+- I also have a tendency to look back and regret, rather than focus on now, and possibilities for the future.
+- 
+- 
