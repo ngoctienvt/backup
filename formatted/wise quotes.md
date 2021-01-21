@@ -6,6 +6,9 @@
 ## [Courses - The target approach - Coaching](<Courses - The target approach - Coaching.md>)
 - __“Wise [people] speak because they have something to say; fools speak because they have to say something." ~ Plato__ [wise quotes](<wise quotes.md>)
 
+## [January 21st, 2021](<January 21st, 2021.md>)
+- #[wise quotes](<wise quotes.md>)
+
 ## [November 18th, 2020](<November 18th, 2020.md>)
 - [wise quotes](<wise quotes.md>)
 

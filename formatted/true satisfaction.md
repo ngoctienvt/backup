@@ -5,6 +5,11 @@
 
 - [true satisfaction](<true satisfaction.md>)
 
+## [January 21st, 2021](<January 21st, 2021.md>)
+- The most beautiful job we can do is learning to harmony and support the unfolding potential of life. [true satisfaction](<true satisfaction.md>)
+
+- The most beautiful experience we can have is seeing all of the potential that life is unfolding without any personal judgment and preferences. [true satisfaction](<true satisfaction.md>)
+
 ## [October 14th, 2020](<October 14th, 2020.md>)
 -  I'm in a transition to shift from enjoying what brings good experiences to enjoy the result of the integration process. [enjoy the learning experience](<enjoy the learning experience.md>) This enjoyment is harder to attain, but it's sustainable and feels much satisfied. [true satisfaction](<true satisfaction.md>)
 

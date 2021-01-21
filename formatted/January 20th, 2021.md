@@ -30,7 +30,7 @@
     - It’s about learning to truly surrend myself to the moments in front of me, they are not created by me, I have no right to control it. And it shouldn’t as my will but rather happen as how it should happen by itself. And my job is learning to have a healthy harmony relationship with it.
     - 
 - [What it means to be a develop soul](<What it means to be a develop soul.md>) and [What it means to be an awakened human being](<What it means to be an awakened human being.md>) will be 2 big questions that could help me to clarify the way I want to navigate in life.
-- [choiceless awareness](<choiceless awareness.md>) is a state that I want to surrend myself into. It’s a big lesson for me that consciousness is all about its unfolding potential, not about some choices to be made.
+- [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>) is a state that I want to surrend myself into. It’s a big lesson for me that consciousness is all about its unfolding potential, not about some choices to be made.
     - It's the shift from 
         - making to becoming
         - choosing to emerging
