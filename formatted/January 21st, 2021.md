@@ -1,0 +1,11 @@
+- I noticed that the word potential is helping to clear the word problem inside of me. I start to see things the whole new way, easier to see the flow of life, and allow things to unfold. I also noticed something is emerging inside of me, breaking out of what tether me, and giving me true peace that I can merge myself into.
+- I am changing my language and learning to not separate myself but rather learning to include myself as a part of life itself.
+- #[my quotes](<my quotes.md>) Life is full of potential that want to unfold itself. Our responsibility is to evolve ourselves enough to support this process rather than against it.
+    - We are a part of life, not separate from it. Everyone is a part of life, there is no need to judge, but learn to include everything is the challenge job but it's important, because it's where we need to evolve to embrace life.
+- The most beautiful job we can do is learning to harmony and support the unfolding potential of life.
+- The most beautiful experience we can have is seeing all of the potential that life is unfolding without any personal judgment and preferences.
+- I noticed that I am becoming more and more effortless in living. I don't need to make choice much, I just raise my inner landscape and naturally I can do things outside in a much effortless way. 
+- Today I will continue to learn about coaching. It's an exciting activity because I'm learning and growing, and becoming more helpful with life.
+    -  The process of learning to master coach is a helpful way to support me to realize how to improve self-learning to become expert.
+    - I also need to see more how my way of learning support me to learn in the most effective way.
+- 
