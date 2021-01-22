@@ -1,0 +1,17 @@
+- I'm learning to let go my tendency to resist and deny the existence of other people or their meaning. I'm learning to accept that everything has their own meaning and their existence is enough for me to experience. [inclusion](<inclusion.md>)
+    - It's my job to learn to able to feel grateful and see the meaning of them, not about controlling to fit my preferences.
+    - Then I will deal with it in the most impersonal way through my own evolution.
+- I also learn to direct myself to do meaningful things. As I am having energy and feeling energetic is not enough. The force will need to have the right direction to direct itself into. [My Life Polestar](<My Life Polestar.md>)
+- I am having myself the time to reconstructure my mind, my emotions, and my energy. I'm also taking the time to build up my true mastery and the system. Truly doing this before going to teach this. This is a stage I truly my life foundation and settle with it at least in some way. [🌱My Life Foundation](<🌱My Life Foundation.md>)
+    - Re-defining my way of thinking, belief system, direction...
+        - Love
+        - Family
+        - Career/ Contribution
+        - Strengths
+        - Means/ Money/ Techniques...
+    - Building a personal system development management and living process
+    - Build up expertise on 
+        - Coaching
+        - Expertise management
+        - Direction and execution management
+    - 

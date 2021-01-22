@@ -17,6 +17,9 @@
 ## [January 18th, 2021](<January 18th, 2021.md>)
 - When I had a walk, I noticed that it's not easy to always connect ourselves to the end goal [My Life Polestar](<My Life Polestar.md>)
 
+## [January 22nd, 2021](<January 22nd, 2021.md>)
+- I also learn to direct myself to do meaningful things. As I am having energy and feeling energetic is not enough. The force will need to have the right direction to direct itself into. [My Life Polestar](<My Life Polestar.md>)
+
 ## [November 20th, 2020](<November 20th, 2020.md>)
 It's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [My Life Polestar](<My Life Polestar.md>)
 

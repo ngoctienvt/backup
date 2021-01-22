@@ -3,6 +3,9 @@
 ## [January 19th, 2021](<January 19th, 2021.md>)
 - I noticed that I start to learn how to merge the things I see together. Like people and context is not exclusive from the big picture, they are a part of big picture and what gives meaning to the picture. [inclusion](<inclusion.md>)
 
+## [January 22nd, 2021](<January 22nd, 2021.md>)
+- I'm learning to let go my tendency to resist and deny the existence of other people or their meaning. I'm learning to accept that everything has their own meaning and their existence is enough for me to experience. [inclusion](<inclusion.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - the shift from [exclusion](<exclusion.md>) to [inclusion](<inclusion.md>)
 

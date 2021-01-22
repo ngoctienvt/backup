@@ -45,7 +45,7 @@
     - ### [[motivation myth]]
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2F2G_MQglYWD.png?alt=media&token=ad06b972-c4e4-43b8-86fa-6b3bb9778572)
         - We think we had to have the feeling of doing something to do something. [[false belief]]
-            - Relying on our feelings to work is a receipt for disaster, because it's not reliable. [[solid foundation]]
+            - Relying on our feelings to work is a receipt for disaster, because it's not reliable. [[🌱My Life Foundation]]
                 - It's about the true self choose to do something, not about give up our free-will to our heart.  [[free-will]]
         - The outcome is usually long time on the future, we don't have an immeditate feedback. [[getting in touch with reality]] continuously
             - Make the action [[samskaras-based solution]]
@@ -63,7 +63,7 @@
         - Reflective thinking
             - The most important thing I learn is I don't have to give my right to my feelings and my thoughts, I need to learn to become the one who direct my life, so that they become my servant instead.
             - [[samskaras-based solution]] is helpful for short-term, but for long-term, it's better to let go of the inner blockages and build up the [[conscious will]] instead.
-            - It's very important to build ourselves based on a [[solid foundation]] which usually based on truth, reality or the natural flow of inner energy, instead of our feelings and our thoughts. 
+            - It's very important to build ourselves based on a [[🌱My Life Foundation]] which usually based on truth, reality or the natural flow of inner energy, instead of our feelings and our thoughts. 
     - [[multi-tasking myth]]
         - Do work at the same time create the feeling of productive, but not actually. [[getting in touch with reality]]
         - [[Flow State MOC]] is an optimal consciousness state that we can completely focused on one thing.
