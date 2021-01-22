@@ -14,6 +14,8 @@
         - Coaching
         - Expertise management
         - Direction and execution management
-- I'm learning to not be identified with my body, mind and emotions, so that I can just use them and consider them as a tool to help me interact with the world. There will be no personal things, but rather most of the time, it will be about the moment in front of me, 
+- I'm learning to not be identified with my body, mind and emotions, so that I can just use them and consider them as a tool to help me interact with the world. There will be no personal things, but rather most of the time, it will be about the moment in front of me, [inclusion](<inclusion.md>)
     - sometimes it requires me to consider myself also as a part of it, - taking care of the tools
     - but most of the time, it's just about me using the tools that I was gifted to raise the moments. - taking care of the moments 
+- [Daily Worthy Stories](<Daily Worthy Stories.md>) Thục Linh. More present in the moment. Walking. Awareness about her concern about pressure.
+- [chemistry session](<chemistry session.md>) the goal of chemistry session is to let clients explore their concern, wants fully and zoom out to see the big picture, connection of what they concern and start to develop a plan to handle it.
