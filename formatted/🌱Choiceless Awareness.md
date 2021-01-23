@@ -9,6 +9,9 @@
 ## [January 21st, 2021](<January 21st, 2021.md>)
 - I noticed that I am becoming more and more effortless in living. I don't need to make choice much, I just raise my inner landscape and naturally I can do things outside in a much effortless way. [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>)
 
+## [January 23rd, 2021](<January 23rd, 2021.md>)
+- I also start to slowly bottom up my expertise from the area I care about and want to develop myself into. I noticed that [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I also learned in today that I don't have to worry about what I need to do, as long as I'm keep raising my energy to higher center, it will do its work instead of me. I will just need to be myself most of the time. [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>)
 

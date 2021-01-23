@@ -1,0 +1,3 @@
+- I feel that my presence is much better recently. I feel much more empty and stillness in my heart. I feel much more calm, less disturb and inner thoughts. Though I'm not feel high yet, but it's a good sign.
+- I also start to slowly bottom up my expertise from the area I care about and want to develop myself into. I noticed that [[🌱Choiceless Awareness]] is about merging and letting things unfold naturally without the different forces that pull me into different directions. They are handled and merged into each other to become oneness instead.
+    - Without expectations or preferences, there are only one choice.
