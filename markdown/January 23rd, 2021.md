@@ -2,3 +2,13 @@
 - I also start to slowly bottom up my expertise from the area I care about and want to develop myself into. I noticed that [[🌱Choiceless Awareness]] is about merging and letting things unfold naturally without the different forces that pull me into different directions. They are handled and merged into each other to become oneness instead.
     - Without expectations or preferences, there are only one choice.
 - [[📝Coaching Review]] I noticed that I can presence much better today, and listen with much more clarity and deeper without personal agenda or personal interests. It helps me to care more about clients and their concerns. From this point, techniques are not important anymore, because even if I don't know the techniques, I still know what I need to focus on and clarify it.
+- I noticed that there is something that I want to work around entertainment, potential, and purpose. The reason is I'm not interested in exploring my potential if I don't have a clear purpose that I want to do, and that leads to my habit is entertain myself instead. [[my way of working]]
+    - I want to change this, because this is not ideally way that I want to live life. But what's the ideal way I'm not so sure about that yet?
+        - The thing I will need to clarify is
+            - What will be my ideal default state?
+            - How I want to operate myself?
+            - How I want to have relationship with things and people on earth?
+            - What I want to do on the time on earth - from the general direction to concrete moment?
+    - My concern still have some about I don't want to completely settle my things into anything. Because one day it could become the barrier to hinder me.
+- I noticed that I'm not good at handling the interaction between myself and other people. How to include both in a harmony way?
+- 
