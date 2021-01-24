@@ -1,3 +1,6 @@
 - I noticed that I’m less concern about what other people care. That’s why I feel that I know very little about a person. I tend to listen in a way that I filter information to hear what I care and interested on. This is what I will need to learn to change. [Listens Actively](<Listens Actively.md>)
     - I’m not skilled at it, but as long as I keep the intention to care about other person, I can learn it slowly.
     - Like [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>), I don’t really know what she cares about, this is maybe because when she talked, I don’t pay attention enough and listen in a way that hear them out. I sometimes disrupt her to ask about what I care íntead, so this make her change her topic to please me instead.
+- Today I want to be more calm and peace, less care about me and more care about her. Remind myself to presence with her, not with my tendencies so that I could listen her in a deep way, validate, support, and give her room to express herself safely. Let her feel be seen, be heard, be cared, and be interested about.
+    - I will not just care about her, but care about what her care as well. This is maybe things she care, people she care, so that she could know I always be her side. And willing to share her life with.
+    - 
