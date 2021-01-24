@@ -3,6 +3,9 @@
 ## [December 21st, 2020](<December 21st, 2020.md>)
 - My main realization is context is very important and manage the contexts is an important skill that I need to develop. [contextual management](<contextual management.md>).
 
+## [January 24th, 2021](<January 24th, 2021.md>)
+- In this stage of life, it's important for me to learn to think in context, rather than just abstract generalization with no clear purpose, because there will be never end for this. [contextual usages](<contextual usages.md>) [contextual management](<contextual management.md>)
+
 ## [November 11th, 2020](<November 11th, 2020.md>)
 - [contextual management](<contextual management.md>)
 

@@ -18,6 +18,9 @@
 ## [Expanding questions](<Expanding questions.md>)
 - "[contextual usages](<contextual usages.md>)"
 
+## [January 24th, 2021](<January 24th, 2021.md>)
+- In this stage of life, it's important for me to learn to think in context, rather than just abstract generalization with no clear purpose, because there will be never end for this. [contextual usages](<contextual usages.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - [contextual usages](<contextual usages.md>)
 

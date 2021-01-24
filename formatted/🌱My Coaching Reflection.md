@@ -6,6 +6,9 @@
 - integrating between [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>) and strecth clients to [closing the gap](<closing the gap.md>)
 
 # Backlinks
+## [January 24th, 2021](<January 24th, 2021.md>)
+- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
+
 ## [November 19th, 2020](<November 19th, 2020.md>)
 - [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
 
