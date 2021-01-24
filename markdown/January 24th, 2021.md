@@ -1,0 +1,3 @@
+- I noticed that I’m less concern about what other people care. That’s why I feel that I know very little about a person. I tend to listen in a way that I filter information to hear what I care and interested on. This is what I will need to learn to change. [[Listens Actively]]
+    - I’m not skilled at it, but as long as I keep the intention to care about other person, I can learn it slowly.
+    - Like [[@Nguyễn Mỹ Linh]], I don’t really know what she cares about, this is maybe because when she talked, I don’t pay attention enough and listen in a way that hear them out. I sometimes disrupt her to ask about what I care íntead, so this make her change her topic to please me instead.

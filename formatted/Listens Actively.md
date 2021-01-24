@@ -6,6 +6,9 @@
 ## [Courses - The target approach - Coaching](<Courses - The target approach - Coaching.md>)
 - [Listens Actively](<Listens Actively.md>)
 
+## [January 24th, 2021](<January 24th, 2021.md>)
+- I noticed that I’m less concern about what other people care. That’s why I feel that I know very little about a person. I tend to listen in a way that I filter information to hear what I care and interested on. This is what I will need to learn to change. [Listens Actively](<Listens Actively.md>)
+
 ## [November 27th, 2020](<November 27th, 2020.md>)
 - [magic-eye image](<magic-eye image.md>) [inner clarity](<inner clarity.md>) [Listens Actively](<Listens Actively.md>)
 
