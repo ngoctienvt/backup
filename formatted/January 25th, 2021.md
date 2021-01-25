@@ -1,2 +1,4 @@
 - I noticed that when I try too much to have the answer of everything, it puts a strong pressure to me to figure out everything when I still on the bottom of the moutain. I felt that it would be much better to release the need to figure everything out, but rather take a step back, trust the process, do the right thing and let things unfold.
     - I also don't need to do everything alone as it is also unnecessary. I also just a very little small piece of universe and I can only do certain jobs. I don't have the responsibilities for the reality, I only mainly have the responsibilities for myself and for what I am capable of or mean to do in the current stage.
+- It'
+- s 
