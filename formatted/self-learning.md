@@ -11,6 +11,9 @@
 
 - Learn about an interesting models to help people [self-learning](<self-learning.md>).
 
+## [January 26th, 2021](<January 26th, 2021.md>)
+- I noticed that life is about unfolding our potential and learning to evolve ourselves out of the separation. What I want to do and what challenges I want to overcome is just a good concrete way to improve myself through experiences, but ultimately, it's about the merging and learning process happens so that I can become better infinitely. [self-learning](<self-learning.md>)
+
 ## [🌱Instructional Design](<🌱Instructional Design.md>)
 - [self-learning](<self-learning.md>)
 

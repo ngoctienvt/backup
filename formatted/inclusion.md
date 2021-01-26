@@ -8,6 +8,9 @@
 
 - I'm learning to not be identified with my body, mind and emotions, so that I can just use them and consider them as a tool to help me interact with the world. There will be no personal things, but rather most of the time, it will be about the moment in front of me, [inclusion](<inclusion.md>)
 
+## [January 26th, 2021](<January 26th, 2021.md>)
+- [inclusion](<inclusion.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - the shift from [exclusion](<exclusion.md>) to [inclusion](<inclusion.md>)
 

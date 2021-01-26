@@ -1,7 +1,7 @@
 - Today I noticed that I'm learning to center myself on something permanent and will bring true happiness and true freedom, rather than putting my happiness and freedom on something that can be taken away. This will lead to occasional disturbances, judgements, insecurities, fears,... because of the feeling of losing sense of self.
-- I noticed that life is about unfolding our potential and learning to evolve ourselves out of the separation. What I want to do and what challenges I want to overcome is just a good concrete way to improve myself through experiences, but ultimately, it's about the merging and learning process happens so that I can become better infinitely. [[self-learning]]
+- I noticed that life is about unfolding our potential and learning to evolve ourselves out of the separation. What I want to do and what challenges I want to overcome is just a good concrete way to improve myself through experiences, but ultimately, it's about the merging and learning process happens so that I can become better infinitely. [self-learning](<self-learning.md>)
     - It's like games are challenges that exposed our weaknesses or our potentials, but we still need to reflect and grow after that, so that we can truly bring ourselves into a new version. 
 - I noticed that even if we aim to focus on something, the most important thing is learning to always accept and include new things, new people, new situations and not exclude anything. The moment we exclude, the moment we push it further from the true solution or true growth.
     - There are nothing wrong under the next level of growth.
-- [[inclusion]] is also about include me as a part of life as well. The justice or the truth is need to include me rather than exclude me.
+- [inclusion](<inclusion.md>) is also about include me as a part of life as well. The justice or the truth is need to include me rather than exclude me.
 - 
