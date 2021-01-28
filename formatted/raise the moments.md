@@ -9,6 +9,9 @@
 ## [December 8th, 2020](<December 8th, 2020.md>)
 - Tools are what we have to use, not what we have to attach with. Without clarity but only attachments, we will have a tendency to protect our tools or false self, rather than harmony and raise the reality. [raise the moments](<raise the moments.md>)
 
+## [January 28th, 2021](<January 28th, 2021.md>)
+- This is an very important thing that I need to let go, because it is against my intention to raise other people up. This attitude only satisfy my personal needs rather than raising other people, I will need to truly go deep and handle it if I want to serve people unconditionally in the best way as possible. [raise the moments](<raise the moments.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - coach has the fulfilled inner energy so that it will raise clients up instead of bringing them down [energy management](<energy management.md>) [raise the moments](<raise the moments.md>)
 

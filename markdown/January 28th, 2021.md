@@ -15,4 +15,9 @@
         - What is permanent is me and my growth. Everything else are impermanent and could go anytime. I need to appreciate, honor, and grateful about them, but also unattach with them as the same time. [[🌱Unshakable Centering]]
     - I also notice that what's important is not what could be, but what I actually will. It's not about how many games I could have, but how many games I have played and grew from that. Living, not satisfy personal needs and preparing.
         - The focus point will be about processing, not about collecting and preparing.
-        - And process what will have me to close the gap.
+    - And process what will have me to close the gap.
+- I noticed that I still feel restless and not have compassion, acceptance, understand for other people current stages. I have an expetection and an attachment as well as judgement that why it's so simple but people doesn't understand. [[true growth]]
+    - This is an very important thing that I need to let go, because it is against my intention to raise other people up. This attitude only satisfy my personal needs rather than raising other people, I will need to truly go deep and handle it if I want to serve people unconditionally in the best way as possible. [[raise the moments]]
+        - This is where I learn to be humble, be compassion, be understanding, and be patient.
+        - This is where I need to let go my most proud parts that relate to my intelligence, my strengths, my specialness, in a way that I still have them but not attach to them to feel value about myself.
+- 
