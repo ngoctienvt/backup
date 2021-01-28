@@ -20,4 +20,5 @@
     - This is an very important thing that I need to let go, because it is against my intention to raise other people up. This attitude only satisfy my personal needs rather than raising other people, I will need to truly go deep and handle it if I want to serve people unconditionally in the best way as possible. [raise the moments](<raise the moments.md>)
         - This is where I learn to be humble, be compassion, be understanding, and be patient.
         - This is where I need to let go my most proud parts that relate to my intelligence, my strengths, my specialness, in a way that I still have them but not attach to them to feel value about myself.
+- [Daily Worthy Stories](<Daily Worthy Stories.md>) Training. Let go what I proud about myself to be a space for other people transformation. Learning to be humble, be understand, be compassionate.
 - 
