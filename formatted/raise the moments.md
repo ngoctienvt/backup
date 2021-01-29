@@ -12,6 +12,9 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - This is an very important thing that I need to let go, because it is against my intention to raise other people up. This attitude only satisfy my personal needs rather than raising other people, I will need to truly go deep and handle it if I want to serve people unconditionally in the best way as possible. [raise the moments](<raise the moments.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- I noticed that it's important for me to let go myself and become the person who truly live to raise the moments up without any personal needs. If I can do this, I can grow infinitely and live meaningfully. The meaning of life is not about proving myself, it's about utilizing and sharpening my potentials to raise the moments up. And the raising of other people or moments are what meaningful for life, not just for me. Because I'm a part of life itself. [raise the moments](<raise the moments.md>)
+
 ## [October 4th, 2020](<October 4th, 2020.md>)
 - coach has the fulfilled inner energy so that it will raise clients up instead of bringing them down [energy management](<energy management.md>) [raise the moments](<raise the moments.md>)
 

@@ -3,6 +3,9 @@
 ## [January 19th, 2021](<January 19th, 2021.md>)
 - I also learned that my [training method](<training method.md>)
 
+## [January 29th, 2021](<January 29th, 2021.md>)
+- I also start to see that when training, it's important to guide people through experiences and journey rather than trying to explain to them how good, how fun, how meaningful it is. They will decide by themselves through their own journey, because I can't control how people feel, I can only help them feel the most authentic and helpful way. [training method](<training method.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I feel that it will take time for me to truly practice my spiritual path first. I will focus on [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>) and coaching for the next period of time. And still spend time for my own to free myself first. I will learn to master and support others while I'm mastering things as well. But at least I need to go further ahead enough so that's I can become a proper tour guide for them. [training method](<training method.md>)
 
