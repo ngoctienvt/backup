@@ -1,0 +1,15 @@
+- [[📝Weekly Review]]
+    - Highlights
+        - I start to see more how my life is happening and how am I navigating my life
+        - I start to fill up my expertise on what I interested on
+        - I start to notice few things that I need to clarify more and connect them together
+            - My tendencies / strengths / ways of learning
+            - What I want to do / to serve
+            - How I want to live/ attitude/ direction
+            - What I need to handle? What will be my main practices? How I will guide myself to overcome them?
+    - Success factors
+        - Meditation
+        - Note-taking
+        - Walking
+        - Working with Huyền
+        - 
