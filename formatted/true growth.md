@@ -6,3 +6,6 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - I noticed that I still feel restless and not have compassion, acceptance, understand for other people current stages. I have an expetection and an attachment as well as judgement that why it's so simple but people doesn't understand. [true growth](<true growth.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- In this journey, I will have unexpected experiences and challenges that come to challenge and act as learning lessons for me to grow [true growth](<true growth.md>)
+

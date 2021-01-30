@@ -13,6 +13,9 @@
 ## [Areas for an surrender life](<Areas for an surrender life.md>)
 - [enjoy the learning experience](<enjoy the learning experience.md>) for what I'm [interests](<interests.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- I will also have some experiences that I find interested on and curious about, so that I want to learn, to go deep, to try, to master, to unfold my potential and uniqueness [interests](<interests.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - I felt that my [impersonal desires](<impersonal desires.md>) are experiences without the need to satisfy any needs inside of myself. [interests](<interests.md>)
 

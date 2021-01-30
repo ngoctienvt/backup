@@ -65,6 +65,9 @@
 ## [January 28th, 2021](<January 28th, 2021.md>)
 - What is permanent is me and my growth. Everything else are impermanent and could go anytime. I need to appreciate, honor, and grateful about them, but also unattach with them as the same time. [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
+## [January 30th, 2021](<January 30th, 2021.md>)
+- I want to become a strong and grounding people that have [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
+
 ## [November 10th, 2020](<November 10th, 2020.md>)
 - I noticed that I still easy to let myself drowning on my dream instead of simply experience and let them go. I am learning to [🌱Unshakable Centering](<🌱Unshakable Centering.md>)
 
