@@ -2,4 +2,7 @@
     - In game, I want to give my cousins have good experiences together. I want we have good time and good experiences. I want to bring them and myself the best experiences with the least friction and frustrating, that's why I think about buying a new fake controller for them.
         - However, what hold me back is the fear of wasting. I fear that I won't use them much and waste my money, and because of this, I become a little bit attachments and confusing if they don't be honor and use properly. 
         - I think that just let them have good experiences, even if it's wasting. The reason I feel waste is because I think they are not used to their fullest, but only half thing. I use the wrong measure for it, what I should measure is how good experiences we have together, not how much we used the controller to their fullest capacity. Of course it's good if I can use it full value, but this is very personal perception, and restraint my joy and make me grow unnecessary attachments that I need to let go instead.
-        - My focus should be about feeling that everything is already enough at the moment, and it's only become better, not 
+        - My focus should be about feeling that everything is already enough at the moment, and it's only become better, not about something is lacking and need to have other thing to compensate for the lackness.
+        - I feel I am becoming much more freedom and less attachments now, because I am feeling wholer and thinking in a much right way now.
+        - My decision is I will buy for them a controller, and if it won't use anymore, I just sell them or find another way to use them if possible. But the experiences we have together is far more than enough.
+- 
