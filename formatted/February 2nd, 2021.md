@@ -1,0 +1,11 @@
+- I start to develop my expertise about design activities to help people practice skills effectively [Training Activities](<Training Activities.md>)
+    - [Principles for effective training activities](<Principles for effective training activities.md>)
+        - Breaking down tasks, so people can develop in a deep rather in a broad way
+        - If there are sequence skills, then focus on the second skill to help people practice the first skill naturally
+            - For example, let people focus on listening will naturally help them to develop their presence skill
+- I noticed that I don't like to talk about benefits of things or assets. If I talk about benefits, it's about how that thing is used in a right context and served a right purpose instead. It's not about gaining personal benefits, it's about expressing the meaning of things to serve a bigger picture.
+- I noticed that it's important for me to fully digest experiences first. Without this, I couldn't do anything meaningful or feel very hard to do, because everything is distorted by my personal perceptions. 
+    - Ensuring that the glass always clear is very important before doing the right thing.
+- I also noticed that it's very easy for me to watch and give feedback, but I don't know that there is nothing perfect. They can only match a bit of my perceptions, they are no way or very hard to satisfy me completely, and they also shouldn't be, because they have no responsibilities to serve for my needs. They need to serve for themselves and for reality, and improve over time instead.
+    - The way of seeing everything is lacking make me feel frustrated, I need to learn to see things from opposite perspective. It's about how things have done good and appreciated these parts instead. What's lacking is where they could grow to become better, not for me to judge and expect them to fit my need.
+        - Because I'm also not perfect, and there is no way I will be perfect in the eyes of everyone. When learning to see myself and my potential, it will helpful for me to see other in that way as well.

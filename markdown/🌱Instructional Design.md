@@ -417,6 +417,9 @@ Lập kế hoạch áp dụng
         - [[self-learning]] promoting
             - The teaching of metacognitive skills should be integrated into the curriculum in a variety of subject areas.
                 - Developing strong metacognitive strategies and learning to teach those strategies in a classroom environment
+- [[Training Activities]]
+    - [[types of training activities]]
+    - [[Principles for effective training activities]]
 - Tools
     - Tools to split group
         - [https://pickerwheel.com/tools/random-team-generator/](https://l.facebook.com/l.php?u=https%3A%2F%2Fpickerwheel.com%2Ftools%2Frandom-team-generator%2F%3Ffbclid%3DIwAR3aker-XNm0OWSSjfzuRdwzBTN0PqZ3Ov3t2qJpoBM_DLwMBDeO-7caPaU&h=AT06Jqi9PThd74YI75ZX8WvV0bLcvdYpME4dgQDsZ3WaWJxDCRGo8pRo5ZfqARAu_K_o_fB7EXf1Uub957f3iRqTbSMV01s6ht4sTqRmhxK7ASqmIoIp6xR08aCunQmL7gtNxQ)

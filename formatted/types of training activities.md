@@ -27,3 +27,8 @@ Nhắc lại nội dung đã học
 Điểm lại các bài học quan trọng
 Lập kế hoạch áp dụng
 Ăn mừng
+
+# Backlinks
+## [🌱Instructional Design](<🌱Instructional Design.md>)
+- [types of training activities](<types of training activities.md>)
+
