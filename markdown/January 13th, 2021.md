@@ -86,6 +86,6 @@
             - and the learning demands of what is being taught. 
         - This comparison results in strategies for action that can be applied in their ongoing learning process.
 - Today I feel that I still have many inner disturbances and my thoughts or process of my thinking is still pretty complicated and overload. 
-- I notice that my way of thinking tend to mix up and have no clear framework to direct but try to do everything at the same time. This lead to it become unneccessary complicated and not context dependent, but too much generalize. [[way of thinking]]
+- I notice that my way of thinking tend to mix up and have no clear framework to direct but try to do everything at the same time. This lead to it become unneccessary complicated and not context dependent, but too much generalize. [[🌱My way of thinking]]
     -  I need to reframe my thinking that context mastery is far more important than having concepts. My way of thinking need to be output-driven rather than concept-driven.
     - Concepts are just the materials that need to extract properly base on the output that I need to create or problems that I need to handle.

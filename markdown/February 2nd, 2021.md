@@ -6,6 +6,44 @@
 - I noticed that I don't like to talk about benefits of things or assets. If I talk about benefits, it's about how that thing is used in a right context and served a right purpose instead. It's not about gaining personal benefits, it's about expressing the meaning of things to serve a bigger picture.
 - I noticed that it's important for me to fully digest experiences first. Without this, I couldn't do anything meaningful or feel very hard to do, because everything is distorted by my personal perceptions. 
     - Ensuring that the glass always clear is very important before doing the right thing.
-- I also noticed that it's very easy for me to watch and give feedback, but I don't know that there is nothing perfect. They can only match a bit of my perceptions, they are no way or very hard to satisfy me completely, and they also shouldn't be, because they have no responsibilities to serve for my needs. They need to serve for themselves and for reality, and improve over time instead.
+- I also noticed that it's very easy for me to watch and give feedback, but I don't know that there is nothing perfect. They can only match a bit of my perceptions, they are no way or very hard to satisfy me completely, and they also shouldn't be, because they have no responsibilities to serve for my needs. They need to serve for themselves and for reality, and improve over time instead. [[honoring]]
     - The way of seeing everything is lacking make me feel frustrated, I need to learn to see things from opposite perspective. It's about how things have done good and appreciated these parts instead. What's lacking is where they could grow to become better, not for me to judge and expect them to fit my need.
         - Because I'm also not perfect, and there is no way I will be perfect in the eyes of everyone. When learning to see myself and my potential, it will helpful for me to see other in that way as well.
+- The relationship between what I want to do in life and how I will consistenly move forward is the context. I need to aim to the right things that won't shake by the external stuffs or it will become more complete over time. 
+    - The whole point is about how I will grow myself without losing myself into my personal part and create consistent value. The more I grow, the better value I can serve for the reality. It's not about me, it's about me giving back to the reality based on my growth and taking responsibilities for my growth and my true happiness.
+- [[🌱My way of thinking]]
+- I noticed that I have a tendency to hesitate for act because I don't want to do the wrong thing. I don't have a clear guidance for myself about acting. I only act when it becomes must somehow. I don't like risks and I want to calculate risk properly first. I feel that I'm living my life backwards instead of forwards in this way. [[🌱Choiceless Awareness]]
+    - The point for making action is not about having a good reason for it. We don't need to feel good to act. The point of making action is about that is the thing we need to do.
+- It seems like we all have good intention, but it tends to be distort by our personal perceptions and needs that make it derail. So the important here is having good intention is not enough. It needs to have right principles to keep it on the right track and wake us up when we derail.
+- [[🌱My way of living]]
+    - Raising the moments through
+        - Living
+            - Fully embracing the varieties of life
+            - Reminding myself that experiences are enough for what life can give to me
+            - Fully responsibilities for my inner well-being and don’t satisfy my need to compensate for my feeling of lackness
+                - I will not let my mind have the right to close my source of love. I will take responsibility to keep it open no matter what. 
+            - Learning to gratitude and recognize the meaning of everything - bad or good, light or shadow, disturb or feel good...
+        - Loving
+            - Quality
+                - Unconditional
+                - Selflessness
+                - Inclusion as a whole
+                - Unselective acceptance
+            - Love as a couple
+                - Partnering to grow together
+                - Sharing low as well as high
+                - Caring and validating the feeling of emptiness, lackness, need for inner compensation
+            - Love as a family
+                - Unselective acceptance of what I think is illogical and make me feel disturb
+                - Include their pain, need, samskaras as a part of my responsibilities
+                - Gratitude for how they care and love me
+                - Recognizing and acknowledging their strengths and uniqueness
+        - Serving
+            - Teaching
+            - Coaching
+            - Writing
+            - Talking/ interacting
+        - Sharing
+            - Enjoy moments together (walking, interacting, eating, talking, watching,...)
+            - Playing games together
+- [[Daily Worthy Stories]] Walking. Realizing the topic of what I want to raise the moments. Emerge the willingness to let go my satisfaction of lower self.

@@ -13,6 +13,9 @@
 ## [December 31st, 2020](<December 31st, 2020.md>)
 - [Daily Worthy Stories](<Daily Worthy Stories.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- [Daily Worthy Stories](<Daily Worthy Stories.md>)
+
 ## [January 10th, 2021](<January 10th, 2021.md>)
 - [Daily Worthy Stories](<Daily Worthy Stories.md>)
 

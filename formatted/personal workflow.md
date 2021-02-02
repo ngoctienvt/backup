@@ -10,7 +10,7 @@
         - Sharing
         - Letting go
     - The workflow will develop base on my [🌱Natural Progression](<🌱Natural Progression.md>) of development and what I'm truly want, then I will develop new way of thinking, learning new things so that it will support the above desire.
-        - One of new [way of thinking](<way of thinking.md>) I feel that I will need to develop now is [think in a filter way](<think in a filter way.md>) instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [contextual usages](<contextual usages.md>).
+        - One of new [🌱My way of thinking](<🌱My way of thinking.md>) I feel that I will need to develop now is [think in a filter way](<think in a filter way.md>) instead of the normal searching, or finding way. Think in a filter way is about finding things based on it [contextual usages](<contextual usages.md>).
 - What is the components that need to be clarify?
     - Tasks
     - Inputs ouputs management

@@ -3,6 +3,9 @@
 ## [Articles - Your Life Isn’t Defined By Your Choices, It’s Defined By Your Reactions](<Articles - Your Life Isn’t Defined By Your Choices, It’s Defined By Your Reactions.md>)
 - When we feel most stuck and helpless, it’s because we’ve bought into the idea that our choices, and choices alone, determine the outcomes of our lives. Our real choosing power is actually how we respond to what we didn’t choose. __The way we react to the reality that is in front of us is how we invent the next reality we will experience.__  [Surrend to the truth of the world](<Surrend to the truth of the world.md>) [impersonal choices](<impersonal choices.md>) [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>)
 
+## [February 2nd, 2021](<February 2nd, 2021.md>)
+- I noticed that I have a tendency to hesitate for act because I don't want to do the wrong thing. I don't have a clear guidance for myself about acting. I only act when it becomes must somehow. I don't like risks and I want to calculate risk properly first. I feel that I'm living my life backwards instead of forwards in this way. [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>)
+
 ## [January 20th, 2021](<January 20th, 2021.md>)
 - [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>)
 
