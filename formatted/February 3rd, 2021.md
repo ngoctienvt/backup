@@ -1,3 +1,45 @@
 - [The Design of Learning Environments](<The Design of Learning Environments.md>)
     - https://www.nap.edu/read/9853/chapter/10
-    - 
+    - **LEARNER-CENTERED ENVIRONMENTS**
+        - the term “learner centered” to refer to environments that pay careful attention to the knowledge, skills, attitudes, and beliefs that learners bring to the educational setting.
+        - the concept of “diagnostic teaching” (Bell et al., 1980): attempting to discover what students think in relation to the problems on hand, discussing their misconceptions sensitively, and giving them situations to go on thinking about which will enable them to readjust their ideas
+        - A key strategy is to prompt children to explain and develop their knowledge structures by asking them to make predictions about various situations and explain the reasons for their predictions.
+        - By selecting critical tasks that embody known misconceptions, teachers can help students test their thinking and see how and why various ideas might need to change
+        - The model is one of engaging students in cognitive conflict and then having discussions about conflicting viewpoints
+        - Overall, learner-centered environments include teachers who are aware that learners construct their own meanings, beginning with the beliefs, understandings, and cultural practices they bring to the classroom.
+        - The teachers attempt to get a sense of what students know and can do as well as their interests and passions—what each student knows, cares about, is able to do, and wants to do.
+        - Accomplished teachers “give learners reason,” by respecting and understanding learners’ prior experiences and understandings, assuming that these can serve as a foundation on which to build bridges to new understandings
+    - **KNOWLEDGE-CENTERED ENVIRONMENTS**
+        - Knowledge-centered environments take seriously the need to help students become knowledgeable (Bruner, 1981) by learning in ways that lead to understanding and subsequent transfer.
+        - Knowledge-centered environments intersect with learner-centered environments when instruction begins with a concern for students’ initial preconceptions about the subject matter.
+        - Without carefully considering the knowledge that students’ bring to the learning situation, it is difficult to predict what they will understand about new information that is presented to them
+        - Knowledge-centered environments also focus on the kinds of information and activities that help students develop an understanding of disciplines
+        - nowledge-centered environments also include an emphasis on sense-making—on helping students become metacognitive by expecting new information to make sense and asking for clarification when it doesn’t
+        - There are interesting new approaches to the development of curricula that support learning with understanding and encourage sense making.
+        - One is “progressive formalization,” which begins with the informal ideas that students bring to school and gradually helps them see how these ideas can be transformed and formalized.
+        - Instructional units encourage students to build on their informal ideas in a gradual but structured manner so that they acquire the concepts and procedures of a discipline.
+        - having students use their own words, pictures, or diagrams to describe mathematical situations to organize their own knowledge and work and to explain their strategies.
+        - In later units, students gradually begin to use symbols to describe situations, organize their mathematical work, or express their strategies. At this level, students devise their own symbols or learn some nonconventional notation. Their representations of problem situations and explanations of their work are a mixture of words and symbols.
+        - Later, students learn and use standard conventional algebraic notation for writing expressions and equations, for manipulating algebraic expressions and solving equations, and for graphing equations. Movement along this continuum is not necessarily smooth, nor all in one direction.
+        - An alternative to a “rutted path” curriculum is one of “learning the landscape”
+        - In this metaphor, learning is analogous to learning
+        - to live in an environment: learning your way around, learning what resources are available, and learning how to use those resources in conducting your activities productively and enjoyably
+        - An alternative to simply progressing through a series of exercises that derive from a scope and sequence chart is to expose students to the major features of a subject domain as they arise naturally in problem situations.
+        - Ideas are best introduced when students see a need or a reason for their use—this helps them see relevant uses of knowledge to make sense of what they are learning.
+        - A challenge for the design of knowledge-centered environments is to strike the appropriate balance between activities designed to promote understanding and those designed to promote the automaticity of skills necessary to function effectively without being overwhelmed by attentional requirements.
+    - **ASSESSMENT-CENTERED ENVIRONMENTS**
+        - The key principles of assessment are that they should provide opportunities
+        - for feedback and revision and that what is assessed must be congruent with one’s learning goals.
+        - formative assessment, involves the use of assessments (usually administered in the context of the classroom) as sources of feedback to improve teaching and learning.
+        - summative assessment, measures what students have learned at the end of some set of learning activities.
+        - Examples of formative assessments include teachers’ comments on work in progress, such as drafts of papers or preparations for presentations.
+        - Examples of summative assessments include teacher-made tests given at the end of a unit of study
+        - A challenge of implementing good assessment practices involves the need to change many teachers’, parents’, and students’ models of what effective learning looks like.
+        - a framework for integrating cognition and context in assessing achievement in science.
+        - Characterizing assessments in terms of components of competence and the content-process demands of the subject matter brings specificity to generic assessment objectives such as “higher level thinking and deep understanding.”
+        - In open situations, explicit directions are minimized; students are expected to generate and carry out appropriate process skills for problem solution.
+        - In process-constrained situations, directions can be of two types: step-by-step, subject-specific procedures given as part of the task, or directions to explain the process skills that are necessary for task completion. In this situation, students are asked to generate explanations, an activity that does not require using the process skills.
+    - **COMMUNITY-CENTERED ENVIRONMENTS**
+    - **THE IMPORTANCE OF ALIGNMENT**
+        - A systems approach to promote coordination among activities is needed to design effective learning environments
+        - Activities within schools must also be aligned with the goals and assessment practices of the community.
