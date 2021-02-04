@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 4th, 2021](<February 4th, 2021.md>)
+- From an experience, there will be different type of knowledges that we can learn form. [self-learning](<self-learning.md>)
+
 ## [January 11th, 2021](<January 11th, 2021.md>)
 - [self-learning](<self-learning.md>)
 
