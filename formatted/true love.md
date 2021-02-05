@@ -18,6 +18,9 @@
     - 4th Element: Upeksa 捨 (Equanimity) None discriminational love. [inclusion](<inclusion.md>)
 
 # Backlinks
+## [February 5th, 2021](<February 5th, 2021.md>)
+- I feel that I start to learn about how I can have the ability to offer [true love](<true love.md>)
+
 ## [November 27th, 2020](<November 27th, 2020.md>)
 - [true relationship](<true relationship.md>) is what I will focus on and it is not any person-oriented or type of relationship oriented. It's not about [true love](<true love.md>)
 

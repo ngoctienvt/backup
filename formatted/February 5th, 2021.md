@@ -1,4 +1,4 @@
-- I feel that I start to learn about how I can have the ability to offer [[true love]] for myself, for other, and for reality.
+- I feel that I start to learn about how I can have the ability to offer [true love](<true love.md>) for myself, for other, and for reality.
     - Capacity to generate happiness for myself and for others
     - Capcity to remove suffer for myself and for others
     - Capacity to offer joy for myself and for others
