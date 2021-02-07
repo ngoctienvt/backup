@@ -21,4 +21,6 @@
     - Learning how to transform my own way of living now.
     - Some tasks will require me to do the good in myself first, before teaching other people to do the samething. However, in my sense, I learn much more from teachings, so I want to do them as a circle process in which my own practice will help me teach, my teaching will help me to continue improve my process.
         - At least I will need to clear and confident 80% about my own stuff first, the rest will be upgrade and improve later on, so that it won’t confuse and mislead other people too much.
-        - 
+    - Today I start to support anh Khanh to overcome his life current challenge
+        - It’s about supporting him to deal with his tendency to worry and to think too much
+        - It’s about having financial secure and change of job
