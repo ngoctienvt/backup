@@ -1,7 +1,11 @@
 - I feel that I start to learn about how I can have the ability to offer [[true love]] for myself, for other, and for reality.
     - Capacity to generate happiness for myself and for others
+        - I notice that this is coming from feel enough, feel secure, trust, surrender
     - Capcity to remove suffer for myself and for others
+        - I notice that is coming from acceptance, letting, handling the pasts, understanding
     - Capacity to offer joy for myself and for others
+        - I notice that this is coming from interacting with the world, shakti,...
     - Capacity to offer freedom for myself and for others
+        - This is about learning how to have a good mutual understanding, boundary, responsibility and personal growth
     - It will take time to learn this, but as long as I practice to able to offer for myself first, then slowly I expand to include other people but not breaking the principles, I will grow and become a better lover.
         - Conditional or unconditional is not important, the important is to do the right things with the right attitude. These principles will act as guidelines for me to improve, rather than focus on the label to proud or not. 
