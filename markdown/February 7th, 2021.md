@@ -1,0 +1,24 @@
+- [[📝Coaching Review]]
+    - Today coaching, I noticed that I still tend to be the one who see where the problem could be fix and reflect to other with an intention about how things could fix. 
+    - This is not truly how coaching should focus on, the focus of coaching shouldn’t about fixing problems, it’s about focusing on the who aspect of the clients, creating the space for them to contemplate about it, evok awareness about perceptions and truth so they can create a distance with their mind, and help them learn to re-navigate their current self to embrace the future self.
+    - I will need to learn to become more detach with my mind and my tendency to solve things. And learn to see the who aspect of the clients and how to raise that aspect instead.
+- In these last few days at home before New Year event, I feel a little bit lost because I don’t know how my life is directing and how could I participate fully with life now. I’m not clear about this, because I feel that I don’t have deep connection with my home and my parents. I only have tendency to avoid, resist, protect or hide myself so that I don’t be seen, be asked, be interacted, and be responded.
+    - This is a chance for me to learn to embrace these experiences, these events, situations, and people so that I could release my fear, my need for protection, let go my parts that resist to life.
+- I also start to feel that some of the teachings about true love of Thay Thich Nhat Hanh is influencing about how I will live my life next. I notice that good will intention is not enough, but learn to have the skill needed to deliver and execute it is important as well. And they can’t separate to each other. They are meant to complement to each other. [[skillful]]
+    - By seeing as skillful or not, identify or not, truth or peception, it helps to release me out of the right-wrong notions, black-white thinking.
+- I start to see my life as a journey that I will take place on earth. On this journey, I will have chances to experience many things, and they are coming to teach me about the nature of life. And by learning from them, I will grow, evolve, and wholer. [[My Life Polestar]]
+    - From this journey, I will learn how to be myself, rather than be my mind, my heart or anything that’s not myself. I learn to cease to be distracted and be centered instead.
+    - I will also learn to help my soul mates, people around me to learn to live in how it actually should be. I will also learn how to do my part good, and share with other people, so that we become better together through true love.
+        - True love is an art of doing my part, and share with other people to help them do their part good.
+        - There will be some principles, guidelines, teachings that will help me to ensure that I’m on the right track, facilitate my progress in an effective way, but won’t derail me out of my uniqueness and my journey. It will actually magnifize them instead.
+- My way of living is not complete yet, I still like to think rather than to do, to experience. I also don’t know clearly about what I need to do, they are kind of blurry, and makes me feel confuse. 
+    - I may enjoy living at the moment, but by not having anything to serve for. I will easily be lost in my mind and my heart. Being centered is a practice, but having a clear purpose to express myself is also important for me to direct my energy in a helpful way. This will be related to true love, to what I want to serve, to unfolding my potential, to complete the challenges, the tasks that life want me to do [[🌱My way of living]]
+- Some of the main tasks that I see now are [[Life Tasks]]
+    - Embracing my families and learning to offer true love
+    - Teaching other people about how to grow in a skillful way
+    - Teaching other people about coaching skill, so that they can help other people 
+    - Helping other people to have a right thinking about life, finding their own purposes, create a grow system. Transform their way of living now to a new way of living
+    - Learning how to transform my own way of living now.
+    - Some tasks will require me to do the good in myself first, before teaching other people to do the samething. However, in my sense, I learn much more from teachings, so I want to do them as a circle process in which my own practice will help me teach, my teaching will help me to continue improve my process.
+        - At least I will need to clear and confident 80% about my own stuff first, the rest will be upgrade and improve later on, so that it won’t confuse and mislead other people too much.
+        - 
