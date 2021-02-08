@@ -1,0 +1,9 @@
+- I noticed that it’s seem to be not clear about the topic coaching, the client concern and coaching the person [🧭Coaching MOC](<🧭Coaching MOC.md>) [Coaching terminology](<Coaching terminology.md>)
+    - What client concern about will be the topic of coaching that I need to partner with them to find out
+    - The goal of the session is about what clients want to achieve related to the concern that we found
+    - Coaching the person have two main things
+        - One is about find out what clients truly concern to work at the root
+        - Second is about coaching their who part to transform their inner being in a way that create permanent and sustain results. 
+- I just notice that as long as I don’t put my hope, my trust, my expectations on anything, I will not disappointed. I may need help from other people, but I don’t expect someone have to have that responsibilities. [unattachment](<unattachment.md>)
+    - It means learning to live, to support, to get support without clinging, but rather trust in myself and keep understanding. Feel grateful for who good for me, but also feel understanding and not resenment for who can’t help me yet.
+- 

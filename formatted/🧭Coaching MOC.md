@@ -45,6 +45,9 @@
 ## [Courses - The target approach - Coaching](<Courses - The target approach - Coaching.md>)
 - Tags: #[🧭Coaching MOC](<🧭Coaching MOC.md>)
 
+## [February 8th, 2021](<February 8th, 2021.md>)
+- I noticed that it’s seem to be not clear about the topic coaching, the client concern and coaching the person [🧭Coaching MOC](<🧭Coaching MOC.md>)
+
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - Let other people feel that's they are important. Let them feel seen, feel heard, and feel understood. [🧭Coaching MOC](<🧭Coaching MOC.md>)
 
