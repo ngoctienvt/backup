@@ -1,0 +1,2 @@
+- [[generative language]] bình an vs bình yên
+- [[true love]] is about want to understand and want to share the love, not just about what satisfy us now
