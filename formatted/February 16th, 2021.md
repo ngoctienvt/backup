@@ -1,0 +1,17 @@
+- [Chaordic Stepping Stones](<Chaordic Stepping Stones.md>)
+    - When I use this model for my new year personal plan, I noticed that I want to start with explore what I want to do/ to complete/ to resolve first 
+        - This is the step to explore and resolve my own needs 
+    - Then I will start to group them and explore my purpose when resolving these needs
+        - This will serve as a general direction for me to know where I’m going
+    - Then I will write about type of outputs to bring more clarity into about the destination - the content mostly can change, but the type of output is usually stable
+    - Next I will want to explore what would be next steps I need to do to move forward 
+        - This will help me to start to bring more clarity in my mind, because they are filling the gap between where I am now and where I want to be
+        - This will help to release anxiety when focus on the big thing, and start to bring presence to what need to complete now instead
+    - Now, it’s not yet ready to put them into timeline to execute yet, I will need to refine my purpose, my goals, and write down more concrete actions that actually execute able
+    - Besides that, it’s really helpful to write down Principles that I want to follow, support system that I can count on
+    - The whole picture about is just PLANNING STEP, and not actually How I will execute yet. I also bring Dragon Dreaming and Chaordic Stepping Stone together, because Dragon Dreaming help to clear more about the action and the order how actions need to execute.
+    - The EXECUTION STAGE will need I focus to bring more
+        - Learning Process
+        - Principles for execution
+        - Focus on the next step, experiences first
+- I learn so much from Grid when learning to act for higher things and higher purposes rather than defening my own ego. I also learn that there will always be a way to handle things that we hard to imagine if we don’t think in that way at first. Context is very important, because that where thinking can grow, think in general way is not really hard, but have expertise on how to solve difficult contexts, pieces of puzzle is a different story. It requires much more things than the limitation of the mind.
