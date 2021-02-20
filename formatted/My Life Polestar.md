@@ -11,6 +11,9 @@
 ## [December 16th, 2020](<December 16th, 2020.md>)
 - I noticed that I'm developing myself in the direction that's taking care of person important with me. It's not my personal needs, it's just that in this journey on earth, there are limited people I can take care with my current ability. And I want to take care them. [My Life Polestar](<My Life Polestar.md>)
 
+## [February 20th, 2021](<February 20th, 2021.md>)
+- [My Life Polestar](<My Life Polestar.md>)
+
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - I start to see my life as a journey that I will take place on earth. On this journey, I will have chances to experience many things, and they are coming to teach me about the nature of life. And by learning from them, I will grow, evolve, and wholer. [My Life Polestar](<My Life Polestar.md>)
 

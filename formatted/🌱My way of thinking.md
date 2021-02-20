@@ -9,6 +9,9 @@
     - Learning to train the mind to think in the way that align and harmony with life
 
 # Backlinks
+## [February 20th, 2021](<February 20th, 2021.md>)
+- [🌱My way of thinking](<🌱My way of thinking.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [🌱My way of thinking](<🌱My way of thinking.md>)
 
