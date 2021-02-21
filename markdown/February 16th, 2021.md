@@ -1,4 +1,4 @@
-- [[Chaordic Stepping Stones]]
+- [[🌱One Step Planning]]
     - When I use this model for my new year personal plan, I noticed that I want to start with explore what I want to do/ to complete/ to resolve first 
         - This is the step to explore and resolve my own needs 
     - Then I will start to group them and explore my purpose when resolving these needs

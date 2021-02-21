@@ -1,4 +1,4 @@
-- [Chaordic Stepping Stones](<Chaordic Stepping Stones.md>)
+- [🌱One Step Planning](<🌱One Step Planning.md>)
     - When I write about What I need to have a fulfill year, I start to see what I want to complete or resolve, they maybe small, maybe big, but at least they give me a direction.
     - Then I start to see what's the meaning behind these things? This give me a sense about where I'm going, and why I'm going that way.
         - This step also needs to have some considerations to check about the PURPOSES and the THINGS I want to complete, before going on detail.

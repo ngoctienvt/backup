@@ -1,4 +1,4 @@
-- [Chaordic Stepping Stones](<Chaordic Stepping Stones.md>) It's good to break the steps and the work down. However, there are still some wandering questions and uncomfortable feeling in me. It's about what if you don't know how to do it yet? Then we will feel certain restraints and procrastination. How to overcome this and complete the tasks?
+- [🌱One Step Planning](<🌱One Step Planning.md>) It's good to break the steps and the work down. However, there are still some wandering questions and uncomfortable feeling in me. It's about what if you don't know how to do it yet? Then we will feel certain restraints and procrastination. How to overcome this and complete the tasks?
     - One is I could meditate about the tasks to know how to do it
     - Second is I could create a process will help me go through it, it will help me to know how to do, then do it
     - This is starting to invole into the How part, when Why we do, and What we need to do is clear
