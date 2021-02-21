@@ -1,0 +1,4 @@
+- [🌱My way of thinking](<🌱My way of thinking.md>)
+    - I will shift to know what's important - from satisfying my needs to realize that what's important is the reaility - the people, the right thing, the moment instead
+        - Playing games is not about finishing a game, it's about the person who play the games
+        - Open the doors with careful is not about me, it's about how it will influence the surroundings
