@@ -4,4 +4,9 @@
         - Open the doors with careful is not about me, it's about how it will influence the surroundings
 - I noticed that it's important to act as they are the truth, so that it will lead people try and find out by themselves later, rather than trying to explain about them and persuade people to trust it. 
     - The reason is people can only trust their experiences rather than the explanations or languages.
-- 
+- [Components to create a masterpiece](<Components to create a masterpiece.md>)
+    - Ability or skill level
+    - Intention behind
+    - Mindset/ attitude while create
+    - Content
+
