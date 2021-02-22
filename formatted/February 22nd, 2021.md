@@ -48,4 +48,8 @@
                 - Write down 3 things that you learned today
                 - Stop-Start-Continue
 - Understanding, embracing and serving [🌱My way of living](<🌱My way of living.md>)
-- 
+- I felt so free and stillness inside my heart today. It's the reward from constantly embracing and letting go of my samskaras. It's a stillness that beyond any comprehension. 
+    - It's also help me to realize that when we are done to work within ourselves, it doesn't mean we know how to express ourselves in a way that serve the world. 
+        - At least the good materials are there, and our job is to learn how to use it to serve reality.
+- I also noticed that [🌱My way of living](<🌱My way of living.md>) will need to be include the spiritual part, the joke part, the easy to be disturb part, and the learning part into one.
+    - It will create a way of living that focus on Accepting, Understanding, Embracing, and Serving. There will be no room for satisfy my personal needs or preferences. These things will need to be clean instead.

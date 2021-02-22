@@ -3,6 +3,8 @@
 ## [February 22nd, 2021](<February 22nd, 2021.md>)
 - Understanding, embracing and serving [🌱My way of living](<🌱My way of living.md>)
 
+- I also noticed that [🌱My way of living](<🌱My way of living.md>)
+
 ## [February 2nd, 2021](<February 2nd, 2021.md>)
 - [🌱My way of living](<🌱My way of living.md>)
 
