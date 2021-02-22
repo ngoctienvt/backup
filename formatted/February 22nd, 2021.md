@@ -47,3 +47,5 @@
                 - Identify 2 main feelings that you are having from today workshops
                 - Write down 3 things that you learned today
                 - Stop-Start-Continue
+- Understanding, embracing and serving [🌱My way of living](<🌱My way of living.md>)
+- 
