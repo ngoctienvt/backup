@@ -1,4 +1,4 @@
-- [[��Planning]] for next few months
+- [[Planning]] for next few months
     - Complete PKDS
     - Complete and transition myself to a productive life
     - Build solidify foundation for

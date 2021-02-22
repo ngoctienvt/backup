@@ -1,4 +1,4 @@
-- [��Planning](<��Planning.md>) for next few months
+- [Planning](<Planning.md>) for next few months
     - Complete PKDS
     - Complete and transition myself to a productive life
     - Build solidify foundation for
