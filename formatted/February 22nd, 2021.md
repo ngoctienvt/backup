@@ -8,6 +8,25 @@
                 - Identify what they need to do now to make their dreams come true
                 - Arranging the outcomes and the actions into timeline
                 - Identify 5 actions that executable in next weeks to achieve the outcomes they want
-            - Identify the principles that want to follow while working to complete their dreams
-            - Identify the resources and support needed 
-        - 
+            - Structure and support planning
+                - Identify the principles that they need to follow for execution step
+                - Identify the resources and support needed
+        - Workshop design
+            - Openner activities - 10'
+                - Lucidspark account creation and link sharing
+                - Getting used to lucidspark by writing name with sticky notes
+            - Practice activities
+                - In Lucidspark
+                    - Write down "What do you need to complete/ resolve/ achieve so that this year become fulfill for you?" - 15'
+                    - Group the items and write sticky notes about the purposes - 5'
+                    - Change the items into outcomes that can be measurable - 15'
+                    - Write down "What do you need to do now to make your dreams come true?" - 10'
+                    - Draw timelines, organizes items, and draw connections - 10'
+                    - Write down 5 actions that you can execute next weeks - 10'
+                - In Jamboard
+                    - Write down resources and support that you may need through the process - 15'
+                    - Write down principles that you want to follow to make sure that your execution stage is effective - 15'
+            - Debriefing
+                - Identify 2 main feelings that you are having from today workshops
+                - Write down 3 things that you learned today
+                - Stop-Start-Continue
