@@ -7,10 +7,27 @@
                 - Identify the meaning and purposes behind these outcomes
                 - Identify what they need to do now to make their dreams come true
                 - Arranging the outcomes and the actions into timeline
+                    - Participants need to know how timelines will support them through the journey
+                        - Direction
+                        - Managing the progress
+                        - Self-acknowledgement
                 - Identify 5 actions that executable in next weeks to achieve the outcomes they want
+                    - Participants need to know the differences between "executable action" and "directional action"
             - Structure and support planning
                 - Identify the principles that they need to follow for execution step
+                    - Participants need to know the role of principles for execution
+                        - Focus
+                            - Limitations to maximum 5 actions, then refill 
+                        - Direction
+                            - Focus on what need to be done, regardless how hard it is or whether we know how to do it or not
+                        - Transcendence
+                            - Overcome the comfortable zone and embrace the unknown
                 - Identify the resources and support needed
+                    - Participants need to know what are resources and supports, and how they can support them on the journey
+                        - Coaching - self-improvement
+                        - Mentoring - guidances
+                        - Self-learning - lack of knowledges
+                        - Training - lack of skills
         - Workshop design
             - Openner activities - 10'
                 - Lucidspark account creation and link sharing
