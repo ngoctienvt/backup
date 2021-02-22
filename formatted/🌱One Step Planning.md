@@ -17,3 +17,6 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - [🌱One Step Planning](<🌱One Step Planning.md>)
 
+## [February 22nd, 2021](<February 22nd, 2021.md>)
+- [🌱One Step Planning](<🌱One Step Planning.md>)
+

@@ -1,0 +1,13 @@
+- [[🌱One Step Planning]]
+    - Training
+        - This workshop provides for people who want to have a fulfilled year a process to plan, execute, and growth to complete their goals.
+        - In order to do this, participants need to complete these tasks
+            - Outcomes and actions planning
+                - Identify major outcomes that they want to complete this year
+                - Identify the meaning and purposes behind these outcomes
+                - Identify what they need to do now to make their dreams come true
+                - Arranging the outcomes and the actions into timeline
+                - Identify 5 actions that executable in next weeks to achieve the outcomes they want
+            - Identify the principles that want to follow while working to complete their dreams
+            - Identify the resources and support needed 
+        - 
