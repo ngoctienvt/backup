@@ -35,8 +35,8 @@
             - Practice activities
                 - In Lucidspark
                     - Write down "What do you need to complete/ resolve/ achieve so that this year become fulfill for you?" - 15'
-                    - Group the items and write sticky notes about the purposes - 5'
-                    - Change the items into outcomes that can be measurable - 15'
+                    - Group the items and write sticky notes about the purposes - 5'. Discuss “How will you know that you achieve this?”
+                    - Change the items into outcomes that can be measurable - 15'. “What’s the ideal outcome of this?”
                     - Write down "What do you need to do now to make your dreams come true?" - 10'
                     - Draw timelines, organizes items, and draw connections - 10'
                     - Write down 5 actions that you can execute next weeks - 10'
@@ -53,3 +53,4 @@
         - At least the good materials are there, and our job is to learn how to use it to serve reality.
 - I also noticed that [[🌱My way of living]] will need to be include the spiritual part, the joke part, the easy to be disturb part, and the learning part into one.
     - It will create a way of living that focus on Accepting, Understanding, Embracing, and Serving. There will be no room for satisfy my personal needs or preferences. These things will need to be clean instead.
+- I need to learn to accept that I can’t imagine everything, I need to let things unfold and learn from the reality to do better in the future. There is no need to fear, shame, self-judgement, because there are no such things as perfection, it will be more perfect when I grow from experiences.
