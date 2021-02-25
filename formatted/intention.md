@@ -9,6 +9,9 @@
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - Pilot - 10% - clarity - **Useful** [intention](<intention.md>)
 
+## [February 25th, 2021](<February 25th, 2021.md>)
+- "Lục bình không rễ" is a big concept that help me to think about how to change in a sustainable way. The point is build the right root and support it in a right direction. [intention](<intention.md>)
+
 ## [November 1st, 2020](<November 1st, 2020.md>)
 - My main [intention](<intention.md>)
 

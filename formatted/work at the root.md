@@ -1,5 +1,8 @@
 
 # Backlinks
+## [February 25th, 2021](<February 25th, 2021.md>)
+- "Lục bình không rễ" is a big concept that help me to think about how to change in a sustainable way. The point is build the right root and support it in a right direction. [intention](<intention.md>) [work at the root](<work at the root.md>)
+
 ## [October 12th, 2020](<October 12th, 2020.md>)
 - For my parents, I want to love them as they are, instead of trying to please them with their [personal needs](<personal needs.md>) as this is the indirect way to solve the true problems. [work at the root](<work at the root.md>)
 

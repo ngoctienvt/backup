@@ -49,6 +49,9 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - The reason why I want to ask [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 
+## [February 25th, 2021](<February 25th, 2021.md>)
+- My mind also try to convince me that it's better for me to seek after [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>),
+
 ## [January 17th, 2021](<January 17th, 2021.md>)
 - I noticed that I feel fun when I’m able to talk with My Linh. I’m learning to care about her for her sake only. I care how she is now, what challenges she has, what experiences she’s having now, what her concern, care about, and how I can share the joy, the fun of life with her, or support her when she need the support. [@Nguyễn Mỹ Linh](<@Nguyễn Mỹ Linh.md>)
 
