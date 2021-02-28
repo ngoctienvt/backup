@@ -13,3 +13,26 @@
         - For this phase, there are many things that I will need to work with, since I'm not work with it much. Anyway, one of the first thing is able to shift myself from passive to active stage. 
         - Second is about clarify how I want my relationship with life will be?
             - What are my roles? How I want to interact with life? What are meant to be for how I should live my life or play the Earth game?
+- Being here now, I noticed that I'm in a stage of life that everything is start to be clear, be ground, and be free myself totally out of the perception of the mind, and learn to fully embrace the truth of life. It won't be easy, but it's simple at least.
+- It's interesting to see about the difference of the information content [types of information](<types of information.md>)
+    - It could go from facts - information level
+    - to a more personal level - personal feelings / thoughts/ beliefs
+    - to a relational level which bringing personal level to now - the reality 
+    - In coaching, it's also somehow start with what clients are concern about (facts, stories...), then we go deeper to their feelings, uncovering their beliefs,... then we start to clarify what they truly want now 
+- [coaching context](<coaching context.md>)
+    - What – What game are we playing?
+        - In coaching, we are play a game to partner with other people to have a provoking conversation that moves them forward their desire goals
+    - Who – What are the roles of the people playing the game?
+        - Coach - the person who lead by following the clients 
+        - Clients - the person who have the chance to express, get support, and have the space to self-reflect, thinking
+    - When – How long does the game last, and when does it start and end?
+        - 1 hour 
+    - Where – Where is the game played?
+        - Online or offline
+    - Why – Why are we playing this game? What is the desired experience while playing it, and after the game is over?
+        - Clients become empower and be clear inside, so that they can truly move forward and have sustainable growth
+    - How – How do we play it? What are the rules? What are the consequences for breaking the rules?
+        -  Clarify the goal of the session
+        - Going deep, resolve, and emerge with new self
+        - Wrap up, lessons, and next steps
+- 

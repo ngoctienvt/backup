@@ -50,6 +50,9 @@ Các bước lắng nghe hiệu quả (mặc dù có từ “bước” nhưng k
 Việc phân biệt các loại thông tin ngoài dựa trên định nghĩa bên trên, cũng cần lưu ý đến bối cảnh đề cập để xác định. Nếu thông tin về các thiên kiến tâm lý nằm trong 1 danh sách 50 thiên kiến tâm lý, thì đây là thông tin dạng FACT. Nhưng nếu bạn đang cần giải thích cặn kẽ cho người tham gia về 1 thiên kiến tâm lý và cách nó ảnh hưởng đến hành vi ra sao, thì trong tình huống này đây là thông tin ở dạng CONCEPT.
 
 # Backlinks
+## [February 28th, 2021](<February 28th, 2021.md>)
+- It's interesting to see about the difference of the information content [types of information](<types of information.md>)
+
 ## [January 19th, 2021](<January 19th, 2021.md>)
 - [types of information](<types of information.md>)
 
