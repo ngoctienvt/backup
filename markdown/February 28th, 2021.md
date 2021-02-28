@@ -1,0 +1,15 @@
+- [[📝My Coaching Review]]
+    - Today coaching, I noticed that I'm not fully complete my path about how coaching meant to be yet. My preconceived ideas about what's good or what's right still interfere in my way to support my clients as who they are and how things should be.
+        - In coaching, I shouldn't argue with my clients about how's right thing should be based on my knowledge. It should be about how I understand my person as a whole, then help him moving forward in his desire direction. Through this process, he will gradually learn and improve by himself through his own experiences and experimentations. [[embracing before serving]]
+            - Coaching is not about doing the right thing in the right way. It's about learning to become better through experiences and letting go what holds us back, or blocking us to achieve what we truly want.
+    - The way coaching meant to be should be about how a coach can truly embrace clients as they are, understand them deeply, and support them to overcome their challenges in their own way and unfold their own potentials.
+- From yesterday session with anh Khánh, I learned that mainly my path has 2 phases now [[My Life Polestar]]
+    - The first phase is about how I can truly embrace the settings of the world. I will grow naturally when I manage to embrace life slowly as they are. This is the first main  task. [[Embracing phase]]
+        - For the first phase, I noticed that there are some big samskaras that I still fear about the unlimited potential consequences of life. The unknown and the uncomfortable that I need to embrace is still scare me somehow. And I will need to learn this.
+            - In order to able to do this, it's important for me to take full responsibilities into myself rather than running into my mind and hide from that. 
+                - I also need to take this responsibility to let my mind transform it and not be a sick child that is not able to develope because of me.
+                - This process will require courage and it will took time, but I will try my best to embrace the responsibilities to accept the unlimited potential of life.
+    - The second phase is about when I can embrace life as they are without any personal preferences to manipulate and control them based on fear and desire, then what will be my relationship with it should be? [[Understanding phase]] [[Serving phase]]
+        - For this phase, there are many things that I will need to work with, since I'm not work with it much. Anyway, one of the first thing is able to shift myself from passive to active stage. 
+        - Second is about clarify how I want my relationship with life will be?
+            - What are my roles? How I want to interact with life? What are meant to be for how I should live my life or play the Earth game?

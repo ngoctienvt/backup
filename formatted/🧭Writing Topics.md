@@ -1,5 +1,5 @@
 - Wisdom
-    - [understanding before solving](<understanding before solving.md>)
+    - [embracing before serving](<embracing before serving.md>)
     - [the fifth force - will-power](<the fifth force - will-power.md>)
     - [The tools we use shape us](<The tools we use shape us.md>)
 - Coaching

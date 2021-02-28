@@ -4,7 +4,7 @@
 
 The reason I fear and resist is I thought that they will harm me, but I'm not the physical person, I'm the energy that can't die, and impressions, samskaras can't kill me.
 - About the front door, I start to learn to feel safe and put more trust into the reality. I learn to let go my attachment for stuff and the feeling of owning something. [fear](<fear.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) I noticed that sometimes I couldn't just reflect and question, sometimes I need to have clients to have some options to clarify their thoughts, especially when they keep going around. This is the same as me, as I'm on a stage learning how to facilitate my own thoughts to become clearer and directional by learning the MOCs stage.
+- [📝My Coaching Review](<📝My Coaching Review.md>) I noticed that sometimes I couldn't just reflect and question, sometimes I need to have clients to have some options to clarify their thoughts, especially when they keep going around. This is the same as me, as I'm on a stage learning how to facilitate my own thoughts to become clearer and directional by learning the MOCs stage.
 
 The situation also needs to be specific to explore, as clients can easily relate to their context and learn from that. I can also learn more on them based on that situation rather than work as general context.
 - 

@@ -34,7 +34,7 @@
 - [journaling training](<journaling training.md>)
 
 ## [October 28th, 2020](<October 28th, 2020.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) Today coaching, I noticed that I still have a long journey to truly coach from the place of surrender. I still feel that I'm trying too much and not listen deep enough. I will focus fully on this after I complete my [journaling training](<journaling training.md>).
+- [📝My Coaching Review](<📝My Coaching Review.md>) Today coaching, I noticed that I still have a long journey to truly coach from the place of surrender. I still feel that I'm trying too much and not listen deep enough. I will focus fully on this after I complete my [journaling training](<journaling training.md>).
 
 ## [October 29th, 2020](<October 29th, 2020.md>)
 - I will focus on learning [Courses - Effortless Output with Roam](<Courses - Effortless Output with Roam.md>) next week, so that I could learn to use Roam more effectively, and get input to build my [journaling training](<journaling training.md>)

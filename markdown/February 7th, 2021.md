@@ -1,4 +1,4 @@
-- [[📝Coaching Review]]
+- [[📝My Coaching Review]]
     - Today coaching, I noticed that I still tend to be the one who see where the problem could be fix and reflect to other with an intention about how things could fix. 
     - This is not truly how coaching should focus on, the focus of coaching shouldn’t about fixing problems, it’s about focusing on the who aspect of the clients, creating the space for them to contemplate about it, evok awareness about perceptions and truth so they can create a distance with their mind, and help them learn to re-navigate their current self to embrace the future self.
     - I will need to learn to become more detach with my mind and my tendency to solve things. And learn to see the who aspect of the clients and how to raise that aspect instead.

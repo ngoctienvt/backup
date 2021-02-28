@@ -10,5 +10,5 @@
 - However, there are some moments that I feel I still explain too much instead of concise [reflection](<reflection.md>)
 
 ## [September 29th, 2020](<September 29th, 2020.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) In the session of Dr. Cherie with Pat, she demonstrated the way she used reflections to make things clearer, and she also acknowledge the strength of Pat drawing from her success and asked how she can use this to handle bigger things. [reflection](<reflection.md>)
+- [📝My Coaching Review](<📝My Coaching Review.md>) In the session of Dr. Cherie with Pat, she demonstrated the way she used reflections to make things clearer, and she also acknowledge the strength of Pat drawing from her success and asked how she can use this to handle bigger things. [reflection](<reflection.md>)
 

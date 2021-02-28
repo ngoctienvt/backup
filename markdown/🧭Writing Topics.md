@@ -1,5 +1,5 @@
 - Wisdom
-    - [[understanding before solving]]
+    - [[embracing before serving]]
     - [[the fifth force - will-power]]
     - [[The tools we use shape us]]
 - Coaching

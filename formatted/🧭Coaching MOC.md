@@ -72,7 +72,7 @@ However, most of the time because of our judgment, that's why when I coach for o
 - I noticed that I still feel not too clear about my responsibilities and my attitudes for the way I want to support others. It's still kind of half-baked and makes me kind of confusing like I know that advising does not really work, but if they are not willing to change or have a goal then I also don't know what to do to help them. [🧭Coaching MOC](<🧭Coaching MOC.md>)\
 
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>).  [🧭Coaching MOC](<🧭Coaching MOC.md>)
+- [📝My Coaching Review](<📝My Coaching Review.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>), which leads to the coaching is hard to become [transformation](<transformation.md>).  [🧭Coaching MOC](<🧭Coaching MOC.md>)
 
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - My [🧭Coaching MOC](<🧭Coaching MOC.md>)

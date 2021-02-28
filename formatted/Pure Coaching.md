@@ -10,7 +10,7 @@
 - [Pure Coaching](<Pure Coaching.md>)
 
 ## [October 4th, 2020](<October 4th, 2020.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) Last night coaching with Kỳ Anh, I felt that my energy and focus are quite low, I also lost in the mind that how coaching really works for me. It seems like I'm trying too hard and didn't let the coaching process really occurs naturally. I also really not hold what's the [end goal](<end goal.md>) that suitable for [Pure Coaching](<Pure Coaching.md>)
+- [📝My Coaching Review](<📝My Coaching Review.md>) Last night coaching with Kỳ Anh, I felt that my energy and focus are quite low, I also lost in the mind that how coaching really works for me. It seems like I'm trying too hard and didn't let the coaching process really occurs naturally. I also really not hold what's the [end goal](<end goal.md>) that suitable for [Pure Coaching](<Pure Coaching.md>)
 
 ## [September 15th, 2020](<September 15th, 2020.md>)
 - Recently I lost my ability to [Pure Coaching](<Pure Coaching.md>)

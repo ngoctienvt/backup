@@ -9,7 +9,7 @@ This is really a big [[life lessons]] for me about releasing all the dependent t
     - {{[[DONE]]}} [[energy management]]
     - {{[[DONE]]}} condensing knowledge about deep coaching
 - 
-- [[🌱My Coaching Reflection]] I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
+- [[📝My Coaching Review]] I felt that my coaching started to lengthy and unclear focus. It felt broad and lengthy instead of clear, concise and deepen.
 - [[Expanding questions]] How to organize information in Roam Research?
 
 - Instead of thing how to organize Roam Research, it would be better if I find out how I can let the process build itself like how the life works. [[self-evolving process]]

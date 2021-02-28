@@ -75,13 +75,6 @@
 ## [network note-taking](<network note-taking.md>)
 - My usage of network note-taking will be based on [🌱Progressive Development Approach](<🌱Progressive Development Approach.md>) with the main approach is [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>).
 
-## [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
-- developing or centering my coaching on [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-
-- making [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-
-- integrating between [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
-
 ## [🌱PKDS - Personal Knowledge Development System](<🌱PKDS - Personal Knowledge Development System.md>)
 - [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 
@@ -102,4 +95,11 @@
 
 ## [🌲Top-down Processing](<🌲Top-down Processing.md>)
 - gaining clarity about direction and big picture that emerge from [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+
+## [📝My Coaching Review](<📝My Coaching Review.md>)
+- developing or centering my coaching on [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+
+- making [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
+
+- integrating between [🌲Bottom-up Emergence](<🌲Bottom-up Emergence.md>)
 

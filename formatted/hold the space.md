@@ -7,7 +7,7 @@
 - [hold the space](<hold the space.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) Today, I feel I coach with better [inner state](<inner state.md>), and I feel I'm much freer with results. I also feel that I can [presence](<presence.md>) much better, though I still have a little bit of lack of [inner container](<inner container.md>) of positive [emotional energy](<emotional energy.md>) to [hold the space](<hold the space.md>)
+- [📝My Coaching Review](<📝My Coaching Review.md>) Today, I feel I coach with better [inner state](<inner state.md>), and I feel I'm much freer with results. I also feel that I can [presence](<presence.md>) much better, though I still have a little bit of lack of [inner container](<inner container.md>) of positive [emotional energy](<emotional energy.md>) to [hold the space](<hold the space.md>)
 
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
 While coaching for Ngân, I also kind of impatient because it's not usually the way I think instead of being empty and trust the process. My coaching also has a little bit of directing instead of fully [hold the space](<hold the space.md>)

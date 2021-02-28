@@ -1,4 +1,4 @@
-- [📝Coaching Review](<📝Coaching Review.md>)
+- [📝My Coaching Review](<📝My Coaching Review.md>)
     - Today I noticed that it seems like I'm still coach the problem, but in a disguise of coaching the person.  [Coach the problem](<Coach the problem.md>)
         - The whole point of [Coach the person](<Coach the person.md>) is not about changing beliefs, state of being, but it's about working on the root cause of what they are talking about. I will need to make more clear so that I noticed how I go off track and how I could learn to go on the right track again.
     - In the next period of time, my whole understanding and point of view about [Pure Coaching](<Pure Coaching.md>) will need to revamp, in the time I comeback to the coaching that I truly want to do and not misunderstand it.

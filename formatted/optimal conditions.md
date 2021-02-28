@@ -14,7 +14,7 @@
 - I want to sleep a bit early each night so that I will ready for the morning and also put myself in a better [optimal conditions](<optimal conditions.md>)
 
 ## [September 22nd, 2020](<September 22nd, 2020.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>),
+- [📝My Coaching Review](<📝My Coaching Review.md>) I felt that if my [inner container](<inner container.md>) of energy got depleted, I can't coaching in an [optimal conditions](<optimal conditions.md>),
 
 ## [closing the gap](<closing the gap.md>)
 - [trust](<trust.md>) and [connection](<connection.md>) are essential to create [optimal conditions](<optimal conditions.md>)

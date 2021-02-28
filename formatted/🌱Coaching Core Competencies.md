@@ -6,7 +6,7 @@ where they are]]
         - deep trust and connection
         - impersonal support
     - how to check our deep listening? 
-        - [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>)
+        - [📝My Coaching Review](<📝My Coaching Review.md>)
         - [coaching questions](<coaching questions.md>) need to base on what we listen instead of just throw them in the air.
             - the power of coaching questions based on how deep we are able to listen
 - 

@@ -14,6 +14,9 @@
 ## [February 20th, 2021](<February 20th, 2021.md>)
 - [My Life Polestar](<My Life Polestar.md>)
 
+## [February 28th, 2021](<February 28th, 2021.md>)
+- From yesterday session with anh Khánh, I learned that mainly my path has 2 phases now [My Life Polestar](<My Life Polestar.md>)
+
 ## [February 7th, 2021](<February 7th, 2021.md>)
 - I start to see my life as a journey that I will take place on earth. On this journey, I will have chances to experience many things, and they are coming to teach me about the nature of life. And by learning from them, I will grow, evolve, and wholer. [My Life Polestar](<My Life Polestar.md>)
 

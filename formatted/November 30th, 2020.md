@@ -15,5 +15,5 @@
             -  clean language
             - write new insights
 - Ability to think deep + Ability to simplify = Wisdom [Wisdom](<Wisdom.md>)
-- [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) I felt so much disturbances inside of myself when coaching today.
+- [📝My Coaching Review](<📝My Coaching Review.md>) I felt so much disturbances inside of myself when coaching today.
 - 

@@ -21,12 +21,12 @@
             - If things come in and our mind said "I don't like that...", we feel bad.
             - But the person sit next to us don't feel like that. Their mind say one thing, our mind say another.
             - Bill-gates example to demonstrate how our entire internal stage change because of one word
-        - Instead of asking "What is going on?", we only ask "How do we fix this?" [the short-term reaction](<the short-term reaction.md>) [understanding before solving](<understanding before solving.md>)
+        - Instead of asking "What is going on?", we only ask "How do we fix this?" [the short-term reaction](<the short-term reaction.md>) [embracing before serving](<embracing before serving.md>)
         - [seeing the process](<seeing the process.md>) Why am I not simply there and enjoy the moment in front of us? Why this is not my default state?
             - Because it depends on what our mind say.
             - "Which color do you like?". You don't decide that, your mind decides "Let me think about it."
         - We - the consciousness - have the right to experience 3 things or distract by them. [distraction](<distraction.md>)
-        - We need to have a core foundation to understand how things got this way. Then reverse the process, and it will become back to its natural state. [understanding before solving](<understanding before solving.md>)
+        - We need to have a core foundation to understand how things got this way. Then reverse the process, and it will become back to its natural state. [embracing before serving](<embracing before serving.md>)
     - What is mind? [the mind](<the mind.md>)
         - Mind is a place where thoughts exist.
             - Scientist don't have the machine to observe the thoughts yet, but we can easily.

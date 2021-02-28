@@ -33,7 +33,7 @@ The only thing that will never change and will never lose is me - my witness con
 - I felt so [disturbed](<disturbed.md>) today about I have to responsible for other people about their stuff, especially what happens on repeat. I noticed that at that time, my reaction to the world is not based on I'm being myself, but I'm being my [samskaras](<samskaras.md>)
 - The most important [🌱Coaching Core Competencies](<🌱Coaching Core Competencies.md>) is [Listens Actively](<Listens Actively.md>). It focuses us to understand the clients [as a whole](<as a whole.md>) instead of let our mind making assumptions and fill in the blank for us. 
     - And [Listens Actively](<Listens Actively.md>) need to help us to [[meet people
-where they are]] through the [🌱My Coaching Reflection](<🌱My Coaching Reflection.md>) skills. When reflection, we could check whether we and client are [on the same boat](<on the same boat.md>) or not.
+where they are]] through the [📝My Coaching Review](<📝My Coaching Review.md>) skills. When reflection, we could check whether we and client are [on the same boat](<on the same boat.md>) or not.
 - My [coaching questions](<coaching questions.md>) also need to show that I'm really listening and connecting with them, instead of just throw them in the air. Coaching questions will always powerful if it is formulated by [Listens Actively](<Listens Actively.md>).
 - I w.
 - [The relationship of approach, method, and technique](<The relationship of approach, method, and technique.md>)
