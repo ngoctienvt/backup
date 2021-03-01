@@ -1,5 +1,5 @@
 - ### [My Life Polestar](<My Life Polestar.md>)
-    - ### [My Life Pupose](<My Life Pupose.md>) - [living from the place of surrender](<living from the place of surrender.md>) 
+    - ### [My Life Purpose](<My Life Purpose.md>) - [living from the place of surrender](<living from the place of surrender.md>) 
         - purpose - enjoy every moment of the time on earth
             - evolution [soul evolution](<soul evolution.md>)
             - contribution [serving the demand of reality](<serving the demand of reality.md>)

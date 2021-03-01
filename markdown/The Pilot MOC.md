@@ -1,5 +1,5 @@
 - ### [[My Life Polestar]]
-    - ### [[My Life Pupose]] - [[living from the place of surrender]] 
+    - ### [[My Life Purpose]] - [[living from the place of surrender]] 
         - purpose - enjoy every moment of the time on earth
             - evolution [[soul evolution]]
             - contribution [[serving the demand of reality]]

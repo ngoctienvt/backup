@@ -29,7 +29,7 @@
     - My style of write: giáo sư
     - Wisdom specialist
 - [Daily Worthy Stories](<Daily Worthy Stories.md>) A flash new awareness that my and other people hidden agenda hinder the process of communication and create conflict. - Tien and Duy
-- I noticed that the whole philosophy of my service for the world is helping people to live a higher life through a self-realization process. [My Life Pupose](<My Life Pupose.md>)
+- I noticed that the whole philosophy of my service for the world is helping people to live a higher life through a self-realization process. [My Life Purpose](<My Life Purpose.md>)
     - Instead of teaching them the best way based on my limiting information, I help them to discover about themselves, learn to handle their own inner stuffs, and create their own way of executing based on some fundamental principles. [fundamental principles](<fundamental principles.md>)
         - These principles are about
             - The characteristics of

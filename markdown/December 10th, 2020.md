@@ -21,7 +21,7 @@
         - provoke their creativity 
         - break their limited thinking and beliefs
 - What are skills or areas that I'm nurturing my mastery on [[My mastery journey]]
-    - I noticed that my mastery journey and what I want to go deeply about is support other people to have a strong foundation inside themselves, so that they can face any challenges on the journey on earth with a right attitude and in an effective way. [[My Life Pupose]]
+    - I noticed that my mastery journey and what I want to go deeply about is support other people to have a strong foundation inside themselves, so that they can face any challenges on the journey on earth with a right attitude and in an effective way. [[My Life Purpose]]
     - [[My Areas of Focus]]
         - Coaching - competent
         - Spiritual - competent
