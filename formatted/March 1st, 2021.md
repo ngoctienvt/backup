@@ -19,3 +19,6 @@
         - True love is beyond desire and fear, it's about the harmony, the embracing, the connection deeply between people without being disturb by personal desires and fears.
     - Samskaras with family
         - I notice that I still have fear when I'm being scolded, given direction... I noticed that I have a strong defense need in front of my family. I will need to learn to remove these needs to defense and able to welcome them as they are first.
+    - This week focus
+        - Continue to work on the new 5 actions
+        - Plan for what need to do between me and Huyen in this year

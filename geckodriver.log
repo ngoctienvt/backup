@@ -282,3 +282,35 @@ JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: un
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1614595864349	geckodriver	INFO	Listening on 127.0.0.1:38023
+1614595865217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKrsTgo"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614595875973	Marionette	INFO	Listening on port 45323
+1614595876112	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614595876133	Marionette	ERROR	[18] No reply from Marionette:Register
+1614595877144	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:2908): GLib-GObject-CRITICAL **: 10:51:44.025: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614595905344	Marionette	INFO	Stopped listening on port 45323
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614595905937	geckodriver	INFO	Listening on 127.0.0.1:34305
+1614595905944	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqbx019"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614595907767	Marionette	INFO	Listening on port 37063
+1614595907875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614595907888	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:3141): GLib-GObject-CRITICAL **: 10:52:14.959: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614595936803	Marionette	INFO	Stopped listening on port 37063
