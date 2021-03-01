@@ -344,3 +344,39 @@ JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: un
 
 (firefox:3191): GLib-GObject-CRITICAL **: 11:23:56.923: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614597838893	Marionette	INFO	Stopped listening on port 38671
+1614601598416	geckodriver	INFO	Listening on 127.0.0.1:39091
+1614601599339	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRzOxde"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614601606329	Marionette	INFO	Listening on port 35845
+1614601606429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614601606454	Marionette	ERROR	[18] No reply from Marionette:Register
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:2819): GLib-GObject-CRITICAL **: 12:27:19.710: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614601641127	Marionette	INFO	Stopped listening on port 35845
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1614601641808	geckodriver	INFO	Listening on 127.0.0.1:52465
+1614601641814	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilez490aj"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614601643987	Marionette	INFO	Listening on port 42789
+1614601644051	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614601644078	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:3118): GLib-GObject-CRITICAL **: 12:27:53.171: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614601674343	Marionette	INFO	Stopped listening on port 42789
