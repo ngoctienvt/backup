@@ -221,3 +221,33 @@ JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: un
 
 (firefox:3084): GLib-GObject-CRITICAL **: 06:23:26.090: g_object_get: assertion 'G_IS_OBJECT (object)' failed
 1614579807668	Marionette	INFO	Stopped listening on port 40951
+1614583176792	geckodriver	INFO	Listening on 127.0.0.1:59463
+1614583177608	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYeH3Yh"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614583186965	Marionette	INFO	Listening on port 37725
+1614583187096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614583187133	Marionette	ERROR	[18] No reply from Marionette:Register
+1614583188181	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:2742): GLib-GObject-CRITICAL **: 07:20:19.070: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614583220093	Marionette	INFO	Stopped listening on port 37725
+1614583220687	geckodriver	INFO	Listening on 127.0.0.1:55811
+1614583220695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehdvvpf"
+*** You are running in headless mode.
+[GFX1-]: glxtest: Unable to open a connection to the X server
+[GFX1-]: glxtest: libEGL missing
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1614583222740	Marionette	INFO	Listening on port 37577
+1614583222838	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614583222865	Marionette	ERROR	[15] No reply from Marionette:Register
+1614583223897	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript warning: https://roam42.glitch.me/ext/smartBlocksCmd.js, line 225: unreachable code after return statement
+
+(firefox:2972): GLib-GObject-CRITICAL **: 07:20:51.346: g_object_get: assertion 'G_IS_OBJECT (object)' failed
+1614583252963	Marionette	INFO	Stopped listening on port 37577
