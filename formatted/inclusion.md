@@ -17,6 +17,9 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Unconditional happiness comes from me - where I'm able to comeback and center on myself and learn to absorb all of life experiences, challenges [inclusion](<inclusion.md>)
 
+## [March 3rd, 2021](<March 3rd, 2021.md>)
+- [inclusion](<inclusion.md>)
+
 ## [October 21st, 2020](<October 21st, 2020.md>)
 - the shift from [exclusion](<exclusion.md>) to [inclusion](<inclusion.md>)
 

@@ -1,1 +1,6 @@
-- 
+- [[inclusion]]
+    - https://www.youtube.com/watch?v=cXu7N86K4zE
+    - The path is coming from the low and transform to the high.
+        - Without the low, there will be no high. Without acceptance, there will be no possibility. 
+        - It's like a staircase, there is no superior or inferior step. Everything is importance and have its own role.
+    - 
