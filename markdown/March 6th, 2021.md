@@ -4,4 +4,5 @@
         - There will be some principles to move up
             - Acceptance - go through with acceptance - use lower center as the stepping stones for reaching the higher stones - not refusing or denying their roles
             - Find out what's meant to be - so that develop the path to it
-            - 
+- I felt that my cleaning is exponential these days. I start to notice clearly when I'm operating based on my lower-self, and I also notice that how little I am in the higher-self, but it starts to nurture and develop. It's not clear yet, but at least the seeds start to grow.
+- 
