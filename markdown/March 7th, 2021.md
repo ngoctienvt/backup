@@ -34,4 +34,5 @@
             - It needs to be fully center at now - no future, no past - let go all of past and future - let go the mind
         - 4th mudra - maha mudra - pure consciousness
             - This is what only left when everything above is gone
-    - Anyway, this week is so meaningful as I have so many new experiences, true understanding.
+    - Anyway, this week is so meaningful as I have so many new experiences, true understanding. I felt that I am becoming much clearer about the path that I always seek and how to be able to live it. I felt so much happy now.
+    - 
