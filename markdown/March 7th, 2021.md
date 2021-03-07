@@ -36,4 +36,6 @@
         - 4th mudra - maha mudra - pure consciousness
             - This is what only left when everything above is gone
     - Anyway, this week is so meaningful as I have so many new experiences, true understanding. I felt that I am becoming much clearer about the path that I always seek and how to be able to live it. I felt so much happy now.
-    - 
+- I noticed that true love is about the true life path that two people aim to and support, share to each other in the process to live each other true life path.
+    - It's not personal, it's about together.
+- I also noticed that my true life path is not able to include everything in life yet, and still have the tendency to exclude them because I am not clear about the path yet.
