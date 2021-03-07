@@ -30,6 +30,7 @@
             - It needs to be "toàn tâm toàn ý" - fully focus and fully express to FULLY UNDERSTAND, then we can let go it
         - 2nd mudra - gyan mudra - knowledges 
             - It needs to be let go what we think we know to only KEEP WHAT WE TRULY KNOW
+            - What you know for sure?
         - 3rd mudra - samaya mudra - time 
             - It needs to be fully center at now - no future, no past - let go all of past and future - let go the mind
         - 4th mudra - maha mudra - pure consciousness
