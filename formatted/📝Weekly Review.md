@@ -15,6 +15,9 @@
 ## [March 1st, 2021](<March 1st, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
+## [March 7th, 2021](<March 7th, 2021.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
+
 ## [November 15th, 2020](<November 15th, 2020.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 

@@ -1,0 +1,37 @@
+- [[📝Weekly Review]]
+    - The life goal or the path of life is starting to clearer. It's all about direct lower energy to become higher energy and express it to serve the world.
+        - This is how things meant to be. Through this path, we will become harmony with life and live it as it is. 
+        - To be able to do this, we need to learn to grow, to embrace lower energy, to accept every single things of life, so that we can become wholer and able to be handle them, embrace them, accept them fully. Grow to become a true merger.
+            - If not, we will be split by our tendency of resisting or clinging. We will make things become complicated and splitting.
+        - This path will have some main checkpoint. [[The life path]]
+            - muladhara center - center of birth - where sexual energy exist
+            - svadhisthana center - hara - center of death - where your body will need to die in order for you to reborn
+            - manipura center - feelings center - where different feelings are expressed harmony according to life stimulus
+            - anahata center - heart center - silence sound - where true love is born
+            - vishuddha center - pure - only talk when you come to 5th center through heart center (we need right materials to talk)
+            - ajna center - order - true willpower - the willpower of life 
+            - sahasrara - 'thousand petal lotus' - enlightenment 
+            - We need to use life experiences to teach us go through each of this center (not bypass anyone) so that we can become a true merger with life
+                - The main focus will be 6th chakra - this is where we can truly live how life means to be
+                - The path will be look life this
+                    - Learning to handle sexual desire or sexual energy and direct it up
+                    - Learning to handle the fear of death, let go the attachments with body
+                    - Learning to embrace all of feelings and life experiences
+                    - Learning to feel true love and the inner peace
+                    - Learning to talk with "pure"
+                    - Learning to focus/ to center of the seat of awareness without being distracted/ to interact with life
+    - The fear of consequences is about learning to embrace the future - the fear of what I don't want to experience and able to develop the capacity to embrace everything [[How to live the life path]]
+        - I will play more Life is strange next week to learn more about this
+    - Uniqueness is about how a seed will bloom into something and express its true potential - the focus currently will be about trust the uniqueness and let me express myself in the most natural way by letting go all of fears, beliefs, concepts, thinking...
+    - True love is much more freedom, natural, and not bound by anything. I'm not fully clear about this yet, but I'm starting to sense it, nurture it, and carve the path.
+    - My resistance and defensiveness with my family will focus on the next week.
+    - [[How to live the life path]] will somehow related to 4 mudra
+        - 1st mudra - karma mudra - our actions
+            - It needs to be "toàn tâm toàn ý" - fully focus and fully express to FULLY UNDERSTAND, then we can let go it
+        - 2nd mudra - gyan mudra - knowledges 
+            - It needs to be let go what we think we know to only KEEP WHAT WE TRULY KNOW
+        - 3rd mudra - samaya mudra - time 
+            - It needs to be fully center at now - no future, no past - let go all of past and future - let go the mind
+        - 4th mudra - maha mudra - pure consciousness
+            - This is what only left when everything above is gone
+    - Anyway, this week is so meaningful as I have so many new experiences, true understanding.
