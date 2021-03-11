@@ -1,4 +1,4 @@
-- What I learned so far about coaching after reviewing the session that anh Khánh coach is
+- What I learned so far about coaching after reviewing the session that anh Khánh coach is [[coaching mastery]]
     - Stories helped coach to understand more about the client's underlying concern (feelings, concern, state of being,...). There will be some background learning about client's way of thinking, belief system, perceptions, point of views...
     - The role of a coach is not about helping them to solve their stories, but it's about help clients to shift their center of focus from the stories to themselves. 
         - Help them see what they need, what they want is actually help them to have what? 
