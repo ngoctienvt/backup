@@ -8,3 +8,4 @@
     - My course will also help people to experience the transformation, so that they can see the path, walk the path, and manage to nurture the courage to continue walk forward. 
         - The path will not be easy, but it's simple and it's worth to pursue.
         - This path is not the path that everyone walk, it's the true path of life.
+        - The special of my course is me. It's about my way of thinking, my intention, my purpose, my uniqueness, and my own experiences. This means that I don't have to compare myself to anyone, everyone will have their own place on the earth, so I don't need to de-evaluate myself. 
