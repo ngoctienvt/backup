@@ -3,7 +3,7 @@
         - This is how things meant to be. Through this path, we will become harmony with life and live it as it is. 
         - To be able to do this, we need to learn to grow, to embrace lower energy, to accept every single things of life, so that we can become wholer and able to be handle them, embrace them, accept them fully. Grow to become a true merger.
             - If not, we will be split by our tendency of resisting or clinging. We will make things become complicated and splitting.
-        - This path will have some main checkpoint. [The life path](<The life path.md>)
+        - This path will have some main checkpoint. [🌱The life path](<🌱The life path.md>)
             - muladhara center - center of birth - where sexual energy exist
             - svadhisthana center - hara - center of death - where your body will need to die in order for you to reborn
             - manipura center - feelings center - where different feelings are expressed harmony according to life stimulus

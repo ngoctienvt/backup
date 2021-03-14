@@ -24,6 +24,9 @@
 ## [February 5th, 2021](<February 5th, 2021.md>)
 - I feel that I start to learn about how I can have the ability to offer [true love](<true love.md>)
 
+## [March 14th, 2021](<March 14th, 2021.md>)
+- True love is not about finding it, it will happen when it happens. I won't love in a personal way, I will have the pure love inside myself, and then share this love to raise the people around me together. My center will be on me, and not being run around by my lower energy. [true love](<true love.md>)
+
 ## [November 27th, 2020](<November 27th, 2020.md>)
 - [true relationship](<true relationship.md>) is what I will focus on and it is not any person-oriented or type of relationship oriented. It's not about [true love](<true love.md>)
 
