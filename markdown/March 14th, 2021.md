@@ -20,7 +20,7 @@
                 - and to fulfill the duties without any personal preferences.
                     - to have the courage to fulfill the duties, 
                     - to use the experiences as growth materials for the soul 
-                    - to let go all of beliefs, preconceived notions, learned knowledge and transform them into pure wisdom
+                    - to let go all of beliefs, preconceived notions, learned knowledge and transform them into pure wisdom/ pure insights
             - These are 2 main skills that will be develop in this stage.
             - There will also have a big transition from the way of working
                 - From generalization (thinking) to seeing the indiduality (being/ presence)
