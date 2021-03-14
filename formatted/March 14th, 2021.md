@@ -1,4 +1,4 @@
-- In today coaching session with anh Khánh, what I gained are [[📝My Coaching Review]]
+- In today coaching session with anh Khánh, what I gained are [📝My Coaching Review](<📝My Coaching Review.md>)
     - I realized that there will be a shift that need to occur in my state of being about life
         - The new stage of being is a state that focus on keeping the inner energy and the outer world flow without any stuck
             - I will need to develop a willingness to embrace life no matter what, and not left behind anything but use every single life experiences as a materials for my own growth
