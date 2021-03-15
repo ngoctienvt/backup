@@ -128,13 +128,13 @@ Sử dụng tài liệu, nghiên cứu, thông tin từ chuyên gia, hoặc ph�
                 - 3- Đặt thứ tự ưu tiên cho những nhu cầu tổng quát đó. Các tiêu chí để sắp xếp thứ tự ưu tiên có thể là: vấn đề nào cấp bách hơn và cần được giải quyết trước, nhu cầu nào cốt lõi hơn và có thể ảnh hưởng đến những nhu cầu còn lại, điều gì có thể đạt được với những hạn chế của môi trường…
                 - 4- Chọn các nhu cầu mà người thực hiện muốn đảm bảo
                 - 5- Viết mục tiêu lớn của workshop thành những câu ngắn gọn, có động từ chỉ hành động, danh từ chỉ nội dung, có thể có tính từ chỉ chất lượng và điều kiện
-                - Mẫu để viết mục tiêu lớn như sau:
-                - Workshop này cung cấp cho [đối tượng nào...] những [công cụ gì, kiến thức gì, kỹ năng gì…] để làm được [những điều gì…]
-                - Ví dụ:
-                - Chương trình này cung cấp cho học viên (những người thực hành đào tạo, phát triển con người, tham vấn, khai vấn, muốn mở rộng kỹ năng trong việc thực hiện workshop của bản thân) những kiến thức về tâm lý học giáo dục và thiết kế workshop, những công cụ tinh gọn và sự hỗ trợ trực tiếp để làm được những điều sau
-                - - Thiết kế một workshop hoàn chỉnh, sẵn sàng để thực hiện
-                - - Thử nghiệm workshop đó cho nhóm đối tượng tiềm năng
-                - - Nhận phản hồi và điều chỉnh workshop theo lời phản hồi đó
+                    - Mẫu để viết mục tiêu lớn như sau:
+                    - Workshop này cung cấp cho [đối tượng nào...] những [công cụ gì, kiến thức gì, kỹ năng gì…] để làm được [những điều gì…]
+                    - Ví dụ:
+                    - Chương trình này cung cấp cho học viên (những người thực hành đào tạo, phát triển con người, tham vấn, khai vấn, muốn mở rộng kỹ năng trong việc thực hiện workshop của bản thân) những kiến thức về tâm lý học giáo dục và thiết kế workshop, những công cụ tinh gọn và sự hỗ trợ trực tiếp để làm được những điều sau
+                        - - Thiết kế một workshop hoàn chỉnh, sẵn sàng để thực hiện
+                        - - Thử nghiệm workshop đó cho nhóm đối tượng tiềm năng
+                        - - Nhận phản hồi và điều chỉnh workshop theo lời phản hồi đó
         - [6 steps to identify ideal participant](<6 steps to identify ideal participant.md>)
             - Clarify about the workshop
             - Clarify ideal participant 
