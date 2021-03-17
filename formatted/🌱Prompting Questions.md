@@ -19,6 +19,9 @@
     - What other feelings present in the situation?
     - What were your personal highs and lows?
 - Findings
+    - Learning
+        - What did you learn about yourself? About the situation?
+        - What is your blindspots?
     - Find the gems and the gaps
         - What was most / least valuable?
         - What have you found out?
