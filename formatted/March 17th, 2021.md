@@ -1,7 +1,7 @@
 - It's becoming clearer and clearer day by day that more and more things I need to release inside myself, and learn to center myself in the inner path and keep my focus on the inner path rather than projecting my sense of self to external things.
     - Now is the time I truly learn to nurture my inner container in a way that it can go beyond its reaction stage, and transform into a self-centered container that stored abundance of high quality energy. 
         - It will be a period that I learn to release the habit to unconscious release lower energy and build up the habit to clean the container and nurture high quality energy.
-- For [[training method]], it will be helpful to use the competency model to help clients build up their expertise. Because it takes time to learn and release the old things to embrace the new things. 
+- For [training method](<training method.md>), it will be helpful to use the competency model to help clients build up their expertise. Because it takes time to learn and release the old things to embrace the new things. 
     - It's also important to split the skills into different DIFFICULTY LEVEL, so that the students help a clear picture about how to improve their skills and have the proper expectations and right approach for each level.
     - 
         - ![Four stages of competence - Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg/1200px-Competence_Hierarchy_adapted_from_Noel_Burch_by_Igor_Kokcharov.svg.png)
