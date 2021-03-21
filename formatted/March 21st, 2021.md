@@ -1,4 +1,4 @@
-- [[My Life Polestar]]
+- [My Life Polestar](<My Life Polestar.md>)
     - From gathering to distributing
     - From ownership to stewardship/ partnership agreement
     - 
