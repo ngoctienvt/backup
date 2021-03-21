@@ -1,4 +1,19 @@
 - [My Life Polestar](<My Life Polestar.md>)
     - From gathering to distributing
     - From ownership to stewardship/ partnership agreement
-    - 
+- [📝Weekly Review](<📝Weekly Review.md>)
+    - Highlights
+        - I noticed that there are many things that I still need to clean and let go, so that I can free my spiritual heart and embrace the divinity inside myself.
+        - I started to see more clearly about the subjective truth of the world and the personal perceptions based on my feelings and my mind. 
+            - I started to have a clear understanding to define what's true and what's not true but distort by feelings and my mind.
+        - I start to develop a courage to say the truth about myself to another. 
+        - I start to embrace the sexual desires fully, differentiate between what's happened inside and what's happened outside, so that I can learn to transform what's inside and establish a much stable center of awareness.
+        - I start to release my judgements about other people when they are behave in unawaken state, and learn to embrace their unawaken actions and intentions. 
+        - I start to embrace my parents in my whole being as we are one. Their sufferings are my sufferings. I feel grateful for what they distribute to me, nurture me, and raise me up. 
+        - I start to have a clearer picture and understanding about true love.
+    - Next week actions
+        - Learning Awaken the species and Reading Tantra each day
+        - Clarify about the attitude to play the game of life
+        - Go watching Bố già movie
+        - Learning to embrace the oneness mindset and say yes to everything
+        - Learning to store energy and letting go the unnecessary reactions to embrace true actions 
