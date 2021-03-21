@@ -17,3 +17,11 @@
         - Go watching Bố già movie
         - Learning to embrace the oneness mindset and say yes to everything
         - Learning to store energy and letting go the unnecessary reactions to embrace true actions 
+- The game of life
+    - You will be given a body, a mind, and a channel of energy chakras
+    - You will be experience the varieties of life whether they are comfortable or not
+    - You will be easily distract and identify with things that are not you
+    - To live life to the fullest, you will need to wake yourself out of the identification stage
+    - You will be deceived by the mind and the unhandled samskaras
+    - Life is not about you, it's about itself and you are a part of it 
+    - True happiness, true love or true joy is about the flow of the shakti inside of you.
