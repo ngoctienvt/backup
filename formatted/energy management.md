@@ -19,6 +19,9 @@
 ## [December 12th, 2020](<December 12th, 2020.md>)
 - I also noticed that last week my health was heavily impacted due to I feel hard to sleep. I will work more on this on the next week so that's I could use my bed time better and effective. [energy management](<energy management.md>)
 
+## [March 27th, 2021](<March 27th, 2021.md>)
+- Leaning to reserve energy in real-time is a big lesson for me. [energy management](<energy management.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I have a bit [worry](<worry.md>) about my physical energy today. Because I will have one teaching, and one learning workshop. But I think it will be fine, as long as I'm conscious and managing my energy properly. [energy management](<energy management.md>)
 

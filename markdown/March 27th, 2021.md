@@ -1,0 +1,9 @@
+- I feel so tired after this morning.
+    - One reason is it's 3 hours continuously interaction and it's exhause my energy.
+    - Second reason is there are many energy used into conflicts, unnecessary debates.
+    - Third reason is focus. I need to focus to coach.
+    - I felt so disturb when I feel my ideas, my experiences are being ignored and pushed away. I felt so meaningless and not sure about the point of the conversation. I'm not fully presence to aware what's happening to have a proper response. 
+        - Some conversations can't just happen, it will exhause my energy unconsciously. I will need to work more on this.
+        - If I'm not fully conscious, I will act based on my reactions. It will work sometimes, but sometimes won't. Not all the case. It's important for me to always conscious.
+        - Leaning to reserve energy in real-time is a big lesson for me. [[energy management]]
+    - 
