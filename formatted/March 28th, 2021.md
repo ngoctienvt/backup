@@ -19,3 +19,4 @@
         - Tròn vai
     - The middle path and the pathless path
     - The guest, the gamer, not the game character
+    - Totality participating in the moment, not desire satisfaction
