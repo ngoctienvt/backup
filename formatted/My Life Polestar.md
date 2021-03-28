@@ -32,9 +32,6 @@
 ## [March 21st, 2021](<March 21st, 2021.md>)
 - [My Life Polestar](<My Life Polestar.md>)
 
-## [March 28th, 2021](<March 28th, 2021.md>)
-- [My Life Polestar](<My Life Polestar.md>)
-
 ## [November 20th, 2020](<November 20th, 2020.md>)
 It's still unpredictable, but the road is much more clearer about who I am become to. My vision and purpose will be the [My Life Polestar](<My Life Polestar.md>)
 
