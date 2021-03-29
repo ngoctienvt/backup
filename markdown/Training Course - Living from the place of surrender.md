@@ -21,3 +21,13 @@
         - The guest, the gamer, not the game character - center on the seat of awareness, not identification for what's not the self
             - Unattachment and no possession, just borrow and distribution
         - Surrender to the wonder of life - allow it to be the way it is
+- In order to form a right attitude that will help people to transcend suffering and find back their true self, participants will need to 
+    - Know who they truly are and why they can’t be who they are
+    - Know the path to comeback to their trueself and what is the important checkpoint now
+    - Know what they need to able to embrace to reach the checkpoint
+    - Know why they are stuck and what need to change
+    - Know how to overcome and transform the blockages to reach the checkpoint
+    - Able to differentiate what’s low and what’s truly possible and meant to be
+    - Know what’s meant to be attitude to play the game of life - experiment, gamer, guest
+    - Build qualities that will help them to able to live that attitude
+    - 
