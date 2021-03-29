@@ -30,4 +30,6 @@
     - Able to differentiate what’s low and what’s truly possible and meant to be
     - Know what’s meant to be attitude to play the game of life - experiment, gamer, guest
     - Build qualities that will help them to able to live that attitude
-    - 
+    - Integrate the attitudes into life circumstances
+    - Develop personal practices to keep them on the path
+    - Develop support system that will help them
