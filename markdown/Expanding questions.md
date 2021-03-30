@@ -1,16 +1,16 @@
-- "I will work on to have my own synthesis and condensing process first. It will need to solve few big [[Expanding questions]]"
-    - "How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?"
-        - "Delete? Or query? Or filter? "
+- I will work on to have my own synthesis and condensing process first. It will need to solve few big [[Expanding questions]]
+    - How will I handle the cluster of information so that I won't waste time to review the materials that I'm completely absorb?
+        - Delete? Or query? Or filter? 
         - My takeaways:: 
             - Internal and external data will be tag freely to process and clean up later.
                 - Data on daily inbox will be clean by deleting.
                 - Data on external sources will be clean up as well, but could store in a way that if I need to use in other context later.
             - If certain data is too big or not ready to process yet, leave it there.
             - Tag need to have general tags, and the main idea of that for resolve easier later.
-    - "How I will organize my way of tagging and creating page?"
+    - How I will organize my way of tagging and creating page?
         - Free-thoughts:: It's not clear for me yet. I think that free thoughts will not need tag, while the key summary, expanding answers, whatever that got condensed will need to have tag instead. So that's I don't waste time to re-read unprocessed thoughts. 
             - However, will there be  a different level of processed thoughts is another [[Expanding questions]]? And how will I organize this?
-        - "[[contextual usages]]"
+        - [[contextual usages]]
     - How I use Roam to encode the relationship between ideas based on atomic concept, evergreen source of truth based on references?
     - How I will organize my workplace for solving current work and clean up later?
     - 

@@ -66,7 +66,7 @@
 - [P: How I use Roam Research to evolve my mind](<P: How I use Roam Research to evolve my mind.md>) [Roam Research](<Roam Research.md>)
 
 ## [September 18th, 2020](<September 18th, 2020.md>)
-- "[x] How to use [Roam Research](<Roam Research.md>)
+- [x] How to use [Roam Research](<Roam Research.md>)
 
 ## [September 19th, 2020](<September 19th, 2020.md>)
 - [x] How to use [Roam Research](<Roam Research.md>)

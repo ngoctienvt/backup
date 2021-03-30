@@ -9,7 +9,7 @@
 
 # Backlinks
 ## [September 16th, 2020](<September 16th, 2020.md>)
-- "Our [mind](<mind.md>) is not just like an PC, but actually looks like a universe with the power to create any star at any moments, based on the old stars. [metaphor for human mind](<metaphor for human mind.md>)
+- Our [mind](<mind.md>) is not just like an PC, but actually looks like a universe with the power to create any star at any moments, based on the old stars. [metaphor for human mind](<metaphor for human mind.md>)
 
 ## [human mind](<human mind.md>)
 - [metaphor for human mind](<metaphor for human mind.md>):

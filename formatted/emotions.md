@@ -1,4 +1,4 @@
-- "[emotions](<emotions.md>) are a state of energy affected by the disturbance of samskaras got triggered by the external world or emerged by itself. "
+- [emotions](<emotions.md>) are a state of energy affected by the disturbance of samskaras got triggered by the external world or emerged by itself. 
 - Emotions that I'm not able to resolve yet
     - [fear](<fear.md>)
     - [anger](<anger.md>)
@@ -60,7 +60,7 @@
 
 - [emotions](<emotions.md>)
 
-- "[emotions](<emotions.md>)
+- [emotions](<emotions.md>)
 
 ## [September 21st, 2020](<September 21st, 2020.md>)
 - I still feel too much [angry](<angry.md>) when others misunderstand me. It makes me even throw an iPad in the dream. I also feel uncomfortable with the crack on my iPad. [emotions](<emotions.md>)
@@ -88,7 +88,7 @@
 - I felt so much disturb when I saw things that are not [convenient](<convenient.md>) for me to just simply work, instead of having to do pre-work things. I still had [preferences](<preferences.md>) that I want to have things [convenient](<convenient.md>) for me. [emotions](<emotions.md>)
 
 ## [emotions](<emotions.md>)
-- "[emotions](<emotions.md>)
+- [emotions](<emotions.md>)
 
 ## [feelings](<feelings.md>)
 - [emotions](<emotions.md>)

@@ -41,7 +41,26 @@
     - Giving full attention and presence
     - Ask questions for deeper understanding and connection
     - Validate them
-- {{[embed](<embed.md>): ((Ho7_lNPGU))}}
+- 
+    - 
+        - progressive approach is based on the following criterion
+            - natural development
+            - process-oriented or continuous work in progress
+        - The method to implement progressive approach are
+            - bottom-up trueself development
+                - process of bottom-up development
+                    - accumulating experiences
+                        - activities
+                            - selecting resources
+                            - collecting information
+                            - tagging information
+                    - integrating experiences
+                    - adapting myself to the higher-self that emerge
+                    - repeat the process
+                - a support system to support the bottom-up evolution method
+                    - bottom-up personal knowledge through personal knowledge management system
+                    - bottom-up physical strength through routine yoga practices
+
 
 # Backlinks
 ## [October 27th, 2020](<October 27th, 2020.md>)

@@ -8,7 +8,7 @@
     - Ctrl + Shift + V
 - Block references: thay đổi ở main source cũng diễn ra ở cả các nơi block được reference.
     - (()) hoặc Ctrl + Drag
-    -  "[[1. Basic Functionality of Roam]]: là những chức năng cơ bản Roam"
+    -  [[1. Basic Functionality of Roam]]: là những chức năng cơ bản Roam
     - Usage: ???
 - Date picker
     - [[September 16th, 2020]] 

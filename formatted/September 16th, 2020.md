@@ -13,7 +13,7 @@
     - A song with fun sound and melodies [funny](<funny.md>) #[optimistic](<optimistic.md>) [music](<music.md>)
 - Today todo: 
     - [x] Editing video 2 continue 
-    - "{[x] }} Chemistry session với chị Hằng "
+    - {[x] }} Chemistry session với chị Hằng 
 - [training](<training.md>)
     -  wisdom.
         - It makes the students less independent thinking and may rely on the trainer or the teacher.
@@ -59,7 +59,7 @@
         - This will make you under-use the strength of [Roam Research](<Roam Research.md>) and your brain as well. If you really need a way to organize information, you can do this, but don't focus on it. 
     - When I start to feel I gather enough thoughts about a topic and want to go deep in it. Just open it and start to review, condense thoughts.
     - Another thing is [Roam Research](<Roam Research.md>) imitate the way our brain operating. [mind-training](<mind-training.md>)
-        - "Our [mind](<mind.md>) is not just like an PC, but actually looks like a universe with the power to create any star at any moments, based on the old stars. [metaphor for human mind](<metaphor for human mind.md>) "
+        - Our [mind](<mind.md>) is not just like an PC, but actually looks like a universe with the power to create any star at any moments, based on the old stars. [metaphor for human mind](<metaphor for human mind.md>) 
             - Each star works as a central node to link with other star in the universe.
             - They can shine more and become a bigger central node if there are more stars linked to it. Or they can become less active and become inactive into the subconscious mind.
             - To create star and maintain the focus on it, it requires an enormous energy to hold the star and extract the connection around it. This energy is used for [maintaining information process](<maintaining information process.md>) and [extract and gather information process](<extract and gather information process.md>) instead of using for [compressed process](<compressed process.md>).

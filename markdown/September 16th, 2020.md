@@ -13,7 +13,7 @@
     - A song with fun sound and melodies #funny #[[optimistic]] #music
 - Today todo: 
     - {{[[DONE]]}} Editing video 2 continue 
-    - "{{{[[DONE]]}}}} Chemistry session với chị Hằng "
+    - {{{[[DONE]]}}}} Chemistry session với chị Hằng 
 - [[training]]
     -  wisdom.
         - It makes the students less independent thinking and may rely on the trainer or the teacher.
@@ -59,7 +59,7 @@
         - This will make you under-use the strength of [[Roam Research]] and your brain as well. If you really need a way to organize information, you can do this, but don't focus on it. 
     - When I start to feel I gather enough thoughts about a topic and want to go deep in it. Just open it and start to review, condense thoughts.
     - Another thing is [[Roam Research]] imitate the way our brain operating. [[mind-training]]
-        - "Our [[mind]] is not just like an PC, but actually looks like a universe with the power to create any star at any moments, based on the old stars. [[metaphor for human mind]] "
+        - Our [[mind]] is not just like an PC, but actually looks like a universe with the power to create any star at any moments, based on the old stars. [[metaphor for human mind]] 
             - Each star works as a central node to link with other star in the universe.
             - They can shine more and become a bigger central node if there are more stars linked to it. Or they can become less active and become inactive into the subconscious mind.
             - To create star and maintain the focus on it, it requires an enormous energy to hold the star and extract the connection around it. This energy is used for [[maintaining information process]] and [[extract and gather information process]] instead of using for [[compressed process]].

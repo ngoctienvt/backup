@@ -17,7 +17,7 @@
 - I also start to less have new thoughts and feel I accumulated a lot of thoughts that want to condense into a deeper understanding and [pressure makes diamonds](<pressure makes diamonds.md>) first. 
 - [intention](<intention.md>) some of the topics that I want to spend my energy next is:
     - 
-    - "[x] How to use [Roam Research](<Roam Research.md>) to evolve my mind effectively"
+    - [x] How to use [Roam Research](<Roam Research.md>) to evolve my mind effectively
     - [x] Releasing the samskaras about the need for attention and recognition, [fear](<fear.md>) and nurture [self-fulfilled](<self-fulfilled.md>)
     - [x] Start to work on [generative language](<generative language.md>)
     - [x] Start to work on [intention](<intention.md>)

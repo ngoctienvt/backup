@@ -1,13 +1,13 @@
 - This is the process of absorb external knowledge, develop personal knowledge and package them to personal wisdom
 - Types of understanding
     - [Data](<Data.md>)
-    - "Information - meaningful data"
-        - "Highlights, summary, key take-aways"
-    - "Knowledge - pattern recognition and self-understanding"
-        - "New insights, new awareness, self-reflection, pop-up understanding"
-        - "High-quality information blocks / evergreen notes/ MOCs"
-    - "Wisdom - the package of personal knowledge that comes from deeply understand the essence of something or a truth"
-        - "Personal books, courses, training programs"
+    - Information - meaningful data
+        - Highlights, summary, key take-aways
+    - Knowledge - pattern recognition and self-understanding
+        - New insights, new awareness, self-reflection, pop-up understanding
+        - High-quality information blocks / evergreen notes/ MOCs
+    - Wisdom - the package of personal knowledge that comes from deeply understand the essence of something or a truth
+        - Personal books, courses, training programs
 - Metaphor
     - Data - seeds
     - Information - quality seeds

@@ -5,6 +5,6 @@
 - **[My takeaways](<My takeaways.md>):**
 
 ## [Expanding questions](<Expanding questions.md>)
-- "Delete? Or query? Or filter? "
+- Delete? Or query? Or filter? 
         - **[My takeaways](<My takeaways.md>):**
 

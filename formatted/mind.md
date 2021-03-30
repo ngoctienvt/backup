@@ -10,7 +10,7 @@
 - Nền tảng phát triển của mình khác với lại các guru về sử dụng [mind](<mind.md>)
 
 ## [September 16th, 2020](<September 16th, 2020.md>)
-- "Our [mind](<mind.md>)
+- Our [mind](<mind.md>)
 
 ## [September 17th, 2020](<September 17th, 2020.md>)
 - Our [mind](<mind.md>)

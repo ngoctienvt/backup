@@ -1,7 +1,7 @@
 - Last night, I have a dream that I got [angry](<angry.md>) and released my angry into other people. And I felt that I'm doing the right thing, and this type of thinking helped me to release my anger temporarily. However, it didn't help me to work on the root that why I felt angry in the first place. [spiritual growth](<spiritual growth.md>)
     - The thinking that made me felt right about releasing anger into other people is they didn't treat me well when things I didn't like or I didn't able to handle yet happen to me. At that moment, I felt the need to make myself better because I felt disturbed inside, so releasing anger helped me to feel better. But this is not a long-term solution, the root cause is I can't handle the event that happened to me and I count on other people to help me handle it unconsciously. [root cause](<root cause.md>)
 - Todo today:
-    - "[x] Editing video 2 continue "
+    - [x] Editing video 2 continue 
     - [x] Working to clean anger samskara
 - In [🧭Coaching MOC](<🧭Coaching MOC.md>), coach turn off [compressed process](<compressed process.md>) of their mind and let the clients in charge this process in their own inner universe. This means that the clients will provoke their thinking, and active their own mind to generate higher thinking level. This process also requires clients face what's the [underlying concern](<underlying concern.md>) or the [root cause](<root cause.md>) of their goals instead of focus on the [solution](<solution.md>) or [method](<method.md>) to achieve their goals.
     - By turn off their own mind, coach can connect with their source and operate from that level to fully [embrace](<embrace.md>) the whole being of client. This will be the main materials for a [coach](<coach.md>) to generate their own inner message which is compatible with clients.
@@ -44,9 +44,9 @@
     - [accumulated interest](<accumulated interest.md>) The psychological behind Roam is anytime I write, I feel that I put my thoughts into a bank account and they will not get wasted but get accumulated interest later on. 
     - Another thing is Roam help to [filter](<filter.md>) the mundane thoughts to retain or condense them into meaningful thoughts, keywords, key concepts, ideas.
     - The other reason is Roam releasing the mind to ineffective tasks. 
-        - "Replacing what's your brain do ineffective so you can focus on what's your actual brain should spend [energy](<energy.md>) on."
-            - "Works as a stored node information"
-            - "Able to recall exactly all bits of link information and find back unlink information as well."
+        - Replacing what's your brain do ineffective so you can focus on what's your actual brain should spend [energy](<energy.md>) on.
+            - Works as a stored node information
+            - Able to recall exactly all bits of link information and find back unlink information as well.
             - 
 
 # Backlinks

@@ -37,7 +37,7 @@
                             - **sharp titles** ([Prefer declarative and imperative note titles to sharpen claims](https://notes.andymatuschak.org/Prefer_declarative_and_imperative_note_titles_to_sharpen_claims)), and
                             - **positive framings** ([Prefer positive note titles to promote systematic theory](https://notes.andymatuschak.org/Prefer_positive_note_titles_to_promote_systematic_theory)).
 - Quality information of evergreen notes development:
-    - "[Data](<Data.md>)"
+    - [Data](<Data.md>)
         - External knowledge (books, articles, courses, experiences...)
     - [Information](<Information.md>) - meaningful data
         - Highlights, summary, key take-aways

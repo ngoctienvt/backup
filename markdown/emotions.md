@@ -1,4 +1,4 @@
-- "[[emotions]] are a state of energy affected by the disturbance of samskaras got triggered by the external world or emerged by itself. "
+- [[emotions]] are a state of energy affected by the disturbance of samskaras got triggered by the external world or emerged by itself. 
 - Emotions that I'm not able to resolve yet
     - [[fear]]
     - [[anger]]

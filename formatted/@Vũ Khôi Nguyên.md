@@ -7,7 +7,7 @@
             - Cùng làm lâu dài
         - Có thể cống hiến và kiếm sống được
     -  Mong muốn tập trung trước mắt:
-        - "Có thể cống hiến và kiếm sống được"
+        - Có thể cống hiến và kiếm sống được
 - ### Buổi 1
     - Chuẩn bị cho buổi 1, sáng thứ 3, 10/11/2020 
         - Nhìn lại và có bảng kết hoạch về việc làm / không làm những gì

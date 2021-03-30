@@ -17,7 +17,7 @@
 - In [[🧭Coaching MOC]], coach will want to remove themselves of their own [[preference]] way of working, especially [[concepts]] or the things they are familiar with. For example, if coach think that feelings are specific to body parts and it's easier to identify feelings based on asking it. It may limit your client, if they are easier to access to feelings based on metaphors, visualizations, or etc...
 - What's [[boring]]? It's about coming back to the state of low energy that you have before you get what makes your energy high. However, what makes your energy high because of its newness will not make you anymore when you get used to it. [[emotions]]
 - [[emotions]] and [[samskaras]] seems to be similar, but they are not the same. [[surrender]] [[spiritual growth]] 
-    - "[[emotions]] are a state of energy affected by the disturbance of samskaras got triggered by the external world or emerged by itself. "
+    - [[emotions]] are a state of energy affected by the disturbance of samskaras got triggered by the external world or emerged by itself. 
     - While samskaras is a stored of experience, impression that can affect the flow and the state of energy.  
 - the point of stopping others is not to stop what’s right or wrong, but to help them stop their personal tendency and helping them to free themselves out of that personal mind. [[personal mind]] [[interacting with life]]
 - I knew what is possible due to the teaching of Michael Singer. The ultimate goal is to free ourselves completely [[untether soul]], and the highest thing to do is [[surrender]] and merging. And in order to surrender and merge, there will be many practices and techniques that can help us to surrender easier. [[surrendering practices]]
