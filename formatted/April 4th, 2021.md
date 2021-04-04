@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I start to develop a new center and attitude for the witness conscious. 
         - I become more and more clean and pure inside, true love start to be nurture inside myself.
