@@ -5,4 +5,15 @@
         - I aware that relationship with others are the main challenges for me to work on now
         - I feel grateful that anh Khoa are willing to support me unconditionally
         - I start to develop the capacity to naturally focus on the external thing
-        - 
+    - Reflection
+        - I noticed that I still have big anger and judgements about people who are acting for their own sake and devalue other people, or take advantage of other people.
+        - I still not able to remain as a witness and still easily identify myself into the game character and the system of the game.
+        - I haven't able to raise myself far enough to embrace everything
+        - It's important to truly aware what is pulling me down and knowing how to not buy into it, but rather learning to bring me up
+            - To truly become a great being, a high perspective and the inner well-being are required.
+    - Next week actions
+        - I will work on the readiness and the high view of a gamer - a witness conscious
+            - I will listen to the coaching session to embrace the new quality into myself
+        - I will read some books of Osho about relationship, so I will handle this big part that still disturb inside of me
+        - I will start to learn to center myself as a witness conscious
+        - I will work on what is my intention/ what I want to deliver for other people in my next training program
