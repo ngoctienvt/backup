@@ -2,6 +2,9 @@
     - Personal books, courses, training programs
 
 # Backlinks
+## [April 4th, 2021](<April 4th, 2021.md>)
+- Knowing something intuitively is different with knowing something conceptually. [Wisdom](<Wisdom.md>)
+
 ## [November 23rd, 2020](<November 23rd, 2020.md>)
 - [Wisdom](<Wisdom.md>)
 

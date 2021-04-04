@@ -17,3 +17,6 @@
         - I will read some books of Osho about relationship, so I will handle this big part that still disturb inside of me
         - I will start to learn to center myself as a witness conscious
         - I will work on what is my intention/ what I want to deliver for other people in my next training program
+- Knowing something intuitively is different with knowing something conceptually. [Wisdom](<Wisdom.md>)
+    - The main difference is self-experiencing or self-listening instead of listenting to the mind
+- 
