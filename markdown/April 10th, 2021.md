@@ -1,0 +1,14 @@
+- [[Trial Coaching session]]
+    - I want to do Trial Coaching session because I want to let other people have the experience to see the relationship between themselves and the world in a different way.
+        - I want to awake other people out of their mind and help them develop the courage to face the reality
+        - I want to raise other people up so that they can live in a much more happy state of being
+        - I want to help other to enjoy the time they are on earth
+        - I want to wake up the sleeping consciousness inside and help it to navigate itself in the realty
+    - The session will suitable for people who
+        - Want to experience how coaching can help them in their life
+        - Want to get out of their current situation and reach a better way of living
+        - Want to take responsibilities for their life but don't know how
+    - What will be my attitude while doing this program
+        - I will use it as a way to let go the part inside of me that don't like loss and like to do what benefit for me
+            - People will still pay a price but it will under what I will normally accept, so that I can get rid of the personal part
+        - 
