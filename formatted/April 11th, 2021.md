@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I realize that I am on the journey of letting go of myself and learning to participate with the dance of life
         - I am learning to remain center and conscious as a witness conscious and not be identify with the other thing.
@@ -14,7 +14,7 @@
         - My body is easy to tired and need to improve the capacity of it to become a more well-being state.
     - Next week action
         - Listening the rest of the coaching session
-        - Starting to create [[Trial Coaching session]] landing page
+        - Starting to create [Trial Coaching session](<Trial Coaching session.md>) landing page
         - Working on the training course
         - Learning to transition attitude into witness state of being and participate with life
         - Learning to love

@@ -11,4 +11,3 @@
     - What will be my attitude while doing this program
         - I will use it as a way to let go the part inside of me that don't like loss and like to do what benefit for me
             - People will still pay a price but it will under what I will normally accept, so that I can get rid of the personal part
-        - 
