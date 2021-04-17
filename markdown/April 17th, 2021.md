@@ -9,4 +9,14 @@
             - It will also need to develop certain principles to guide the choices
         - Act
             - This is about execute the action.
-            - The main thing need to be 
+            - The main thing need to be care here is the willingness to do, the courage to experiment, the readiness to embrace whatever results.
+    - Orient is the most important as it is indicate the background of all of the above
+        - Orient will have some main above components
+            - The first component is Attitude or Intention which determine the direction and the way we want to interact with the world
+                - It's important to build our attitude base on truth and not just beliefs
+            - The second component is Vision which determine the possible outcomes that we need to develop ourselves so that we can harmony with the expected attitude and the by-results that we will get along the way
+            - The 3rd component is Strategy which determine the approach we want to use to achieve the Vision 
+            - The next component is about Actions which determine what we will do on a daily basis to execute the Strategy which will move us forward the Vision we want to achieve
+        - The below components is mental models/ samskaras/ feelings/ personal preferences which need to develop, transcend, purify.
+            - This component also reflect the above components unconsciously
+    - 
