@@ -1,2 +1,1 @@
 - I notice that I tend to work with bottom-up approach, so I would like to have some way to write down all of my ideas / thoughts and organize them, so the big picture will emerge naturally and less stressful.
-- 

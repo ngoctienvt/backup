@@ -1,0 +1,12 @@
+- [OODA Loop](<OODA Loop.md>)
+    - OODA Loop has 4 main components
+        - Observe
+            - This is about the ability to absorb what's truly happening, so that we will have enough information to truly understand what's happening
+        - Orient
+            - This is about the ability to decrypt what's happening, so that we can understand what's happening to clarify what require in us to participate with what's happening
+        - Decide
+            - This is about considering what need to do and don't need to do
+            - It will also need to develop certain principles to guide the choices
+        - Act
+            - This is about execute the action.
+            - The main thing need to be 
