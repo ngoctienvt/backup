@@ -10,4 +10,5 @@
     - From controlling to being and loving
     - From limiting to limitless
     - From concepting to self-knowing
-- 
+    - From judging to nurturing
+    - From expanding to focusing
