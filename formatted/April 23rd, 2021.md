@@ -8,4 +8,12 @@
         - Second is about interaction with reality. I want the interaction is meaningful for me and for other. I want it happens in a way that things become more and more simple, rather than become more and more complex.
             - I mean I want to enjoy my life at first. In order for this to happen, I will need to find inner happiness first. This will help me to complete at least 50% of this want.
                 - Then I want to bring true joy, true growth, true happiness for people around me. Because this will bring me more joy.
-                - 
+- I notice that it's kind of hard for me to make a shift too far away immeditately, but luckily that I have gone far enough to ready to settle more now. The focus point will need to be clarify, distinguish, emphasize in a way that it will be the anchor for me in the spiritual growth as well as how I will play the game of life.
+    - For spiritual growth
+        - Somehow it will be related to go beyond the trigger and the focus point will be clean the trigger, rather than just simply release the pressure or the disturbances.
+        - A part of the game of life is for helping me grow 
+    - For how I will play the game of life
+        - In interacting with reality, it's important to able to accept what it is, rather than attach with the need to be effective, simple and not create more complex. This is the inner work that I need to do, so that I will be ready for the game of life. 
+        - It will be about find what it's means to be and learn to grow so that what's meant to be will be execute properly.
+    - It's important for me to make what's invisible to become more clear and visible.
+    - 
