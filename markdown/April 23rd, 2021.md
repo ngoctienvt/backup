@@ -11,7 +11,8 @@
 - I notice that it's kind of hard for me to make a shift too far away immeditately, but luckily that I have gone far enough to ready to settle more now. The focus point will need to be clarify, distinguish, emphasize in a way that it will be the anchor for me in the spiritual growth as well as how I will play the game of life.
     - For spiritual growth
         - Somehow it will be related to go beyond the trigger and the focus point will be clean the trigger, rather than just simply release the pressure or the disturbances.
-        - A part of the game of life is for helping me grow 
+        - A part of the game of life is for helping me grow. There will be a little bit of mix lessons, challenges here.
+        - It's important to think in a way that "I am a spiritual being that playing the game of life in a human body". This statement will help to keep me on the right path for what's work and what's make sense.
     - For how I will play the game of life
         - In interacting with reality, it's important to able to accept what it is, rather than attach with the need to be effective, simple and not create more complex. This is the inner work that I need to do, so that I will be ready for the game of life. 
         - It will be about find what it's means to be and learn to grow so that what's meant to be will be execute properly.
