@@ -1,4 +1,6 @@
-- It's still a little bit confuse about the level of I'm working on. Sometimes I work on the deepest - witness conscious level, and the language will mainly describe what's happen to the conscious receiver.
+- It's still a little bit confuse about the level of I'm working on. 
+    - Sometimes I work on the deepest - witness conscious level, and the language will mainly describe what's happen to the conscious receiver.
     - Sometimes I care about the human being side of me with family, career, future, love, coaching,...
     - Sometimes I care about the world that influence to the human being side and the witness conscious side.
     - It's not totally grounded the way I see thing and navigate myself yet, but at least I know that I will base my anchor into the deepest level - witness conscious, and then I will work backwards to the human being and the world level.
+- I start to learn to simplify the way I live life and learn to focus on what's important instead of just try to protect the self-concept all the time. 
