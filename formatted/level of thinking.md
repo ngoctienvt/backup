@@ -39,6 +39,9 @@
 ## [Life's Guiding Principles MOC](<Life's Guiding Principles MOC.md>)
 - [level of thinking](<level of thinking.md>)
 
+## [May 3rd, 2021](<May 3rd, 2021.md>)
+- [level of thinking](<level of thinking.md>)
+
 ## [November 19th, 2020](<November 19th, 2020.md>)
 - It's resonate to me that level of thinking is heavily affected by the level of abstraction. [level of thinking](<level of thinking.md>)
 
