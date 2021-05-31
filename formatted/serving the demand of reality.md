@@ -9,6 +9,9 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - All of these experiences that I have opportunities to embrace are all of lessons that help me to grow, so that I can raise the moments effectively. [serving the demand of reality](<serving the demand of reality.md>)
 
+## [May 31st, 2021](<May 31st, 2021.md>)
+- In the career/ contribution area [serving the demand of reality](<serving the demand of reality.md>)
+
 ## [November 14th, 2020](<November 14th, 2020.md>)
 - I also learned in today that I don't have to worry about what I need to do, as long as I'm keep raising my energy to higher center, it will do its work instead of me. I will just need to be myself most of the time. [🌱Choiceless Awareness](<🌱Choiceless Awareness.md>) [serving the demand of reality](<serving the demand of reality.md>)
 
