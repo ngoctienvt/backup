@@ -39,6 +39,9 @@
 ## [May 23rd, 2021](<May 23rd, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
+## [May 31st, 2021](<May 31st, 2021.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
+
 ## [May 9th, 2021](<May 9th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
