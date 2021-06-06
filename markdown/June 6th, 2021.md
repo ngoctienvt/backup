@@ -1,0 +1,30 @@
+- [[📝Weekly Review]]
+    - It has been a week that I'm continuously working with my inner disturbances and limitations. 
+        - I has been start to expand beyond what's limiting and embracing the infinite, those in a certain psychological way first. 
+        - Notice that I still be limit and attach with the role that I'm into. I have a fear about married, choosing  the right one, worrying about the future, pulling aparts from different directions. 
+        - It's not easy to let go the "I", but I'm learning to do it totally and fully. 
+    - I also read a manga that bring me so much inspirations and realization
+        - I noticed that while we don't need the I, we still need to learn to utilize the strengths that we have and train it properly to face life challenges.
+            - It's not just about surrendering and being passive to the flow of life, it's about learning to ride the flow of life, and in order to do that, embracing and accepting is the first part, the other part is taking the challenges and learning to improve myself so that I could handle and grow from that.
+        - The seat of the consciousness is where I center. But around that, I need to consciously build up the strengths, the proper mental ways of thinking, the ability to seeing truthfully what's existential and discern it with what's psychological created. 
+            - Building the skill of life inclusion and facing challenge-oriented
+    - The part about love and relationship is not totally deal with yet.
+        - I'm in a stage of confusing, breaking, and re-establishing the orientation of love and relationship around the trueself.
+            - I have been a seeker to have love, a person who fear to lost love, to make other people sad, to chase the joy, the happiness of other people. But I notice deeply it's not what I want to be.
+            - I want to completely be myself, not in a personal but in a natural way, and be in that, I will let love or relationship naturally come into me, instead of seeking it.
+                - Sometimes there will be challenges in relationship that need I'm going beyond the current self, but it still firmly establish on who I'm truly are, not about changing myself to please other people.
+                    - Because I can do it in short-period of time, but won't be in long period of time.
+    - The journey of grow that I have in mind will have few phases [[Journey of transformation]]
+        - Preparation phase is where setting up and aliging people to prepare for the Transformation phase
+        - Transformation phase is where people will learn to die to be reborn, to grow, to overcome challenges
+        - Integration phase is where people will absorb and being the new empty 
+        - This journey is somehow align with the hero journey, so I will build things around this approach
+            - I would create this as a repeating process rather than one-time process for transformation
+    - Next week action
+        - Working on the part about love and relationship
+            - Letting go the need to seek relationship
+            - Learning to let it happen rather than make it happen
+            - Facing the fear that I have around these parts
+        - Learning to expanding to the infinite and centering the seat of the consciousness
+        - Creating the conscious strength, style that will help me orient in this world
+        - Learning to handle the energy that flows inside.
