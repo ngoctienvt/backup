@@ -17,4 +17,32 @@
         - Quality is the current growth level of the consciousness to interact with the waves
         - Attitude is the way that the consciousness choose to interact with the waves
         - Strengths is the inner quality of the consciousness that will support the consciousness in the growth journey by its uniqueness way.
-        -  
+- It's better to have a framework so that it's easier to build the detail into it [[Group Coaching framework]]
+    - For a discovery and group coaching session
+        - It would be useful to explore it in such a way that look back what they have unconsciously manifest, clarify the essence inside of it, determine how it could transform consciously, and put it into action or generate a moving forward motion, while removing the blockages at the same time
+        - The framework somehow will look like this
+            - Reflect and bring out the essence - drain away the mud and bring out fresh water
+            -  Identify how it will need to transform to serve ourselves or the world in a better way
+                - Clarify what needed to bring it into application
+            - Identify the blockages 
+            - Identify the necessary next actions
+- Relationship for me is more about path that we walk together with each other, rather than something that we satisfy each other people needs [[true relationship]]
+    - We come into relationship because we want to share the journey on earth. We support each other go through life challenges. We share the joy that flow inside each of us and enjoy this life to the essence.
+    - We know that each people will have the responsibility to own the personal spiritual evolution within. We don't put that responsibility on the shoulder and make them into dilemma situation.
+        - Each person is center on their own path, it's just that we realize that it would be more fun to walk along side with each other because we naturally share the path. Not because we lacking inside and use life as a compensation for that lackness.
+    - We nurture the compassion, love, empathy, understand, inclusiveness inside so that it could be utilize to support the person we walk the path with or who need the support in a selfless manner.
+    - We also learn to have a proper skillset to support other people through their challenges, their transformation, so that we don't just have a good intention, but we are skillful to do what truly work to raise the moment.
+    - Sometimes there will be people that seems like we don't even understand why we have relationship with them.
+        - But this is the opportunity for us to grow rather than resist it. Because universe always know better than us. 
+        - It's better to carefully reflect and learn from the relationship, so that it could transform and evolve us in some way.
+            - Sometimes the learning process will take time, and the change will happen slowly, it's important to patient and trust the universe as long as we work on ourselves properly.
+    - I notice that the masculine energy inside of me is quite strong and make me not easy to have a person who can work alongside with. I wonder will the universe send someone that could work as a dual with me to serve the world together.
+- [[Book reflection framework]]
+    - It's important for me to build a framework and a format of guided questions that will help me to harvest, consolidate, and apply what I read after reading a book
+    - The process will be 
+        - identify what's important in each chapter
+        - linking to what I need or what will impact into my life now
+        - consolidate top lessons for now
+        - explore the next step
+    - I wonder can the process will be built in a way that each could be repeat the circle, so that each time I could extract enough the materials, and gain insights mainly for that moments, and the next time will deeper the lessons.
+    - 
