@@ -1,0 +1,20 @@
+- It's important for me to start to combine 2 main strengths "Essential-focus" and "Integrating and Creating" in order to create the personalized framework to navigate in the world [[Utilize Strengths]]
+    - They are still not able to fully utilize as I just realize that I have them but don't know how to fully use them yet.
+    - For the "Essential-focus", it's important for me to consciously and visibly identify what should be the main focus, what's the root, the trunk and the leave of a system
+        - This will be driven by the vision, the goal, or what I want to bring forward into the reality
+    - After this, "Integrating and Creating" will come into play to perfect the framework or upgrade when needed. 
+    - I will need one more strength to bring these things into reality and not just stay there inside me
+        - That strength would be about "Caring for totality", this strength will bring me the courage and the neccessary focus to serve the reality based on what I created.
+- [[Journey of transformation]] In this journey, it's important to learn to maintain the focus on the center
+    - What the center is the big question that need to clarify slowly
+        - One - it is the consciousness - where everything will be absorb and digest to grow
+        - Second - it's probably the current quality of the human being. For ex, it's the level of acceptance that I'm having now. 
+    - Where's the strengths and the attitude come into play?
+        - The attitude acts as a direction that make sure the transformation journey is focus and not distracted into the self-defeating, self-depleting focus.
+        - The Strength will maybe also a part of the quality and also act as a tool to support the transformation process.
+    - For example, if waves are life and learning to drive the waves are our life lessons.
+        - Then consciousness is the one who're into the waves.
+        - Quality is the current growth level of the consciousness to interact with the waves
+        - Attitude is the way that the consciousness choose to interact with the waves
+        - Strengths is the inner quality of the consciousness that will support the consciousness in the growth journey by its uniqueness way.
+        -  
