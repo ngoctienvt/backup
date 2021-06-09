@@ -6,3 +6,6 @@
 ## [June 8th, 2021](<June 8th, 2021.md>)
 - [Journey of transformation](<Journey of transformation.md>)
 
+## [June 9th, 2021](<June 9th, 2021.md>)
+- [Journey of transformation](<Journey of transformation.md>)
+

@@ -1,0 +1,30 @@
+- [[Journey of transformation]]
+    - Life and the energy inside of us is like a wave 
+        - When it wants to go up and go out, it wants to use us as an instrument to create.
+        - When it wants to go down and go in, it wants to learn, to experience, to know deeply what it creates and experiences.
+    - These are 2 main movements that a human being will notice and go through their life.
+    - The activities that I want to create will have people to
+        - Recognize when it wants to go up, so that we could learn to serve the process of creating.
+        - Recognize when it wants to go down, so that we could learn to serve the process of internalization.
+        - Recognize how we are fixing life process by the "mind" so that it ruins the movements and not be in harmony with the movements.
+        - Realize our role is not trying to draw the destinations of our life, but rather make sure the movements are happen properly, accordingly, and effectively without being personal fear, need, ego, social pressure influence it.
+    - As I see my life in recently
+        - From the moment of being a life coach, that time is the outward movement when I learn to coach other people, to sharpen the skill, to serve other.
+        - Then there will be an inward movement that I withdraw and less coaching, but rather internalization, working on myself instead.
+        - My time have been mainly within and sometimes it will went out to do few things, like a coaching course, spiritual course,... or now is group coaching... and I can feel clearly that the wave start to move out
+        - I notice that it's important for us to maintain a healthy balance between in and out, not by ratio, but by how much it's suitable and needed as that period of time.
+            - Once the inward movement is complete, the outward movement will come naturally, and ngược lại.
+            - But the problem is we're so lost in the mind, in the fear, in the social pressure that we don't live accordingly to this movement, but we force ourselves to be out when it's not ready yet. We also don't know how to go in properly, but rather just entertain instead.
+                - So the entire process have been become difficult.
+    - In order for delivering this, it's important for participants notice how these patterns appear in their life, and how they are behaving when the movements happen.
+        - Then for deeper realization, they will need to realize how it's happening for about 3 years recently, and for 3 months recently.
+    - After that, it's important to realize how to serve the process, and what need to remove to serve the process.
+    - Now merging it's with the exercise about attitude and passion.
+        - This group coaching session will help participants to
+            - Realize their current attitudes to life and the energy within them.
+            - Realize how they are not living life, but rather avoiding and hiding from it.
+            - Realize the 2 main movements and how they are with them
+                - Outward movement - the immersive of creating
+                - Inward movement - the immersive of receiving
+            - Recognize the essence and the strengths that will help them to acts on the 2 movements 
+            - Recognize what's hidrance the 2 movements process and what they need to do with them
