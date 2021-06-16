@@ -11,6 +11,8 @@
 ## [June 16th, 2021](<June 16th, 2021.md>)
 - [Group Coaching framework](<Group Coaching framework.md>)
 
+- [Group Coaching framework](<Group Coaching framework.md>)
+
 ## [June 8th, 2021](<June 8th, 2021.md>)
 - It's better to have a framework so that it's easier to build the detail into it [Group Coaching framework](<Group Coaching framework.md>)
 
