@@ -17,6 +17,9 @@
 ## [January 30th, 2021](<January 30th, 2021.md>)
 - Unconditional happiness comes from me - where I'm able to comeback and center on myself and learn to absorb all of life experiences, challenges [inclusion](<inclusion.md>)
 
+## [June 20th, 2021](<June 20th, 2021.md>)
+- Also it's important for a person to embrace concept which has inclusive element in it, because this is where everything can go beyond. [inclusion](<inclusion.md>)
+
 ## [March 3rd, 2021](<March 3rd, 2021.md>)
 - [inclusion](<inclusion.md>)
 
