@@ -21,6 +21,9 @@
 ## [June 13th, 2021](<June 13th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
+## [June 20th, 2021](<June 20th, 2021.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
+
 ## [June 6th, 2021](<June 6th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
