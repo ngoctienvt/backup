@@ -19,6 +19,9 @@
 ## [June 21st, 2021](<June 21st, 2021.md>)
 - There are 3 steps about building a vision for future from now [Group Coaching framework](<Group Coaching framework.md>)
 
+## [June 25th, 2021](<June 25th, 2021.md>)
+- [Group Coaching framework](<Group Coaching framework.md>)
+
 ## [June 8th, 2021](<June 8th, 2021.md>)
 - It's better to have a framework so that it's easier to build the detail into it [Group Coaching framework](<Group Coaching framework.md>)
 
