@@ -1,4 +1,4 @@
-- [[Group Coaching framework]]
+- [Group Coaching framework](<Group Coaching framework.md>)
     - In visioning session, some main activities will be hold to reach these purposes
         - Participants have a clearer overall view about their life
             - The movie of their life - the name of that movie
@@ -12,7 +12,7 @@
             - One main thing that I'm still concern is "is that enough?". Because it doesn't mention how they will develop their strengths and state of being. But these internal thing is hard to address and focus. They will grow along the journey that they are walking instead.
                 - One approach could be about addressing "What fears and desires you want to resolve in short-term?". This is okay, and I could test in today.
         - Participants can connect with their tree life to see how it will develop overtime.
-- [[Group Coaching framework]]
+- [Group Coaching framework](<Group Coaching framework.md>)
     - After visioning session, it's important to address the process they will come to achieve them, so that it's not just the goal, but they could see how they will connect to the journey to reach the goal. 
     - It's a little hard to do this, because just like coaching, we don't know how it will need to process for each people. But there are some principles that share for everyone
         - The journey will require us to grow and expand into uncomfortable zone
