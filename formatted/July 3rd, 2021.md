@@ -1,0 +1,19 @@
+- [Group Coaching framework](<Group Coaching framework.md>)
+    - For the next part of the group coaching program, I'm not totally clear yet how I want to navigate that
+        - From how anh Tuấn do, it's about identify blockages, focus on one main and discuss to find a way out
+            - Then discuss about discipline, clarify actions that will need to focus next, make an ecology check and reflect from the program
+        - Somehow I found it's also quite okay, but not as impactful as how I expect. In an ideal way, for me it will need to establish at least a way to move forward even meet the blockages and still know how to navigate through it.
+            - The focus will also not about the actions and STOP - START - CONTINUE, because it feels disconnect with the source of being. I will want to do it in a way that deeply connect with the source of their being, and from that, they will arrive the next step as a natural process.
+            - It's also good to work around the discipline, but in a way that deeper so that people can learn to focus on their journey without being distracted and feeling stuck, but always know how to have a proper to help them on the right track.
+            - It's also need to empower, make the clients feel strong, clear, so ready to move forward the challenges that they are meeting.
+            - They will also need to learn how to harmony with life so that life will become a best teacher for them, rather than against them.
+        - So overall, the ideal outcome for the rest of the program will be
+            - Participants can build up their strength, courage, feel strong, empower, ready, to move forward. And also have a clear picture about their life and those influences around them.
+            - They learn how to make life become their friends, their teachers rather than their enemy
+            - They clear about what they will focus and do next for the next stage of life
+            - They know how to deal with distractions, stuck, and know how to keep their life in the right direction
+        - Some key quality that coaching can bring into these are
+            - Natural - deep connection - from inside to outside
+            - Focus on the light and expand it
+            - Learn to include and see things from a different perspective
+            - Nurture the ability to navigate through life

@@ -5,6 +5,9 @@
 
 - [Group Coaching framework](<Group Coaching framework.md>)
 
+## [July 3rd, 2021](<July 3rd, 2021.md>)
+- [Group Coaching framework](<Group Coaching framework.md>)
+
 ## [June 14th, 2021](<June 14th, 2021.md>)
 - So what would be the ideal structure for the next group coaching session [Group Coaching framework](<Group Coaching framework.md>)
 
