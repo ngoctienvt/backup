@@ -21,3 +21,4 @@
     - modem wifi 4/2023
         - t008_gftth_trucntt291
         - DSNW254d0688
+    - H20 - 12041463030
