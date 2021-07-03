@@ -10,6 +10,8 @@
         - So the last 2 or sessions can be break down into
             - A session about facing challenges and moving forward
                 - Participants can build up their strength, courage, feel strong, empower, ready, to move forward.
+                    - I wonder is it possible to create a jolt game that will send the message that "you are more than enough" to face the challenges. 
+                        - The game should be create a situation where the person think they won't be able to do this, but somehow as they progress, they find out that their belief is wrong. 
                 - They know how to deal with distractions, stuck, and know how to keep their life in the right direction
             - A session about learning to move with life and change the relationship with life
                 - They learn how to make life become their friends, their teachers rather than their enemy
