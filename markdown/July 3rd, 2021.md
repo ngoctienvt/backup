@@ -7,13 +7,18 @@
             - It's also good to work around the discipline, but in a way that deeper so that people can learn to focus on their journey without being distracted and feeling stuck, but always know how to have a proper to help them on the right track.
             - It's also need to empower, make the clients feel strong, clear, so ready to move forward the challenges that they are meeting.
             - They will also need to learn how to harmony with life so that life will become a best teacher for them, rather than against them.
-        - So overall, the ideal outcome for the rest of the program will be
-            - Participants can build up their strength, courage, feel strong, empower, ready, to move forward. And also have a clear picture about their life and those influences around them.
-            - They learn how to make life become their friends, their teachers rather than their enemy
-            - They clear about what they will focus and do next for the next stage of life
-            - They know how to deal with distractions, stuck, and know how to keep their life in the right direction
+        - So the last 2 or sessions can be break down into
+            - A session about facing challenges and moving forward
+                - Participants can build up their strength, courage, feel strong, empower, ready, to move forward.
+                - They know how to deal with distractions, stuck, and know how to keep their life in the right direction
+            - A session about learning to move with life and change the relationship with life
+                - They learn how to make life become their friends, their teachers rather than their enemy
+            - A final session about reflection for the whole journey and planning for future
+                - They clear about what they will focus and do next for the next stage of life
+                -  And also have a clear picture about their life and those influences around them.
         - Some key quality that coaching can bring into these are
             - Natural - deep connection - from inside to outside
             - Focus on the light and expand it
             - Learn to include and see things from a different perspective
             - Nurture the ability to navigate through life
+            - Embrace what we are resist fully so that it can be transform
