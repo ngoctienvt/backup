@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I start to learn to truly design a workshop session in my own way. It's not easy, but I will learn to become masterful overtime in a way that focus on the process and the improvement, rather than the outcomes.
         - It's fun to talk with Thảo, I don't know what this relationship means to be, but it's a challenge for me to clean myself so that the relationship becomes pure and not affected by personal needs.
