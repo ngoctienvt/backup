@@ -17,3 +17,7 @@
                 - There will be seduction to take the shortcut that will help us skip through the growth process
     - I wonder what if I don’t have the intention to teach anything, but only helping others to realize and learn by themselves. They will develop their own way, their own skills, and walk their own path. Of course there will be some knowledge needed about the reality, but for the inner skills, I foundout that it would helpful to help them move forward their own journey, develop their own way of thinking and working.
         - As for me, Bloom is a little bit unsuitable for group coaching. In group coaching, it’s better to focus on the person and facilitate their transformation to equip what needed. Recognize - reflect - emerge - shift - loop. Somehow the process will like this.
+- I feel that I'm easy to feel pressure when I'm doing anything, because I have a strong attachment that the result need to be as good as possible. I want to let this need go, and embrace the new way of being that letting myself to be do the best, but not attach to the outcome and let the result be the teacher for me instead. 
+    - There will be no best way, but only lessons that will help me to grow and do better over time.
+    - I will learn to enjoy the process, no matter the outcome, and be fully unattach, and receiving instead.
+    - 
