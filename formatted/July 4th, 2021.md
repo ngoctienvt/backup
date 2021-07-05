@@ -16,4 +16,8 @@
             - A co-learning coaching group to build up expertises
             - A non-attachment relationship
             - A Job Aid to support create things that need to be break down into different steps
-        - 
+    - Next week actions
+        - Focus back on coaching
+        - Designing the next group coaching session
+        - Be empty - integrate - peace - still
+        - Learning to consolidate coaching approach and bringing into different aspects
