@@ -15,4 +15,5 @@
                 - Challenges are there to expose the gap of competency, so that we will know what we need to improve next
                 - What important is not what you achieve but rather how you have transform along the way
                 - There will be seduction to take the shortcut that will help us skip through the growth process
-                - 
+    - I wonder what if I don’t have the intention to teach anything, but only helping others to realize and learn by themselves. They will develop their own way, their own skills, and walk their own path. Of course there will be some knowledge needed about the reality, but for the inner skills, I foundout that it would helpful to help them move forward their own journey, develop their own way of thinking and working.
+        - As for me, Bloom is a little bit unsuitable for group coaching. In group coaching, it’s better to focus on the person and facilitate their transformation to equip what needed. Recognize - reflect - emerge - shift - loop. Somehow the process will like this.
