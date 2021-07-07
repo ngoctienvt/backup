@@ -23,3 +23,7 @@
 - Collective mindmapping
 - Dragon Dreaming
 
+- I feel that my mind become so hyperactive when there is so many things that provoke the creativity. And I’m not able to embrace and facilitate them yet. It’s important for me to learn to embrace and calm down the mind, so that’s even though I’m excited for what could be. I can always peace at present and not feeling any attachments or pressure.
+- I also notice that I start to think and care more about Thao. It’s need to be address for pure and not personal relationship. if possible, I want to be a good partner with her, and if we can go further, it’s ok. But if not, it’s also fine totally.
+- I realize that coaching and spirituality has been a big part of me, and that leads to the fact that I’m living in a way that trust the process, and care more about the inner rather than the outer. I don’t have a big need to teach other, but rather I want to help other become a better version of themselves and acquire skills if needed in a most natural and integrated way.
+    - That’s why I care more about how process happen rather than forcing the surface outcomes. 
