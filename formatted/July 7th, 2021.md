@@ -1,0 +1,10 @@
+- [Structure Coaching activities](<Structure Coaching activities.md>)
+    - The idea of creating Structure Coaching activities for participants to support each other seems interesting. It's not easy to instruct and execute though, but I think there will be a way to do this properly, especially in the long run class, because people will have opportunities to improve.
+    - Some initial ideas is a person will share their stories, and each person will be instruct to do a different competencies in coaching.
+        - Like a person will do a direct communication to make a comment, share an observation, share a point of view, and following up with a simple question.
+        - Or a person will do powerful questions to ask questions that provoke the person thinking or challenge their beliefs.
+    - There will be some rules or principles to help people facilitate the process properly like
+        - Keep silence after the question and let the coachee announce
+        - Make sure that you own your observations, and make sure that the questions are helpful for the coachee rather than satisfy your own curiosity.
+    - Or there will be a reflection activities to sum up what has been discuss and next step for further exploration
+    - 
