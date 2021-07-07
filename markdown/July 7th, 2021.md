@@ -7,4 +7,19 @@
         - Keep silence after the question and let the coachee announce
         - Make sure that you own your observations, and make sure that the questions are helpful for the coachee rather than satisfy your own curiosity.
     - Or there will be a reflection activities to sum up what has been discuss and next step for further exploration
-    - 
+- [[Insightful activity]]
+    - 1. Bài học nào? 2. Cảm xúc hoặc mâu thuẫn (twist nào?) 3. Bối cảnh nào tạo ra cảm xúc hoặc mâu thuẫn đó? 4. Kiếm hoạt động?
+
+- [[art of hosting]]
+    - 10 kỹ thuật hosting:
+- Open Space 
+- Pro Action Cafe
+- World Cafe 
+- Collective story harvesting 
+- Powerful Question 
+- Debate 
+- Fishbowl Conference 
+- Appreciate Inquiry 
+- Collective mindmapping
+- Dragon Dreaming
+
