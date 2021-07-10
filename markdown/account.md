@@ -16,6 +16,8 @@
     - netflix
         - luutanquoc@outlook.com
         - xemphimhay
+    - Zoom
+        - ngoctien456@moet.edu.vn
 - utilities
     - electric number PE04000012397
     - modem wifi 4/2023
