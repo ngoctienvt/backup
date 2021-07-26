@@ -24,6 +24,9 @@
 ## [July 19th, 2021](<July 19th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
+## [July 26th, 2021](<July 26th, 2021.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
+
 ## [July 4th, 2021](<July 4th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
