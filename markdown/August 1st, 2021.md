@@ -1,0 +1,15 @@
+- [[📝Weekly Review]]
+    - Highlights:
+        - I felt more and more empty and silence inside. I felt more freedom and more energy, though physical pain is still strong.
+        - I felt my presence and listening in coaching become much better. I still need to improve how I facilitate the coaching process though.
+        - Designing a group coaching program is still challenging for me, but it will be where I can grow into as it will be helpful to support more people at the same time. It's about collective growth rather than individual growth.
+    - Reflection
+        - I realize that I still have a need for relationship and for make things happen. I'm learning to totally unattachment and truly free from these. And I will let things happen instead. I will focus on what happens right now, and let what it means to be to be. I will learn to change from seeker or doer to become truly be-er.
+        - I realize that I still have a tendency to talk too much or not able to simplify things and draw the focus into myself. I will learn to become saying only when truly necessary and saying what truly necessary. 
+        - My mind is still quite active to solve problem, I will learn to quiet it more and more, so that it will become silence and only put in use when I want.
+        - Some fears about Covid is still strong that will need to let go as it pulls me away from the current moment.
+    - Next week actions
+        - Expanding and integrating abilities to facilitate collective growth
+        - Quieting and cleaning the inner landscape more and more
+        - Learning to being and simplify myself.
+        - Letting go the fear and the uncomfortable with inconvenience.
