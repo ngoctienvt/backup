@@ -3,6 +3,9 @@
 ## [Areas for an surrender life](<Areas for an surrender life.md>)
 - [serving the demand of reality](<serving the demand of reality.md>)
 
+## [August 3rd, 2021](<August 3rd, 2021.md>)
+- I am still have plenty of thoughts that talk to me about what I should do, I don't want to be influence by these thoughts as they are not totally come from me and come from the demand of reality. It's what I think, not what unfolding and calling me into. [serving the demand of reality](<serving the demand of reality.md>)
+
 ## [December 12th, 2020](<December 12th, 2020.md>)
 - My intention to [serving the demand of reality](<serving the demand of reality.md>)
 
