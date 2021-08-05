@@ -27,6 +27,9 @@
 ## [Areas for an surrender life](<Areas for an surrender life.md>)
 - [soul evolution](<soul evolution.md>)
 
+## [August 5th, 2021](<August 5th, 2021.md>)
+- I gradually have been deepen insights about my own inner experiences as well as about how evolution taking place. [soul evolution](<soul evolution.md>)
+
 ## [November 17th, 2020](<November 17th, 2020.md>)
 - I noticed that I want to let myself satisfy and fulfil by higher purpose like love, [soul evolution](<soul evolution.md>)
 
