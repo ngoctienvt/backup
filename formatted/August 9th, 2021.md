@@ -4,7 +4,7 @@
     - And not do anything unnecessary based on the fear and imaginations, but rather nurture courage, responsibilities, and faith instead.
     - I also need to learn to detach completely with the mind, its imaginations, projections, so that I could absolutely interact with reality in a way that's not relative, but rather how can I said? Flow with it instead, and not even have a bit of intention to control, hold, grab it.
         - Let it comes and let it goes, that's it. Flow with it. Make sure that catch the flow.
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I start to do a free coaching project that have no idea how it will turn out. But at least, I will do my best to let go of the inner stuffs, so that I can become more freedom, feel more comfortable with new people, less judgements, more curiousity, less fear, more faith. So that I can support them as best as I can.
         - I start to learn to act accordingly with the inner flow of energy in a way that it maintains the flow of energy that freely flow without any supressions, resistances, or wrong directions.
