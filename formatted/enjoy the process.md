@@ -1,5 +1,8 @@
 
 # Backlinks
+## [August 14th, 2021](<August 14th, 2021.md>)
+- When trying VLTK, I notice that I'm easily get into the game and be exhaust energy fast that I'm just realizing I have been drowning in it later. [enjoy the process](<enjoy the process.md>)
+
 ## [Course - Productivity Masterclass - Ali Abdaal](<Course - Productivity Masterclass - Ali Abdaal.md>)
 - Making the process or the journey on earth more fun on each moment, not someday/maybe. [enjoy the process](<enjoy the process.md>)
 
