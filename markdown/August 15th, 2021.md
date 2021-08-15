@@ -2,4 +2,15 @@
     - Highlights:
         - I realize the pattern of seeking matching-pleasure that create the internal ill-being inside of me and the feeling of restfulness much more clearly. This will be a big thing for me to learn to purify it. Mainly through possessions and expectations from video games, board games, relationship,...
         - Coaching with 2 new people is truly enjoyable moments. It's also much more fun when I can see that they have gain something meaningful for themselves. And it's deepen my insights that people always have a good side and that's side need to nurture.
-        - I realize that I still have certain fears of change and unknown. I will purify this slowly. 
+        - I realize that I still have certain fears of change and unknown. I will purify this slowly so that I won't have anything that I need and take from the experiences/ people/ things, naturally I will learn to give them what they truly need.
+        - As this week unfold, I see that my life is continuously moving up slowly, not fast but slowly, and this is a good thing for me to have time to work within more, so that I can be ready for new things coming up.
+        - One of the new thing come to me this week is the deeper awareness about myself and life. 
+            - The internal experiences usually more powerful and impactful than external experiences.
+                - If you feel cold inside, you will feel cold outside.
+        - I also notice that I start to learn to let things happen and see how life present them to me. Like I don't seek interactions, but let people interact with me.
+    - Next week actions
+        - Learning to let go matching-pleasure tendencies and taker tendencies
+        -  Continue to learn from the way that a Master Coach coach
+        - Reading LMS and slowly let change happen
+        - Enjoying new interactions with new people in coaching session
+        - Learning to enjoy games truly as it is
