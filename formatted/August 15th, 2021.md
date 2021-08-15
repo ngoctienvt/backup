@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I realize the pattern of seeking matching-pleasure that create the internal ill-being inside of me and the feeling of restfulness much more clearly. This will be a big thing for me to learn to purify it. Mainly through possessions and expectations from video games, board games, relationship,...
         - Coaching with 2 new people is truly enjoyable moments. It's also much more fun when I can see that they have gain something meaningful for themselves. And it's deepen my insights that people always have a good side and that's side need to nurture.
