@@ -1,5 +1,8 @@
 
 # Backlinks
+## [August 16th, 2021](<August 16th, 2021.md>)
+- [Coaching partnering](<Coaching partnering.md>)
+
 ## [December 2nd, 2020](<December 2nd, 2020.md>)
 - Partnering with clients according their pace is an important concept in coaching. [Coaching partnering](<Coaching partnering.md>)
 

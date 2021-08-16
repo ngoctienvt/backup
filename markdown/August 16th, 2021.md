@@ -1,0 +1,7 @@
+- [[Coaching partnering]]
+    - Start where people are is probably one of the most important thing about partnering in coaching
+        - It's about being comfortable to where they are and help them to progress from that while supporting them to acquire their own abilities to move forward.
+        - Sometimes we're easy to feel impatient and try to get in to help them solve the situations instead of them supporting them to develop in their own journey.
+            - This will often lead to miss important information and develop the clients uniqueness to contribute to the world and to their own journey.
+            - It also creates unnecessary pressure and leads to lossing of trust from clients. And these things will hinder the effectiveness of coaching as well as how coaching meant to be.\
+- 
