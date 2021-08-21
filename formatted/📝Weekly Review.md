@@ -12,6 +12,9 @@
 ## [August 1st, 2021](<August 1st, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
+## [August 22nd, 2021](<August 22nd, 2021.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
+
 ## [August 9th, 2021](<August 9th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 

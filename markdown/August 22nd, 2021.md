@@ -1,0 +1,7 @@
+- [[📝Weekly Review]]
+    - Highlights:
+        - I noticed that I become more relaxing and letting go the fear and the need within me. They become more and more less solidify and easier to melt with, especially about sex and the need for relationship.
+        - I start to learn to embrace the connection between the activities that I want to do in a more middle way. It's about enjoy the process, rather than matching pleasures.
+            - So that I can feel a certain sense of merger and become one with the process itself.
+            - 
+    - 
