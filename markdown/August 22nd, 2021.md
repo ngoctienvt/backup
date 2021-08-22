@@ -3,5 +3,14 @@
         - I noticed that I become more relaxing and letting go the fear and the need within me. They become more and more less solidify and easier to melt with, especially about sex and the need for relationship.
         - I start to learn to embrace the connection between the activities that I want to do in a more middle way. It's about enjoy the process, rather than matching pleasures.
             - So that I can feel a certain sense of merger and become one with the process itself.
-            - 
+        - I also start to learn to become more aware, clarity, and peace with life.
+            - And also learn to resolve past karma results in a way that's helpful for the future
+        - I also start to learn from consuming to involving. Like instead of simply reading novels, I am learning to play games instead.
+        - I learn that fear is no need to be my focus on these times. It's about learning to do the best at the moment and just enjoy the process, and let any results or things come and go as it is.
+            - There is no need to be worry about future, or feel bad about the past.
+    - Next week actions
+        - Continue to shift from consuming to involving
+        - Inputing about coaching
+        - Continue letting go so become more freedom and less limitations
+        - Become more peace and conscious with now
     - 
