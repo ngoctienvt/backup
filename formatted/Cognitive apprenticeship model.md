@@ -32,6 +32,9 @@ Ví dụ, một cấu trúc phổ biến của workshop về kỹ năng có th�
 - Người tham gia có thể thực hành kỹ năng thêm một vài lần nữa với vấn đề thực tế của bản thân, lúc này người thực hiện workshop vẫn tiếp tục huấn luyện, dẫn dắt, nhưng sẽ giảm dần về mức độ tác động (Exploration)
 
 # Backlinks
+## [August 25th, 2021](<August 25th, 2021.md>)
+- [Cognitive apprenticeship model](<Cognitive apprenticeship model.md>)
+
 ## [Strategies to provide knowledge](<Strategies to provide knowledge.md>)
 - [Cognitive apprenticeship model](<Cognitive apprenticeship model.md>)
 

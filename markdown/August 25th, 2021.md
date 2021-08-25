@@ -1,0 +1,9 @@
+- [[Cognitive apprenticeship model]]
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2Fv-fD8TTHVB.png?alt=media&token=a9802d37-97ba-4234-b632-83b18028ed2a)
+        - Modeling - làm mẫu và giải thích trong quá trình làm mẫu
+        - Coaching - hỗ trợ, đưa ra góp ý, góc nhìn khi người học làm thử
+        - Scaffolding - đưa ra khung độ khó để người học làm từ từ và để người học nhận thêm trách nhiệm dần cho đến khi không cần hỗ trợ nữa
+        - Articulation - để người học vừa làm vừa giải thích điều họ đang làm - hoặc cùng làm chung với người khác để học thêm sự khác biệt
+        - Reflection - nhìn lại và rút ra bài học
+        - Exploration - khám phá và đi xa hơn những gì đã học được
+    - 
