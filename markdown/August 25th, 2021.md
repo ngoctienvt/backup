@@ -2,7 +2,14 @@
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2FNgoctien%2Fv-fD8TTHVB.png?alt=media&token=a9802d37-97ba-4234-b632-83b18028ed2a)
         - Modeling - làm mẫu và giải thích trong quá trình làm mẫu
         - Coaching - hỗ trợ, đưa ra góp ý, góc nhìn khi người học làm thử
+            - Phân tầng để có người biết làm kèm người tập làm
+            - Đặt câu hỏi để đảm bảo người ta nắm được phần modeling trước
+            - Cùng xem lại kết quả đã làm được để có feedback và học hỏi phù hợp
         - Scaffolding - đưa ra khung độ khó để người học làm từ từ và để người học nhận thêm trách nhiệm dần cho đến khi không cần hỗ trợ nữa
+            - Chia theo chiều rộng
+            - Chia theo chiều sâu
+            - Chia làm nhiều level và cách đánh giá kết quả khác nhau - và tăng độ khó của kết quả dần dần theo quá trình học hỏi của người học
+                - Zone of Proximal Development
         - Articulation - để người học vừa làm vừa giải thích điều họ đang làm - hoặc cùng làm chung với người khác để học thêm sự khác biệt
         - Reflection - nhìn lại và rút ra bài học
         - Exploration - khám phá và đi xa hơn những gì đã học được
