@@ -1,0 +1,9 @@
+- [[📝Weekly Review]]
+    - I notice that I still have many pre-thoughts for what I will do. There are still some emotions related to this. I notice that I still have some needs attach to the outcomes of what I do. I am not able to fully let this go and just comes into connect with now fully yet.
+    - I notice that I am become better at pausing the reactions and continuing to letting things go. I notice that I don't have the love for the disturbances yet.  I work on it, but somehow I'm not able to see it as a good friend, have a good altitude to it yet.
+        - I will learn to appreciate, to worship, to honor, to feel gratitude about these disturbances as they are the sources of my growth. They are the one who bring me to the true peace I yearn for. They are my teacher for spiritual growth.
+    - I notice that I still have a fear if I'm deeply involving in something. I fear that if I'm too conscious about one thing, I will miss the rest, or will lost the connect with life. 
+        - I will need to clarify about this as this will prevent enter a deep stage of focus.
+        - Somehow it's better to have both, it's about maintaining the connect with life, while able to deeply involve in things at the same time.
+    - I am learning to see what's meant to be, how life mean to be. To see what's the life path to make sure that I harmony with it and give myself up into it without any personal needs and desires. Only the deep involvement and lose myself into harmony with it, and totally trust its flow without any fears, any calculations, any thinking needed about short-term outcomes.
+        - It's about fully have a faith about the flow of life.
