@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I start to play games more and able to focus more, presence more in the process.
         - I'm able to let go so many thoughts when my mind was triggered because of the workshop. It's still a continuing process.
