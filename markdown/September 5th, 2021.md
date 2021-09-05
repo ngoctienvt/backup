@@ -1,0 +1,16 @@
+- [[📝Weekly Review]]
+    - Highlights:
+        - It has been a week long of disturbances and distractions.
+            - I still have not achieve a perpetual peace state of being. I still be disturbed by my staff, and I'm learning to let go the disturbances.
+            - I still be distracted by game, books, and feel a loss of energy. I'm still learning to remain conscious and maintain the inner flow of energy into an inner endless loop even when I'm interacting with life.
+            - I still feel some pressures when hearing the order of other people like my parents. I'm learning to not be influence and see it as it is, so that I will have a proper respond to it.
+        - I notice that my physical health is not in a good shape, and I will need to take care of it more. 
+        - Anyway I feel that I still grow continuously in this week when things got triggered and I'm able to aware the disturbances.
+        - I also notice that I start to pay more attention to coaching and mentoring
+    - Next week action
+        - Working more on the inner loop of energy
+        - Taking care my body more
+        - Letting go more of self-judgement
+        - Learning to maintain peace 
+        - Doing some work to clean the environment
+    - 
