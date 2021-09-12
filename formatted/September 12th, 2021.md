@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - It has been an interesting week that I manage to improve my capacity to play games without feeling burning out.
         - I also notice that my mind has a tendency to become active when I'm thinking or caring about certain things. I'm learning to quiet it down and adjust my presence into the now moment.
