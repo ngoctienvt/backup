@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Reflection
         - I notice that I become more and more expansive inside. I start to become more and more center, and faster to realize I'm being distracted. The center is moving closer to the self.
         - I start to see that the merging between coaching and spirituality is coming up, and reveal the path of my way of working.
