@@ -1,0 +1,18 @@
+- [📝My Coaching Review](<📝My Coaching Review.md>)
+    - Today I notice that the way I coach is still somehow have personal direction, personal thinking, and the focus somehow still about solving problem, rather than focus on the person as a whole.
+        - Coaching shouldn't be like that. 
+        - Coaching is more about supporting client's in their own evolution journey, not teaching them or leading them, but rather a progressive journey that will happen naturally according to their own unique journey instead.
+            - Because even if I know what's meant to be, it doesn't mean that it will need to happen or work on right now. What need to work on right now will base on their current situation, their current way of being, way of thinking, and way of feeling.
+                - It didn't important about the result, but rather it's about working on these aspects deeply so the TRANSFORMATION PROCESS happen naturally to emerge new things into their way of being.
+        - I also notice that the reaction of denying or refusing still happening. It's important for me to change this reaction into inclusive respond instead. 
+    - It's also have a feeling of not moving forward but repeating and going around instead. 
+    - I want to work more on these aspects so that the way I coach become more focus, effective, and open the door of possibilities, empower the clients and facilitate their own evolution.
+        - My presence and listening today is not that good, it's still quite blur and not sure about what need to focus on.
+        - It's also not clear about each stage of the coaching session to navigate the coaching journey effectively.
+        - The focus keyword is starting to appear in this stage of my life. I start to become much more clean and clear, and the capacity to focus is starting to sharpen and establish.
+            - Focus about what is also a big thing that will need to deal with in this period of time.
+    - Lessons
+        - I notice that one of the way to know that working at the root or just solving problems is the root in the client's way of being itself and the situation could be different, but the inner problem is the same.
+            - While solving problem is about helping them to achieve what they think they want, but it's not solving the root cause. The root cause will still reappear in other situation, or after they get what they want.
+            - This thing could be call as "the inner problem" versus "the fast-food solution" 
+                - transformational coaching versus transactional coaching
