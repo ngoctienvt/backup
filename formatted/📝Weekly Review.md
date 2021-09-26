@@ -111,6 +111,9 @@
 ## [September 26th, 2020](<September 26th, 2020.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
+## [September 26th, 2021](<September 26th, 2021.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
+
 ## [September 5th, 2021](<September 5th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 

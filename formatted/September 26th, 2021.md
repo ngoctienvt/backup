@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - Become cleaner and clearer day by day. I feel that I can presence with reality much better.
         - There are many reactive energies that got trigger, while I read novel. It's a good practice for me to trigger and release them. 
