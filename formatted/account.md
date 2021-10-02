@@ -1,7 +1,6 @@
 - banking
     - VCB Chau Ngoc Tien 0721000531584
     - Số thẻ Viettelpay (MB Bank) 9704 2292 7223 7467 
-    - {{encrypt:U2FsdGVkX1+zSxFUsQUvDONN1dBzhz/SoT1XbuCkvJY=}} [account](<account.md>) [mastercard](<mastercard.md>)
 - website account
     - [blackhattorrent.com](http://blackhattorrent.com)  SDERTGFS446
     - [grammarly](<grammarly.md>) account
