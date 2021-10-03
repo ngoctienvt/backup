@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I start to work with the attachment to what I think that other people should be based on my spiritual growth.
         - I start to see 
