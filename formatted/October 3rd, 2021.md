@@ -1,4 +1,31 @@
 - [📝Weekly Review](<📝Weekly Review.md>)
     - Highlights:
         - I start to work with the attachment to what I think that other people should be based on my spiritual growth.
-        - I start to see 
+        - I start to grasp what coaching truly is and how my uniqueness will contribute to establish the way I coach
+        - I work more to release the disturbances, the anger, the concept of fair, the fear of being trick or being in inferiority situation.
+        - I start to read The heartfulness way to deepen and clarify my seeing about spirituality
+        - I play less this week, while working more on things that emerge inside myself. I can see that the inner energy become stronger day by day.
+        - I start to work on a translating project to deepen my insights about spirituality with other people.
+        - I notice that I have some judgements or feel annoy about other people that ask me to help but not in a structure way that make my life become more unpredictable and not have the stable I need. I will contemplate more on this part.
+    - Reflection on change in sub-personalities [sub-personality reflection](<sub-personality reflection.md>)
+        - Tiến thoải mái become more responsible and start to take more responsibility in day-to-day activities.  He still like to be entertain, but start to become more conscious and enjoy the process, rather than just being distracted or sinking into the object of consciousness.
+        - Tiến yêu thương still learn to work with the inner need of love, relationship with families, and learn to appreciate and honor the other people as who they are without the need to relate them to myself.
+        - Tiến thông thái become less care about logic, slower to react, learn to expand the way of seeing, learn to include things rather than just using logical thinking to deal with the situation. He becomes wiser by expanding the capacity to embrace instead of thinking. He becomes much more calm, less trigger, less need for recognition, less judging other. He learn to see things in a deeper level, rather than just seeing in the surface level, and blaming other people.
+        - Tiến phát triển still learn new things, read in a natural way,  learn how to train. He becomes more stable and natural, rather than just appear when I feel that I'm going downward too much. 
+        - Tiến nguyên tắc becomes much more peace, though it's still challenging for him in some situations, but I'm working on it. He becomes less judging, less react, feel more peace, and learn to release and live without hard principles.
+        - It has been a great journey that I can feel everyone is merging into each other, they grow together, and they become less and less separate in me, but become more me as a whole, as an integrated being.
+            - Tiến thông thái and Tiến phát triển seems like merge into Tiến phát triển.
+            - Tiến thoải mái seems to evolve into Tiến tận hưởng.
+            - Tiến yêu thương seems to become Tiến tự nhiên.
+            - Tiến nguyên tắc seems to become Tiến kiên nhẫn, because he's learning to be patient and less judge other people.
+        - So now I will have
+            - Tiến tận hưởng
+            - Tiến tự nhiên
+            - Tiến phát triển
+            - Tiến kiên nhẫn
+    - Next week actions
+        - Continuing working more on Tiến nguyên tắc about things that trigger him.
+        - Working with the attachments about how other should be and the judgement about some people about how they affect to my state of being
+        - Contemplating more about coaching and spirituality
+        - Contemplating about how I will live next since I become more awake
+        - 
