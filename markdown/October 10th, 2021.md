@@ -1,0 +1,15 @@
+- [[📝Weekly Review]]
+    - Reflection
+        - It has been a week that trigger all of my feelings about money, house, fixing things, dealing with physical things. It make me feel uneasy as physical things will need to fix slowly, not just a mental thing. 
+        - This is a big attachment for me to learn and relearn again and again to able to relax, release and deal with it.
+        - I also notice that coaching start to become clearer for me, and I just need to do my best where I am. I don't have to teach other people the best thing, but not of me. What's best is what I have able to fully become expert by the way I am, not by what I learn or could be.
+        - I have been more release and less judgement by learning to see how things as it is, and how things fit into the big picture. The bigger picture I can see, the insignificant what I got trigger now become.
+        - It starts to appear that the way I live next will focus more on clarity and build things up gradually until all the puzzles are ready to connect into something.
+        - My mind has been become so active when I'm got triggered to try to fix the outer problems that it perceived at.
+            - Some good way to manage it is to clarify the range of problems - the worst and the best scenario
+        - I also has been good in playing games, though I notice that I never feel satisfy, but still have the need to be better, to be the best, to reach the destination.
+    - Next week actions
+        - Working with attachments to physical things
+        - Contemplating more about coaching and spirituality
+        - Learning to expand into the big picture of life
+        -  Learning to be enough and satisfy at where I am - to feel center and not attachment to the outside
