@@ -102,6 +102,9 @@
 ## [October 10th, 2021](<October 10th, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 
+## [October 16th, 2021](<October 16th, 2021.md>)
+- [📝Weekly Review](<📝Weekly Review.md>)
+
 ## [October 3rd, 2021](<October 3rd, 2021.md>)
 - [📝Weekly Review](<📝Weekly Review.md>)
 

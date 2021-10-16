@@ -1,0 +1,16 @@
+- [📝Weekly Review](<📝Weekly Review.md>)
+    - Reflection
+        - I notice that my mind is still very active these days. It's always advise me about what I should do next, thinking too much about the future, the work. I notice that I still care about work, still live in the mind, still use mind as a glass to view the world. This will not easy to get out of this even though I aware of it. But it's a major awareness for a starting point to truly come to live in reality.
+        -  The integration about spirituality and coaching is still take time to process. I still not establish clearly the way I coach, it's still kind of blur and need to be bring into clarity. For spirituality, it's important to draw the boundary between adding personal thinking and supporting clients to grow sustainably.
+        - Some attachments to the form, to money still be release and become less and less.
+        - The need for sexuality still influence me strongly even though I work on it for a long period of time. It's okay because I still able to hold it, and to prevent it lead me to seek a relationship just to satisfy it.
+        - My inner state of being become more and more quiet, and more unattachment to the mind, even though I still take a big major of time to listen to the content of the mind.
+            - The reason I still listen to the content of the mind most of the time is because I'm not able to connect with life yet, and to release it as it still quite dominant and draw my attention easily.
+        - I notice that it's stil quite challenging for me to be able to embrace life into me. It's normal and I still learn to able to embrace more people, release more judgement, and nurture more compassion.
+        - A big thing is I don't like theory or concept or believe, even though it's working in certain aspects, but it can't fully explain things. What I like is truly experience, seeing, knowing how things truly work through contemplation, and embrace it into the core of my being. In this way, even though I can't give my experience to other people to agree with me, but for me, it's 100% real and trustworthy, and there will be no doubt to it, as well as the depth of it will be deepen into my being.
+            - It's all about seeing how the process truly take place rather than just learning from certain concepts. Real experiences is the most trustworthy teacher than the knowledge that comes from the mind. 
+    - Next week focus
+        - Continuing to bring clarity into my path of coaching
+        - Continuing to practice to detach and be center without any lingerings
+        - Learning to connect with life and withdraw of the distraction of the mind.
+        - Deepening the way of seeing life through translating Michael Singer book
