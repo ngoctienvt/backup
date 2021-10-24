@@ -1,4 +1,4 @@
-- [[📝Weekly Review]]
+- [📝Weekly Review](<📝Weekly Review.md>)
     - Reflection
         - This week has been a week that I'm continuously learning to expand my comfortable zone to connect with other people, to less think in losing, to become more peace with life, to honor life with 
         - 
