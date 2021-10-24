@@ -1,4 +1,14 @@
 - [📝Weekly Review](<📝Weekly Review.md>)
     - Reflection
-        - This week has been a week that I'm continuously learning to expand my comfortable zone to connect with other people, to less think in losing, to become more peace with life, to honor life with 
-        - 
+        - This week has been a week that I'm continuously learning to expand my comfortable zone to connect with other people, to less think in losing, to become more peace with life, to honor life more.
+        - I become more and more detachment to my thoughts and my feelings, it becomes less and less able to influence or to draw me into it to become it.
+        - My physical health is still quite weak, it's still easy to feel breakdown, feel weak, and feel pain.
+        - I start to become more clear and draw more the distinction between coaching and spirituality. In some way, my way of coaching is about supporting clients to discover their inner landscape, and then helping them to facilitate their growth in a way that working more with the inside in a way that has been influence by my own spiritual awakening.
+            - My own spiritual awakening has changed the way I see life in a way that my mind need to learn to go beyond what I have learned from other coaches, other rules and regulations, other models so that I'm able to create my own coaching path. 
+            - I still be drawback and the fear of I'm doing the wrong thing. I will need to re-clarify that how I can make sure that I still follow what coaching truly means to be. It's still quite vague for me about what coaching truly means to be, and what coaching means not to be. This distinction is need to be clear so that I can be in a zone that feel thrive and feel confident about my coaching path.
+        - My mind still quite active about getting in a relationship. I will learn to let go all of the calculations that it's trying to solve, and will let life unfold as it is, and just follow what's happening without concerning about the future.
+    - Next week actions
+        - Clarifying what coaching truly means to be
+        - Learning to operate in the state of not being distracted
+        - Continuing to letting go the inner samskaras
+        - Connecting more with life and centering more behind
